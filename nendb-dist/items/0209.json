@@ -1,0 +1,48 @@
+{
+  "num": "0209",
+  "name": {
+    "en": "Nendoroid Sayaka Miki (ねんどろいど みきさやか)",
+    "ja": "ねんどろいど 美樹さやか (ねんどろいど みきさやか)",
+    "ko": "미키 사야카"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-04",
+      "status": "released"
+    },
+    {
+      "date": "2013-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3343,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111108/3343/16119/large/1c95f490c38198d11beb873278ed0254.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.141Z",
+    "updated_at": "2026-05-15T14:15:10.420Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/209.json"
+}

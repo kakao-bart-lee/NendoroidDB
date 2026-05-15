@@ -1,0 +1,44 @@
+{
+  "num": "1398",
+  "name": {
+    "en": "Nendoroid Junko Enoshima",
+    "ja": "ねんどろいど 江ノ島盾子 (ねんどろいど えのしまじゅんこ)",
+    "ko": "에노시마 준코"
+  },
+  "series": {
+    "en": "Danganronpa 1•2 Reload",
+    "ja": "ダンガンロンパ1・2 Reload",
+    "ko": "단간론파 1・2 리로드",
+    "code": "danganronpa-1-2-reload"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 13072,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220803/13072/102563/large/c24821898498334bea6d8289285cb739.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.528Z",
+    "updated_at": "2026-05-15T14:15:10.731Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1398.json"
+}

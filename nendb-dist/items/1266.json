@@ -1,0 +1,48 @@
+{
+  "num": "1266",
+  "name": {
+    "en": "Nendoroid Chiaki Ogaki",
+    "ja": "ねんどろいど 大垣千明 (ねんどろいど おおがきちあき)",
+    "ko": "오가키 치아키"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    },
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6050,
+  "gsc_product_num": 9192,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200121/9192/66942/large/a74c9c7d970193aeabb3dfee7303d400.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.490Z",
+    "updated_at": "2026-05-15T14:15:10.690Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1266.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0469",
+  "name": {
+    "en": "Nendoroid Batman: Hero's Edition (ねんどろいど ばっとまん ひーろーず・えでぃしょん)",
+    "ja": "ねんどろいど バットマン ヒーローズ・エディション (ねんどろいど ばっとまん ひーろーず・えでぃしょん)",
+    "ko": "베트맨 히어로즈 에디션"
+  },
+  "series": {
+    "en": "The Dark Knight Rises",
+    "ja": "ダークナイト ライジング",
+    "ko": "다크나이트 라이즈",
+    "code": "the-dark-knight-rises"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4701,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141027/4701/31088/large/d5c0f9a24c04c2e0d106b02fd9651a51.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.247Z",
+    "updated_at": "2026-05-15T14:15:10.479Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/469.json"
+}

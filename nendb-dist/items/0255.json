@@ -1,0 +1,44 @@
+{
+  "num": "0255",
+  "name": {
+    "en": "Nendoroid Marika Kato (ねんどろいど かとうまりか)",
+    "ja": "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
+    "ko": "카토 마리카"
+  },
+  "series": {
+    "en": "Bodacious Space Pirates",
+    "ja": "モーレツ宇宙海賊（パイレーツ）",
+    "ko": "미니스커트 우주해적",
+    "code": "bodacious-space-pirates"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3580,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120614/3580/18957/large/2daee7bb8786eebffc231fef4c6d165a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.156Z",
+    "updated_at": "2026-05-15T14:15:10.430Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/255.json"
+}

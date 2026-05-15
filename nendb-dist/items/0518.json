@@ -1,0 +1,48 @@
+{
+  "num": "0518",
+  "name": {
+    "en": "Nendoroid Kashu Kiyomitsu",
+    "ja": "ねんどろいど 加州清光 (ねんどろいど かしゅうきよみつ)",
+    "ko": "카슈 키요미츠"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-09",
+      "status": "released"
+    },
+    {
+      "date": "2018-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4976,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150424/4976/33304/large/9aff25c74615a134f6a71df71df40f30.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.263Z",
+    "updated_at": "2026-05-15T14:15:10.491Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/518.json"
+}

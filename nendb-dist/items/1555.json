@@ -1,0 +1,44 @@
+{
+  "num": "1555",
+  "name": {
+    "en": "Nendoroid Riku: Kingdom Hearts III Ver.",
+    "ja": "ねんどろいど リク キングダム ハーツⅢVer. (ねんどろいど りく きんぐだむ はーつⅢVer.)",
+    "ko": "리쿠 III Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts III",
+    "ja": "キングダム ハーツⅢ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-iii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 10684,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210119/10684/79893/large/f31b062cc95e468f5ad2330c8c44002f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.577Z",
+    "updated_at": "2026-05-15T14:15:10.767Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1555.json"
+}

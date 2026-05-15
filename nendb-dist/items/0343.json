@@ -1,0 +1,44 @@
+{
+  "num": "0343",
+  "name": {
+    "en": "Nendoroid Faris Nyannyan (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ja": "ねんどろいど フェイリス・ニャンニャン (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ko": "페이리스 냥냥"
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3940,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130603/3940/24330/large/8125fce22ca311174d3a1b2ea7b42f7c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.188Z",
+    "updated_at": "2026-05-15T14:15:10.452Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/343.json"
+}

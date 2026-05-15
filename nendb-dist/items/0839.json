@@ -1,0 +1,44 @@
+{
+  "num": "0839",
+  "name": {
+    "en": "Nendoroid Hanzo: Classic Skin Edition",
+    "ja": "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
+    "ko": "한조"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4991,
+  "gsc_product_num": 6781,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171006/6781/48341/large/cf5ce94c7727dffdd4a6f8935dfdc0a6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.369Z",
+    "updated_at": "2026-05-15T14:15:10.579Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/839.json"
+}

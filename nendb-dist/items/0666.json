@@ -1,0 +1,44 @@
+{
+  "num": "0666",
+  "name": {
+    "en": "Nendoroid Elias Ainsworth",
+    "ja": "ねんどろいど エリアス・エインズワース (ねんどろいど えりあす・えいんずわーす)",
+    "ko": "엘리어스 에인즈워스"
+  },
+  "series": {
+    "en": "The Ancient Magus' Bride",
+    "ja": "魔法使いの嫁",
+    "ko": "마법사의 신부",
+    "code": "the-ancient-magus-bride"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5862,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160805/5862/40589/large/f66b4c9a4447632785d95cd2ac0399f4.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.316Z",
+    "updated_at": "2026-05-15T14:15:10.530Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/666.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0419",
+  "name": {
+    "en": "Nendoroid Iona (ねんどろいど いおな)",
+    "ja": "ねんどろいど イオナ (ねんどろいど いおな)",
+    "ko": "이오나"
+  },
+  "series": {
+    "en": "Arpeggio of Blue Steel -Ars Nova-",
+    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "ko": "푸른 강철의 아르페지오",
+    "code": "arpeggio-of-blue-steel-ars-nova"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4406,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140428/4406/28833/large/3ca35c29fb0a169a44ec8b21b2aaabb5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.220Z",
+    "updated_at": "2026-05-15T14:15:10.468Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/419.json"
+}

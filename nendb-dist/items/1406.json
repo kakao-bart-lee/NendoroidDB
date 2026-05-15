@@ -1,0 +1,44 @@
+{
+  "num": "1406",
+  "name": {
+    "en": "Nendoroid Li Xiaoyao",
+    "ja": "ねんどろいど 李逍遙 (ねんどろいど り・しょうよう)",
+    "ko": "이소요"
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9738,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200707/9738/71862/large/99f1596705717b4f358c714712414018.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.530Z",
+    "updated_at": "2026-05-15T14:15:10.733Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1406.json"
+}

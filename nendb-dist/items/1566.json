@@ -1,0 +1,44 @@
+{
+  "num": "1566",
+  "name": {
+    "en": "Nendoroid Kalim Al-Asim",
+    "ja": "ねんどろいど カリム・アルアジーム (ねんどろいど かりむ・あるあじーむ)",
+    "ko": "카림 알 아짐"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 10739,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210129/10739/80446/large/3a1117e7fdc47ab9180b5320c39fd8e2.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.579Z",
+    "updated_at": "2026-05-15T14:15:10.769Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1566.json"
+}

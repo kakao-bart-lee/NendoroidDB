@@ -1,0 +1,48 @@
+{
+  "num": "0801",
+  "name": {
+    "en": "Nendoroid Taki Tachibana",
+    "ja": "ねんどろいど 立花瀧 (ねんどろいど たちばなたき)",
+    "ko": "타치바나 타키"
+  },
+  "series": {
+    "en": "Your Name.",
+    "ja": "君の名は。",
+    "ko": "너의 이름은.",
+    "code": "your-name"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 6595,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170721/6595/46627/large/b7a9c16c70abcf0567c07c91cce5f77a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.357Z",
+    "updated_at": "2026-05-15T14:15:10.569Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/801.json"
+}

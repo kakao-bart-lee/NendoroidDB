@@ -1,0 +1,48 @@
+{
+  "num": "0761",
+  "name": {
+    "en": "Nendoroid Rimi Ushigome",
+    "ja": "ねんどろいど 牛込りみ (ねんどろいど うしごめりみ)",
+    "ko": "우시고메 리미"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6374,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170410/6374/44932/large/547af50790596ce57f89cbc6fa04c9fa.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.345Z",
+    "updated_at": "2026-05-15T14:15:10.558Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/761.json"
+}

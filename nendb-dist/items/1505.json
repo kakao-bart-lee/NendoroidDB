@@ -1,0 +1,44 @@
+{
+  "num": "1505",
+  "name": {
+    "en": "Nendoroid Norman",
+    "ja": "ねんどろいど ノーマン (ねんどろいど のーまん)",
+    "ko": "노먼"
+  },
+  "series": {
+    "en": "The Promised Neverland",
+    "ja": "約束のネバーランド",
+    "ko": "약속의 네버랜드",
+    "code": "the-promised-neverland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 10405,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201113/10405/77435/large/8b9c3c72901353b4379f6941aa94e219.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.561Z",
+    "updated_at": "2026-05-15T14:15:10.755Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1505.json"
+}

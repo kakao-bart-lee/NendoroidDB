@@ -1,0 +1,44 @@
+{
+  "num": "1328",
+  "name": {
+    "en": "Nendoroid Retort",
+    "ja": "ねんどろいど レトルト (ねんどろいど れとると)",
+    "ko": "레토르트"
+  },
+  "series": {
+    "en": "Retort",
+    "ja": "レトルト",
+    "ko": "게임 실황 플레이어",
+    "code": "retort"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 9438,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200421/9438/69134/large/bf19467c1ad82afafaa78516b0e8cf69.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.509Z",
+    "updated_at": "2026-05-15T14:15:10.714Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1328.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0980",
+  "name": {
+    "en": "Nendoroid Jashin-chan",
+    "ja": "ねんどろいど 邪神ちゃん (ねんどろいど じゃしんちゃん)",
+    "ko": "사신짱"
+  },
+  "series": {
+    "en": "Dropkick on my Devil!",
+    "ja": "邪神ちゃんドロップキック",
+    "ko": "사신짱 드롭킥",
+    "code": "dropkick-on-my-devil"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 7540,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180821/7540/53936/large/6823585474ff7e37b3ebd68ecf8979de.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.408Z",
+    "updated_at": "2026-05-15T14:15:10.616Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/980.json"
+}

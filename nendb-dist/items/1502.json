@@ -1,0 +1,44 @@
+{
+  "num": "1502",
+  "name": {
+    "en": "Nendoroid Joseph Joestar",
+    "ja": "ねんどろいど ジョセフ・ジョースター (ねんどろいど ジョセフ・ジョースター)",
+    "ko": "죠셉 죠스타"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 10302,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201026/10302/76376/large/fc063546b839b84abc58407c927f2f89.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.560Z",
+    "updated_at": "2026-05-15T14:15:10.754Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1502.json"
+}

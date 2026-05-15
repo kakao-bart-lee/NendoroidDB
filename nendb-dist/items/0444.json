@@ -1,0 +1,48 @@
+{
+  "num": "0444",
+  "name": {
+    "en": "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)",
+    "ja": "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
+    "ko": "야자와 니코"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-11",
+      "status": "released"
+    },
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4511,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140718/4511/29817/large/b6b2d12bd4acffe50dff1206184f84f7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.237Z",
+    "updated_at": "2026-05-15T14:15:10.474Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/444.json"
+}

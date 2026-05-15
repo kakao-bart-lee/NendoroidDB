@@ -1,0 +1,52 @@
+{
+  "num": "0466",
+  "name": {
+    "en": "Nendoroid Kurumi Tokisaki (ねんどろいど ときさきくるみ)",
+    "ja": "ねんどろいど 時崎狂三 (ねんどろいど ときさきくるみ)",
+    "ko": "토키사키 쿠루미"
+  },
+  "series": {
+    "en": "Date A Live II",
+    "ja": "デート・ア・ライブⅡ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live-ii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-02",
+      "status": "released"
+    },
+    {
+      "date": "2017-03",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4694,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141021/4694/31009/large/0864c1db410e104bbe70bdb368eb1e02.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.246Z",
+    "updated_at": "2026-05-15T14:15:10.478Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/466.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0580",
+  "name": {
+    "en": "Nendoroid Eli Ayase: Training Outfit Ver.",
+    "ja": "ねんどろいど 絢瀬絵里 練習着Ver. (ねんどろいど あやせえり れんしゅうぎVer.)",
+    "ko": "아야세 에리 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 5314,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151106/5314/36228/large/f6f52e8cdf4051c41edcce31683e4080.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.281Z",
+    "updated_at": "2026-05-15T14:15:10.509Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/580.json"
+}

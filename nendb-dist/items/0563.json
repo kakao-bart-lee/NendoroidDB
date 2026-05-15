@@ -1,0 +1,52 @@
+{
+  "num": "0563",
+  "name": {
+    "en": "Nendoroid Toru Oikawa",
+    "ja": "ねんどろいど 及川徹 (ねんどろいど おいかわとおる)",
+    "ko": "오이카와 토오루"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-01",
+      "status": "released"
+    },
+    {
+      "date": "2017-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 5222,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150910/5222/35456/large/976e1ed002159c3aef30d79a8cc4cf39.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.276Z",
+    "updated_at": "2026-05-15T14:15:10.504Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/563.json"
+}

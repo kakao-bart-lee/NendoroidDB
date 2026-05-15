@@ -1,0 +1,48 @@
+{
+  "num": "1800",
+  "name": {
+    "en": "Nendoroid Snow Miku: Grand Voyage Ver.",
+    "ja": "ねんどろいど 雪ミク Grand Voyage Ver. (ねんどろいど ゆきみく ぐらんど ぼやーじゅVer.)",
+    "ko": "유키 미쿠 Grand Voyage Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-02",
+      "status": "released"
+    },
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 12151,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211220/12151/93552/large/92d0dac28db3196214344f93eae246aa.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.641Z",
+    "updated_at": "2026-05-15T14:15:10.818Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1800.json"
+}

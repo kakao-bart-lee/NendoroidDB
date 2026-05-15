@@ -1,0 +1,44 @@
+{
+  "num": "0578a",
+  "name": {
+    "en": "Nendoroid Nipako",
+    "ja": "ねんどろいど ニパ子 (ねんどろいど にぱこ)",
+    "ko": "니퍼코"
+  },
+  "series": {
+    "en": "Ultimate! Nipako-chan",
+    "ja": "あるてぃめっと！ニパ子ちゃん",
+    "ko": "얼티메이트! 니퍼코 짱",
+    "code": "ultimate-nipako-chan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4620,
+  "gsc_product_num": 5311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151105/5311/36207/large/354d2596d12521df908adc6fb40b8c42.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.280Z",
+    "updated_at": "2026-05-15T14:15:10.508Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/578a.json"
+}

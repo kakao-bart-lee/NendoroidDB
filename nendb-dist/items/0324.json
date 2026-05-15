@@ -1,0 +1,44 @@
+{
+  "num": "0324",
+  "name": {
+    "en": "Nendoroid Akane Tsunemori (ねんどろいど つねもりあかね)",
+    "ja": "ねんどろいど 常守朱 (ねんどろいど つねもりあかね)",
+    "ko": "츠네모리 아카네"
+  },
+  "series": {
+    "en": "PSYCHO-PASS",
+    "ja": "PSYCHO-PASS",
+    "ko": "PSYCHO-PASS",
+    "code": "psycho-pass"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3892,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130424/3892/23593/large/eb1bab6064cf9ae55e3df0640d4474c8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.180Z",
+    "updated_at": "2026-05-15T14:15:10.446Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/324.json"
+}

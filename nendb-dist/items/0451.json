@@ -1,0 +1,44 @@
+{
+  "num": "0451",
+  "name": {
+    "en": "Nendoroid Himiko (ねんどろいど ひみこ)",
+    "ja": "ねんどろいど ヒミコ (ねんどろいど ひみこ)",
+    "ko": "히미코"
+  },
+  "series": {
+    "en": "Nobunaga the Fool",
+    "ja": "ノブナガ・ザ・フール",
+    "ko": "노부나가 더 풀",
+    "code": "nobunaga-the-fool"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4557,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140822/4557/30093/large/243de6666e36b7017c9b7e72aa79db03.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.239Z",
+    "updated_at": "2026-05-15T14:15:10.476Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/451.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1483",
+  "name": {
+    "en": "Nendoroid Rena Ryugu",
+    "ja": "ねんどろいど 竜宮レナ (ねんどろいど りゅうぐうれな)",
+    "ko": "류구 레나"
+  },
+  "series": {
+    "en": "Higurashi: When They Cry - GOU",
+    "ja": "ひぐらしのなく頃に 業",
+    "ko": "쓰르라미 울 적에",
+    "code": "higurashi-when-they-cry-gou"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10245,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201017/10245/76018/large/299c434a4a8107f046c3789d0a726bd8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.553Z",
+    "updated_at": "2026-05-15T14:15:10.750Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1483.json"
+}

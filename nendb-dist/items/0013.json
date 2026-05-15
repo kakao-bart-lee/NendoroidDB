@@ -1,0 +1,44 @@
+{
+  "num": "0013",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど へたれセイバーオルタ (ねんどろいど へたれせいばーおるた)",
+    "ko": "헤타레 세이버 얼터"
+  },
+  "series": {
+    "en": null,
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": null
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2007-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3355,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111125/3355/16274/large/3a63a9804c5cab1afd1cc03a498aaecc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.068Z",
+    "updated_at": "2026-05-15T14:15:10.377Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/013.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0722",
+  "name": {
+    "en": "Nendoroid Homura Akemi: Haregi Ver.",
+    "ja": "ねんどろいど 暁美ほむら 晴着Ver. (ねんどろいど あけみほむら はれぎVer.)",
+    "ko": "아케미 호무라 하레기 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6175,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170113/6175/43188/large/090a6c0df4837d67bd800816a01302eb.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.333Z",
+    "updated_at": "2026-05-15T14:15:10.548Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/722.json"
+}

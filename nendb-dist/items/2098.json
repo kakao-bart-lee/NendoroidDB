@@ -1,0 +1,44 @@
+{
+  "num": "2098",
+  "name": {
+    "en": "Nendoroid Nagatoro",
+    "ja": "ねんどろいど 長瀞さん (ねんどろいど ながとろさん)",
+    "ko": "나가토로양"
+  },
+  "series": {
+    "en": "DON'T TOY WITH ME, MISS NAGATORO Season 2",
+    "ja": "イジらないで、長瀞さん 2nd Attack",
+    "ko": "괴롭히지 말아요",
+    "code": "don-t-toy-with-me-miss-nagatoro-season-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14109,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230314/14109/113201/large/02adf702e1b2e78e711df73f1cd225f6.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.724Z",
+    "updated_at": "2026-05-15T14:15:10.881Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2098.json"
+}

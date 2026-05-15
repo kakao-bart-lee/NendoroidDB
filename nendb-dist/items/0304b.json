@@ -1,0 +1,44 @@
+{
+  "num": "0304b",
+  "name": {
+    "en": "Nendoroid Rin & wooser: Light Ver. (ねんどろいど りん＆うーさー おてがるVer.)",
+    "ja": "ねんどろいど りん＆うーさー お手軽Ver. (ねんどろいど りん＆うーさー おてがるVer.)",
+    "ko": "린&우서 간편 Ver."
+  },
+  "series": {
+    "en": "wooser's hand-to-mouth life: phantasmagoric arc",
+    "ja": "うーさーのその日暮らし 夢幻編",
+    "ko": "우서의 하루살이",
+    "code": "wooser-s-hand-to-mouth-life-phantasmagoric-arc"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 2852,
+  "gsc_product_num": 4888,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150313/4888/32641/large/b2782a458818cc336b8153e2d386c450.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.173Z",
+    "updated_at": "2026-05-15T14:15:10.441Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/304b.json"
+}

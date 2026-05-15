@@ -1,0 +1,44 @@
+{
+  "num": "1197",
+  "name": {
+    "en": "Nendoroid Rei Ayanami",
+    "ja": "ねんどろいど 綾波レイ (ねんどろいど あやなみれい)",
+    "ko": "아야나미 레이"
+  },
+  "series": {
+    "en": "Rebuild of Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "ko": "에반게리온",
+    "code": "rebuild-of-evangelion"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 8727,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190823/8727/63118/large/cdbb77c15986807e433add11652d50bd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.469Z",
+    "updated_at": "2026-05-15T14:15:10.671Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1197.json"
+}

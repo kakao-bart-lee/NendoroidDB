@@ -1,0 +1,44 @@
+{
+  "num": "0261",
+  "name": {
+    "en": "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ja": "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ko": "하츠네 미쿠 유카타 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3643,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120816/3643/19923/large/f58a82f8a34da03da993568548b4a35a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.158Z",
+    "updated_at": "2026-05-15T14:15:10.431Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/261.json"
+}

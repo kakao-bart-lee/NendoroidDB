@@ -1,0 +1,44 @@
+{
+  "num": "0600b",
+  "name": {
+    "en": "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver.",
+    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
+    "ko": "세이버/알트리아 펜드래곤 진명 개방 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7614,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180914/7614/54512/large/9e0405b1369e08ffd17e9541fbbf198e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.290Z",
+    "updated_at": "2026-05-15T14:15:10.514Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/600b.json"
+}

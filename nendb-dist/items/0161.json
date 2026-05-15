@@ -1,0 +1,44 @@
+{
+  "num": "0161",
+  "name": {
+    "en": "Nendoroid Stocking (ねんどろいど すとっきんぐ)",
+    "ja": "ねんどろいど ストッキング (ねんどろいど すとっきんぐ)",
+    "ko": "아나키 스타킹"
+  },
+  "series": {
+    "en": "Panty & Stocking with Garterbelt",
+    "ja": "Panty&Stocking with Garterbelt",
+    "ko": "팬티&스타킹with가터벨트",
+    "code": "panty-stocking-with-garterbelt"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3099,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110223/3099/12990/large/accfa5adc60665473e1c2d98e980d0d8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.123Z",
+    "updated_at": "2026-05-15T14:15:10.410Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/161.json"
+}

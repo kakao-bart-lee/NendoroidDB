@@ -1,0 +1,48 @@
+{
+  "num": "2161",
+  "name": {
+    "en": "Nendoroid Cheng Xiaoshi",
+    "ja": "ねんどろいど 程小時(トキ) (ねんどろいど ちょんしゃおしー(とき))",
+    "ko": "청샤오시"
+  },
+  "series": {
+    "en": "LINK CLICK",
+    "ja": "時光代理人",
+    "ko": "시광대리인",
+    "code": "link-click"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    },
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230707/14639/117991/large/f4ef52d5e3776895e3a862e2a68a7d30.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.744Z",
+    "updated_at": "2026-05-15T14:15:10.896Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2161.json"
+}

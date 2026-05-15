@@ -1,0 +1,44 @@
+{
+  "num": "1187",
+  "name": {
+    "en": "Nendoroid Severus Snape",
+    "ja": "ねんどろいど セブルス・スネイプ (ねんどろいど せぶるす・すねいぷ)",
+    "ko": "세베루스 스네이프"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 8691,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190821/8691/62922/large/ec7b9e07be67627ab4f6aadbb2858b01.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.466Z",
+    "updated_at": "2026-05-15T14:15:10.669Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1187.json"
+}

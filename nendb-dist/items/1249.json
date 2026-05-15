@@ -1,0 +1,44 @@
+{
+  "num": "1249",
+  "name": {
+    "en": "Nendoroid Cuddle Team Leader",
+    "ja": "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
+    "ko": "포옹팀 리더"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 9041,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191202/9041/65691/large/2bd132976b4d4f2cd41c1df293a26991.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.485Z",
+    "updated_at": "2026-05-15T14:15:10.685Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1249.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0884",
+  "name": {
+    "en": "Nendoroid Rider of \"Black\"",
+    "ja": "ねんどろいど “黒”のライダー (ねんどろいど “くろ”のらいだー)",
+    "ko": "흑의 라이더"
+  },
+  "series": {
+    "en": "Fate/Apocrypha",
+    "ja": "Fate/Apocrypha",
+    "ko": "페이트 시리즈",
+    "code": "fate-apocrypha"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 7024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180130/7024/49925/large/10ac84d80a7d6e13599bac3331932f1b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.381Z",
+    "updated_at": "2026-05-15T14:15:10.589Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/884.json"
+}

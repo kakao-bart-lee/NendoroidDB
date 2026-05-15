@@ -1,0 +1,44 @@
+{
+  "num": "1625",
+  "name": {
+    "en": "Nendoroid Somali",
+    "ja": "ねんどろいど ソマリ (ねんどろいど そまり)",
+    "ko": "소말리"
+  },
+  "series": {
+    "en": "Somali and the Forest Spirit",
+    "ja": "ソマリと森の神様",
+    "ko": "소말리와 숲의 신",
+    "code": "somali-and-the-forest-spirit"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6380,
+  "gsc_product_num": 11145,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11145/84079/large/2f0bc37eba0058f48faf89242bb5af0a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.596Z",
+    "updated_at": "2026-05-15T14:15:10.782Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1625.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0188",
+  "name": {
+    "en": "Nendoroid Millhiore F. Biscotti (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ja": "ねんどろいど ミルヒオーレ・F・ ビスコッティ (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ko": "밀피오레 F. 비스코티"
+  },
+  "series": {
+    "en": "DOG DAYS",
+    "ja": "DOG DAYS",
+    "ko": "DOG DAYS",
+    "code": "dog-days"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4714,
+  "gsc_product_num": 3246,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110808/3246/14921/large/150dff93dfdaa9a75e47e5af0f0a8f77.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.134Z",
+    "updated_at": "2026-05-15T14:15:10.417Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/188.json"
+}

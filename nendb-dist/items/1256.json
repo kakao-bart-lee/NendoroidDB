@@ -1,0 +1,44 @@
+{
+  "num": "1256",
+  "name": {
+    "en": "Nendoroid Rohan Kishibe",
+    "ja": "ねんどろいど 岸辺露伴 (ねんどろいど きしべろはん)",
+    "ko": "키시베 로한"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-diamond-is-unbreakable"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 9068,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191210/9068/65927/large/0bc51291aec48d32ea9b65ad0862764a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.488Z",
+    "updated_at": "2026-05-15T14:15:10.688Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1256.json"
+}

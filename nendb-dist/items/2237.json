@@ -1,0 +1,44 @@
+{
+  "num": "2237",
+  "name": {
+    "en": "Nendoroid Souta Munakata",
+    "ja": "ねんどろいど 宗像草太 (ねんどろいど むなかたそうた)",
+    "ko": "무나카타 소타"
+  },
+  "series": {
+    "en": "Suzume",
+    "ja": "すずめの戸締まり",
+    "ko": "스즈메의 문단속",
+    "code": "suzume"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14908,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230831/14908/120532/large/a1b6a9104e009605b06e07abd4597d37.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.763Z",
+    "updated_at": "2026-05-15T14:15:10.911Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2237.json"
+}

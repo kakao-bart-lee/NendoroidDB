@@ -1,0 +1,48 @@
+{
+  "num": "1361",
+  "name": {
+    "en": "Nendoroid Inosuke Hashibira",
+    "ja": "ねんどろいど 嘴平伊之助 (ねんどろいど はしびらいのすけ)",
+    "ko": "하시비라 이노스케"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 9605,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200603/9605/70419/large/c42debbc41aabb7146103d7540c02ee7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.518Z",
+    "updated_at": "2026-05-15T14:15:10.722Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1361.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0215",
+  "name": {
+    "en": "Nendoroid Saber & Rin Tohsaka : Cheerful ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ja": "ねんどろいど セイバー＆遠坂凛 応援Ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ko": "세이버&토오사카 린 응원 Ver."
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6286,
+  "gsc_product_num": 3399,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111130/3399/16497/large/e226d35459ac12dd69b4182888de690f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.143Z",
+    "updated_at": "2026-05-15T14:15:10.422Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/215.json"
+}

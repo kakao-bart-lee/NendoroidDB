@@ -1,0 +1,44 @@
+{
+  "num": "0320",
+  "name": {
+    "en": "Nendoroid Sasami Tsukuyomi (ねんどろいど つくよみささみ)",
+    "ja": "ねんどろいど 月読鎖々美 (ねんどろいど つくよみささみ)",
+    "ko": "츠쿠요미 사사미"
+  },
+  "series": {
+    "en": "Sasami-san@Ganbaranai",
+    "ja": "ささみさん＠がんばらない",
+    "ko": "사사미양@노력하지않아",
+    "code": "sasami-san-ganbaranai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3872,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130401/3872/23245/large/fa45f3d4ee64ae74a54ec4b8103b408d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.178Z",
+    "updated_at": "2026-05-15T14:15:10.445Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/320.json"
+}

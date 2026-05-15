@@ -1,0 +1,44 @@
+{
+  "num": "2181",
+  "name": {
+    "en": "Nendoroid Matsuri Kazamaki",
+    "ja": "ねんどろいど 風巻祭里 (ねんどろいど かざまきまつり)",
+    "ko": "카자마키 마츠리"
+  },
+  "series": {
+    "en": "Ayakashi Triangle",
+    "ja": "あやかしトライアングル",
+    "ko": "아야카시 트라이앵글",
+    "code": "ayakashi-triangle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7200,
+  "gsc_product_num": 14539,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230620/14539/116944/large/2ef461166699adaab0538440703b3e1d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.750Z",
+    "updated_at": "2026-05-15T14:15:10.900Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2181.json"
+}

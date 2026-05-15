@@ -1,0 +1,48 @@
+{
+  "num": "0646",
+  "name": {
+    "en": "Nendoroid Korra",
+    "ja": "ねんどろいど コーラ (ねんどろいど こーら)",
+    "ko": "코라"
+  },
+  "series": {
+    "en": "The Legend of Korra",
+    "ja": "ザ・レジェンド・オブ・コーラ",
+    "ko": "코라의 전설",
+    "code": "the-legend-of-korra"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 5767,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160627/5767/39779/large/65c357d72d53ec5d77a08aace147383f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.307Z",
+    "updated_at": "2026-05-15T14:15:10.525Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/646.json"
+}

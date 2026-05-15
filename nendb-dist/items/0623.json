@@ -1,0 +1,48 @@
+{
+  "num": "0623",
+  "name": {
+    "en": "Nendoroid Osomatsu Matsuno",
+    "ja": "ねんどろいど 松野おそ松 (ねんどろいど まつのおそまつ)",
+    "ko": "마츠노 오소마츠"
+  },
+  "series": {
+    "en": "Osomatsu-san",
+    "ja": "おそ松さん",
+    "ko": "오소마츠 상",
+    "code": "osomatsu-san"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    },
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 5624,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160421/5624/38686/large/cb000380a1c0a644acf8db273cd61a53.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.299Z",
+    "updated_at": "2026-05-15T14:15:10.520Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/623.json"
+}

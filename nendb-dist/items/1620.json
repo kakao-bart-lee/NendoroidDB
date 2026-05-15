@@ -1,0 +1,44 @@
+{
+  "num": "1620",
+  "name": {
+    "en": "Nendoroid Malleus Draconia",
+    "ja": "ねんどろいど マレウス・ドラコニア (ねんどろいど まれうす・どらこにあ)",
+    "ko": "말레우스 드라코니아"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 11190,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210513/11190/84613/large/5e0b48b3615d4f34ee948d93af1abd6b.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.595Z",
+    "updated_at": "2026-05-15T14:15:10.781Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1620.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0082",
+  "name": {
+    "en": "Nendoroid Mio Akiyama (あきやま みお ねんどろいどあきやま みお ねんどろいど)",
+    "ja": "ねんどろいど 秋山 澪 (ねんどろいど　あきやまみお)",
+    "ko": "아키야마 미오"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2558,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2558/7463/large/b001628b4ef570bb6964ffa101b71dc1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.094Z",
+    "updated_at": "2026-05-15T14:15:10.393Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/082.json"
+}

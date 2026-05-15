@@ -1,0 +1,44 @@
+{
+  "num": "1609",
+  "name": {
+    "en": "Nendoroid Bondrewd",
+    "ja": "ねんどろいど ボンドルド (ねんどろいど ぼんどるど)",
+    "ko": "본도르드"
+  },
+  "series": {
+    "en": "Made in Abyss: Dawn of the Deep Soul",
+    "ja": "劇場版「メイドインアビス」-深き魂の黎明-",
+    "ko": "메이드 인 어비스",
+    "code": "made-in-abyss-dawn-of-the-deep-soul"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 11091,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210415/11091/83597/large/5a8474c91409d8eb8e763c0622578c8c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.591Z",
+    "updated_at": "2026-05-15T14:15:10.778Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1609.json"
+}

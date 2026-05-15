@@ -1,0 +1,44 @@
+{
+  "num": "1149",
+  "name": {
+    "en": "Nendoroid Seijuro Akashi Special Box",
+    "ja": "ねんどろいど 赤司征十郎 Special Box (ねんどろいど あかしせいじゅうろう すぺしゃるぼっくす)",
+    "ko": "아카시 세이주로"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5700,
+  "gsc_product_num": 8439,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190618/8439/61085/large/6a3c60cefe4910a5dec0279a43fc9d97.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.456Z",
+    "updated_at": "2026-05-15T14:15:10.660Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1149.json"
+}

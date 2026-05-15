@@ -1,0 +1,44 @@
+{
+  "num": "1459-DX",
+  "name": {
+    "en": "Nendoroid Ne Zha DX Ver.",
+    "ja": "ねんどろいど 哪吒 DX Ver. (ねんどろいど なた DX Ver.)",
+    "ko": "나타 DX"
+  },
+  "series": {
+    "en": "Ne Zha",
+    "ja": "哪吒之魔童降世",
+    "ko": "나타지마동강세",
+    "code": "ne-zha"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 10686,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210119/10686/79916/large/4804133bfbce7aa1f4a40bb4fd992308.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.546Z",
+    "updated_at": "2026-05-15T14:15:10.745Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1459-DX.json"
+}

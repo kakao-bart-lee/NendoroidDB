@@ -1,0 +1,44 @@
+{
+  "num": "1700",
+  "name": {
+    "en": "Nendoroid Mysterious Neko X",
+    "ja": "ねんどろいど 謎のネコX (ねんどろいど なぞのねこX)",
+    "ko": "수수께끼의 네코X"
+  },
+  "series": {
+    "en": "Fate/Grand Carnival",
+    "ja": "Fate/Grand Carnival",
+    "ko": "Fate/Grand Carnival",
+    "code": "fate-grand-carnival"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 11773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210910/11773/89790/large/7e86cfd33960e06dde3631c9e4dbaf30.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.617Z",
+    "updated_at": "2026-05-15T14:15:10.799Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1700.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0328",
+  "name": {
+    "en": "Nendoroid Cryska Barchenowa (ねんどろいど くりすか・びゃーちゅのわ)",
+    "ja": "ねんどろいど クリスカ・ビャーチェノワ (ねんどろいど くりすか・びゃーちぇのわ)",
+    "ko": "크리스카 뱌체노바"
+  },
+  "series": {
+    "en": "MUV-LUV Alternative: Total Eclipse",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "code": "muv-luv-alternative-total-eclipse"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4714,
+  "gsc_product_num": 3913,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130515/3913/23885/large/7ddf6467f672c2d4033778305f66a087.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.182Z",
+    "updated_at": "2026-05-15T14:15:10.447Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/328.json"
+}

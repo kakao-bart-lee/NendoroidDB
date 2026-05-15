@@ -1,0 +1,56 @@
+{
+  "num": "0682",
+  "name": {
+    "en": "Nendoroid Naruto Uzumaki",
+    "ja": "ねんどろいど うずまきナルト (ねんどろいど うずまきなると)",
+    "ko": "우즈마키 나루토"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-04",
+      "status": "released"
+    },
+    {
+      "date": "2018-12",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 5981,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160927/5981/41611/large/0f58f392049cc3bd84dd716ce1f7944d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.321Z",
+    "updated_at": "2026-05-15T14:15:10.533Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/682.json"
+}

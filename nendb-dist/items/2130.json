@@ -1,0 +1,44 @@
+{
+  "num": "2130",
+  "name": {
+    "en": "Nendoroid Elf",
+    "ja": "ねんどろいど エルフ (ねんどろいど えるふ)",
+    "ko": "엘프"
+  },
+  "series": {
+    "en": "Uncle from Another World",
+    "ja": "異世界おじさん",
+    "ko": "이세계 삼촌",
+    "code": "uncle-from-another-world"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6700,
+  "gsc_product_num": 14320,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230425/14320/114877/large/d4194f4083c828c93b867b380db5e064.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.734Z",
+    "updated_at": "2026-05-15T14:15:10.889Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2130.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0940",
+  "name": {
+    "en": "Nendoroid Ye Xiu",
+    "ja": "ねんどろいど 葉修 (ねんどろいど いえしゅう)",
+    "ko": "예슈"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-11",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7300,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180524/7300/52243/large/a61dfa5193dcd1b60e2f29a1921d035a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.397Z",
+    "updated_at": "2026-05-15T14:15:10.605Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/940.json"
+}

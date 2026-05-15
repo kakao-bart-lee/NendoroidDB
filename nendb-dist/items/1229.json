@@ -1,0 +1,48 @@
+{
+  "num": "1229",
+  "name": {
+    "en": "Nendoroid Wei Wuxian: Yi Ling Lao Zu Ver.",
+    "ja": "ねんどろいど 魏無羨 夷陵老祖Ver. (ねんどろいど ぎむせん いりょうろうそVer.)",
+    "ko": "위무선 이릉노조 Ver."
+  },
+  "series": {
+    "en": "The Master of Diabolism",
+    "ja": "アニメ「魔道祖師」",
+    "ko": "마도조사",
+    "code": "the-master-of-diabolism"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 8927,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191025/8927/64746/large/14d1d11dd0271eec0ec7ea2bedf8e1af.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.479Z",
+    "updated_at": "2026-05-15T14:15:10.680Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1229.json"
+}

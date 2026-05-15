@@ -1,0 +1,52 @@
+{
+  "num": "0354",
+  "name": {
+    "en": "Nendoroid Tohka Yatogami (ねんどろいど やとがみとおか)",
+    "ja": "ねんどろいど 夜刀神十香 (ねんどろいど やとがみとおか)",
+    "ko": "야토가미 토카"
+  },
+  "series": {
+    "en": "Date A Live",
+    "ja": "デート・ア・ライブ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-12",
+      "status": "released"
+    },
+    {
+      "date": "2017-03",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130726/4011/42206/large/c884f54c4fab2a9c4e1e3830f5ec1716.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.192Z",
+    "updated_at": "2026-05-15T14:15:10.453Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/354.json"
+}

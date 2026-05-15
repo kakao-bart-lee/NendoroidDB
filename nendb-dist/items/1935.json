@@ -1,0 +1,44 @@
+{
+  "num": "1935",
+  "name": {
+    "en": "Nendoroid Marin Kitagawa",
+    "ja": "ねんどろいど 喜多川海夢 (ねんどろいど きたがわまりん)",
+    "ko": "키타가와 마린"
+  },
+  "series": {
+    "en": "My Dress-Up Darling",
+    "ja": "その着せ替え人形（ビスク・ドール）は恋をする",
+    "ko": "그 비스크 돌은 사랑을 한다",
+    "code": "my-dress-up-darling"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13069,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220803/13069/102512/large/ab71efd08f4681a27192efe9dffd57f2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.678Z",
+    "updated_at": "2026-05-15T14:15:10.848Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1935.json"
+}

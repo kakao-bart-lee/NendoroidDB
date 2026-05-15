@@ -1,0 +1,44 @@
+{
+  "num": "1583",
+  "name": {
+    "en": "Nendoroid Komari Koshigaya",
+    "ja": "ねんどろいど 越谷小鞠 (ねんどろいど こしがやこまり)",
+    "ko": "코시가야 코마리"
+  },
+  "series": {
+    "en": "Non Non Biyori Nonstop",
+    "ja": "のんのんびより のんすとっぷ",
+    "ko": "논논비요리",
+    "code": "non-non-biyori-nonstop"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 10894,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210303/10894/81850/large/8b5829173f83d5fd0fa9bc71d6d7626e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.584Z",
+    "updated_at": "2026-05-15T14:15:10.772Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1583.json"
+}

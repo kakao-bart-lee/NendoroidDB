@@ -1,0 +1,44 @@
+{
+  "num": "0750",
+  "name": {
+    "en": "Nendoroid Kirito & Asuna: O.S Ver.",
+    "ja": "ねんどろいど キリト＆アスナ O.S Ver. (ねんどろいど きりと＆あすな おーでぃなる・すけーる ver.)",
+    "ko": "키리토&아스나 O.S Ver."
+  },
+  "series": {
+    "en": "Sword Art Online The Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-the-movie-ordinal-scale"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 6475,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170529/6475/45684/large/0dafe2d4b024f2f83027e578aa46fd31.jpg",
+    "gallery": []
+  },
+  "character_gender": "M&F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.341Z",
+    "updated_at": "2026-05-15T14:15:10.555Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/750.json"
+}

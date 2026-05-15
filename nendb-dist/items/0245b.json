@@ -1,0 +1,44 @@
+{
+  "num": "0245b",
+  "name": {
+    "en": "Nendoroid Annelotte : Dark Knight Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ja": "ねんどろいど アンネロッテ 狂騎士Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ko": "안네로테 광기사 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade Rebellion",
+    "ja": "クイーンズブレイド リベリオン",
+    "ko": "퀸즈 블레이드 리벨리온",
+    "code": "queen-s-blade-rebellion"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120524/3559/18565/large/5fceabb024710d028c8edbec0f0640e8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.153Z",
+    "updated_at": "2026-05-15T14:15:10.428Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/245b.json"
+}

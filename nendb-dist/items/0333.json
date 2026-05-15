@@ -1,0 +1,44 @@
+{
+  "num": "0333",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Yukata Ver. Natsutsubaki (ねんどろいど はつねみく ゆかたVer. なつつばき)",
+    "ja": "ねんどろいど 初音ミク 浴衣Ver. 夏椿 (ねんどろいど はつねみく ゆかたVer. なつつばき)",
+    "ko": "하츠네 미쿠 유카타 Ver. 여름동백"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3352,
+  "gsc_product_num": 3931,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130528/3931/24210/large/1f4c16a42c5a606136027c93be8775ef.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.184Z",
+    "updated_at": "2026-05-15T14:15:10.448Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/333.json"
+}

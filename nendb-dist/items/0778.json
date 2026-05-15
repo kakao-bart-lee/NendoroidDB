@@ -1,0 +1,44 @@
+{
+  "num": "0778",
+  "name": {
+    "en": "Nendoroid Mutsuki Kai-II",
+    "ja": "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
+    "ko": "무츠키 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 6471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170526/6471/45637/large/986e6b21f996dc08a2ac40717fdf8a3c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.351Z",
+    "updated_at": "2026-05-15T14:15:10.562Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/778.json"
+}

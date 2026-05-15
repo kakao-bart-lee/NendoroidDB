@@ -1,0 +1,44 @@
+{
+  "num": "0306",
+  "name": {
+    "en": "Nendoroid Houki Shinonono (ねんどろいど しのののほうき)",
+    "ja": "ねんどろいど 篠ノ之箒 (ねんどろいど しのののほうき)",
+    "ko": "시노노노 호키"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3791,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20121217/3791/22003/large/941a5caedd05b040d3422f37db8673bf.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.173Z",
+    "updated_at": "2026-05-15T14:15:10.441Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/306.json"
+}

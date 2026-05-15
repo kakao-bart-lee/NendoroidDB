@@ -1,0 +1,56 @@
+{
+  "num": "0540",
+  "name": {
+    "en": "Nendoroid Tsurumaru Kuninaga",
+    "ja": "ねんどろいど 鶴丸国永 (ねんどろいど つるまるくになが)",
+    "ko": "츠루마루 쿠니나가"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-12",
+      "status": "released"
+    },
+    {
+      "date": "2016-11",
+      "status": "released"
+    },
+    {
+      "date": "2018-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4481,
+  "gsc_product_num": 5100,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150626/5100/34379/large/08c673530e679419339a5dd3a2368851.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.270Z",
+    "updated_at": "2026-05-15T14:15:10.497Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/540.json"
+}

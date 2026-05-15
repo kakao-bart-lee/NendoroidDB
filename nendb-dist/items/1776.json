@@ -1,0 +1,44 @@
+{
+  "num": "1776",
+  "name": {
+    "en": "Nendoroid Skeletor",
+    "ja": "ねんどろいど スケルター (ねんどろいど すけるたー)",
+    "ko": "스켈레토"
+  },
+  "series": {
+    "en": "Masters of the Universe: Revelation",
+    "ja": "マスターズ・オブ・ユニバース: 黙示録",
+    "ko": "우주의 영웅들:새로운 진실",
+    "code": "masters-of-the-universe-revelation"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 12064,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211129/12064/93405/large/6ffcf74f7aaaa7adea93fde1ede56fd5.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.636Z",
+    "updated_at": "2026-05-15T14:15:10.813Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1776.json"
+}

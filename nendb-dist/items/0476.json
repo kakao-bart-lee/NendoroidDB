@@ -1,0 +1,44 @@
+{
+  "num": "0476",
+  "name": {
+    "en": "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)",
+    "ja": "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
+    "ko": "황 링인"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4400,
+  "gsc_product_num": 4722,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141111/4722/31307/large/108457dc0d0d6b94c9a0b3b19f8b4501.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.249Z",
+    "updated_at": "2026-05-15T14:15:10.481Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/476.json"
+}

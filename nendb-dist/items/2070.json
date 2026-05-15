@@ -1,0 +1,44 @@
+{
+  "num": "2070",
+  "name": {
+    "en": "Nendoroid Lan Wangji: Year of the Rabbit Ver.",
+    "ja": "ねんどろいど 藍忘機 卯年限定Ver. (ねんどろいど らんぼうき うどしげんていVer.)",
+    "ko": "남망기: 토끼해 Ver."
+  },
+  "series": {
+    "en": "The Master of Diabolism",
+    "ja": "アニメ「魔道祖師」",
+    "ko": "마도조사",
+    "code": "the-master-of-diabolism"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7800,
+  "gsc_product_num": 13919,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230202/13919/111114/large/3ca9516ab1dc3d9fc90b7671242d7523.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.716Z",
+    "updated_at": "2026-05-15T14:15:10.876Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2070.json"
+}

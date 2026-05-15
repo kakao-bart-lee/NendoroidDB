@@ -1,0 +1,48 @@
+{
+  "num": "0492",
+  "name": {
+    "en": "Nendoroid Rider",
+    "ja": "ねんどろいど ライダー (ねんどろいど らいだー)",
+    "ko": "라이더"
+  },
+  "series": {
+    "en": "Fate/stay night: Heaven's Feel",
+    "ja": "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-heaven-s-feel"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 4816,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150105/4816/32013/large/60c81f7968af752080bdf3be5de335a5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.255Z",
+    "updated_at": "2026-05-15T14:15:10.485Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/492.json"
+}

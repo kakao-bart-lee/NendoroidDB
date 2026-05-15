@@ -1,0 +1,44 @@
+{
+  "num": "0869",
+  "name": {
+    "en": "Nendoroid Nagisa Furukawa",
+    "ja": "ねんどろいど 古河渚 (ねんどろいど ふるかわなぎさ)",
+    "ko": "후루카와 나기사"
+  },
+  "series": {
+    "en": "CLANNAD",
+    "ja": "CLANNAD",
+    "ko": "CLANNAD",
+    "code": "clannad"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6959,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171218/6959/49401/large/16c51518dc15e0a325f9b09cb5837b68.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.378Z",
+    "updated_at": "2026-05-15T14:15:10.586Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/869.json"
+}

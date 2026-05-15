@@ -1,0 +1,44 @@
+{
+  "num": "1649",
+  "name": {
+    "en": "Nendoroid Sarawat",
+    "ja": "ねんどろいど サラワット (ねんどろいど さらわっと)",
+    "ko": "사라왓 간띠타논"
+  },
+  "series": {
+    "en": "2gether",
+    "ja": "2gether",
+    "ko": "2gether",
+    "code": "2gether"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 11261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210524/11261/85111/large/e0dd862069cd667b9078d74ef6204786.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.603Z",
+    "updated_at": "2026-05-15T14:15:10.788Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1649.json"
+}

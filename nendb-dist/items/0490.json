@@ -1,0 +1,44 @@
+{
+  "num": "0490",
+  "name": {
+    "en": "Nendoroid Tomoyo Daidouji",
+    "ja": "ねんどろいど 大道寺知世 (ねんどろいど だいどうじともよ)",
+    "ko": "다이도우지 토모요"
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": "カードキャプターさくら",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141218/4793/31907/large/d142845cd1a24d0d15322902907ec2d0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.254Z",
+    "updated_at": "2026-05-15T14:15:10.484Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/490.json"
+}

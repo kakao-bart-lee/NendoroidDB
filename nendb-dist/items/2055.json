@@ -1,0 +1,44 @@
+{
+  "num": "2055",
+  "name": {
+    "en": "Nendoroid Aoi Izumisawa",
+    "ja": "ねんどろいど 和泉沢愛生 (ねんどろいど いずみさわあおい)",
+    "ko": "이즈미사와 아오이"
+  },
+  "series": {
+    "en": "Love Flops",
+    "ja": "恋愛フロップス",
+    "ko": "연애 플롭스",
+    "code": "love-flops"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13816,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230118/13816/110209/large/cbbebc4819d501cb9049252b65b6523e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.711Z",
+    "updated_at": "2026-05-15T14:15:10.874Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2055.json"
+}

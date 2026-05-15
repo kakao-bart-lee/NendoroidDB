@@ -1,0 +1,48 @@
+{
+  "num": "0470",
+  "name": {
+    "en": "Nendoroid Aoi Yukimura",
+    "ja": "ねんどろいど 雪村あおい (ねんどろいど ゆきむらあおい)",
+    "ko": "유키무라 아오이"
+  },
+  "series": {
+    "en": "Encouragement of Climb",
+    "ja": "ヤマノススメ",
+    "ko": "야마노스스메",
+    "code": "encouragement-of-climb"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-03",
+      "status": "released"
+    },
+    {
+      "date": "2018-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4709,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141031/4709/31157/large/f8b4625de6869b2580d3ee3e92d1571f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.248Z",
+    "updated_at": "2026-05-15T14:15:10.479Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/470.json"
+}

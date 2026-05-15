@@ -1,0 +1,44 @@
+{
+  "num": "1564",
+  "name": {
+    "en": "Nendoroid Iroha Isshiki",
+    "ja": "ねんどろいど 一色いろは (ねんどろいど いっしきいろは)",
+    "ko": "잇시키 이로하"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 10787,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210209/10787/80942/large/45c455409e40bd47a13be151080677dd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.579Z",
+    "updated_at": "2026-05-15T14:15:10.769Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1564.json"
+}

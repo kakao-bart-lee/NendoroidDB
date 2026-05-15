@@ -1,0 +1,44 @@
+{
+  "num": "0852",
+  "name": {
+    "en": "Nendoroid Lana",
+    "ja": "ねんどろいど スイレン (ねんどろいど すいれん)",
+    "ko": "수련"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6851,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171109/6851/48725/large/c040322785afe541eb2b08a1b99d2a35.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.373Z",
+    "updated_at": "2026-05-15T14:15:10.582Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/852.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1118-DX",
+  "name": {
+    "en": "Nendoroid Zhao Ling-Er: DX Ver.",
+    "ja": "ねんどろいど 趙霊児 DX Ver. (ねんどろいど ちょうれいじ DX Ver.)",
+    "ko": "조령아 DX Ver."
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 8223,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190403/8223/59328/large/e06b4afb1611e0214c8f4cba02f93cea.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.446Z",
+    "updated_at": "2026-05-15T14:15:10.652Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1118-DX.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1871",
+  "name": {
+    "en": "Nendoroid Neo",
+    "ja": "ねんどろいど ネオ (ねんどろいど ねお)",
+    "ko": "네오"
+  },
+  "series": {
+    "en": "The Matrix",
+    "ja": "マトリックス",
+    "ko": "매트릭스",
+    "code": "the-matrix"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 12592,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220420/12592/97753/large/9b986ef3ea5e8e8fa91c1f72a034aa04.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.659Z",
+    "updated_at": "2026-05-15T14:15:10.833Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1871.json"
+}

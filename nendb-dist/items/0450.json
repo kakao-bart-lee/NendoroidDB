@@ -1,0 +1,48 @@
+{
+  "num": "0450",
+  "name": {
+    "en": "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)",
+    "ja": "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
+    "ko": "코사카 호노카"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-12",
+      "status": "released"
+    },
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4534,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140801/4534/29924/large/6d143b56a10427eba2f1c5a962211ad2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.239Z",
+    "updated_at": "2026-05-15T14:15:10.476Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/450.json"
+}

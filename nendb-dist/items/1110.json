@@ -1,0 +1,48 @@
+{
+  "num": "1110",
+  "name": {
+    "en": "Nendoroid DIO",
+    "ja": "ねんどろいど DIO (ねんどろいど でぃお)",
+    "ko": "DIO"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stardust-crusaders"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 8168,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190315/8168/58873/large/3b2c8fdfa625d1437067a436092c13d6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.445Z",
+    "updated_at": "2026-05-15T14:15:10.650Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1110.json"
+}

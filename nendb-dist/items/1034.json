@@ -1,0 +1,44 @@
+{
+  "num": "1034",
+  "name": {
+    "en": "Nendoroid Hermione Granger",
+    "ja": "ねんどろいど ハーマイオニー・グレンジャー (ねんどろいど はーまいおにー・ぐれんじゃー)",
+    "ko": "헤르미온느 그레인저"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7797,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181113/7797/55891/large/c377fbf55c6d2801521c7620e1ed8f65.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.424Z",
+    "updated_at": "2026-05-15T14:15:10.628Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1034.json"
+}

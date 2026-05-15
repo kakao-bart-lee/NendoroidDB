@@ -1,0 +1,48 @@
+{
+  "num": "0763",
+  "name": {
+    "en": "Nendoroid Syaoran Li",
+    "ja": "ねんどろいど 李小狼 (ねんどろいど りしゃおらん)",
+    "ko": "리 샤오랑"
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": "カードキャプターさくら",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-08",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6387,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170417/6387/44941/large/4b5f64cbb8317e6e6ddd3d87fd086ba4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.346Z",
+    "updated_at": "2026-05-15T14:15:10.559Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/763.json"
+}

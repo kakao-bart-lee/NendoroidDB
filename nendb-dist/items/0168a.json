@@ -1,0 +1,44 @@
+{
+  "num": "0168a",
+  "name": {
+    "en": "Nendoroid Airi (ねんどろいど あいり)",
+    "ja": "ねんどろいど アイリ (ねんどろいど あいり)",
+    "ko": "아이리"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3111,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110309/3111/13175/large/ec0e6b9c295cb109fb598b1d9ba76bc4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.125Z",
+    "updated_at": "2026-05-15T14:15:10.411Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/168a.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0057",
+  "name": {
+    "en": "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)",
+    "ja": "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
+    "ko": "미야후지 요시카"
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 2160,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2160/5856/large/79039f4377e0d46ff784990203fb8d64.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.087Z",
+    "updated_at": "2026-05-15T14:15:10.387Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/057.json"
+}

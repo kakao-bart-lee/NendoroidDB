@@ -1,0 +1,48 @@
+{
+  "num": "0447",
+  "name": {
+    "en": "Nendoroid Solid Snake (ねんどろいど そりっど・すねーく)",
+    "ja": "ねんどろいど ソリッド・スネーク (ねんどろいど そりっど・すねーく)",
+    "ko": "솔리드 스네이크"
+  },
+  "series": {
+    "en": "METAL GEAR SOLID",
+    "ja": "メタルギア ソリッド",
+    "ko": "메탈기어 솔리드",
+    "code": "metal-gear-solid"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-01",
+      "status": "released"
+    },
+    {
+      "date": "2018-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4530,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140730/4530/29901/large/d3b743e3c91f7ba278936815bae1ff2f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.238Z",
+    "updated_at": "2026-05-15T14:15:10.475Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/447.json"
+}

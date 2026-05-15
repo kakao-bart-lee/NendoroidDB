@@ -1,0 +1,48 @@
+{
+  "num": "1408",
+  "name": {
+    "en": "Nendoroid Giyu Tomioka",
+    "ja": "ねんどろいど 冨岡義勇 (ねんどろいど とみおかぎゆう)",
+    "ko": "토미오카 기유"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    },
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 9778,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200715/9778/71978/large/fcd76aa622428e1a045356c24cc7a1de.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.531Z",
+    "updated_at": "2026-05-15T14:15:10.734Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1408.json"
+}

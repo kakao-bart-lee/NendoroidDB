@@ -1,0 +1,44 @@
+{
+  "num": "1390",
+  "name": {
+    "en": "Nendoroid Alice",
+    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
+    "ko": "앨리스"
+  },
+  "series": {
+    "en": "Alice in Wonderland",
+    "ja": "ふしぎの国のアリス",
+    "ko": "디즈니",
+    "code": "alice-in-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7700,
+  "gsc_product_num": 13418,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221018/13418/106161/large/b86418265c471d64db8f036b7101222c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.526Z",
+    "updated_at": "2026-05-15T14:15:10.729Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1390.json"
+}

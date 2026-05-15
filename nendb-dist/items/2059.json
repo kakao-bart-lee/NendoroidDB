@@ -1,0 +1,44 @@
+{
+  "num": "2059",
+  "name": {
+    "en": "Nendoroid Octane",
+    "ja": "ねんどろいど オクタン (ねんどろいど おくたん)",
+    "ko": "옥테인"
+  },
+  "series": {
+    "en": "Apex Legends",
+    "ja": "エーペックスレジェンズ",
+    "ko": "에이펙스 레전드",
+    "code": "apex-legends"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 13906,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230130/13906/110974/large/0299897de22f0a15c70ed56318799827.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.712Z",
+    "updated_at": "2026-05-15T14:15:10.874Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2059.json"
+}

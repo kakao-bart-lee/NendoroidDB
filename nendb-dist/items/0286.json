@@ -1,0 +1,44 @@
+{
+  "num": "0286",
+  "name": {
+    "en": "Nendoroid Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
+    "ja": "ねんどろいど Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
+    "ko": "Lily from anim.o.v.e"
+  },
+  "series": {
+    "en": "Virtual Vocalist Lily from anim.o.v.e",
+    "ja": "バーチャルボーカリスト Lily from anim.o.v.e",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "virtual-vocalist-lily-from-anim-o-v-e"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3724,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20121029/3724/21046/large/acf3fbcb4dc0aab9600ae57a5917b4ed.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.166Z",
+    "updated_at": "2026-05-15T14:15:10.436Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/286.json"
+}

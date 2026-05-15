@@ -1,0 +1,44 @@
+{
+  "num": "1521",
+  "name": {
+    "en": "Nendoroid Eyjafjalla",
+    "ja": "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
+    "ko": "에이야퍄들라"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 10427,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201124/10427/77657/large/956595d07970c48b53d9561a56824204.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.566Z",
+    "updated_at": "2026-05-15T14:15:10.759Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1521.json"
+}

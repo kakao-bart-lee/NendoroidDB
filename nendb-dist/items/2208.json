@@ -1,0 +1,44 @@
+{
+  "num": "2208",
+  "name": {
+    "en": "Nendoroid Shiori Katase",
+    "ja": "ねんどろいど 片瀬詩織里 (ねんどろいど かたせしおり)",
+    "ko": "카타세 시오리"
+  },
+  "series": {
+    "en": "My Tiny Senpai",
+    "ja": "うちの会社の小さい先輩の話",
+    "ko": "우리 회사의 작은 선배 이야기",
+    "code": "my-tiny-senpai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 14670,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230718/14670/118292/large/20e7576a323b17e62017d6d4c963c4da.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.758Z",
+    "updated_at": "2026-05-15T14:15:10.905Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2208.json"
+}

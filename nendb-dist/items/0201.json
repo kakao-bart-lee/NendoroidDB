@@ -1,0 +1,44 @@
+{
+  "num": "0201",
+  "name": {
+    "en": "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)",
+    "ja": "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
+    "ko": "코바야시 카무이"
+  },
+  "series": {
+    "en": "Kamui Kobayashi",
+    "ja": "小林可夢偉",
+    "ko": "실존인물(레이서)",
+    "code": "kamui-kobayashi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111005/3311/15694/large/3a3b8d6aedb4a68ce5c28e0cec14bffb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.139Z",
+    "updated_at": "2026-05-15T14:15:10.419Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/201.json"
+}

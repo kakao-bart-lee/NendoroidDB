@@ -1,0 +1,52 @@
+{
+  "num": "0662",
+  "name": {
+    "en": "Nendoroid Deadpool: Orechan Edition",
+    "ja": "ねんどろいど デッドプール 俺ちゃん・エディション",
+    "ko": "데드풀 오레짱 에디션"
+  },
+  "series": {
+    "en": "Deadpool",
+    "ja": "デッドプール",
+    "ko": "데드풀",
+    "code": "deadpool"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-03",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 5858,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160805/5858/40560/large/aa8f808b724a7ee21473d3c0b97c1910.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.314Z",
+    "updated_at": "2026-05-15T14:15:10.529Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/662.json"
+}

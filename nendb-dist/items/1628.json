@@ -1,0 +1,44 @@
+{
+  "num": "1628",
+  "name": {
+    "en": "Nendoroid Nadia",
+    "ja": "ねんどろいど ナディア (ねんどろいど なでぃあ)",
+    "ko": "나디아 라 아르월"
+  },
+  "series": {
+    "en": "Nadia: The Secret of Blue Water",
+    "ja": "ふしぎの海のナディア",
+    "ko": "신비한 바다의 나디아",
+    "code": "nadia-the-secret-of-blue-water"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 11124,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11124/85190/large/ab960e7b8a3b28cf00feecabfbe3f06e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.597Z",
+    "updated_at": "2026-05-15T14:15:10.783Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1628.json"
+}

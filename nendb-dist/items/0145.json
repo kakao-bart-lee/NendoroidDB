@@ -1,0 +1,44 @@
+{
+  "num": "0145",
+  "name": {
+    "en": "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)",
+    "ja": "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
+    "ko": "블랙 골드 소"
+  },
+  "series": {
+    "en": "Black Rock Shooter",
+    "ja": "ブラック★ロックシューター",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "black-rock-shooter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20101124/3024/12069/large/6704d91b44d2a4a0f0c3f50fba709422.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.116Z",
+    "updated_at": "2026-05-15T14:15:10.406Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/145.json"
+}

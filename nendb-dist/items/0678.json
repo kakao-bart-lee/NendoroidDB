@@ -1,0 +1,44 @@
+{
+  "num": "0678",
+  "name": {
+    "en": "Nendoroid Tatsumaki",
+    "ja": "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
+    "ko": "전율의 타츠마키"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5956,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160916/5956/41367/large/f56aac5cf6406cc9c70968f9610d6317.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.319Z",
+    "updated_at": "2026-05-15T14:15:10.532Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/678.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1165-DX",
+  "name": {
+    "en": "Nendoroid Assassin/Okada Izo: Shimatsuken Ver.",
+    "ja": "ねんどろいど アサシン/岡田以蔵 始末剣Ver. (ねんどろいど あさしん/おかだいぞう しまつけんVer.)",
+    "ko": "어쌔신 / 오카다 이조 시말검 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 8525,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190708/8525/61763/large/f49d95a8c841705aa42c2eee14d29b06.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.460Z",
+    "updated_at": "2026-05-15T14:15:10.664Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1165-DX.json"
+}

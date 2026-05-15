@@ -1,0 +1,52 @@
+{
+  "num": "0473",
+  "name": {
+    "en": "Nendoroid Mario",
+    "ja": "ねんどろいど マリオ (ねんどろいど まりお)",
+    "ko": "마리오"
+  },
+  "series": {
+    "en": "Super Mario",
+    "ja": "スーパーマリオ",
+    "ko": "슈퍼 마리오",
+    "code": "super-mario"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-08",
+      "status": "released"
+    },
+    {
+      "date": "2020-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4720,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141107/4720/31289/large/e97968f66e265af7f84e25be1b5e7ccd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.249Z",
+    "updated_at": "2026-05-15T14:15:10.480Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/473.json"
+}

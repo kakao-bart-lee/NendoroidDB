@@ -1,0 +1,48 @@
+{
+  "num": "0751",
+  "name": {
+    "en": "Nendoroid Emilia",
+    "ja": "ねんどろいど エミリア (ねんどろいど えみりあ)",
+    "ko": "에밀리아"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5400,
+  "gsc_product_num": 6334,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170322/6334/44461/large/d0c70da0526bcee3393a8a37c01bddb3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.342Z",
+    "updated_at": "2026-05-15T14:15:10.556Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/751.json"
+}

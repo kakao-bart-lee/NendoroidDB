@@ -1,0 +1,44 @@
+{
+  "num": "2129",
+  "name": {
+    "en": "Nendoroid Uncle",
+    "ja": "ねんどろいど おじさん (ねんどろいど おじさん)",
+    "ko": "삼촌"
+  },
+  "series": {
+    "en": "Uncle from Another World",
+    "ja": "異世界おじさん",
+    "ko": "이세계 삼촌",
+    "code": "uncle-from-another-world"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6700,
+  "gsc_product_num": 14319,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230425/14319/114798/large/3f626a435ee0584c538fab87ef1d34c9.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.733Z",
+    "updated_at": "2026-05-15T14:15:10.889Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2129.json"
+}

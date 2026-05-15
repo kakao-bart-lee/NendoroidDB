@@ -1,0 +1,44 @@
+{
+  "num": "0353",
+  "name": {
+    "en": "Nendoroid Tsukiko Tsutsukakushi (ねんどろいど つつかくしつきこ)",
+    "ja": "ねんどろいど 筒隠月子 (ねんどろいど つつかくしつきこ)",
+    "ko": "츠츠카쿠시 츠키코"
+  },
+  "series": {
+    "en": "Hentai Ouji to Warawanai Neko",
+    "ja": "変態王子と笑わない猫。",
+    "ko": "변태왕자와 웃지 않는 고양이",
+    "code": "hentai-ouji-to-warawanai-neko"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3994,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130722/3994/25204/large/d636cea8605070b48112149c9f77295d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.192Z",
+    "updated_at": "2026-05-15T14:15:10.453Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/353.json"
+}

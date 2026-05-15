@@ -1,0 +1,44 @@
+{
+  "num": "1912",
+  "name": {
+    "en": "Nendoroid Arsnotoria",
+    "ja": "ねんどろいど アルスノトリア (ねんどろいど あるすのとりあ)",
+    "ko": "아르스노토리아"
+  },
+  "series": {
+    "en": "Smile of the Arsnotoria",
+    "ja": "咲う アルスノトリア",
+    "ko": "웃는 아르스노토리아",
+    "code": "smile-of-the-arsnotoria"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 12918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220630/12918/100916/large/7212bd656b341d8c87663f1f03f0efab.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.670Z",
+    "updated_at": "2026-05-15T14:15:10.842Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1912.json"
+}

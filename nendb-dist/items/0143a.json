@@ -1,0 +1,44 @@
+{
+  "num": "0143a",
+  "name": {
+    "en": "Nendoroid Risty (ねんどろいど りすてぃ)",
+    "ja": "ねんどろいど リスティ (ねんどろいど りすてぃ)",
+    "ko": "리스티"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3013,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20101108/3013/11932/large/9143af84a360a1c9df4deb3c7bbcfcc0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.115Z",
+    "updated_at": "2026-05-15T14:15:10.406Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/143a.json"
+}

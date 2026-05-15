@@ -1,0 +1,44 @@
+{
+  "num": "0070",
+  "name": {
+    "en": "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)",
+    "ja": "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
+    "ko": "키구루미on쨩"
+  },
+  "series": {
+    "en": "HTB Mascot Character",
+    "ja": "HTBマスコットキャラクター",
+    "ko": "HTB마스코트 캐릭터",
+    "code": "htb-mascot-character"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 2408,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2408/6864/large/dd19586dc6c5489e2cae1916363811c9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.090Z",
+    "updated_at": "2026-05-15T14:15:10.390Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/070.json"
+}

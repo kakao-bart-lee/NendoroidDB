@@ -1,0 +1,44 @@
+{
+  "num": "2206",
+  "name": {
+    "en": "Nendoroid Suguru Geto: Tokyo Jujutsu High School Ver.",
+    "ja": "ねんどろいど 夏油傑 高専Ver. (ねんどろいど げとうすぐる こうせんVer.)",
+    "ko": "게토 스구루 고전Ver."
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 14605,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230703/14605/117627/large/9e21e4075ca72b251d30b1bc60047363.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.757Z",
+    "updated_at": "2026-05-15T14:15:10.905Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2206.json"
+}

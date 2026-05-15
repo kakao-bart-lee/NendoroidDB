@@ -1,0 +1,52 @@
+{
+  "num": "0435",
+  "name": {
+    "en": "Nendoroid Armin Arlert",
+    "ja": "ねんどろいど アルミン・アルレルト (ねんどろいど あるみん・あるれると)",
+    "ko": "아르민 알레르토"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-10",
+      "status": "released"
+    },
+    {
+      "date": "2019-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 4474,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140626/4474/60044/large/812c23ff2b44c3b2d5ea30556ee898d0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.232Z",
+    "updated_at": "2026-05-15T14:15:10.472Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/435.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0457",
+  "name": {
+    "en": "Nendoroid Kosaki Onodera (ねんどろいど おのでらこさき)",
+    "ja": "ねんどろいど 小野寺小咲 (ねんどろいど おのでらこさき)",
+    "ko": "오노데라 코사키"
+  },
+  "series": {
+    "en": "Nisekoi",
+    "ja": "ニセコイ",
+    "ko": "니세코이",
+    "code": "nisekoi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-02",
+      "status": "released"
+    },
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 4698,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141024/4698/31064/large/e89ed213c946f3e6ec2ccb597e7a742c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.242Z",
+    "updated_at": "2026-05-15T14:15:10.477Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/457.json"
+}

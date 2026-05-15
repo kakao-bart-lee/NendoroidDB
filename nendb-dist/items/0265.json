@@ -1,0 +1,44 @@
+{
+  "num": "0265",
+  "name": {
+    "en": "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)",
+    "ja": "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
+    "ko": "쿄우노 마도카"
+  },
+  "series": {
+    "en": "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)",
+    "ja": "輪廻のラグランジェ",
+    "ko": "윤희의 라그랑제",
+    "code": "rinne-no-lagrange-lagrange-the-flower-of-rin-ne"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3611,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120719/3611/19488/large/27d02c978c2db19035e714906edb697c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.159Z",
+    "updated_at": "2026-05-15T14:15:10.431Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/265.json"
+}

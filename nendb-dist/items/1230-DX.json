@@ -1,0 +1,48 @@
+{
+  "num": "1230-DX",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 85: Endgame Ver. DX",
+    "ja": "ねんどろいど アイアンマン マーク85 エンドゲームVer. DX (ねんどろいど あいあんまん まーく85 えんどげーむVer. でらっくす)",
+    "ko": "아이언맨 Mk85 엔드게임 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 8974,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191113/8974/65136/large/914211f2760822f071a409b85328693f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.479Z",
+    "updated_at": "2026-05-15T14:15:10.680Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1230-DX.json"
+}

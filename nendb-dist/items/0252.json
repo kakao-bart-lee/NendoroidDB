@@ -1,0 +1,48 @@
+{
+  "num": "0252",
+  "name": {
+    "en": "Nendoroid Super Sonico : Tiger Hoodie Ver. (ねんどろいど すーぱーそにこ とらぱーかーVer.)",
+    "ja": "ねんどろいど すーぱーそに子 虎パーカーVer. (ねんどろいど すーぱーそにこ とらぱーかーVer.)",
+    "ko": "슈퍼소니코 호랑이 파카 Ver."
+  },
+  "series": {
+    "en": "Super Sonico",
+    "ja": "すーぱーそに子",
+    "ko": "슈퍼 소니코",
+    "code": "super-sonico"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-11",
+      "status": "released"
+    },
+    {
+      "date": "2014-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 3537,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120426/3537/29523/large/ccc686358492616b51f032396c9b4fa7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.155Z",
+    "updated_at": "2026-05-15T14:15:10.429Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/252.json"
+}

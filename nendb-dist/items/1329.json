@@ -1,0 +1,44 @@
+{
+  "num": "1329",
+  "name": {
+    "en": "Nendoroid Mafumafu (Hikikomori Set)",
+    "ja": "ねんどろいど まふまふ（ひきこもりセット） (ねんどろいど まふまふ（ひきこもりせっと）)",
+    "ko": "마후마후"
+  },
+  "series": {
+    "en": "Mafumafu",
+    "ja": "まふまふ",
+    "ko": "우타이테",
+    "code": "mafumafu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9440,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200422/9440/69162/large/f044476fdf30c4ec3ca223832292ce68.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.509Z",
+    "updated_at": "2026-05-15T14:15:10.714Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1329.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1443",
+  "name": {
+    "en": "Nendoroid Osamu Miya",
+    "ja": "ねんどろいど 宮治 (ねんどろいど みやおさむ)",
+    "ko": "미야 오사무"
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    },
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 9958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200824/9958/73450/large/1a5486f72faa24c57ee3e5d39a50d8e3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.541Z",
+    "updated_at": "2026-05-15T14:15:10.743Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1443.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0101",
+  "name": {
+    "en": "Nendoroid K-ON! Mio and Ritsu: Live Stage Set (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ja": "ねんどろいど けいおん！澪＆律ライブステージセット (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ko": "미오&리츠 라이브 스테이지 세트"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8381,
+  "gsc_product_num": 2775,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20100115/2775/8836/large/08877bd6c0568ec0b2255892a15e51b3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.101Z",
+    "updated_at": "2026-05-15T14:15:10.397Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/101.json"
+}

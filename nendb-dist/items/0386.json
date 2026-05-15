@@ -1,0 +1,52 @@
+{
+  "num": "0386",
+  "name": {
+    "en": "Nendoroid Shizue (Isabelle): Winter Ver.",
+    "ja": "ねんどろいど しずえ 冬服Ver. (ねんどろいど しずえ ふゆふくVer.)",
+    "ko": "여울 동복 Ver."
+  },
+  "series": {
+    "en": "Animal Crossing: New Leaf",
+    "ja": "とびだせ どうぶつの森",
+    "ko": "동물의 숲 시리즈",
+    "code": "animal-crossing-new-leaf"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-04",
+      "status": "released"
+    },
+    {
+      "date": "2018-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4137,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131126/4137/27227/large/b692424473ee955bbffe3c98961d33f8.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.209Z",
+    "updated_at": "2026-05-15T14:15:10.460Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/386.json"
+}

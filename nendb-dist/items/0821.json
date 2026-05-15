@@ -1,0 +1,48 @@
+{
+  "num": "0821",
+  "name": {
+    "en": "Nendoroid Heiji Hattori",
+    "ja": "ねんどろいど 服部平次 (ねんどろいど はっとりへいじ)",
+    "ko": "핫토리 헤이지"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    },
+    {
+      "date": "2018-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6705,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170904/6705/47399/large/4326ceea3230faa72f6e4ec975b474e6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.363Z",
+    "updated_at": "2026-05-15T14:15:10.574Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/821.json"
+}

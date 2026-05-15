@@ -1,0 +1,44 @@
+{
+  "num": "1834",
+  "name": {
+    "en": "Nendoroid Sukuna",
+    "ja": "ねんどろいど 宿儺 (ねんどろいど すくな)",
+    "ko": "스쿠나"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 12448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220308/12448/96625/large/6d5b25f05b1d781561b33a1d910f0851.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.650Z",
+    "updated_at": "2026-05-15T14:15:10.826Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1834.json"
+}

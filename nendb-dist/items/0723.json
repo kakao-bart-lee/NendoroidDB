@@ -1,0 +1,48 @@
+{
+  "num": "0723",
+  "name": {
+    "en": "Nendoroid Keiji Akaashi",
+    "ja": "ねんどろいど 赤葦京治 (ねんどろいど あかあしけいじ)",
+    "ko": "아카아시 케이지"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    },
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6176,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170113/6176/43196/large/067c1c7f353824576084921e1cd9149f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.334Z",
+    "updated_at": "2026-05-15T14:15:10.549Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/723.json"
+}

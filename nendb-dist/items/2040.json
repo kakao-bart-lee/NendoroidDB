@@ -1,0 +1,44 @@
+{
+  "num": "2040",
+  "name": {
+    "en": "Nendoroid Elmo",
+    "ja": "ねんどろいど エルモ (ねんどろいど えるも)",
+    "ko": "엘모"
+  },
+  "series": {
+    "en": "Sesame Street",
+    "ja": "セサミストリート",
+    "ko": "세서미 스트리트",
+    "code": "sesame-street"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 13738,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221222/13738/109348/large/a521e156a82f007816d883904f6f25ec.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.708Z",
+    "updated_at": "2026-05-15T14:15:10.870Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2040.json"
+}

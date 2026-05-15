@@ -1,0 +1,48 @@
+{
+  "num": "0421",
+  "name": {
+    "en": "Nendoroid Chitoge Kirisaki (ねんどろいど きりさきちとげ)",
+    "ja": "ねんどろいど 桐崎千棘 (ねんどろいど きりさきちとげ)",
+    "ko": "키리사키 치토게"
+  },
+  "series": {
+    "en": "Nisekoi",
+    "ja": "ニセコイ",
+    "ko": "니세코이",
+    "code": "nisekoi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    },
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 4410,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140430/4410/28875/large/32fb005bd0a2f688f22ab542c793d16e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.221Z",
+    "updated_at": "2026-05-15T14:15:10.469Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/421.json"
+}

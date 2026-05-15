@@ -1,0 +1,56 @@
+{
+  "num": "1194",
+  "name": {
+    "en": "Nendoroid Nezuko Kamado",
+    "ja": "ねんどろいど 竈門禰豆子 (ねんどろいど かまどねずこ)",
+    "ko": "카마도 네즈코"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8726,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190823/8726/63215/large/eb3cb06387b4e3d4bf13728fcb002ad0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.467Z",
+    "updated_at": "2026-05-15T14:15:10.670Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1194.json"
+}

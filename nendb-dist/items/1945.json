@@ -1,0 +1,44 @@
+{
+  "num": "1945",
+  "name": {
+    "en": "Nendoroid Xie Lian",
+    "ja": "ねんどろいど 謝怜 (ねんどろいど しえ・りぇん)",
+    "ko": "사련"
+  },
+  "series": {
+    "en": "Heaven Official's Blessing",
+    "ja": "天官賜福",
+    "ko": "천관사복",
+    "code": "heaven-official-s-blessing"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7200,
+  "gsc_product_num": 13155,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220825/13155/103350/large/cb65857cd792ab952b4e93dabc707651.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.682Z",
+    "updated_at": "2026-05-15T14:15:10.849Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1945.json"
+}

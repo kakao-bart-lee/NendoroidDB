@@ -1,0 +1,48 @@
+{
+  "num": "0749",
+  "name": {
+    "en": "Nendoroid Arisa Ichigaya",
+    "ja": "ねんどろいど 市ヶ谷有咲 (ねんどろいど いちがやありさ)",
+    "ko": "이치가야 아리사"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-10",
+      "status": "released"
+    },
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6319,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170314/6319/44343/large/e69fa320015cfe60fc7e6e93ad4d74ba.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.341Z",
+    "updated_at": "2026-05-15T14:15:10.555Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/749.json"
+}

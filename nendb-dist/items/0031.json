@@ -1,0 +1,44 @@
+{
+  "num": "0031",
+  "name": {
+    "en": "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)",
+    "ja": "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
+    "ko": "L 순록 Ver."
+  },
+  "series": {
+    "en": "DEATH NOTE",
+    "ja": "DEATH NOTE",
+    "ko": "데스노트",
+    "code": "death-note"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2007-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 2619,
+  "gsc_product_num": 639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/639/985/large/a3099e5cd5373ccab68ad52bf73a16c4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.076Z",
+    "updated_at": "2026-05-15T14:15:10.381Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/031.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0712",
+  "name": {
+    "en": "Nendoroid Pipimi",
+    "ja": "ねんどろいど ピピ美 (ねんどろいど ぴぴみ)",
+    "ko": "피피미"
+  },
+  "series": {
+    "en": "POP TEAM EPIC",
+    "ja": "ポプテピピック",
+    "ko": "팝 팀 에픽",
+    "code": "pop-team-epic"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 6122,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161208/6122/42780/large/6a7aa0f6097c2ca983710ab7cf55ca3c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.330Z",
+    "updated_at": "2026-05-15T14:15:10.546Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/712.json"
+}

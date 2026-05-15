@@ -1,0 +1,52 @@
+{
+  "num": "0653",
+  "name": {
+    "en": "Nendoroid Shiro",
+    "ja": "ねんどろいど 白 (ねんどろいど しろ)",
+    "ko": "시로"
+  },
+  "series": {
+    "en": "No Game No Life",
+    "ja": "ノーゲーム・ノーライフ",
+    "ko": "노게임 노라이프",
+    "code": "no-game-no-life"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-12",
+      "status": "released"
+    },
+    {
+      "date": "2018-09",
+      "status": "released"
+    },
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 5793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160712/5793/40004/large/cfa418102dbfbdc13e2fd8e79a1e8c64.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.310Z",
+    "updated_at": "2026-05-15T14:15:10.527Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/653.json"
+}

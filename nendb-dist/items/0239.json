@@ -1,0 +1,44 @@
+{
+  "num": "0239",
+  "name": {
+    "en": "Nendoroid Racing Miku 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
+    "ja": "ねんどろいど レーシングミク 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
+    "ko": "레이싱 미쿠 2012 Ver."
+  },
+  "series": {
+    "en": "Racing Miku 2012 ver.",
+    "ja": "初音ミク GTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "racing-miku-2012-ver"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 0,
+  "gsc_product_num": 3503,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120321/3503/17765/large/8b118dbcbe57ed5cbc79e7e269924749.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.151Z",
+    "updated_at": "2026-05-15T14:15:10.426Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/239.json"
+}

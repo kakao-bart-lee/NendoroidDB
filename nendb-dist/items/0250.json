@@ -1,0 +1,44 @@
+{
+  "num": "0250",
+  "name": {
+    "en": "Nendoroid Saber : 10th ANNIVERSARY Edition (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
+    "ja": "ねんどろいど セイバー 10th ANNIVERSARY・エディション (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
+    "ko": "세이버 10th ANNIIVERSARY 에디션"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3585,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120619/3585/18970/large/fc8774b69d007545e6747d8b9357d186.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.155Z",
+    "updated_at": "2026-05-15T14:15:10.429Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/250.json"
+}

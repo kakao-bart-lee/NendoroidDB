@@ -1,0 +1,52 @@
+{
+  "num": "0605",
+  "name": {
+    "en": "Nendoroid Kenma Kozume",
+    "ja": "ねんどろいど 孤爪研磨 (ねんどろいど こづめけんま)",
+    "ko": "코즈메 켄마"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-07",
+      "status": "released"
+    },
+    {
+      "date": "2017-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 5471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160122/5471/37415/large/a779ccc29dcfc65704e9f7224071c3f7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.291Z",
+    "updated_at": "2026-05-15T14:15:10.515Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/605.json"
+}

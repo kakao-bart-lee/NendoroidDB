@@ -1,0 +1,44 @@
+{
+  "num": "0512",
+  "name": {
+    "en": "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)",
+    "ja": "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
+    "ko": "시부야 린"
+  },
+  "series": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "code": "the-idolm-ster-cinderella-girls"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3769,
+  "gsc_product_num": 4924,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150401/4924/32918/large/3da10a90632a224deb190a99b19d77d5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.261Z",
+    "updated_at": "2026-05-15T14:15:10.490Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/512.json"
+}

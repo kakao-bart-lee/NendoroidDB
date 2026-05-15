@@ -1,0 +1,44 @@
+{
+  "num": "0520",
+  "name": {
+    "en": "Nendoroid Yamato (ねんどろいど やまと)",
+    "ja": "ねんどろいど 大和 (ねんどろいど やまと)",
+    "ko": "야마토"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7944,
+  "gsc_product_num": 5000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150511/5000/33460/large/8bd5d695a9a3b89fb4b7c23fa4555b4b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.263Z",
+    "updated_at": "2026-05-15T14:15:10.491Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/520.json"
+}

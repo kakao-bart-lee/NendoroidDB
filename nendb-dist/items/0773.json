@@ -1,0 +1,48 @@
+{
+  "num": "0773",
+  "name": {
+    "en": "Nendoroid Tae Hanazono",
+    "ja": "ねんどろいど 花園たえ (ねんどろいど はなぞのたえ)",
+    "ko": "하나조노 타에"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6452,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170523/6452/45494/large/a0d23182db73291edd502d981469010e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.349Z",
+    "updated_at": "2026-05-15T14:15:10.561Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/773.json"
+}

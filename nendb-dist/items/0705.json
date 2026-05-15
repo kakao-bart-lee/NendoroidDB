@@ -1,0 +1,52 @@
+{
+  "num": "0705",
+  "name": {
+    "en": "Nendoroid Katsuki Bakugo: Hero's Edition",
+    "ja": "ねんどろいど 爆豪勝己 ヒーローズ・エディション (ねんどろいど ばくごうかつき ひーろーず・えでぃしょん)",
+    "ko": "바쿠고 카츠키 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    },
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 6107,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161202/6107/42619/large/88c60ba4743d5ea9cb40eb8839a8c80e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.327Z",
+    "updated_at": "2026-05-15T14:15:10.543Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/705.json"
+}

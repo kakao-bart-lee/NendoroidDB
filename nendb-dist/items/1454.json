@@ -1,0 +1,44 @@
+{
+  "num": "1454",
+  "name": {
+    "en": "Nendoroid Hana Uzaki",
+    "ja": "ねんどろいど 宇崎花 (ねんどろいど うざきはな)",
+    "ko": "우자키 하나"
+  },
+  "series": {
+    "en": "Uzaki-chan Wants to Hang Out!",
+    "ja": "宇崎ちゃんは遊びたい！",
+    "ko": "우자키 양은 놀고 싶어!",
+    "code": "uzaki-chan-wants-to-hang-out"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5700,
+  "gsc_product_num": 10018,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200904/10018/73988/large/c552e5294eff196b5cba4fa5d4b73405.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.544Z",
+    "updated_at": "2026-05-15T14:15:10.744Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1454.json"
+}

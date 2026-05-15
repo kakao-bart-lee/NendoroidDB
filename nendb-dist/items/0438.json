@@ -1,0 +1,52 @@
+{
+  "num": "0438",
+  "name": {
+    "en": "Nendoroid Satsuki Kiryuin",
+    "ja": "ねんどろいど 鬼龍院皐月 (ねんどろいど きりゅういんさつき)",
+    "ko": "키류인 사츠키"
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-10",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4487,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140704/4487/44895/large/c9c7c3bb2ec6cfdcc17d62fd82595c42.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.234Z",
+    "updated_at": "2026-05-15T14:15:10.473Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/438.json"
+}

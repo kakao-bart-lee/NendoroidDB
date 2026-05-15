@@ -1,0 +1,44 @@
+{
+  "num": "1267",
+  "name": {
+    "en": "Nendoroid Skull Trooper",
+    "ja": "ねんどろいど スカルトルーパー (ねんどろいど すかるとるーぱー)",
+    "ko": "해골부대"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 9121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191218/9121/66518/large/c517a240cafbe6093510a253cc4c1ed9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.491Z",
+    "updated_at": "2026-05-15T14:15:10.690Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1267.json"
+}

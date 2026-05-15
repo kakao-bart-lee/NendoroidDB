@@ -1,0 +1,52 @@
+{
+  "num": "0803",
+  "name": {
+    "en": "Nendoroid Conan Edogawa",
+    "ja": "ねんどろいど 江戸川コナン (ねんどろいど えどがわこなん)",
+    "ko": "에도가와 코난"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-02",
+      "status": "released"
+    },
+    {
+      "date": "2018-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4700,
+  "gsc_product_num": 6607,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170725/6607/46729/large/53e35efd95ea4d1ad119bbfabdfe0f47.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.357Z",
+    "updated_at": "2026-05-15T14:15:10.570Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/803.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0364",
+  "name": {
+    "en": "Nendoroid Shinku: Rozen Maiden Set",
+    "ja": "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
+    "ko": "신쿠 장미소녀 세트"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6300,
+  "gsc_product_num": 4049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130830/4049/94235/large/6357413706f1c44941f3064a3ab89b65.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.196Z",
+    "updated_at": "2026-05-15T14:15:10.455Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/364.json"
+}

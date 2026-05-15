@@ -1,0 +1,48 @@
+{
+  "num": "0963",
+  "name": {
+    "en": "Nendoroid Futaba Sakura",
+    "ja": "ねんどろいど 佐倉双葉 (ねんどろいど さくらふたば)",
+    "ko": "사쿠라 후타바"
+  },
+  "series": {
+    "en": "Persona5",
+    "ja": "ペルソナ５",
+    "ko": "페르소나5",
+    "code": "persona5"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 7404,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180703/7404/53001/large/592c08d27cf115ce6509422d7c6a835d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.403Z",
+    "updated_at": "2026-05-15T14:15:10.611Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/963.json"
+}

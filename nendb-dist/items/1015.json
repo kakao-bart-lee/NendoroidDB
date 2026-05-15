@@ -1,0 +1,44 @@
+{
+  "num": "1015",
+  "name": {
+    "en": "Nendoroid Honebami Toshiro",
+    "ja": "ねんどろいど 骨喰藤四郎 (ねんどろいど ほねばみとうしろう)",
+    "ko": "호네바미 토시로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4787,
+  "gsc_product_num": 7686,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181011/7686/55161/large/b9d47a8133c1d4fd41269236cb27adab.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.418Z",
+    "updated_at": "2026-05-15T14:15:10.625Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1015.json"
+}

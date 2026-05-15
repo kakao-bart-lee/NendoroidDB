@@ -1,0 +1,44 @@
+{
+  "num": "1761",
+  "name": {
+    "en": "Nendoroid Phoenix Wright",
+    "ja": "ねんどろいど 成歩堂龍一 (ねんどろいど なるほどうりゅういち)",
+    "ko": "나루호도 류이치"
+  },
+  "series": {
+    "en": "Phoenix Wright: Ace Attorney",
+    "ja": "逆転裁判",
+    "ko": "역전재판",
+    "code": "phoenix-wright-ace-attorney"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 12049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211125/12049/92487/large/e49c8205c45b6420d53ea4a40b020a93.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.632Z",
+    "updated_at": "2026-05-15T14:15:10.810Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1761.json"
+}

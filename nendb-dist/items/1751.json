@@ -1,0 +1,44 @@
+{
+  "num": "1751",
+  "name": {
+    "en": "Nendoroid Siesta",
+    "ja": "ねんどろいど シエスタ (ねんどろいど しえすた)",
+    "ko": "시에스타"
+  },
+  "series": {
+    "en": "The Detective is Already Dead",
+    "ja": "探偵はもう、死んでいる。",
+    "ko": "탐정은 이미 죽었다",
+    "code": "the-detective-is-already-dead"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5700,
+  "gsc_product_num": 12016,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211117/12016/92222/large/90f48e7e316b2f13817a51e10e5d5295.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.630Z",
+    "updated_at": "2026-05-15T14:15:10.808Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1751.json"
+}

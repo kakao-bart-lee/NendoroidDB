@@ -1,0 +1,48 @@
+{
+  "num": "0479",
+  "name": {
+    "en": "Nendoroid Kyoko Toshino (ねんどろいど としのうきょうこ)",
+    "ja": "ねんどろいど 歳納京子 (ねんどろいど としのうきょうこ)",
+    "ko": "코시노 쿄코"
+  },
+  "series": {
+    "en": "YuruYuri Nachuyachumi!",
+    "ja": "ゆるゆり なちゅやちゅみ！",
+    "ko": "유루유리",
+    "code": "yuruyuri-nachuyachumi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-04",
+      "status": "released"
+    },
+    {
+      "date": "2016-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 4745,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141126/4745/31495/large/2487b18a7292f4cc1c77da27d9da245a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.251Z",
+    "updated_at": "2026-05-15T14:15:10.482Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/479.json"
+}

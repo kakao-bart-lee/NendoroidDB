@@ -1,0 +1,44 @@
+{
+  "num": "1764",
+  "name": {
+    "en": "Nendoroid Rocket Raccoon",
+    "ja": "ねんどろいど ロケット (ねんどろいど ろけっと)",
+    "ko": "로켓"
+  },
+  "series": {
+    "en": "Guardians of the Galaxy Vol. 2",
+    "ja": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+    "ko": "가디언즈 오브 갤럭시",
+    "code": "guardians-of-the-galaxy-vol-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 12034,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211122/12034/92550/large/012f1bd30e8995ff3801d3ec74cb26f3.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.633Z",
+    "updated_at": "2026-05-15T14:15:10.811Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1764.json"
+}

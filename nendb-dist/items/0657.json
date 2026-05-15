@@ -1,0 +1,56 @@
+{
+  "num": "0657",
+  "name": {
+    "en": "Nendoroid Osamu Dazai",
+    "ja": "ねんどろいど 太宰治 (ねんどろいど だざいおさむ)",
+    "ko": "다자이 오사무"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-02",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-05",
+      "status": "released"
+    },
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 5809,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160720/5809/40138/large/9e1148e1e969c3de968851673d4881f0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.313Z",
+    "updated_at": "2026-05-15T14:15:10.528Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/657.json"
+}

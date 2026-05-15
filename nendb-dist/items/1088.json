@@ -1,0 +1,48 @@
+{
+  "num": "1088",
+  "name": {
+    "en": "Nendoroid USA",
+    "ja": "ねんどろいど アメリカ (ねんどろいど あめりか)",
+    "ko": "아메리카"
+  },
+  "series": {
+    "en": "Hetalia World★Stars",
+    "ja": "ヘタリア World★Stars",
+    "ko": "헤타리아",
+    "code": "hetalia-world-stars"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4500,
+  "gsc_product_num": 8071,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190213/8071/58112/large/7c2b82666b4ea4b51f0be2861cffc9cc.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.439Z",
+    "updated_at": "2026-05-15T14:15:10.643Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1088.json"
+}

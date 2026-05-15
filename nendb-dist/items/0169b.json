@@ -1,0 +1,44 @@
+{
+  "num": "0169b",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど ニクス２ＰカラーVer. (ねんどろいど にくす 2PからーVer.)",
+    "ko": "니크스 2P 컬러 Ver."
+  },
+  "series": {
+    "en": null,
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": null
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3417,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111212/3417/16560/large/c1c763b96b8214be67f2cda5d9109993.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.126Z",
+    "updated_at": "2026-05-15T14:15:10.412Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/169b.json"
+}

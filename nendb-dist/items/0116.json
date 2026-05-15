@@ -1,0 +1,44 @@
+{
+  "num": "0116",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど 宮藤芳佳 扶桑皇国海軍水練装備仕様 (ねんどろいど みやふじよしか ふそうこうこくかいぐんすいれんそうびしよう)",
+    "ko": "미야후지 요시카 황국 해군수련장비 Ver."
+  },
+  "series": {
+    "en": null,
+    "ja": "ストライクウィッチーズ 白銀の翼",
+    "ko": "스트라이크 위치스",
+    "code": null
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 12078,
+  "gsc_product_num": 3377,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111125/3377/16322/large/9dc324bc17ab583b8db3baf824a9fb24.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.107Z",
+    "updated_at": "2026-05-15T14:15:10.400Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/116.json"
+}

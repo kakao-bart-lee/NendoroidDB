@@ -1,0 +1,44 @@
+{
+  "num": "2104",
+  "name": {
+    "en": "Nendoroid Tamaki Suoh",
+    "ja": "ねんどろいど 須王環 (ねんどろいど すおうたまき)",
+    "ko": "스오우 타마키"
+  },
+  "series": {
+    "en": "Ouran High School Host Club",
+    "ja": "桜蘭高校ホスト部",
+    "ko": "오란고교 호스트부",
+    "code": "ouran-high-school-host-club"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 14273,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230417/14273/114421/large/7d2d3daf1cc8a0e9b7b90bcd4aa5118d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.726Z",
+    "updated_at": "2026-05-15T14:15:10.883Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2104.json"
+}

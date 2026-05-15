@@ -1,0 +1,44 @@
+{
+  "num": "2255",
+  "name": {
+    "en": "Nendoroid Spamton",
+    "ja": "ねんどろいど スパムトン (ねんどろいど すぱむとん)",
+    "ko": "스팸톤"
+  },
+  "series": {
+    "en": "DELTARUNE",
+    "ja": "DELTARUNE",
+    "ko": "DELTARUNE",
+    "code": "deltarune"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 14951,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230912/14951/120940/large/5f3aac00e867859ac093e9c355a271d7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.766Z",
+    "updated_at": "2026-05-15T14:15:10.914Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2255.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "2007",
+  "name": {
+    "en": "Nendoroid Beatrix LeBeau",
+    "ja": "ねんどろいど ベアトリクス・ルボー (ねんどろいど べあとりくす・るぼー)",
+    "ko": "베아트릭스 르보"
+  },
+  "series": {
+    "en": "Slime Rancher 2",
+    "ja": "Slime Rancher 2",
+    "ko": "슬라임 랜쳐 2",
+    "code": "slime-rancher-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8900,
+  "gsc_product_num": 13654,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221212/13654/108368/large/67596e1b91e134e6077aba1c99dd3fe3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.700Z",
+    "updated_at": "2026-05-15T14:15:10.862Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2007.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0775",
+  "name": {
+    "en": "Nendoroid Erwin Smith",
+    "ja": "ねんどろいど エルヴィン・スミス (ねんどろいど えるゔぃん・すみす)",
+    "ko": "엘빈 스미스"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-01",
+      "status": "released"
+    },
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 6468,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170526/6468/45615/large/a3afdbb463a534374c778eca224b2589.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.350Z",
+    "updated_at": "2026-05-15T14:15:10.561Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/775.json"
+}

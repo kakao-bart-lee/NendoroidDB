@@ -1,0 +1,44 @@
+{
+  "num": "2175",
+  "name": {
+    "en": "Nendoroid Madara Uchiha",
+    "ja": "ねんどろいど うちはマダラ (ねんどろいど うちはまだら)",
+    "ko": "우치하 마다라"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토 질풍전",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 14367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230511/14367/115235/large/ff90c62c854b9ac880e832fcb833f105.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.748Z",
+    "updated_at": "2026-05-15T14:15:10.899Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2175.json"
+}

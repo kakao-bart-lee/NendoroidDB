@@ -1,0 +1,44 @@
+{
+  "num": "0321",
+  "name": {
+    "en": "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)",
+    "ja": "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
+    "ko": "타무라 유카리"
+  },
+  "series": {
+    "en": "Yukari Tamura",
+    "ja": "田村ゆかり",
+    "ko": "실존인물(성우)",
+    "code": "yukari-tamura"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5133,
+  "gsc_product_num": 3916,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130520/3916/23952/large/832224d21c9c184bd2c9fb0879b1b2c0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.179Z",
+    "updated_at": "2026-05-15T14:15:10.445Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/321.json"
+}

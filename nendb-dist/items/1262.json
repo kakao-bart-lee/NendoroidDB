@@ -1,0 +1,48 @@
+{
+  "num": "1262",
+  "name": {
+    "en": "Nendoroid Senku Ishigami",
+    "ja": "ねんどろいど 石神千空 (ねんどろいど いしがみせんくう)",
+    "ko": "이시가미 센쿠"
+  },
+  "series": {
+    "en": "Dr. STONE",
+    "ja": "Dr.STONE",
+    "ko": "Dr. STONE",
+    "code": "dr-stone"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    },
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9106,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191217/9106/66171/large/158427a7b94a59fc584035f7627e123a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.489Z",
+    "updated_at": "2026-05-15T14:15:10.689Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1262.json"
+}

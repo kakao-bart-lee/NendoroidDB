@@ -1,0 +1,44 @@
+{
+  "num": "1133",
+  "name": {
+    "en": "Nendoroid Rorona",
+    "ja": "ねんどろいど ロロナ (ねんどろいど ろろな)",
+    "ko": "로로나"
+  },
+  "series": {
+    "en": "Atelier Rorona: The Alchemist of Arland",
+    "ja": "ロロナのアトリエ 〜アーランドの錬金術士〜",
+    "ko": "로로나의 아틀리에",
+    "code": "atelier-rorona-the-alchemist-of-arland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5280,
+  "gsc_product_num": 8332,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190514/8332/60169/large/e4d8cde3cbbd6f1707bb222966dd60d4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.451Z",
+    "updated_at": "2026-05-15T14:15:10.656Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1133.json"
+}

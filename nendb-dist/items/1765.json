@@ -1,0 +1,44 @@
+{
+  "num": "1765",
+  "name": {
+    "en": "Nendoroid Optimus Prime (G1 Ver.)",
+    "ja": "ねんどろいど オプティマスプライム(G1 Ver.) (ねんどろいど おぷてぃますぷらいむ(G1 Ver.))",
+    "ko": "옵티머스 프라임(G1)"
+  },
+  "series": {
+    "en": "Transformers",
+    "ja": "トランスフォーマー",
+    "ko": "트랜스포머 시리즈",
+    "code": "transformers"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 12031,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211122/12031/92327/large/ccae9b9ecbbab2db325bb34697f5d841.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.633Z",
+    "updated_at": "2026-05-15T14:15:10.811Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1765.json"
+}

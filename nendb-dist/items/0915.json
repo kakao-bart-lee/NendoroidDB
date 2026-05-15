@@ -1,0 +1,44 @@
+{
+  "num": "0915",
+  "name": {
+    "en": "Nendoroid Atlas",
+    "ja": "ねんどろいど Atlas (ねんどろいど あとらす)",
+    "ko": "아틀라스"
+  },
+  "series": {
+    "en": "Portal 2",
+    "ja": "Portal2",
+    "ko": "포탈",
+    "code": "portal-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 7200,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180410/7200/51376/large/ab14f30f6f93c83a106fabb2da6ca564.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.389Z",
+    "updated_at": "2026-05-15T14:15:10.597Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/915.json"
+}

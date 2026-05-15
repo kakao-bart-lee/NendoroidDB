@@ -1,0 +1,44 @@
+{
+  "num": "0498",
+  "name": {
+    "en": "Nendoroid Noel (Sora no Method)",
+    "ja": "ねんどろいど ノエル (ねんどろいど のえる)",
+    "ko": "노엘"
+  },
+  "series": {
+    "en": "Celestial Method",
+    "ja": "天体のメソッド",
+    "ko": "천체의 메소드",
+    "code": "celestial-method"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 4828,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150120/4828/32121/large/3fd92913068704c33e9ccfc78d7bf96c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.257Z",
+    "updated_at": "2026-05-15T14:15:10.486Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/498.json"
+}

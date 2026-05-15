@@ -1,0 +1,44 @@
+{
+  "num": "1000",
+  "name": {
+    "en": "Nendoroid Snow Miku: Snow Princess Ver.",
+    "ja": "ねんどろいど 雪ミク Snow Princess Ver. (ねんどろいど ゆきみく すのう ぷりんせす Ver.)",
+    "ko": "유키 미쿠 Snow Princess  Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6112,
+  "gsc_product_num": 7868,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181205/7868/56506/large/d0a7eefcdf015ff485ab7bf1b18beffc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.414Z",
+    "updated_at": "2026-05-15T14:15:10.621Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1000.json"
+}

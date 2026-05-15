@@ -1,0 +1,48 @@
+{
+  "num": "0836",
+  "name": {
+    "en": "Nendoroid Ariel",
+    "ja": "ねんどろいど アリエル (ねんどろいど ありえる)",
+    "ko": "에리얼"
+  },
+  "series": {
+    "en": "The Little Mermaid",
+    "ja": "リトル・マーメイド",
+    "ko": "인어공주",
+    "code": "the-little-mermaid"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 6801,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171017/6801/48193/large/d4ba75f380de51a1198503065665090c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.368Z",
+    "updated_at": "2026-05-15T14:15:10.578Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/836.json"
+}

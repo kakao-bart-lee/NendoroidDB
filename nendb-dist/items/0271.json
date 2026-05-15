@@ -1,0 +1,44 @@
+{
+  "num": "0271",
+  "name": {
+    "en": "Nendoroid Mirai Suenaga (ねんどろいど すえながみらい)",
+    "ja": "ねんどろいど 末永みらい (ねんどろいど すえながみらい)",
+    "ko": "스에나가 미라이"
+  },
+  "series": {
+    "en": "Culture Japan",
+    "ja": "カルチャージャパン",
+    "ko": "컬처 재팬",
+    "code": "culture-japan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3645,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120822/3645/20029/large/77d240770e2d9ac2004fc4c49201035c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.161Z",
+    "updated_at": "2026-05-15T14:15:10.433Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/271.json"
+}

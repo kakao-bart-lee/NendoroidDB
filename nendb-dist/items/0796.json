@@ -1,0 +1,48 @@
+{
+  "num": "0796",
+  "name": {
+    "en": "Nendoroid Alphonse Elric",
+    "ja": "ねんどろいど アルフォンス・エルリック (ねんどろいど あるふぉんす・えるりっく)",
+    "ko": "알폰스 엘릭"
+  },
+  "series": {
+    "en": "Fullmetal Alchemist: Brotherhood",
+    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko": "강철의 연금술사",
+    "code": "fullmetal-alchemist-brotherhood"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-01",
+      "status": "released"
+    },
+    {
+      "date": "2020-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 6586,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170714/6586/46539/large/e203179360a6996fea501ba291c55e7e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.355Z",
+    "updated_at": "2026-05-15T14:15:10.568Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/796.json"
+}

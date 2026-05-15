@@ -1,0 +1,44 @@
+{
+  "num": "0398",
+  "name": {
+    "en": "Nendoroid Seira Hoshikawa (ねんどろいど ほしかわせいら)",
+    "ja": "ねんどろいど 星河せいら (ねんどろいど ほしかわせいら)",
+    "ko": "호시카와 세이라"
+  },
+  "series": {
+    "en": "Day Break Illusion",
+    "ja": "幻影ヲ駆ケル太陽",
+    "ko": "환영을 달리는 태양",
+    "code": "day-break-illusion"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4216,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140204/4216/27852/large/da0bad8ef543e5e99c7967a9a9252d28.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.213Z",
+    "updated_at": "2026-05-15T14:15:10.463Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/398.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0639",
+  "name": {
+    "en": "Nendoroid Aoba Suzukaze",
+    "ja": "ねんどろいど 涼風青葉 (ねんどろいど すずかぜあおば)",
+    "ko": "스즈카제 아오바"
+  },
+  "series": {
+    "en": "NEW GAME!",
+    "ja": "NEW GAME!",
+    "ko": "NEW GAME!",
+    "code": "new-game"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-10",
+      "status": "released"
+    },
+    {
+      "date": "2018-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4481,
+  "gsc_product_num": 5717,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160607/5717/39432/large/4edeba152f34a65d7b77a37e41ccc8b4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.305Z",
+    "updated_at": "2026-05-15T14:15:10.523Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/639.json"
+}

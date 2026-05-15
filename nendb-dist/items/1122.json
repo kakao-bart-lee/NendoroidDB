@@ -1,0 +1,44 @@
+{
+  "num": "1122",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど 莫雨 (ねんどろいど まくう)",
+    "ko": "막우"
+  },
+  "series": {
+    "en": null,
+    "ja": "剣網3大IP",
+    "ko": "검망3 : 손끝강호",
+    "code": null
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 0,
+  "gsc_product_num": 8455,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190620/8455/61206/large/24f0e565a3c9197118b2d1b30a1c50ab.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.448Z",
+    "updated_at": "2026-05-15T14:15:10.653Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1122.json"
+}

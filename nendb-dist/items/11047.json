@@ -1,0 +1,48 @@
+{
+  "num": "11047",
+  "name": {
+    "en": "Nendoroid Doll archetype 1.1: Woman (Almond Milk)",
+    "ja": "ねんどろいどどーる archetype 1.1：Woman（almond milk） (ねんどろいどどーる あーきたいぷ 1.1：うーまん（あーもんど みるく）)",
+    "ko": "여성(아몬드밀크) 1.1"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 2037,
+  "gsc_product_num": 11047,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210412/11047/83312/large/3d071e147feca65467943b15ce2b4ca2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.828Z",
+    "updated_at": "2026-05-15T14:15:10.648Z"
+  },
+  "_source_path": "NendoroidDoll/Body/11047.json"
+}

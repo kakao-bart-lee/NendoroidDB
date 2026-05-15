@@ -1,0 +1,48 @@
+{
+  "num": "1016",
+  "name": {
+    "en": "Nendoroid Lancer/Ereshkigal",
+    "ja": "ねんどろいど ランサー/エレシュキガル (ねんどろいど らんさー/えれしゅきがる)",
+    "ko": "랜서/에레쉬키갈"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 7697,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181016/7697/55205/large/013128dd7550fd028c3f20f72136f045.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.418Z",
+    "updated_at": "2026-05-15T14:15:10.625Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1016.json"
+}

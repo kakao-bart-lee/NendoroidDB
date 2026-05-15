@@ -1,0 +1,44 @@
+{
+  "num": "2100",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Beauty Looking Back Ver.",
+    "ja": "ねんどろいど 初音ミク 見返り美人ミクVer. (ねんどろいど はつねみく みかえりびじんみくVer.)",
+    "ko": "하츠네 미쿠 되돌아보는 미인도"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8800,
+  "gsc_product_num": 14300,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230421/14300/114630/large/9dc940818797233c995801c115b13b1a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.725Z",
+    "updated_at": "2026-05-15T14:15:10.882Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2100.json"
+}

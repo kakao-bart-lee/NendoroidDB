@@ -1,0 +1,44 @@
+{
+  "num": "1928",
+  "name": {
+    "en": "Nendoroid Sackboy",
+    "ja": "ねんどろいど リビッツ (ねんどろいど りびっつ)",
+    "ko": "색보이"
+  },
+  "series": {
+    "en": "LittleBigPlanet",
+    "ja": "リトルビッグプラネット",
+    "ko": "리틀빅플래닛",
+    "code": "littlebigplanet"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 13089,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220809/13089/102617/large/79a3d22b8ccb2bb8d0d599f66fc9b5fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.676Z",
+    "updated_at": "2026-05-15T14:15:10.846Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1928.json"
+}

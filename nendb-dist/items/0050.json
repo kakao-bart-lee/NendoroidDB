@@ -1,0 +1,48 @@
+{
+  "num": "0050",
+  "name": {
+    "en": "Nendoroid Saber Lion (せいばーらいおん ねんどろいど)",
+    "ja": "ねんどろいど セイバーライオン (せいばーらいおん ねんどろいど)",
+    "ko": "세이버 라이온"
+  },
+  "series": {
+    "en": "Fate/Tiger Colosseum",
+    "ja": "フェイト/タイガーころしあむアッパー",
+    "ko": "페이트 시리즈",
+    "code": "fate-tiger-colosseum"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2008-12",
+      "status": "released"
+    },
+    {
+      "date": "2012-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 491,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/491/5227/large/480a5bc51fbf9a7d0fdf0d3512330172.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.084Z",
+    "updated_at": "2026-05-15T14:15:10.385Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/050.json"
+}

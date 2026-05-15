@@ -1,0 +1,44 @@
+{
+  "num": "0716",
+  "name": {
+    "en": "Nendoroid MegaMan.EXE: Super Movable Edition",
+    "ja": "ねんどろいど ロックマン エグゼ スーパームーバブル・エディション (ねんどろいど ろっくまん えぐぜ すーぱーむーばぶる・えでぃしょん)",
+    "ko": "록맨.EXE"
+  },
+  "series": {
+    "en": "Mega Man Battle Network",
+    "ja": "バトルネットワーク ロックマンエグゼ",
+    "ko": "록맨 시리즈",
+    "code": "mega-man-battle-network"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6129,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161213/6129/42851/large/92aec212bb51cd83730175f9756f4be8.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.331Z",
+    "updated_at": "2026-05-15T14:15:10.547Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/716.json"
+}

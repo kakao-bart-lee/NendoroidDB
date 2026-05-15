@@ -1,0 +1,44 @@
+{
+  "num": "662-DX",
+  "name": {
+    "en": "Nendoroid Deadpool DX",
+    "ja": "ねんどろいど デッドプール DX (ねんどろいど でっどぷーる DX)",
+    "ko": "데드풀 오레짱 에디션 DX"
+  },
+  "series": {
+    "en": "Deadpool",
+    "ja": "デッドプール",
+    "ko": "데드풀",
+    "code": "deadpool"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 10714,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210122/10714/80263/large/d40228309f7dcc7ca6f07762e97c51e5.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.314Z",
+    "updated_at": "2026-05-15T14:15:10.919Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/662-DX.json"
+}

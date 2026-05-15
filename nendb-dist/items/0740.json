@@ -1,0 +1,48 @@
+{
+  "num": "0740",
+  "name": {
+    "en": "Nendoroid Kasumi Toyama",
+    "ja": "ねんどろいど 戸山香澄 (ねんどろいど とやまかすみ)",
+    "ko": "토야마 카스미"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-08",
+      "status": "released"
+    },
+    {
+      "date": "2019-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170215/6258/43820/large/f64a09a096c751e01c5d237767e366a6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.338Z",
+    "updated_at": "2026-05-15T14:15:10.553Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/740.json"
+}

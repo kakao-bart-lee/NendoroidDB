@@ -1,0 +1,56 @@
+{
+  "num": "0707",
+  "name": {
+    "en": "Nendoroid Sasuke Uchiha",
+    "ja": "ねんどろいど うちはサスケ (ねんどろいど うちはさすけ)",
+    "ko": "우치하 사스케"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2019-06",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 6106,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161201/6106/42719/large/87ac70ce2b3730771a4c9687054b7cf0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.328Z",
+    "updated_at": "2026-05-15T14:15:10.544Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/707.json"
+}

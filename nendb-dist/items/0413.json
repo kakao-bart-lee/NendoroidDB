@@ -1,0 +1,48 @@
+{
+  "num": "0413",
+  "name": {
+    "en": "Nendoroid Link: The Wind Waker ver. (ねんどろいど りんく かぜのたくとVer.)",
+    "ja": "ねんどろいど リンク 風のタクトVer. (ねんどろいど りんく かぜのたくとVer.)",
+    "ko": "링크 바람의 택트 Ver."
+  },
+  "series": {
+    "en": "The Legend of Zelda: The Wind Waker HD",
+    "ja": "ゼルダの伝説 風のタクトHD",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-the-wind-waker-hd"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    },
+    {
+      "date": "2015-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 4370,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140409/4370/28539/large/f02e6449bb268ae8ea7b7c8dd1c9ac74.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.219Z",
+    "updated_at": "2026-05-15T14:15:10.467Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/413.json"
+}

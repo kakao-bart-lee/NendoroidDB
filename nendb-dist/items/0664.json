@@ -1,0 +1,48 @@
+{
+  "num": "0664",
+  "name": {
+    "en": "Nendoroid Shielder/Mash Kyrielight",
+    "ja": "ねんどろいど シールダー/マシュ・キリエライト (ねんどろいど しーるだー/ましゅ・きりえらいと)",
+    "ko": "실더/마슈 키리에라이트"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-01",
+      "status": "released"
+    },
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5878,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160819/5878/40706/large/e5aad82c73dc75b982b84fde2b48bd80.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.315Z",
+    "updated_at": "2026-05-15T14:15:10.529Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/664.json"
+}

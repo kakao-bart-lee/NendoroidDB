@@ -1,0 +1,48 @@
+{
+  "num": "0772",
+  "name": {
+    "en": "Nendoroid Daichi Sawamura",
+    "ja": "ねんどろいど 澤村大地 (ねんどろいど さわむらだいち)",
+    "ko": "사와무라 다이치"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-10",
+      "status": "released"
+    },
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 6446,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170518/6446/45438/large/7d0f646a655cd2bf3bb3fa0cc25302c6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.349Z",
+    "updated_at": "2026-05-15T14:15:10.561Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/772.json"
+}

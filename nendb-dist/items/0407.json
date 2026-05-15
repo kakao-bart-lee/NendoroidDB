@@ -1,0 +1,52 @@
+{
+  "num": "0407",
+  "name": {
+    "en": "Nendoroid Ryuko Matoi (ねんどろいど まといりゅうこ)",
+    "ja": "ねんどろいど 纏流子 (ねんどろいど まといりゅうこ)",
+    "ko": "마토이 류코"
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 4261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140317/4261/44891/large/f5f9741033ef8657a8e15280be898977.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.217Z",
+    "updated_at": "2026-05-15T14:15:10.466Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/407.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1166",
+  "name": {
+    "en": "Nendoroid Mo Xu",
+    "ja": "ねんどろいど シモン (ねんどろいど しもん)",
+    "ko": "허묵"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-03",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8521,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190705/8521/61667/large/79e347961990edcb2a69c9e896ca4149.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.461Z",
+    "updated_at": "2026-05-15T14:15:10.665Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1166.json"
+}

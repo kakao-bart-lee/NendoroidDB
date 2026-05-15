@@ -1,0 +1,44 @@
+{
+  "num": "0388",
+  "name": {
+    "en": "Nendoroid Akari Taiyo (ねんどろいど たいようあかり)",
+    "ja": "ねんどろいど 太陽あかり (ねんどろいど たいようあかり)",
+    "ko": "타이요 아카리"
+  },
+  "series": {
+    "en": "Day Break Illusion",
+    "ja": "幻影ヲ駆ケル太陽",
+    "ko": "환영을 달리는 태양",
+    "code": "day-break-illusion"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4141,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131202/4141/27262/large/14830e676ce89338342def9d12cc7973.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.209Z",
+    "updated_at": "2026-05-15T14:15:10.461Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/388.json"
+}

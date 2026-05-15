@@ -1,0 +1,44 @@
+{
+  "num": "0484",
+  "name": {
+    "en": "Nendoroid Kokomi Shina (ねんどろいど しいなここみ)",
+    "ja": "ねんどろいど 椎名心実 (ねんどろいど しいなここみ)",
+    "ko": "시이나 코코미"
+  },
+  "series": {
+    "en": "Girl Friend Beta",
+    "ja": "ガールフレンド（仮）",
+    "ko": "걸프렌드",
+    "code": "girl-friend-beta"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 4759,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141204/4759/31601/large/01b9f44dca3f792221454776e0d92193.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.253Z",
+    "updated_at": "2026-05-15T14:15:10.483Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/484.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0779",
+  "name": {
+    "en": "Nendoroid Lyria & Vee",
+    "ja": "ねんどろいど ルリア&ビィ (ねんどろいど るりあ&びぃ)",
+    "ko": "루리아 & 비"
+  },
+  "series": {
+    "en": "GRANBLUE FANTASY: The Animation",
+    "ja": "グランブルーファンタジー ジ・アニメーション",
+    "ko": "그랑블루 판타지",
+    "code": "granblue-fantasy-the-animation"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4991,
+  "gsc_product_num": 6472,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170526/6472/45643/large/a0ad9bf01acf2db32de1bc108e4a6554.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.352Z",
+    "updated_at": "2026-05-15T14:15:10.562Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/779.json"
+}

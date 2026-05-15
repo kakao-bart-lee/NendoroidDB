@@ -1,0 +1,44 @@
+{
+  "num": "2259",
+  "name": {
+    "en": "Nendoroid Aika Natsukawa",
+    "ja": "ねんどろいど 夏川愛華 (ねんどろいど なつかわあいか)",
+    "ko": "나츠카와 아이카"
+  },
+  "series": {
+    "en": "The Dreaming Boy is a Realist",
+    "ja": "夢見る男子は現実主義者",
+    "ko": "꿈꾸는 남자는 현실주의자",
+    "code": "the-dreaming-boy-is-a-realist"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 14936,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230908/14936/120830/large/c95fbcf77e092f0607c3747ff4164363.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.767Z",
+    "updated_at": "2026-05-15T14:15:10.915Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2259.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1116",
+  "name": {
+    "en": "Nendoroid Kizuna AI: A.I.Games 2019 Ver.",
+    "ja": "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
+    "ko": "키즈나 아이 A.I.Games 2019 Ver."
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 8226,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190404/8226/59350/large/a0f9573019bffdd7753d1692319fb6b8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.446Z",
+    "updated_at": "2026-05-15T14:15:10.652Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1116.json"
+}

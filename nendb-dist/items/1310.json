@@ -1,0 +1,44 @@
+{
+  "num": "1310",
+  "name": {
+    "en": "Nendoroid Hyuuga Masamune",
+    "ja": "ねんどろいど 日向正宗 (ねんどろいど ひゅうがまさむね)",
+    "ko": "휴가 마사무네"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 9374,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200323/9374/68477/large/cd4ebd85c11ad9a5e434679cc2334c01.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.503Z",
+    "updated_at": "2026-05-15T14:15:10.709Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1310.json"
+}

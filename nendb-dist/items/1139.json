@@ -1,0 +1,44 @@
+{
+  "num": "1139",
+  "name": {
+    "en": "Nendoroid Aya Maruyama: Stage Outfit Ver.",
+    "ja": "ねんどろいど 丸山彩 ステージ衣装Ver. (ねんどろいど まるやまあや すてーじいしょうVer.)",
+    "ko": "마루야마 아야 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 8362,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190523/8362/60401/large/eb805029e66b4c5dde2e49fb904456ea.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.453Z",
+    "updated_at": "2026-05-15T14:15:10.658Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1139.json"
+}

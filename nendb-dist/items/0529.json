@@ -1,0 +1,44 @@
+{
+  "num": "0529",
+  "name": {
+    "en": "Nendoroid Tobio Kageyama: Karasuno High School Volleyball Club's Jersey Ver. (ねんどろいど かげやまとびお からすのはいきゅうぶじゃーじVer.)",
+    "ja": "ねんどろいど 影山飛雄 烏野高校排球部ジャージVer. (ねんどろいど かげやまとびお からすのこうこうはいきゅうぶじゃーじVer.)",
+    "ko": "카게야마 토비오 카라스노 고등학교 배구부 저지 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3056,
+  "gsc_product_num": 5179,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150807/5179/35054/large/db966a0f5cb91e36185e1c34bd95d6ab.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.266Z",
+    "updated_at": "2026-05-15T14:15:10.494Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/529.json"
+}

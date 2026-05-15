@@ -1,0 +1,44 @@
+{
+  "num": "0538",
+  "name": {
+    "en": "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ja": "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ko": "라이덴 MGS2 Ver."
+  },
+  "series": {
+    "en": "METAL GEAR SOLID 2: SONS OF LIBERTY",
+    "ja": "METAL GEAR SOLID2: SONS OF LIBERTY",
+    "ko": "메탈기어 솔리드",
+    "code": "metal-gear-solid-2-sons-of-liberty"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 5114,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150707/5114/34475/large/e5a72041d0b6a403921b9612c7df9c20.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.269Z",
+    "updated_at": "2026-05-15T14:15:10.497Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/538.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0486",
+  "name": {
+    "en": "Nendoroid Archer: Super Movable Edition (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ja": "ねんどろいど アーチャー スーパームーバブル・エディション (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ko": "아처"
+  },
+  "series": {
+    "en": "Fate/stay night [Unlimited Blade Works]",
+    "ja": "Fate/stay night [Unlimited Blade Works]",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-unlimited-blade-works"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-04",
+      "status": "released"
+    },
+    {
+      "date": "2017-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3769,
+  "gsc_product_num": 4768,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141209/4768/31680/large/d7ee71ad647b4d77488f4c3f53cfc0cf.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.253Z",
+    "updated_at": "2026-05-15T14:15:10.484Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/486.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1276",
+  "name": {
+    "en": "Nendoroid Josuke Higashikata",
+    "ja": "ねんどろいど 東方仗助 (ねんどろいど ひがしがたじょうすけ)",
+    "ko": "히가시카타 죠스케"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-diamond-is-unbreakable"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 9193,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200121/9193/66951/large/1548a5739121a41daef9ba480f1e3351.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.493Z",
+    "updated_at": "2026-05-15T14:15:10.693Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1276.json"
+}

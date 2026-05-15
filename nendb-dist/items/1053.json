@@ -1,0 +1,48 @@
+{
+  "num": "1053",
+  "name": {
+    "en": "Nendoroid Reg",
+    "ja": "ねんどろいど レグ (ねんどろいど れぐ)",
+    "ko": "레그"
+  },
+  "series": {
+    "en": "Made in Abyss",
+    "ja": "メイドインアビス",
+    "ko": "메이드 인 어비스",
+    "code": "made-in-abyss"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    },
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 7903,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181214/7903/57046/large/01510bbab7d134f4f76afab3fb34481d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.430Z",
+    "updated_at": "2026-05-15T14:15:10.633Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1053.json"
+}

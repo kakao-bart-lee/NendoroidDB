@@ -1,0 +1,44 @@
+{
+  "num": "1719",
+  "name": {
+    "en": "Nendoroid Caster/Merlin (Prototype)",
+    "ja": "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
+    "ko": "멀린 프로토타입"
+  },
+  "series": {
+    "en": "Fate/Grand Order Arcade",
+    "ja": "Fate/Grand Order Arcade",
+    "ko": "Fate/Grand Order Arcade",
+    "code": "fate-grand-order-arcade"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 11832,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210927/11832/90434/large/0ecb7704d188975bf411e265c516bc93.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.622Z",
+    "updated_at": "2026-05-15T14:15:10.803Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1719.json"
+}

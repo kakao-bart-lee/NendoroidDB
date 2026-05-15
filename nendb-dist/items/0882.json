@@ -1,0 +1,48 @@
+{
+  "num": "0882",
+  "name": {
+    "en": "Nendoroid Yumeko Jabami",
+    "ja": "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
+    "ko": "자바미 유메코"
+  },
+  "series": {
+    "en": "Kakegurui - Compulsive Gambler",
+    "ja": "賭ケグルイ××",
+    "ko": "카케구루이",
+    "code": "kakegurui-compulsive-gambler"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-07",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 7030,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180201/7030/49963/large/236699e922f32b7a3f10b491dda92244.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.381Z",
+    "updated_at": "2026-05-15T14:15:10.589Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/882.json"
+}

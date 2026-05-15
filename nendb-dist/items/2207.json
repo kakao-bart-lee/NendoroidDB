@@ -1,0 +1,44 @@
+{
+  "num": "2207",
+  "name": {
+    "en": "Nendoroid Klein Moretti",
+    "ja": "ねんどろいど Klein Moretti (ねんどろいど くれいん・もれってぃ)",
+    "ko": "Klein Moretti"
+  },
+  "series": {
+    "en": "Lord of the Mysteries",
+    "ja": "Lord of the Mysteries",
+    "ko": "Lord of the Mysteries",
+    "code": "lord-of-the-mysteries"
+  },
+  "category": "more",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 14611,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230704/14611/117733/large/67dd8893c166fb7b4f145b7765d380ba.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.757Z",
+    "updated_at": "2026-05-15T14:15:10.905Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2207.json"
+}

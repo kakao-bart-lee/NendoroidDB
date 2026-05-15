@@ -1,0 +1,44 @@
+{
+  "num": "1509",
+  "name": {
+    "en": "Nendoroid Sakura Matou: Grail of Makiri Ver.",
+    "ja": "ねんどろいど 間桐桜～マキリの杯～ (ねんどろいど まとうさくら～まきりのはい～)",
+    "ko": "마토 사쿠라 ~마키리의 잔~"
+  },
+  "series": {
+    "en": "Fate/stay night: Heaven's Feel",
+    "ja": "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-heaven-s-feel"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 10159,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200930/10159/75193/large/76d4fa1cc8ad0b6a11c585f6a43eeb03.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.562Z",
+    "updated_at": "2026-05-15T14:15:10.756Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1509.json"
+}

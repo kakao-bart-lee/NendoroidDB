@@ -1,0 +1,44 @@
+{
+  "num": "2199",
+  "name": {
+    "en": "Nendoroid Minato Mito",
+    "ja": "ねんどろいど 三兎湊 (ねんどろいど みとみなと)",
+    "ko": "미토 미나토"
+  },
+  "series": {
+    "en": "Therapy Game",
+    "ja": "セラピーゲーム",
+    "ko": "테라피 게임",
+    "code": "therapy-game"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14590,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230627/14590/117478/large/3c23b1a9fd8529c16d521bca293e6303.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.756Z",
+    "updated_at": "2026-05-15T14:15:10.903Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2199.json"
+}

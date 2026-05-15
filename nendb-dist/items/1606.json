@@ -1,0 +1,44 @@
+{
+  "num": "1606",
+  "name": {
+    "en": "Nendoroid Kai'Sa",
+    "ja": "ねんどろいど カイ=サ (ねんどろいど かい=さ)",
+    "ko": "카이사"
+  },
+  "series": {
+    "en": "League of Legends",
+    "ja": "リーグ・オブ・レジェンド",
+    "ko": "리그 오브 레전드",
+    "code": "league-of-legends"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 11121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11121/83916/large/e656ca3b49928008f564a265b7062f32.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.591Z",
+    "updated_at": "2026-05-15T14:15:10.777Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1606.json"
+}

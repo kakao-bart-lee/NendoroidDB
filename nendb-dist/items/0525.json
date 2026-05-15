@@ -1,0 +1,44 @@
+{
+  "num": "0525",
+  "name": {
+    "en": "Nendoroid Kogitsunemaru (ねんどろいど こぎつねまる)",
+    "ja": "ねんどろいど 小狐丸 (ねんどろいど こぎつねまる)",
+    "ko": "코기츠네마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4481,
+  "gsc_product_num": 5028,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150522/5028/33764/large/4acf23e80291f4e0c7d39f09f2bf517d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.264Z",
+    "updated_at": "2026-05-15T14:15:10.493Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/525.json"
+}

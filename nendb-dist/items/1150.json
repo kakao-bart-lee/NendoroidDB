@@ -1,0 +1,44 @@
+{
+  "num": "1150",
+  "name": {
+    "en": "Nendoroid Rider/Altria Pendragon (Alter)",
+    "ja": "ねんどろいど ライダー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らいだー/あるとりあ・ぺんどらごん〔おるた〕)",
+    "ko": "라이더/알트리아 펜드래건[얼터]"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 8380,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190529/8380/60565/large/ec85d964d0ea15dac440b6f9782807e2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.456Z",
+    "updated_at": "2026-05-15T14:15:10.660Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1150.json"
+}

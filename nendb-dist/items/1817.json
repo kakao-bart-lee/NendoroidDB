@@ -1,0 +1,44 @@
+{
+  "num": "1817",
+  "name": {
+    "en": "Nendoroid Monika",
+    "ja": "ねんどろいど モニカ (ねんどろいど もにか)",
+    "ko": "모니카"
+  },
+  "series": {
+    "en": "Doki Doki Literature Club!",
+    "ja": "ドキドキ文芸部!",
+    "ko": "두근두근 문예부!",
+    "code": "doki-doki-literature-club"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 12307,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220202/12307/95048/large/67f48b3602b8c0c7e82d25e824ca0a6e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.646Z",
+    "updated_at": "2026-05-15T14:15:10.822Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1817.json"
+}

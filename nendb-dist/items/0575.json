@@ -1,0 +1,52 @@
+{
+  "num": "0575",
+  "name": {
+    "en": "Nendoroid Saitama",
+    "ja": "ねんどろいど サイタマ (ねんどろいど さいたま)",
+    "ko": "사이타마"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-04",
+      "status": "released"
+    },
+    {
+      "date": "2016-08",
+      "status": "released"
+    },
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5303,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151030/5303/36156/large/6a1d8246fcb0ff4dd91034ef165a4a51.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.279Z",
+    "updated_at": "2026-05-15T14:15:10.507Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/575.json"
+}

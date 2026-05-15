@@ -1,0 +1,44 @@
+{
+  "num": "0491",
+  "name": {
+    "en": "Nendoroid Kirishima",
+    "ja": "ねんどろいど 霧島 (ねんどろいど きりしま)",
+    "ko": "키리시마"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 4798,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141218/4798/31862/large/0da63d7a73a8b40264bd7f9c200513bf.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.255Z",
+    "updated_at": "2026-05-15T14:15:10.485Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/491.json"
+}

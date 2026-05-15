@@ -1,0 +1,44 @@
+{
+  "num": "0266",
+  "name": {
+    "en": "Nendoroid Hunter: Male Swordsman - Lagia X Edition (ねんどろいど はんたー♂ けんし らぎあX・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♂ 剣士 ラギアX・エディション (ねんどろいど はんたー♂ けんし らぎあX・えでぃしょん)",
+    "ko": "헌터♂ 검사 라기아X 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter Tri G",
+    "ja": "モンスターハンター3（トライ）G",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-tri-g"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3621,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120723/3621/19650/large/c302c88f82f33dcde07ed38ae828bef9.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.159Z",
+    "updated_at": "2026-05-15T14:15:10.432Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/266.json"
+}

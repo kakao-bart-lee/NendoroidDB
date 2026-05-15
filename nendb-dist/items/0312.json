@@ -1,0 +1,44 @@
+{
+  "num": "0312",
+  "name": {
+    "en": "Nendoroid Haruka Minami (ねんどろいど みなみ はるか)",
+    "ja": "ねんどろいど 南 春香 (ねんどろいど みなみ はるか)",
+    "ko": "미나미 하루카"
+  },
+  "series": {
+    "en": "Minamike Tadaima",
+    "ja": "みなみけ ただいま",
+    "ko": "미나미가",
+    "code": "minamike-tadaima"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3840,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130219/3840/22715/large/f4f7b1be71b4f21858e65d842f428046.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.176Z",
+    "updated_at": "2026-05-15T14:15:10.443Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/312.json"
+}

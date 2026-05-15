@@ -1,0 +1,44 @@
+{
+  "num": "1336",
+  "name": {
+    "en": "Nendoroid Draco Malfoy: Quidditch Ver.",
+    "ja": "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
+    "ko": "드레이코 말포이 퀴디치 Ver."
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 9463,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200427/9463/69343/large/23af110c830507a05bfe5cbbb5f29965.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.511Z",
+    "updated_at": "2026-05-15T14:15:10.716Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1336.json"
+}

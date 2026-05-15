@@ -1,0 +1,44 @@
+{
+  "num": "0507",
+  "name": {
+    "en": "Nendoroid Cynthia (ねんどろいど しろな)",
+    "ja": "ねんどろいど シロナ (ねんどろいど しろな)",
+    "ko": "난천"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 4870,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150226/4870/32483/large/7aa6fcfb56e2d9673bb1360598f56623.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.260Z",
+    "updated_at": "2026-05-15T14:15:10.488Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/507.json"
+}

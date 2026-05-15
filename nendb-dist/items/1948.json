@@ -1,0 +1,44 @@
+{
+  "num": "1948",
+  "name": {
+    "en": "Nendoroid Nezuko Kamado (Demon Form Advancing Ver.)",
+    "ja": "ねんどろいど 竈門禰豆子 鬼化進行時Ver. (ねんどろいど かまどねずこ おにかしんこうじVer.)",
+    "ko": "카마도 네즈코: 귀화 Ver."
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13073,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220803/13073/104055/large/3abc64950ae441cb80ff7ba6ce2c981c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.683Z",
+    "updated_at": "2026-05-15T14:15:10.850Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1948.json"
+}

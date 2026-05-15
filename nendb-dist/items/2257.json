@@ -1,0 +1,44 @@
+{
+  "num": "2257",
+  "name": {
+    "en": "Nendoroid Ai Hayasaka",
+    "ja": "ねんどろいど 早坂愛 (ねんどろいど はやさかあい)",
+    "ko": "하야사카 아이"
+  },
+  "series": {
+    "en": "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
+    "ja": "アニメ「かぐや様は告らせたい-ファーストキッスは終わらない-」",
+    "ko": "카구야 님은 고백받고 싶어",
+    "code": "kaguya-sama-love-is-war-the-first-kiss-that-never-ends"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 14926,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230907/14926/120705/large/25ac0b05f73d782ce52b8b9944afaa9e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.767Z",
+    "updated_at": "2026-05-15T14:15:10.915Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2257.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "2218",
+  "name": {
+    "en": "Nendoroid Muichiro Tokito",
+    "ja": "ねんどろいど 時透無一郎 (ねんどろいど ときとうむいちろう)",
+    "ko": "토키토 무이치로"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14689,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230720/14689/118453/large/bd9f0ff770079809739996d4d551d1f9.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.760Z",
+    "updated_at": "2026-05-15T14:15:10.908Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2218.json"
+}

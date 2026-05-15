@@ -1,0 +1,44 @@
+{
+  "num": "0307b",
+  "name": {
+    "en": "Nendoroid Melona: 2P Color Ver. (ねんどろいど　めろーな　2PからーVer.)",
+    "ja": "ねんどろいど メローナ 2PカラーVer. (ねんどろいど　めろーな　2PからーVer.)",
+    "ko": "메로나 2P 컬러 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3943,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130606/3943/24384/large/5e18f0532eae24dff2d4e9f581e9dce1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.174Z",
+    "updated_at": "2026-05-15T14:15:10.442Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/307b.json"
+}

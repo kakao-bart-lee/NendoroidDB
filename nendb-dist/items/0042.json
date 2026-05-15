@@ -1,0 +1,52 @@
+{
+  "num": "0042",
+  "name": {
+    "en": "Nendoroid Miku Hatsune: Hachune Face Ver. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
+    "ja": "ねんどろいど 初音ミク はちゅねフェイスVer. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
+    "ko": "하츠네 미쿠 하츄네 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Miku Hatsune",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-miku-hatsune"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2008-08",
+      "status": "released"
+    },
+    {
+      "date": "2012-07",
+      "status": "released"
+    },
+    {
+      "date": "2013-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3615,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120720/3615/19605/large/4e249557d5ebb9a80acefc07782694c2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.080Z",
+    "updated_at": "2026-05-15T14:15:10.383Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/042.json"
+}

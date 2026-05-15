@@ -1,0 +1,44 @@
+{
+  "num": "0519",
+  "name": {
+    "en": "Nendoroid Angela Balzac: Super Movable Edition (ねんどろいど あんじぇら・ばるざっく すーぱーむーばぶる・えでぃしょん)",
+    "ja": "ねんどろいどアンジェラ・バルザック スーパームーバブル・エディション (ねんどろいど あんじぇら・ばるざっく すーぱーむーばぶる・えでぃしょん)",
+    "ko": "안젤라 발자크"
+  },
+  "series": {
+    "en": "Expelled from Paradise",
+    "ja": "楽園追放 -Expelled from Paradise-",
+    "ko": "낙원추방",
+    "code": "expelled-from-paradise"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 5012,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150518/5012/33573/large/a5fb8a99749b9786ffc23514c330bd4c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.263Z",
+    "updated_at": "2026-05-15T14:15:10.491Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/519.json"
+}

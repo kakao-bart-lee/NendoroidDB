@@ -1,0 +1,44 @@
+{
+  "num": "2037",
+  "name": {
+    "en": "Nendoroid Mejiro McQueen",
+    "ja": "ねんどろいど メジロマックイーン (ねんどろいど めじろまっくいーん)",
+    "ko": "메지로 맥퀸"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 13647,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221207/13647/109270/large/d1341242d3207f7a9c47055ce0a5d7b4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.707Z",
+    "updated_at": "2026-05-15T14:15:10.870Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2037.json"
+}

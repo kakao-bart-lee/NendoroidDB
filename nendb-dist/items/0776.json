@@ -1,0 +1,44 @@
+{
+  "num": "0776",
+  "name": {
+    "en": "Nendoroid Luna Sakurakouji",
+    "ja": "ねんどろいど 桜小路ルナ (ねんどろいど さくらこうじるな)",
+    "ko": "사쿠라코우지 루나"
+  },
+  "series": {
+    "en": "Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~",
+    "ja": "月に寄りそう乙女の作法 ～ひだまりの日々～",
+    "ko": "달에 다가가는 소녀의 작법",
+    "code": "tsuki-ni-yorisou-otome-no-sahou-hidamari-no-hibi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 6451,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170522/6451/45482/large/a5e53a7ad247ffac1c2011c9ba49751f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.350Z",
+    "updated_at": "2026-05-15T14:15:10.562Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/776.json"
+}

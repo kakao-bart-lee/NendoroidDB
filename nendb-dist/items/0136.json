@@ -1,0 +1,48 @@
+{
+  "num": "0136",
+  "name": {
+    "en": "Nendoroid Flandre Scarlet (ねんどろいど　ふらんどーる・すかーれっと)",
+    "ja": "ねんどろいど フランドール・スカーレット (ねんどろいど　ふらんどーる・すかーれっと)",
+    "ko": "플랑드르 스칼렛"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-01",
+      "status": "released"
+    },
+    {
+      "date": "2012-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 2973,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20100922/2973/11455/large/858c634176c83dc3e40ae2b0b1ecb7ee.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.113Z",
+    "updated_at": "2026-05-15T14:15:10.404Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/136.json"
+}

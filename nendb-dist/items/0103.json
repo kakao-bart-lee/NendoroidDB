@@ -1,0 +1,44 @@
+{
+  "num": "0103",
+  "name": {
+    "en": "Nendoroid Sanae Kochiya (ねんどろいど こちやさなえ)",
+    "ja": "ねんどろいど 東風谷早苗 (ねんどろいど こちやさなえ )",
+    "ko": "코치야 사나에"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 2767,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091225/2767/8686/large/e6a5d74eb6d71beee78764e575649f95.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.102Z",
+    "updated_at": "2026-05-15T14:15:10.397Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/103.json"
+}

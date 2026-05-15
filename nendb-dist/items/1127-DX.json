@@ -1,0 +1,44 @@
+{
+  "num": "1127-DX",
+  "name": {
+    "en": "Nendoroid Winter Soldier: Infinity Edition DX Ver.",
+    "ja": "ねんどろいど ウィンター・ソルジャー インフィニティ・エディション DX Ver. (ねんどろいど うぃんたー・そるじゃー いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko": "윈터솔져 어벤져스 인피니티워 에디션 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8100,
+  "gsc_product_num": 8440,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190618/8440/61096/large/f298dcf393e72ad4169298df0f0a2fa4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.449Z",
+    "updated_at": "2026-05-15T14:15:10.655Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1127-DX.json"
+}

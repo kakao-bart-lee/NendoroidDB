@@ -1,0 +1,44 @@
+{
+  "num": "1271",
+  "name": {
+    "en": "Nendoroid Senko",
+    "ja": "ねんどろいど 仙狐 (ねんどろいど せんこ)",
+    "ko": "센코"
+  },
+  "series": {
+    "en": "The Helpful Fox Senko-san",
+    "ja": "世話やきキツネの仙狐さん",
+    "ko": "도우미 여우 센코 씨",
+    "code": "the-helpful-fox-senko-san"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9189,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200120/9189/66898/large/66b690385047e77d7d0f947d3bb153d2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.492Z",
+    "updated_at": "2026-05-15T14:15:10.691Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1271.json"
+}

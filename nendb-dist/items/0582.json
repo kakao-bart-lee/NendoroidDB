@@ -1,0 +1,48 @@
+{
+  "num": "0582",
+  "name": {
+    "en": "Nendoroid Hana Isuzu",
+    "ja": "ねんどろいど 五十鈴華 (ねんどろいど いすずはな)",
+    "ko": "이스즈 하나"
+  },
+  "series": {
+    "en": "GIRLS und PANZER",
+    "ja": "ガールズ＆パンツァー",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-06",
+      "status": "released"
+    },
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5322,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151110/5322/36302/large/260fe88933bf151a4dc8a0febb82ee69.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.282Z",
+    "updated_at": "2026-05-15T14:15:10.509Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/582.json"
+}

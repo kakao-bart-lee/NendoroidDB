@@ -1,0 +1,48 @@
+{
+  "num": "0105",
+  "name": {
+    "en": "Nendoroid Sakuya Izayoi (ねんどろいど いざよいさくや)",
+    "ja": "ねんどろいど 十六夜咲夜 (ねんどろいど いざよいさくや)",
+    "ko": "이자요이 사쿠야"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-05",
+      "status": "released"
+    },
+    {
+      "date": "2012-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 2797,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20100128/2797/9189/large/d7878deabaca925b4b17fe5ae38713a7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.102Z",
+    "updated_at": "2026-05-15T14:15:10.397Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/105.json"
+}

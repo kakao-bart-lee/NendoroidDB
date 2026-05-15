@@ -1,0 +1,48 @@
+{
+  "num": "0929",
+  "name": {
+    "en": "Nendoroid Syaro",
+    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "ko": "키리마 샤로"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-12",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 7261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180508/7261/51858/large/613f614845b308ab78d605d60a6c2845.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.394Z",
+    "updated_at": "2026-05-15T14:15:10.601Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/929.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1134",
+  "name": {
+    "en": "Nendoroid SQUALO",
+    "ja": "ねんどろいど スクアーロ (ねんどろいど すくあーろ)",
+    "ko": "스페르비 스쿠알로"
+  },
+  "series": {
+    "en": "Reborn!",
+    "ja": "家庭教師ヒットマンREBORN!",
+    "ko": "가정교사 히트맨 REBORN!",
+    "code": "reborn"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8341,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190517/8341/60254/large/f8e6e1156c3911514b6006b5b4c72d8d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.452Z",
+    "updated_at": "2026-05-15T14:15:10.656Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1134.json"
+}

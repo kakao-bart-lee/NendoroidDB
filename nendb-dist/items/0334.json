@@ -1,0 +1,44 @@
+{
+  "num": "0334",
+  "name": {
+    "en": "Nendoroid Ricca Morizono (ねんどろいど もりぞのりっか)",
+    "ja": "ねんどろいど 森園立夏 (ねんどろいど もりぞのりっか)",
+    "ko": "모리조노 릿카"
+  },
+  "series": {
+    "en": "D.C.III ~Da Capo III~",
+    "ja": "D.C.Ⅲ ～ダ・カーポⅢ～",
+    "ko": "다카포",
+    "code": "d-c-iii-da-capo-iii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3934,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130529/3934/24239/large/cf792fac6a6a1ed5694a59dfe52fd088.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.184Z",
+    "updated_at": "2026-05-15T14:15:10.449Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/334.json"
+}

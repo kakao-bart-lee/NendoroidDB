@@ -1,0 +1,52 @@
+{
+  "num": "0365",
+  "name": {
+    "en": "Nendoroid Mikasa Ackerman",
+    "ja": "ねんどろいど ミカサ・アッカーマン (ねんどろいど みかさ・あっかーまん)",
+    "ko": "미카사 아커만"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-01",
+      "status": "released"
+    },
+    {
+      "date": "2019-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 4048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130828/4048/60042/large/13ed05b898fcedf094425a6062f28dd0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.196Z",
+    "updated_at": "2026-05-15T14:15:10.455Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/365.json"
+}

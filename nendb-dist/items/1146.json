@@ -1,0 +1,48 @@
+{
+  "num": "1146",
+  "name": {
+    "en": "Nendoroid 416",
+    "ja": "ねんどろいど 416 (ねんどろいど よんいちろく)",
+    "ko": "HK416"
+  },
+  "series": {
+    "en": "Girls' Frontline",
+    "ja": "ドールズフロントライン",
+    "ko": "소녀전선",
+    "code": "girls-frontline"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 8393,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190603/8393/60699/large/62542f6e05fc09b955ecc4408ad46fd5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.455Z",
+    "updated_at": "2026-05-15T14:15:10.660Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1146.json"
+}

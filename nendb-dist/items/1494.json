@@ -1,0 +1,44 @@
+{
+  "num": "1494",
+  "name": {
+    "en": "Nendoroid Yachiyo Nanami",
+    "ja": "ねんどろいど 七海やちよ (ねんどろいど ななみやちよ)",
+    "ko": "나나미 야치요"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica Side Story: Magia Record",
+    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-side-story-magia-record"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 10287,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201022/10287/76274/large/bf8369b9d20bd6e2bc3d5a1527c535e0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.558Z",
+    "updated_at": "2026-05-15T14:15:10.752Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1494.json"
+}

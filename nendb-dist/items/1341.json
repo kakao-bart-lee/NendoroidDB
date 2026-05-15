@@ -1,0 +1,44 @@
+{
+  "num": "1341",
+  "name": {
+    "en": "Nendoroid Hanako kun",
+    "ja": "ねんどろいど 花子くん (ねんどろいど はなこくん)",
+    "ko": "하나코"
+  },
+  "series": {
+    "en": "Toilet-bound Hanako kun",
+    "ja": "地縛少年花子くん",
+    "ko": "지박소년 하나코군",
+    "code": "toilet-bound-hanako-kun"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5400,
+  "gsc_product_num": 9511,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200515/9511/70458/large/2f25b3603d8368208a89fc60796ecea3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.512Z",
+    "updated_at": "2026-05-15T14:15:10.717Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1341.json"
+}

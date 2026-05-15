@@ -1,0 +1,44 @@
+{
+  "num": "1237",
+  "name": {
+    "en": "Nendoroid Momoko Asuka",
+    "ja": "ねんどろいど 飛鳥ももこ (ねんどろいど あすかももこ)",
+    "ko": "아스카 모모코"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오자마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8984,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191114/8984/65237/large/9a70be7058eece7bcf43d0c36283feff.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.482Z",
+    "updated_at": "2026-05-15T14:15:10.683Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1237.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0622",
+  "name": {
+    "en": "Nendoroid Zuikaku",
+    "ja": "ねんどろいど 瑞鶴 (ねんどろいど ずいかく)",
+    "ko": "즈이카쿠"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6112,
+  "gsc_product_num": 5613,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160419/5613/38619/large/5f6561a72ef999fbe92401eaa138300b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.299Z",
+    "updated_at": "2026-05-15T14:15:10.519Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/622.json"
+}

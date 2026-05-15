@@ -1,0 +1,48 @@
+{
+  "num": "0665",
+  "name": {
+    "en": "Nendoroid Koshi Sugawara",
+    "ja": "ねんどろいど 菅原孝支 (ねんどろいど すがわらこうし)",
+    "ko": "스가와라 코시"
+  },
+  "series": {
+    "en": "Haikyu!! Karasuno High School VS Shiratorizawa Academy",
+    "ja": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "ko": "하이큐!!",
+    "code": "haikyu-karasuno-high-school-vs-shiratorizawa-academy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5883,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160822/5883/40750/large/42cc08d2e62815e69b77744ee3a33b1f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.315Z",
+    "updated_at": "2026-05-15T14:15:10.530Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/665.json"
+}

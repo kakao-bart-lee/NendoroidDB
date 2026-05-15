@@ -1,0 +1,44 @@
+{
+  "num": "1750",
+  "name": {
+    "en": "Nendoroid Toge Inumaki",
+    "ja": "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
+    "ko": "이누마키 토게"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 11978,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211108/11978/91851/large/d8d58962a293f3f1145f34dc6116601c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.630Z",
+    "updated_at": "2026-05-15T14:15:10.808Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1750.json"
+}

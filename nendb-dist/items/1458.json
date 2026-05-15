@@ -1,0 +1,44 @@
+{
+  "num": "1458",
+  "name": {
+    "en": "Nendoroid Lux",
+    "ja": "ねんどろいど ラックス (ねんどろいど らっくす)",
+    "ko": "럭스"
+  },
+  "series": {
+    "en": "League of Legends",
+    "ja": "リーグ・オブ・レジェンド",
+    "ko": "리그 오브 레전드",
+    "code": "league-of-legends"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 10087,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200918/10087/74564/large/482d2e7c73827e608f59d63816eeced3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.546Z",
+    "updated_at": "2026-05-15T14:15:10.745Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1458.json"
+}

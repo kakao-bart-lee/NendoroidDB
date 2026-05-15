@@ -1,0 +1,44 @@
+{
+  "num": "1895",
+  "name": {
+    "en": "Nendoroid Skadi",
+    "ja": "ねんどろいど スカジ (ねんどろいど すかじ)",
+    "ko": "스카디"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7200,
+  "gsc_product_num": 12833,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220617/12833/100146/large/ca32f4f712316eb77a2a949bcbec1ee1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.664Z",
+    "updated_at": "2026-05-15T14:15:10.839Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1895.json"
+}

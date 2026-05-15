@@ -1,0 +1,44 @@
+{
+  "num": "1549",
+  "name": {
+    "en": "Nendoroid Butai Touken Ranbu Hiden Yui no Me no Hototogisu - Mikazuki Munechika",
+    "ja": "ねんどろいど 舞台『刀剣乱舞』悲伝 結いの目の不如帰 三日月宗近 (ねんどろいど ぶたい『とうけんらんぶ』ひでん ゆいのめのほととぎす みかづきむねちか)",
+    "ko": "미카즈키 무네치카"
+  },
+  "series": {
+    "en": "Butai Touken Ranbu Hiden Yui no Me no Hototogisu",
+    "ja": "舞台『刀剣乱舞』悲伝 結いの目の不如帰",
+    "ko": "도검난무-ONLINE-",
+    "code": "butai-touken-ranbu-hiden-yui-no-me-no-hototogisu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4500,
+  "gsc_product_num": 10641,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201225/10641/79508/large/c8644b555137553741f36017f936cfdc.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.575Z",
+    "updated_at": "2026-05-15T14:15:10.766Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1549.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1240",
+  "name": {
+    "en": "Nendoroid Rou Fu You",
+    "ja": "ねんどろいど 浪巫謠 (ねんどろいど ろうふよう)",
+    "ko": "낭무요"
+  },
+  "series": {
+    "en": "Thunderbolt Fantasy -Bewitching Melody of the West-",
+    "ja": "Thunderbolt Fantasy 西幽玹歌",
+    "ko": "Thunderbolt Fantasy 동리검유기",
+    "code": "thunderbolt-fantasy-bewitching-melody-of-the-west"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 9015,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191126/9015/65572/large/da11101a4f937457152ed444dc1fb23b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.483Z",
+    "updated_at": "2026-05-15T14:15:10.683Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1240.json"
+}

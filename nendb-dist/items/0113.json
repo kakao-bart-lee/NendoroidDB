@@ -1,0 +1,44 @@
+{
+  "num": "0113",
+  "name": {
+    "en": "Nendoroid Nene Anegasaki (ねんどろいど あねがさきねね)",
+    "ja": "ねんどろいど 姉ヶ崎寧々 (ねんどろいど あねがさきねね)",
+    "ko": "아네가사키 네네"
+  },
+  "series": {
+    "en": "Love Plus",
+    "ja": "ラブプラス",
+    "ko": "러브 플러스",
+    "code": "love-plus"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2897,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20100628/2897/10566/large/b0921c2600b4c70909cb082d206f81a7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.106Z",
+    "updated_at": "2026-05-15T14:15:10.399Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/113.json"
+}

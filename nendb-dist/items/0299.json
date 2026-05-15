@@ -1,0 +1,48 @@
+{
+  "num": "0299",
+  "name": {
+    "en": "Nendoroid Mikudayo- (ねんどろいど みくだよー)",
+    "ja": "ねんどろいど ミクダヨー (ねんどろいど みくだよー)",
+    "ko": "미쿠다요"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-07",
+      "status": "released"
+    },
+    {
+      "date": "2015-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3734,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20121102/3734/33354/large/5e0040efe2ee991638d370884d65e1aa.jpg",
+    "gallery": []
+  },
+  "character_gender": "DAYO",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.170Z",
+    "updated_at": "2026-05-15T14:15:10.439Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/299.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1155",
+  "name": {
+    "en": "Nendoroid Giorno Giovanna",
+    "ja": "ねんどろいど ジョルノ・ジョバァーナ (ねんどろいど じょるの・じょばぁーな)",
+    "ko": "죠르노 죠바나"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 8432,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190614/8432/61594/large/628a9ae3a546accb02f67f032a1c1cb0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.458Z",
+    "updated_at": "2026-05-15T14:15:10.662Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1155.json"
+}

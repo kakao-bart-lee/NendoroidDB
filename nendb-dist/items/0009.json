@@ -1,0 +1,56 @@
+{
+  "num": "0009",
+  "name": {
+    "en": "Nendoroid Haruhi Suzumiya (すずみやはるひ ねんどろいど)",
+    "ja": "ねんどろいど 涼宮ハルヒ (すずみやはるひ ねんどろいど)",
+    "ko": "스즈미야 하루히"
+  },
+  "series": {
+    "en": "The Melancholy of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの憂鬱",
+    "ko": "스즈미야 하루히의 우울",
+    "code": "the-melancholy-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2007-06",
+      "status": "released"
+    },
+    {
+      "date": "2007-11",
+      "status": "released"
+    },
+    {
+      "date": "2008-05",
+      "status": "released"
+    },
+    {
+      "date": "2008-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 390,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/390/5557/large/261c592fbe45df2db48b0194d7cbf701.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.067Z",
+    "updated_at": "2026-05-15T14:15:10.376Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/009.json"
+}

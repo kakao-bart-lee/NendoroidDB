@@ -1,0 +1,44 @@
+{
+  "num": "0467",
+  "name": {
+    "en": "Nendoroid Rei Ayanami: EVANGELION RACING Ver. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ja": "ねんどろいど 綾波レイ エヴァンゲリオンレーシングVer. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ko": "아야나미 레이 에반게리온 레이싱 Ver."
+  },
+  "series": {
+    "en": "EVANGELION RACING",
+    "ja": "エヴァンゲリオンレーシング",
+    "ko": "에반게리온",
+    "code": "evangelion-racing"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4690,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141017/4690/31035/large/09e72cfb79f81254a3f4fc9ccda5cfae.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.246Z",
+    "updated_at": "2026-05-15T14:15:10.479Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/467.json"
+}

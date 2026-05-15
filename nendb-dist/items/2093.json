@@ -1,0 +1,44 @@
+{
+  "num": "2093",
+  "name": {
+    "en": "Nendoroid Barbie",
+    "ja": "ねんどろいど Barbie (ねんどろいど ばーびー)",
+    "ko": "바비"
+  },
+  "series": {
+    "en": "Barbie",
+    "ja": "Barbie",
+    "ko": "바비",
+    "code": "barbie"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 9400,
+  "gsc_product_num": 14084,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230306/14084/112632/large/0eafe275c91064651ff5a46facf4bfcc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.723Z",
+    "updated_at": "2026-05-15T14:15:10.880Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2093.json"
+}

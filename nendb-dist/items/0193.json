@@ -1,0 +1,48 @@
+{
+  "num": "0193",
+  "name": {
+    "en": "Nendoroid Yozora Mikaduki (ねんどろいど みかづきよぞら)",
+    "ja": "ねんどろいど 三日月夜空 (ねんどろいど みかづきよぞら)",
+    "ko": "미카즈키 요조라"
+  },
+  "series": {
+    "en": "Boku wa Tomodachi ga Sukunai",
+    "ja": "僕は友達が少ない",
+    "ko": "나는 친구가 적다",
+    "code": "boku-wa-tomodachi-ga-sukunai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-01",
+      "status": "released"
+    },
+    {
+      "date": "2013-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3256,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110818/3256/15074/large/988e67456e80a01591fbd68935c960ea.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.136Z",
+    "updated_at": "2026-05-15T14:15:10.418Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/193.json"
+}

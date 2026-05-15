@@ -1,0 +1,44 @@
+{
+  "num": "0964",
+  "name": {
+    "en": "Nendoroid Otabek Altin",
+    "ja": "ねんどろいど オタベック・アルティン (ねんどろいど おたべっく・あるてぃん)",
+    "ko": "오타벡 알틴"
+  },
+  "series": {
+    "en": "YURI ON ICE",
+    "ja": "ユーリ!!! on ICE",
+    "ko": "유리!!! on ICE",
+    "code": "yuri-on-ice"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7423,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180710/7423/53137/large/5c2188280b435043af55d18f87b1b98f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.403Z",
+    "updated_at": "2026-05-15T14:15:10.611Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/964.json"
+}

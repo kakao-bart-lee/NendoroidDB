@@ -1,0 +1,48 @@
+{
+  "num": "0268",
+  "name": {
+    "en": "Nendoroid Akari Akaza (ねんどろいど あかざあかり)",
+    "ja": "ねんどろいど 赤座あかり (ねんどろいど あかざあかり)",
+    "ko": "아카자 아카리"
+  },
+  "series": {
+    "en": "YuruYuri",
+    "ja": "ゆるゆり♪♪",
+    "ko": "유루유리",
+    "code": "yuruyuri"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-12",
+      "status": "released"
+    },
+    {
+      "date": "2016-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3666,
+  "gsc_product_num": 3644,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120820/3644/41214/large/7ca293f2688d515815e51f38f1490976.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.160Z",
+    "updated_at": "2026-05-15T14:15:10.432Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/268.json"
+}

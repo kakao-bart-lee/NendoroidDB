@@ -1,0 +1,44 @@
+{
+  "num": "0370",
+  "name": {
+    "en": "Nendoroid Amy (ねんどろいど えいみー)",
+    "ja": "ねんどろいど エイミー (ねんどろいど えいみー)",
+    "ko": "에이미"
+  },
+  "series": {
+    "en": "Gargantia on the Verdurous Planet",
+    "ja": "翠星のガルガンティア",
+    "ko": "취성의 가르간티아",
+    "code": "gargantia-on-the-verdurous-planet"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5029,
+  "gsc_product_num": 4070,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130926/4070/26391/large/da9137d8a1bfc03f4fb9688a108f246d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.201Z",
+    "updated_at": "2026-05-15T14:15:10.456Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/370.json"
+}

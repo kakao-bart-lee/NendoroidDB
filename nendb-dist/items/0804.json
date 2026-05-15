@@ -1,0 +1,48 @@
+{
+  "num": "0804",
+  "name": {
+    "en": "Nendoroid Rapunzel",
+    "ja": "ねんどろいど ラプンツェル (ねんどろいど らぷんつぇる)",
+    "ko": "라푼젤"
+  },
+  "series": {
+    "en": "Tangled",
+    "ja": "塔の上のラプンツェル",
+    "ko": "라푼젤",
+    "code": "tangled"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5700,
+  "gsc_product_num": 6515,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170622/6515/46619/large/12de9bc76149943a66d3980e7a418447.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.357Z",
+    "updated_at": "2026-05-15T14:15:10.570Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/804.json"
+}

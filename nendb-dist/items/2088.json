@@ -1,0 +1,44 @@
+{
+  "num": "2088",
+  "name": {
+    "en": "Nendoroid Ango Sakaguchi",
+    "ja": "ねんどろいど 坂口安吾 (ねんどろいど さかぐちあんご)",
+    "ko": "사카구치 안고"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14132,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230320/14132/113096/large/afff068e0c6223b67dbd9423664332bb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.721Z",
+    "updated_at": "2026-05-15T14:15:10.879Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2088.json"
+}

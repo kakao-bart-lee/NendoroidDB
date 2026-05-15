@@ -1,0 +1,44 @@
+{
+  "num": "1721",
+  "name": {
+    "en": "Nendoroid Fujiwara-no-Sai",
+    "ja": "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
+    "ko": "후지와라노 사이"
+  },
+  "series": {
+    "en": "Hikaru no Go",
+    "ja": "ヒカルの碁",
+    "ko": "고스트 바둑왕",
+    "code": "hikaru-no-go"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 11849,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211001/11849/90543/large/8f342a6f3259c90e0397e28c40203a43.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.623Z",
+    "updated_at": "2026-05-15T14:15:10.803Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1721.json"
+}

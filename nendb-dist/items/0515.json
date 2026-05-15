@@ -1,0 +1,48 @@
+{
+  "num": "0515",
+  "name": {
+    "en": "Nendoroid Mako Mankanshoku: Fight Club-Spec Two-Star Goku Uniform Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ja": "ねんどろいど 満艦飾マコ 喧嘩部特化型二つ星極制服 Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ko": "만칸쇼쿠 마코 싸움부 특화형! 2성 극교복 Ver."
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 5063,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150610/5063/33996/large/66f5d120d86adda7af08a9558bd5e561.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.262Z",
+    "updated_at": "2026-05-15T14:15:10.490Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/515.json"
+}

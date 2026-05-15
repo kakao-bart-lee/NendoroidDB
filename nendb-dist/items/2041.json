@@ -1,0 +1,44 @@
+{
+  "num": "2041",
+  "name": {
+    "en": "Nendoroid Hiiro Amagi",
+    "ja": "ねんどろいど 天城一彩 (ねんどろいど あまぎひいろ)",
+    "ko": "아마기 히이로"
+  },
+  "series": {
+    "en": "Ensemble Stars!! Music",
+    "ja": "あんさんぶるスターズ！！Music",
+    "ko": "앙상블 스타즈! 뮤직",
+    "code": "ensemble-stars-music"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 13747,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221226/13747/109603/large/c25510c690efc01d934d0ea98c7a0b79.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.708Z",
+    "updated_at": "2026-05-15T14:15:10.871Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2041.json"
+}

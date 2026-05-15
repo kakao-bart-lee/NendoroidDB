@@ -1,0 +1,44 @@
+{
+  "num": "0800",
+  "name": {
+    "en": "Nendoroid Ash & Pikachu",
+    "ja": "ねんどろいど サトシ＆ピカチュウ (ねんどろいど さとしあんどぴかちゅう)",
+    "ko": "한지우 & 피카츄"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 6516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170622/6516/46392/large/aeeda009afc7f4ce38ea7ac05e3400c8.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.356Z",
+    "updated_at": "2026-05-15T14:15:10.569Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/800.json"
+}

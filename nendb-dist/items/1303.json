@@ -1,0 +1,44 @@
+{
+  "num": "1303",
+  "name": {
+    "en": "Nendoroid Rock Lee",
+    "ja": "ねんどろいど ロック・リー (ねんどろいど ろっく・りー)",
+    "ko": "록리"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9331,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200305/9331/68161/large/f68fd500b77162d931f9a9c98ef6221c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.502Z",
+    "updated_at": "2026-05-15T14:15:10.706Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1303.json"
+}

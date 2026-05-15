@@ -1,0 +1,44 @@
+{
+  "num": "1824",
+  "name": {
+    "en": "Nendoroid Gary \"Eggsy\" Unwin",
+    "ja": "ねんどろいど ゲイリー・“エグジー”・アンウィン (ねんどろいど げいりー・“えぐじー”・あんうぃん)",
+    "ko": "게리 에그시 언윈"
+  },
+  "series": {
+    "en": "Kingsman: The Golden Circle",
+    "ja": "キングスマン：ゴールデン・サークル",
+    "ko": "킹스맨:골든 서클",
+    "code": "kingsman-the-golden-circle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 12367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220218/12367/95618/large/4560e5d93d8129e15bcac280e83f7b20.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.648Z",
+    "updated_at": "2026-05-15T14:15:10.824Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1824.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0237",
+  "name": {
+    "en": "Nendoroid Ika Musume (ねんどろいど いかむすめ)",
+    "ja": "ねんどろいど イカ娘 (ねんどろいど いかむすめ)",
+    "ko": "오징어 소녀"
+  },
+  "series": {
+    "en": "Shinryaku! Ika Musume (Squid Girl)",
+    "ja": "侵略!?イカ娘",
+    "ko": "침략! 오징어 소녀",
+    "code": "shinryaku-ika-musume-squid-girl"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3493,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120309/3493/17664/large/27e7dbd7dd69e0cd2bef0f575b2e24e7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.151Z",
+    "updated_at": "2026-05-15T14:15:10.426Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/237.json"
+}

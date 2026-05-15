@@ -1,0 +1,44 @@
+{
+  "num": "0318",
+  "name": {
+    "en": "Nendoroid Rin Natsume (ねんどろいど なつめりん)",
+    "ja": "ねんどろいど 棗鈴 (ねんどろいど なつめりん)",
+    "ko": "나츠메 린"
+  },
+  "series": {
+    "en": "Little Busters!",
+    "ja": "リトルバスターズ！",
+    "ko": "리틀 버스터즈!",
+    "code": "little-busters"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3865,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130321/3865/23123/large/d260057592b0119cdac151e412e818e3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.178Z",
+    "updated_at": "2026-05-15T14:15:10.444Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/318.json"
+}

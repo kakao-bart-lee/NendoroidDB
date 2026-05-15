@@ -1,0 +1,44 @@
+{
+  "num": "0843",
+  "name": {
+    "en": "Nendoroid Kukuri",
+    "ja": "ねんどろいど ククリ (ねんどろ くくり)",
+    "ko": "쿠쿠리"
+  },
+  "series": {
+    "en": "Magical Circle Guru Guru",
+    "ja": "魔法陣グルグル",
+    "ko": "마법진 구루구루",
+    "code": "magical-circle-guru-guru"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6837,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171031/6837/48534/large/3f9ec059b9f0cb2e2ed463f23afd2068.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.370Z",
+    "updated_at": "2026-05-15T14:15:10.580Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/843.json"
+}

@@ -1,0 +1,56 @@
+{
+  "num": "0616",
+  "name": {
+    "en": "Nendoroid Kei Tsukishima",
+    "ja": "ねんどろいど 月島蛍 (ねんどろいど つきしまけい)",
+    "ko": "츠키시마 케이"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    },
+    {
+      "date": "2017-10",
+      "status": "released"
+    },
+    {
+      "date": "2021-04",
+      "status": "released"
+    },
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 5555,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160317/5555/38190/large/298325b249c22188669251bda6e1e918.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.296Z",
+    "updated_at": "2026-05-15T14:15:10.518Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/616.json"
+}

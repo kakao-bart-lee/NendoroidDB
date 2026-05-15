@@ -1,0 +1,44 @@
+{
+  "num": "0090",
+  "name": {
+    "en": "Nendoroid Alphard (ねんどろいど あるふぁるど)",
+    "ja": "ねんどろいど アルファルド (ねんどろいど あるふぁるど)",
+    "ko": "알파르도"
+  },
+  "series": {
+    "en": "CANAAN",
+    "ja": "CANAAN",
+    "ko": "카난",
+    "code": "canaan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2670,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2670/7934/large/33116929986c3054518dd3f050396771.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.096Z",
+    "updated_at": "2026-05-15T14:15:10.394Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/090.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0893",
+  "name": {
+    "en": "Nendoroid Atsushi Nakajima",
+    "ja": "ねんどろいど 中島敦 (ねんどろいど なかじまあつし)",
+    "ko": "나카지마 아쓰시"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs DEAD APPLE",
+    "ja": "文豪ストレイドッグス DEAD APPLE",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs-dead-apple"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-09",
+      "status": "released"
+    },
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 7085,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180227/7085/50476/large/f729186930bbd90dbcec1a4662fafe87.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.384Z",
+    "updated_at": "2026-05-15T14:15:10.592Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/893.json"
+}

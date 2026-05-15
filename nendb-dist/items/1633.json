@@ -1,0 +1,44 @@
+{
+  "num": "1633",
+  "name": {
+    "en": "Nendoroid Kairi: Kingdom Hearts III Ver.",
+    "ja": "ねんどろいど カイリ キングダム ハーツⅢVer. (ねんどろいど かいり きんぐだむ はーつⅢVer.)",
+    "ko": "카이리 킹덤 하츠 III Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts III",
+    "ja": "キングダム ハーツⅢ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-iii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 11195,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210517/11195/84676/large/78e2b1e76d5f93e54e472c32f3858832.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.598Z",
+    "updated_at": "2026-05-15T14:15:10.784Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1633.json"
+}

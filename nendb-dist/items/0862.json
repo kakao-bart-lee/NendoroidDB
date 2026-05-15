@@ -1,0 +1,48 @@
+{
+  "num": "0862",
+  "name": {
+    "en": "Nendoroid Hizamaru",
+    "ja": "ねんどろいど 膝丸 (ねんどろいど ひざまる)",
+    "ko": "히자마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 6936,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171213/6936/49235/large/1ff3bc58042d50ce869139250ef5585b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.375Z",
+    "updated_at": "2026-05-15T14:15:10.584Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/862.json"
+}

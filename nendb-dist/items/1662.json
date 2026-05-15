@@ -1,0 +1,44 @@
+{
+  "num": "1662",
+  "name": {
+    "en": "Nendoroid Shen Zhou",
+    "ja": "ねんどろいど 沈周 (ねんどろいど しんしゅう)",
+    "ko": "심주"
+  },
+  "series": {
+    "en": "Canal Towns",
+    "ja": "江南百景図",
+    "ko": "강남백경도",
+    "code": "canal-towns"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6300,
+  "gsc_product_num": 11368,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210617/11368/86010/large/87f7d9a07115c6c33218b02d75dd4d61.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.605Z",
+    "updated_at": "2026-05-15T14:15:10.791Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1662.json"
+}

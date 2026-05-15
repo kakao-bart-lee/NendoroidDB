@@ -1,0 +1,44 @@
+{
+  "num": "0640",
+  "name": {
+    "en": "Nendoroid Shidare Hotaru",
+    "ja": "ねんどろいど 枝垂ほたる (ねんどろいど しだれほたる)",
+    "ko": "시다레 호타루"
+  },
+  "series": {
+    "en": "Dagashi Kashi",
+    "ja": "だがしかし",
+    "ko": "다가시카시",
+    "code": "dagashi-kashi"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5729,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160609/5729/39500/large/08086ae8fbaa503482a24c90101f0d4b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.305Z",
+    "updated_at": "2026-05-15T14:15:10.524Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/640.json"
+}

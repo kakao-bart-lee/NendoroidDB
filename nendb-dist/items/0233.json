@@ -1,0 +1,44 @@
+{
+  "num": "0233",
+  "name": {
+    "en": "Nendoroid Aoi Yamada (ねんどろいど やまだあおい)",
+    "ja": "ねんどろいど 山田葵 (ねんどろいど やまだあおい)",
+    "ko": "야마다 아오이"
+  },
+  "series": {
+    "en": "WORKING!!",
+    "ja": "WORKING!!",
+    "ko": "WORKING!!",
+    "code": "working"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3481,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120302/3481/17486/large/32311776dc2eadcfd52f700ec50ca385.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.150Z",
+    "updated_at": "2026-05-15T14:15:10.425Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/233.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1543",
+  "name": {
+    "en": "Nendoroid Ryza",
+    "ja": "ねんどろいど ライザ (ねんどろいど らいざ)",
+    "ko": "라이잘린 슈타우트"
+  },
+  "series": {
+    "en": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "ja": "ライザのアトリエ ～常闇の女王と秘密の隠れ家～",
+    "ko": "라이자의 아틀리에",
+    "code": "atelier-ryza-ever-darkness-the-secret-hideout"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7073,
+  "gsc_product_num": 10501,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201207/10501/78335/large/09c5c81e68d8a108b02c06d15abba757.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.574Z",
+    "updated_at": "2026-05-15T14:15:10.765Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1543.json"
+}

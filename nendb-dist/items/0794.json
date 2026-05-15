@@ -1,0 +1,48 @@
+{
+  "num": "0794",
+  "name": {
+    "en": "Nendoroid Jibril",
+    "ja": "ねんどろいど ジブリール (ねんどろいど じぶりーる)",
+    "ko": "지브릴"
+  },
+  "series": {
+    "en": "No Game No Life",
+    "ja": "ノーゲーム・ノーライフ",
+    "ko": "노게임 노라이프",
+    "code": "no-game-no-life"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-01",
+      "status": "released"
+    },
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 6581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170713/6581/46509/large/55621b5c146b3481fd01265c1d724f40.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.355Z",
+    "updated_at": "2026-05-15T14:15:10.567Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/794.json"
+}

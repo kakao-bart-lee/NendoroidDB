@@ -1,0 +1,44 @@
+{
+  "num": "1005",
+  "name": {
+    "en": "Nendoroid Shirotani Tadaomi",
+    "ja": "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
+    "ko": "시로타니 타다오미"
+  },
+  "series": {
+    "en": "TEN COUNT",
+    "ja": "テンカウント",
+    "ko": "텐카운트",
+    "code": "ten-count"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7746,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181026/7746/55528/large/2cf42e34ed75ecc4bdaf6f04f0b4af6b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.415Z",
+    "updated_at": "2026-05-15T14:15:10.622Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1005.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0267",
+  "name": {
+    "en": "Nendoroid Nodoka Haramura (ねんどろいど はらむらのどか)",
+    "ja": "ねんどろいど 原村和 (ねんどろいど はらむらのどか)",
+    "ko": "하라무라 노도카"
+  },
+  "series": {
+    "en": "Saki Achiga-hen episode of Side-A",
+    "ja": "咲-Saki-阿知賀編 episode of side-A",
+    "ko": "사키",
+    "code": "saki-achiga-hen-episode-of-side-a"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-01",
+      "status": "released"
+    },
+    {
+      "date": "2014-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3909,
+  "gsc_product_num": 3622,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120725/3622/27933/large/d934803a78a0aa2183d1bcb78f44ba44.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.159Z",
+    "updated_at": "2026-05-15T14:15:10.432Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/267.json"
+}

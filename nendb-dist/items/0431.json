@@ -1,0 +1,44 @@
+{
+  "num": "0431",
+  "name": {
+    "en": "Nendoroid Ooi (ねんどろいど おおい)",
+    "ja": "ねんどろいど 大井 (ねんどろいど おおい)",
+    "ko": "오오이"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4452,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140616/4452/29258/large/6d626e577f795ef125280e5c41c766de.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.230Z",
+    "updated_at": "2026-05-15T14:15:10.471Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/431.json"
+}

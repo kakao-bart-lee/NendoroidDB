@@ -1,0 +1,44 @@
+{
+  "num": "2131-DX",
+  "name": {
+    "en": "Nendoroid Cheshire DX",
+    "ja": "ねんどろいど チェシャー DX (ねんどろいど ちぇしゃー DX)",
+    "ko": "체셔 DX"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 9800,
+  "gsc_product_num": 14332,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230426/14332/114889/large/2685e01b427caaeb7ee4a4d91e63d71b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.734Z",
+    "updated_at": "2026-05-15T14:15:10.889Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2131-DX.json"
+}

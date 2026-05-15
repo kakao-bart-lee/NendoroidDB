@@ -1,0 +1,48 @@
+{
+  "num": "0148",
+  "name": {
+    "en": "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)",
+    "ja": "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
+    "ko": "사이쿄우지 유유코"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-06",
+      "status": "released"
+    },
+    {
+      "date": "2013-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3051,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20101220/3051/12417/large/c3b9710e3b872edbb87da1d98a6d3bf7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.117Z",
+    "updated_at": "2026-05-15T14:15:10.407Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/148.json"
+}

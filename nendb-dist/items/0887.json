@@ -1,0 +1,48 @@
+{
+  "num": "0887",
+  "name": {
+    "en": "Nendoroid Iroha Tamaki",
+    "ja": "ねんどろいど 環いろは (ねんどろいど たまきいろは)",
+    "ko": "타마키 이로하"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica Side Story: Magia Record",
+    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-side-story-magia-record"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 7036,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180205/7036/50029/large/1b3510533009ce8bbf6a802bc52d7a50.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.382Z",
+    "updated_at": "2026-05-15T14:15:10.590Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/887.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0787",
+  "name": {
+    "en": "Nendoroid Sāya Yamabuki",
+    "ja": "ねんどろいど 山吹沙綾 (ねんどろいど やまぶきさあや)",
+    "ko": "야마부키 사아야"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-01",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6315,
+  "gsc_product_num": 6531,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170627/6531/46103/large/2dff7c3c4de2347fab157da5a57c986b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.354Z",
+    "updated_at": "2026-05-15T14:15:10.564Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/787.json"
+}

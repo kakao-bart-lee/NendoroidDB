@@ -1,0 +1,44 @@
+{
+  "num": "1270",
+  "name": {
+    "en": "Nendoroid Alex DeLarge",
+    "ja": "ねんどろいど アレックス (ねんどろいど あれっくす)",
+    "ko": "알렉스 드라지"
+  },
+  "series": {
+    "en": "A Clockwork Orange",
+    "ja": "時計じかけのオレンジ",
+    "ko": "시계태엽 오렌지",
+    "code": "a-clockwork-orange"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 9180,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200115/9180/66890/large/881b78980e01880d8deaf71b4ec99ecf.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.492Z",
+    "updated_at": "2026-05-15T14:15:10.691Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1270.json"
+}

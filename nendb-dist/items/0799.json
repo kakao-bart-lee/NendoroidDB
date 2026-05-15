@@ -1,0 +1,44 @@
+{
+  "num": "0799",
+  "name": {
+    "en": "Nendoroid Yuri Plisetsky",
+    "ja": "ねんどろいど ユーリ・プリセツキー (ねんどろいど ゆーり・ぷりせつきー)",
+    "ko": "유리 프리세츠키"
+  },
+  "series": {
+    "en": "YURI ON ICE",
+    "ja": "ユーリ!!! on ICE",
+    "ko": "유리!!! on ICE",
+    "code": "yuri-on-ice"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6598,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170721/6598/46646/large/777ff2b78ee2449bc481112d7067e180.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.356Z",
+    "updated_at": "2026-05-15T14:15:10.569Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/799.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1481",
+  "name": {
+    "en": "Nendoroid Deidara",
+    "ja": "ねんどろいど デイダラ (ねんどろいど でいだら)",
+    "ko": "데이다라"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 10144,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200928/10144/75048/large/b046eeb56ed8ae04e8574f2c9629b4eb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.553Z",
+    "updated_at": "2026-05-15T14:15:10.749Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1481.json"
+}

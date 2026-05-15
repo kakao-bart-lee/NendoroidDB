@@ -1,0 +1,52 @@
+{
+  "num": "1334",
+  "name": {
+    "en": "Nendoroid Zenitsu Agatsuma",
+    "ja": "ねんどろいど 我妻善逸 (ねんどろいど あがつまぜんいつ)",
+    "ko": "아가츠마 젠이츠"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-10",
+      "status": "released"
+    },
+    {
+      "date": "2021-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 9477,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200501/9477/69456/large/a3c5b6d217eabca546a0e3337f720a02.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.510Z",
+    "updated_at": "2026-05-15T14:15:10.716Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1334.json"
+}

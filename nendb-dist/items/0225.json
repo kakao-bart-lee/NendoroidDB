@@ -1,0 +1,44 @@
+{
+  "num": "0225",
+  "name": {
+    "en": "Nendoroid Saber : Nendoroid Complete File Edition (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
+    "ja": "ねんどろいど セイバー ねんどろいどコンプリートファイル・エディション (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
+    "ko": "세이버 넨도로이드 컴플리트 파일 에디션"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5238,
+  "gsc_product_num": 3494,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120309/3494/17683/large/83cd208efedbbcd2d9d2327756adec22.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.147Z",
+    "updated_at": "2026-05-15T14:15:10.424Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/225.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0076",
+  "name": {
+    "en": "Nendoroid Riannon (りあんのん ねんどろいど)",
+    "ja": "ねんどろいど リアンノン (りあんのん ねんどろいど)",
+    "ko": "리안논"
+  },
+  "series": {
+    "en": "Tears To Tiara",
+    "ja": "ティアーズ・トゥ・ティアラ",
+    "ko": "티어즈 투 티아라",
+    "code": "tears-to-tiara"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2495,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2495/7194/large/7da05dc0bb9462f19155e8d450e9663a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.092Z",
+    "updated_at": "2026-05-15T14:15:10.392Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/076.json"
+}

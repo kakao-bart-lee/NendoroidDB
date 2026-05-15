@@ -1,0 +1,44 @@
+{
+  "num": "0805",
+  "name": {
+    "en": "Nendoroid Tomo Kunagisa",
+    "ja": "ねんどろいど 玖渚友 (ねんどろいど くなぎさとも)",
+    "ko": "쿠나기사 토모"
+  },
+  "series": {
+    "en": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "ja": "クビキリサイクル 青色サヴァンと戯言遣い",
+    "ko": "헛소리 시리즈",
+    "code": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5398,
+  "gsc_product_num": 6608,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170725/6608/46736/large/45c63a8ef086d16bc2782fe7ce7cccff.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.358Z",
+    "updated_at": "2026-05-15T14:15:10.570Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/805.json"
+}

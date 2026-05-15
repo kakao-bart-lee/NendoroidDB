@@ -1,0 +1,48 @@
+{
+  "num": "0363",
+  "name": {
+    "en": "Nendoroid Saber Alter: Super Movable Edition",
+    "ja": "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
+    "ko": "세이버 얼터 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-12",
+      "status": "released"
+    },
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4035,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130821/4035/57264/large/3ac16a9eb69cc333bb2ea3575de9ea8b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.196Z",
+    "updated_at": "2026-05-15T14:15:10.455Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/363.json"
+}

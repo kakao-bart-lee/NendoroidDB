@@ -1,0 +1,48 @@
+{
+  "num": "0952",
+  "name": {
+    "en": "Nendoroid Zero Two",
+    "ja": "ねんどろいど ゼロツー (ねんどろいど ぜろつー)",
+    "ko": "제로투"
+  },
+  "series": {
+    "en": "DARLING in the FRANXX",
+    "ja": "ダーリン・イン・ザ・フランキス",
+    "ko": "달링 인 더 프랑키스",
+    "code": "darling-in-the-franxx"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-12",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 7380,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180626/7380/52834/large/788f443149d80d3a11b2837bc7180f9b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.400Z",
+    "updated_at": "2026-05-15T14:15:10.609Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/952.json"
+}

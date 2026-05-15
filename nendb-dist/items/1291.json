@@ -1,0 +1,44 @@
+{
+  "num": "1291",
+  "name": {
+    "en": "Nendoroid Purple Heart",
+    "ja": "ねんどろいど パープルハート（【生誕10周年記念ねんどろいどパープルハート付き完全受注生産限定版】特別総集編「超次元ゲイム ネプテューヌ Hi☆Light」ブルーレイ《後編》同梱） (ねんどろいど ぱーぷるはーと（【せいたん10しゅうねんきねんねんどろいどぱーぷるはーとつきかんぜんじゅちゅうせいさんげんていばん】とくべつそうしゅうへん「ちょうじげんげいむ ねぷてゅーぬ はい☆らいと」ぶるーれい《こうへん》どうこん）)",
+    "ko": "퍼플 하트"
+  },
+  "series": {
+    "en": "Hyperdimension Neptunia",
+    "ja": "超次元ゲイム ネプテューヌ",
+    "ko": "초차원게임 넵튠",
+    "code": "hyperdimension-neptunia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9279,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200218/9279/67722/large/ff1b80b8171b9dff6822c3dd30bdd318.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.499Z",
+    "updated_at": "2026-05-15T14:15:10.701Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1291.json"
+}

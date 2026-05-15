@@ -1,0 +1,44 @@
+{
+  "num": "0401",
+  "name": {
+    "en": "Nendoroid Alisa Ilyinichna Omela (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ja": "ねんどろいど アリサ・イリーニチナ・アミエーラ (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ko": "아리사 이리니티나 아미에라"
+  },
+  "series": {
+    "en": "GOD EATER 2",
+    "ja": "ゴッドイーター2",
+    "ko": "갓이터 2",
+    "code": "god-eater-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 4228,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140219/4228/27941/large/2b84128893715875a943495fd027243c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.214Z",
+    "updated_at": "2026-05-15T14:15:10.464Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/401.json"
+}

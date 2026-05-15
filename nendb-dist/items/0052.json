@@ -1,0 +1,44 @@
+{
+  "num": "0052",
+  "name": {
+    "en": "Nendoroid Kyouka Midarezaki (みだれざき きょうか)",
+    "ja": "ねんどろいど 乱崎凶華 (みだれざき きょうか)",
+    "ko": "미다레자키 쿄우카"
+  },
+  "series": {
+    "en": "Kyouran Kazoku Nikki (Diary of a Crazed Family)",
+    "ja": "狂乱家族日記",
+    "ko": "광란가족일기",
+    "code": "kyouran-kazoku-nikki-diary-of-a-crazed-family"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2052/5404/large/026340452692b1a9793f84998e26dfa5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.085Z",
+    "updated_at": "2026-05-15T14:15:10.385Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/052.json"
+}

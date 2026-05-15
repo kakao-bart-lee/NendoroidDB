@@ -1,0 +1,48 @@
+{
+  "num": "0440",
+  "name": {
+    "en": "Nendoroid Suigintō",
+    "ja": "ねんどろいど 水銀燈 (ねんどろいど すいぎんとう)",
+    "ko": "스이긴토"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-11",
+      "status": "released"
+    },
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 4505,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140716/4505/29688/large/55e4bfd4ba679af717297a1c97f03df9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.234Z",
+    "updated_at": "2026-05-15T14:15:10.473Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/440.json"
+}

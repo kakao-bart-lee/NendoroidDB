@@ -1,0 +1,44 @@
+{
+  "num": "0055a",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど 高良みゆき コンプティークVer. (ねんどろいど たからみゆき こんぷてぃーくVer.)",
+    "ko": "타카라 미유키 콤프틱 Ver."
+  },
+  "series": {
+    "en": null,
+    "ja": "TVアニメ らき☆すた",
+    "ko": "럭키스타",
+    "code": null
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3371,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111125/3371/16307/large/b56c53ea477c244622e44ff4f2accc63.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.086Z",
+    "updated_at": "2026-05-15T14:15:10.386Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/055a.json"
+}

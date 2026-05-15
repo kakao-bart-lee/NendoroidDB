@@ -1,0 +1,48 @@
+{
+  "num": "1011",
+  "name": {
+    "en": "Nendoroid Jack Skellington",
+    "ja": "ねんどろいど ジャック・スケリントン (ねんどろいど じゃっく・すけりんとん)",
+    "ko": "잭 스켈링턴"
+  },
+  "series": {
+    "en": "The Nightmare Before Christmas",
+    "ja": "ナイトメアー・ビフォア・クリスマス",
+    "ko": "크리스마스의 악몽",
+    "code": "the-nightmare-before-christmas"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 7676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181010/7676/55081/large/2cf3fa6b47b2d445d4b4478148a20b39.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.417Z",
+    "updated_at": "2026-05-15T14:15:10.624Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1011.json"
+}

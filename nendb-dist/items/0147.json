@@ -1,0 +1,44 @@
+{
+  "num": "0147",
+  "name": {
+    "en": "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)",
+    "ja": "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
+    "ko": "키노시타 히데요시"
+  },
+  "series": {
+    "en": "Baka to Test to Shoukanjuu",
+    "ja": "バカとテストと召喚獣",
+    "ko": "바보와 시험과 소환수(바시소)",
+    "code": "baka-to-test-to-shoukanjuu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3032,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20101201/3032/12158/large/c6a068b3264446af88cebdff551f8681.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.117Z",
+    "updated_at": "2026-05-15T14:15:10.406Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/147.json"
+}

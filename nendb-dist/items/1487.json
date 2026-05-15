@@ -1,0 +1,44 @@
+{
+  "num": "1487",
+  "name": {
+    "en": "Nendoroid Sora: Kingdom Hearts II Ver.",
+    "ja": "ねんどろいど ソラ キングダム ハーツⅡVer. (ねんどろいど そら きんぐだむ はーつⅡVer.)",
+    "ko": "소라 Ⅱ Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts II",
+    "ja": "キングダム ハーツⅡ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-ii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5400,
+  "gsc_product_num": 10192,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201007/10192/75583/large/2e381b83090e327c7e6af55f5150e594.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.554Z",
+    "updated_at": "2026-05-15T14:15:10.750Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1487.json"
+}

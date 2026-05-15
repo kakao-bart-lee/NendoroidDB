@@ -1,0 +1,44 @@
+{
+  "num": "1466",
+  "name": {
+    "en": "Nendoroid Yui Yuigahama",
+    "ja": "ねんどろいど 由比ヶ浜結衣 (ねんどろいど ゆいがはまゆい)",
+    "ko": "유이가하마 유이"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 10066,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200916/10066/74407/large/7d1d48482f94bec380ac12843af1dcd9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.548Z",
+    "updated_at": "2026-05-15T14:15:10.747Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1466.json"
+}

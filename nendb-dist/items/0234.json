@@ -1,0 +1,48 @@
+{
+  "num": "0234",
+  "name": {
+    "en": "Nendoroid Jack Frost",
+    "ja": "ねんどろいど ジャックフロスト (ねんどろいど じゃっくふろすと)",
+    "ko": "잭 프로스트"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 3489,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120309/3489/52826/large/3ff2cb3dff9b35574eb84af55edff822.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.150Z",
+    "updated_at": "2026-05-15T14:15:10.425Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/234.json"
+}

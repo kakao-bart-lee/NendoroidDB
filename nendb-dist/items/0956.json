@@ -1,0 +1,48 @@
+{
+  "num": "0956",
+  "name": {
+    "en": "Nendoroid Gaara",
+    "ja": "ねんどろいど 我愛羅 (ねんどろいど があら)",
+    "ko": "가아라"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 7379,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180625/7379/52821/large/6e376a64d08d434fd1793eb87be733bb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.402Z",
+    "updated_at": "2026-05-15T14:15:10.609Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/956.json"
+}

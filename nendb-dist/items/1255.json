@@ -1,0 +1,44 @@
+{
+  "num": "1255",
+  "name": {
+    "en": "Nendoroid Jyuto Iruma",
+    "ja": "ねんどろいど 入間銃兎 (ねんどろいど いるまじゅうと)",
+    "ko": "이루마 쥬토"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6050,
+  "gsc_product_num": 9126,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191220/9126/66339/large/41f7cc236931e8b6411b58f3c26cadfe.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.487Z",
+    "updated_at": "2026-05-15T14:15:10.687Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1255.json"
+}

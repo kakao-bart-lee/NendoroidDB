@@ -1,0 +1,44 @@
+{
+  "num": "1629",
+  "name": {
+    "en": "Nendoroid Qiluo Zhou: Shade Ver.",
+    "ja": "ねんどろいど キラ 暗殺者Ver. (ねんどろいど きら あんさつしゃVer.)",
+    "ko": "주기락 암살자 Ver."
+  },
+  "series": {
+    "en": "Love&Producer",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "love-producer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 11165,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210507/11165/84317/large/9428331458a4654a8c6e921912d124a9.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.597Z",
+    "updated_at": "2026-05-15T14:15:10.783Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1629.json"
+}

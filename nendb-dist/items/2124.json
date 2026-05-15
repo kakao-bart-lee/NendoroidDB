@@ -1,0 +1,44 @@
+{
+  "num": "2124",
+  "name": {
+    "en": "Nendoroid Lily",
+    "ja": "ねんどろいど リリィ (ねんどろいど りりぃ)",
+    "ko": "릴리"
+  },
+  "series": {
+    "en": "Spy Classroom",
+    "ja": "スパイ教室",
+    "ko": "스파이 교실",
+    "code": "spy-classroom"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14265,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230417/14265/114405/large/c70d4dbe4b4e9ee5bfd6016e33eb2473.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.732Z",
+    "updated_at": "2026-05-15T14:15:10.888Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2124.json"
+}

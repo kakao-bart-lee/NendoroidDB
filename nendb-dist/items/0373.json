@@ -1,0 +1,44 @@
+{
+  "num": "0373",
+  "name": {
+    "en": "Nendoroid Mana Kamaishi (ねんどろいど かまいしまな)",
+    "ja": "ねんどろいど 釜石まな (ねんどろいど かまいしまな)",
+    "ko": "카마이시 마나"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4070,
+  "gsc_product_num": 4081,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131008/4081/26627/large/c521440eae443d77597c8eae2ae43e87.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.203Z",
+    "updated_at": "2026-05-15T14:15:10.457Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/373.json"
+}

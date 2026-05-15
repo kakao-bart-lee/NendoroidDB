@@ -1,0 +1,44 @@
+{
+  "num": "1794",
+  "name": {
+    "en": "Nendoroid Hachiman Hikigaya",
+    "ja": "ねんどろいど 比企谷八幡 (ねんどろいど ひきがやはちまん)",
+    "ko": "히키가야 하치만"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 12224,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220117/12224/94342/large/77ad77000d2d4d9f1aab2bc7941ff505.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.640Z",
+    "updated_at": "2026-05-15T14:15:10.817Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1794.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1376",
+  "name": {
+    "en": "Nendoroid Vivian",
+    "ja": "ねんどろいど ヴィヴィアン (ねんどろいど ゔぃゔぃあん)",
+    "ko": "비비안"
+  },
+  "series": {
+    "en": "Journal of the Mysterious Creatures",
+    "ja": "異常生物見聞録",
+    "ko": "이상생물견문록",
+    "code": "journal-of-the-mysterious-creatures"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 9680,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200624/9680/71214/large/6f62c14217bfecfc493da7c4e0bc900c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.522Z",
+    "updated_at": "2026-05-15T14:15:10.726Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1376.json"
+}

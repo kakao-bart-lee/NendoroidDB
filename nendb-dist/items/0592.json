@@ -1,0 +1,52 @@
+{
+  "num": "0592",
+  "name": {
+    "en": "Nendoroid Yu Nishinoya",
+    "ja": "ねんどろいど 西谷夕 (ねんどろいど にしのやゆう)",
+    "ko": "니시노야 유"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-05",
+      "status": "released"
+    },
+    {
+      "date": "2018-11",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151127/5367/52274/large/6fc0b106631fe379e54bdb9e32eec459.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.286Z",
+    "updated_at": "2026-05-15T14:15:10.512Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/592.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "2157",
+  "name": {
+    "en": "Nendoroid Hansuke Doi",
+    "ja": "ねんどろいど 土井半助 (ねんどろいど どいはんすけ)",
+    "ko": "도이 한스케"
+  },
+  "series": {
+    "en": "Nintama Rantaro",
+    "ja": "忍たま乱太郎",
+    "ko": "닌자보이 란타",
+    "code": "nintama-rantaro"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 14393,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230522/14393/115488/large/3e5f3fd68ff803bf150e59b5a8be6db3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.743Z",
+    "updated_at": "2026-05-15T14:15:10.895Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2157.json"
+}

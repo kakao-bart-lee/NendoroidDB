@@ -1,0 +1,44 @@
+{
+  "num": "1423",
+  "name": {
+    "en": "Nendoroid SilverAsh",
+    "ja": "ねんどろいど シルバーアッシュ (ねんどろいど しるばーあっしゅ)",
+    "ko": "실버애쉬"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 9988,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200831/9988/73759/large/7fc6b776386437d79cc8b2ee7e091130.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.536Z",
+    "updated_at": "2026-05-15T14:15:10.738Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1423.json"
+}

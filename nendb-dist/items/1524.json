@@ -1,0 +1,44 @@
+{
+  "num": "1524",
+  "name": {
+    "en": "Nendoroid Minato Namikaze",
+    "ja": "ねんどろいど 波風ミナト (ねんどろいど なみかぜみなと)",
+    "ko": "나미카제 미나토"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5700,
+  "gsc_product_num": 10411,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201118/10411/78082/large/dda944a455357c66c91a36e9050e8db7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.567Z",
+    "updated_at": "2026-05-15T14:15:10.760Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1524.json"
+}

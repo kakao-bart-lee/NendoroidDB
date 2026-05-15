@@ -1,0 +1,48 @@
+{
+  "num": "1560",
+  "name": {
+    "en": "Nendoroid Denji",
+    "ja": "ねんどろいど デンジ (ねんどろいど でんじ)",
+    "ko": "덴지"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 10715,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210125/10715/80212/large/99279438d60f374b44088be70e3850c3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.578Z",
+    "updated_at": "2026-05-15T14:15:10.768Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1560.json"
+}

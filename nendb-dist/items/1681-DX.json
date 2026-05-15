@@ -1,0 +1,44 @@
+{
+  "num": "1681-DX",
+  "name": {
+    "en": "Nendoroid Loki: TVA & President Ver.",
+    "ja": "ねんどろいど ロキ TVA&大統領Ver. (ねんどろいど ろき TVA&だいとうりょうVer.)",
+    "ko": "로키 TVA & 대통령 Ver."
+  },
+  "series": {
+    "en": "Loki",
+    "ja": "ロキ",
+    "ko": "로키",
+    "code": "loki"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8800,
+  "gsc_product_num": 11484,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210714/11484/88035/large/b89841594429e628b6adad245009ae49.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.611Z",
+    "updated_at": "2026-05-15T14:15:10.795Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1681-DX.json"
+}

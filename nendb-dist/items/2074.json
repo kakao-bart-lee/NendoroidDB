@@ -1,0 +1,44 @@
+{
+  "num": "2074",
+  "name": {
+    "en": "Nendoroid Osborn",
+    "ja": "ねんどろいど Osborn (ねんどろいど おずぼーん)",
+    "ko": "샤오이"
+  },
+  "series": {
+    "en": "Light and Night",
+    "ja": "光と夜の恋",
+    "ko": "광여야지연",
+    "code": "light-and-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 14802,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230810/14802/119488/large/33013ef74df27c46607b0321354c05fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.717Z",
+    "updated_at": "2026-05-15T14:15:10.877Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2074.json"
+}

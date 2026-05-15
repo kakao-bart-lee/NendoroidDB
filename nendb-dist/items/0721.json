@@ -1,0 +1,44 @@
+{
+  "num": "0721",
+  "name": {
+    "en": "Nendoroid Eriri Spencer Sawamura",
+    "ja": "ねんどろいど 澤村・スペンサー・英梨々 (ねんどろいど さわむら・すぺんさー・えりり)",
+    "ko": "사와무라 스펜서 에리리"
+  },
+  "series": {
+    "en": "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja": "冴えない彼女の育てかた♭",
+    "ko": "시원찮은 그녀를 위한 육성방법",
+    "code": "saekano-how-to-raise-a-boring-girlfriend"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6161,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170105/6161/43088/large/645ba5981d11c002f5b1c52df4afbbb6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.333Z",
+    "updated_at": "2026-05-15T14:15:10.548Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/721.json"
+}

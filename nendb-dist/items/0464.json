@@ -1,0 +1,48 @@
+{
+  "num": "0464",
+  "name": {
+    "en": "Nendoroid Eli Ayase (ねんどろいど あやせえり)",
+    "ja": "ねんどろいど 絢瀬絵里 (ねんどろいど あやせえり)",
+    "ko": "아야세 에리"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-03",
+      "status": "released"
+    },
+    {
+      "date": "2015-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4688,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141017/4688/30984/large/7b856de97b4668721ee2e00f36884bff.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.245Z",
+    "updated_at": "2026-05-15T14:15:10.478Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/464.json"
+}

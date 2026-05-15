@@ -1,0 +1,52 @@
+{
+  "num": "0642",
+  "name": {
+    "en": "Nendoroid Albedo",
+    "ja": "ねんどろいど アルベド (ねんどろいど あるべど)",
+    "ko": "알베도"
+  },
+  "series": {
+    "en": "OVERLORD",
+    "ja": "オーバーロード",
+    "ko": "오버로드",
+    "code": "overlord"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-01",
+      "status": "released"
+    },
+    {
+      "date": "2019-03",
+      "status": "released"
+    },
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 5751,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160617/5751/39654/large/dda7943cf900769c182c7edbd1ae84ec.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.306Z",
+    "updated_at": "2026-05-15T14:15:10.524Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/642.json"
+}

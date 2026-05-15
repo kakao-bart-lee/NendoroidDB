@@ -1,0 +1,44 @@
+{
+  "num": "2099",
+  "name": {
+    "en": "Nendoroid Akito Izuki",
+    "ja": "ねんどろいど 伊月暁人 (ねんどろいど いづきあきと)",
+    "ko": "이즈키 아키토"
+  },
+  "series": {
+    "en": "Ghostwire: Tokyo",
+    "ja": "Ghostwire: Tokyo",
+    "ko": "고스트와이어: 도쿄",
+    "code": "ghostwire-tokyo"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6300,
+  "gsc_product_num": 14146,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230322/14146/113245/large/d4807669b7c6e68c9a5c54d4faacea2f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.724Z",
+    "updated_at": "2026-05-15T14:15:10.882Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2099.json"
+}

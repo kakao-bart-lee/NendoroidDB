@@ -1,0 +1,44 @@
+{
+  "num": "0706",
+  "name": {
+    "en": "Nendoroid Boba Fett",
+    "ja": "ねんどろいど ボバ・フェット (ねんどろいど ぼば・ふぇっと)",
+    "ko": "보바 펫"
+  },
+  "series": {
+    "en": "Star Wars Episode 5: The Empire Strikes Back",
+    "ja": "スター・ウォーズ エピソード5／帝国の逆襲",
+    "ko": "스타워즈",
+    "code": "star-wars-episode-5-the-empire-strikes-back"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6080,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161124/6080/42532/large/1bf3b8ae13ce0e254ee5b8abcc6f1e8a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.328Z",
+    "updated_at": "2026-05-15T14:15:10.544Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/706.json"
+}

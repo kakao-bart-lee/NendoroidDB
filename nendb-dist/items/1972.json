@@ -1,0 +1,44 @@
+{
+  "num": "1972",
+  "name": {
+    "en": "Nendoroid Bella",
+    "ja": "ねんどろいど ベラ (ねんどろいど べら)",
+    "ko": "벨라"
+  },
+  "series": {
+    "en": "A-SOUL",
+    "ja": "A-SOUL",
+    "ko": "A-SOUL",
+    "code": "a-soul"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7800,
+  "gsc_product_num": 13337,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220929/13337/105195/large/6e6e045e116c26d5b7534ddd040b51e3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.689Z",
+    "updated_at": "2026-05-15T14:15:10.854Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1972.json"
+}

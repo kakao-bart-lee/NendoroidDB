@@ -1,0 +1,44 @@
+{
+  "num": "1070",
+  "name": {
+    "en": "Nendoroid Berserker/Paul Bunyan",
+    "ja": "ねんどろいど バーサーカー/ポール・バニヤン (ねんどろいど ばーさーかー/ぽーる・ばにやん)",
+    "ko": "버서커/폴 버니언"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 7983,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190116/7983/57379/large/90faae8f4e7aa2726735f9e0b994f4a1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.435Z",
+    "updated_at": "2026-05-15T14:15:10.639Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1070.json"
+}

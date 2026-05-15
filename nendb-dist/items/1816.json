@@ -1,0 +1,44 @@
+{
+  "num": "1816",
+  "name": {
+    "en": "Nendoroid Gen Asagiri",
+    "ja": "ねんどろいど あさぎりゲン (ねんどろいど あさぎりげん)",
+    "ko": "아사기리 겐"
+  },
+  "series": {
+    "en": "Dr. STONE",
+    "ja": "Dr.STONE",
+    "ko": "닥터 스톤",
+    "code": "dr-stone"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 12320,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220209/12320/95222/large/3fbe7cefab3156cb7b5b1ff9eec9fd77.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.645Z",
+    "updated_at": "2026-05-15T14:15:10.822Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1816.json"
+}

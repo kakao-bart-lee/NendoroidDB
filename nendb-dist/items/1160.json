@@ -1,0 +1,48 @@
+{
+  "num": "1160",
+  "name": {
+    "en": "Nendoroid Light Yagami 2.0",
+    "ja": "ねんどろいど 夜神月 2.0 (ねんどろいど やがみらいと 2.0)",
+    "ko": "야가미 라이토 2.0"
+  },
+  "series": {
+    "en": "DEATH NOTE",
+    "ja": "DEATH NOTE",
+    "ko": "데스노트",
+    "code": "death-note"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 8477,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190628/8477/61385/large/935f624978df54b3c66749b610d88d7e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.459Z",
+    "updated_at": "2026-05-15T14:15:10.663Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1160.json"
+}

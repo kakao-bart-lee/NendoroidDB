@@ -1,0 +1,44 @@
+{
+  "num": "0227",
+  "name": {
+    "en": "Nendoroid Tachikoma: Cheerful Ver. (ねんどろいど たちこま おうえんVer.)",
+    "ja": "ねんどろいど タチコマ 応援Ver. (ねんどろいど たちこま おうえんVer.)",
+    "ko": "타치코마 응원 Ver."
+  },
+  "series": {
+    "en": "Ghost in the Shell S.A.C",
+    "ja": "攻殻機動隊S.A.C.",
+    "ko": "공각기동대 S.A.C.",
+    "code": "ghost-in-the-shell-s-a-c"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3460,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120206/3460/17201/large/031978b579e443ddc0abe5be6b4940a2.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.147Z",
+    "updated_at": "2026-05-15T14:15:10.424Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/227.json"
+}

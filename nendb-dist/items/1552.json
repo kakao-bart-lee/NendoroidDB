@@ -1,0 +1,44 @@
+{
+  "num": "1552",
+  "name": {
+    "en": "Nendoroid Johnny Silverhand",
+    "ja": "ねんどろいど ジョニー・シルヴァーハンド (ねんどろいど じょにー・しるゔぁーはんど)",
+    "ko": "조니 실버핸드"
+  },
+  "series": {
+    "en": "Cyberpunk 2077",
+    "ja": "サイバーパンク2077",
+    "ko": "사이버펑크 2077",
+    "code": "cyberpunk-2077"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10667,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210113/10667/79754/large/49e744203354585d8ec7778688bdf80d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.576Z",
+    "updated_at": "2026-05-15T14:15:10.767Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1552.json"
+}

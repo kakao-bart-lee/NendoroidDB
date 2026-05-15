@@ -1,0 +1,44 @@
+{
+  "num": "0506",
+  "name": {
+    "en": "Nendoroid Hozuki (ねんどろいど ほおずき)",
+    "ja": "ねんどろいど 鬼灯 (ねんどろいど ほおずき)",
+    "ko": "호오즈키"
+  },
+  "series": {
+    "en": "Hozuki no Reitetsu",
+    "ja": "鬼灯の冷徹",
+    "ko": "호오즈키의 냉철",
+    "code": "hozuki-no-reitetsu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150309/4880/32573/large/383d203e0e2372e459baed6a5eb5a4d9.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.260Z",
+    "updated_at": "2026-05-15T14:15:10.488Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/506.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0844",
+  "name": {
+    "en": "Nendoroid Alpaca Suri",
+    "ja": "ねんどろいど アルパカ・スリ (ねんどろいど あるぱか・すり)",
+    "ko": "알파카 수리"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6848,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171107/6848/48585/large/6dccc9f4e3ff91c14d6269071ea9a03d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.370Z",
+    "updated_at": "2026-05-15T14:15:10.580Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/844.json"
+}

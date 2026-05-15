@@ -1,0 +1,44 @@
+{
+  "num": "0202",
+  "name": {
+    "en": "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)",
+    "ja": "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
+    "ko": "KAITO 응원 Ver."
+  },
+  "series": {
+    "en": "KAITO",
+    "ja": "KAITO",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "kaito"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3305,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110930/3305/15740/large/c69fbe12eaf3d6273a8b0021b448e929.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.139Z",
+    "updated_at": "2026-05-15T14:15:10.419Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/202.json"
+}

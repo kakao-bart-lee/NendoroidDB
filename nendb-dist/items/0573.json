@@ -1,0 +1,44 @@
+{
+  "num": "0573",
+  "name": {
+    "en": "Nendoroid Yui Funami",
+    "ja": "ねんどろいど 船見結衣 (ねんどろいど ふなみゆい)",
+    "ko": "후나마 유이"
+  },
+  "series": {
+    "en": "Yuru Yuri San Hai!",
+    "ja": "ゆるゆり さん☆ハイ！",
+    "ko": "유루유리",
+    "code": "yuru-yuri-san-hai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 5278,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151019/5278/35931/large/21bfdd3b1ff8d137db7d49cb5c040a67.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.279Z",
+    "updated_at": "2026-05-15T14:15:10.506Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/573.json"
+}

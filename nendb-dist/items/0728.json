@@ -1,0 +1,48 @@
+{
+  "num": "0728",
+  "name": {
+    "en": "Nendoroid Holo",
+    "ja": "ねんどろいど ホロ (ねんどろいど ほろ)",
+    "ko": "호로"
+  },
+  "series": {
+    "en": "Spice and Wolf",
+    "ja": "狼と香辛料",
+    "ko": "늑대와 향신료",
+    "code": "spice-and-wolf"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-08",
+      "status": "released"
+    },
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6194,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170120/6194/43330/large/2410ea82231212276e0b725badc2f2cb.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.335Z",
+    "updated_at": "2026-05-15T14:15:10.550Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/728.json"
+}

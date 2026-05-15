@@ -1,0 +1,48 @@
+{
+  "num": "1687",
+  "name": {
+    "en": "Nendoroid Houshou Marine",
+    "ja": "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
+    "ko": "호쇼 마린"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 11559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210727/11559/87761/large/8ef3bfb593de021f88262d625186e7a9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.613Z",
+    "updated_at": "2026-05-15T14:15:10.796Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1687.json"
+}

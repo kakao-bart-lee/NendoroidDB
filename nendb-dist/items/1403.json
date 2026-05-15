@@ -1,0 +1,48 @@
+{
+  "num": "1403",
+  "name": {
+    "en": "Nendoroid Atsumu Miya",
+    "ja": "ねんどろいど 宮侑 (ねんどろいど みやあつむ)",
+    "ko": "미야 아츠무"
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 9773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200714/9773/91460/large/52ebe71d06ea6cd5d543470032a66a47.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.529Z",
+    "updated_at": "2026-05-15T14:15:10.732Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1403.json"
+}

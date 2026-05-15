@@ -1,0 +1,44 @@
+{
+  "num": "1452",
+  "name": {
+    "en": "Nendoroid Takato Saijo",
+    "ja": "ねんどろいど 西條高人 (ねんどろいど さいじょうたかと)",
+    "ko": "사이죠 타카토"
+  },
+  "series": {
+    "en": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+    "ja": "抱かれたい男1位に脅されています。",
+    "ko": "안기고 싶은 남자 1위에게 협박당하고 있습니다",
+    "code": "dakaretai-otoko-1-i-ni-odosarete-imasu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 10046,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200911/10046/74224/large/d748b034f922ec6a339e308be81d8e7c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.543Z",
+    "updated_at": "2026-05-15T14:15:10.744Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1452.json"
+}

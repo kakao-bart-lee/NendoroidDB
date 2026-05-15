@@ -1,0 +1,48 @@
+{
+  "num": "0358",
+  "name": {
+    "en": "Nendoroid Saber Extra",
+    "ja": "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
+    "ko": "세이버(Fate/EXTRA)/주인공"
+  },
+  "series": {
+    "en": "Fate/EXTRA",
+    "ja": "Fate/EXTRA",
+    "ko": "페이트 시리즈",
+    "code": "fate-extra"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4006,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130725/4006/58586/large/cca82cfd24c3d81fcdffb4f7339c6bc6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.194Z",
+    "updated_at": "2026-05-15T14:15:10.454Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/358.json"
+}

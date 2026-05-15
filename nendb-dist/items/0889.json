@@ -1,0 +1,48 @@
+{
+  "num": "0889",
+  "name": {
+    "en": "Nendoroid Toru Oikawa: School Uniform Ver.",
+    "ja": "ねんどろいど 及川徹 制服Ver. (ねんどろいど おいかわとおる せいふくVer.)",
+    "ko": "오이카와 토오루 교복 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-08",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 7045,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180209/7045/50109/large/679eb94a4c04a8abaa87fea24ab6effc.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.383Z",
+    "updated_at": "2026-05-15T14:15:10.591Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/889.json"
+}

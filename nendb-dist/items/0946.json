@@ -1,0 +1,44 @@
+{
+  "num": "0946",
+  "name": {
+    "en": "Nendoroid Haise Sasaki",
+    "ja": "ねんどろいど 佐々木琲世 (ねんどろいど ささきはいせ)",
+    "ko": "사사키 하이세"
+  },
+  "series": {
+    "en": "Tokyo Ghoul:re",
+    "ja": "東京喰種トーキョーグール：re",
+    "ko": "도쿄 구울",
+    "code": "tokyo-ghoul-re"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7338,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180612/7338/52514/large/84144f565d4d2a69c81ff791ee5b2ab6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.399Z",
+    "updated_at": "2026-05-15T14:15:10.607Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/946.json"
+}

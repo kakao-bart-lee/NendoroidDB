@@ -1,0 +1,44 @@
+{
+  "num": "1298",
+  "name": {
+    "en": "Nendoroid Saburo Yamada",
+    "ja": "ねんどろいど 山田三郎 (ねんどろいど やまださぶろう)",
+    "ko": "야마다 사부로"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6050,
+  "gsc_product_num": 9316,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200228/9316/68001/large/b99eaf20788026d772c43e51589aed00.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.501Z",
+    "updated_at": "2026-05-15T14:15:10.704Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1298.json"
+}

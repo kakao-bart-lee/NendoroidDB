@@ -1,0 +1,44 @@
+{
+  "num": "1533",
+  "name": {
+    "en": "Nendoroid Sakura Kinomoto: Always Together ~Pinky Promise~",
+    "ja": "ねんどろいど 木之本桜 Always Together ～ Pinky Promise ～ (ねんどろいど きのもとさくら おーるうぇいず とぅぎゃざー ～ ぴんきー ぷろみす ～)",
+    "ko": "키노모토 사쿠라 Always Together\r\n~ Pinky Promise ~"
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": "カードキャプターさくら",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 10498,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201207/10498/78298/large/d253c61059d59ed8458a00e0f7362154.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.571Z",
+    "updated_at": "2026-05-15T14:15:10.762Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1533.json"
+}

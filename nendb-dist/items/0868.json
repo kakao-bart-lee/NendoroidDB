@@ -1,0 +1,44 @@
+{
+  "num": "0868",
+  "name": {
+    "en": "Nendoroid Kyoko Sakura: Maiko Ver.",
+    "ja": "ねんどろいど 佐倉杏子 舞妓Ver. (ねんどろいど さくらきょうこ まいこVer.)",
+    "ko": "사쿠라 쿄코 마이코 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171218/6958/49393/large/0e66aefd34eeb3b48693eb59c83b6c45.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.377Z",
+    "updated_at": "2026-05-15T14:15:10.586Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/868.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0436",
+  "name": {
+    "en": "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ja": "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ko": "슈퍼 소니코 워킹 Ver."
+  },
+  "series": {
+    "en": "SoniAni",
+    "ja": "そにアニ",
+    "ko": "슈퍼 소니코",
+    "code": "soniani"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3769,
+  "gsc_product_num": 4486,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140704/4486/29497/large/71dded361f92108abe9c6b4562a8bfa3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.233Z",
+    "updated_at": "2026-05-15T14:15:10.472Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/436.json"
+}

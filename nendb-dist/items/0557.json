@@ -1,0 +1,48 @@
+{
+  "num": "0557",
+  "name": {
+    "en": "Nendoroid Shokudaikiri Mitsutada (ねんどろいど しょくだいきりみつただ)",
+    "ja": "ねんどろいど 燭台切光忠 (ねんどろいど しょくだいきりみつただ)",
+    "ko": "쇼쿠다이키리 미츠타다"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-03",
+      "status": "released"
+    },
+    {
+      "date": "2018-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5201,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150825/5201/35265/large/233a79550a8b3d39438223aad5aec6db.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.275Z",
+    "updated_at": "2026-05-15T14:15:10.503Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/557.json"
+}

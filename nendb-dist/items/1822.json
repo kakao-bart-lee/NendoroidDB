@@ -1,0 +1,44 @@
+{
+  "num": "1822",
+  "name": {
+    "en": "Nendoroid Princess Syalis",
+    "ja": "ねんどろいど スヤリス姫 (ねんどろいど すやりすひめ)",
+    "ko": "오로라 스야리스 카이민 공주"
+  },
+  "series": {
+    "en": "Sleepy Princess in the Demon Castle",
+    "ja": "魔王城でおやすみ",
+    "ko": "마왕성에서 잘 자요",
+    "code": "sleepy-princess-in-the-demon-castle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7300,
+  "gsc_product_num": 12335,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220215/12335/95322/large/ed8294fe316727cdd655c556e25a0de3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.647Z",
+    "updated_at": "2026-05-15T14:15:10.823Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1822.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1098",
+  "name": {
+    "en": "Nendoroid Doremi Harukaze",
+    "ja": "ねんどろいど 春風どれみ (ねんどろいど はるかぜどれみ)",
+    "ko": "하루카제 도레미"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오자마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 8137,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190304/8137/58738/large/3778468968120f485e82a7b78beda210.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.441Z",
+    "updated_at": "2026-05-15T14:15:10.645Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1098.json"
+}

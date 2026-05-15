@@ -1,0 +1,48 @@
+{
+  "num": "0700",
+  "name": {
+    "en": "Nendoroid Reimu Hakurei 2.0",
+    "ja": "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
+    "ko": "하쿠레이 레이무 2.0"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 6474,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170529/6474/45675/large/f15cb799aad84a387618b2a67f52e1ed.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.326Z",
+    "updated_at": "2026-05-15T14:15:10.541Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/700.json"
+}

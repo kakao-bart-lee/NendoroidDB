@@ -1,0 +1,44 @@
+{
+  "num": "0969",
+  "name": {
+    "en": "Nendoroid Chio Miyamo",
+    "ja": "ねんどろいど 三谷裳ちお (ねんどろいど みやもちお)",
+    "ko": "미야모 치오"
+  },
+  "series": {
+    "en": "Chio's School Road",
+    "ja": "ちおちゃんの通学路",
+    "ko": "치오의 통학로",
+    "code": "chio-s-school-road"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 7475,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180726/7475/53473/large/d74a50747835f7b508b58ac873244e23.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.405Z",
+    "updated_at": "2026-05-15T14:15:10.613Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/969.json"
+}

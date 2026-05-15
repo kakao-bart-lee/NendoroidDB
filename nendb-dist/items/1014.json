@@ -1,0 +1,44 @@
+{
+  "num": "1014",
+  "name": {
+    "en": "Nendoroid Ayano Hanesaki",
+    "ja": "ねんどろいど 羽咲綾乃 (ねんどろいど はねさきあやの)",
+    "ko": "하네사키 아야노"
+  },
+  "series": {
+    "en": "Hanebado!",
+    "ja": "はねバド！",
+    "ko": "하네배드!",
+    "code": "hanebado"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7674,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181010/7674/55067/large/426928689b80a07d59303dcbd2d40f60.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.418Z",
+    "updated_at": "2026-05-15T14:15:10.625Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1014.json"
+}

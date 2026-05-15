@@ -1,0 +1,44 @@
+{
+  "num": "1435",
+  "name": {
+    "en": "Nendoroid Raven",
+    "ja": "ねんどろいど レイブン (ねんどろいど れいぶん)",
+    "ko": "레이븐"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 9929,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200818/9929/73222/large/b0c8699cbc658eb3885583bd8cbce778.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.539Z",
+    "updated_at": "2026-05-15T14:15:10.741Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1435.json"
+}

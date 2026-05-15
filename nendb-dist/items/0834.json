@@ -1,0 +1,52 @@
+{
+  "num": "0834",
+  "name": {
+    "en": "Nendoroid Tōru Amuro",
+    "ja": "ねんどろいど 安室透 (ねんどろいど あむろとおる)",
+    "ko": "아무로 토오루"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    },
+    {
+      "date": "2018-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 6765,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171003/6765/47922/large/5bd7634405f770884c6c5bffdd2d02b6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.367Z",
+    "updated_at": "2026-05-15T14:15:10.578Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/834.json"
+}

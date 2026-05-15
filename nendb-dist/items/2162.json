@@ -1,0 +1,48 @@
+{
+  "num": "2162",
+  "name": {
+    "en": "Nendoroid Lu Guang",
+    "ja": "ねんどろいど 陸光(ヒカル) (ねんどろいど るーぐあん(ひかる))",
+    "ko": "루광"
+  },
+  "series": {
+    "en": "LINK CLICK",
+    "ja": "時光代理人",
+    "ko": "시광대리인",
+    "code": "link-click"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    },
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14640,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230707/14640/118000/large/bb863a5b0e03c6eae4bdfcae24828bea.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.745Z",
+    "updated_at": "2026-05-15T14:15:10.896Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2162.json"
+}

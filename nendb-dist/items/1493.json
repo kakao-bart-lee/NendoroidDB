@@ -1,0 +1,44 @@
+{
+  "num": "1493",
+  "name": {
+    "en": "Nendoroid Black Frost",
+    "ja": "ねんどろいど じゃあくフロスト (ねんどろいど じゃあくふろすと)",
+    "ko": "잭 프로스트"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10254,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201020/10254/76052/large/ae53f8ab903628fb7fd4edee4e568ef1.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.557Z",
+    "updated_at": "2026-05-15T14:15:10.752Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1493.json"
+}

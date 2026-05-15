@@ -1,0 +1,44 @@
+{
+  "num": "0634",
+  "name": {
+    "en": "Nendoroid Musashi",
+    "ja": "ねんどろいど 武蔵 (ねんどろいど むさし)",
+    "ko": "무사시"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7944,
+  "gsc_product_num": 5808,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160719/5808/40127/large/d31210cc2d89a397f88d646bd43cac5b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.303Z",
+    "updated_at": "2026-05-15T14:15:10.522Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/634.json"
+}

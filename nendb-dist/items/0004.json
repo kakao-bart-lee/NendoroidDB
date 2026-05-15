@@ -1,0 +1,44 @@
+{
+  "num": "0004",
+  "name": {
+    "en": "Nendoroid Mesousa (めそうさ　ねんどろいど)",
+    "ja": "ねんどろいど メソウサ (めそうさ　ねんどろいど)",
+    "ko": "메소 우사"
+  },
+  "series": {
+    "en": "Pani Poni Dash!",
+    "ja": "ぱにぽにだっしゅ！",
+    "ko": "파니포니&파니포니 대쉬",
+    "code": "pani-poni-dash"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2006-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/582/874/large/db972959bc0a3f0405a568c358d12ed9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.065Z",
+    "updated_at": "2026-05-15T14:15:10.375Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/004.json"
+}

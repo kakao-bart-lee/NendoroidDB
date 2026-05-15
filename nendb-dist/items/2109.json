@@ -1,0 +1,44 @@
+{
+  "num": "2109",
+  "name": {
+    "en": "Nendoroid Lucy",
+    "ja": "ねんどろいど ルーシー (ねんどろいど るーしー)",
+    "ko": "루시"
+  },
+  "series": {
+    "en": "Cyberpunk: Edgerunners",
+    "ja": "サイバーパンク エッジランナーズ",
+    "ko": "사이버펑크: 엣지러너",
+    "code": "cyberpunk-edgerunners"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7500,
+  "gsc_product_num": 14176,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230327/14176/113519/large/0c76bf6f03a89a003f4b7125079c18a3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.728Z",
+    "updated_at": "2026-05-15T14:15:10.884Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2109.json"
+}

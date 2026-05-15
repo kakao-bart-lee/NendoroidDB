@@ -1,0 +1,48 @@
+{
+  "num": "0847",
+  "name": {
+    "en": "Nendoroid D.Va: Classic Skin Edition",
+    "ja": "ねんどろいど D.Va クラシックスキン・エディション (ねんどろいど でぃーば くらしっくすきん・えでぃしょん)",
+    "ko": "D.Va"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-07",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4991,
+  "gsc_product_num": 6893,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171122/6893/48860/large/a05fb10fe9873b889c808dd8f5046be3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.371Z",
+    "updated_at": "2026-05-15T14:15:10.581Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/847.json"
+}

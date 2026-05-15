@@ -1,0 +1,44 @@
+{
+  "num": "2022",
+  "name": {
+    "en": "Nendoroid Eren Yeager: Attack Titan Ver.",
+    "ja": "ねんどろいど エレン・イェーガー 進撃の巨人 Ver. (ねんどろいど えれん・いぇーがー しんげきのきょじん Ver.)",
+    "ko": "에렌 예거: 진격의 거인 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13664,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221212/13664/108441/large/3216b415ec557f5238f3b103e85745bc.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.703Z",
+    "updated_at": "2026-05-15T14:15:10.866Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2022.json"
+}

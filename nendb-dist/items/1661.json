@@ -1,0 +1,44 @@
+{
+  "num": "1661",
+  "name": {
+    "en": "Nendoroid Eivor",
+    "ja": "ねんどろいど エイヴォル (ねんどろいど えいゔぉる)",
+    "ko": "에이보르"
+  },
+  "series": {
+    "en": "Assassin’s Creed® Valhalla",
+    "ja": "アサシン クリード ヴァルハラ",
+    "ko": "어쌔신 크리드 : 발할라",
+    "code": "assassin-s-creed-valhalla"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 11472,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210712/11472/87088/large/a015e1fe41ed0beb07161e7e4fe9ee44.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.605Z",
+    "updated_at": "2026-05-15T14:15:10.791Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1661.json"
+}

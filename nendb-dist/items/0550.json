@@ -1,0 +1,52 @@
+{
+  "num": "0550",
+  "name": {
+    "en": "Nendoroid Anna",
+    "ja": "ねんどろいど アナ (ねんどろいど あな)",
+    "ko": "안나"
+  },
+  "series": {
+    "en": "Frozen",
+    "ja": "アナと雪の女王",
+    "ko": "겨울왕국",
+    "code": "frozen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-01",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 5147,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150728/5147/34802/large/215f476cc25eccc2c3fbe23b7c04a9fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.273Z",
+    "updated_at": "2026-05-15T14:15:10.501Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/550.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0257",
+  "name": {
+    "en": "Nendoroid Nyaruko (ねんどろいど にゃるこ)",
+    "ja": "ねんどろいど ニャル子 (ねんどろいど にゃるこ)",
+    "ko": "냐루코"
+  },
+  "series": {
+    "en": "Haiyore! Nyaruko-san",
+    "ja": "這いよれ！ニャル子さん",
+    "ko": "기어와라! 냐루코양",
+    "code": "haiyore-nyaruko-san"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3586,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120620/3586/19078/large/2950ad79bcc52a4338a363c5f542be83.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.157Z",
+    "updated_at": "2026-05-15T14:15:10.430Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/257.json"
+}

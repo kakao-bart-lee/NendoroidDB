@@ -1,0 +1,44 @@
+{
+  "num": "2032",
+  "name": {
+    "en": "Nendoroid Shiloh",
+    "ja": "ねんどろいど シャイロ (ねんどろいど しゃいろ)",
+    "ko": "샤일로"
+  },
+  "series": {
+    "en": "Legend of Mana: The Teardrop Crystal",
+    "ja": "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+    "ko": "성검전설 레전드 오브 마나: 더 티어드롭 크리스탈",
+    "code": "legend-of-mana-the-teardrop-crystal"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8400,
+  "gsc_product_num": 13708,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221219/13708/108999/large/e93e5a5a705e0f740266e53068069ec8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.706Z",
+    "updated_at": "2026-05-15T14:15:10.869Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2032.json"
+}

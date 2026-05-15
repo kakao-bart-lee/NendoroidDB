@@ -1,0 +1,44 @@
+{
+  "num": "1322",
+  "name": {
+    "en": "Nendoroid Cliff",
+    "ja": "ねんどろいど クリフ (ねんどろいど くりふ)",
+    "ko": "클리프"
+  },
+  "series": {
+    "en": "DEATH STRANDING",
+    "ja": "デス・ストランディング",
+    "ko": "데스 스트랜딩",
+    "code": "death-stranding"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 9442,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200422/9442/69155/large/360e1ad3e999b47d58ab6af7232a2991.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.506Z",
+    "updated_at": "2026-05-15T14:15:10.712Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1322.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0704",
+  "name": {
+    "en": "Nendoroid Megumi Kato",
+    "ja": "ねんどろいど 加藤恵 (ねんどろいど かとうめぐみ)",
+    "ko": "카토 메구미"
+  },
+  "series": {
+    "en": "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja": "冴えない彼女の育てかた♭",
+    "ko": "시원찮은 그녀를 위한 육성방법",
+    "code": "saekano-how-to-raise-a-boring-girlfriend"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-05",
+      "status": "released"
+    },
+    {
+      "date": "2019-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6099,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161129/6099/42539/large/ada7f8d5d9b238f6c480dd914fea6f6b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.327Z",
+    "updated_at": "2026-05-15T14:15:10.543Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/704.json"
+}

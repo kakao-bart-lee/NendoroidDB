@@ -1,0 +1,52 @@
+{
+  "num": "0989",
+  "name": {
+    "en": "Nendoroid Joker",
+    "ja": "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
+    "ko": "주인공"
+  },
+  "series": {
+    "en": "Persona5",
+    "ja": "ペルソナ５",
+    "ko": "페르소나5",
+    "code": "persona5"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-02",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    },
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7563,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180828/7563/54133/large/03d08de77adc55eeb7b5eff1e86e64a4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.411Z",
+    "updated_at": "2026-05-15T14:15:10.618Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/989.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0187",
+  "name": {
+    "en": "Nendoroid MEIKO (ねんどろいど めいこ)",
+    "ja": "ねんどろいど MEIKO (ねんどろいど めいこ)",
+    "ko": "MEIKO"
+  },
+  "series": {
+    "en": "MEIKO",
+    "ja": "MEIKO",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "meiko"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-12",
+      "status": "released"
+    },
+    {
+      "date": "2014-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3241,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110802/3241/28074/large/7f63ad96ffe091fadbb7f84948b245b3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.134Z",
+    "updated_at": "2026-05-15T14:15:10.416Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/187.json"
+}

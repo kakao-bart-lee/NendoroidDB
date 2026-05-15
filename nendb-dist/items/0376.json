@@ -1,0 +1,44 @@
+{
+  "num": "0376",
+  "name": {
+    "en": "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ko": "헌터♀ 울크 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter 4",
+    "ja": "モンスターハンター4",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-4"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6076,
+  "gsc_product_num": 4105,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131028/4105/26976/large/ffafcbc04e81b401472867f457949de3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.204Z",
+    "updated_at": "2026-05-15T14:15:10.458Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/376.json"
+}

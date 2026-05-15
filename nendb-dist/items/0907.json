@@ -1,0 +1,48 @@
+{
+  "num": "0907",
+  "name": {
+    "en": "Nendoroid Geralt",
+    "ja": "ねんどろいど ゲラルト (ねんどろいど げらると)",
+    "ko": "게롤트"
+  },
+  "series": {
+    "en": "The Witcher 3: Wild Hunt",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "ko": "위쳐 시리즈",
+    "code": "the-witcher-3-wild-hunt"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 7197,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180410/7197/51363/large/b03d365d61bc17e4c139ab59614208c0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.387Z",
+    "updated_at": "2026-05-15T14:15:10.595Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/907.json"
+}

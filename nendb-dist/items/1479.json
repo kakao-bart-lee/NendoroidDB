@@ -1,0 +1,48 @@
+{
+  "num": "1479",
+  "name": {
+    "en": "Nendoroid Yuji Itadori",
+    "ja": "ねんどろいど 虎杖悠仁 (ねんどろいど いたどりゆうじ)",
+    "ko": "이타도리 유지"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 10173,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201002/10173/75279/large/544041c9148ed62d5549dc81d3adadf6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.552Z",
+    "updated_at": "2026-05-15T14:15:10.749Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1479.json"
+}

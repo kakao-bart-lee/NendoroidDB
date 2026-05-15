@@ -1,0 +1,44 @@
+{
+  "num": "1718",
+  "name": {
+    "en": "Nendoroid Traveler (Lumine)",
+    "ja": "ねんどろいど 旅人（蛍） (ねんどろいど たびびと（ほたる）)",
+    "ko": "루미네"
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": "原神",
+    "ko": "원신",
+    "code": "genshin-impact"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 11782,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210914/11782/89875/large/c49306587d6f36d41829a8afa1c16c0c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.622Z",
+    "updated_at": "2026-05-15T14:15:10.803Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1718.json"
+}

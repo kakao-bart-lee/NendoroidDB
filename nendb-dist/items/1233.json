@@ -1,0 +1,44 @@
+{
+  "num": "1233",
+  "name": {
+    "en": "Nendoroid Dante: DMC5 Ver.",
+    "ja": "ねんどろいど ダンテ DMC5 Ver. (ねんどろいど だんて DMC5 Ver.)",
+    "ko": "단테 DMC5 Ver."
+  },
+  "series": {
+    "en": "Devil May Cry 5",
+    "ja": "DEVIL MAY CRY 5（デビル メイ クライ 5）",
+    "ko": "데빌 메이 크라이",
+    "code": "devil-may-cry-5"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 8973,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191113/8973/65125/large/87cb15498088cbf609b7dc5703841d18.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.481Z",
+    "updated_at": "2026-05-15T14:15:10.682Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1233.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0685",
+  "name": {
+    "en": "Nendoroid Mega Man X: Full Armor",
+    "ja": "ねんどろいど エックス フルアーマー (ねんどろいど えっくす ふるあーまー)",
+    "ko": "엑스 풀아머"
+  },
+  "series": {
+    "en": "Mega Man X",
+    "ja": "ロックマンX",
+    "ko": "록맨 시리즈",
+    "code": "mega-man-x"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161014/6010/41812/large/bba18a69c5176bb55d7aff1b5fa52798.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.322Z",
+    "updated_at": "2026-05-15T14:15:10.535Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/685.json"
+}

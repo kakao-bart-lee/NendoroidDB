@@ -1,0 +1,44 @@
+{
+  "num": "1864",
+  "name": {
+    "en": "Nendoroid Persona3 Hero",
+    "ja": "ねんどろいど ペルソナ3主人公 (ねんどろいど ぺるそな3しゅじんこう)",
+    "ko": "페르소나3 주인공"
+  },
+  "series": {
+    "en": "PERSONA3",
+    "ja": "ペルソナ3",
+    "ko": "페르소나3",
+    "code": "persona3"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 12563,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220411/12563/97503/large/9c5d16db5d25d3980dec6babf9963ff0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.658Z",
+    "updated_at": "2026-05-15T14:15:10.831Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1864.json"
+}

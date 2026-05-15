@@ -1,0 +1,44 @@
+{
+  "num": "1903",
+  "name": {
+    "en": "Nendoroid Yor Forger",
+    "ja": "ねんどろいど ヨル・フォージャー (ねんどろいど よる・ふぉーじゃー)",
+    "ko": "요르 포저"
+  },
+  "series": {
+    "en": "SPY x FAMILY",
+    "ja": "SPY×FAMILY",
+    "ko": "스파이 패밀리",
+    "code": "spy-x-family"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 12875,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220623/12875/100445/large/6beca560a14f4256973bb9b1b5ffc3a8.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.667Z",
+    "updated_at": "2026-05-15T14:15:10.840Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1903.json"
+}

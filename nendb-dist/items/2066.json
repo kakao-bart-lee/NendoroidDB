@@ -1,0 +1,44 @@
+{
+  "num": "2066",
+  "name": {
+    "en": "Nendoroid Tsunomaki Watame",
+    "ja": "ねんどろいど 角巻わため (ねんどろいど つのまきわため)",
+    "ko": "츠노마키 와타메"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 14037,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230222/14037/112241/large/335df01f08ee1115d97049264d26602a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.714Z",
+    "updated_at": "2026-05-15T14:15:10.875Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2066.json"
+}

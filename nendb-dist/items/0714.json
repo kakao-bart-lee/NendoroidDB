@@ -1,0 +1,48 @@
+{
+  "num": "0714",
+  "name": {
+    "en": "Nendoroid Riko Sakurauchi",
+    "ja": "ねんどろいど 桜内梨子 (ねんどろいど さくらうちりこ)",
+    "ko": "사쿠라우치 리코"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 6143,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161220/6143/42956/large/2019ee897adf0968ede50bee7261f181.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.331Z",
+    "updated_at": "2026-05-15T14:15:10.546Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/714.json"
+}

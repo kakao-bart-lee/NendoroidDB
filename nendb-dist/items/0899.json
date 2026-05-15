@@ -1,0 +1,44 @@
+{
+  "num": "0899",
+  "name": {
+    "en": "Nendoroid Kizuna AI",
+    "ja": "ねんどろいど キズナアイ (ねんどろいど きずなあい)",
+    "ko": "키즈나 아이"
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7108,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180312/7108/50690/large/c9a72e3e2d49c1d3c4e1d14bd2f4719f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.385Z",
+    "updated_at": "2026-05-15T14:15:10.593Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/899.json"
+}

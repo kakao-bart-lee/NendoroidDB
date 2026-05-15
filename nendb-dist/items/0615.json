@@ -1,0 +1,44 @@
+{
+  "num": "0615",
+  "name": {
+    "en": "Nendoroid Dragon Knight",
+    "ja": "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
+    "ko": "용기사"
+  },
+  "series": {
+    "en": "DOTA 2",
+    "ja": "Dota 2",
+    "ko": "도타2",
+    "code": "dota-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 5785,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160705/5785/39945/large/e76e6ca44edd303e73dc4bb3b02b6f5f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.294Z",
+    "updated_at": "2026-05-15T14:15:10.518Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/615.json"
+}

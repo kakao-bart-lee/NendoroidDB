@@ -1,0 +1,44 @@
+{
+  "num": "0065",
+  "name": {
+    "en": "Nendoroid Imoko Shishido Maidroid Ver. (ししどういもこ めいどろいどばーじょん ねんどろいど)",
+    "ja": "ねんどろいど 獅子堂妹子 メイドロイドVer. (ししどういもこ めいどろいどばーじょん ねんどろいど)",
+    "ko": "시시도 이모코 메이드 Ver."
+  },
+  "series": {
+    "en": "The Girl Who Leapt Through Space",
+    "ja": "宇宙をかける少女",
+    "ko": "우주를 달리는 소녀",
+    "code": "the-girl-who-leapt-through-space"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2352,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2352/6637/large/936b8d548f1da47cebdcbe999bef50f6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.089Z",
+    "updated_at": "2026-05-15T14:15:10.389Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/065.json"
+}

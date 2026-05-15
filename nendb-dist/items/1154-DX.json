@@ -1,0 +1,48 @@
+{
+  "num": "1154-DX",
+  "name": {
+    "en": "Nendoroid Captain Marvel: Hero's Edition DX Ver.",
+    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション DX Ver. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん DX Ver.)",
+    "ko": "캡틴 마블 히어로 에디션 DX"
+  },
+  "series": {
+    "en": "Captain Marvel",
+    "ja": "キャプテン・マーベル",
+    "ko": "어벤져스",
+    "code": "captain-marvel"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-11",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 8446,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190620/8446/61183/large/db78b324bb00c888a2ccfa38e41337f2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.457Z",
+    "updated_at": "2026-05-15T14:15:10.661Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1154-DX.json"
+}

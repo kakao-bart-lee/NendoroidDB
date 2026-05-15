@@ -1,0 +1,44 @@
+{
+  "num": "0384",
+  "name": {
+    "en": "Nendoroid Suruga Kanbaru (ねんどろいど かんばるするが)",
+    "ja": "ねんどろいど 神原駿河 (ねんどろいど かんばるするが)",
+    "ko": "칸바루 스루가"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3871,
+  "gsc_product_num": 4123,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131115/4123/27127/large/7022f559ed09210c94fb5db269c402e4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.208Z",
+    "updated_at": "2026-05-15T14:15:10.460Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/384.json"
+}

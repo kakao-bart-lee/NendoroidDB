@@ -1,0 +1,48 @@
+{
+  "num": "0555",
+  "name": {
+    "en": "Nendoroid Shirou Emiya",
+    "ja": "ねんどろいど 衛宮士郎 (ねんどろいど えみやしろう)",
+    "ko": "애미야 시로"
+  },
+  "series": {
+    "en": "Fate/stay night [Unlimited Blade Works]",
+    "ja": "Fate/stay night [Unlimited Blade Works]",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-unlimited-blade-works"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 5166,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150804/5166/34963/large/f8718786282d755aa8e27b065bf39f85.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.274Z",
+    "updated_at": "2026-05-15T14:15:10.502Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/555.json"
+}

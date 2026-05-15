@@ -1,0 +1,44 @@
+{
+  "num": "1042",
+  "name": {
+    "en": "Nendoroid Goblin Slayer",
+    "ja": "ねんどろいど ゴブリンスレイヤー (ねんどろいど ごぶりんすれいやー)",
+    "ko": "고블린 슬레이어"
+  },
+  "series": {
+    "en": "GOBLIN SLAYER",
+    "ja": "ゴブリンスレイヤー",
+    "ko": "고블린 슬레이어",
+    "code": "goblin-slayer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7834,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181122/7834/56194/large/b3cc2c21d163344356567224999f8c3f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.426Z",
+    "updated_at": "2026-05-15T14:15:10.630Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1042.json"
+}

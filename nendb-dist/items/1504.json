@@ -1,0 +1,44 @@
+{
+  "num": "1504",
+  "name": {
+    "en": "Nendoroid Teletha Testarossa",
+    "ja": "ねんどろいど テレサ・テスタロッサ (ねんどろいど てれさ・てすたろっさ)",
+    "ko": "테레사 테스타롯사"
+  },
+  "series": {
+    "en": "Full Metal Panic! Invisible Victory",
+    "ja": "フルメタル・パニック！ Invisible Victory",
+    "ko": "풀 메탈 패닉!",
+    "code": "full-metal-panic-invisible-victory"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 10303,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201026/10303/76385/large/be7129234c55031f9ac62b3edf9f2fa9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.561Z",
+    "updated_at": "2026-05-15T14:15:10.755Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1504.json"
+}

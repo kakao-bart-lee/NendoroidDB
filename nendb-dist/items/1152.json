@@ -1,0 +1,48 @@
+{
+  "num": "1152",
+  "name": {
+    "en": "Nendoroid Galo Thymos",
+    "ja": "ねんどろいど ガロ・ティモス (ねんどろいど がろ・てぃもす)",
+    "ko": "갈로 티모스"
+  },
+  "series": {
+    "en": "PROMARE",
+    "ja": "プロメア",
+    "ko": "프로메어",
+    "code": "promare"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    },
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8453,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190620/8453/61245/large/ae4a913b7353b063a954770c18f79f6a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.456Z",
+    "updated_at": "2026-05-15T14:15:10.661Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1152.json"
+}

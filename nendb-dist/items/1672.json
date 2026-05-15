@@ -1,0 +1,44 @@
+{
+  "num": "1672",
+  "name": {
+    "en": "Nendoroid Vladilena Milizé",
+    "ja": "ねんどろいど ヴラディレーナ・ミリーゼ (ねんどろいど ゔらでぃれーな・みりーぜ)",
+    "ko": "블라디레나 밀리제"
+  },
+  "series": {
+    "en": "86 EIGHTY-SIX",
+    "ja": "８６―エイティシックス―",
+    "ko": "86 -에이티식스-",
+    "code": "86-eighty-six"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 11464,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210708/11464/87012/large/09f8bb1160a2e20ac99fc6791c8b30ad.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.608Z",
+    "updated_at": "2026-05-15T14:15:10.793Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1672.json"
+}

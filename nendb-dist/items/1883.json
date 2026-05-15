@@ -1,0 +1,48 @@
+{
+  "num": "1883",
+  "name": {
+    "en": "Nendoroid Kirby: 30th Anniversary Edition",
+    "ja": "ねんどろいど カービィ 30th Anniversary Edition (ねんどろいど かーびぃ 30th あにばーさりー えでぃしょん)",
+    "ko": "커비: 30주년 에디션"
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": "星のカービィ",
+    "ko": "별의 커비",
+    "code": "kirby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-01",
+      "status": "released"
+    },
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 12749,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220526/12749/99242/large/386df8128f4f8933290ec923d2d1b8a4.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.662Z",
+    "updated_at": "2026-05-15T14:15:10.836Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1883.json"
+}

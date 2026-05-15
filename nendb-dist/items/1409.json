@@ -1,0 +1,44 @@
+{
+  "num": "1409",
+  "name": {
+    "en": "Nendoroid Optimus Prime",
+    "ja": "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
+    "ko": "옵티머스 프라임"
+  },
+  "series": {
+    "en": "Bumblebee",
+    "ja": "バンブルビー",
+    "ko": "트랜스포머",
+    "code": "bumblebee"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9776,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200714/9776/71965/large/db37ca8bbd410ef59715849b497ea086.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.531Z",
+    "updated_at": "2026-05-15T14:15:10.734Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1409.json"
+}

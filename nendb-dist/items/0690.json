@@ -1,0 +1,52 @@
+{
+  "num": "0690",
+  "name": {
+    "en": "Nendoroid Yamambagiri Kunihiro",
+    "ja": "ねんどろいど 山姥切国広 (ねんどろいど やまんばぎりくにひろ)",
+    "ko": "야만바기리 쿠니히로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-04",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    },
+    {
+      "date": "2021-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161109/6052/42183/large/b4d83a841df2d0c3b13e62f3c106e33b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.323Z",
+    "updated_at": "2026-05-15T14:15:10.537Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/690.json"
+}

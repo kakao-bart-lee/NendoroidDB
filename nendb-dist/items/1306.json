@@ -1,0 +1,48 @@
+{
+  "num": "1306",
+  "name": {
+    "en": "Nendoroid Miku Nakano",
+    "ja": "ねんどろいど 中野三玖 (ねんどろいど なかのみく)",
+    "ko": "나카노 미쿠"
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁",
+    "ko": "5등분의 신부",
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 9365,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200319/9365/68451/large/d1a0d3247e0d1be267148e5d0df6a89f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.503Z",
+    "updated_at": "2026-05-15T14:15:10.707Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1306.json"
+}

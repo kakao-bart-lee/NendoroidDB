@@ -1,0 +1,48 @@
+{
+  "num": "1185",
+  "name": {
+    "en": "Nendoroid Kurapika",
+    "ja": "ねんどろいど クラピカ (ねんどろいど くらぴか)",
+    "ko": "크라피카"
+  },
+  "series": {
+    "en": "HUNTER x HUNTER",
+    "ja": "HUNTER×HUNTER",
+    "ko": "헌터X헌터",
+    "code": "hunter-x-hunter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    },
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5280,
+  "gsc_product_num": 8686,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190809/8686/62844/large/0cd362e1f73aa667b2d37c79e32f361d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.465Z",
+    "updated_at": "2026-05-15T14:15:10.668Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1185.json"
+}

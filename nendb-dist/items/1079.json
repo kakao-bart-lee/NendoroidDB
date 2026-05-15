@@ -1,0 +1,44 @@
+{
+  "num": "1079",
+  "name": {
+    "en": "Nendoroid Daiki Aomine Special Box",
+    "ja": "ねんどろいど 青峰大輝 Special Box (ねんどろいど あおみねだいき すぺしゃるぼっくす)",
+    "ko": "아오미네 다이키"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 8049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190201/8049/57894/large/a04b730a00b14fd33852a3388704c0ab.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.436Z",
+    "updated_at": "2026-05-15T14:15:10.641Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1079.json"
+}

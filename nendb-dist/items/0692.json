@@ -1,0 +1,48 @@
+{
+  "num": "0692",
+  "name": {
+    "en": "Nendoroid You Watanabe",
+    "ja": "ねんどろいど 渡辺 曜 (ねんどろいど わたなべ よう)",
+    "ko": "와타나베 요우"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-05",
+      "status": "released"
+    },
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 6060,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161114/6060/42231/large/63ebb97aec662df0dec9f5047cd19c23.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.323Z",
+    "updated_at": "2026-05-15T14:15:10.538Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/692.json"
+}

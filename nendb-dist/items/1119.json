@@ -1,0 +1,48 @@
+{
+  "num": "1119",
+  "name": {
+    "en": "Nendoroid Qi Bai",
+    "ja": "ねんどろいど ハク (ねんどろいど はく)",
+    "ko": "백기"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8217,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190403/8217/59295/large/b5cfe5d7a8ae0be98d170eb98fbc51ef.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.447Z",
+    "updated_at": "2026-05-15T14:15:10.653Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1119.json"
+}

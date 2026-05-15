@@ -1,0 +1,48 @@
+{
+  "num": "0798",
+  "name": {
+    "en": "Nendoroid Cocoa",
+    "ja": "ねんどろいど ココア (ねんどろいど ここあ)",
+    "ko": "호토 코코아"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 6597,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170721/6597/46678/large/c089f076dc7a317ccce16bd0c555a4a6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.356Z",
+    "updated_at": "2026-05-15T14:15:10.568Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/798.json"
+}

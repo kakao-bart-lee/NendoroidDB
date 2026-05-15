@@ -1,0 +1,44 @@
+{
+  "num": "0832",
+  "name": {
+    "en": "Nendoroid Nana Ebina",
+    "ja": "ねんどろいど 海老名菜々 (ねんどろいど えびななな)",
+    "ko": "에비나 나나"
+  },
+  "series": {
+    "en": "Himouto Umaru-chan R",
+    "ja": "干物妹！うまるちゃんR",
+    "ko": "건어물 여동생! 우마루짱",
+    "code": "himouto-umaru-chan-r"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6800,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171017/6800/48186/large/832022cd4e85788f997097bd8f16243a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.367Z",
+    "updated_at": "2026-05-15T14:15:10.577Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/832.json"
+}

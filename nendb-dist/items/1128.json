@@ -1,0 +1,44 @@
+{
+  "num": "1128",
+  "name": {
+    "en": "Nendoroid Ise Kai-II",
+    "ja": "ねんどろいど 伊勢改二 (ねんどろいど いせかいに)",
+    "ko": "이세 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8500,
+  "gsc_product_num": 8274,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190423/8274/59741/large/e30def1a50b6a4a12ec23c521e11c715.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.450Z",
+    "updated_at": "2026-05-15T14:15:10.655Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1128.json"
+}

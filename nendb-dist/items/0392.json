@@ -1,0 +1,44 @@
+{
+  "num": "0392",
+  "name": {
+    "en": "Nendoroid Iron Patriot: Hero's Edition (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ja": "ねんどろいど アイアン・パトリオット ヒーローズ・エディション (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ko": "아이언 패트리어트 히어로즈 에디션"
+  },
+  "series": {
+    "en": "Iron Man 3",
+    "ja": "アイアンマン3",
+    "ko": "아이언맨3",
+    "code": "iron-man-3"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4174,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131225/4174/27539/large/d65288d9ed23213c2230dfc6344fcdb8.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.211Z",
+    "updated_at": "2026-05-15T14:15:10.462Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/392.json"
+}

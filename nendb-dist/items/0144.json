@@ -1,0 +1,48 @@
+{
+  "num": "0144",
+  "name": {
+    "en": "Nendoroid Kuroneko (ねんどろいど くろねこ)",
+    "ja": "ねんどろいど 黒猫 (ねんどろいど くろねこ)",
+    "ko": "쿠로네코"
+  },
+  "series": {
+    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja": "俺の妹がこんなに可愛いわけがない",
+    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
+    "code": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-04",
+      "status": "released"
+    },
+    {
+      "date": "2011-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20101217/3048/12389/large/5179bc0d798c80b3534ae2de689e0dc4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.116Z",
+    "updated_at": "2026-05-15T14:15:10.406Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/144.json"
+}

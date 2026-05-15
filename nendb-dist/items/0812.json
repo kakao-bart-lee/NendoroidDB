@@ -1,0 +1,48 @@
+{
+  "num": "0812",
+  "name": {
+    "en": "Nendoroid Tinker Bell",
+    "ja": "ねんどろいど ティンカー・ベル (ねんどろいど てぃんかー・べる)",
+    "ko": "팅커벨"
+  },
+  "series": {
+    "en": "Peter Pan",
+    "ja": "ピーター・パン",
+    "ko": "디즈니",
+    "code": "peter-pan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 6674,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170825/6674/47354/large/f344e493ff7f68dd1e8878334f8cf04a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.360Z",
+    "updated_at": "2026-05-15T14:15:10.572Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/812.json"
+}

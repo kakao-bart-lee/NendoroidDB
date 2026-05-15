@@ -1,0 +1,44 @@
+{
+  "num": "2235",
+  "name": {
+    "en": "Nendoroid Kiyoka Kudo",
+    "ja": "ねんどろいど 久堂清霞 (ねんどろいど くどうきよか)",
+    "ko": "쿠도 키요카"
+  },
+  "series": {
+    "en": "My Happy Marriage",
+    "ja": "わたしの幸せな結婚",
+    "ko": "나의 행복한 결혼",
+    "code": "my-happy-marriage"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14849,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230823/14849/119922/large/77534f67870870683de57614bf158e5b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.762Z",
+    "updated_at": "2026-05-15T14:15:10.911Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2235.json"
+}

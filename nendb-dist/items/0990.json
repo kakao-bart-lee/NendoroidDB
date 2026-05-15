@@ -1,0 +1,48 @@
+{
+  "num": "0990",
+  "name": {
+    "en": "Nendoroid Caster/Gilgamesh",
+    "ja": "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
+    "ko": "캐스터/길가메시"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7592,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180904/7592/54336/large/e7da74fd1c015c176cd58ca646d4e4a5.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.412Z",
+    "updated_at": "2026-05-15T14:15:10.618Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/990.json"
+}

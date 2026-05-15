@@ -1,0 +1,48 @@
+{
+  "num": "0742",
+  "name": {
+    "en": "Nendoroid Leonardo Watch",
+    "ja": "ねんどろいど レオナルド・ウォッチ (ねんどろいど れおなるど・うぉっち)",
+    "ko": "레오나르도 워치"
+  },
+  "series": {
+    "en": "Blood Blockade Battlefront & Beyond",
+    "ja": "血界戦線 ＆ BEYOND",
+    "ko": "혈계전선",
+    "code": "blood-blockade-battlefront-beyond"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2018-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 6301,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170228/6301/44192/large/1bd86ec87393817f93ab6218756db48d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.338Z",
+    "updated_at": "2026-05-15T14:15:10.553Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/742.json"
+}

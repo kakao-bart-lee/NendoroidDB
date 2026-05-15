@@ -1,0 +1,44 @@
+{
+  "num": "1916",
+  "name": {
+    "en": "Nendoroid Kyo Soma",
+    "ja": "ねんどろいど 草摩夾 (ねんどろいど そうまきょう)",
+    "ko": "소마 쿄우"
+  },
+  "series": {
+    "en": "Fruits Basket",
+    "ja": "フルーツバスケット",
+    "ko": "후르츠 바스켓",
+    "code": "fruits-basket"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7979,
+  "gsc_product_num": 13049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220729/13049/102295/large/6bcbaf69ba6d89f488eed37e6becb588.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.671Z",
+    "updated_at": "2026-05-15T14:15:10.843Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1916.json"
+}

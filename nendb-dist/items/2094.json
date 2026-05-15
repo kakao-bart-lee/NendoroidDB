@@ -1,0 +1,44 @@
+{
+  "num": "2094",
+  "name": {
+    "en": "Nendoroid Sebek Zigvolt",
+    "ja": "ねんどろいど セベク・ジグボルト (ねんどろいど せべく・じぐぼると)",
+    "ko": "세벡 지그볼트"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 14010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230220/14010/112920/large/9cd16404926317f2512bf3d954d78ea3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.723Z",
+    "updated_at": "2026-05-15T14:15:10.881Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2094.json"
+}

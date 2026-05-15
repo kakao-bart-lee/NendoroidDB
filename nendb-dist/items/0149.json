@@ -1,0 +1,52 @@
+{
+  "num": "0149",
+  "name": {
+    "en": "Nendoroid Kurisu Makise: White Coat ver. (ねんどろいど まきせくりす はくいVer.)",
+    "ja": "ねんどろいど 牧瀬紅莉栖 白衣Ver. (ねんどろいど まきせくりす はくいVer.)",
+    "ko": "마키세 크리스 백의 Ver."
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-02",
+      "status": "released"
+    },
+    {
+      "date": "2011-06",
+      "status": "released"
+    },
+    {
+      "date": "2012-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 3616,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120720/3616/19614/large/01c6d9569eef35837e5bc23d2c08203a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.117Z",
+    "updated_at": "2026-05-15T14:15:10.407Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/149.json"
+}

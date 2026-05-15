@@ -1,0 +1,44 @@
+{
+  "num": "1742",
+  "name": {
+    "en": "Nendoroid Kars",
+    "ja": "ねんどろいど カーズ (ねんどろいど かーず)",
+    "ko": "카즈"
+  },
+  "series": {
+    "en": "JoJo’s Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 11905,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211018/11905/91248/large/0aec6b9f52f56bf57aa5354aeaabd1ac.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.629Z",
+    "updated_at": "2026-05-15T14:15:10.807Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1742.json"
+}

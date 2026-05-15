@@ -1,0 +1,48 @@
+{
+  "num": "0711",
+  "name": {
+    "en": "Nendoroid Popuko",
+    "ja": "ねんどろいど ポプ子 (ねんどろいど ぽぷこ)",
+    "ko": "포푸코"
+  },
+  "series": {
+    "en": "POP TEAM EPIC",
+    "ja": "ポプテピピック",
+    "ko": "팝 팀 에픽",
+    "code": "pop-team-epic"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161208/6121/42770/large/4052b217ff94a5c38f154fd2e7d7f761.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.329Z",
+    "updated_at": "2026-05-15T14:15:10.545Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/711.json"
+}

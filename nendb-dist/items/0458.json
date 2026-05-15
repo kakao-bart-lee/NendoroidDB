@@ -1,0 +1,48 @@
+{
+  "num": "0458",
+  "name": {
+    "en": "Nendoroid Kotori Minami (ねんどろいど みなみことり)",
+    "ja": "ねんどろいど 南ことり (ねんどろいど みなみことり)",
+    "ko": "미나미 코토리"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-01",
+      "status": "released"
+    },
+    {
+      "date": "2015-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4604,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140917/4604/30473/large/d8972c32d372e4ec439eccdbbc95a246.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.242Z",
+    "updated_at": "2026-05-15T14:15:10.477Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/458.json"
+}

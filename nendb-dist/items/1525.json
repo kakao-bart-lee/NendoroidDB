@@ -1,0 +1,44 @@
+{
+  "num": "1525",
+  "name": {
+    "en": "Nendoroid Crimvael",
+    "ja": "ねんどろいど クリムヴェール (ねんどろいど くりむゔぇーる)",
+    "ko": "크림베일"
+  },
+  "series": {
+    "en": "Interspecies Reviewers",
+    "ja": "異種族レビュアーズ",
+    "ko": "이종족 리뷰어스",
+    "code": "interspecies-reviewers"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 10464,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201130/10464/77973/large/f3f718f63fb3387dc38a400ac89f1f6e.jpg",
+    "gallery": []
+  },
+  "character_gender": "A",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.568Z",
+    "updated_at": "2026-05-15T14:15:10.760Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1525.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0496",
+  "name": {
+    "en": "Nendoroid Hanayo Koizumi (ねんどろいど こいずみはなよ)",
+    "ja": "ねんどろいど 小泉花陽 (ねんどろいど こいずみはなよ)",
+    "ko": "코이즈미 하나요"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-05",
+      "status": "released"
+    },
+    {
+      "date": "2015-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4822,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150116/4822/32072/large/db1150cfc0762e9d9a46622aa3a029a3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.256Z",
+    "updated_at": "2026-05-15T14:15:10.486Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/496.json"
+}

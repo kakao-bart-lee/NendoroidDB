@@ -1,0 +1,44 @@
+{
+  "num": "1980",
+  "name": {
+    "en": "Nendoroid Sadako",
+    "ja": "ねんどろいど 貞子 (ねんどろいど さだこ)",
+    "ko": "사다코"
+  },
+  "series": {
+    "en": "Sadako (Character)",
+    "ja": "キャラクター貞子",
+    "ko": "사다코(캐릭터)",
+    "code": "sadako-character"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7800,
+  "gsc_product_num": 13452,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221024/13452/106350/large/0c44e259470b7050b66d8c22f74a85b9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.691Z",
+    "updated_at": "2026-05-15T14:15:10.856Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1980.json"
+}

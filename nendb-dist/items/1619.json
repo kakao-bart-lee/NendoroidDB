@@ -1,0 +1,44 @@
+{
+  "num": "1619",
+  "name": {
+    "en": "Nendoroid Mayumi Doujima",
+    "ja": "ねんどろいど 瞳島眉美 (ねんどろいど どうじままゆみ)",
+    "ko": "도미자 마유미"
+  },
+  "series": {
+    "en": "Pretty Boy Detective Club",
+    "ja": "美少年探偵団",
+    "ko": "미소년 탐정단",
+    "code": "pretty-boy-detective-club"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 11131,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11131/83981/large/ae4dd882f2a352de3c1615f1a4dfe3e0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.595Z",
+    "updated_at": "2026-05-15T14:15:10.781Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1619.json"
+}

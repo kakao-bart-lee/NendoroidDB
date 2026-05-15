@@ -1,0 +1,44 @@
+{
+  "num": "0750c",
+  "name": {
+    "en": "Nendoroid Asuna: Ordinal Scale Ver. & Yui",
+    "ja": "ねんどろいど アスナ オーディナル・スケール Ver.＆ユイ (ねんどろいど あすな おーでぃなる・すけーる Ver.＆ゆい)",
+    "ko": "아스나 오디널 스케일 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online The Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-the-movie-ordinal-scale"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6752,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170926/6752/47813/large/3ba3d209d8252cecb49e34b7352a9c74.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.342Z",
+    "updated_at": "2026-05-15T14:15:10.556Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/750c.json"
+}

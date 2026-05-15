@@ -1,0 +1,44 @@
+{
+  "num": "1455",
+  "name": {
+    "en": "Nendoroid Tobio Kageyama: The New Karasuno Ver.",
+    "ja": "ねんどろいど 影山飛雄 新生烏野Ver. (ねんどろいど かげやまとびお しんせいからすのVer.)",
+    "ko": "카게야마 토비오 카라스노 Ver."
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4100,
+  "gsc_product_num": 10030,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200909/10030/74083/large/05ce49dbe1441f3021e88f766d53a83f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.545Z",
+    "updated_at": "2026-05-15T14:15:10.745Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1455.json"
+}

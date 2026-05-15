@@ -1,0 +1,44 @@
+{
+  "num": "0068",
+  "name": {
+    "en": "Nendoroid Sebastian Michaelis (せばすちゃん・みかえりす ねんどろいど)",
+    "ja": "ねんどろいど セバスチャン・ミカエリス (ねんどろいど　せばすちゃん・みかえりす)",
+    "ko": "세바스찬 미카 엘리스"
+  },
+  "series": {
+    "en": "Black Butler",
+    "ja": "黒執事",
+    "ko": "흑집사",
+    "code": "black-butler"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2010-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2377,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2377/6746/large/31425cda3a32ee943d5d03b93e3dbe91.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.090Z",
+    "updated_at": "2026-05-15T14:15:10.390Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/068.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0412",
+  "name": {
+    "en": "Nendoroid Yukari Akiyama",
+    "ja": "ねんどろいど 秋山優花里 (ねんどろいど あきやまゆかり)",
+    "ko": "아키야마 유카리"
+  },
+  "series": {
+    "en": "GIRLS und PANZER",
+    "ja": "ガールズ＆パンツァー",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    },
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140403/4356/28452/large/3ad64ffffef8baf23b21055934aececd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.218Z",
+    "updated_at": "2026-05-15T14:15:10.467Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/412.json"
+}

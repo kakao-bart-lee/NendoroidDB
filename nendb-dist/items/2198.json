@@ -1,0 +1,44 @@
+{
+  "num": "2198",
+  "name": {
+    "en": "Nendoroid Shizuma Ikushima",
+    "ja": "ねんどろいど 生嶋静真 (ねんどろいど いくしましずま)",
+    "ko": "이쿠시마 시즈마"
+  },
+  "series": {
+    "en": "Therapy Game",
+    "ja": "セラピーゲーム",
+    "ko": "테라피 게임",
+    "code": "therapy-game"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14589,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230627/14589/117472/large/0dbdf7b3c64668d56d3d3dcae62ebf36.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.755Z",
+    "updated_at": "2026-05-15T14:15:10.903Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2198.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1969",
+  "name": {
+    "en": "Nendoroid Mito",
+    "ja": "ねんどろいど ミト (ねんどろいど みと)",
+    "ko": "미토"
+  },
+  "series": {
+    "en": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+    "ja": "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
+    "ko": "소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 -",
+    "code": "sword-art-online-the-movie-progressive-aria-of-a-starless-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 13282,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220921/13282/104685/large/1eac3347917eef981ac3e7c65f219d16.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.688Z",
+    "updated_at": "2026-05-15T14:15:10.853Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1969.json"
+}

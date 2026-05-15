@@ -1,0 +1,44 @@
+{
+  "num": "2226",
+  "name": {
+    "en": "Nendoroid Oslo",
+    "ja": "ねんどろいど Oslo (ねんどろいど おすろ)",
+    "ko": "Oslo"
+  },
+  "series": {
+    "en": "FLUFFY LAND",
+    "ja": "FLUFFY LAND",
+    "ko": "FLUFFY LAND",
+    "code": "fluffy-land"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14781,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230804/14781/119251/large/9f6c2faeea68babf02f5af014b722551.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.761Z",
+    "updated_at": "2026-05-15T14:15:10.909Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2226.json"
+}

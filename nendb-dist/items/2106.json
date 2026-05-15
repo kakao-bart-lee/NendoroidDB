@@ -1,0 +1,44 @@
+{
+  "num": "2106",
+  "name": {
+    "en": "Nendoroid Diana",
+    "ja": "ねんどろいど ダイアナ (ねんどろいど だいあな)",
+    "ko": "다이애나"
+  },
+  "series": {
+    "en": "A-SOUL",
+    "ja": "A-SOUL",
+    "ko": "A-SOUL",
+    "code": "a-soul"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 14172,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230327/14172/113491/large/934c6c616eb1bd1e349599ee88710353.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.727Z",
+    "updated_at": "2026-05-15T14:15:10.883Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2106.json"
+}

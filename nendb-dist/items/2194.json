@@ -1,0 +1,44 @@
+{
+  "num": "2194",
+  "name": {
+    "en": "Nendoroid Narberal Gamma",
+    "ja": "ねんどろいど ナーベラル・ガンマ (ねんどろいど なーべらる・がんま)",
+    "ko": "나베랄 감마"
+  },
+  "series": {
+    "en": "OVERLORD IV",
+    "ja": "オーバーロードⅣ",
+    "ko": "오버로드",
+    "code": "overlord-iv"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14569,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230626/14569/117276/large/eb17702d084daf4d2655e0d9da2902d1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.754Z",
+    "updated_at": "2026-05-15T14:15:10.902Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2194.json"
+}

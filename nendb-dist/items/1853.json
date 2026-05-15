@@ -1,0 +1,44 @@
+{
+  "num": "1853",
+  "name": {
+    "en": "Nendoroid Shoko Komi",
+    "ja": "ねんどろいど 古見硝子 (ねんどろいど こみしょうこ)",
+    "ko": "코미 쇼코"
+  },
+  "series": {
+    "en": "Komi Can't Communicate",
+    "ja": "古見さんは、コミュ症です。",
+    "ko": "코미양은 커뮤증입니다",
+    "code": "komi-can-t-communicate"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 12471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220316/12471/96601/large/63da4aabdb287bee2d788bf44d1e960d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.655Z",
+    "updated_at": "2026-05-15T14:15:10.829Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1853.json"
+}

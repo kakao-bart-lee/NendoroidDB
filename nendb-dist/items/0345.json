@@ -1,0 +1,48 @@
+{
+  "num": "0345",
+  "name": {
+    "en": "Nendoroid Mikoto Misaka",
+    "ja": "ねんどろいど 御坂美琴 (ねんどろいど みさかみこと)",
+    "ko": "미사카 미코토"
+  },
+  "series": {
+    "en": "A Certain Scientific Railgun S",
+    "ja": "とある科学の超電磁砲T",
+    "ko": "어떤 과학의 초전자포",
+    "code": "a-certain-scientific-railgun-s"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-10",
+      "status": "released"
+    },
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4500,
+  "gsc_product_num": 3983,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130710/3983/70248/large/c992a0c02d20e5cf059c7d2b0b26c4ab.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.189Z",
+    "updated_at": "2026-05-15T14:15:10.452Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/345.json"
+}

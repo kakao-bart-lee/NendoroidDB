@@ -1,0 +1,48 @@
+{
+  "num": "1539",
+  "name": {
+    "en": "Nendoroid Snow Miku: Glowing Snow Ver.",
+    "ja": "ねんどろいど 雪ミク Glowing Snow Ver. (ねんどろいど ゆきみく ぐろうぃんぐ すのう Ver.)",
+    "ko": "유키 미쿠 Glowing Snow Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 10690,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210119/10690/79959/large/9d4dff11720c0f09c1d865cc583aa1a4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.573Z",
+    "updated_at": "2026-05-15T14:15:10.764Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1539.json"
+}

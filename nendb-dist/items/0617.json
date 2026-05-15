@@ -1,0 +1,48 @@
+{
+  "num": "0617",
+  "name": {
+    "en": "Nendoroid Heshikiri Hasebe",
+    "ja": "ねんどろいど へし切長谷部 (ねんどろいど へしきりはせべ)",
+    "ko": "헤시키리 하세베"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-09",
+      "status": "released"
+    },
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5645,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160425/5645/38819/large/a62d58953d92f30b215e543f210fb8e3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.297Z",
+    "updated_at": "2026-05-15T14:15:10.518Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/617.json"
+}

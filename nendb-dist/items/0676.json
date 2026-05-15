@@ -1,0 +1,56 @@
+{
+  "num": "0676",
+  "name": {
+    "en": "Nendoroid Chuya Nakahara",
+    "ja": "ねんどろいど 中原中也 (ねんどろいど なかはらちゅうや)",
+    "ko": "나카하라 츄야"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-04",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-05",
+      "status": "released"
+    },
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 5948,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160913/5948/41314/large/befdf1db257a0d6d7b6406ca1bf8a8fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.319Z",
+    "updated_at": "2026-05-15T14:15:10.532Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/676.json"
+}

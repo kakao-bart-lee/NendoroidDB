@@ -1,0 +1,44 @@
+{
+  "num": "0840",
+  "name": {
+    "en": "Nendoroid Suzu",
+    "ja": "ねんどろいど すずさん",
+    "ko": "스즈 씨"
+  },
+  "series": {
+    "en": "In This Corner of the World",
+    "ja": "この世界の片隅に",
+    "ko": "이 세상의 한 구석에",
+    "code": "in-this-corner-of-the-world"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 6811,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171020/6811/48284/large/3f5fa8ea433a8deedaa4c05f932aeccc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.369Z",
+    "updated_at": "2026-05-15T14:15:10.579Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/840.json"
+}

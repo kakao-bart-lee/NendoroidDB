@@ -1,0 +1,44 @@
+{
+  "num": "0516",
+  "name": {
+    "en": "Nendoroid Maki Nishikino (ねんどろいど にしきのまき)",
+    "ja": "ねんどろいど 西木野真姫 (ねんどろいど にしきのまき)",
+    "ko": "니시키노 마키"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150417/4958/33102/large/91d2e22152f36b77b229436b5a8d53e1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.263Z",
+    "updated_at": "2026-05-15T14:15:10.490Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/516.json"
+}

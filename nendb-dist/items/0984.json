@@ -1,0 +1,48 @@
+{
+  "num": "0984",
+  "name": {
+    "en": "Nendoroid Riku",
+    "ja": "ねんどろいど リク (ねんどろいど りく)",
+    "ko": "리쿠"
+  },
+  "series": {
+    "en": "Kingdom Hearts",
+    "ja": "キングダム ハーツ",
+    "ko": "킹덤하츠",
+    "code": "kingdom-hearts"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    },
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 7559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180824/7559/54067/large/e7278b3619abfd12c8387dc95c862094.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.410Z",
+    "updated_at": "2026-05-15T14:15:10.617Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/984.json"
+}

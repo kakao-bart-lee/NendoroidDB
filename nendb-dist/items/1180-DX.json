@@ -1,0 +1,44 @@
+{
+  "num": "1180-DX",
+  "name": {
+    "en": "Nendoroid Miles Morales: Spider-Verse Edition DX Ver.",
+    "ja": "ねんどろいど マイルス・モラレス スパイダーバース・エディション DX Ver. (ねんどろいど まいるす・もられす すぱいだーばーす・えでぃしょん DX Ver.)",
+    "ko": "마일스 모랄레스 스파이더 버스 에디션 DX Ver."
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 8609,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190729/8609/62494/large/28418aa1f79167dbda15dff202a4a233.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.464Z",
+    "updated_at": "2026-05-15T14:15:10.667Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1180-DX.json"
+}

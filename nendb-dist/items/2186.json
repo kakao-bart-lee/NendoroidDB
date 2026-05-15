@@ -1,0 +1,44 @@
+{
+  "num": "2186",
+  "name": {
+    "en": "Nendoroid Rebecca",
+    "ja": "ねんどろいど レベッカ (ねんどろいど れべっか)",
+    "ko": "레베카"
+  },
+  "series": {
+    "en": "Cyberpunk: Edgerunners",
+    "ja": "サイバーパンク エッジランナーズ",
+    "ko": "사이버 펑크: 엣지러너",
+    "code": "cyberpunk-edgerunners"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6700,
+  "gsc_product_num": 14518,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230619/14518/116741/large/e5bb0b3d5e312cc34f8dcf7544ed3190.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.752Z",
+    "updated_at": "2026-05-15T14:15:10.901Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2186.json"
+}

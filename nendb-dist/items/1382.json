@@ -1,0 +1,44 @@
+{
+  "num": "1382",
+  "name": {
+    "en": "Nendoroid Armin Arlert: Survey Corps Ver.",
+    "ja": "ねんどろいど アルミン・アルレルト 調査兵団 Ver. (ねんどろいど あるみん・あるれると ちょうさへいだん Ver.)",
+    "ko": "아르민 알레르토: 조사병단 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13971,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230213/13971/111564/large/2329d58cafb7371b7c1b4c70e502ca98.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.524Z",
+    "updated_at": "2026-05-15T14:15:10.728Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1382.json"
+}

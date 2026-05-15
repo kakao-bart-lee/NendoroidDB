@@ -1,0 +1,44 @@
+{
+  "num": "0691",
+  "name": {
+    "en": "Nendoroid Rena",
+    "ja": "ねんどろいど レナ (ねんどろいど れな)",
+    "ko": "레나"
+  },
+  "series": {
+    "en": "Regalia: The Three Sacred Stars",
+    "ja": "レガリア The Three Sacred Stars",
+    "ko": "레갈리아 The Three Sacred Stars",
+    "code": "regalia-the-three-sacred-stars"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 6057,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161111/6057/42205/large/4da8bac05aa5a6bf381694f036fc7785.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.323Z",
+    "updated_at": "2026-05-15T14:15:10.538Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/691.json"
+}

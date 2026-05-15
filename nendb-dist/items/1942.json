@@ -1,0 +1,44 @@
+{
+  "num": "1942",
+  "name": {
+    "en": "Nendoroid Rody Soul",
+    "ja": "ねんどろいど ロディ・ソウル (ねんどろいど ろでぃ・そうる)",
+    "ko": "로디 소울"
+  },
+  "series": {
+    "en": "My Hero Academia: World Heroes' Mission",
+    "ja": "僕のヒーローアカデミア THE MOVIE WORLD HEROES' MISSION",
+    "ko": "나의 히어로 아카데미아: 월드 히어로즈 미션",
+    "code": "my-hero-academia-world-heroes-mission"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7920,
+  "gsc_product_num": 13092,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220809/13092/102658/large/5af628e4b54c4394da6928fe6f18747a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.680Z",
+    "updated_at": "2026-05-15T14:15:10.849Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1942.json"
+}

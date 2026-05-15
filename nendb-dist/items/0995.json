@@ -1,0 +1,44 @@
+{
+  "num": "0995",
+  "name": {
+    "en": "Nendoroid Lacia",
+    "ja": "ねんどろいど レイシア (ねんどろいど れいしあ)",
+    "ko": "레이시아"
+  },
+  "series": {
+    "en": "BEATLESS",
+    "ja": "BEATLESS",
+    "ko": "BEATLESS",
+    "code": "beatless"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 7640,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180926/7640/54771/large/eb7fd75e83dc48f595913cb05dfcd2fc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.413Z",
+    "updated_at": "2026-05-15T14:15:10.619Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/995.json"
+}

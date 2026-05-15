@@ -1,0 +1,48 @@
+{
+  "num": "1375",
+  "name": {
+    "en": "Nendoroid W",
+    "ja": "ねんどろいど W (ねんどろいど だぶりゅー)",
+    "ko": "W"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    },
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6400,
+  "gsc_product_num": 9678,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200624/9678/71200/large/2894e431c7e2022e8c6314ebdf5f9877.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.522Z",
+    "updated_at": "2026-05-15T14:15:10.726Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1375.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1432",
+  "name": {
+    "en": "Nendoroid Tatsuya Shiba",
+    "ja": "ねんどろいど 司波達也 (ねんどろいど しばたつや)",
+    "ko": "시바 타츠야"
+  },
+  "series": {
+    "en": "The Irregular at Magic High School: Visitor Arc",
+    "ja": "魔法科高校の劣等生 来訪者編",
+    "ko": "마법과 고교의 열등생",
+    "code": "the-irregular-at-magic-high-school-visitor-arc"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 9921,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200814/9921/73116/large/4784973bde3d9b41ce4863901e656b7d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.538Z",
+    "updated_at": "2026-05-15T14:15:10.740Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1432.json"
+}

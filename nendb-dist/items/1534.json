@@ -1,0 +1,48 @@
+{
+  "num": "1534",
+  "name": {
+    "en": "Nendoroid Hyakunosuke Ogata",
+    "ja": "ねんどろいど 尾形百之助 (ねんどろいど おがたひゃくのすけ)",
+    "ko": "오가타 하쿠노스케"
+  },
+  "series": {
+    "en": "Golden Kamuy",
+    "ja": "TVアニメ『ゴールデンカムイ』",
+    "ko": "골든 카무이",
+    "code": "golden-kamuy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    },
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10562,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201215/10562/78939/large/d689ddc185f1b514441438e106a55113.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.571Z",
+    "updated_at": "2026-05-15T14:15:10.763Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1534.json"
+}

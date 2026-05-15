@@ -1,0 +1,44 @@
+{
+  "num": "0609",
+  "name": {
+    "en": "Nendoroid Satori Komeiji",
+    "ja": "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
+    "ko": "코메이지 사토리"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 5503,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160219/5503/37699/large/11f5dba16bec514ecb5e9132d85eab0a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.292Z",
+    "updated_at": "2026-05-15T14:15:10.516Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/609.json"
+}

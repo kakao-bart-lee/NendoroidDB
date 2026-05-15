@@ -1,0 +1,48 @@
+{
+  "num": "1033",
+  "name": {
+    "en": "Nendoroid Noriaki Kakyoin",
+    "ja": "ねんどろいど 花京院典明 (ねんどろいど かきょういんのりあき)",
+    "ko": "카쿄인 노리아키"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stardust-crusaders"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 7815,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181119/7815/56053/large/ed8ba986f043b018472086dd8b43d4d7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.423Z",
+    "updated_at": "2026-05-15T14:15:10.628Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1033.json"
+}

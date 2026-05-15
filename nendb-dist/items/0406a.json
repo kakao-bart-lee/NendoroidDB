@@ -1,0 +1,44 @@
+{
+  "num": "0406a",
+  "name": {
+    "en": "Nendoroid Miss Monochrome (ねんどろいど みす・ものくろーむ)",
+    "ja": "ねんどろいど ミス・モノクローム (ねんどろいど みす・ものくろーむ)",
+    "ko": "미스 모노크롬"
+  },
+  "series": {
+    "en": "Miss Monochrome -The Animation-",
+    "ja": "ミス・モノクローム -The Animation-",
+    "ko": "미스 모노크롬",
+    "code": "miss-monochrome-the-animation"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 4272,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140320/4272/28215/large/16d72b9298c867239d5082eb1d323f17.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.216Z",
+    "updated_at": "2026-05-15T14:15:10.465Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/406a.json"
+}

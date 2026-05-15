@@ -1,0 +1,48 @@
+{
+  "num": "1281",
+  "name": {
+    "en": "Nendoroid Waddle Dee",
+    "ja": "ねんどろいど ワドルディ (ねんどろいど わどるでぃ)",
+    "ko": "반다나 웨이들 디"
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": "星のカービィ",
+    "ko": "별의 커비",
+    "code": "kirby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 9222,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200128/9222/67172/large/48dd3bb68c1fae0b9283e55dc13c3c2d.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.495Z",
+    "updated_at": "2026-05-15T14:15:10.696Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1281.json"
+}

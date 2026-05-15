@@ -1,0 +1,48 @@
+{
+  "num": "0295",
+  "name": {
+    "en": "Nendoroid Kirito (ねんどろいど　きりと)",
+    "ja": "ねんどろいど キリト (ねんどろいど きりと)",
+    "ko": "키리토"
+  },
+  "series": {
+    "en": "Sword Art Online",
+    "ja": "ソードアート・オンライン",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-05",
+      "status": "released"
+    },
+    {
+      "date": "2017-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 3779,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20121207/3779/21840/large/b569f8c567888dff6e69f721a1def968.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.169Z",
+    "updated_at": "2026-05-15T14:15:10.438Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/295.json"
+}

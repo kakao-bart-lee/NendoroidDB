@@ -1,0 +1,44 @@
+{
+  "num": "1137",
+  "name": {
+    "en": "Nendoroid Izumi Sena",
+    "ja": "ねんどろいど 瀬名泉 (ねんどろいど せないずみ)",
+    "ko": "세나 이즈미"
+  },
+  "series": {
+    "en": "Ensemble Stars!",
+    "ja": "あんさんぶるスターズ！",
+    "ko": "앙상블 스타즈!",
+    "code": "ensemble-stars"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4700,
+  "gsc_product_num": 8344,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190521/8344/60280/large/aa748ddebff7247133fe1ebf81bdc307.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.452Z",
+    "updated_at": "2026-05-15T14:15:10.657Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1137.json"
+}

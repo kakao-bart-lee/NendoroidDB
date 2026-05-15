@@ -1,0 +1,44 @@
+{
+  "num": "2011",
+  "name": {
+    "en": "Nendoroid River",
+    "ja": "ねんどろいど River (ねんどろいど りぶぅあ)",
+    "ko": "River"
+  },
+  "series": {
+    "en": "Original",
+    "ja": "オリジナル",
+    "ko": "오리지널",
+    "code": "original"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 13614,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221129/13614/107960/large/fc3ab4e0e70fab7f9c4f5d58a5170c37.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.701Z",
+    "updated_at": "2026-05-15T14:15:10.863Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2011.json"
+}

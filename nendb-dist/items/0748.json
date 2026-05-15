@@ -1,0 +1,44 @@
+{
+  "num": "0748",
+  "name": {
+    "en": "Nendoroid Ushio Kai-II",
+    "ja": "ねんどろいど 潮改二 (ねんどろいど うしおかいに)",
+    "ko": "우시오 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5602,
+  "gsc_product_num": 6315,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170313/6315/44310/large/4d356654da60d2f6465656756f468612.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.340Z",
+    "updated_at": "2026-05-15T14:15:10.555Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/748.json"
+}

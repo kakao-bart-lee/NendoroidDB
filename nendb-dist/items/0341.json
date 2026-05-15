@@ -1,0 +1,44 @@
+{
+  "num": "0341",
+  "name": {
+    "en": "Nendoroid Kagamine Len: FamilyMart 2013 Ver. (ねんどろいど かがみねれん ふぁみりーまーと 2013 Ver.)",
+    "ja": "ねんどろいど 鏡音レン FamilyMart 2013 Ver. (ねんどろいど かがみねれん ふぁみりーまーと 2013 Ver.)",
+    "ko": "카가미네 렌 패밀리마트 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja": "キャラクターボーカルシリーズ02 鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-kagamine-rin-len"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 0,
+  "gsc_product_num": 3986,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130710/3986/25046/large/020455e8bd68d43ee0b93fde180e7304.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.187Z",
+    "updated_at": "2026-05-15T14:15:10.451Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/341.json"
+}

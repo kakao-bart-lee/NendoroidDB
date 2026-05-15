@@ -1,0 +1,44 @@
+{
+  "num": "0048",
+  "name": {
+    "en": "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)",
+    "ja": "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
+    "ko": "난교쿠 사쿠라"
+  },
+  "series": {
+    "en": "Penguin Girl Heart",
+    "ja": "ペンギン娘はぁと",
+    "ko": "펭귄 아가씨 하트",
+    "code": "penguin-girl-heart"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2008-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/260/5278/large/a9c848422fdf64454ee2f14c82f03fe7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.084Z",
+    "updated_at": "2026-05-15T14:15:10.385Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/048.json"
+}

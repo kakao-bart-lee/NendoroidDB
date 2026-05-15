@@ -1,0 +1,44 @@
+{
+  "num": "0539",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Harvest Moon Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)",
+    "ja": "ねんどろいど 初音ミク 中秋明月Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)",
+    "ko": "하츠네 미쿠 중추명월 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5128,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150709/5128/34579/large/099b436eeb8cfc6e00e799475f63cc11.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.270Z",
+    "updated_at": "2026-05-15T14:15:10.497Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/539.json"
+}

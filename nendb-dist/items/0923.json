@@ -1,0 +1,48 @@
+{
+  "num": "0923",
+  "name": {
+    "en": "Nendoroid Captain America: Infinity Edition",
+    "ja": "ねんどろいど キャプテン・アメリカ インフィニティ・エディション (ねんどろいど きゃぷてん・あめりか いんふぃにてぃ・えでぃしょん)",
+    "ko": "캡틴 아메리카 어벤져스 인피니티 워 에디션"
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-11",
+      "status": "released"
+    },
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 7230,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180420/7230/51630/large/542cda8cb2f8b19ad3536a658de19353.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.392Z",
+    "updated_at": "2026-05-15T14:15:10.599Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/923.json"
+}

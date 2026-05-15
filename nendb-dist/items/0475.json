@@ -1,0 +1,56 @@
+{
+  "num": "0475",
+  "name": {
+    "en": "Nendoroid Elsa",
+    "ja": "ねんどろいど エルサ (ねんどろいど えるさ)",
+    "ko": "엘사"
+  },
+  "series": {
+    "en": "Frozen",
+    "ja": "アナと雪の女王",
+    "ko": "겨울왕국",
+    "code": "frozen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-05",
+      "status": "released"
+    },
+    {
+      "date": "2016-01",
+      "status": "released"
+    },
+    {
+      "date": "2017-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 4738,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141121/4738/31424/large/9ba1f4d06b6d434bfe3fcc0fb7dc8c32.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.249Z",
+    "updated_at": "2026-05-15T14:15:10.481Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/475.json"
+}

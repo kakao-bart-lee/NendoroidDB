@@ -1,0 +1,44 @@
+{
+  "num": "1444",
+  "name": {
+    "en": "Nendoroid Hyskoa",
+    "ja": "ねんどろいど ヒソカ (ねんどろいど ひそか)",
+    "ko": "히소카"
+  },
+  "series": {
+    "en": "HUNTER x HUNTER",
+    "ja": "HUNTER×HUNTER",
+    "ko": "헌터 X 헌터",
+    "code": "hunter-x-hunter"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 14789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230808/14789/119365/large/d1923d54bf9417dda4a0052edd746f43.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.542Z",
+    "updated_at": "2026-05-15T14:15:10.743Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1444.json"
+}

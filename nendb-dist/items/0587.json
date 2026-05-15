@@ -1,0 +1,44 @@
+{
+  "num": "0587",
+  "name": {
+    "en": "Nendoroid Guildmaster (Included with the Monster Hunter Frontier G Five Million Hunters Memorial Goods)",
+    "ja": "ねんどろいど ギルドマスター(「モンスターハンター フロンティアＧ 500万ハンター突破記念 メモリアルグッズ」同梱) (ねんどろいど ぎるどますたー(「もんすたーはんたー ふろんてぃあG ごひゃくまんはんたーとっぱきねん めもりあるぐっず」どうこん))",
+    "ko": "길드마스터"
+  },
+  "series": {
+    "en": "Monster Hunter Frontier G",
+    "ja": "モンスターハンター フロンティアＧ",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-frontier-g"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 10780,
+  "gsc_product_num": 5343,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151117/5343/36449/large/53a6a87797451dafc5126cae7001047a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.284Z",
+    "updated_at": "2026-05-15T14:15:10.510Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/587.json"
+}

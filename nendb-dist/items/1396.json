@@ -1,0 +1,44 @@
+{
+  "num": "1396",
+  "name": {
+    "en": "Nendoroid Kazuma Kuwabara",
+    "ja": "ねんどろいど 桑原和真 (ねんどろいど くわばらかずま)",
+    "ko": "쿠와바라 카즈마"
+  },
+  "series": {
+    "en": "Yu Yu Hakusho",
+    "ja": "幽☆遊☆白書",
+    "ko": "유유백서",
+    "code": "yu-yu-hakusho"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8800,
+  "gsc_product_num": 13669,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221212/13669/108517/large/35ffa39c9ad9fc88e1930efbe0911d77.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.528Z",
+    "updated_at": "2026-05-15T14:15:10.730Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1396.json"
+}

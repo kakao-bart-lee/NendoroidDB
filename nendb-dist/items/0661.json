@@ -1,0 +1,44 @@
+{
+  "num": "0661",
+  "name": {
+    "en": "Nendoroid Keigo Atobe",
+    "ja": "ねんどろいど 跡部景吾 (ねんどろいど あとべけいご)",
+    "ko": "아토베 케이고"
+  },
+  "series": {
+    "en": "The Prince of Tennis II",
+    "ja": "新テニスの王子様",
+    "ko": "테니스의 왕자",
+    "code": "the-prince-of-tennis-ii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4074,
+  "gsc_product_num": 5846,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160803/5846/40481/large/905bd60c8a6f7cfb3668145a5382cf36.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.314Z",
+    "updated_at": "2026-05-15T14:15:10.529Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/661.json"
+}

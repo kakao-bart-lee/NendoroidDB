@@ -1,0 +1,48 @@
+{
+  "num": "1307",
+  "name": {
+    "en": "Nendoroid Yukino Yukinoshita",
+    "ja": "ねんどろいど 雪ノ下雪乃 (ねんどろいど ゆきのしたゆきの)",
+    "ko": "유키노시타 유키노"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-10",
+      "status": "released"
+    },
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 9356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200317/9356/68351/large/0bc9542fa5ca1466ed8a14b234834cb0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.503Z",
+    "updated_at": "2026-05-15T14:15:10.708Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1307.json"
+}

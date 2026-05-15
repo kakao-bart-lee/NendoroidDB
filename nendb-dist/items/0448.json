@@ -1,0 +1,44 @@
+{
+  "num": "0448",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Halloween Ver. (ねんどろいど はつねみく はろうぃんVer.)",
+    "ja": "ねんどろいど 初音ミク ハロウィンVer. (ねんどろいど はつねみく はろうぃんVer.)",
+    "ko": "하츠네 미쿠 할로윈 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140908/4582/30331/large/90ae49e397848e5d7889a54068421da7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.238Z",
+    "updated_at": "2026-05-15T14:15:10.475Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/448.json"
+}

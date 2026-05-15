@@ -1,0 +1,44 @@
+{
+  "num": "0708",
+  "name": {
+    "en": "Nendoroid 22: BML 2016 Ver.",
+    "ja": "ねんどろいど 22娘 BML 2016 Ver. (22むすめ BML 2016 Ver.)",
+    "ko": "22니앙 BML 2016 Ver."
+  },
+  "series": {
+    "en": "bilibili Macro Link",
+    "ja": "bilibili Macro Link",
+    "ko": "비리비리",
+    "code": "bilibili-macro-link"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6322,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170314/6322/44362/large/647fb975c053fed354b66b5cae032054.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.328Z",
+    "updated_at": "2026-05-15T14:15:10.544Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/708.json"
+}

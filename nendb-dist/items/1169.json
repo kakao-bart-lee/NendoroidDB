@@ -1,0 +1,44 @@
+{
+  "num": "1169",
+  "name": {
+    "en": "Nendoroid Accelerator",
+    "ja": "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
+    "ko": "액셀러레이터"
+  },
+  "series": {
+    "en": "A Certain Scientific Accelerator",
+    "ja": "とある科学の一方通行",
+    "ko": "어떤 과학의 일방통행",
+    "code": "a-certain-scientific-accelerator"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 8556,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190717/8556/61953/large/09d8cb32bbbebe50fa45a1744cbb962d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.461Z",
+    "updated_at": "2026-05-15T14:15:10.665Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1169.json"
+}

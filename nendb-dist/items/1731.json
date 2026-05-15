@@ -1,0 +1,44 @@
+{
+  "num": "1731",
+  "name": {
+    "en": "Nendoroid Noa Himesaka",
+    "ja": "ねんどろいど 姫坂乃愛 (ねんどろいど ひめさかのあ)",
+    "ko": "히메사카 노아"
+  },
+  "series": {
+    "en": "Wataten!: An Angel Flew Down to Me",
+    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko": "나에게 천사가 내려왔다!",
+    "code": "wataten-an-angel-flew-down-to-me"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 11847,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210930/11847/90981/large/76fb1f88b429f5664c1aa45f03375ec2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.626Z",
+    "updated_at": "2026-05-15T14:15:10.805Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1731.json"
+}

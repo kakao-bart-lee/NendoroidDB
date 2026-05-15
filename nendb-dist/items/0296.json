@@ -1,0 +1,44 @@
+{
+  "num": "0296",
+  "name": {
+    "en": "Nendoroid Alice (ねんどろいど ありす)",
+    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
+    "ko": "아리스"
+  },
+  "series": {
+    "en": "Momoiro Taisen Pairon",
+    "ja": "桃色大戦ぱいろん",
+    "ko": "도색대전 파이론",
+    "code": "momoiro-taisen-pairon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3786,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20121212/3786/21931/large/4022a30930fd1b70e3c0a5de03f0027f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.169Z",
+    "updated_at": "2026-05-15T14:15:10.439Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/296.json"
+}

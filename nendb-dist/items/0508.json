@@ -1,0 +1,44 @@
+{
+  "num": "0508",
+  "name": {
+    "en": "Nendoroid Laura Bodewig (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ja": "ねんどろいど ラウラ・ボーデヴィッヒ (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ko": "라우라 보데비히"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4912,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150324/4912/32837/large/6dd4912040997fd46fd3b3f0c31960e5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.260Z",
+    "updated_at": "2026-05-15T14:15:10.489Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/508.json"
+}

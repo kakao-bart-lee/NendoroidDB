@@ -1,0 +1,48 @@
+{
+  "num": "0560",
+  "name": {
+    "en": "Nendoroid Hestia",
+    "ja": "ねんどろいど ヘスティア (ねんどろいど へすてぃあ)",
+    "ko": "헤스티아"
+  },
+  "series": {
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "ja": "ダンジョンに出会いを求めるのは間違っているだろうか",
+    "ko": "던전에서 만남을 추구하면 안되는 걸까",
+    "code": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-01",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5219,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150907/5219/35418/large/10dd678ea1ac571c02a61b1206d2c395.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.276Z",
+    "updated_at": "2026-05-15T14:15:10.503Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/560.json"
+}

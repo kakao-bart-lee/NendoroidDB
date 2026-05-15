@@ -1,0 +1,44 @@
+{
+  "num": "1774",
+  "name": {
+    "en": "Nendoroid Noé Archiviste",
+    "ja": "ねんどろいど ノエ・アルシヴィスト (ねんどろいど のえ・あるしゔぃすと)",
+    "ko": "노에"
+  },
+  "series": {
+    "en": "The Case Study of Vanitas",
+    "ja": "ヴァニタスの手記",
+    "ko": "바니타스의 수기",
+    "code": "the-case-study-of-vanitas"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 12070,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211130/12070/92698/large/043df58a00c7d8d350863a41eb694cf0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.635Z",
+    "updated_at": "2026-05-15T14:15:10.812Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1774.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1905",
+  "name": {
+    "en": "Nendoroid Uta",
+    "ja": "ねんどろいど ウタ (ねんどろいど うた)",
+    "ko": "우타"
+  },
+  "series": {
+    "en": "Bubble",
+    "ja": "バブル",
+    "ko": "버블",
+    "code": "bubble"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6700,
+  "gsc_product_num": 12789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220607/12789/99730/large/58bfe1166789b84273eae420de788a0a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.667Z",
+    "updated_at": "2026-05-15T14:15:10.841Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1905.json"
+}

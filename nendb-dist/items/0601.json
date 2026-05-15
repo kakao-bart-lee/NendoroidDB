@@ -1,0 +1,44 @@
+{
+  "num": "0601",
+  "name": {
+    "en": "Nendoroid Futaba Ichinose",
+    "ja": "ねんどろいど 一ノ瀬双葉 (ねんどろいど いちのせふたば)",
+    "ko": "이치노세 후타바"
+  },
+  "series": {
+    "en": "Seiyu's Life!",
+    "ja": "それが声優！",
+    "ko": "그것이 성우!",
+    "code": "seiyu-s-life"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 5441,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160108/5441/37208/large/198bf69ca0d7c647805558c1c016474f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.290Z",
+    "updated_at": "2026-05-15T14:15:10.514Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/601.json"
+}

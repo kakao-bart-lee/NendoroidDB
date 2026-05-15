@@ -1,0 +1,44 @@
+{
+  "num": "1263",
+  "name": {
+    "en": "Nendoroid Mamako Oosuki",
+    "ja": "ねんどろいど 大好真々子 (ねんどろいど おおすきままこ)",
+    "ko": "오오스기 마마코"
+  },
+  "series": {
+    "en": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "ja": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "ko": "일반공격이 전체공격에 2회 공격인 엄마는 좋아하세요?",
+    "code": "do-you-love-your-mom-and-her-two-hit-multi-target-attacks"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 9125,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191220/9125/66331/large/95797f8ad813137ea0643c6c05c3fca3.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.489Z",
+    "updated_at": "2026-05-15T14:15:10.689Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1263.json"
+}

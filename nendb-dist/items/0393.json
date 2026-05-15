@@ -1,0 +1,48 @@
+{
+  "num": "0393",
+  "name": {
+    "en": "Nendoroid Luigi (ねんどろいど るいーじ)",
+    "ja": "ねんどろいど ルイージ (ねんどろいど るいーじ)",
+    "ko": "루이지"
+  },
+  "series": {
+    "en": "Super Mario",
+    "ja": "スーパーマリオ",
+    "ko": "슈퍼 마리오",
+    "code": "super-mario"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-06",
+      "status": "released"
+    },
+    {
+      "date": "2020-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4173,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131225/4173/27531/large/ccc3ace59d9d295bfe3c3c81d8931c93.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.211Z",
+    "updated_at": "2026-05-15T14:15:10.462Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/393.json"
+}

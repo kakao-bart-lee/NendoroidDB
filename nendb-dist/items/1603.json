@@ -1,0 +1,44 @@
+{
+  "num": "1603",
+  "name": {
+    "en": "Nendoroid Mostima",
+    "ja": "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
+    "ko": "모스티마"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6300,
+  "gsc_product_num": 11243,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210521/11243/84990/large/3caf0f4dc2b7610cf01a1255adc171f2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.590Z",
+    "updated_at": "2026-05-15T14:15:10.777Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1603.json"
+}

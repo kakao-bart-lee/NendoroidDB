@@ -1,0 +1,44 @@
+{
+  "num": "1381",
+  "name": {
+    "en": "Nendoroid Mikasa Ackerman: Survey Corps Ver.",
+    "ja": "ねんどろいど ミカサ・アッカーマン 調査兵団 Ver. (ねんどろいど みかさ・あっかーまん ちょうさへいだん Ver.)",
+    "ko": "미카사 아커만: 조사병단 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 13970,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230213/13970/111554/large/2eb574f1c7550585c9284d3f72d073ee.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.524Z",
+    "updated_at": "2026-05-15T14:15:10.728Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1381.json"
+}

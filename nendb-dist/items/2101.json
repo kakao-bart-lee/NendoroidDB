@@ -1,0 +1,44 @@
+{
+  "num": "2101",
+  "name": {
+    "en": "Nendoroid Oguri Cap",
+    "ja": "ねんどろいど オグリキャップ (ねんどろいど おぐりきゃっぷ)",
+    "ko": "오구리 캡"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14224,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230405/14224/113929/large/b0f338404137b40c4bd7a09ee2129896.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.725Z",
+    "updated_at": "2026-05-15T14:15:10.882Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2101.json"
+}

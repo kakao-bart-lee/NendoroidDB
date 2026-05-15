@@ -1,0 +1,44 @@
+{
+  "num": "1528",
+  "name": {
+    "en": "Nendoroid Satoru Gojo",
+    "ja": "ねんどろいど 五条悟 (ねんどろいど ごじょうさとる)",
+    "ko": "고죠 사토루"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 10491,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201204/10491/78227/large/fce454c325c36e455fed1a562a0ae716.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.569Z",
+    "updated_at": "2026-05-15T14:15:10.761Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1528.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0510",
+  "name": {
+    "en": "Nendoroid Umi Sonoda (ねんどろいど そのだうみ)",
+    "ja": "ねんどろいど 園田海未 (ねんどろいど そのだうみ)",
+    "ko": "소노다 우미"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 4886,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150313/4886/32630/large/c8540564ec9721e177137c304cfc3223.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.260Z",
+    "updated_at": "2026-05-15T14:15:10.489Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/510.json"
+}

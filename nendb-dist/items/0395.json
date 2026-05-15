@@ -1,0 +1,52 @@
+{
+  "num": "0395",
+  "name": {
+    "en": "Nendoroid Yoshino (ねんどろいど よしの)",
+    "ja": "ねんどろいど 四糸乃 (ねんどろいど よしの)",
+    "ko": "요시노"
+  },
+  "series": {
+    "en": "Date A Live",
+    "ja": "デート・ア・ライブ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-05",
+      "status": "released"
+    },
+    {
+      "date": "2015-06",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4205,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140122/4205/27763/large/b299c5d7f932051c2e2c98620f0efceb.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.212Z",
+    "updated_at": "2026-05-15T14:15:10.462Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/395.json"
+}

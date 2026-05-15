@@ -1,0 +1,44 @@
+{
+  "num": "2080",
+  "name": {
+    "en": "Nendoroid Zatch Bell",
+    "ja": "ねんどろいど ガッシュ・ベル (ねんどろいど がっしゅ・べる)",
+    "ko": "갓슈 벨"
+  },
+  "series": {
+    "en": "Zatch Bell!",
+    "ja": "金色のガッシュベル!!",
+    "ko": "금색의 갓슈!!",
+    "code": "zatch-bell"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 14008,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230220/14008/111922/large/0d9911ae07a2ed48d12ee53133e8fa9f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.719Z",
+    "updated_at": "2026-05-15T14:15:10.877Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2080.json"
+}

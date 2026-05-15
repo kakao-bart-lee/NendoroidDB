@@ -1,0 +1,48 @@
+{
+  "num": "1722",
+  "name": {
+    "en": "Nendoroid Sakura Miko",
+    "ja": "ねんどろいど さくらみこ (ねんどろいど さくらみこ)",
+    "ko": "사쿠라 미코"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-09",
+      "status": "released"
+    },
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 11999,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211115/11999/92057/large/c386b2a6c948215686fd4e6a4d1cf653.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.623Z",
+    "updated_at": "2026-05-15T14:15:10.803Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1722.json"
+}

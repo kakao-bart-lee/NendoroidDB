@@ -1,0 +1,44 @@
+{
+  "num": "0404",
+  "name": {
+    "en": "Nendoroid Tsubasa Hanekawa (ねんどろいど はねかわつばさ)",
+    "ja": "ねんどろいど 羽川翼 (ねんどろいど はねかわつばさ)",
+    "ko": "하네카와 츠바사"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 4257,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140317/4257/28141/large/a29206aed3b51e8b6a8e195481f43ea6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.215Z",
+    "updated_at": "2026-05-15T14:15:10.464Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/404.json"
+}

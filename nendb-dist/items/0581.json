@@ -1,0 +1,48 @@
+{
+  "num": "0581",
+  "name": {
+    "en": "Nendoroid Ichigo Hitohuri",
+    "ja": "ねんどろいど 一期一振 (ねんどろいど いちごひとふり)",
+    "ko": "이치고히토후리"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-05",
+      "status": "released"
+    },
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5316,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151110/5316/36254/large/22de43ef60b6f7cfd4466fa88db952b8.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.282Z",
+    "updated_at": "2026-05-15T14:15:10.509Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/581.json"
+}

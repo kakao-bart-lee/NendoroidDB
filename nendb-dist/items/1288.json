@@ -1,0 +1,44 @@
+{
+  "num": "1288",
+  "name": {
+    "en": "Nendoroid Kaguya Shinomiya",
+    "ja": "ねんどろいど 四宮かぐや (ねんどろいど しのみやかぐや)",
+    "ko": "시노미야 카구야"
+  },
+  "series": {
+    "en": "Kaguya-sama: Love is War",
+    "ja": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "ko": "카구야 님은 고백받고 싶어",
+    "code": "kaguya-sama-love-is-war"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5610,
+  "gsc_product_num": 9248,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200131/9248/67400/large/1d34697ea4090b519edb674b4bdd1f24.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.498Z",
+    "updated_at": "2026-05-15T14:15:10.700Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1288.json"
+}

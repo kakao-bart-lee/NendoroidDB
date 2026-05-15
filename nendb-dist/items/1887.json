@@ -1,0 +1,44 @@
+{
+  "num": "1887",
+  "name": {
+    "en": "Nendoroid Floyd Leech",
+    "ja": "ねんどろいど フロイド・リーチ (ねんどろいど ふろいど・りーち)",
+    "ko": "플로이드 리치"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 12677,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220509/12677/99519/large/5e70eda694df86276b0423b0d4fbc943.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.663Z",
+    "updated_at": "2026-05-15T14:15:10.837Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1887.json"
+}

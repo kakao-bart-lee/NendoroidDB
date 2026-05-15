@@ -1,0 +1,48 @@
+{
+  "num": "0100",
+  "name": {
+    "en": "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)",
+    "ja": "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
+    "ko": "미키 마우스"
+  },
+  "series": {
+    "en": "MICKEY MOUSE",
+    "ja": "MICKEY　MOUSE",
+    "ko": "디즈니",
+    "code": "mickey-mouse"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-01",
+      "status": "released"
+    },
+    {
+      "date": "2018-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 2880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20100608/2880/54124/large/38e940a6b90b8e19a9c0892294097481.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.101Z",
+    "updated_at": "2026-05-15T14:15:10.396Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/100.json"
+}

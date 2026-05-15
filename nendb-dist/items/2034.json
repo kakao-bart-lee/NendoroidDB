@@ -1,0 +1,44 @@
+{
+  "num": "2034",
+  "name": {
+    "en": "Nendoroid Shoyo Hinata: The Way of the Ace Ver.",
+    "ja": "ねんどろいど 日向翔陽 エースの心得Ver. (ねんどろいど ひなたしょうよう えーすのこころえVer.)",
+    "ko": "히나타 쇼요: 에이스의 마음가짐 ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 14476,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230612/14476/116329/large/370a195934ab7deba363318f608d87df.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.706Z",
+    "updated_at": "2026-05-15T14:15:10.869Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2034.json"
+}

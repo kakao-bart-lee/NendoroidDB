@@ -1,0 +1,48 @@
+{
+  "num": "0061",
+  "name": {
+    "en": "Nendoroid Louise (ねんどろいど るいず)",
+    "ja": "ねんどろいど　ルイズ (ねんどろいど るいず)",
+    "ko": "루이즈"
+  },
+  "series": {
+    "en": "The Familiar of Zero F",
+    "ja": "ゼロの使い魔F",
+    "ko": "제로의 사역마",
+    "code": "the-familiar-of-zero-f"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-04",
+      "status": "released"
+    },
+    {
+      "date": "2012-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 2261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2261/6263/large/17e2524693b3a3355b065f09e59f4a58.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.088Z",
+    "updated_at": "2026-05-15T14:15:10.388Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/061.json"
+}

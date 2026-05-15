@@ -1,0 +1,44 @@
+{
+  "num": "0979",
+  "name": {
+    "en": "Nendoroid White blood cell（Neutrophil）",
+    "ja": "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
+    "ko": "백혈구"
+  },
+  "series": {
+    "en": "Cells at Work!",
+    "ja": "はたらく細胞",
+    "ko": "일하는 세포",
+    "code": "cells-at-work"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7504,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180803/7504/53649/large/6de95b51bd4dafd994797858fab9c7ef.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.408Z",
+    "updated_at": "2026-05-15T14:15:10.615Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/979.json"
+}

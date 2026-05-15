@@ -1,0 +1,44 @@
+{
+  "num": "1836",
+  "name": {
+    "en": "Nendoroid Kenma Kozume: Second Uniform Ver.",
+    "ja": "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
+    "ko": "코즈메 켄마 세컨드 유니폼 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 12389,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220224/12389/95816/large/115cb1cb85878c82b01ba4609477e179.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.651Z",
+    "updated_at": "2026-05-15T14:15:10.826Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1836.json"
+}

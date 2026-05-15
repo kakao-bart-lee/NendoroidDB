@@ -1,0 +1,44 @@
+{
+  "num": "1783",
+  "name": {
+    "en": "Nendoroid Gold Ship",
+    "ja": "ねんどろいど ゴールドシップ (ねんどろいど ごーるどしっぷ)",
+    "ko": "골드 쉽"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 12114,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211210/12114/93342/large/473d9e0e72964024dfdba687535f3969.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.637Z",
+    "updated_at": "2026-05-15T14:15:10.814Z"
+  },
+  "_source_path": "Nendoroid/1700-1799/1783.json"
+}

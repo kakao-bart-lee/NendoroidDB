@@ -1,0 +1,44 @@
+{
+  "num": "2050",
+  "name": {
+    "en": "Nendoroid Murasaki Shion",
+    "ja": "ねんどろいど 紫咲シオン (ねんどろいど むらさきしおん)",
+    "ko": "무라사키 시온"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8800,
+  "gsc_product_num": 13872,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230124/13872/110653/large/b1b9639c11d491f21a4d87d51ad4bb6b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.710Z",
+    "updated_at": "2026-05-15T14:15:10.872Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2050.json"
+}

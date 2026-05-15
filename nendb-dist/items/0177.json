@@ -1,0 +1,44 @@
+{
+  "num": "0177",
+  "name": {
+    "en": "Nendoroid Prince (ねんどろいど おうじ)",
+    "ja": "ねんどろいど 王子 (ねんどろいど おうじ)",
+    "ko": "왕자"
+  },
+  "series": {
+    "en": "Level E",
+    "ja": "レベルE",
+    "ko": "레벨E",
+    "code": "level-e"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3177,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110523/3177/14040/large/815d535447ea4febd68ee53a7e95a662.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.130Z",
+    "updated_at": "2026-05-15T14:15:10.414Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/177.json"
+}

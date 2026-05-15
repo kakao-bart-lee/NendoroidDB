@@ -1,0 +1,44 @@
+{
+  "num": "1047-DX",
+  "name": {
+    "en": "Nendoroid Buzz Lightyear: DX Ver.",
+    "ja": "ねんどろいど バズ・ライトイヤー DX Ver. (ねんどろいど ばず・らいといやー DX Ver.)",
+    "ko": "버즈 라이트이어 스탠다드 ver."
+  },
+  "series": {
+    "en": "Toy Story",
+    "ja": "トイ・ストーリー",
+    "ko": "토이 스토리",
+    "code": "toy-story"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7028,
+  "gsc_product_num": 7881,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181207/7881/56581/large/886b2c1316033f7d274fcbd7b7382056.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.428Z",
+    "updated_at": "2026-05-15T14:15:10.631Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1047-DX.json"
+}

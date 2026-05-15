@@ -1,0 +1,44 @@
+{
+  "num": "1938",
+  "name": {
+    "en": "Nendoroid Anna Kyoyama",
+    "ja": "ねんどろいど 恐山 アンナ (ねんどろいど きょうやま あんな)",
+    "ko": "쿄우야마 안나"
+  },
+  "series": {
+    "en": "SHAMAN KING",
+    "ja": "SHAMAN KING",
+    "ko": "샤먼킹",
+    "code": "shaman-king"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 13198,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220901/13198/104015/large/ba9b1b5af5f356ffc16d4da00e1f7cba.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.679Z",
+    "updated_at": "2026-05-15T14:15:10.848Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1938.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1688",
+  "name": {
+    "en": "Nendoroid Gawr Gura",
+    "ja": "ねんどろいど がうる・ぐら (ねんどろいど がうる・ぐら)",
+    "ko": "가우르 구라"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    },
+    {
+      "date": "2022-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 11616,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210803/11616/88294/large/b74479f0d5a973944b35378690fc8474.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.613Z",
+    "updated_at": "2026-05-15T14:15:10.796Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1688.json"
+}

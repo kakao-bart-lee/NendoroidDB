@@ -1,0 +1,48 @@
+{
+  "num": "1112",
+  "name": {
+    "en": "Nendoroid Shoto Todoroki: Hero's Edition",
+    "ja": "ねんどろいど 轟焦凍 ヒーローズ・エディション (ねんどろいど とどろきしょうと ひーろーず・えでぃしょん)",
+    "ko": "토도로키 쇼토 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8187,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190319/8187/59024/large/c271ad6771e18d3b64180ee8f88e2837.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.445Z",
+    "updated_at": "2026-05-15T14:15:10.651Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1112.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "2023",
+  "name": {
+    "en": "Nendoroid Snow Miku: Serene Winter Ver.",
+    "ja": "ねんどろいど 雪ミク 冬麗 Ver. (ねんどろいど ゆきみく ふゆうらら Ver.)",
+    "ko": "유키미쿠 후유우라라 ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-02",
+      "status": "released"
+    },
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 9000,
+  "gsc_product_num": 13748,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221227/13748/109453/large/4193904ac194b3cacca5e925ea04c8bd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.703Z",
+    "updated_at": "2026-05-15T14:15:10.866Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2023.json"
+}

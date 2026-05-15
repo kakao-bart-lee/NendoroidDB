@@ -1,0 +1,44 @@
+{
+  "num": "1048",
+  "name": {
+    "en": "Nendoroid Genie",
+    "ja": "ねんどろいど ジーニー (ねんどろいど じーにー)",
+    "ko": "지니"
+  },
+  "series": {
+    "en": "Aladdin",
+    "ja": "アラジン",
+    "ko": "알라딘",
+    "code": "aladdin"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7334,
+  "gsc_product_num": 7884,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181207/7884/56617/large/ae6ca68d1df9f757a052f2a7465097ec.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.428Z",
+    "updated_at": "2026-05-15T14:15:10.632Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1048.json"
+}

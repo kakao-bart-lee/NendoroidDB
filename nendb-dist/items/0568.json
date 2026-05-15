@@ -1,0 +1,44 @@
+{
+  "num": "0568",
+  "name": {
+    "en": "Nendoroid Hajime Ichinose (ねんどろいど いちのせはじめ)",
+    "ja": "ねんどろいど 一ノ瀬はじめ (ねんどろいど いちのせはじめ)",
+    "ko": "이치노세 하지메"
+  },
+  "series": {
+    "en": "Gatchaman Crowds",
+    "ja": "ガッチャマンクラウズ",
+    "ko": "갓챠맨",
+    "code": "gatchaman-crowds"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4620,
+  "gsc_product_num": 5264,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151005/5264/35794/large/a57a97da7d2f7b8d7adb4b82a3cb71dd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.277Z",
+    "updated_at": "2026-05-15T14:15:10.505Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/568.json"
+}

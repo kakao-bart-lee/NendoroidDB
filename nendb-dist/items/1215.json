@@ -1,0 +1,48 @@
+{
+  "num": "1215",
+  "name": {
+    "en": "Nendoroid Qiluo Zhou",
+    "ja": "ねんどろいど キラ (ねんどろいど きら)",
+    "ko": "주기락"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8838,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190925/8838/64002/large/f76db047d96ebc83e17a768f3432df49.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.474Z",
+    "updated_at": "2026-05-15T14:15:10.677Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1215.json"
+}

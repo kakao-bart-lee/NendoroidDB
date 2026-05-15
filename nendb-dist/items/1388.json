@@ -1,0 +1,44 @@
+{
+  "num": "1388",
+  "name": {
+    "en": "Nendoroid Goofy",
+    "ja": "ねんどろいど グーフィー (ねんどろいど ぐーふぃー)",
+    "ko": "구피"
+  },
+  "series": {
+    "en": "Goofy",
+    "ja": "グーフィー",
+    "ko": "구피",
+    "code": "goofy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8400,
+  "gsc_product_num": 13083,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220806/13083/102593/large/e534c335bed6cf5d072916f09d54c8e4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.526Z",
+    "updated_at": "2026-05-15T14:15:10.729Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1388.json"
+}

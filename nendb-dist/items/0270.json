@@ -1,0 +1,44 @@
+{
+  "num": "0270",
+  "name": {
+    "en": "Nendoroid Hakase (ねんどろいど はかせ)",
+    "ja": "ねんどろいど はかせ (ねんどろいど はかせ)",
+    "ko": "박사"
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": "日常",
+    "ko": "일상",
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120816/3639/19893/large/b1e28ec54eabc6a86d9e19d5026c9e95.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.161Z",
+    "updated_at": "2026-05-15T14:15:10.433Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/270.json"
+}

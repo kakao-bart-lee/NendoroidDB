@@ -1,0 +1,52 @@
+{
+  "num": "0390",
+  "name": {
+    "en": "Nendoroid Levi",
+    "ja": "ねんどろいど リヴァイ (ねんどろいど りゔぁい)",
+    "ko": "리바이 아커만"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-06",
+      "status": "released"
+    },
+    {
+      "date": "2018-01",
+      "status": "released"
+    },
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 4167,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131219/4167/45723/large/54febddd076f0bd0b25ac48e97aed726.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.210Z",
+    "updated_at": "2026-05-15T14:15:10.461Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/390.json"
+}

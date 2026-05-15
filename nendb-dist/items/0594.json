@@ -1,0 +1,48 @@
+{
+  "num": "0594",
+  "name": {
+    "en": "Nendoroid Yagen Toshiro",
+    "ja": "ねんどろいど 薬研藤四郎 (ねんどろいど やげんとうしろう)",
+    "ko": "야겐 토시로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-06",
+      "status": "released"
+    },
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5379,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151130/5379/36682/large/a84fac4e69a3d710a01869da211dc181.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.287Z",
+    "updated_at": "2026-05-15T14:15:10.512Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/594.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0826",
+  "name": {
+    "en": "Nendoroid Yunyun",
+    "ja": "ねんどろいど ゆんゆん",
+    "ko": "융융"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 6720,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170913/6720/47618/large/545426339f9ef89fe73bfc7f29450472.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.365Z",
+    "updated_at": "2026-05-15T14:15:10.575Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/826.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1840",
+  "name": {
+    "en": "Nendoroid Ryunosuke Tsunashi",
+    "ja": "ねんどろいど 十 龍之介 (ねんどろいど つなし りゅうのすけ)",
+    "ko": "츠나시 류노스케"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 12424,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220303/12424/96131/large/0a66378ad5a5e7d0fb386350690c190d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.652Z",
+    "updated_at": "2026-05-15T14:15:10.827Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1840.json"
+}

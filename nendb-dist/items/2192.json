@@ -1,0 +1,44 @@
+{
+  "num": "2192",
+  "name": {
+    "en": "Nendoroid Fina",
+    "ja": "ねんどろいど フィナ (ねんどろいど ふぃな)",
+    "ko": "피나"
+  },
+  "series": {
+    "en": "Kuma Kuma Kuma Bear Punch!",
+    "ja": "くまクマ熊ベアーぱーんち！",
+    "ko": "곰 곰 곰 베어 펀치!",
+    "code": "kuma-kuma-kuma-bear-punch"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6400,
+  "gsc_product_num": 14501,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230615/14501/116935/large/cd630c1e59d97b5307e52426f1878c44.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.754Z",
+    "updated_at": "2026-05-15T14:15:10.902Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2192.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1343",
+  "name": {
+    "en": "Nendoroid Asuna [Stacia, the Goddess of Creation]",
+    "ja": "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
+    "ko": "아스나 창세신 스테이시아 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online Alicization: War of Underworld",
+    "ja": "ソードアート・オンライン アリシゼーション War of Underworld",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-alicization-war-of-underworld"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 9516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200519/9516/69770/large/30f5cdc56f51924312c2d7bddc226708.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.513Z",
+    "updated_at": "2026-05-15T14:15:10.718Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1343.json"
+}

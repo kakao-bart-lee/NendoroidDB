@@ -1,0 +1,44 @@
+{
+  "num": "2151",
+  "name": {
+    "en": "Nendoroid Rice Shower",
+    "ja": "ねんどろいど ライスシャワー (ねんどろいど らいすしゃわー)",
+    "ko": "라이스샤워"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14370,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230515/14370/115273/large/454e5311ae523862770b6a3f4a5de0f0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.741Z",
+    "updated_at": "2026-05-15T14:15:10.894Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2151.json"
+}

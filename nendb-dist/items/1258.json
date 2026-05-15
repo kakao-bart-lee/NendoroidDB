@@ -1,0 +1,44 @@
+{
+  "num": "1258",
+  "name": {
+    "en": "Nendoroid LILROO",
+    "ja": "ねんどろいど リルル (ねんどろいど りるる)",
+    "ko": "리루루"
+  },
+  "series": {
+    "en": "High School Prodigies Have It Easy Even In Another World",
+    "ja": "超人高校生たちは異世界でも余裕で生き抜くようです！",
+    "ko": "초인 고교생들은 이세계에서도 여유롭게 살아가나 봅니다!",
+    "code": "high-school-prodigies-have-it-easy-even-in-another-world"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9093,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191213/9093/66087/large/b1ac9ed71ead4d61b0d63d5a13e98a18.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.488Z",
+    "updated_at": "2026-05-15T14:15:10.688Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1258.json"
+}

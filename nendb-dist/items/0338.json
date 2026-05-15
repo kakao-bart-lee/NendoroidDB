@@ -1,0 +1,44 @@
+{
+  "num": "0338",
+  "name": {
+    "en": "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ja": "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ko": "미야후지 요시카 신덴 Ver."
+  },
+  "series": {
+    "en": "Strike Witches 2",
+    "ja": "ストライクウィッチーズ2",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 3928,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130527/3928/24131/large/a00971314417b133a71d348e7fb9e2f4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.185Z",
+    "updated_at": "2026-05-15T14:15:10.450Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/338.json"
+}

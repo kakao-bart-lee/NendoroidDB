@@ -1,0 +1,44 @@
+{
+  "num": "0906",
+  "name": {
+    "en": "Nendoroid Riza Hawkeye",
+    "ja": "ねんどろいど リザ・ホークアイ (ねんどろいど りざ・ほーくあい)",
+    "ko": "리자 호크아이"
+  },
+  "series": {
+    "en": "Fullmetal Alchemist: Brotherhood",
+    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko": "강철의 연금술사",
+    "code": "fullmetal-alchemist-brotherhood"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7169,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180330/7169/51119/large/3506c9a4f7e1f6571150c9c60aad43b4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.387Z",
+    "updated_at": "2026-05-15T14:15:10.595Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/906.json"
+}

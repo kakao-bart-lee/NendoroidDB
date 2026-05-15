@@ -1,0 +1,44 @@
+{
+  "num": "2068",
+  "name": {
+    "en": "Nendoroid Boyfriend",
+    "ja": "ねんどろいど ボーイフレンド (ねんどろいど ぼーいふれんど)",
+    "ko": "남자친구"
+  },
+  "series": {
+    "en": "Friday Night Funkin'",
+    "ja": "Friday Night Funkin'",
+    "ko": "프라이데이 나이트 펑킨",
+    "code": "friday-night-funkin"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 13980,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230215/13980/111678/large/c9e67a0ec486ab83c08252c4ab4c0bc6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.715Z",
+    "updated_at": "2026-05-15T14:15:10.876Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2068.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0204",
+  "name": {
+    "en": "Nendoroid Menma (ねんどろいど めんま)",
+    "ja": "ねんどろいど めんま (ねんどろいど めんま)",
+    "ko": "멘마"
+  },
+  "series": {
+    "en": "Anohana: The Flower We Saw That Day",
+    "ja": "あの日見た花の名前を僕達はまだ知らない。",
+    "ko": "그날 본 꽃의 이름을 우리는 아직 모른다",
+    "code": "anohana-the-flower-we-saw-that-day"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-02",
+      "status": "released"
+    },
+    {
+      "date": "2014-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3666,
+  "gsc_product_num": 3326,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111026/3326/30337/large/98c0f6c1270f75a007190a05473d133d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.140Z",
+    "updated_at": "2026-05-15T14:15:10.420Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/204.json"
+}

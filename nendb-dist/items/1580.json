@@ -1,0 +1,48 @@
+{
+  "num": "1580",
+  "name": {
+    "en": "Nendoroid Power",
+    "ja": "ねんどろいど パワー (ねんどろいど ぱわー)",
+    "ko": "파워"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10834,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210219/10834/81351/large/154be6db8be0d0eeb34cb23f702506dc.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.583Z",
+    "updated_at": "2026-05-15T14:15:10.772Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1580.json"
+}

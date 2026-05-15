@@ -1,0 +1,44 @@
+{
+  "num": "0037",
+  "name": {
+    "en": "Nendoroid Pastel Ink (ぱすてるいんく ねんどろいど)",
+    "ja": "ねんどろいど ぱすてるインク (ぱすてるいんく ねんどろいど)",
+    "ko": "파스텔 잉크"
+  },
+  "series": {
+    "en": "Moetan",
+    "ja": "もえたん",
+    "ko": "모에땅",
+    "code": "moetan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2008-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 336,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/336/5547/large/a72a754cfb8320b65170734ba23e1c2e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.078Z",
+    "updated_at": "2026-05-15T14:15:10.382Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/037.json"
+}

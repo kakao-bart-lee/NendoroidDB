@@ -1,0 +1,48 @@
+{
+  "num": "0985",
+  "name": {
+    "en": "Nendoroid Jotaro Kujo",
+    "ja": "ねんどろいど 空条承太郎 (ねんどろいど くうじょうじょうたろう)",
+    "ko": "쿠죠 죠타로"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stardust-crusaders"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 7539,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180821/7539/53927/large/372a2a133303f42716652afab59b7c15.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.410Z",
+    "updated_at": "2026-05-15T14:15:10.617Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/985.json"
+}

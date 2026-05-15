@@ -1,0 +1,44 @@
+{
+  "num": "0548",
+  "name": {
+    "en": "Nendoroid Kotori Minami: Training Outfit Ver.",
+    "ja": "ねんどろいど 南ことり 練習着Ver. (ねんどろいど みなみことり れんしゅうぎVer.)",
+    "ko": "미나미 코토리 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 5157,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150803/5157/34919/large/4ee46bc076d4a31716b01cecfe9d6ba7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.272Z",
+    "updated_at": "2026-05-15T14:15:10.500Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/548.json"
+}

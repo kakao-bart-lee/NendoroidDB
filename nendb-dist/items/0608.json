@@ -1,0 +1,48 @@
+{
+  "num": "0608",
+  "name": {
+    "en": "Nendoroid Hotarumaru",
+    "ja": "ねんどろいど 蛍丸 (ねんどろいど ほたるまる)",
+    "ko": "호타루마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-08",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 5515,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160225/5515/37830/large/6cf6fc65053399f39b69cff778930a48.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.292Z",
+    "updated_at": "2026-05-15T14:15:10.516Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/608.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1648",
+  "name": {
+    "en": "Nendoroid Sei Takanashi",
+    "ja": "ねんどろいど 小鳥遊 聖 (ねんどろいど たかなし せい)",
+    "ko": "타카나시 세이"
+  },
+  "series": {
+    "en": "The Saint's Magic Power is Omnipotent",
+    "ja": "聖女の魔力は万能です",
+    "ko": "성녀의 마력은 만능입니다",
+    "code": "the-saint-s-magic-power-is-omnipotent"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 11242,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210521/11242/84983/large/c0a92478c99619deae1664610c31056f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.602Z",
+    "updated_at": "2026-05-15T14:15:10.788Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1648.json"
+}

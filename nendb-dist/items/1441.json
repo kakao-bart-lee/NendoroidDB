@@ -1,0 +1,44 @@
+{
+  "num": "1441",
+  "name": {
+    "en": "Nendoroid Elsa: Travel Dress Ver.",
+    "ja": "ねんどろいど エルサ Travel Dress Ver. (ねんどろいど えるさ Travel Dress Ver.)",
+    "ko": "엘사 Blue dress Ver."
+  },
+  "series": {
+    "en": "Frozen 2",
+    "ja": "アナと雪の女王２",
+    "ko": "겨울왕국",
+    "code": "frozen-2"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5300,
+  "gsc_product_num": 9987,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200831/9987/74335/large/30df312b51c1f0490ae4c88e0bc70959.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.541Z",
+    "updated_at": "2026-05-15T14:15:10.742Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1441.json"
+}

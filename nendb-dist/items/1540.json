@@ -1,0 +1,48 @@
+{
+  "num": "1540",
+  "name": {
+    "en": "Nendoroid Aqua: Winter Ver.",
+    "ja": "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
+    "ko": "아쿠아 Winter Ver."
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja": "この素晴らしい世界に祝福を！",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    },
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10691,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210119/10691/79973/large/be6b7e476dd49e8eef133da492915591.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.573Z",
+    "updated_at": "2026-05-15T14:15:10.764Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1540.json"
+}

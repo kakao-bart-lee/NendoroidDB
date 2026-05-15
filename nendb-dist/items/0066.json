@@ -1,0 +1,44 @@
+{
+  "num": "0066",
+  "name": {
+    "en": "Nendoroid Priecia (ぷりーしあ ねんどろいど)",
+    "ja": "ねんどろいど プリーシア (ぷりーしあ ねんどろいど)",
+    "ko": "프리시아"
+  },
+  "series": {
+    "en": "Prisim Ark",
+    "ja": "プリズム・アーク",
+    "ko": "프리즘 아크",
+    "code": "prisim-ark"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2009-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4190,
+  "gsc_product_num": 2373,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/2373/6736/large/fd3680deceaec2717cc706185dab2dd9.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.089Z",
+    "updated_at": "2026-05-15T14:15:10.389Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/066.json"
+}

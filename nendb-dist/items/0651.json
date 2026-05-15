@@ -1,0 +1,44 @@
+{
+  "num": "0651",
+  "name": {
+    "en": "Nendoroid Monoyoshi Sadamune",
+    "ja": "ねんどろいど 物吉貞宗 (ねんどろいど ものよしさだむね)",
+    "ko": "모노요시 사다무네"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5770,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160628/5770/39815/large/6af263ef4fc838b20e670c5875c27013.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.309Z",
+    "updated_at": "2026-05-15T14:15:10.526Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/651.json"
+}

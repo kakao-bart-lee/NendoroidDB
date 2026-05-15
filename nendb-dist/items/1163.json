@@ -1,0 +1,48 @@
+{
+  "num": "1163",
+  "name": {
+    "en": "Nendoroid Tomura Shigaraki: Villain's Edition",
+    "ja": "ねんどろいど 死柄木弔 ヴィランズ・エディション (ねんどろいど しがらきとむら ゔぃらんず・えでぃしょん)",
+    "ko": "시가라키 토무라 빌런즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8475,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190627/8475/61372/large/9e44b6a3496d78593070c92f20812606.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.460Z",
+    "updated_at": "2026-05-15T14:15:10.664Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1163.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1008",
+  "name": {
+    "en": "Nendoroid Tsunade",
+    "ja": "ねんどろいど 綱手 (ねんどろいど つなで)",
+    "ko": "츠나데"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180926/7639/54765/large/b19a60fac2364680857a5fe07bb98b5f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.416Z",
+    "updated_at": "2026-05-15T14:15:10.623Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1008.json"
+}

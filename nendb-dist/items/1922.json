@@ -1,0 +1,44 @@
+{
+  "num": "1922",
+  "name": {
+    "en": "Nendoroid Arataka Reigen",
+    "ja": "ねんどろいど 霊幻新隆 (ねんどろいど れいげんあらたか)",
+    "ko": "레이겐 아라타카"
+  },
+  "series": {
+    "en": "Mob Psycho 100 III",
+    "ja": "モブサイコ100Ⅲ",
+    "ko": "모브 사이코 100 III",
+    "code": "mob-psycho-100-iii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 12987,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220715/12987/101615/large/199990bd354df395b08bf8db58ca1c9e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.674Z",
+    "updated_at": "2026-05-15T14:15:10.845Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1922.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1604",
+  "name": {
+    "en": "Nendoroid Idia Shroud",
+    "ja": "ねんどろいど イデア・シュラウド (ねんどろいど いであ・しゅらうど)",
+    "ko": "이데아 슈라우드"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 11009,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210331/11009/82958/large/d0b0d91f4c8b1742078e6c93eb7bd9ac.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.590Z",
+    "updated_at": "2026-05-15T14:15:10.777Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1604.json"
+}

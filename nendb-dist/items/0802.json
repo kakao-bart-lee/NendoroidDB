@@ -1,0 +1,48 @@
+{
+  "num": "0802",
+  "name": {
+    "en": "Nendoroid Mitsuha Miyamizu",
+    "ja": "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
+    "ko": "미야미즈 미츠하"
+  },
+  "series": {
+    "en": "Your Name.",
+    "ja": "君の名は。",
+    "ko": "너의 이름은.",
+    "code": "your-name"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2019-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3565,
+  "gsc_product_num": 6596,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170721/6596/46636/large/32f4d18db1019603d2d4c5f734477f66.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.357Z",
+    "updated_at": "2026-05-15T14:15:10.569Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/802.json"
+}

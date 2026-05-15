@@ -1,0 +1,52 @@
+{
+  "num": "1145",
+  "name": {
+    "en": "Nendoroid Amiya",
+    "ja": "ねんどろいど アーミヤ (ねんどろいど あーみや)",
+    "ko": "아미야"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 8407,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190607/8407/60824/large/640051eccdb10e8a27f8efaa6d00d469.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.454Z",
+    "updated_at": "2026-05-15T14:15:10.659Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1145.json"
+}

@@ -1,0 +1,52 @@
+{
+  "num": "0686",
+  "name": {
+    "en": "Nendoroid Izuku Midoriya: Hero's Edition",
+    "ja": "ねんどろいど 緑谷出久 ヒーローズ・エディション (ねんどろいど みどりやいずく ひーろーず・えでぃしょん)",
+    "ko": "미도리야 이즈쿠 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-04",
+      "status": "released"
+    },
+    {
+      "date": "2019-01",
+      "status": "released"
+    },
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 5994,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161004/5994/41665/large/17c8261ad7e7cb09c6198504e0ad59bb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.322Z",
+    "updated_at": "2026-05-15T14:15:10.535Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/686.json"
+}

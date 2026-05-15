@@ -1,0 +1,44 @@
+{
+  "num": "1058",
+  "name": {
+    "en": "Nendoroid Pyro Jack",
+    "ja": "ねんどろいど ジャックランタン (ねんどろいど じゃっくらんたん)",
+    "ko": "잭 오 랜턴"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 7918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181218/7918/56877/large/9b0ac679e3ee781d1ec781fc6f4dcde1.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.432Z",
+    "updated_at": "2026-05-15T14:15:10.634Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1058.json"
+}

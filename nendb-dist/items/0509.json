@@ -1,0 +1,44 @@
+{
+  "num": "0509",
+  "name": {
+    "en": "Nendoroid Yuki Yuna: Hero Edition (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)",
+    "ja": "ねんどろいど 結城友奈 勇者エディション (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)",
+    "ko": "유우키 유우나 용사 에디션"
+  },
+  "series": {
+    "en": "Yuki Yuna is a Hero",
+    "ja": "結城友奈は勇者である",
+    "ko": "유우키 유우나는 용사다",
+    "code": "yuki-yuna-is-a-hero"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4881,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150310/4881/32588/large/4dc6acf3a504b2b390d72131b46bc013.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.260Z",
+    "updated_at": "2026-05-15T14:15:10.489Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/509.json"
+}

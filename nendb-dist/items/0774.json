@@ -1,0 +1,44 @@
+{
+  "num": "0774",
+  "name": {
+    "en": "Nendoroid Sagiri Izumi",
+    "ja": "ねんどろいど 和泉紗霧 (ねんどろいど いずみさぎり)",
+    "ko": "이즈미 사기리"
+  },
+  "series": {
+    "en": "Eromanga Sensei",
+    "ja": "エロマンガ先生",
+    "ko": "에로망가 선생",
+    "code": "eromanga-sensei"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 6467,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170526/6467/45608/large/fccf9cf42a26f7e3d062959a6bceb2df.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.350Z",
+    "updated_at": "2026-05-15T14:15:10.561Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/774.json"
+}

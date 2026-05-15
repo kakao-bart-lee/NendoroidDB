@@ -1,0 +1,44 @@
+{
+  "num": "1353",
+  "name": {
+    "en": "Nendoroid Ristarte",
+    "ja": "ねんどろいど リスタルテ (ねんどろいど りすたるて)",
+    "ko": "리스타르테"
+  },
+  "series": {
+    "en": "Cautious Hero: The Hero Is Overpowered But Overly Cautious",
+    "ja": "慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～",
+    "ko": "이 용사가 ZZANG센 주제에 너무 신중하다",
+    "code": "cautious-hero-the-hero-is-overpowered-but-overly-cautious"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9566,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200521/9566/70127/large/bda0f413e5b0bd128d3ced1b5c64c3af.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.516Z",
+    "updated_at": "2026-05-15T14:15:10.721Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1353.json"
+}

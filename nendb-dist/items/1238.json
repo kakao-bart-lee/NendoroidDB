@@ -1,0 +1,44 @@
+{
+  "num": "1238",
+  "name": {
+    "en": "Nendoroid Chocola",
+    "ja": "ねんどろいど ショコラ (ねんどろいど しょこら)",
+    "ko": "쇼콜라"
+  },
+  "series": {
+    "en": "NEKOPARA",
+    "ja": "ネコぱら",
+    "ko": "네코파라",
+    "code": "nekopara"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 9010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191122/9010/65446/large/301b873222548ccf5e8a8878803fa050.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.482Z",
+    "updated_at": "2026-05-15T14:15:10.683Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1238.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0961",
+  "name": {
+    "en": "Nendoroid Harley Quinn: Sengoku Edition",
+    "ja": "ねんどろいど ハーレイ・クイン センゴク・エディション (ねんどろいど はーれい・くいん せんごく・えでぃしょん )",
+    "ko": "할리퀸 센코쿠 에디션"
+  },
+  "series": {
+    "en": "Batman Ninja",
+    "ja": "ニンジャバットマン",
+    "ko": "닌자 배트맨",
+    "code": "batman-ninja"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4991,
+  "gsc_product_num": 7410,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180704/7410/53070/large/28a6f421197ce6a5d21be3658c92fd4b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.403Z",
+    "updated_at": "2026-05-15T14:15:10.611Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/961.json"
+}

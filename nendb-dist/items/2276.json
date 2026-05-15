@@ -1,0 +1,44 @@
+{
+  "num": "2276",
+  "name": {
+    "en": "Nendoroid Dan Heng",
+    "ja": "ねんどろいど 丹恒 (ねんどろいど たんこう)",
+    "ko": "단항"
+  },
+  "series": {
+    "en": "Honkai: Star Rail",
+    "ja": "崩壊：スターレイル",
+    "ko": "붕괴: 스타레일",
+    "code": "honkai-star-rail"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2024-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 14994,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230921/14994/121344/large/63cd6b77b3d585cab40d9df41a908bad.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.769Z",
+    "updated_at": "2026-05-15T14:15:10.918Z"
+  },
+  "_source_path": "Nendoroid/2200-2299/2276.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1673",
+  "name": {
+    "en": "Nendoroid Chip 'n Dale",
+    "ja": "ねんどろいど チップ＆デール (ねんどろいど ちっぷあんどでーる)",
+    "ko": "칩과 데일"
+  },
+  "series": {
+    "en": "Chip 'n Dale",
+    "ja": "チップ＆デール",
+    "ko": "미키와 친구들",
+    "code": "chip-n-dale"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8800,
+  "gsc_product_num": 11492,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210715/11492/87249/large/7240662aedf65ef4da14774e74b661f2.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.609Z",
+    "updated_at": "2026-05-15T14:15:10.793Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1673.json"
+}

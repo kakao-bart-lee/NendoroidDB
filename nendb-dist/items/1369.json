@@ -1,0 +1,44 @@
+{
+  "num": "1369",
+  "name": {
+    "en": "Nendoroid Beef Boss",
+    "ja": "ねんどろいど ビーフボス (ねんどろいど びーふぼす)",
+    "ko": "비프 보스"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 9706,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200626/9706/71437/large/fde7034e5a875fc454ab75063dfa3f46.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.521Z",
+    "updated_at": "2026-05-15T14:15:10.724Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1369.json"
+}

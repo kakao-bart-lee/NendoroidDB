@@ -1,0 +1,48 @@
+{
+  "num": "1191",
+  "name": {
+    "en": "Nendoroid Ryunosuke Akutagawa",
+    "ja": "ねんどろいど 芥川龍之介 (ねんどろいど あくたがわりゅうのすけ)",
+    "ko": "아쿠타가와 류노스케"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-03",
+      "status": "released"
+    },
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 8678,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190809/8678/62794/large/966a608f887c1a262ccd3056faaa1f16.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.467Z",
+    "updated_at": "2026-05-15T14:15:10.669Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1191.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1031",
+  "name": {
+    "en": "Nendoroid Caster/Nitocris",
+    "ja": "ねんどろいど キャスター/ニトクリス (ねんどろいど きゃすたー/にとくりす)",
+    "ko": "캐스터/니토크리스"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5907,
+  "gsc_product_num": 7799,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181113/7799/55906/large/a980bf8d0c53a2607d0c7676b9a121f7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.423Z",
+    "updated_at": "2026-05-15T14:15:10.628Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1031.json"
+}

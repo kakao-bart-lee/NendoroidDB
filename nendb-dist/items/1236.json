@@ -1,0 +1,44 @@
+{
+  "num": "1236",
+  "name": {
+    "en": "Nendoroid Origami Tobiichi: Spirit Ver.",
+    "ja": "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
+    "ko": "토비이치 오리가미 정령 Ver."
+  },
+  "series": {
+    "en": "Date A Live IV",
+    "ja": "デート・ア・ライブⅣ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live-iv"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7800,
+  "gsc_product_num": 12569,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220412/12569/97611/large/efaec205291a5c9fee56d66e8a5c4650.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.481Z",
+    "updated_at": "2026-05-15T14:15:10.682Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1236.json"
+}

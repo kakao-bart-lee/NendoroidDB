@@ -1,0 +1,52 @@
+{
+  "num": "0410",
+  "name": {
+    "en": "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)",
+    "ja": "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
+    "ko": "길가메쉬"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-08",
+      "status": "released"
+    },
+    {
+      "date": "2017-01",
+      "status": "released"
+    },
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4888,
+  "gsc_product_num": 4357,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140407/4357/57181/large/a4733262cd9ae643c7b4ddc8624cb897.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.218Z",
+    "updated_at": "2026-05-15T14:15:10.466Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/410.json"
+}

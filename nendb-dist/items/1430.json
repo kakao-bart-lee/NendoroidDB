@@ -1,0 +1,48 @@
+{
+  "num": "1430",
+  "name": {
+    "en": "Nendoroid Dabi",
+    "ja": "ねんどろいど 荼毘 (ねんどろいど だび)",
+    "ko": "다비"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-03",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 9893,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200803/9893/72878/large/c998528e5d67ff5c0893eeba2987f119.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.538Z",
+    "updated_at": "2026-05-15T14:15:10.739Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1430.json"
+}

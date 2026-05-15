@@ -1,0 +1,44 @@
+{
+  "num": "2001",
+  "name": {
+    "en": "Nendoroid Mikasa Ackerman: The Final Season Ver.",
+    "ja": "ねんどろいど ミカサ・アッカーマン The Final Season Ver. (ねんどろいど みかさ・あっかーまん ざ ふぁいなる しーずん Ver.)",
+    "ko": "미카사 아커만 파이널 시즌 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 13065,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220802/13065/102520/large/dc4e47ae66384b1ff994ff7d4b9a5d92.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.698Z",
+    "updated_at": "2026-05-15T14:15:10.861Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2001.json"
+}

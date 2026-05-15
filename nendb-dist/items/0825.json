@@ -1,0 +1,44 @@
+{
+  "num": "0825",
+  "name": {
+    "en": "Nendoroid Miho Nishizumi: Panzer Jacket & Peacoat Ver.",
+    "ja": "ねんどろいど 西住みほ パンツァージャケット＆Pコート Ver. (ねんどろいど にしずみみほ ぱんつぁーじゃけっと＆ぴーこーと Ver.)",
+    "ko": "니시즈미 미호 판저 자켓 & P코트 Ver."
+  },
+  "series": {
+    "en": "GIRLS und PANZER das Finale",
+    "ja": "ガールズ＆パンツァー 最終章",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer-das-finale"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 6715,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170912/6715/47500/large/0659aa503176e3ac898a5f6e2f3786b2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.364Z",
+    "updated_at": "2026-05-15T14:15:10.575Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/825.json"
+}

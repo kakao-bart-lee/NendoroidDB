@@ -1,0 +1,44 @@
+{
+  "num": "1212",
+  "name": {
+    "en": "Nendoroid Zelda: Breath of the Wild Ver.",
+    "ja": "ねんどろいど ゼルダ ブレス オブ ザ ワイルドVer. (ねんどろいど ぜるだ ぶれす おぶ ざ わいるどVer.)",
+    "ko": "젤다"
+  },
+  "series": {
+    "en": "The Legend of Zelda: Breath of the Wild",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-breath-of-the-wild"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5800,
+  "gsc_product_num": 8819,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190919/8819/63926/large/b4c972e99abeb6a1a976d9e259578eeb.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.473Z",
+    "updated_at": "2026-05-15T14:15:10.674Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1212.json"
+}

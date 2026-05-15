@@ -1,0 +1,48 @@
+{
+  "num": "0377",
+  "name": {
+    "en": "Nendoroid Hunter: Female - Kirin Edition (ねんどろいど はんたー♀ きりん・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♀ キリン・エディション (ねんどろいど はんたー♀ きりん・えでぃしょん)",
+    "ko": "헌터♀ 키린 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter 4",
+    "ja": "モンスターハンター4",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-4"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-03",
+      "status": "released"
+    },
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6200,
+  "gsc_product_num": 4112,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131112/4112/61598/large/02cfae92bc8ea3c89694193cb2e4785d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.205Z",
+    "updated_at": "2026-05-15T14:15:10.458Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/377.json"
+}

@@ -1,0 +1,60 @@
+{
+  "num": "0327",
+  "name": {
+    "en": "Nendoroid Shizue (Isabelle)",
+    "ja": "ねんどろいど しずえ (ねんどろいど しずえ)",
+    "ko": "여울"
+  },
+  "series": {
+    "en": "Animal Crossing: New Leaf",
+    "ja": "とびだせ　どうぶつの森",
+    "ko": "동물의 숲 시리즈",
+    "code": "animal-crossing-new-leaf"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-10",
+      "status": "released"
+    },
+    {
+      "date": "2016-05",
+      "status": "released"
+    },
+    {
+      "date": "2019-04",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 3906,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20130513/3906/36906/large/63db3de990e6f9fda3d9e8ddbd63db62.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.181Z",
+    "updated_at": "2026-05-15T14:15:10.447Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/327.json"
+}

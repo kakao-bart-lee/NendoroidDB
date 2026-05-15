@@ -1,0 +1,44 @@
+{
+  "num": "1542",
+  "name": {
+    "en": "Nendoroid Qi Bai: Grand Occultist Ver.",
+    "ja": "ねんどろいど ハク 大御隠師Ver. (ねんどろいど はく だいごいんしVer.)",
+    "ko": "허묵 대어은사 Ver."
+  },
+  "series": {
+    "en": "Love&Producer",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "love-producer"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 10633,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201222/10633/79366/large/8772979ce750d28534fdc6d486e33234.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.574Z",
+    "updated_at": "2026-05-15T14:15:10.764Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1542.json"
+}

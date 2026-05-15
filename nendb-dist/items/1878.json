@@ -1,0 +1,44 @@
+{
+  "num": "1878",
+  "name": {
+    "en": "Nendoroid Elaina",
+    "ja": "ねんどろいど イレイナ (ねんどろいど いれいな)",
+    "ko": "일레이나"
+  },
+  "series": {
+    "en": "Wandering Witch: The Journey of Elaina",
+    "ja": "魔女の旅々",
+    "ko": "마녀의 여행",
+    "code": "wandering-witch-the-journey-of-elaina"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7900,
+  "gsc_product_num": 12678,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220510/12678/98676/large/42a8a736ff38ccee51cb49efb7601d23.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.661Z",
+    "updated_at": "2026-05-15T14:15:10.835Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1878.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1295",
+  "name": {
+    "en": "Nendoroid Filo",
+    "ja": "ねんどろいど フィーロ (ねんどろいど ふぃーろ)",
+    "ko": "필로"
+  },
+  "series": {
+    "en": "The Rising of the Shield Hero",
+    "ja": "盾の勇者の成り上がり",
+    "ko": "방패 용사 성공담",
+    "code": "the-rising-of-the-shield-hero"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 9348,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200313/9348/68265/large/9b73ef394480a5d99220d1527b06a975.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.500Z",
+    "updated_at": "2026-05-15T14:15:10.703Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1295.json"
+}

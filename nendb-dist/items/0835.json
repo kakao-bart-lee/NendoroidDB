@@ -1,0 +1,48 @@
+{
+  "num": "0835",
+  "name": {
+    "en": "Nendoroid Sucy Manbavaran",
+    "ja": "ねんどろいど スーシィ・マンババラン (ねんどろいど すーしぃ・まんばばらん)",
+    "ko": "수시 만바바란"
+  },
+  "series": {
+    "en": "Little Witch Academia",
+    "ja": "リトルウィッチアカデミア",
+    "ko": "리틀 위치 아카데미아",
+    "code": "little-witch-academia"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-04",
+      "status": "released"
+    },
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 6787,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171011/6787/48089/large/4e5c0840f595585c81207c142cc19e3c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.367Z",
+    "updated_at": "2026-05-15T14:15:10.578Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/835.json"
+}

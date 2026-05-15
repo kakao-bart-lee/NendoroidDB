@@ -1,0 +1,44 @@
+{
+  "num": "2084",
+  "name": {
+    "en": "Nendoroid Ladybug",
+    "ja": "ねんどろいど レディバグ (ねんどろいど れでぃばぐ)",
+    "ko": "레이디버그"
+  },
+  "series": {
+    "en": "Miraculous: Tales Of Ladybug & Cat Noir",
+    "ja": "ミラキュラス レディバグ&シャノワール",
+    "ko": "미라큘러스: 레이디버그와 블랙캣",
+    "code": "miraculous-tales-of-ladybug-cat-noir"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7300,
+  "gsc_product_num": 14058,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230228/14058/112441/large/6760c98ffecb5e2c3993f3f643c0872c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.720Z",
+    "updated_at": "2026-05-15T14:15:10.878Z"
+  },
+  "_source_path": "Nendoroid/2000-2099/2084.json"
+}

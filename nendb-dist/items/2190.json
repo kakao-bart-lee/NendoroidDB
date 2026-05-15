@@ -1,0 +1,44 @@
+{
+  "num": "2190",
+  "name": {
+    "en": "Nendoroid Lancer/Mélusine",
+    "ja": "ねんどろいど ランサー/メリュジーヌ (ねんどろいど らんさー/めりゅじーぬ)",
+    "ko": "랜서/ 멜뤼진"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트/그랜드 오더",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7200,
+  "gsc_product_num": 14512,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230619/14512/116693/large/531adb53f43eddd2e28b05d000a06bc1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.753Z",
+    "updated_at": "2026-05-15T14:15:10.902Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2190.json"
+}

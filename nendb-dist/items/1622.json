@@ -1,0 +1,44 @@
+{
+  "num": "1622",
+  "name": {
+    "en": "Nendoroid Lucifer",
+    "ja": "ねんどろいど ルシファー (ねんどろいど るしふぁー)",
+    "ko": "루시퍼"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 11133,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11133/84000/large/ada72e412e74c4e4d0ded1c3ee89acc1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.595Z",
+    "updated_at": "2026-05-15T14:15:10.781Z"
+  },
+  "_source_path": "Nendoroid/1600-1699/1622.json"
+}

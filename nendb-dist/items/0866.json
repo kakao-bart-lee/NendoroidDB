@@ -1,0 +1,48 @@
+{
+  "num": "0866",
+  "name": {
+    "en": "Nendoroid Loki: Thor Battle Royal Edition",
+    "ja": "ねんどろいど ロキ ソー：バトルロイヤル・エディション (ねんどろいど ろき そー：ばとるろいやる・えでぃしょん)",
+    "ko": "로키 라그나로크 에디션"
+  },
+  "series": {
+    "en": "Mighty Thor: Battle Royal",
+    "ja": "マイティ・ソー バトルロイヤル",
+    "ko": "토르 라그나로크",
+    "code": "mighty-thor-battle-royal"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-08",
+      "status": "released"
+    },
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 6956,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171218/6956/49377/large/d7ca07b549523b8aa8731cae57484ed6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.377Z",
+    "updated_at": "2026-05-15T14:15:10.585Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/866.json"
+}

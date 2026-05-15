@@ -1,0 +1,44 @@
+{
+  "num": "0717",
+  "name": {
+    "en": "Nendoroid Sayosamonji",
+    "ja": "ねんどろいど 小夜左文字 (ねんどろいど さよさもんじ)",
+    "ko": "사요 사몬지"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6154,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161221/6154/43058/large/74c283c72d43e31c65823eb5f6873e97.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.332Z",
+    "updated_at": "2026-05-15T14:15:10.547Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/717.json"
+}

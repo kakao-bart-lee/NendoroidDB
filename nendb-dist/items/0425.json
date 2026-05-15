@@ -1,0 +1,48 @@
+{
+  "num": "0425",
+  "name": {
+    "en": "Nendoroid Red (ねんどろいど れっど)",
+    "ja": "ねんどろいど レッド (ねんどろいど れっど)",
+    "ko": "레드"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-09",
+      "status": "released"
+    },
+    {
+      "date": "2017-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4950,
+  "gsc_product_num": 4413,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140508/4413/28903/large/52552b615291d45288499b0b785d3dc7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.223Z",
+    "updated_at": "2026-05-15T14:15:10.470Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/425.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0689",
+  "name": {
+    "en": "Nendoroid Tetsuro Kuroo",
+    "ja": "ねんどろいど 黒尾鉄朗 (ねんどろいど くろおてつろう)",
+    "ko": "쿠로오 테츠로"
+  },
+  "series": {
+    "en": "HAIKYU! 3rd Season",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu-3rd-season"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-04",
+      "status": "released"
+    },
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4481,
+  "gsc_product_num": 6043,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20161102/6043/42117/large/0469cb3906a372611fdeb72153dbafff.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.323Z",
+    "updated_at": "2026-05-15T14:15:10.537Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/689.json"
+}

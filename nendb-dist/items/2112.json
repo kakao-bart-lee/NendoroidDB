@@ -1,0 +1,44 @@
+{
+  "num": "2112",
+  "name": {
+    "en": "Nendoroid Akaza",
+    "ja": "ねんどろいど 猗窩座 (ねんどろいど あかざ)",
+    "ko": "아카자"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7000,
+  "gsc_product_num": 14296,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230420/14296/114582/large/f84a2b1c0155f54ba0e0ff813dccaaa0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.728Z",
+    "updated_at": "2026-05-15T14:15:10.885Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2112.json"
+}

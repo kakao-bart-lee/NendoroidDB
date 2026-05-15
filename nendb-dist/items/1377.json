@@ -1,0 +1,44 @@
+{
+  "num": "1377",
+  "name": {
+    "en": "Nendoroid FoTiaoQiang",
+    "ja": "ねんどろいど 佛跳牆 (ねんどろいど ぶっちょうしょう)",
+    "ko": "불도장"
+  },
+  "series": {
+    "en": "The Tale of Food",
+    "ja": "食物語",
+    "ko": "식물어",
+    "code": "the-tale-of-food"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 10929,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210316/10929/82247/large/e054d301907de3e241c9e02e07a03a1d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.523Z",
+    "updated_at": "2026-05-15T14:15:10.727Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1377.json"
+}

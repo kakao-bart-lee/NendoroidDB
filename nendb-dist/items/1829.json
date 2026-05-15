@@ -1,0 +1,44 @@
+{
+  "num": "1829",
+  "name": {
+    "en": "Nendoroid Ezio Auditore",
+    "ja": "ねんどろいど エツィオ・アウディトーレ (ねんどろいど えつぃお・あうでぃとーれ)",
+    "ko": "에지오 아디토레"
+  },
+  "series": {
+    "en": "Assassin's Creed®",
+    "ja": "Assassin's Creed®",
+    "ko": "어쌔신 크리드",
+    "code": "assassin-s-creed"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6900,
+  "gsc_product_num": 12385,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220221/12385/95762/large/bbda0f6c753cb6334891e0343f3b09a0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.649Z",
+    "updated_at": "2026-05-15T14:15:10.825Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1829.json"
+}

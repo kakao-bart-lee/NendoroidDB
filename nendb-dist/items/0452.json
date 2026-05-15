@@ -1,0 +1,48 @@
+{
+  "num": "0452",
+  "name": {
+    "en": "Nendoroid Sinon",
+    "ja": "ねんどろいど シノン (ねんどろいど しのん)",
+    "ko": "시논"
+  },
+  "series": {
+    "en": "Sword Art Online II",
+    "ja": "ソードアート・オンラインⅡ",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-ii"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-12",
+      "status": "released"
+    },
+    {
+      "date": "2017-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4573,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140902/4573/41745/large/33cc073b08f453cc1ba6ee44e14d54ef.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.240Z",
+    "updated_at": "2026-05-15T14:15:10.476Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/452.json"
+}

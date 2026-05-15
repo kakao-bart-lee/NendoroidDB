@@ -1,0 +1,52 @@
+{
+  "num": "0558",
+  "name": {
+    "en": "Nendoroid Chino",
+    "ja": "ねんどろいど チノ (ねんどろいど ちの)",
+    "ko": "카후우 치노"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit?",
+    "ja": "ご注文はうさぎですか？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-12",
+      "status": "released"
+    },
+    {
+      "date": "2017-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 5211,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150901/5211/35340/large/5f86bc5b9a605ff80454e72645816d43.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.275Z",
+    "updated_at": "2026-05-15T14:15:10.503Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/558.json"
+}

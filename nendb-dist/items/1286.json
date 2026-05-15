@@ -1,0 +1,44 @@
+{
+  "num": "1286",
+  "name": {
+    "en": "Nendoroid Master/Male Protagonist",
+    "ja": "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
+    "ko": "후지마루 리츠카"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 9244,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200131/9244/67431/large/187be6864bb34f7824a2f8e55c9fc05c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.497Z",
+    "updated_at": "2026-05-15T14:15:10.699Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1286.json"
+}

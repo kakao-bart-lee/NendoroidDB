@@ -1,0 +1,44 @@
+{
+  "num": "1349",
+  "name": {
+    "en": "Nendoroid LBCS: Achilles Karina Mikazuki",
+    "ja": "ねんどろいど LBCS:アキレス ミカヅキ カリナ (ねんどろいど えるびーしーえす:あきれす みかづき かりな)",
+    "ko": "LBCS-001 아킬레스 미카즈키 카리나"
+  },
+  "series": {
+    "en": "Soukou Musume: Mizeremu Crisis",
+    "ja": "装甲娘 ミゼレムクライシス",
+    "ko": "장갑무스메",
+    "code": "soukou-musume-mizeremu-crisis"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6500,
+  "gsc_product_num": 9534,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200520/9534/69835/large/b76ca9f75550d989a48d273a202c837f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.515Z",
+    "updated_at": "2026-05-15T14:15:10.720Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1349.json"
+}

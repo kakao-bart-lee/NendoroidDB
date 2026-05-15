@@ -1,0 +1,44 @@
+{
+  "num": "1165",
+  "name": {
+    "en": "Nendoroid Assassin/Okada Izo",
+    "ja": "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
+    "ko": "어쌔신/오카다 이조"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 8526,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190708/8526/61759/large/6b47d6b8b629d77b78100a80d1a23a12.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.460Z",
+    "updated_at": "2026-05-15T14:15:10.665Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1165.json"
+}

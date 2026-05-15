@@ -1,0 +1,44 @@
+{
+  "num": "0040",
+  "name": {
+    "en": "Nendoroid Kagamine Len (かがみねれん ねんどろいど)",
+    "ja": "ねんどろいど 鏡音レン (かがみねれん ねんどろいど)",
+    "ko": "카가미네 렌"
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Rin/Len Kagamine",
+    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-rin-len-kagamine"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2013-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3143,
+  "gsc_product_num": 263,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/263/603/large/a01211f48fee515ed1cac25d85ed36fc.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.079Z",
+    "updated_at": "2026-05-15T14:15:10.383Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/040.json"
+}

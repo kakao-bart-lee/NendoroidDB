@@ -1,0 +1,44 @@
+{
+  "num": "1451",
+  "name": {
+    "en": "Nendoroid Rin Shima: Touring Ver.",
+    "ja": "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
+    "ko": "시마 린 투어링 Ver."
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8000,
+  "gsc_product_num": 10011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200901/10011/73842/large/94cf91030c2d601545eb49d24ecf4291.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.543Z",
+    "updated_at": "2026-05-15T14:15:10.744Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1451.json"
+}

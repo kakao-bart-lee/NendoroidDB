@@ -1,0 +1,44 @@
+{
+  "num": "0727",
+  "name": {
+    "en": "Nendoroid Su Huan-Jen: Unite Against the Darkness Ver.",
+    "ja": "ねんどろいど 素還真 轟掣天下Ver. (ねんどろいど そかんしん ごうせいてんかVer.)",
+    "ko": "소환진 광체천하 Ver."
+  },
+  "series": {
+    "en": "PILI XIA YING: Unite Against the Darkness",
+    "ja": "霹靂俠影之 轟掣天下(へきれききょうえい ごうせいてんか)",
+    "ko": "벽력협영지 굉체천하",
+    "code": "pili-xia-ying-unite-against-the-darkness"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5093,
+  "gsc_product_num": 6185,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170118/6185/43277/large/8bb729157907104b730ac509421d9052.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.335Z",
+    "updated_at": "2026-05-15T14:15:10.550Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/727.json"
+}

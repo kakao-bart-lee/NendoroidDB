@@ -1,0 +1,44 @@
+{
+  "num": "1574",
+  "name": {
+    "en": "Nendoroid Aoi Hinami",
+    "ja": "ねんどろいど 日南葵 (ねんどろいど ひなみあおい)",
+    "ko": "히나미 아오이"
+  },
+  "series": {
+    "en": "Bottom-Tier Character Tomozaki",
+    "ja": "弱キャラ友崎くん",
+    "ko": "약캐 토모자키 군",
+    "code": "bottom-tier-character-tomozaki"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 10835,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210219/10835/81358/large/c4f81bd374214fcf2d596c4615177d65.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.582Z",
+    "updated_at": "2026-05-15T14:15:10.771Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1574.json"
+}

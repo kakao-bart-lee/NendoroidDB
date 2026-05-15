@@ -1,0 +1,44 @@
+{
+  "num": "0219",
+  "name": {
+    "en": "Nendoroid Popura Taneshima (ねんどろいど たねしまぽぷら)",
+    "ja": "ねんどろいど 種島ぽぷら (ねんどろいど たねしまぽぷら)",
+    "ko": "타네시마 포푸라"
+  },
+  "series": {
+    "en": "WORKING!!",
+    "ja": "WORKING!!",
+    "ko": "WORKING!!",
+    "code": "working"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3981,
+  "gsc_product_num": 3422,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111219/3422/16640/large/801d666d7e65b34bd27446a425295f52.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.144Z",
+    "updated_at": "2026-05-15T14:15:10.422Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/219.json"
+}

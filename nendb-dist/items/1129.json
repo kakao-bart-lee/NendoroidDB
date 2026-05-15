@@ -1,0 +1,44 @@
+{
+  "num": "1129",
+  "name": {
+    "en": "Nendoroid Susu Tushan",
+    "ja": "ねんどろいど 塗山スース（トサンスース） (ねんどろいど とさんすーす)",
+    "ko": "토산 스스"
+  },
+  "series": {
+    "en": "Fox Spirit Matchmaker",
+    "ja": "縁結びの妖狐ちゃん",
+    "ko": "결연의 요우코짱",
+    "code": "fox-spirit-matchmaker"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5100,
+  "gsc_product_num": 8322,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190510/8322/60070/large/486e97e7d891b1b84abcc2d73cf8b6a0.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.450Z",
+    "updated_at": "2026-05-15T14:15:10.655Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1129.json"
+}

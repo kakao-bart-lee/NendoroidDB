@@ -1,0 +1,44 @@
+{
+  "num": "2170",
+  "name": {
+    "en": "Nendoroid Homelander",
+    "ja": "ねんどろいど ホームランダー (ねんどろいど ほーむらんだー)",
+    "ko": "홈랜더"
+  },
+  "series": {
+    "en": "THE BOYS™",
+    "ja": "THE BOYS™",
+    "ko": "더 보이즈",
+    "code": "the-boystm"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6800,
+  "gsc_product_num": 14671,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230718/14671/118300/large/4ac2fbd0656fcd156acea69d5c5ebcd4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.747Z",
+    "updated_at": "2026-05-15T14:15:10.898Z"
+  },
+  "_source_path": "Nendoroid/2100-2199/2170.json"
+}

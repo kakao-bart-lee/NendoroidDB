@@ -1,0 +1,44 @@
+{
+  "num": "0655",
+  "name": {
+    "en": "Nendoroid Akizuki",
+    "ja": "ねんどろいど 秋月 (ねんどろいど あきづき)",
+    "ko": "아키즈키"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 5789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160708/5789/39976/large/c6f87ae313bedee56c671cf68dff41fe.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.310Z",
+    "updated_at": "2026-05-15T14:15:10.527Z"
+  },
+  "_source_path": "Nendoroid/0600-0699/655.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "1475",
+  "name": {
+    "en": "Nendoroid NieR:Automata 2B (YoRHa No.2 Type B)",
+    "ja": "ねんどろいど NieR:Automata 2B（ヨルハ二号B型） (ねんどろいど にーあ:おーとまた とぅーびー（よるはにごうびーがた）)",
+    "ko": "YoRHa No.2 Type B(Battler)"
+  },
+  "series": {
+    "en": "NieR:Automata",
+    "ja": "NieR:Automata",
+    "ko": "니어 오토마타",
+    "code": "nier-automata"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    },
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 10131,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200925/10131/74969/large/d766bf90279bcfd7bb1a6714b0fef45c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.551Z",
+    "updated_at": "2026-05-15T14:15:10.748Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1475.json"
+}

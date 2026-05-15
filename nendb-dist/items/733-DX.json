@@ -1,0 +1,52 @@
+{
+  "num": "733-DX",
+  "name": {
+    "en": "Nendoroid Link: Breath of the Wild Ver. DX Edition",
+    "ja": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. DXエディション (ねんどろいど りんく ぶれす おぶ ざ わいるどVer. DXえでぃしょん)",
+    "ko": "링크 브레스 오브 더 와일드 DX Ver."
+  },
+  "series": {
+    "en": "The Legend of Zelda: Breath of the Wild",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-breath-of-the-wild"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-07",
+      "status": "released"
+    },
+    {
+      "date": "2018-09",
+      "status": "released"
+    },
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 6212,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170126/6212/43494/large/8d9500765b4db81d5612ba1dd45d8a78.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.336Z",
+    "updated_at": "2026-05-15T14:15:10.919Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/733-DX.json"
+}

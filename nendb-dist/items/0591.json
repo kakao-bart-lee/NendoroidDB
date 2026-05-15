@@ -1,0 +1,44 @@
+{
+  "num": "0591",
+  "name": {
+    "en": "Nendoroid Hacka Doll No.1",
+    "ja": "ねんどろいど ハッカドール1号 (ねんどろいど はっかどーるいちごう)",
+    "ko": "해커돌 1호"
+  },
+  "series": {
+    "en": "Hacka Doll the Animation",
+    "ja": "ハッカドール THE・あにめ～しょん",
+    "ko": "해커돌",
+    "code": "hacka-doll-the-animation"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2016-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 5355,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20151120/5355/36540/large/75367f7e312bacf9a69751be01644bc1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.285Z",
+    "updated_at": "2026-05-15T14:15:10.511Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/591.json"
+}

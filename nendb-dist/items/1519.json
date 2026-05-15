@@ -1,0 +1,44 @@
+{
+  "num": "1519",
+  "name": {
+    "en": "Nendoroid Lucia: Crimson Abyss",
+    "ja": "ねんどろいど ルシア・深淵ノ紅 (ねんどろいど るしあ・しんえんのくれない)",
+    "ko": "루시아 심연의 진홍 Ver."
+  },
+  "series": {
+    "en": "Punishing: Gray Raven",
+    "ja": "パニシング：グレイレイヴン",
+    "ko": "퍼니싱 그레이 레이븐",
+    "code": "punishing-gray-raven"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 10421,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201124/10421/77673/large/0da3714f40329f005d724f0bdc82b6aa.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.565Z",
+    "updated_at": "2026-05-15T14:15:10.758Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1519.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0181",
+  "name": {
+    "en": "Nendoroid Nymph (ねんどろいど にんふ)",
+    "ja": "ねんどろいど ニンフ (ねんどろいど にんふ)",
+    "ko": "님프"
+  },
+  "series": {
+    "en": "Sora no Otoshimono Forte",
+    "ja": "そらのおとしものf（フォルテ）",
+    "ko": "하늘의 유실물",
+    "code": "sora-no-otoshimono-forte"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2011-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3204,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20110620/3204/14390/large/0f3d501fdcfadcb9ab9d17cc86738ebd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.131Z",
+    "updated_at": "2026-05-15T14:15:10.415Z"
+  },
+  "_source_path": "Nendoroid/0100-0199/181.json"
+}

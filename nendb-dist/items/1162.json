@@ -1,0 +1,44 @@
+{
+  "num": "1162",
+  "name": {
+    "en": "Nendoroid Ryuji Sakamoto: Phantom Thief Ver.",
+    "ja": "ねんどろいど 坂本竜司 怪盗服Ver. (ねんどろいど さかもとりゅうじ かいとうふくVer.)",
+    "ko": "사카모토 류지 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5600,
+  "gsc_product_num": 8514,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190704/8514/61624/large/566a401315cd8da873af658022adf211.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.459Z",
+    "updated_at": "2026-05-15T14:15:10.664Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1162.json"
+}

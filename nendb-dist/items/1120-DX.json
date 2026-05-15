@@ -1,0 +1,44 @@
+{
+  "num": "1120-DX",
+  "name": {
+    "en": "Nendoroid Doctor Strange: Infinity Edition DX Ver.",
+    "ja": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション DX Ver. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko": "닥터 스트레인지 어벤져스 인피니티 워 에디션 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 8047,
+  "gsc_product_num": 8243,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190412/8243/59490/large/256b63155311e1e62fdf4f8c9c799d65.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.447Z",
+    "updated_at": "2026-05-15T14:15:10.653Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1120-DX.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0391",
+  "name": {
+    "en": "Nendoroid Akagi (ねんどろいど あかぎ)",
+    "ja": "ねんどろいど 赤城 (ねんどろいど あかぎ)",
+    "ko": "아카기"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-05",
+      "status": "released"
+    },
+    {
+      "date": "2015-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4161,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20131216/4161/27434/large/a15d42caf21866a33d3ede843b4f3233.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.210Z",
+    "updated_at": "2026-05-15T14:15:10.462Z"
+  },
+  "_source_path": "Nendoroid/0300-0399/391.json"
+}

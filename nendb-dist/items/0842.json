@@ -1,0 +1,48 @@
+{
+  "num": "0842",
+  "name": {
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype)",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
+    "ko": "세이버/아서 펜드래건[프로토타입]"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4600,
+  "gsc_product_num": 6843,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171102/6843/48548/large/39fc1954839f1134cf2f0d9300b378e2.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.369Z",
+    "updated_at": "2026-05-15T14:15:10.579Z"
+  },
+  "_source_path": "Nendoroid/0800-0899/842.json"
+}

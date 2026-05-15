@@ -1,0 +1,44 @@
+{
+  "num": "1876",
+  "name": {
+    "en": "Nendoroid Tatsuya Suou",
+    "ja": "ねんどろいど 周防達哉 (ねんどろいど すおうたつや)",
+    "ko": "스오우 타츠야"
+  },
+  "series": {
+    "en": "PERSONA2 Innocent Sin.",
+    "ja": "ペルソナ2 罪",
+    "ko": "페르소나2",
+    "code": "persona2-innocent-sin"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6100,
+  "gsc_product_num": 12679,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220510/12679/98609/large/67bb76318f6beaf9fd65d69f2d69028e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.660Z",
+    "updated_at": "2026-05-15T14:15:10.834Z"
+  },
+  "_source_path": "Nendoroid/1800-1899/1876.json"
+}

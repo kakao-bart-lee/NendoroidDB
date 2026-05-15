@@ -1,0 +1,52 @@
+{
+  "num": "0511",
+  "name": {
+    "en": "Nendoroid Mikazuki Munechika",
+    "ja": "ねんどろいど 三日月宗近 (ねんどろいど みかづきむねちか)",
+    "ko": "미카즈키 무네치카"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-08",
+      "status": "released"
+    },
+    {
+      "date": "2015-12",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4278,
+  "gsc_product_num": 4903,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150319/4903/32749/large/fcc924074046fc37c434ac9a3a7b0222.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.261Z",
+    "updated_at": "2026-05-15T14:15:10.489Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/511.json"
+}

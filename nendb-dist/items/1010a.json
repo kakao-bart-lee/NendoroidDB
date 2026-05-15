@@ -1,0 +1,44 @@
+{
+  "num": "1010a",
+  "name": {
+    "en": "Nendoroid Mickey Mouse: 1928 Ver. (Black & White)",
+    "ja": "ねんどろいど ミッキーマウス 1928 Ver.（シロクロ） (ねんどろいど みっきーまうす 1928 Ver.（しろくろ）)",
+    "ko": "미키 마우스 1928 Ver.(흑백)"
+  },
+  "series": {
+    "en": "Steamboat Willie",
+    "ja": "蒸気船ウィリー",
+    "ko": "증기선 윌리",
+    "code": "steamboat-willie"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5297,
+  "gsc_product_num": 7653,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180928/7653/54877/large/949dd1b54977f66433b964c469ff963b.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.417Z",
+    "updated_at": "2026-05-15T14:15:10.623Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1010a.json"
+}

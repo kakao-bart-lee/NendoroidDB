@@ -1,0 +1,44 @@
+{
+  "num": "1285",
+  "name": {
+    "en": "Nendoroid DRAGON QUEST® XI: Echoes of an Elusive Age™ The Luminary",
+    "ja": "ねんどろいど ドラゴンクエストXI　過ぎ去りし時を求めて　主人公 (ねんどろいど どらごんくえすとXI すぎさりしときをもとめて しゅじんこう)",
+    "ko": "주인공"
+  },
+  "series": {
+    "en": "DRAGON QUEST® XI: Echoes of an Elusive Age™",
+    "ja": "ドラゴンクエストXI　過ぎ去りし時を求めて",
+    "ko": "드래곤 퀘스트 11",
+    "code": "dragon-quest-xi-echoes-of-an-elusive-agetm"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 6600,
+  "gsc_product_num": 9338,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200310/9338/68197/large/0dd7afe1bb55fd6394676786df00ada0.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.497Z",
+    "updated_at": "2026-05-15T14:15:10.699Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1285.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "0975",
+  "name": {
+    "en": "Nendoroid Kenma Kozume: School Uniform Ver.",
+    "ja": "ねんどろいど 孤爪研磨 制服Ver. (ねんどろいど こづめけんま せいふくVer.)",
+    "ko": "코즈메 켄마 교복 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 7505,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180803/7505/53657/large/a97d86aeab8320b9138d902d4b667077.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.407Z",
+    "updated_at": "2026-05-15T14:15:10.614Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/975.json"
+}

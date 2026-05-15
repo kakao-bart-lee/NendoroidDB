@@ -1,0 +1,52 @@
+{
+  "num": "0445",
+  "name": {
+    "en": "Nendoroid Renge Miyauchi",
+    "ja": "ねんどろいど 宮内れんげ (ねんどろいど みやうちれんげ)",
+    "ko": "이야우치 렌게"
+  },
+  "series": {
+    "en": "Non Non Biyori",
+    "ja": "のんのんびより",
+    "ko": "논논비요리",
+    "code": "non-non-biyori"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2014-11",
+      "status": "released"
+    },
+    {
+      "date": "2016-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4800,
+  "gsc_product_num": 4506,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20140716/4506/81955/large/25301028c3d890dae588c38a675b96c6.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.237Z",
+    "updated_at": "2026-05-15T14:15:10.474Z"
+  },
+  "_source_path": "Nendoroid/0400-0499/445.json"
+}

@@ -1,0 +1,44 @@
+{
+  "num": "1209",
+  "name": {
+    "en": "Nendoroid Vault Boy",
+    "ja": "ねんどろいど ボルトボーイ (ねんどろいど ぼるとぼーい)",
+    "ko": "볼트 보이"
+  },
+  "series": {
+    "en": "Fallout",
+    "ja": "Fallout",
+    "ko": "폴아웃",
+    "code": "fallout"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5200,
+  "gsc_product_num": 8774,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190906/8774/63459/large/95d04b42027110c8579bb492c1805601.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.472Z",
+    "updated_at": "2026-05-15T14:15:10.673Z"
+  },
+  "_source_path": "Nendoroid/1200-1299/1209.json"
+}

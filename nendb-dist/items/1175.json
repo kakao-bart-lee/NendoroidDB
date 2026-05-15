@@ -1,0 +1,48 @@
+{
+  "num": "1175",
+  "name": {
+    "en": "Nendoroid Bruno Bucciarati",
+    "ja": "ねんどろいど ブローノ・ブチャラティ (ねんどろいど ぶろーの・ぶちゃらてぃ)",
+    "ko": "브루노 부차라티"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    },
+    {
+      "date": "2023-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 8582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190723/8582/62099/large/844380dff2d41d6bdd14d93b0d732b84.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.463Z",
+    "updated_at": "2026-05-15T14:15:10.666Z"
+  },
+  "_source_path": "Nendoroid/1100-1199/1175.json"
+}

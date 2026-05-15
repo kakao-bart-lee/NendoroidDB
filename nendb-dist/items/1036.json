@@ -1,0 +1,44 @@
+{
+  "num": "1036",
+  "name": {
+    "en": "Nendoroid Platelet",
+    "ja": "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
+    "ko": "혈소판"
+  },
+  "series": {
+    "en": "Cells at Work!",
+    "ja": "はたらく細胞",
+    "ko": "일하는 세포",
+    "code": "cells-at-work"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 7831,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181122/7831/56222/large/2bd9fea4a5cb05035cc3262b2fc2da5c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.424Z",
+    "updated_at": "2026-05-15T14:15:10.629Z"
+  },
+  "_source_path": "Nendoroid/1000-1099/1036.json"
+}

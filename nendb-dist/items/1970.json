@@ -1,0 +1,44 @@
+{
+  "num": "1970",
+  "name": {
+    "en": "Nendoroid Jill Stingray",
+    "ja": "ねんどろいど ジル・スティングレイ (ねんどろいど じる・すてぃんぐれい)",
+    "ko": "질 스팅레이"
+  },
+  "series": {
+    "en": "VA-11 HALL-A: Cyberpunk Bartender Action",
+    "ja": "VA-11_HALL-A",
+    "ko": "VA-11 HALL-A: 사이버펑크 바텐더 액션",
+    "code": "va-11-hall-a-cyberpunk-bartender-action"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 7300,
+  "gsc_product_num": 13283,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220921/13283/104692/large/acb2e17f1c9d687e4acbafc6b1c8bdb4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.688Z",
+    "updated_at": "2026-05-15T14:15:10.853Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1970.json"
+}

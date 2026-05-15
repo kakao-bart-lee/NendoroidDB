@@ -1,0 +1,48 @@
+{
+  "num": "0500",
+  "name": {
+    "en": "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ja": "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ko": "사쿠라 미쿠 Bloomed in Japan"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-03",
+      "status": "released"
+    },
+    {
+      "date": "2015-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4584,
+  "gsc_product_num": 4757,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20141202/4757/31584/large/33c9a8612f9150d4beb28c7ee16ad181.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.258Z",
+    "updated_at": "2026-05-15T14:15:10.487Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/500.json"
+}

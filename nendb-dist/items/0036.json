@@ -1,0 +1,44 @@
+{
+  "num": "0036",
+  "name": {
+    "en": "Nendoroid Melissa Seraphy (めりっさ せらふぃ ねんどろいど)",
+    "ja": "ねんどろいど メリッサ･セラフィ (めりっさ せらふぃ ねんどろいど)",
+    "ko": "메릿사 세라피 "
+  },
+  "series": {
+    "en": "Wagamama Capriccio",
+    "ja": "WAGA魔々かぷりちお",
+    "ko": "WAGA魔々かぷりちお",
+    "code": "wagamama-capriccio"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2008-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20091023/356/5543/large/cea63ecdd8f228b294deb96074a8208e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.078Z",
+    "updated_at": "2026-05-15T14:15:10.382Z"
+  },
+  "_source_path": "Nendoroid/0000-0099/036.json"
+}

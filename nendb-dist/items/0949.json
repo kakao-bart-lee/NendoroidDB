@@ -1,0 +1,44 @@
+{
+  "num": "0949",
+  "name": {
+    "en": "Nendoroid Junkrat: Classic Skin Edition",
+    "ja": "ねんどろいど ジャンクラット クラシックスキン・エディション (ねんどろいど じゃんくらっと くらしっくすきん・えでぃしょん)",
+    "ko": "정크랫"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2019-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4991,
+  "gsc_product_num": 7326,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180607/7326/52928/large/6f369eafd19ed87cde25cd689f43dd89.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.400Z",
+    "updated_at": "2026-05-15T14:15:10.608Z"
+  },
+  "_source_path": "Nendoroid/0900-0999/949.json"
+}

@@ -1,0 +1,48 @@
+{
+  "num": "0719",
+  "name": {
+    "en": "Nendoroid Kotaro Bokuto",
+    "ja": "ねんどろいど 木兎光太郎 (ねんどろいど ぼくとこうたろう)",
+    "ko": "보쿠토 코타로"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2017-06",
+      "status": "released"
+    },
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 4685,
+  "gsc_product_num": 6162,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20170105/6162/43097/large/4a647926ad72a282b201b70e81c3903e.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.332Z",
+    "updated_at": "2026-05-15T14:15:10.547Z"
+  },
+  "_source_path": "Nendoroid/0700-0799/719.json"
+}

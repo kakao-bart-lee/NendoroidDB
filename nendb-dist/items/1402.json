@@ -1,0 +1,44 @@
+{
+  "num": "1402",
+  "name": {
+    "en": "Nendoroid Connor",
+    "ja": "ねんどろいど コナー (ねんどろいど こなー)",
+    "ko": "코너"
+  },
+  "series": {
+    "en": "Detroit: Become Human",
+    "ja": "Detroit: Become Human",
+    "ko": "디트로이트 비컴 휴먼",
+    "code": "detroit-become-human"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 9689,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200625/9689/71325/large/cab081838afe294f54a7d28e4df7d054.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.529Z",
+    "updated_at": "2026-05-15T14:15:10.732Z"
+  },
+  "_source_path": "Nendoroid/1400-1499/1402.json"
+}

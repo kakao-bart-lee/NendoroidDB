@@ -1,0 +1,48 @@
+{
+  "num": "0501",
+  "name": {
+    "en": "Nendoroid Stormtrooper (ねんどろいど すとーむとるーぱー)",
+    "ja": "ねんどろいど ストームトルーパー (ねんどろいど すとーむとるーぱー)",
+    "ko": "스톰트루퍼"
+  },
+  "series": {
+    "en": "Star Wars Episode 4: A New Hope",
+    "ja": "スターウォーズ エピソード4",
+    "ko": "스타워즈",
+    "code": "star-wars-episode-4-a-new-hope"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2015-10",
+      "status": "released"
+    },
+    {
+      "date": "2017-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3972,
+  "gsc_product_num": 4865,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20150224/4865/32449/large/9e2104c0177bc12df985c3b3b60b18f7.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.259Z",
+    "updated_at": "2026-05-15T14:15:10.487Z"
+  },
+  "_source_path": "Nendoroid/0500-0599/501.json"
+}

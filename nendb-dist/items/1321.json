@@ -1,0 +1,44 @@
+{
+  "num": "1321",
+  "name": {
+    "en": "Nendoroid Sandalphon",
+    "ja": "ねんどろいど サンダルフォン (ねんどろいど さんだるふぉん)",
+    "ko": "샌들폰"
+  },
+  "series": {
+    "en": "Granblue Fantasy",
+    "ja": "グランブルーファンタジー",
+    "ko": "그랑블루 판타지",
+    "code": "granblue-fantasy"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5900,
+  "gsc_product_num": 9357,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200317/9357/73498/large/c53ab09fccb8cac055bd7789f72b224a.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.506Z",
+    "updated_at": "2026-05-15T14:15:10.711Z"
+  },
+  "_source_path": "Nendoroid/1300-1399/1321.json"
+}

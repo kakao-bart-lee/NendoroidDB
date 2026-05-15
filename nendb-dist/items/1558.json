@@ -1,0 +1,44 @@
+{
+  "num": "1558",
+  "name": {
+    "en": "Nendoroid Deadpool: Uncanny X-Force Ver.",
+    "ja": "ねんどろいど デッドプール Uncanny X-Force Ver. (ねんどろいど でっどぷーる Uncanny X Force Ver.)",
+    "ko": "데드풀 Uncanny X-Force Ver."
+  },
+  "series": {
+    "en": "Deadpool",
+    "ja": "デッドプール",
+    "ko": "데드풀",
+    "code": "deadpool"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5000,
+  "gsc_product_num": 10740,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210201/10740/80456/large/65bb2070186abbaf2e0ffb2274386f4f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.577Z",
+    "updated_at": "2026-05-15T14:15:10.768Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1558.json"
+}

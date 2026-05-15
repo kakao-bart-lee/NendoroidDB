@@ -1,0 +1,44 @@
+{
+  "num": "0244",
+  "name": {
+    "en": "Nendoroid Hibiki Tachibana (ねんどろいど たちばなひびき)",
+    "ja": "ねんどろいど 立花響 (ねんどろいど たちばなひびき)",
+    "ko": "타치바나 히비키"
+  },
+  "series": {
+    "en": "Senki Zesshou Symphogear",
+    "ja": "戦姫絶唱シンフォギア",
+    "ko": "전희절창 심포기어 시리즈",
+    "code": "senki-zesshou-symphogear"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2012-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 3667,
+  "gsc_product_num": 3531,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20120423/3531/18183/large/e53efc5877a8dba86ef97a758a46a1c5.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.153Z",
+    "updated_at": "2026-05-15T14:15:10.427Z"
+  },
+  "_source_path": "Nendoroid/0200-0299/244.json"
+}

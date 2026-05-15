@@ -1,0 +1,44 @@
+{
+  "num": "1966",
+  "name": {
+    "en": "Nendoroid Foo · F",
+    "ja": "ねんどろいど フー・F (ねんどろいど ふー・ふぁいたーず)",
+    "ko": "푸 파이터즈"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험: 스톤 오션",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5478,
+  "gsc_product_num": 13271,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220916/13271/104533/large/dc0be6238f83985d1a8fe061edd3b208.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.687Z",
+    "updated_at": "2026-05-15T14:15:10.853Z"
+  },
+  "_source_path": "Nendoroid/1900-1999/1966.json"
+}

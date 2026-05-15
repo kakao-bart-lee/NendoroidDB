@@ -1,0 +1,44 @@
+{
+  "num": "1569",
+  "name": {
+    "en": "Nendoroid Sabito",
+    "ja": "ねんどろいど 錆兎 (ねんどろいど さびと)",
+    "ko": "사비토"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "price_jpy": 5500,
+  "gsc_product_num": 10789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210209/10789/81136/large/99b82e324ddae52232b8f751fcc228e3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "source": {
+    "imported_from": "NendoroidDB",
+    "imported_at": "2026-05-15T14:15:03.580Z",
+    "updated_at": "2026-05-15T14:15:10.770Z"
+  },
+  "_source_path": "Nendoroid/1500-1599/1569.json"
+}
