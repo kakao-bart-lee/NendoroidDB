@@ -1,0 +1,68 @@
+{
+  "num": "1709",
+  "name": {
+    "en": "Nendoroid Yoh Asakura",
+    "ja": "ねんどろいど 麻倉 葉 (ねんどろいど あさくら よう)",
+    "ko": "아사쿠라 요우"
+  },
+  "series": {
+    "en": "SHAMAN KING",
+    "ja": "SHAMAN KING",
+    "ko": "샤먼킹",
+    "code": "shaman-king"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11733,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gPepjKtNoak/YWSHb2M5nwI/AAAAAAAA0_E/-H5SE6yFC5kX3-Fi3OywSK1-fHmvoqV4QCLcBGAsYHQ/s270/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gPepjKtNoak/YWSHb2M5nwI/AAAAAAAA0_E/-H5SE6yFC5kX3-Fi3OywSK1-fHmvoqV4QCLcBGAsYHQ/s270/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bAiFN0kNq90/YWSahMcjLpI/AAAAAAAA1E0/bexf5vlbQ8YNvkgYgz4-EaRSWPQTXkFwgCLcBGAsYHQ/s135/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tl6R76_WZkA/YWSahBAG9mI/AAAAAAAA1E8/yDDeY35EzdE9ofskIAsEGUx2BEVZiNDaACLcBGAsYHQ/s135/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-If6RC84_bZY/YWSahd6TJzI/AAAAAAAA1E4/yNhcdKyLoxwhUclxluonYKPbygtrAYP5gCLcBGAsYHQ/s135/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y2Hje-PREsI/YWSahfPZ2jI/AAAAAAAA1FA/0UiMzCNucYk-BwxO_j0GMtdq7BbqnDh3wCLcBGAsYHQ/s135/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IMII7QHj4rM/YWSahzRoY7I/AAAAAAAA1FE/u86KxRUjmr8dTdc2EOQIUbPNb0Kp02xrwCLcBGAsYHQ/s135/1709-Yoh-Asakura-Shaman-King-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1709/",
+      "fetched_at": "2026-05-16T19:10:33.599Z",
+      "raw_id": "/nendoroid/details/n1709/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.732Z",
+      "raw_id": "Nendoroid/1700-1799/1709.json"
+    }
+  ]
+}

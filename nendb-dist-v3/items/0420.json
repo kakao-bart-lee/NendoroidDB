@@ -1,0 +1,68 @@
+{
+  "num": "0420",
+  "name": {
+    "en": "Nendoroid Mackenzie & Funghi (ねんどろいど おざわりな＆なめこ)",
+    "ja": "ねんどろいど 小沢里奈＆なめこ (ねんどろいど おざわりな＆なめこ)",
+    "ko": "오자와 리나 & 나메코"
+  },
+  "series": {
+    "en": "Touch Detective",
+    "ja": "おさわり探偵 小沢里奈",
+    "ko": "만져라 탐정",
+    "code": "touch-detective"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4409,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-j4ob5pb3XFI/X4NNsNcc-3I/AAAAAAABlnw/ennTb6KLWkMCyyFi9mz-ci5sfljVZwuLQCLcBGAsYHQ/s270/420-Mackenzie-Funghi-Touch-Detective-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-j4ob5pb3XFI/X4NNsNcc-3I/AAAAAAABlnw/ennTb6KLWkMCyyFi9mz-ci5sfljVZwuLQCLcBGAsYHQ/s270/420-Mackenzie-Funghi-Touch-Detective-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s187m7p83ps/X4ddmWL8wII/AAAAAAAArcs/2naWeudGzY8eYsG7xGtNGT49GqxIUINwACLcBGAsYHQ/s135/420-Mackenzie-and-Funghi-Touch-Detective-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6OZXMpXhe6w/X4ddm9I5hfI/AAAAAAAArcw/5h97qXvFcCEvVVaB4blqh3S3EjivzAA-wCLcBGAsYHQ/s135/420-Mackenzie-and-Funghi-Touch-Detective-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SjUzGm11fFY/X4ddnVnUIHI/AAAAAAAArc0/Z1deN36iFIIduUESYd4Io8Ujn8m7fqMUgCLcBGAsYHQ/s135/420-Mackenzie-and-Funghi-Touch-Detective-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6fJ54WkcS3c/X4ddnz-8D2I/AAAAAAAArc4/R3UUTu04T-4WP58W0r6QxxeskqWq44lJACLcBGAsYHQ/s135/420-Mackenzie-and-Funghi-Touch-Detective-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cxu0WKM4k8U/X4ddoWdJ-RI/AAAAAAAArc8/8n5e2cwNJ2gFa_uJc4vYjIQxJcgfYnbqwCLcBGAsYHQ/s135/420-Mackenzie-and-Funghi-Touch-Detective-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n420/",
+      "fetched_at": "2026-05-16T19:10:34.518Z",
+      "raw_id": "/nendoroid/details/n420/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.375Z",
+      "raw_id": "Nendoroid/0400-0499/420.json"
+    }
+  ]
+}

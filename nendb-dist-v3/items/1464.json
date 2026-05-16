@@ -1,0 +1,98 @@
+{
+  "num": "1464",
+  "name": {
+    "en": "Nendoroid Yamambagiri Chougi",
+    "ja": "ねんどろいど 山姥切長義 (ねんどろいど やまんばぎりちょうぎ)",
+    "ko": "야만바기리 쵸우기"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580828660557",
+  "gsc_product_id": "7764",
+  "gsc_product_num": 10069,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/7764",
+    "ja": "https://www.goodsmile.com/ja/product/7764"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200916/10069/74420/large/50b44cc6a78eaf724bfe7368ff876331.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5SNsRBz6L1w/X4Nknv85gDI/AAAAAAABm8E/W976KOWgJUY2jB6owjl5HEgey3iGgucAQCLcBGAsYHQ/s270/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E8juocyGVVk/X4tBLSLsdmI/AAAAAAABrBQ/X3MJMGPQHwYIrBNdhVvMbmnMlH5dCLWVwCLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DOIAI1R85GA/X4tBLsFrMJI/AAAAAAABrBU/22Z7VLkSzb8PjO6lAIbxqnxGo9aqKa9AwCLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zj5e7860EHs/X4tBLya2n4I/AAAAAAABrBY/MtI1pY4Ys-UbjFV9-4tilbhZ8b6vWzsCQCLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zTvvgBHJkMw/X4tBMFwMHgI/AAAAAAABrBc/sK_YFWBuplwRoYYgc9xRNccRUnwpkqRkwCLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kF-8rGdGFmQ/X4tBMfzH-5I/AAAAAAABrBg/i77BRhSgHisLSJvelkwh2Mjsv8Q75tWvQCLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-G2XpEyCxfl4/X4tBMvAm6HI/AAAAAAABrBk/tj06JaqnRBwGYkep7DQZx20sQaN-JFfmACLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-c447DEO_Rn8/X4tBM1EEJ-I/AAAAAAABrBo/8v3rQx3MGrEPv-hmHgt0ROFB31_TQhxyACLcBGAsYHQ/s135/1464-Yamambagiri-Chougi-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200916/10069/74427/large/fb4eb7c7a4f9052e1874d94569f59693.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200916/10069/74420/large/50b44cc6a78eaf724bfe7368ff876331.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7764",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:01:32.013Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7764",
+      "fetched_at": "2026-05-16T12:01:32.013Z",
+      "raw_id": "7764"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/7764",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "7764"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1464/",
+      "fetched_at": "2026-05-16T19:10:33.447Z",
+      "raw_id": "/nendoroid/details/n1464/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.672Z",
+      "raw_id": "Nendoroid/1400-1499/1464.json"
+    }
+  ]
+}

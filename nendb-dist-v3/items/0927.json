@@ -1,0 +1,67 @@
+{
+  "num": "0927",
+  "name": {
+    "en": "Nendoroid Gabriel",
+    "ja": "ねんどろいど ガヴリール (ねんどろいど がゔりーる)",
+    "ko": "가브릴"
+  },
+  "series": {
+    "en": "Gabriel Dropout",
+    "ja": "ガヴリールドロップアウト",
+    "ko": "가브릴 드롭아웃",
+    "code": "gabriel-dropout"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5398,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7256,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nZBUpU9mH_c/X4NekMLScEI/AAAAAAABmLc/ffbab80EqzYUMHoROQjaeu5geciyLAfnwCLcBGAsYHQ/s270/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nZBUpU9mH_c/X4NekMLScEI/AAAAAAABmLc/ffbab80EqzYUMHoROQjaeu5geciyLAfnwCLcBGAsYHQ/s270/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j3hhok7_gY4/X4rn9-eSZ9I/AAAAAAABnyY/Y95gnO2mjVYnEOjX6AmiBXga8pXb73LWwCLcBGAsYHQ/s135/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0wb3A9sI-_g/X4rn-F6C-7I/AAAAAAABnyc/ZxyOtidy05AIS2Wg7KQ0TpO8T1bhTTieQCLcBGAsYHQ/s135/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LMEqSWFJRpg/X4rn-Qii41I/AAAAAAABnyg/ALHkcG_xt-YoNCWCZ5Av4cgeCDr_4F7LgCLcBGAsYHQ/s135/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ATrpyyDbn_k/X4rn-p4oobI/AAAAAAABnyk/wqO_sQFgz_A6xxFctnKnMGZXRta7JDE9wCLcBGAsYHQ/s135/927-Gabriel-Gabriel-Dropout-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n927/",
+      "fetched_at": "2026-05-16T19:10:34.877Z",
+      "raw_id": "/nendoroid/details/n927/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.541Z",
+      "raw_id": "Nendoroid/0900-0999/927.json"
+    }
+  ]
+}

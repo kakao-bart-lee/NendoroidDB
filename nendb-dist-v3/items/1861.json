@@ -1,0 +1,98 @@
+{
+  "num": "1861",
+  "name": {
+    "en": "Nendoroid Inugami Korone",
+    "ja": "ねんどろいど 戌神ころね (ねんどろいど いぬがみころね)",
+    "ko": "이누가미 코로네"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580828662612",
+  "gsc_product_id": "10286",
+  "gsc_product_num": 12601,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/10286",
+    "ja": "https://www.goodsmile.com/ja/product/10286"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220421/12601/98342/large/2c5c491e1ce59f14da496b41ca57d9dc.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DBsoLLTosBY/Yp4F3zyIjAI/AAAAAAAB6wk/y8A_sGzMWk8363NgScZizdTi4wwrT1NsACNcBGAsYHQ/s270/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OYlRbXqv9c4/Yp4ND52s5tI/AAAAAAAB6zk/RBgpJjEyXH4sjg921F5qv9N6OE15oBG2gCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dRsy3wfs2SI/Yp4NEVy2O4I/AAAAAAAB6zo/agyNgBmehtAp62Cb429E7gj0AALE7qQ-ACNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3qyNArJTM8E/Yp4NEa0VM4I/AAAAAAAB6zs/Leo1_o4xaXcEzAkOG04I2VHyMqkwCel7gCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JmqyvBHEHxk/Yp4NEQqJpZI/AAAAAAAB6zw/rR2M_AK9T9onoSKeFQbSNqItBYYv5nazwCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-okiEfTBs1vk/Yp4NE8_Q6BI/AAAAAAAB6z0/cVa3ZQkC8EILfvS5cJczBdKUCFt9RDMXgCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jFpcXrUTres/Yp4NFWCCctI/AAAAAAAB6z4/ZolD_agfBhorQO_NaefSA83kv6hqvVMjQCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-0M-ZOPSIU9M/Yp4NF7xjP7I/AAAAAAAB6z8/oo45k9-zjqA5OrtQf2Hell2d5BnLMxfvwCNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/--fJfFaCBMjI/Yp4NDzxDPrI/AAAAAAAB6zc/sx39e8kbo-8vdn1CtEHHw0DJUMrUif7mACNcBGAsYHQ/s135/1861-Inugami-Korone-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220421/12601/98350/large/13099101997b45ed18daa690d6f51f04.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220421/12601/98342/large/2c5c491e1ce59f14da496b41ca57d9dc.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10286",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:09:45.805Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10286",
+      "fetched_at": "2026-05-16T12:09:45.805Z",
+      "raw_id": "10286"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/10286",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "10286"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1861/",
+      "fetched_at": "2026-05-16T19:10:33.694Z",
+      "raw_id": "/nendoroid/details/n1861/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.769Z",
+      "raw_id": "Nendoroid/1800-1899/1861.json"
+    }
+  ]
+}

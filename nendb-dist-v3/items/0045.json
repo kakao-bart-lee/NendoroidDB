@@ -1,0 +1,68 @@
+{
+  "num": "0045",
+  "name": {
+    "en": "Nendoroid Neuro Nougami (ねうろねんどろいど)",
+    "ja": "ねんどろいど 脳噛ネウロ (ねうろねんどろいど)",
+    "ko": "노우가미 네우로"
+  },
+  "series": {
+    "en": "Demon Detective Neuro Nougami",
+    "ja": "魔人探偵脳噛ネウロ",
+    "ko": "마인탐정 네우로",
+    "code": "demon-detective-neuro-nougami"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 264,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KhxCGZFXkOU/X4MR7vthTvI/AAAAAAAApZM/w7O2DOQD5rYsBVl5qQs7Of-Q_DBjV8mVwCLcBGAsYHQ/s270/045-Nougami-Neuro-Majin-Tantei-Neuro-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KhxCGZFXkOU/X4MR7vthTvI/AAAAAAAApZM/w7O2DOQD5rYsBVl5qQs7Of-Q_DBjV8mVwCLcBGAsYHQ/s270/045-Nougami-Neuro-Majin-Tantei-Neuro-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-T5MVpeCWiBY/X4Gwc-vJCAI/AAAAAAAApC8/v4jX9lMg2xobA-lcPXBdAZ6412QqnjZsQCLcBGAsYHQ/s135/045-Neuro-Nougami-Demon-Detective-Neuro-Nougami-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TB29RZcr5BI/X4GwdZW6s2I/AAAAAAAApDA/VIfBLOwqHCYIUi7SS4UVKgC7VVtFCR4TwCLcBGAsYHQ/s135/045-Neuro-Nougami-Demon-Detective-Neuro-Nougami-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hudzgUfHPek/X4GwdfgXaOI/AAAAAAAApDE/5NEs65aFl1Qt6tXtE_HLFFzao-xjB1AJACLcBGAsYHQ/s135/045-Neuro-Nougami-Demon-Detective-Neuro-Nougami-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OJrp40ETSJM/X4Gwds1YOXI/AAAAAAAApDI/tLMY6ay6go4gctG7eleqHldBR8Da-bJDQCLcBGAsYHQ/s135/045-Neuro-Nougami-Demon-Detective-Neuro-Nougami-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mCRlECFEHiw/X4Gwd016sCI/AAAAAAAApDM/LGu_HVTxbyYuV5OdmIV9AqMbFLE1KOhvwCLcBGAsYHQ/s135/045-Neuro-Nougami-Demon-Detective-Neuro-Nougami-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n045/",
+      "fetched_at": "2026-05-16T19:10:33.092Z",
+      "raw_id": "/nendoroid/details/n045/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.273Z",
+      "raw_id": "Nendoroid/0000-0099/045.json"
+    }
+  ]
+}

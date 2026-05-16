@@ -1,0 +1,93 @@
+{
+  "num": "2598",
+  "name": {
+    "en": "Kirby",
+    "ja": "ねんどろいど カービィ カービィカフェVer.",
+    "ko": null
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": "カービィカフェ",
+    "ko": null,
+    "code": "kirby"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Magnets used in some areas. Approximately 60mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・他素材：磁石・ノンスケール・専用台座付属・全高：約60mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580416928663",
+  "gsc_product_id": "34674",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/34674",
+    "ja": "https://www.goodsmile.com/ja/product/34674"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34674/qBkVQ14cYh2ZmJbGivWxLTFw7d3nAEHr.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj28gndpC-Ax8OT3JcVTEtCr1y5_xqAwFdANvWbXdcwLBwFVHj2KiPKkkVJFVaUfnhBkYPO1cqLPE3oTid5OtPn0qCKMTzSIqLks7cKl8Jmbnpn487JriETifjSOcyxjQbpFVwuZPluq_D1h1IY1YXWV2vuNXHp8zW9fpHlCJL5GZx6-mTfhcbcvyG3AblW/s270/2598-Kirby-Kirby-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMBOF533_PeUmd1LyZvW_4puZevczGjynbtd1crZR74OlGGtFofC0kzmdoBKkW3JbGm7JtzdIXQQMRdNWEeHseZwXdDmjj-w4UIw9hVBUFw0-5Kl-wCA5hY4zigEdW3J-9x9uTl4La9wiQlUD-otdnX0supxWCE39SaSpEByyfATXJx5i3agd4o71TJqb_/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLG21U_dCNApCXPWbDfJXs7LEocU_TJ_bz3k8hUu6c7qYzk9121KdhVZKCXWh3mpQY6VgUG9aS8hieFzBD-oVnE96e3rzQRHX4tPZ-BTvmbb7WerP-AmeUMdWWB7tZMPS3udCwLuHORcWI3Xe1zsIlYoQmkSZXrWSTPrL9pIhHkkRKArwfdpf9WABaxjfg/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUdgwCp8qVCP1agVEQOOhAuN8Y7osMHefGd7x8VwVQKQvYPzVyP9MZQHCH1W5kMsX9aeXunXSYK4pZ5oExYtXmRPFi5XyN6RAIoRU2OxRhXyTU9pzcR1mIiseTM2zNCgHK5o_kyFW1UxG17NW4_aARakgyQp0Dc42bCTqwNdnZIxw1d03UyXOorSOAQoBM/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCqGiQT7dV1c6PdHCNv3FS-1CKor6QH4AuGTxztX6O8kKNBuHZfNd4dV-19T6RavW4Wbo6UO-CHhHy08qZ7It2lsfNnyIK9RehDLLPql6sdqLHA_cjKQ4_1eNRaJtys0G5xjwsfRv_1FPiWine-8sr7By90dieE2rlweqy9WxJnaqIF5UTR-BDy3tRETJI/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht2_XA4IrNsMIlGIH-mt-WTYJo1Nszj25mxcudb2Jf34hgAMqArtHTqbwSmUvKnI5mRQwAYFwFJuAx9nUt-nQW3WnNM4sNa4mwfKNM9j4XJcES8qXMHcQipLUE2XIQydErSwursotTdhz-AyO4oQkpLi1Lh_XIwgtRU1iwtlDkgysWrbaBgYVLC68dk1Hq/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcylLjtQuUZkDRB4i9qaKz5Td1hc-PV0y2IirMfCyMnoz8WoK5ASJoh8X2yuDyw_UDK1nV-URH3CsSCbldtKVLcaGFXHgYp7gxoHZh8p8E8gWRrg3lJFOycjXJZ777Md1E2f7L0eN92qfJpjAYNJu15J9iSnv0h2eeT2iAFM8k14_u8SV51ipJQ_qvMy/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVTdW8SsmYcZAlLe6yNyJsVKXZ7kUoTe7v2s1QZ2lPr1dppcUWJy2yCRkrUohT88uloButLlx_vnyJH0b8Pu560MA3M1qRkLoOZufh1J7Oo-YE8BDxhyphenhyphensY09SCk9zBC-QlRPP4OBYUpPluo-p9khveCfAg2N6SG38Hrej963ZaO75bzVW8ufpJVD-Dvm0/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv3dKvLwHr6WonN7NFelMp8_GZjN_B45DQagSI8aAlvrBfe7z84olPxfve3LKrgHSlFmX71KeeZgVJfPdivob1fiAa4lSsFgjYqDvDCGycouI6awUmjRSV0Qtvi7vnxFsJ7SZSnXgn0HG-V3Ji07pjCjLiDR29QGU25htsr31Kee7N7kzW2OXoD0TIz6WD/s135/2598-Kirby-Kirby-Video-Games-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34674/8YvHehfiUwtKRgcPbLyAMqdBp2u9j3aG.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34674/qBkVQ14cYh2ZmJbGivWxLTFw7d3nAEHr.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/34674",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:53:05.241Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/34674",
+      "fetched_at": "2026-05-16T11:53:05.241Z",
+      "raw_id": "34674"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/34674",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "34674"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2598/",
+      "fetched_at": "2026-05-16T19:10:34.157Z",
+      "raw_id": "/nendoroid/details/n2598/"
+    }
+  ]
+}

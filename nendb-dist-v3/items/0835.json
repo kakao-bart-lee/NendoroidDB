@@ -1,0 +1,69 @@
+{
+  "num": "0835",
+  "name": {
+    "en": "Nendoroid Sucy Manbavaran",
+    "ja": "ねんどろいど スーシィ・マンババラン (ねんどろいど すーしぃ・まんばばらん)",
+    "ko": "수시 만바바란"
+  },
+  "series": {
+    "en": "Little Witch Academia",
+    "ja": "リトルウィッチアカデミア",
+    "ko": "리틀 위치 아카데미아",
+    "code": "little-witch-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6787,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yDqz4Au6v-M/X4Ndyqklw2I/AAAAAAABmE0/r_xS3FIQZ2kTxwbTLZ2p4zpxFjOMuPJsgCLcBGAsYHQ/s270/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yDqz4Au6v-M/X4Ndyqklw2I/AAAAAAABmE0/r_xS3FIQZ2kTxwbTLZ2p4zpxFjOMuPJsgCLcBGAsYHQ/s270/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0gdPZLtH4BE/X4rit2oN37I/AAAAAAABnLs/uBMSOtx0twIDhJD380LeeJKF71XAhABDwCLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t_WSpiS8SGo/X4riuB-WzsI/AAAAAAABnLw/e0G0mNEH_hww8yvAjERv_2q7gmwLlZJnACLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KPyacAjaN_o/X4riuXzKBzI/AAAAAAABnL0/duCD727aNuUhcyO9tv0bo2-sfZc01BLvQCLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4w4qjRNNt9o/X4riurdcdeI/AAAAAAABnL4/adZKN91fGX8A2pgVb47QzL6Vwu_pUnalgCLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-colT9RiNOCk/X4riuyI47oI/AAAAAAABnL8/7uAWuLj7wDUxpSyxJgYR-5Jzwu5C8Eq1ACLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cpJG8SyRgmk/X4rivM-3eiI/AAAAAAABnMA/5ekIDe6ehH4Y18Oaz6CW9CpXo40aEViigCLcBGAsYHQ/s135/835-Sucy-Manbavaran-Little-Witch-Academia-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n835/",
+      "fetched_at": "2026-05-16T19:10:34.827Z",
+      "raw_id": "/nendoroid/details/n835/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.518Z",
+      "raw_id": "Nendoroid/0800-0899/835.json"
+    }
+  ]
+}

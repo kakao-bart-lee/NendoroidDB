@@ -1,0 +1,67 @@
+{
+  "num": "0114a",
+  "name": {
+    "en": "Nendoroid Leina (ねんどろいど れいな)",
+    "ja": "ねんどろいど レイナ (ねんどろいど れいな)",
+    "ko": "레이나"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2847,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TyfWFxaDgJU/X4NJvajjsXI/AAAAAAABlOo/RsUeMBW6qpgZQYQ6wXNUtPnDrAZCnIUagCLcBGAsYHQ/s270/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TyfWFxaDgJU/X4NJvajjsXI/AAAAAAABlOo/RsUeMBW6qpgZQYQ6wXNUtPnDrAZCnIUagCLcBGAsYHQ/s270/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GydREGBqtJw/X4dSLZoDayI/AAAAAAAApxc/vai9CBrsoDY3Iox_IuFrARdK-xUQw7qXgCLcBGAsYHQ/s135/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1HvUqVMobF8/X4dSLR0szeI/AAAAAAAApxg/EVAN_UB4gVwa0-PP492PSgbZTyGJaM6JQCLcBGAsYHQ/s135/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--ueVn5UwPII/X4dSLmygJSI/AAAAAAAApxk/7fS0X9aWO6kJO-ivdX1EvbVketlgpuihwCLcBGAsYHQ/s135/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7btNJjszo4M/X4dSL4mvK0I/AAAAAAAApxo/MnQU5trdr7g04W1BuTNr5SEfJd9bjaRnwCLcBGAsYHQ/s135/114A-Leina-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n114a/",
+      "fetched_at": "2026-05-16T19:10:33.251Z",
+      "raw_id": "/nendoroid/details/n114a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.291Z",
+      "raw_id": "Nendoroid/0100-0199/114a.json"
+    }
+  ]
+}

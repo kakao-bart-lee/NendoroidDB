@@ -1,0 +1,68 @@
+{
+  "num": "0395",
+  "name": {
+    "en": "Nendoroid Yoshino (ねんどろいど よしの)",
+    "ja": "ねんどろいど 四糸乃 (ねんどろいど よしの)",
+    "ko": "요시노"
+  },
+  "series": {
+    "en": "Date A Live",
+    "ja": "デート・ア・ライブ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4205,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WCVSfDm653U/X4NNHiVejHI/AAAAAAABllg/6fs6TYhdgRcJtlydOwgKdKKOOsNAm9fUwCLcBGAsYHQ/s270/395-Yoshino-Date-a-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WCVSfDm653U/X4NNHiVejHI/AAAAAAABllg/6fs6TYhdgRcJtlydOwgKdKKOOsNAm9fUwCLcBGAsYHQ/s270/395-Yoshino-Date-a-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-q5POd0dxoNs/X4dbubuVE_I/AAAAAAAArSY/EHQ4hvBAMDwSuC9n-cdmm86AVKuHjBxoACLcBGAsYHQ/s135/395-Yoshino-Date-A-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xL07nEBfzr0/X4dbu9jdb0I/AAAAAAAArSc/kKZP3hak4dUQ1ZJscM253itBo34y6F_awCLcBGAsYHQ/s135/395-Yoshino-Date-A-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tjzPQSWi1FY/X4dbvR_ijuI/AAAAAAAArSg/H4S_aRFVj0IKmFx5bEpa0sK9_HD2f5regCLcBGAsYHQ/s135/395-Yoshino-Date-A-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_fHA_ESqgMQ/X4dbvwv8_zI/AAAAAAAArSk/Huj4MXKi3FEHoHovxvlaf-B0jxDsZWBGQCLcBGAsYHQ/s135/395-Yoshino-Date-A-Live-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OYlLDUxwIpo/X4dbwiH57yI/AAAAAAAArSo/-XUJCHRvboMVxDUYWNARuvto7nIEVOAdQCLcBGAsYHQ/s135/395-Yoshino-Date-A-Live-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n395/",
+      "fetched_at": "2026-05-16T19:10:34.504Z",
+      "raw_id": "/nendoroid/details/n395/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.369Z",
+      "raw_id": "Nendoroid/0300-0399/395.json"
+    }
+  ]
+}

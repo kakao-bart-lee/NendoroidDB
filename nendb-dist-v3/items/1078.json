@@ -1,0 +1,68 @@
+{
+  "num": "1078",
+  "name": {
+    "en": "Nendoroid Yuri Lowell",
+    "ja": "ねんどろいど ユーリ・ローウェル (ねんどろいど ゆーり・ろーうぇる)",
+    "ko": "유리 로웰"
+  },
+  "series": {
+    "en": "Tales of Vesperia",
+    "ja": "テイルズ オブ ヴェスペリア",
+    "ko": "테일즈 오브 베스페리아",
+    "code": "tales-of-vesperia"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8047,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ffIzZWCjatc/X4Nf4Ci7DnI/AAAAAAABmWU/tL4H7s0b8_of2p1FRt_oyc0fqUG1-GCEwCLcBGAsYHQ/s270/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ffIzZWCjatc/X4Nf4Ci7DnI/AAAAAAABmWU/tL4H7s0b8_of2p1FRt_oyc0fqUG1-GCEwCLcBGAsYHQ/s270/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1TRTtVdUsSU/X4rtB4PW4lI/AAAAAAABovU/nN1sZ65PbrAunWv0UJ9uRXmXNhtR_RPlgCLcBGAsYHQ/s135/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kqcOBFTWWpY/X4rtCNfQVZI/AAAAAAABovY/WAvxvaOp6Us2VzYBULS5xUN2LGGjOlavgCLcBGAsYHQ/s135/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SarqxAmEgJY/X4rtCtOu8lI/AAAAAAABovc/mlsstGcEuAMigfhyub98fu0kciEhIn6wgCLcBGAsYHQ/s135/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1CPDQeq6teo/X4rtDHCiWbI/AAAAAAABovg/Wzm5HD720RMKJxayIqY4vGql_zBe4jvxACLcBGAsYHQ/s135/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fZ8xACHtOXc/X4rtDW67eKI/AAAAAAABovk/Kq-h5-mJ834ZKy71dNAa2J3aIxQeEoxjACLcBGAsYHQ/s135/1078-Yuri-Lowell-Tales-of-Vesperia-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1078/",
+      "fetched_at": "2026-05-16T19:10:33.204Z",
+      "raw_id": "/nendoroid/details/n1078/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.579Z",
+      "raw_id": "Nendoroid/1000-1099/1078.json"
+    }
+  ]
+}

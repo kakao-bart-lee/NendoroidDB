@@ -1,0 +1,68 @@
+{
+  "num": "0926",
+  "name": {
+    "en": "Nendoroid Tamaki Yotsuba",
+    "ja": "ねんどろいど 四葉環 (ねんどろいど よつばたまき)",
+    "ko": "요츠바 타마키"
+  },
+  "series": {
+    "en": "Idolish7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7240,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6pI7sO2DKEE/X4Nej6jMnhI/AAAAAAABmLY/CG8NOAXM-HIfElvGyqwQbqvQaD_rwtRzACLcBGAsYHQ/s270/926-Tamaki-Yotsuba-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6pI7sO2DKEE/X4Nej6jMnhI/AAAAAAABmLY/CG8NOAXM-HIfElvGyqwQbqvQaD_rwtRzACLcBGAsYHQ/s270/926-Tamaki-Yotsuba-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gU_SdOsPBzk/X4rn8C8o1JI/AAAAAAABnyE/WooJz_8iZDcPfZEFS2WY_hk9_5x_KUyggCLcBGAsYHQ/s135/926-Tamaki-Yotsuba-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zfYGkocx-CY/X4rn8bQgcxI/AAAAAAABnyI/9rmC6NB8F40VtV2OKSrcy4j6VvyVXmpNgCLcBGAsYHQ/s135/926-Tamaki-Yotsuba-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Lnpdzg7TAOs/X4rn8nV9MnI/AAAAAAABnyM/CwqWt5bjkP4ZM_31kKpqMoqQ5-s-60DfQCLcBGAsYHQ/s135/926-Tamaki-Yotsuba-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BqFk1zSaM4c/X4rn9OSd-rI/AAAAAAABnyQ/2H5Wt-wqhfQf9QWvaTdonQgj_kbtxQXOACLcBGAsYHQ/s135/926-Tamaki-Yotsuba-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RJNmRWjdOHs/X4rn9iU3I7I/AAAAAAABnyU/egCsTrKjfgEP6gsFAxhK6WRhEj6dn63DgCLcBGAsYHQ/s135/926-Tamaki-Yotsuba-IDOLiSH7-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n926/",
+      "fetched_at": "2026-05-16T19:10:34.877Z",
+      "raw_id": "/nendoroid/details/n926/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.540Z",
+      "raw_id": "Nendoroid/0900-0999/926.json"
+    }
+  ]
+}

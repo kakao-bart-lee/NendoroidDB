@@ -1,0 +1,68 @@
+{
+  "num": "1882",
+  "name": {
+    "en": "Nendoroid Empress [Black Rock Shooter]: DAWN FALL Ver.",
+    "ja": "ねんどろいど エンプレス［ブラックロックシューター］ DAWN FALL Ver. (ねんどろいど えんぷれす［ぶらっくろっくしゅーたー］ どーん ふぉーる Ver.)",
+    "ko": "엠프레스[블랙 록 슈터] 던 폴 Ver."
+  },
+  "series": {
+    "en": "BLACK★★ROCK SHOOTER: DAWN FALL",
+    "ja": "ブラック★★ロックシューター DAWN FALL",
+    "ko": "블랙★★록 슈터: 던 폴",
+    "code": "black-rock-shooter-dawn-fall"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12738,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GSa-pHL9-rY/Yp4F6t7MQeI/AAAAAAAB6xc/YDSwk17Cb1kUGnViLnf559FuCmANel0DACNcBGAsYHQ/s270/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GSa-pHL9-rY/Yp4F6t7MQeI/AAAAAAAB6xc/YDSwk17Cb1kUGnViLnf559FuCmANel0DACNcBGAsYHQ/s270/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HHErpL27TNE/Yp4hyMOUJoI/AAAAAAAB67c/Z0tK-bPioB8ysnVX705wXvt0wt388lB_ACNcBGAsYHQ/s135/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-e_aqgiUJ5CU/Yp4hycY2TRI/AAAAAAAB67g/OfuoqHLABxo5i7M8zZ9qbTHPX_7E5evVQCNcBGAsYHQ/s135/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r7_CKmeKJs0/Yp4hyWZSHmI/AAAAAAAB67k/4gEds9_xmM0GEsP2NuKTTgaNU0jTZyDXACNcBGAsYHQ/s135/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DlckX6_4rCc/Yp4hyhjScfI/AAAAAAAB67o/M_sVPxHSdTEvQluAkWtMjq6GI4sPQXiBgCNcBGAsYHQ/s135/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nTyKS9GFE0I/Yp4hy1E0tMI/AAAAAAAB67s/_554wcTPCk4dmod0kzpCyiAe_out90UcACNcBGAsYHQ/s135/1882-Empress-Black-Rock-Shooter-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1882/",
+      "fetched_at": "2026-05-16T19:10:33.708Z",
+      "raw_id": "/nendoroid/details/n1882/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.774Z",
+      "raw_id": "Nendoroid/1800-1899/1882.json"
+    }
+  ]
+}

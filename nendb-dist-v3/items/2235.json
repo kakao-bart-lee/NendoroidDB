@@ -1,0 +1,69 @@
+{
+  "num": "2235",
+  "name": {
+    "en": "Nendoroid Kiyoka Kudo",
+    "ja": "ねんどろいど 久堂清霞 (ねんどろいど くどうきよか)",
+    "ko": "쿠도 키요카"
+  },
+  "series": {
+    "en": "My Happy Marriage",
+    "ja": "わたしの幸せな結婚",
+    "ko": "나의 행복한 결혼",
+    "code": "my-happy-marriage"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14849,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7TR7-OCv0ek/ZQoU4JMsfTI/AAAAAAABBjU/BijkmnpPjpo65eFJ86IW9VUFlrTM4vBagCNcBGAsYHQ/s270/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7TR7-OCv0ek/ZQoU4JMsfTI/AAAAAAABBjU/BijkmnpPjpo65eFJ86IW9VUFlrTM4vBagCNcBGAsYHQ/s270/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y0KNk7aLi9U/ZQsgxROwnWI/AAAAAAABBq0/TzJv2zpgy_02ybJnm2Pz-zExXAWBZVfMQCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eW0o0QhBb_g/ZQsgxhN7BgI/AAAAAAABBq4/bfnXAy1lKGg6_l83vAo-YGFVqgMiJAzfwCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fq4MJldn02U/ZQsgx1o_37I/AAAAAAABBq8/Vu06AL_29d4EtAjbmyDw1ni9MyzTejR6wCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--csXzuBATLU/ZQsgyI3kqgI/AAAAAAABBrA/Wf_qI1x6BwkCw-apwTIcI9ZYlBQz0EwYQCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2KHzva_VBd4/ZQsgyZZRnLI/AAAAAAABBrE/aAaYksi_gK8m-6VZwjxWYDEZ7QzYyjIGgCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VdSCMmZYXVA/ZQsgyvABL3I/AAAAAAABBrI/jdtmwV0yOLQ6H5UlSQawTtAP8ZU1ecwlwCNcBGAsYHQ/s135/2235-Kiyoka-Kudo-My-Happy-Marriage-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2235/",
+      "fetched_at": "2026-05-16T19:10:33.935Z",
+      "raw_id": "/nendoroid/details/n2235/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.861Z",
+      "raw_id": "Nendoroid/2200-2299/2235.json"
+    }
+  ]
+}

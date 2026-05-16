@@ -1,0 +1,69 @@
+{
+  "num": "1363",
+  "name": {
+    "en": "Nendoroid Ena Saito",
+    "ja": "ねんどろいど 斉藤恵那 (ねんどろいど さいとうえな)",
+    "ko": "사이토 에나"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9604,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B1ZgOVQY1EE/X4NjzaW4pnI/AAAAAAABm2s/6CoCIuAf21k0A0SCUvKWC8a_M5mQAgX0ACLcBGAsYHQ/s270/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B1ZgOVQY1EE/X4NjzaW4pnI/AAAAAAABm2s/6CoCIuAf21k0A0SCUvKWC8a_M5mQAgX0ACLcBGAsYHQ/s270/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jFWMltndBjE/X4s9zRYeKcI/AAAAAAABqlM/FjnJnWkd2docRQYqfVkhEpueaLhgWYbagCLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HHzt0NhDpiQ/X4s9zvoeQCI/AAAAAAABqlQ/xOgpGckL3SwXK2sFCh_cxwlfuUYUuQ2fgCLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GyrRx42-sCg/X4s9z-tV51I/AAAAAAABqlU/fG0iBaIxMHI-Gyl768RB17EGwhd4sucpwCLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8fgCvXnbzi4/X4s90PFcQuI/AAAAAAABqlY/8Qbh2MYWaBg43rn3jRyXZ09FpagIxlZkwCLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tMxk0yk2eF8/X4s90dS3gCI/AAAAAAABqlc/Ig4B2KpQk0IDLFncOl1H4neCWswq5VdPACLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cuoR4UPr_dg/X4s90mIcWiI/AAAAAAABqlg/dSpDF4Bg1r0mXuCI61LrBKNho6CuTCRpACLcBGAsYHQ/s135/1363-Ena-Saito-Laid-Back-Camp-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1363/",
+      "fetched_at": "2026-05-16T19:10:33.383Z",
+      "raw_id": "/nendoroid/details/n1363/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.648Z",
+      "raw_id": "Nendoroid/1300-1399/1363.json"
+    }
+  ]
+}

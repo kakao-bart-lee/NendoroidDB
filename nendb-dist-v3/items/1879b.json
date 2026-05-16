@@ -1,0 +1,65 @@
+{
+  "num": "1879b",
+  "name": {
+    "en": "Astro",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Astro's Playroom",
+    "ja": null,
+    "ko": null,
+    "code": "astro-s-playroom"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EKgQuw-EKjWCM-jMZT3L14PYy8VTCrAzYbSh4RUszBpXSDIFtsNzXc6Q41fgbBIx27DonCwTrV9Xp4HgmjPD-51LFjuLPACcQT7tmVfUhWKVh1TVH1Yh5DLEYVmhD4SS-KWrZJWuUrzIhifpNQDJGfmPQffLl7DfYMExMTIHyk-SEIle2-joFSTOErJ-/s270/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EKgQuw-EKjWCM-jMZT3L14PYy8VTCrAzYbSh4RUszBpXSDIFtsNzXc6Q41fgbBIx27DonCwTrV9Xp4HgmjPD-51LFjuLPACcQT7tmVfUhWKVh1TVH1Yh5DLEYVmhD4SS-KWrZJWuUrzIhifpNQDJGfmPQffLl7DfYMExMTIHyk-SEIle2-joFSTOErJ-/s270/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztwxmhUpK9jpxWQ7UI56Qtr7mOj4AiHx8qzfWlI-30JxW4ZYgwtRJcD6diUFgPRJl1dzhnR7iQgD7rOo55JuBDilromVwT3Rq7LIgVBPi8OE8-3moFnMF3bKROiPaQaxHR_7cf8G7fwQl3zWRlh_fRZzZyla1wAK27KWksmmjoymnatbWiQTsVoUoGpSg/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguG1WxdyZVYNeGLIn38qtplt_lSI9Nu-5VrET2jwWtClUPrYk1XOa58Z_gOb1xKAZMQQQ0u3nhEXTSQDoSN28H8ntAr6tLOAX4-bmN3_6TQShDl8TmIFarOuHQaIcmtuhb2RBfElvx4JsGS7YgogSLTXnwkVQkH_YKlPb4NnMdNqWDz5KP3h-RnVNhfc9e/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7HdkKV5NAWIuXemlV05ZVY3a9HyKIKphW7_O_2kF-1UlsOqj-mgTYp1xRgqrd0cswQFK9zgw_55fIjtZ5JnSPh7naWRM8Rt0BUCd0kf1lK5Gk92iM5JOmMMZClwrXo730uSz-iQRnSYbIf_vzMc29NY8_ZoM98GoYQ_QPm5_E2CMrOPNnsy7BfxXe4FSw/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga9or7gqnZgdLEDAnd96bVvy1ayxTtrOkaziywZFZ7SHkzg9AnrbUO25oMNyCpdhtRR0wsEtw6_5D9JTCViT0ANJg_U7zEE_PCk81z_hvO0sEtzkMZDAdnk7md-Y_1-HFbzeF5X8KT4SgruNkZAiReMpCv8SU4VuifMpN6m9-HaRByFFdj1RCswhdKeDh_/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvfW4F7OSerlWtySqC-SNULYzB5WFzyizV7TZ4kHXhuesoOd45vWEYaRyKuE1OVb7MsaG2Mkr8jT0yBk7bLFnkYQs4upe9Y4rW6H99DTHyz1HcNpMXkq58VLnjqHT__uUWOjYaAePcK1AMqZLvn3b8wp_eah5l0cBrUtzl8033lFcEQbZUMTQAfe82afE_/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2h-9YeuMrn-fUhp9Dp_6PSIns3suEHfc3EnGzg2jiyVoIe69lFzynnXt_-23SOd7IYoGfYJsjveYGDNt5YB-nNKGR6PJJTBVetU3ysmfejbM2qUGdek8wa1IwV0ej8Fy9oYZFE2iglxfs6lFM7EEP9_dlOTKCq6ZvvNvByqfeYAyegXVK0079uHHqIZF9/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJNFMZKAvr4ZzN9Ms3h7r5-bjEir9uO0KpDtnXglCqX-yRdAgReVYW_59E50uPrFZ_WzaRDpM270qYIinkFULUfsF_l2a_QzSMk3lQgZRmauEIqVs5fPg7zGLZu0JKmRTOKSGVmfQcoTbkvSPbXeJeH5i_5S2_ALGewcQ6goJEyv5O7wax5iSWmlFG1s29/s135/1879-b-Astro-Astros-Playroom-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1879b/",
+      "fetched_at": "2026-05-16T19:10:33.705Z",
+      "raw_id": "/nendoroid/details/n1879b/"
+    }
+  ]
+}

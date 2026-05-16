@@ -1,0 +1,68 @@
+{
+  "num": "0754",
+  "name": {
+    "en": "Nendoroid Juliana",
+    "ja": "ねんどろいど ユリアナ (ねんどろいど ゆりあな)",
+    "ko": "유리아나"
+  },
+  "series": {
+    "en": "Chain Chronicle: The Light of Haecceitas",
+    "ja": "チェインクロニクル ～ヘクセイタスの閃～",
+    "ko": "체인 크로니클",
+    "code": "chain-chronicle-the-light-of-haecceitas"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6403,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Fk9DEXRrCIM/X4NdAvBWQJI/AAAAAAABl-4/1zaQfGCImCEMuSDbYWAgVj8EdhYbjCUEwCLcBGAsYHQ/s270/754-Juliana-Chain-Chronicle-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Fk9DEXRrCIM/X4NdAvBWQJI/AAAAAAABl-4/1zaQfGCImCEMuSDbYWAgVj8EdhYbjCUEwCLcBGAsYHQ/s270/754-Juliana-Chain-Chronicle-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gFd3SXmXSuU/X4i46JjhvmI/AAAAAAAAtas/-SjZyd8W2cUNXwhnWN2XFS7qVgbCYkqPQCLcBGAsYHQ/s135/754-Juliana-Chain-Chronicle-The-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CLZ4KJ9V1gs/X4i46o9gD3I/AAAAAAAAtaw/g7fqjohhzwUMbv7C263-cZIHxEYWLkS6gCLcBGAsYHQ/s135/754-Juliana-Chain-Chronicle-The-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UFzmX0wv0RI/X4i46w3AzuI/AAAAAAAAta0/zvGf0v0hPbw2tnRK_IWzF3g-ED-5E3ZNACLcBGAsYHQ/s135/754-Juliana-Chain-Chronicle-The-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VsWHCdxom4I/X4i46xF12NI/AAAAAAAAta4/Y-JaqX12GtYEHu33Jd7f_AfVcYKvjzW9QCLcBGAsYHQ/s135/754-Juliana-Chain-Chronicle-The-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SlsniYO1lxI/X4i47ItXuKI/AAAAAAAAta8/FnloF7Uc_DUhfXh5aoSKY4NewRMZkhsuwCLcBGAsYHQ/s135/754-Juliana-Chain-Chronicle-The-Light-of-Haecceitas-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n754/",
+      "fetched_at": "2026-05-16T19:10:34.779Z",
+      "raw_id": "/nendoroid/details/n754/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.500Z",
+      "raw_id": "Nendoroid/0700-0799/754.json"
+    }
+  ]
+}

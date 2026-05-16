@@ -1,0 +1,67 @@
+{
+  "num": "1118",
+  "name": {
+    "en": "Nendoroid Zhao Ling-Er",
+    "ja": "ねんどろいど 趙霊児 (ねんどろいど ちょうれいじ)",
+    "ko": "조령아"
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8224,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GNPzgJCWgBA/X4NgWMuWfOI/AAAAAAABmZo/IzjBIcFQXhodlX1dpgwS_2jqHBFyXiEDgCLcBGAsYHQ/s270/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GNPzgJCWgBA/X4NgWMuWfOI/AAAAAAABmZo/IzjBIcFQXhodlX1dpgwS_2jqHBFyXiEDgCLcBGAsYHQ/s270/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6fDl3zfPWxc/X4rvu3KIp8I/AAAAAAABpAw/UlpK4eLCZD8hB4gPHXEmnUA_fnmdAfu2QCLcBGAsYHQ/s135/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ssiOrqx2QtE/X4rvvJv4PqI/AAAAAAABpA0/PvEcpmJNUEg31L3Yx8oYU6njZoQSrQdYwCLcBGAsYHQ/s135/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wJq3cYOBFKc/X4rvvfjttaI/AAAAAAABpA4/4-u6lJ8bW8sY8EhlCr_SzfiuvYe-ebZfgCLcBGAsYHQ/s135/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tFAoqVt9gcU/X4rvvl-UI4I/AAAAAAABpA8/m6O7JWGZkj8ckiJ4UUIEzPh8xXRK5qNbwCLcBGAsYHQ/s135/1118-Zhao-Ling-Er-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1118/",
+      "fetched_at": "2026-05-16T19:10:33.231Z",
+      "raw_id": "/nendoroid/details/n1118/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.589Z",
+      "raw_id": "Nendoroid/1100-1199/1118.json"
+    }
+  ]
+}

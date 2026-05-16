@@ -1,0 +1,72 @@
+{
+  "num": "2041",
+  "name": {
+    "en": "Nendoroid Hiiro Amagi",
+    "ja": "ねんどろいど 天城一彩 (ねんどろいど あまぎひいろ)",
+    "ko": "아마기 히이로"
+  },
+  "series": {
+    "en": "Ensemble Stars!! Music",
+    "ja": "あんさんぶるスターズ！！Music",
+    "ko": "앙상블 스타즈! 뮤직",
+    "code": "ensemble-stars-music"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13747,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-P3QqNUz96_g/Y9mJ9hn_NfI/AAAAAAAA8es/ThxoYTUZDMY_ZQAOYC_RrNJCyOb8eG8IACNcBGAsYHQ/s270/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-P3QqNUz96_g/Y9mJ9hn_NfI/AAAAAAAA8es/ThxoYTUZDMY_ZQAOYC_RrNJCyOb8eG8IACNcBGAsYHQ/s270/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-M8Z-WVEDoos/Y9mPAh82eLI/AAAAAAAA8lE/NrVAm9MJR4sm5fpdUYD8ZDuCWkOtUcAogCNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ORLnwmf-GBA/Y9mPAnmWW1I/AAAAAAAA8lI/ThxWTIdM6Sg9eQdWNELQvsgJFYT9CJIlgCNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EzemsjzeZqI/Y9mPA2J81VI/AAAAAAAA8lM/WiT4nx8USQgPEJbZfc9BpxFmrj385wHZACNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HH8zO-xYc9A/Y9mPBYEfpTI/AAAAAAAA8lQ/abhg_7uq7006DqnYk0sJjPr_0ohBu7VhACNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cqQKGMyunKM/Y9mPBRs5WQI/AAAAAAAA8lU/hW56XD9pH8YXuCrChyklNL8ewMwwQ3s6QCNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FudVQBQKVlA/Y9mPBt1J37I/AAAAAAAA8lY/ex0nqMfu8T8N2XTEfOmH64D4Do_-eHRoACNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-n50eYHEhVFU/Y9mPB-OOzfI/AAAAAAAA8lc/gW8pcQzWnco0qMFbgF71oRZDu5M7GhXmACNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-RAdh2tb-t7g/Y9mO_zJu1JI/AAAAAAAA8k8/6wca0lW7ASUaGEwOgKvo-J16Aw8gt8ekgCNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-Z1x6ScFh_ZE/Y9mPAS_WzWI/AAAAAAAA8lA/KrBvANImcV0DInpPf3R6dR3Le9Ge9JI5ACNcBGAsYHQ/s135/2041-Hiiro-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2041/",
+      "fetched_at": "2026-05-16T19:10:33.804Z",
+      "raw_id": "/nendoroid/details/n2041/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.813Z",
+      "raw_id": "Nendoroid/2000-2099/2041.json"
+    }
+  ]
+}

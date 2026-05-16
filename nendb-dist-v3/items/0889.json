@@ -1,0 +1,68 @@
+{
+  "num": "0889",
+  "name": {
+    "en": "Nendoroid Toru Oikawa: School Uniform Ver.",
+    "ja": "ねんどろいど 及川徹 制服Ver. (ねんどろいど おいかわとおる せいふくVer.)",
+    "ko": "오이카와 토오루 교복 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7045,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fZHQYOziKTk/X4NeC7M2jTI/AAAAAAABmIQ/0W83B6r08OMF6OGdLAJ_ajMoH3-tX5-lACLcBGAsYHQ/s270/889-Toru-Oikawa-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fZHQYOziKTk/X4NeC7M2jTI/AAAAAAABmIQ/0W83B6r08OMF6OGdLAJ_ajMoH3-tX5-lACLcBGAsYHQ/s270/889-Toru-Oikawa-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-V3unKmMq0XI/X4rkLBRHGEI/AAAAAAABngg/39LYVZm7vOwFvA_5GycMKVosSOiS8L6tgCLcBGAsYHQ/s135/889-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OKX8uuTntZk/X4rkLMoSXmI/AAAAAAABngc/eNxFgj-PEaYMx7NYbHBy5QqQuVrevSY3ACLcBGAsYHQ/s135/889-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xfk1rWnZEcs/X4rkLlfhI9I/AAAAAAABngk/ut8SUngPEBoU2-oVUdqFT4Gys0ofMRIxACLcBGAsYHQ/s135/889-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YOuxWryIv5w/X4rkL1x_qRI/AAAAAAABngo/bpqcS7YpI605RZ62xqvsnUf1tmBw-959ACLcBGAsYHQ/s135/889-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5wl4xvkp1XA/X4rkMJNq-AI/AAAAAAABngs/0BiP7yDSprImv_be_JINq0hdrBMJ8CL4QCLcBGAsYHQ/s135/889-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n889/",
+      "fetched_at": "2026-05-16T19:10:34.856Z",
+      "raw_id": "/nendoroid/details/n889/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.531Z",
+      "raw_id": "Nendoroid/0800-0899/889.json"
+    }
+  ]
+}

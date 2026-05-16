@@ -1,0 +1,68 @@
+{
+  "num": "2137",
+  "name": {
+    "en": "Nendoroid Usui Yuen",
+    "ja": "ねんどろいど 碓水幽烟 (ねんどろいど うすいゆうえん)",
+    "ko": "우스이 유엔"
+  },
+  "series": {
+    "en": "REVENGER",
+    "ja": "REVENGER",
+    "ko": "리벤저",
+    "code": "revenger"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14254,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Z-v3FZR4Zlw/ZFqWeEw4r_I/AAAAAAAA90A/Z4TT7zKJ8NQ2_XRkmfEuMoTOZU1FdPKqQCNcBGAsYHQ/s270/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Z-v3FZR4Zlw/ZFqWeEw4r_I/AAAAAAAA90A/Z4TT7zKJ8NQ2_XRkmfEuMoTOZU1FdPKqQCNcBGAsYHQ/s270/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DLdIaVfSj3I/ZFqcGsx6tUI/AAAAAAAA9_U/w5-r5Rk-8rweIwrmHHY7PIymeI2gMnyEwCNcBGAsYHQ/s135/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xMLLUgW3Jec/ZFqcGhhQgaI/AAAAAAAA9_c/mZ6T3q5NOJgGLoT8Kd0KtZdmez6rhxawACNcBGAsYHQ/s135/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mfATw4tiEGY/ZFqcGoh-IWI/AAAAAAAA9_Y/5rvpSwm1qxsaviHlGuTWHcEyt-3dc-IlACNcBGAsYHQ/s135/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ITHrvKCFutk/ZFqcG6qTQSI/AAAAAAAA9_g/Exl6W29EqpELu7n-019srPiikHy4TRjzwCNcBGAsYHQ/s135/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gv8OMABrcDk/ZFqcHIjuXaI/AAAAAAAA9_o/PneBNs8lrOkRsCkVZ54A-BylXmeAHfpQwCNcBGAsYHQ/s135/2137-Usui-Yuen-Revenger-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2137/",
+      "fetched_at": "2026-05-16T19:10:33.861Z",
+      "raw_id": "/nendoroid/details/n2137/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.835Z",
+      "raw_id": "Nendoroid/2100-2199/2137.json"
+    }
+  ]
+}

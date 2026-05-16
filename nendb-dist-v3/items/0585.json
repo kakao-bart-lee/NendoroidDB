@@ -1,0 +1,69 @@
+{
+  "num": "0585",
+  "name": {
+    "en": "Nendoroid Fubuki: Animation Ver.",
+    "ja": "ねんどろいど 吹雪 Animation Ver. (ねんどろいど ふぶき あにめーしょん Ver.)",
+    "ko": "후부키 애니메이션 Ver."
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5341,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dyAQWvjswxU/X4NOqlks4LI/AAAAAAABly4/G392V5Un9tEbjt-lJrDEu5XQ-0_xTvkTQCLcBGAsYHQ/s270/585-Fubuki-Animation-Ver-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dyAQWvjswxU/X4NOqlks4LI/AAAAAAABly4/G392V5Un9tEbjt-lJrDEu5XQ-0_xTvkTQCLcBGAsYHQ/s270/585-Fubuki-Animation-Ver-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Iez9BHZ8o2I/X4itcukfb2I/AAAAAAAAsYQ/6QHOGSRLVHENFORpai9cWMXmtpAyGbO3wCLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uVZlBwI8Wl0/X4itcdVAblI/AAAAAAAAsYM/-DzLn50RS2YNwQwVSlPyBuHCMMPeFJ6FQCLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-V-ElE80xlNs/X4itcrFLzVI/AAAAAAAAsYU/km98A7Ti8oIrCNS2w05Nuzhs6rT-qjhvQCLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MBnZ_gj9A0w/X4itdD0bB9I/AAAAAAAAsYY/qHtHv3ZRuYMNlq2AhhZDw-dLzUtKgxUBgCLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xH6PnYvhVCg/X4itdm80aLI/AAAAAAAAsYc/FTyRhq4xmCA0IrtKI_qlgEDeFOsg1VDCACLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-eET8xOZY4jg/X4itd0-iQxI/AAAAAAAAsYg/b1ODAibdJ9wQekcbs2F1nTP5uz14gRq_wCLcBGAsYHQ/s135/585-Fubuki-Kantai-Collection-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n585/",
+      "fetched_at": "2026-05-16T19:10:34.667Z",
+      "raw_id": "/nendoroid/details/n585/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.455Z",
+      "raw_id": "Nendoroid/0500-0599/585.json"
+    }
+  ]
+}

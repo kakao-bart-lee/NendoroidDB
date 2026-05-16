@@ -1,0 +1,63 @@
+{
+  "num": "2338",
+  "name": {
+    "en": "Mamehinata",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Mamehinata",
+    "ja": null,
+    "ko": null,
+    "code": "mamehinata"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_Al1ua0ITNE/ZWZfvSdoSsI/AAAAAAABCdg/TLigTF8R0EEh0D9fyt7Og7ALXaIFGHFOgCNcBGAsYHQ/s270/2338-Mamehinata-Mamehinata-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_Al1ua0ITNE/ZWZfvSdoSsI/AAAAAAABCdg/TLigTF8R0EEh0D9fyt7Og7ALXaIFGHFOgCNcBGAsYHQ/s270/2338-Mamehinata-Mamehinata-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-V8cBn8ocPTg/ZWZpoz18elI/AAAAAAABCsQ/1KsFjMFAuyw7jdKvlF8OB3F5E-4aJ_nOwCNcBGAsYHQ/s135/2338-Mamehinata-Mamehinata-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-G6m5y8qynK8/ZWZppQJq7TI/AAAAAAABCsU/BQbrwZFEQ_UI4JyF0lT_m2Yi9E8Ykcs6gCNcBGAsYHQ/s135/2338-Mamehinata-Mamehinata-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z9k4Gm3VNnI/ZWZpp4tKSMI/AAAAAAABCsY/v30liqWhXDUD18hThc3AISFhbnVVxoh4wCNcBGAsYHQ/s135/2338-Mamehinata-Mamehinata-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DZPJBVsUibA/ZWZpqBzdD-I/AAAAAAABCsc/DkxgUHLfRRYXxtyxEX_IiYGqgDnBuZG3QCNcBGAsYHQ/s135/2338-Mamehinata-Mamehinata-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1JS9uMsKckE/ZWZpqp4MMbI/AAAAAAABCsg/t4b2gV45taU-QSm_wvc_UdaMATiRwHkrQCNcBGAsYHQ/s135/2338-Mamehinata-Mamehinata-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2338/",
+      "fetched_at": "2026-05-16T19:10:33.996Z",
+      "raw_id": "/nendoroid/details/n2338/"
+    }
+  ]
+}

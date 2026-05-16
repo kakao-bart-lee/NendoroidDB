@@ -1,0 +1,68 @@
+{
+  "num": "0426",
+  "name": {
+    "en": "Nendoroid Kaga (ねんどろいど かが)",
+    "ja": "ねんどろいど 加賀 (ねんどろいど かが)",
+    "ko": "카가"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4416,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-K1UOE7WRjqc/X4NNt-Qt-hI/AAAAAAABloI/cQ5TswL_olo3l7KmOkFr1kVk24Y_HgIXwCLcBGAsYHQ/s270/426-Kaga-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-K1UOE7WRjqc/X4NNt-Qt-hI/AAAAAAABloI/cQ5TswL_olo3l7KmOkFr1kVk24Y_HgIXwCLcBGAsYHQ/s270/426-Kaga-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YZl9sI79Fi4/X4ddwZbVIaI/AAAAAAAAreo/XJQYid5Ikkob9ES8qMeqOZPv1GzwBw8ewCLcBGAsYHQ/s135/426-Kaga-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-O2as9Pa1j5k/X4ddwtL974I/AAAAAAAAres/gFbnyVHRmsgY_8hoZOoTCFv4BXEm6wY-QCLcBGAsYHQ/s135/426-Kaga-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-J40q5uDsfzk/X4ddw5zzZiI/AAAAAAAArew/mHQsnFrF8KIRLXFz2sdL0ixNBWsXLcndwCLcBGAsYHQ/s135/426-Kaga-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rhNe9Pst8sI/X4ddxEGNI6I/AAAAAAAAre0/9lUM9PDiCfAbJn1rtfeIJcgYjlIct_IpwCLcBGAsYHQ/s135/426-Kaga-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--CB1NRpQd0g/X4ddxECjroI/AAAAAAAAre4/h4rPyN7EQF84afGDoSc5JTqwDE0J9QJwQCLcBGAsYHQ/s135/426-Kaga-Kantai-Collection-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n426/",
+      "fetched_at": "2026-05-16T19:10:34.522Z",
+      "raw_id": "/nendoroid/details/n426/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.376Z",
+      "raw_id": "Nendoroid/0400-0499/426.json"
+    }
+  ]
+}

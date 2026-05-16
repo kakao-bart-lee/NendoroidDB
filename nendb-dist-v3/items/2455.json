@@ -1,0 +1,64 @@
+{
+  "num": "2455",
+  "name": {
+    "en": "Kurumi Tokisaki",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Date A Live",
+    "ja": null,
+    "ko": null,
+    "code": "date-a-live"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZsQTBhDKMSQ/Ziq_CB3pJII/AAAAAAABECk/RwkOsr0ap90MJY5m9Nd3qg6OG6JEhloJQCNcBGAsYHQ/s270/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZsQTBhDKMSQ/Ziq_CB3pJII/AAAAAAABECk/RwkOsr0ap90MJY5m9Nd3qg6OG6JEhloJQCNcBGAsYHQ/s270/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CI0rf8zMxoc/Zow4SRekamI/AAAAAAABFuM/h69g3h_dILwM_L2bd0_iTLUoov4xEsrIwCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C2yqN1JrASM/Zow4SZjyKSI/AAAAAAABFuI/_av1hUiBX4wrg78mkJQkTrSL9vbsou8ugCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Q6KaH52vVD4/Zow4Sop6Y9I/AAAAAAABFuQ/T4MnElrS9bIEooA24wM9xDIkDQavyn30gCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HfGV1njrHBE/Zow4TIG6H2I/AAAAAAABFuU/YPaXtPgzcKcYNTXapENQhal9YIFZYbruwCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-m_czs3SZxPs/Zow4TTMBAFI/AAAAAAABFuY/9Dxv-CQ4GXoAtCmwCKdu6NiSEyO7RlmYwCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Wr60SztoTrw/Zow4TmYUcXI/AAAAAAABFuc/WjE0aL-5E3QclKsci7pD0kIU02-KFLUAwCNcBGAsYHQ/s135/2455-Kurumi-Tokisaki-Date-A-Live-V-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2455/",
+      "fetched_at": "2026-05-16T19:10:34.069Z",
+      "raw_id": "/nendoroid/details/n2455/"
+    }
+  ]
+}

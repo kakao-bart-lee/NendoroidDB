@@ -1,0 +1,69 @@
+{
+  "num": "0583",
+  "name": {
+    "en": "Nendoroid Mako Reizei",
+    "ja": "ねんどろいど 冷泉麻子 (ねんどろいど れいぜいまこ)",
+    "ko": "레이제이 마코"
+  },
+  "series": {
+    "en": "GIRLS und PANZER",
+    "ja": "ガールズ＆パンツァー",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5321,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dYfPbeoizsg/X4NOqH4p7sI/AAAAAAABlyw/k9ahA-gMcsk9L7d977n2Ds4sJToUWMkqgCLcBGAsYHQ/s270/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dYfPbeoizsg/X4NOqH4p7sI/AAAAAAABlyw/k9ahA-gMcsk9L7d977n2Ds4sJToUWMkqgCLcBGAsYHQ/s270/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-M2fYREAWfLg/X4itafV8gYI/AAAAAAAAsXk/pId7A3h3S1kIrrNk3qM4DWkCTLGlW28FQCLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uk6Pxs2Olrw/X4itaiE-o2I/AAAAAAAAsXo/sY3OUmcQ30w1gNfcyFaGXweuNffBeJicQCLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ha7Ea188O5M/X4itar6tmNI/AAAAAAAAsXs/VtMyp4MnZ0IABdQuRo_cJH9cQlVOVy34QCLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ubSxoJmUIYc/X4itay_WSXI/AAAAAAAAsX0/QW8TH9rbYdMmpgfwh0OmVsQFHL_jHialgCLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0kJ14C3yCsA/X4ita6BRvNI/AAAAAAAAsXw/P108qXe94S8DVyrL2-SQPYjJ4cijELafACLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9-_tXhhbPHg/X4itbFrmIII/AAAAAAAAsX4/CpaovM1iHpctJsP6VCGJWTc6C1FW13--QCLcBGAsYHQ/s135/583-Mako-Reizei-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n583/",
+      "fetched_at": "2026-05-16T19:10:34.663Z",
+      "raw_id": "/nendoroid/details/n583/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.454Z",
+      "raw_id": "Nendoroid/0500-0599/583.json"
+    }
+  ]
+}

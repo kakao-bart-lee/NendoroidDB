@@ -1,0 +1,55 @@
+{
+  "num": "993-DX",
+  "name": {
+    "en": "Nendoroid Hunter: Female Rathalos Armor Edition - DX Ver.",
+    "ja": "ねんどろいど ハンター♀ レウス・エディション DX Ver. (ねんどろいど はんたー♀ れうす・えでぃしょん DX Ver.)",
+    "ko": "헌터♀ 레우스 에디션 DX Ver."
+  },
+  "series": {
+    "en": "MONSTER HUNTER: WORLD",
+    "ja": "モンスターハンター：ワールド",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7638,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7589,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180904/7589/54313/large/6a6230f6f053fa26bb529cc26cf302fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.559Z",
+      "raw_id": "Nendoroid/0900-0999/993-DX.json"
+    }
+  ]
+}

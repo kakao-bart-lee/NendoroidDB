@@ -1,0 +1,68 @@
+{
+  "num": "0575",
+  "name": {
+    "en": "Nendoroid Saitama",
+    "ja": "ねんどろいど サイタマ (ねんどろいど さいたま)",
+    "ko": "사이타마"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5303,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uIIyTpzH0LA/X4NOn_ZnitI/AAAAAAABlyM/KwwX0ChycjApbxKvabjQDtK39I0dBQmCwCLcBGAsYHQ/s270/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uIIyTpzH0LA/X4NOn_ZnitI/AAAAAAABlyM/KwwX0ChycjApbxKvabjQDtK39I0dBQmCwCLcBGAsYHQ/s270/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-z2asVPF-6b8/X4itOorLCyI/AAAAAAAAsUk/s0JAziLvpBM6QG2uM3NLeLTAWyP67z6FgCLcBGAsYHQ/s135/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yfn7c4cN8-w/X4itOhX9ffI/AAAAAAAAsUo/-nr5h--E0ckDz1NtCERPmTjWHVqXOiLxwCLcBGAsYHQ/s135/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uRYiwK0a5Uo/X4itOzYaDrI/AAAAAAAAsUs/81ePBviJPxs2AQKstK4NK_0KQ9LlS-pWwCLcBGAsYHQ/s135/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OmzVaEwqYpw/X4itPSiRCYI/AAAAAAAAsUw/otdBi-TQcVU7Nin1KAzCvJWO_nTO-KYpACLcBGAsYHQ/s135/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-N3uipmZqmSk/X4itPlS0CSI/AAAAAAAAsU0/liLXmHMW5CAQrkQuifxPtfHCzHGoK5TigCLcBGAsYHQ/s135/575-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n575/",
+      "fetched_at": "2026-05-16T19:10:34.617Z",
+      "raw_id": "/nendoroid/details/n575/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.450Z",
+      "raw_id": "Nendoroid/0500-0599/575.json"
+    }
+  ]
+}

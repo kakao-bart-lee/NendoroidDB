@@ -1,0 +1,70 @@
+{
+  "num": "0524",
+  "name": {
+    "en": "Nendoroid Umaru",
+    "ja": "ねんどろいど うまる (ねんどろいど うまる)",
+    "ko": "도마 우마루"
+  },
+  "series": {
+    "en": "Himouto! Umaru-chan",
+    "ja": "干物妹！うまるちゃん",
+    "ko": "건어물 여동생! 우마루짱",
+    "code": "himouto-umaru-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5013,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZVe-mIg5VUY/X4NOanrJiUI/AAAAAAABlu4/ZFEVLwZEngk8bmIFLBcS8QyenHcTJlrrgCLcBGAsYHQ/s270/524-Umaru-Himouto-Umaru-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZVe-mIg5VUY/X4NOanrJiUI/AAAAAAABlu4/ZFEVLwZEngk8bmIFLBcS8QyenHcTJlrrgCLcBGAsYHQ/s270/524-Umaru-Himouto-Umaru-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y0gZ2TlIevY/X4isH8Wa68I/AAAAAAAAsCc/a-zJLK-z6swJcCgnWNpSNB2_xvZtOK_6ACLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vYq7nUeSaps/X4isIBKuxTI/AAAAAAAAsCg/-S3pYEeWwjYuLXgzZlT1yLo-YClBuT2FACLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PawfFL96-eY/X4isIZV_NJI/AAAAAAAAsCk/cC7qqyQarxcSvOhvNJn4XQbVo5a8YjluACLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VYoW4OzO0CY/X4isIQpVOQI/AAAAAAAAsCo/4CrD4j79igsU3-Udeb-ighJJcDCVy74awCLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-um4DsvpGnAI/X4isIkVKTNI/AAAAAAAAsCs/FwZsa_tPfnAcCHgk4jLGtXwYOYbJJFU0QCLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1wWoB1Eda5I/X4isIwhtU-I/AAAAAAAAsCw/983Gh3aFGCMGtLe4btpdPk91hSExgeXPgCLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-fxOi4XXiKdY/X4isJP31qAI/AAAAAAAAsC0/gXuGciyQlHMWfY3VNevG6xTRkxim9hnjwCLcBGAsYHQ/s135/524-Umaru-Himouto-Umaru-chan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n524/",
+      "fetched_at": "2026-05-16T19:10:34.577Z",
+      "raw_id": "/nendoroid/details/n524/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.425Z",
+      "raw_id": "Nendoroid/0500-0599/524.json"
+    }
+  ]
+}

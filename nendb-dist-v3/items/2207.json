@@ -1,0 +1,68 @@
+{
+  "num": "2207",
+  "name": {
+    "en": "Nendoroid Klein Moretti",
+    "ja": "ねんどろいど Klein Moretti (ねんどろいど くれいん・もれってぃ)",
+    "ko": "Klein Moretti"
+  },
+  "series": {
+    "en": "Lord of the Mysteries",
+    "ja": "Lord of the Mysteries",
+    "ko": "Lord of the Mysteries",
+    "code": "lord-of-the-mysteries"
+  },
+  "category": "more",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14611,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-o--jYKOer_Y/ZM6yv0JSZZI/AAAAAAABA9A/AuE2Gy3vaiIzXVKx1_Dw3k7l_x92Ke7EwCNcBGAsYHQ/s270/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-o--jYKOer_Y/ZM6yv0JSZZI/AAAAAAABA9A/AuE2Gy3vaiIzXVKx1_Dw3k7l_x92Ke7EwCNcBGAsYHQ/s270/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-J_bSlfL--SA/ZNAWKBYtHwI/AAAAAAABBEU/fofdCKmM3LwWFnLSCsptNMLRlt5t1Cm9gCNcBGAsYHQ/s135/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TPA_bq8Bp_s/ZNAWKplvKZI/AAAAAAABBEY/lNgDH2HHsVk-oyCSXQreeYe7hE33-YkXgCNcBGAsYHQ/s135/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gzShcWfji6o/ZNAWK4IAFhI/AAAAAAABBEc/SbsIaH95rLwugZkFjbIdx7puXlaM0CD3QCNcBGAsYHQ/s135/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iypxi6mJftA/ZNAWLLSBEnI/AAAAAAABBEg/EhF4JdEF8pUSRfWGLBB8HEztRD_M8DCcACNcBGAsYHQ/s135/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rPJ7LS-dsdY/ZNAWLlYqFcI/AAAAAAABBEk/vRGxGkATkXsDxlkUgot8LOvW3aMKTFaKQCNcBGAsYHQ/s135/2207-Klein-Moretti-Lord-of-the-Mysteries-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2207/",
+      "fetched_at": "2026-05-16T19:10:33.912Z",
+      "raw_id": "/nendoroid/details/n2207/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.855Z",
+      "raw_id": "Nendoroid/2200-2299/2207.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1820",
+  "name": {
+    "en": "Nendoroid Zero Two: Childhood Ver.",
+    "ja": "ねんどろいど ゼロツー幼少期Ver. (ねんどろいど ぜろつーようしょうきVer.)",
+    "ko": "제로투 : 어린시절 Ver."
+  },
+  "series": {
+    "en": "DARLING in the FRANXX",
+    "ja": "ダーリン・イン・ザ・フランキス",
+    "ko": "달링 인 더 프랑키스",
+    "code": "darling-in-the-franxx"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12332,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n8mnH6TiaKk/YhAE6BOa-sI/AAAAAAAA3l4/AR43ZxQUiaAeFEVQJKW_Uqa0Xa4G3D4CgCNcBGAsYHQ/s270/1820-Zero-Two-DARLING-in-the-FRANXX-Childhood-Ver.-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n8mnH6TiaKk/YhAE6BOa-sI/AAAAAAAA3l4/AR43ZxQUiaAeFEVQJKW_Uqa0Xa4G3D4CgCNcBGAsYHQ/s270/1820-Zero-Two-DARLING-in-the-FRANXX-Childhood-Ver.-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RhrvWZBcnTo/YhAMcQ8BGCI/AAAAAAAA3x8/c2XuaG8YqccNau_jZS4HVemQFT9HykqjQCNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eIwAJDH98rw/YhAMckHkE3I/AAAAAAAA3yA/nQv0ggH0GjwBFXVRgARvSN7AJd6VPC90wCNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TGe_vadqOs0/YhAMdNm5SJI/AAAAAAAA3yE/9ekzL_DpEvo7NAdwWx_gTMcjRC22vjQVwCNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_Us8f2Jg0PM/YhAMdcUFgxI/AAAAAAAA3yI/bGFw9dOyREEQXFvpOl7xWc1T-Pij6KeuACNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Mk_Qh7Yxf44/YhAMdo4oHII/AAAAAAAA3yM/8ZJZQjkIOq8e0A2ff4pkvzRhV-05xSoYACNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zzwkdzpfKKI/YhAMd-N-60I/AAAAAAAA3yQ/LQ1U20P5Zmom1-CLVT7lYQgl1lAjJWjfACNcBGAsYHQ/s135/1820-Zero-Two-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1820/",
+      "fetched_at": "2026-05-16T19:10:33.667Z",
+      "raw_id": "/nendoroid/details/n1820/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.759Z",
+      "raw_id": "Nendoroid/1800-1899/1820.json"
+    }
+  ]
+}

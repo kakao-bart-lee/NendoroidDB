@@ -1,0 +1,68 @@
+{
+  "num": "0124",
+  "name": {
+    "en": "Nendoroid Haruhi Suzumiya: Disappearance ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
+    "ja": "ねんどろいど 涼宮ハルヒ 消失Ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
+    "ko": "스즈미야 하루히 소실Ver."
+  },
+  "series": {
+    "en": "The Disappearance of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの消失",
+    "ko": "스즈미야 하루히의 소실",
+    "code": "the-disappearance-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2937,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4WznFus7QaU/X4NJ0sEeZnI/AAAAAAABlPU/p0pKOgKRuCcJn5mlqC5zV5oWnDV2K_FAQCLcBGAsYHQ/s270/124-Haruhi-Suzumiya-Disappearance-Ver-The-Melancholy-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4WznFus7QaU/X4NJ0sEeZnI/AAAAAAABlPU/p0pKOgKRuCcJn5mlqC5zV5oWnDV2K_FAQCLcBGAsYHQ/s270/124-Haruhi-Suzumiya-Disappearance-Ver-The-Melancholy-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aHr68Kini-w/X4dSWydMBbI/AAAAAAAAp0Q/Jsqg2EOJ6S4zR_9AT_5nfBaOq-8zx__wgCLcBGAsYHQ/s135/124-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zaULCF2_PAU/X4dSXGs62vI/AAAAAAAAp0U/6xqRDZoTO3EVBOyMfII-mzLQgRJeaxxKACLcBGAsYHQ/s135/124-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-khYWcX1imT8/X4dSXs4UrDI/AAAAAAAAp0Y/JGr8MzM-Re0h7UxWoa1qFGUjuAkn2eujgCLcBGAsYHQ/s135/124-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7wA2Vj5urWM/X4dSX3mavrI/AAAAAAAAp0c/6OWiq3_kZ4UvpugSuq6_UT155KZvaGQwwCLcBGAsYHQ/s135/124-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BiqX9fOW92s/X4dSX40FlaI/AAAAAAAAp0g/HQPYTwjWUXQJ99Fa1UEmvBpvd_OJvLOSgCLcBGAsYHQ/s135/124-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n124/",
+      "fetched_at": "2026-05-16T19:10:33.312Z",
+      "raw_id": "/nendoroid/details/n124/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.294Z",
+      "raw_id": "Nendoroid/0100-0199/124.json"
+    }
+  ]
+}

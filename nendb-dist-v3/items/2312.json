@@ -1,0 +1,63 @@
+{
+  "num": "2312",
+  "name": {
+    "en": "Izuku Midoriya",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": null,
+    "ko": null,
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CeRvdws1YxE/ZWZfqZ1XzSI/AAAAAAABCcg/7b1oh6fB0-0teWTnc0TreAPz61CGP8eUwCNcBGAsYHQ/s270/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CeRvdws1YxE/ZWZfqZ1XzSI/AAAAAAABCcg/7b1oh6fB0-0teWTnc0TreAPz61CGP8eUwCNcBGAsYHQ/s270/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-69eHkeGDKfc/ZWZpGOhTgCI/AAAAAAABCm0/FgeGQ4ypUBkElreqxmn6vCnmSgM715xigCNcBGAsYHQ/s135/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KDuWuiTv50Q/ZWZpGeiv10I/AAAAAAABCm8/f1kMIkuNMXUX8fvgln9pS91A2XeoZZhEgCNcBGAsYHQ/s135/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FMaHXC8IKak/ZWZpGv4fAXI/AAAAAAABCnA/GN2fZT2d0Dk_RKPX7VpDwDOrhRdsfII0ACNcBGAsYHQ/s135/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kTyjaVLaQHE/ZWZpHIpq2nI/AAAAAAABCnI/dJ3SjAQD6FAFG1CL8B975DHAaUpjuj2IACNcBGAsYHQ/s135/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6NeMtSBZN04/ZWZpHR7S07I/AAAAAAABCnE/A2khZcdeKQAKESM5LB6n2dZ_Ppyf7n78QCNcBGAsYHQ/s135/2312-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2312/",
+      "fetched_at": "2026-05-16T19:10:33.980Z",
+      "raw_id": "/nendoroid/details/n2312/"
+    }
+  ]
+}

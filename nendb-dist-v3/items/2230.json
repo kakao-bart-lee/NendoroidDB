@@ -1,0 +1,64 @@
+{
+  "num": "2230",
+  "name": {
+    "en": "Aki Rosenthal",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_qmMjfGXsxM/ZSHUnFk0e4I/AAAAAAABCAA/V9-U66EMTNIb_GpCrGy8WaSlolhIJCRygCNcBGAsYHQ/s270/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_qmMjfGXsxM/ZSHUnFk0e4I/AAAAAAABCAA/V9-U66EMTNIb_GpCrGy8WaSlolhIJCRygCNcBGAsYHQ/s270/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cJJblG5zbtc/ZSHVYtstU0I/AAAAAAABCBA/6MC8p8vn_YkncPNA4mCZubsls_Sty9JlwCNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KD3K6BVWrDA/ZSHVY55HHYI/AAAAAAABCBE/EbxQO4MYJuEVhaMukVXY_13t8LA5_-GgACNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--77_Yno22Os/ZSHVY9QTSVI/AAAAAAABCBI/HmrARrdK8zcPYDYRP0ZPouXmOAIKztFkQCNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2fEqrR9olJM/ZSHVZ6ojkeI/AAAAAAABCBM/TLTCdGTvFbgK9vnowmfnQxPenoGe7xAjQCNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EGjpPemuWRU/ZSHVaD8b77I/AAAAAAABCBQ/4tAcQkG7J50lXLFhpKJlD0mcThxEB-0KQCNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WUJKZjU3AiI/ZSHVaRK2xLI/AAAAAAABCBY/Fh_G_lpBnxAZq6K5MLuv8JawiWhlrwRzACNcBGAsYHQ/s135/2230-Aki-Rosenthal-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2230/",
+      "fetched_at": "2026-05-16T19:10:33.932Z",
+      "raw_id": "/nendoroid/details/n2230/"
+    }
+  ]
+}

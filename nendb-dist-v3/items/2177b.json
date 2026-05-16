@@ -1,0 +1,72 @@
+{
+  "num": "2177b",
+  "name": {
+    "en": "Nendoroid Master Chief: Stealth Ops Ver.",
+    "ja": "ねんどろいど マスターチーフ ステルスオプス Ver. (ねんどろいど ますたーちーふ すてるすおぷす Ver.)",
+    "ko": "마스터 치프 스텔스 옵스 ver."
+  },
+  "series": {
+    "en": "Halo Infinite",
+    "ja": "Halo Infinite",
+    "ko": "헤일로 인피니트",
+    "code": "halo-infinite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7999,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14444,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4NdoPUqZ-e0/ZIzT8VxXCrI/AAAAAAAA-QY/WMGR1qnsCUQKEtbNmUiXuB1OPq8tF2U2gCNcBGAsYHQ/s270/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4NdoPUqZ-e0/ZIzT8VxXCrI/AAAAAAAA-QY/WMGR1qnsCUQKEtbNmUiXuB1OPq8tF2U2gCNcBGAsYHQ/s270/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8w_mG_lZI9U/ZIzWTIP9EQI/AAAAAAAA-aI/-TqjV8jNHwUzPtacPfi0uUG-Mmc-QaPnACNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JMdkHAkKZNM/ZIzWTQauntI/AAAAAAAA-aM/MnX3k6CbLCk6R48M5EnYbjXilAtCr2PBQCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CR4XQC9LJh4/ZIzWT9YFLzI/AAAAAAAA-aQ/x26etaby3-EzgbGxA1Qj88nH-lqhzbZDQCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_dngTLj3wyY/ZIzWURkCKTI/AAAAAAAA-aU/ZeskUCaPxO0rSr445-l5AgliO0uDM-LOQCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6VKbQSfOEYs/ZIzWU21nZ_I/AAAAAAAA-aY/uKELWro41ucU9hd8C8ZdpN4S-eL2VK_kACNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gknw1qrzVyA/ZIzWVR5e_HI/AAAAAAAA-ac/iqQplvWeySYlJEJm8ETILP9-olRpXzt2gCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-XW7cWrfV5p0/ZIzWWIbnL7I/AAAAAAAA-ag/vtGi5YdQNV8se0H5C_rLcrQUkAH7ka4aACNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-g_b9dbF3I2w/ZIzWSbGafbI/AAAAAAAA-aA/lKMo7saqq3Mkb-3URj-jgUyrBfjbFcvIgCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-SGSvLbQnjwo/ZIzWS5BwLgI/AAAAAAAA-aE/8IpcSVU91q0G3kaWN9iH5nbqlJaEQpcfgCNcBGAsYHQ/s135/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2177b/",
+      "fetched_at": "2026-05-16T19:10:33.884Z",
+      "raw_id": "/nendoroid/details/n2177b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.847Z",
+      "raw_id": "Nendoroid/2100-2199/2177b.json"
+    }
+  ]
+}

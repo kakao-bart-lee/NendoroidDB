@@ -1,0 +1,71 @@
+{
+  "num": "1342",
+  "name": {
+    "en": "Nendoroid JianXin Shen",
+    "ja": "ねんどろいど 沈剣心 (ねんどろいど ちんけんしん)",
+    "ko": "심검심"
+  },
+  "series": {
+    "en": "Jian Wang 3",
+    "ja": "剣網3",
+    "ko": "검망3 : 손끝강호",
+    "code": "jian-wang-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10492,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XUZgMedHYII/X9p0s3KJTFI/AAAAAAAAu_k/ZiSgDdXa85AQDZW2LIkd8d4TpsglgIYwQCLcBGAsYHQ/s270/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XUZgMedHYII/X9p0s3KJTFI/AAAAAAAAu_k/ZiSgDdXa85AQDZW2LIkd8d4TpsglgIYwQCLcBGAsYHQ/s270/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TxkmCVTRzdY/X9p5CSUJRTI/AAAAAAAAvA4/ZPnHxpcWw7s5nrN9fn9ZX4UKb2DrG1KpACLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_VZzbsz106c/X9p5Cfga23I/AAAAAAAAvA8/Sp_7f0UepGshaV91Lhys0VpXY5mWkxqnwCLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1mWsCO7T8uY/X9p5DKyqEYI/AAAAAAAAvBA/j91EVDJ0FQ4lOLkMmh0hSP-gRqDPWEhswCLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZbVqbX3zdZ4/X9p5DUHv1ZI/AAAAAAAAvBE/_6YOYUDU0E4TZgNxkTrhDcTThXQrd4SXwCLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-u7UsTmjsgGs/X9p5DgMU6xI/AAAAAAAAvBI/BBXthUuRqX0-2K8S-87T07uHH-r-nEpdgCLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JKK84deeeTc/X9p5D1xp2-I/AAAAAAAAvBM/j4mlqWoS7gEOF3ee-jhxtw6GRFF9NPgWACLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-WnpynLLhgyY/X9p5EaWyvQI/AAAAAAAAvBQ/LSH3eMqcf6YXjyQ5TlMqDgrJxlSp186EQCLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-4WN7ijeW6RY/X9p5CUlSxkI/AAAAAAAAvA0/Vr0ZNDWnw0M7PKCSJN3gTltKYE5ALoLaACLcBGAsYHQ/s135/1342-JianXin-Shen-Jian-Wang-3-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1342/",
+      "fetched_at": "2026-05-16T19:10:33.371Z",
+      "raw_id": "/nendoroid/details/n1342/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.643Z",
+      "raw_id": "Nendoroid/1300-1399/1342.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0347",
+  "name": {
+    "en": "Nendoroid Miyuki Takano (ねんどろいど たかのみゆき)",
+    "ja": "ねんどろいど 鷹野みゆき (ねんどろいど たかのみゆき)",
+    "ko": "타카노 미유키"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3982,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vFIfZWQxXDs/X4NM0xv0AdI/AAAAAAABlic/-pvHLL9UCuUhlDkbuT8zKiLX9CIDjobbACLcBGAsYHQ/s270/347-Miyuki-Takano-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vFIfZWQxXDs/X4NM0xv0AdI/AAAAAAABlic/-pvHLL9UCuUhlDkbuT8zKiLX9CIDjobbACLcBGAsYHQ/s270/347-Miyuki-Takano-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1ppe2hSzAHw/X4day3tVOXI/AAAAAAAArCg/2tBAVZvzi8QSTcMQguG9oSWz7P29B3sWACLcBGAsYHQ/s135/347-Miyuki-Takano-Tetsudou-Musume-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ySpVmQ6HT8o/X4dazFzVV2I/AAAAAAAArCk/t_sf_Yh8nQ4E0aGqbg1slxoY__OX4gdZwCLcBGAsYHQ/s135/347-Miyuki-Takano-Tetsudou-Musume-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ns0FTaX_0l0/X4dazdjqqAI/AAAAAAAArCo/fjpQPcIe5NYzsfbcURFhmBi08oXJdaweACLcBGAsYHQ/s135/347-Miyuki-Takano-Tetsudou-Musume-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sNiJTEFLMig/X4dazdDsEDI/AAAAAAAArCs/WlKPxWazLXggXTrDrKOAv3IUTmEYI3knQCLcBGAsYHQ/s135/347-Miyuki-Takano-Tetsudou-Musume-Video-Game-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n347/",
+      "fetched_at": "2026-05-16T19:10:34.475Z",
+      "raw_id": "/nendoroid/details/n347/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.358Z",
+      "raw_id": "Nendoroid/0300-0399/347.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0945a",
+  "name": {
+    "en": "Nendoroid Ryunosuke Tanaka",
+    "ja": "ねんどろいど 田中龍之介 (ねんどろいど たなかりゅうのすけ)",
+    "ko": "다나카 류노스케"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7312,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-H2ajE1J71UY/X4NeorNy4JI/AAAAAAABmMk/G36cVfsi41Qn9Ntv7YDqgXjGSSyTJ20IACLcBGAsYHQ/s270/945-Ryunosuke-Tanaka-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-H2ajE1J71UY/X4NeorNy4JI/AAAAAAABmMk/G36cVfsi41Qn9Ntv7YDqgXjGSSyTJ20IACLcBGAsYHQ/s270/945-Ryunosuke-Tanaka-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wITCqg4YJas/X4roWVJcm2I/AAAAAAABn4c/UruOdK2S8DME35BefGXGNXMjBA0SJnSxgCLcBGAsYHQ/s135/945A-Ryunosuke-Tanaka-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9BpTStd3Syc/X4roWjnyVfI/AAAAAAABn4g/XK_c2-w50Ok8COIgRyZrs5prHdA9pkXcwCLcBGAsYHQ/s135/945A-Ryunosuke-Tanaka-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RP1GuPiqZjc/X4roW8qQJtI/AAAAAAABn4k/enCizRXYsBEKCQDvqtBfoDZqkjUJAtAlwCLcBGAsYHQ/s135/945A-Ryunosuke-Tanaka-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iHzGp5YTO0c/X4roXDupY9I/AAAAAAABn4o/ixvgrO9c7ew_TzjfSfDPeGv9zzEf_qSQwCLcBGAsYHQ/s135/945A-Ryunosuke-Tanaka-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-o9k_mthqNwo/X4roXSCj43I/AAAAAAABn4s/cbeN81TQfcQhvB_TrSuVzBFnMnHbiTr-wCLcBGAsYHQ/s135/945A-Ryunosuke-Tanaka-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n945a/",
+      "fetched_at": "2026-05-16T19:10:34.887Z",
+      "raw_id": "/nendoroid/details/n945a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.545Z",
+      "raw_id": "Nendoroid/0900-0999/945a.json"
+    }
+  ]
+}

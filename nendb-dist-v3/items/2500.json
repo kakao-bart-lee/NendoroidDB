@@ -1,0 +1,93 @@
+{
+  "num": "2500",
+  "name": {
+    "en": "Ippo Makunouchi",
+    "ja": "ねんどろいど 幕之内一歩",
+    "ko": null
+  },
+  "series": {
+    "en": "Hajime No Ippo",
+    "ja": "はじめの一歩",
+    "ko": null,
+    "code": "hajime-no-ippo"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580590198142",
+  "gsc_product_id": "36072",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/36072",
+    "ja": "https://www.goodsmile.com/ja/product/36072"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36072/GVqeA65iE2YxSBrnM0LRvWUfJyDQc4ja.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mrt88bBMnso/ZnsofbWAN3I/AAAAAAABE30/17c3xMEEKM4-CZburni3kV3Jsiz7FjYpwCNcBGAsYHQ/s270/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KFcut292zvA/Zow65qbh12I/AAAAAAABGBM/Ns_UtkFepzk_lQH-XyUe-Usk7dR6dD6rQCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OH0lHVCa4hM/Zow66FqGPkI/AAAAAAABGBQ/doq6hxJarjcQtFRbuv-HgxAiWozzZoxNgCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JrsvoXXFzGg/Zow66mjSwGI/AAAAAAABGBU/I5sdz6d5b7QlF2orqwzJJqLXg9cxW4cZACNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2GFT8JgT-7o/Zow67LWrAgI/AAAAAAABGBY/Z84K2G5IBvw7eahdjamcFQk8jWXzS3BPACNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2jAfag_vwbk/Zow67um0wbI/AAAAAAABGBc/JLmSbuy-uMEuOGvv-YsPfR5qmIxGCoowQCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-TjJH0i6TtrM/Zow68I9CrVI/AAAAAAABGBg/BS-54PRpijEUQG7h7j-CqVaVsgGfEAFygCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Y4jKgAwiN7E/Zow68ojYqNI/AAAAAAABGBk/yCU6tXhCFj0ZiyL3otYsXQoAV_mF4bL5wCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-bvSqIN3ZDTg/Zow64-aXGbI/AAAAAAABGBI/fzMlyB9qgjU2VXejbkNhLsfEgkd9MvjsQCNcBGAsYHQ/s135/2500-Ippo-Makunouchi-Hajime-no-Ippo-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36072/63M0vTR8GNAX5sY97cbnFkZ21utUKDpS.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36072/GVqeA65iE2YxSBrnM0LRvWUfJyDQc4ja.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/36072",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:52.988Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/36072",
+      "fetched_at": "2026-05-16T11:51:52.988Z",
+      "raw_id": "36072"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/36072",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "36072"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2500/",
+      "fetched_at": "2026-05-16T19:10:34.098Z",
+      "raw_id": "/nendoroid/details/n2500/"
+    }
+  ]
+}

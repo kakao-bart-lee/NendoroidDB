@@ -1,0 +1,55 @@
+{
+  "num": "2028-DX",
+  "name": {
+    "en": "Nendoroid Cerberus (Triple Set)",
+    "ja": "ねんどろいど ケルベロス Triple Set (ねんどろいど けるべろす とりぷる せっと )",
+    "ko": "케르베로스 (트리플 세트)"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 23000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13717,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221219/13717/109088/large/148bb108b0ba6ae64e53fea6bbb68734.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.809Z",
+      "raw_id": "Nendoroid/2000-2099/2028-DX.json"
+    }
+  ]
+}

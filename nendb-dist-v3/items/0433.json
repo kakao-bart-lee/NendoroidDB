@@ -1,0 +1,68 @@
+{
+  "num": "0433",
+  "name": {
+    "en": "Nendoroid Jeanne Kaguya d'Arc (ねんどろいど じゃんぬ・かぐや・だるく)",
+    "ja": "ねんどろいど ジャンヌ・カグヤ・ダルク (ねんどろいど じゃんぬ・かぐや・だるく)",
+    "ko": "잔 카구야 다르크"
+  },
+  "series": {
+    "en": "Nobunaga the Fool",
+    "ja": "ノブナガ・ザ・フール",
+    "ko": "노부나가 더 풀",
+    "code": "nobunaga-the-fool"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4464,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wh3lBbtz0t4/X4NNvq2LOpI/AAAAAAABlok/9YaELRE8rcwoY5WTHQi6Vjc3JTiKP1qzwCLcBGAsYHQ/s270/433-Jeanne-Kaguya-D-Arc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wh3lBbtz0t4/X4NNvq2LOpI/AAAAAAABlok/9YaELRE8rcwoY5WTHQi6Vjc3JTiKP1qzwCLcBGAsYHQ/s270/433-Jeanne-Kaguya-D-Arc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OER7Rr_OvhQ/X4dd8H9j_5I/AAAAAAAArg4/BlmY68Z_EB0p6zoeKFo4Mk4RroHjWXQbwCLcBGAsYHQ/s135/433-Jeanne-Kaguya-dArc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RyD5kqFMRIY/X4dd8Pyb8UI/AAAAAAAArg8/sXNJDPcF2qYVS7Zww1bGAXPNc-MnjKXywCLcBGAsYHQ/s135/433-Jeanne-Kaguya-dArc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vVEHCSS6ptg/X4dd8iTlHfI/AAAAAAAArhA/3oWq0KXkr_MMwLkMUhUQPcJTsWaU0Ll9wCLcBGAsYHQ/s135/433-Jeanne-Kaguya-dArc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4PBSBjXaH3o/X4dd9IK3XPI/AAAAAAAArhE/dAMNQjgZ8Vw1HVKPdaeeImhSRRdP8GVKACLcBGAsYHQ/s135/433-Jeanne-Kaguya-dArc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zz9lAg4hwlg/X4dd9gwdzZI/AAAAAAAArhI/-T7WLlAQJ7UEirXj1vIsk1pLom58N-oYgCLcBGAsYHQ/s135/433-Jeanne-Kaguya-dArc-Nobunaga-the-Fool-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n433/",
+      "fetched_at": "2026-05-16T19:10:34.526Z",
+      "raw_id": "/nendoroid/details/n433/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.378Z",
+      "raw_id": "Nendoroid/0400-0499/433.json"
+    }
+  ]
+}

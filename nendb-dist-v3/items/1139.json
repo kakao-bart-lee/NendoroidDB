@@ -1,0 +1,68 @@
+{
+  "num": "1139",
+  "name": {
+    "en": "Nendoroid Aya Maruyama: Stage Outfit Ver.",
+    "ja": "ねんどろいど 丸山彩 ステージ衣装Ver. (ねんどろいど まるやまあや すてーじいしょうVer.)",
+    "ko": "마루야마 아야 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8362,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aaT-E_aJUeg/X4Ngb63PS1I/AAAAAAABma8/wPwvYWD4QB4WKYKJPfMWZE6M_R_mqWFEgCLcBGAsYHQ/s270/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aaT-E_aJUeg/X4Ngb63PS1I/AAAAAAABma8/wPwvYWD4QB4WKYKJPfMWZE6M_R_mqWFEgCLcBGAsYHQ/s270/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-izv6MagVvco/X4rwSqkRkII/AAAAAAABpJQ/sQ4SXhQw-HEqS0jSLfdCz0nCYXKadT1nACLcBGAsYHQ/s135/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bJtEi-S_DAc/X4rwS3OiiNI/AAAAAAABpJU/AYg3xSIw26swvQ_hj3ksLvEJxAlv0UQhACLcBGAsYHQ/s135/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-e3MiAJyT8Bs/X4rwTD5tfuI/AAAAAAABpJY/kxsvue4FAHEvEyRwgojvEIEdUHOFMeJwQCLcBGAsYHQ/s135/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-60W7zWKrvHk/X4rwTSlU_vI/AAAAAAABpJc/uRB9LNvC4fshQJSAM_hSGLjq8Q_zcA0WgCLcBGAsYHQ/s135/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-azHqLykNALo/X4rwTx_PLKI/AAAAAAABpJg/KP2Jfo6IwwAnvFT9zn0HVIu038prMDL4wCLcBGAsYHQ/s135/1139-Aya-Maruyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1139/",
+      "fetched_at": "2026-05-16T19:10:33.244Z",
+      "raw_id": "/nendoroid/details/n1139/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.594Z",
+      "raw_id": "Nendoroid/1100-1199/1139.json"
+    }
+  ]
+}

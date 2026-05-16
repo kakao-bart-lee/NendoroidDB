@@ -1,0 +1,95 @@
+{
+  "num": "0600b",
+  "name": {
+    "en": "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver.",
+    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
+    "ko": "세이버/알트리아 펜드래곤 진명 개방 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": "4571697187771",
+  "gsc_product_id": "5330",
+  "gsc_product_num": 7614,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/5330",
+    "ja": "https://www.goodsmile.com/ja/product/5330"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180914/7614/54507/large/7a5afb935e08740c466d7bc12fc4d3e1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6W1YaJ8hdBo/X4NOv4BiPuI/AAAAAAABlz0/f0q8rnhVmsAht-R0rdG1DjdciepJQScgQCLcBGAsYHQ/s270/600b-Altria-Pendragon-True-Name-Revealed-Ver-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VdBaC20oeSc/X4itvwgxpuI/AAAAAAAAsdk/kx2wnv4g0nQZ27VAikE4VzLcLPAeRXVHgCLcBGAsYHQ/s135/600B-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ato0z0NY7e8/X4itv31fDiI/AAAAAAAAsdo/a9q4mYh_gQUcLcaN48DALMcKaLThXcKhgCLcBGAsYHQ/s135/600B-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kUP1KPiA7s0/X4itwDPv75I/AAAAAAAAsds/15yrkU3KydcjoHmpn3mbM4dicHg4QlUvQCLcBGAsYHQ/s135/600B-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QYlsv7Aqn70/X4itwELcR1I/AAAAAAAAsdw/4N84L865hHsl4xpNgJfKnW_pP_DP76LBACLcBGAsYHQ/s135/600B-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kkPhVtD6rzs/X4itwSB0-eI/AAAAAAAAsd0/KKdsiOAV9E87SQx1CI_tlQy7mPDUstHHQCLcBGAsYHQ/s135/600B-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180914/7614/54513/large/c9699ee7ef8e99cf8beec35d23675661.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180914/7614/54507/large/7a5afb935e08740c466d7bc12fc4d3e1.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5330",
+      "price_local": 6700,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:55:02.196Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5330",
+      "fetched_at": "2026-05-16T11:55:02.196Z",
+      "raw_id": "5330"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/5330",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "5330"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n600b/",
+      "fetched_at": "2026-05-16T19:10:34.681Z",
+      "raw_id": "/nendoroid/details/n600b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.459Z",
+      "raw_id": "Nendoroid/0600-0699/600b.json"
+    }
+  ]
+}

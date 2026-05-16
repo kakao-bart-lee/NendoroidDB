@@ -1,0 +1,68 @@
+{
+  "num": "0919",
+  "name": {
+    "en": "Nendoroid Fennec",
+    "ja": "ねんどろいど フェネック (ねんどろいど ふぇねっく)",
+    "ko": "페넥"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7229,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0gOIzo9zueY/X4NehUUfVpI/AAAAAAABmK0/1M-1UpOTfak1Si3MYPXU1QhXK-DRCGTSgCLcBGAsYHQ/s270/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0gOIzo9zueY/X4NehUUfVpI/AAAAAAABmK0/1M-1UpOTfak1Si3MYPXU1QhXK-DRCGTSgCLcBGAsYHQ/s270/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6eHsnc2ysdE/X4rns9RpSbI/AAAAAAABnuQ/vnZCIMUqAQMXTP3ouOAbBrcYYpnb3t-YwCLcBGAsYHQ/s135/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pOReRTixi1I/X4rntFYisCI/AAAAAAABnuU/6Zle1UQX1d4t3DkJ8J8N4WzjMZMQ-0bYwCLcBGAsYHQ/s135/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-G-UPtOvXLW0/X4rntaEZ9_I/AAAAAAABnuY/glXhnBjJw_A_v6oviJ85-6QBJr2LEK22wCLcBGAsYHQ/s135/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G8RQ7iSI7Hg/X4rnts31WJI/AAAAAAABnuc/XpoHfSK85_MMbnca3iMFKhFa6EAhUfpogCLcBGAsYHQ/s135/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EaR5WnBwRRQ/X4rnt6fprQI/AAAAAAABnug/0a8Yr0wY1iYyBjC_aNG1tSbgT4zwbOiQwCLcBGAsYHQ/s135/919-Fennec-Kemono-Friends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n919/",
+      "fetched_at": "2026-05-16T19:10:34.873Z",
+      "raw_id": "/nendoroid/details/n919/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.538Z",
+      "raw_id": "Nendoroid/0900-0999/919.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "1695",
+  "name": {
+    "en": "Nendoroid The Joker: 1989 Ver.",
+    "ja": "ねんどろいど ジョーカー 1989 Ver. (ねんどろいど じょーかー 1989 Ver.)",
+    "ko": "조커 1989 ver."
+  },
+  "series": {
+    "en": "Batman",
+    "ja": "バットマン",
+    "ko": "배트맨",
+    "code": "batman"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11649,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X2l-mc-Pwdo/YS6JyCh1egI/AAAAAAAAz-M/ZrNo0me2aqkUVnTfmyjGXlma4fQJMECAACLcBGAsYHQ/s270/1695-The-Joker-1989-Batman-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X2l-mc-Pwdo/YS6JyCh1egI/AAAAAAAAz-M/ZrNo0me2aqkUVnTfmyjGXlma4fQJMECAACLcBGAsYHQ/s270/1695-The-Joker-1989-Batman-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eQ3F4tB2IaA/YS6NAc63YNI/AAAAAAAA0Mo/I8rwdnLFgDsj1zSOBM23ucX2S8U9ouxvgCLcBGAsYHQ/s135/1695-The-Joker-Batman-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-i2ru7zGYTWQ/YS6NAkd22iI/AAAAAAAA0Ms/1KAej3D1xzY5EkI_MbngIQw_Jz8k60A4gCLcBGAsYHQ/s135/1695-The-Joker-Batman-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3BqdlOt9r2I/YS6NA_u-xzI/AAAAAAAA0M0/Dt9iQKrl2Jswp3wT278Z0vE7nwGMSlZHACLcBGAsYHQ/s135/1695-The-Joker-Batman-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KqKtCBzjmJE/YS6NBEJBXkI/AAAAAAAA0M4/TtCz0c_TBys0ZbmhwgqX_sivaur1FC4ngCLcBGAsYHQ/s135/1695-The-Joker-Batman-DC-Comics-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1695/",
+      "fetched_at": "2026-05-16T19:10:33.590Z",
+      "raw_id": "/nendoroid/details/n1695/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.729Z",
+      "raw_id": "Nendoroid/1600-1699/1695.json"
+    }
+  ]
+}

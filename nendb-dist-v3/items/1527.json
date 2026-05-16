@@ -1,0 +1,68 @@
+{
+  "num": "1527",
+  "name": {
+    "en": "Nendoroid NieR Replicant ver. 1.22474487139... Nier",
+    "ja": "ねんどろいど NieR Replicant ver.1.22474487139... ニーア (ねんどろいど にーあ れぷりかんと ver.1.22474487139... にーあ)",
+    "ko": "니어"
+  },
+  "series": {
+    "en": "NieR Replicant ver. 1.22474487139...",
+    "ja": "NieR Replicant ver.1.22474487139...",
+    "ko": "니어 레플리칸트",
+    "code": "nier-replicant-ver-1-22474487139"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10608,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iNEDFMPhlbQ/X_N-pwIQuiI/AAAAAAAAvM4/z0YeoYl7Cx4L5ZvSQ_ewjiIROTI3CwltACLcBGAsYHQ/s270/1527-Nier-NieR-Replicant-ver.-1.22474487139%25E2%2580%25A6-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iNEDFMPhlbQ/X_N-pwIQuiI/AAAAAAAAvM4/z0YeoYl7Cx4L5ZvSQ_ewjiIROTI3CwltACLcBGAsYHQ/s270/1527-Nier-NieR-Replicant-ver.-1.22474487139%25E2%2580%25A6-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FxVf9aAh_l4/X_OBXGRA6QI/AAAAAAAAvN0/OcqktN1eAjwYPSg-LCTi8a__3hC_ArsygCLcBGAsYHQ/s135/1527-Nier-NieR-Replicant-ver.-3.jpg",
+      "https://1.bp.blogspot.com/-eqG1kr5pU3Y/X_OBXPTC6KI/AAAAAAAAvN8/Rm15p8UwQBUDRbpcDsxL22XVAV5wBPSJgCLcBGAsYHQ/s135/1527-Nier-NieR-Replicant-ver.-4.jpg",
+      "https://1.bp.blogspot.com/-UvFbiWTj4fw/X_OBXIx0jkI/AAAAAAAAvN4/-1a0pwsrqlYkUUQdFLjGOGJOs1n7UZXcgCLcBGAsYHQ/s135/1527-Nier-NieR-Replicant-ver.-5.jpg",
+      "https://1.bp.blogspot.com/-y4RvFKMO8CQ/X_OBX3BaUMI/AAAAAAAAvOA/9TAlTqFAOzUbp1ayLhKEWfbpKm2gmRfigCLcBGAsYHQ/s135/1527-Nier-NieR-Replicant-ver.-6.jpg",
+      "https://1.bp.blogspot.com/-tFGRfkXDOAw/X_OBYOPOD9I/AAAAAAAAvOE/7VZPAXFQ1BUU9ILgMgOWXqmKLyvCrwQEgCLcBGAsYHQ/s135/1527-Nier-NieR-Replicant-ver.-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1527/",
+      "fetched_at": "2026-05-16T19:10:33.484Z",
+      "raw_id": "/nendoroid/details/n1527/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.687Z",
+      "raw_id": "Nendoroid/1500-1599/1527.json"
+    }
+  ]
+}

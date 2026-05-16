@@ -1,0 +1,67 @@
+{
+  "num": "1246",
+  "name": {
+    "en": "Nendoroid Lin Yueru",
+    "ja": "ねんどろいど 林月如 (ねんどろいど りんげつじょ)",
+    "ko": "임월여"
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9095,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ce17687WXcE/X4NiSGr2qGI/AAAAAAABmpk/nSv3sPOvfQUAUIduMjGSFeJdliSurjnkgCLcBGAsYHQ/s270/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ce17687WXcE/X4NiSGr2qGI/AAAAAAABmpk/nSv3sPOvfQUAUIduMjGSFeJdliSurjnkgCLcBGAsYHQ/s270/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rdv9VSSe0hs/X4rz75oTY9I/AAAAAAABp2E/4Q-Z_vzQr9g1kPmHK1anfl0y6WXtODvmwCLcBGAsYHQ/s135/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_OL9zQ92O08/X4rz8NG8BJI/AAAAAAABp2I/uKZGOBmIlEshwywrQ73xTCxu26iaToTCQCLcBGAsYHQ/s135/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wlhitcnMZXM/X4rz8egfX4I/AAAAAAABp2M/XgEM2EQSzgsWM3FrzTxLTm3WglC7Cp6CQCLcBGAsYHQ/s135/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RFc-ue4XnLQ/X4rz8nBn3uI/AAAAAAABp2Q/FLJCaYzHuK8OzrN4hTVN8CxgZ-9NV0lmgCLcBGAsYHQ/s135/1246-Lin-Yueru-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1246/",
+      "fetched_at": "2026-05-16T19:10:33.310Z",
+      "raw_id": "/nendoroid/details/n1246/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.620Z",
+      "raw_id": "Nendoroid/1200-1299/1246.json"
+    }
+  ]
+}

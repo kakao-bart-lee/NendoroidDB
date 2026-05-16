@@ -1,0 +1,69 @@
+{
+  "num": "0900",
+  "name": {
+    "en": "Nendoroid Arale Norimaki",
+    "ja": "ねんどろいど 則巻アラレ (ねんどろいど のりまきあられ)",
+    "ko": "노리마키 아라레(아리)"
+  },
+  "series": {
+    "en": "Dr.SLUMP ARALE CHAN",
+    "ja": "Dr.スランプ アラレちゃん",
+    "ko": "닥터 슬럼프",
+    "code": "dr-slump-arale-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7051,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-e9zas5fNXs0/X4NeGrKqeVI/AAAAAAABmI8/iYeP8cuBa8YRfPt-zufX3FGcOigqfvn4wCLcBGAsYHQ/s270/900-Arale-Norimaki-Dr-Slump-Arale-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-e9zas5fNXs0/X4NeGrKqeVI/AAAAAAABmI8/iYeP8cuBa8YRfPt-zufX3FGcOigqfvn4wCLcBGAsYHQ/s270/900-Arale-Norimaki-Dr-Slump-Arale-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-11oP93ZjLM8/X4rkbgHPYBI/AAAAAAABnkQ/VDszd7f2ku8Zk3ZOeLgHktgshtNZpcMmACLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-exOSfpjQLS8/X4rkbzPaL3I/AAAAAAABnkU/eUPF5phj26ck4xeJRqqKW_if3QrhanCswCLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7Zmorq3WG2Y/X4rkcIHoHBI/AAAAAAABnkY/OhQcg2L0dms0gnbqsUbqLI9kZ_48tgFNQCLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-w3EzvX2G-Tc/X4rkclHrHlI/AAAAAAABnkc/TzWLgsw8EnsCuC-a9OwriBqO4B--SrzogCLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--lLsJvHnyKc/X4rkc5JYv5I/AAAAAAABnkg/EjAdrQK8rpY40IcDeLBdI0b4aBH2k2YwwCLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Uo_21J9A6w8/X4rkc4j92AI/AAAAAAABnkk/nRs2cNsgpuALta_ZO5XuPwCgnCEloRjggCLcBGAsYHQ/s135/900-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n900/",
+      "fetched_at": "2026-05-16T19:10:34.862Z",
+      "raw_id": "/nendoroid/details/n900/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.534Z",
+      "raw_id": "Nendoroid/0900-0999/900.json"
+    }
+  ]
+}

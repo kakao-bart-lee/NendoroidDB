@@ -1,0 +1,70 @@
+{
+  "num": "1505",
+  "name": {
+    "en": "Nendoroid Norman",
+    "ja": "ねんどろいど ノーマン (ねんどろいど のーまん)",
+    "ko": "노먼"
+  },
+  "series": {
+    "en": "The Promised Neverland",
+    "ja": "約束のネバーランド",
+    "ko": "약속의 네버랜드",
+    "code": "the-promised-neverland"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10405,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zs8vemSicCo/X8AK8bY4crI/AAAAAAAAuus/XRxMcuIEeQ09LgLjtVQ-jeK151utMccRwCLcBGAsYHQ/s270/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zs8vemSicCo/X8AK8bY4crI/AAAAAAAAuus/XRxMcuIEeQ09LgLjtVQ-jeK151utMccRwCLcBGAsYHQ/s270/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eP0JgmyirZE/X8AQpzU5g0I/AAAAAAAAuyE/F6Y-ncXA2i01-KFnp1-iZb5WiZLcqjRxQCLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-52hA8uKKviA/X8AQpok2alI/AAAAAAAAuyA/9XlBPQ8UtDsZF3NOMcYG_NU6NoRYdMH0ACLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bzqjjnCURTE/X8AQpuoIz1I/AAAAAAAAux8/6DYCsyv3-dwjmI6Db5hP1VirVmreo7SSACLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-v_JGPJ3HAVY/X8AQqY-LdaI/AAAAAAAAuyI/xjqicyeXEDEDgrC_eIy7zpNAwwqYaKfLQCLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FfLdZlxVjvg/X8AQqsJvpUI/AAAAAAAAuyM/wLS683jD1QofdrhnlJS4BhieD3ArK_1SgCLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--QYUJwUqLTA/X8AQ5uXRx6I/AAAAAAAAuyY/C7ps1dCFTz0jI6EX0e-OZDgwmI7x7rMUACLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wgybglHXLM4/X8AQ5pwNqhI/AAAAAAAAuyc/cTLo3t3CJFYijeG0PmGXmzVxvPDK_bRBACLcBGAsYHQ/s135/1505-Norman-The-Promised-Neverland-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1505/",
+      "fetched_at": "2026-05-16T19:10:33.471Z",
+      "raw_id": "/nendoroid/details/n1505/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.682Z",
+      "raw_id": "Nendoroid/1500-1599/1505.json"
+    }
+  ]
+}

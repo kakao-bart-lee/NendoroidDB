@@ -1,0 +1,92 @@
+{
+  "num": "2738",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": "ねんどろいど 初音ミク マジカルミライ 2024Ver.",
+    "ko": null
+  },
+  "series": {
+    "en": "Magical Mirai",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": null,
+    "code": "magical-mirai"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": "preorder",
+  "price_jpy": 7800,
+  "gtin": "4571697180536",
+  "gsc_product_id": "60606",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/60606",
+    "ja": "https://www.goodsmile.com/ja/product/60606"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60606/9F8csuMhTDbSP0t3UkWdGNvY6fLaXeyR.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnEThSxX9StaZAiJZmzPigwM-IyJI5gzumsHtMniNezZr3iDQFPRYaPEfgCz4vqSzPzmwUbV2Ix-MRZ6TPDvVPPmhR_WvMAZPjFLyVDFoxEBqUz63AsZf-ckIrZC8IjhAnYP2EfKYZ3VUUz8PCzpQ_-taDs1PDwtHtHLVZx0G0yGsWxFbwg5tVSUTKXmsw/s270/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqWx8zur1ETdqiz7FJVkFg-Rd1b7B5FhyBuc4AHhOyF8h0ZsYPRR86xJk3hYliPdzBhV3zy3jaMaeV4SGk0mD5AfyKZIMiINbFEcau9ULj6hfJRph48-67ickxhPITws3Xjq6nJPrsV6QG7pgH92CQ-iyjPj6qaLc_LwD6Qa6jdzddfks8gPgFHI8nPF7/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVmmo-bOt5bdlg3UHOuHquKOHBeHAEDEaC0A77wQev8fR6Pv9GaFUo9loqx6tLaEjuy2ELllz0R7bXjoLbv7dRTx34TFloJrv2Z3RtNjjmdXALL6NFgFqw3wxOJ04vWkOWaAgBQkxaLffCMhVkpVCy9r2V2xyRPRSvMi5FLqnEDHng_F3dGNu7XOhiwTp/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDRQBy_MzRBJ0TUKyojG6ekG84_RQXh7dIK_qgPdma_O1HTN6GmbLxdZb61_RYxMcvgQOTlOqJDgCg1uLvlOPWSY-nEdlzvDZcyxT6poigPPs6r-zXlSKVVOO2yBB3BzDw7QT16e0deIuPWTnHKoYpcbIZovCsYhaFA-rW902iBWuiiK5B5tKxWnd_LRDg/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYixYxlXjRwXWgxUSPx8lEXfrwXGEURboHjbKiRfbCorcf1u9vakxvRNP_t3BzyynHCvYf2fr_Yyz5qkse1unzDZEsTfyDSrpONUcTsj3pW0SEwBvGxeWL0N_BrFbEEivuNEtf2_vedtYPChOXspdQnUcg_hbX4bNYHkayC7weRa0frA9Jhga4AwWvsOU7/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVhy81w7QBOq-a7QjCsy5gbblSlschZMkxINO0nuBDDVtTuHacr6-mYIHBSGZYbMzKWQDPNj8852Rsj5S_AlYrkw-v8ijC64X5BefqoZH8eoJFKJxgsdrhm8ElzId-YqNDjLJNu2qtJDcK7hV6gd5MylBW8qMfA7S1MQMoWTPsXJa7fZeonTBGx2cnBBqv/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCz9-bNYHusI-kN8Z_nLNiPqV22En3iCaE6Wx9oAPD1HFkLjk5spVxKRgH-AEl_DZNWGXOLzlRhZRX1c1tHULkOAHXN1fkDhXNFiaBiY_e1_ZfBZqWg5ntfhW3SnKXolT6O2T2HGFuGqC3I6ML0n1oe5-bDxUwP8UG0joL3qeZkO7jkV0k-Uf2yW41V34v/s135/2738-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60606/PV5fai9puUqdAHhcv6DM32bNrgjJLB4n.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60606/9F8csuMhTDbSP0t3UkWdGNvY6fLaXeyR.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Standard Preorder",
+    "Online-Exclusive Product"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/60606",
+      "price_local": 7800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:07:18.678Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/60606",
+      "fetched_at": "2026-05-16T12:07:18.678Z",
+      "raw_id": "60606"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/60606",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "60606"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2738/",
+      "fetched_at": "2026-05-16T19:10:34.261Z",
+      "raw_id": "/nendoroid/details/n2738/"
+    }
+  ]
+}

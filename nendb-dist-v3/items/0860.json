@@ -1,0 +1,68 @@
+{
+  "num": "0860",
+  "name": {
+    "en": "Nendoroid Zero",
+    "ja": "ねんどろいど ゼロ",
+    "ko": "제로"
+  },
+  "series": {
+    "en": "Mega Man X Series",
+    "ja": "ロックマンX シリーズ",
+    "ko": "록맨 시리즈",
+    "code": "mega-man-x-series"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6928,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CILKzLSYA08/X4Nd6A3-y9I/AAAAAAABmGc/30wdOrUPSDgHVz4KXULF_2safsnS7h7zQCLcBGAsYHQ/s270/860-Zero-Mega-Man-Zero-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CILKzLSYA08/X4Nd6A3-y9I/AAAAAAABmGc/30wdOrUPSDgHVz4KXULF_2safsnS7h7zQCLcBGAsYHQ/s270/860-Zero-Mega-Man-Zero-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R7LksZFlL4M/X4rjYhRlvnI/AAAAAAABnVQ/5SsfOP-B5-E0y5Ag6XEQ9ggJnOLrh7Z7wCLcBGAsYHQ/s135/860-Zero-Mega-Man-Mega-Man-Zero-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KfxF9-j4NCo/X4rjYgMxLFI/AAAAAAABnVU/Okk9yRMGK0QQn78CozeKeJIcoqF9nXKJACLcBGAsYHQ/s135/860-Zero-Mega-Man-Mega-Man-Zero-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--nGM2p6XSEk/X4rjZK6dV9I/AAAAAAABnVY/G-Q23tIzpt4OyAxUNXlvg9oRcGnOHAecQCLcBGAsYHQ/s135/860-Zero-Mega-Man-Mega-Man-Zero-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-itZ9_zrI6og/X4rjZeXYOeI/AAAAAAABnVc/oMGV0cuX8Q4UrhEj7BIhxCcBm9ndAG4RACLcBGAsYHQ/s135/860-Zero-Mega-Man-Mega-Man-Zero-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1K57ubTcQ44/X4rjZhJQotI/AAAAAAABnVg/0bQFPMdn9qwI86wzSaehpZ1byIjAhVZHQCLcBGAsYHQ/s135/860-Zero-Mega-Man-Mega-Man-Zero-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n860/",
+      "fetched_at": "2026-05-16T19:10:34.840Z",
+      "raw_id": "/nendoroid/details/n860/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.524Z",
+      "raw_id": "Nendoroid/0800-0899/860.json"
+    }
+  ]
+}

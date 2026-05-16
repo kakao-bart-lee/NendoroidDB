@@ -1,0 +1,55 @@
+{
+  "num": "13468",
+  "name": {
+    "en": "Nendoroid Doll: Hand Parts Set Gloves Ver. (White/Black)",
+    "ja": "ねんどろいどどーる 手首パーツセット 手袋Ver.（ホワイト/ブラック） (ねんどろいどどーる てくびぱーつせっと てぶくろVer.（ほわいと/ぶらっく）)",
+    "ko": "손 파츠 세트 글러브 Ver.(화이트/블랙)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 1400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13468,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221027/13468/106467/large/312c0c6c9ee8c6ec8380078d1705753e.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.949Z",
+      "raw_id": "NendoroidDoll/Customizing/13468.json"
+    }
+  ]
+}

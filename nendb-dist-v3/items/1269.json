@@ -1,0 +1,69 @@
+{
+  "num": "1269",
+  "name": {
+    "en": "Nendoroid Simba",
+    "ja": "ねんどろいど シンバ (ねんどろいど しんば)",
+    "ko": "심바"
+  },
+  "series": {
+    "en": "The Lion King",
+    "ja": "ライオン・キング",
+    "ko": "라이온 킹",
+    "code": "the-lion-king"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9164,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3OE3DZr0gTs/X4Nibjp_hiI/AAAAAAABmrA/qvzCo8ASxigMZLYpqO9RiGoTUTfJsgvvwCLcBGAsYHQ/s270/1269-Simba-The-Lion-King-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3OE3DZr0gTs/X4Nibjp_hiI/AAAAAAABmrA/qvzCo8ASxigMZLYpqO9RiGoTUTfJsgvvwCLcBGAsYHQ/s270/1269-Simba-The-Lion-King-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FnAINFOqxOY/X4r0d-yFpXI/AAAAAAABp-Y/SUrXVJgJXeAA-KIsgOSxre3sVNFkvhnKQCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ahitxnTF9Ho/X4r0eOuLKfI/AAAAAAABp-c/F-z4A6owtzw3zPhIKHwetCgxmf1j4v3KgCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2iyTZK1Ayho/X4r0ekiqVwI/AAAAAAABp-g/WXbEYrV1-ho3FatrYC9XMs5uP5t6mpP5QCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yeZReDsN3s8/X4r0emGVi5I/AAAAAAABp-k/S6WwwCJLjQs2258rxf6mmrTlxARnpCvYgCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s0KNVFZPWgk/X4r0e4XvuVI/AAAAAAABp-o/0JFh90CI7XILaJ4UP2nfLgdNsgXzH42IgCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nCCgkgkLzaE/X4r0fRY3eOI/AAAAAAABp-s/7pbyoNjWp_ofvojL2cbmxgXShv3p3_ZcgCLcBGAsYHQ/s135/1269-Simba-The-Lion-King-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1269/",
+      "fetched_at": "2026-05-16T19:10:33.324Z",
+      "raw_id": "/nendoroid/details/n1269/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.625Z",
+      "raw_id": "Nendoroid/1200-1299/1269.json"
+    }
+  ]
+}

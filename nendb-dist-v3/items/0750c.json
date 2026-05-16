@@ -1,0 +1,68 @@
+{
+  "num": "0750c",
+  "name": {
+    "en": "Nendoroid Asuna: Ordinal Scale Ver. & Yui",
+    "ja": "ねんどろいど アスナ オーディナル・スケール Ver.＆ユイ (ねんどろいど あすな おーでぃなる・すけーる Ver.＆ゆい)",
+    "ko": "아스나 오디널 스케일 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online The Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-the-movie-ordinal-scale"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6752,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--LV0wFEfuWc/X4Nc_qjpMnI/AAAAAAABl-o/asLQmJFCreUoD5b3vatbDztkozHd-1t9gCLcBGAsYHQ/s270/750c-Asuna-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--LV0wFEfuWc/X4Nc_qjpMnI/AAAAAAABl-o/asLQmJFCreUoD5b3vatbDztkozHd-1t9gCLcBGAsYHQ/s270/750c-Asuna-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ijupja4C2AM/X4i40w1tCbI/AAAAAAAAtZY/JY-6B4RxhZ4Tk7Aek_FH1B17Y5M57-oVACLcBGAsYHQ/s135/750C-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fhZMOnpIU8w/X4i41GylvCI/AAAAAAAAtZc/X-WsKhXLUUgq1wIJZ_egAJhJGY5MtU3jQCLcBGAsYHQ/s135/750C-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SFq68k32G7A/X4i41UGAFEI/AAAAAAAAtZg/Kbp5NEdc5D4ZTNHVa8aDuckWiEBY28AMwCLcBGAsYHQ/s135/750C-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hos2Tyc8Jl8/X4i41hJJU7I/AAAAAAAAtZk/Eyx4Omp1LG4N4uG5tNJNcYjknfao1EN3wCLcBGAsYHQ/s135/750C-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5fQv9R9C2DI/X4i413rdeTI/AAAAAAAAtZo/f6rDt00oqCoaMdD7yTrSAkNnkbf8t8jtQCLcBGAsYHQ/s135/750C-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n750c/",
+      "fetched_at": "2026-05-16T19:10:34.777Z",
+      "raw_id": "/nendoroid/details/n750c/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.499Z",
+      "raw_id": "Nendoroid/0700-0799/750c.json"
+    }
+  ]
+}

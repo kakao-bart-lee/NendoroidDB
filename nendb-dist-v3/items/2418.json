@@ -1,0 +1,65 @@
+{
+  "num": "2418",
+  "name": {
+    "en": "Akane Kurokawa",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Oshi No Ko",
+    "ja": null,
+    "ko": null,
+    "code": "oshi-no-ko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S53RGfDRMmE/Ziq-1_KlaXI/AAAAAAABEAo/pnodDiXcHdYkpsuFgQ49vKDD0-eCqdV3ACNcBGAsYHQ/s270/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S53RGfDRMmE/Ziq-1_KlaXI/AAAAAAABEAo/pnodDiXcHdYkpsuFgQ49vKDD0-eCqdV3ACNcBGAsYHQ/s270/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mksLtGydB1o/Zow19e-GEBI/AAAAAAABFeY/ukAaDNjtATESWPBqhPesVXZQ0kDXPjaRwCNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uOQAgz4mlkI/Zow19nm1xFI/AAAAAAABFec/Tt1QebnYLAENv3CjmAeVfaZEbegcaAxqwCNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h7cUdEB6_Ak/Zow1-DfdCMI/AAAAAAABFeg/8S6JuZ3IAOEVTX2R2jUiuEVVoNYF0XTVwCNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_Vw1yIDKPg0/Zow1-_jcVjI/AAAAAAABFek/gAEH0h5_1Zgn1UDDLVpSPfc94y8YqZFjACNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2lx2uVHwBpQ/Zow1_W5ljoI/AAAAAAABFeo/dMcVXqgENIsXMMqv4JJVSB6h3BPPA0qyACNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JdBBdcohrhc/Zow1_9osBtI/AAAAAAABFes/Hc1-LiotvN8Cz-vEM6x8dGAnEewlfugtACNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-eTSQFrD7HCk/Zow2AfKkjSI/AAAAAAABFew/3gsuMihXnrU5uAtdfss8-AR8xEssQtPdQCNcBGAsYHQ/s135/2418-Akane-Kurokawa-Oshi-no-Ko-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2418/",
+      "fetched_at": "2026-05-16T19:10:34.045Z",
+      "raw_id": "/nendoroid/details/n2418/"
+    }
+  ]
+}

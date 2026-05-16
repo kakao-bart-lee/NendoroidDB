@@ -1,0 +1,68 @@
+{
+  "num": "0229",
+  "name": {
+    "en": "Lynette Bishop",
+    "ja": "ねんどろいど リネット・ビショップ 水着Ver. (ねんどろいど りねっと・びしょっぷ みずぎVer.)",
+    "ko": "리네트 비숍 수영복 Ver."
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ－白銀の翼－",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10978,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3496,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mGhtgAjkpUA/X4NLL-wJ0SI/AAAAAAABlXE/xERB_C5jGnQvz45Ff5k8fYLzTVMkRDooQCLcBGAsYHQ/s270/229-Lynette-Bishop-Swimsuit-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mGhtgAjkpUA/X4NLL-wJ0SI/AAAAAAABlXE/xERB_C5jGnQvz45Ff5k8fYLzTVMkRDooQCLcBGAsYHQ/s270/229-Lynette-Bishop-Swimsuit-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mXZQQ2M7k0Y/X4dXUcJj5WI/AAAAAAAAqa4/0K69yATNQssco63WOBgeuJxq1RAwbGuawCLcBGAsYHQ/s135/229-Lynette-Bishop-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-a5MnL6MKgPM/X4dXUgdJW-I/AAAAAAAAqa8/c0DjmY5XH4YZaUVkcut-c_QLj2NtTdsRgCLcBGAsYHQ/s135/229-Lynette-Bishop-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1JgBaf32I_A/X4dXU8qSImI/AAAAAAAAqbA/KX1v9QO2W-0x_GnHXVEWfx09xBlxBxjwgCLcBGAsYHQ/s135/229-Lynette-Bishop-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SgYae-KwtQo/X4dXU1HQwiI/AAAAAAAAqbE/UWWW0F7x5dsIlOEYm7zLbU37sAvK7IZDwCLcBGAsYHQ/s135/229-Lynette-Bishop-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k4BaCVucskc/X4dXVLGQSWI/AAAAAAAAqbI/GMPbQGg2fGIS53t09d5Lci6OFXKNehSZwCLcBGAsYHQ/s135/229-Lynette-Bishop-Strike-Witches-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n229/",
+      "fetched_at": "2026-05-16T19:10:33.973Z",
+      "raw_id": "/nendoroid/details/n229/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.327Z",
+      "raw_id": "Nendoroid/0200-0299/229.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1357",
+  "name": {
+    "en": "Nendoroid Shinichi Kudō",
+    "ja": "ねんどろいど 工藤新一 (ねんどろいど くどうしんいち)",
+    "ko": "쿠도 신이치"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9623,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5ZSe2IF0uoA/X4Njx7OUM7I/AAAAAAABm2U/RrAEqjK7_zQBdoVj_4p_Dj-On9YxynGggCLcBGAsYHQ/s270/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5ZSe2IF0uoA/X4Njx7OUM7I/AAAAAAABm2U/RrAEqjK7_zQBdoVj_4p_Dj-On9YxynGggCLcBGAsYHQ/s270/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4v5h1GDtlds/X4s9p9O2yrI/AAAAAAABqi4/3dM6w2e_MCU9QfIlCnLglpVpSxJwaIL4wCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MD-Fhy5HXIM/X4s9qJiuOBI/AAAAAAABqi8/WHviPSx7djkXk6yNtK4g3-kfMgmTbMELACLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WFuuzZJ6RO8/X4s9qhBq3WI/AAAAAAABqjA/yE6zxDCOLx00WW6bht2uJa_iltZvo4nXQCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1Bw3T9CAq34/X4s9q1Ub_uI/AAAAAAABqjE/iaQVYBITV4UXstCySJICqF_hh0h8epmMgCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HpzfwLGALA0/X4s9rJETsqI/AAAAAAABqjI/cV5iW-UPEPUwzJvNGZZ8zlzWeT1NA0-SgCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-etYkXiW89wA/X4s9repedAI/AAAAAAABqjM/JKKD6qZF8i4F5DHdJ9O-VikVCEZhnNOOwCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wuVX48YZZ08/X4s9rm6lthI/AAAAAAABqjQ/BDVRQ566BdECoS9Z_xkKfJQGhz9OaQQNgCLcBGAsYHQ/s135/1357-Shinichi-Kudo-Detective-Conan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1357/",
+      "fetched_at": "2026-05-16T19:10:33.379Z",
+      "raw_id": "/nendoroid/details/n1357/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.647Z",
+      "raw_id": "Nendoroid/1300-1399/1357.json"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "num": "1696",
+  "name": {
+    "en": "Nendoroid Gwenpool",
+    "ja": "ねんどろいど グウェンプール (ねんどろいど ぐうぇんぷーる)",
+    "ko": "그웬풀"
+  },
+  "series": {
+    "en": "Marvel Comics",
+    "ja": "Marvel Comics",
+    "ko": "마블 코믹스",
+    "code": "marvel-comics"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11505,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ivcsvawQ1uQ/YS6Jye1Y3UI/AAAAAAAAz-Q/blwmZeJXEHcVg57xyd0M7RasNgDswCjCACLcBGAsYHQ/s270/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ivcsvawQ1uQ/YS6Jye1Y3UI/AAAAAAAAz-Q/blwmZeJXEHcVg57xyd0M7RasNgDswCjCACLcBGAsYHQ/s270/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KX-Y8OOBvzw/YS6NCA_ndPI/AAAAAAAA0NE/QjXeD0gRDzMZrGe0Y41bXS_536h4PfE2QCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rQkCe4dmieY/YS6NCpfNz2I/AAAAAAAA0NI/pXQD1rFjK5YM6Yz-KJMl7pF5NoOBPEomwCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0zmWK78bcwg/YS6NDJHfiII/AAAAAAAA0NM/znE63Gf0TKcNnl6hphr_jztp8Aj9Ib-YQCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IYqCoHsk7k0/YS6NDnrKLFI/AAAAAAAA0NQ/x4QZ-7I1Dw4lWCnF9x6kcvIhCdXr0aI_gCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mhim1egz5Rc/YS6NEBzr3FI/AAAAAAAA0NU/6VwGfQWwgewbIKqQ4gYri2QXrzvINZWogCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-83fXO1vDug4/YS6NEigTBmI/AAAAAAAA0NY/k45n2m4aiccm2EQokHz5hWfNPKZr3HMqgCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-iSfu0FTV0Eo/YS6NE7UV5jI/AAAAAAAA0Nc/665OGD0fRvk4oVDV9DfA2cblhZbQflJXgCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-2hMQ72NYnFw/YS6NBHdjkrI/AAAAAAAA0Mw/ZzlGLVwLOsMd1y6-EXBgh7fv5ausoqkGwCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-dL4LvF0amcg/YS6NBiWhf7I/AAAAAAAA0M8/WDpBX5RaZLgGq_ZgG9IpS36_YN9rRcRKgCLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-Uh2Tv-srKeQ/YS6NBkLnfkI/AAAAAAAA0NA/yuo0-ToijQY2FC440eNfxu6Cg4MqNRyIACLcBGAsYHQ/s135/1696-Gwenpool-Gwenpool-Marvel-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1696/",
+      "fetched_at": "2026-05-16T19:10:33.591Z",
+      "raw_id": "/nendoroid/details/n1696/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.729Z",
+      "raw_id": "Nendoroid/1600-1699/1696.json"
+    }
+  ]
+}

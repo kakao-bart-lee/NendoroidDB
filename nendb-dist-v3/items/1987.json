@@ -1,0 +1,69 @@
+{
+  "num": "1987",
+  "name": {
+    "en": "Nendoroid Leonardo",
+    "ja": "ねんどろいど レオナルド (ねんどろいど れおなるど)",
+    "ko": "레오나르도"
+  },
+  "series": {
+    "en": "Teenage Mutant Ninja Turtles",
+    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko": "닌자 거북이",
+    "code": "teenage-mutant-ninja-turtles"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13345,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DDNjjuE2Fl8/Y9mJ5iejRGI/AAAAAAAA8eM/wW4Ee194uf49G6gNutFhmaN6HQSLp1ntQCNcBGAsYHQ/s270/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DDNjjuE2Fl8/Y9mJ5iejRGI/AAAAAAAA8eM/wW4Ee194uf49G6gNutFhmaN6HQSLp1ntQCNcBGAsYHQ/s270/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CKhtWapjVoI/Y451fXNxUqI/AAAAAAAA704/y1n8G_yW89Ib81t-cbIihNgsoDtncr0YgCNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-51MPnlyLbNk/Y9mOwIxMNOI/AAAAAAAA8h0/jWXZ1ToAbBoYKkvHiVWmfIu1fktvLnFtACNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I_tQDOOZJLM/Y9mOwdiuAbI/AAAAAAAA8h4/As_zHkPDVlQ2crLbPy8GcbT7EeQ-lfogACNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TjuvEbbpjxE/Y9mOwdNvkiI/AAAAAAAA8h8/DHgylQFZXu0FQ9HqbR7lJARANiK4POBOwCNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zYxePXKAh08/Y9mOwtHdJCI/AAAAAAAA8iA/joehii0sAWsrOcMQtHz7MZ8UZI6OkVYXACNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-s3inSuuRXWA/Y9mOw6p5yvI/AAAAAAAA8iE/V8VXugyA3hkkE_3eBI2XfQ8_UZXA1F9rgCNcBGAsYHQ/s135/1987-Leonardo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1987/",
+      "fetched_at": "2026-05-16T19:10:33.770Z",
+      "raw_id": "/nendoroid/details/n1987/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.798Z",
+      "raw_id": "Nendoroid/1900-1999/1987.json"
+    }
+  ]
+}

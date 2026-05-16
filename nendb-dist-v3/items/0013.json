@@ -1,0 +1,64 @@
+{
+  "num": "0013",
+  "name": {
+    "en": "Hetare Saber",
+    "ja": "ねんどろいど へたれセイバーオルタ (ねんどろいど へたれせいばーおるた)",
+    "ko": "헤타레 세이버 얼터"
+  },
+  "series": {
+    "en": "Fate",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3355,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MlSNWv2kFuE/X4MRx7y3kiI/AAAAAAAApXE/09UIFZomI2gkA3r2XZzOONiQLI-JpnREgCLcBGAsYHQ/s270/013-Hetare-Saber-Alter-Fate-Stay-Night-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MlSNWv2kFuE/X4MRx7y3kiI/AAAAAAAApXE/09UIFZomI2gkA3r2XZzOONiQLI-JpnREgCLcBGAsYHQ/s270/013-Hetare-Saber-Alter-Fate-Stay-Night-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dZy91RrUwsU/X4GwOgsJ6UI/AAAAAAAAo-8/0u0hHboLmQQ-bnL6q5WLu_broE_PW5YvwCLcBGAsYHQ/s135/013-Hetare-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n013/",
+      "fetched_at": "2026-05-16T19:10:33.071Z",
+      "raw_id": "/nendoroid/details/n013/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.261Z",
+      "raw_id": "Nendoroid/0000-0099/013.json"
+    }
+  ]
+}

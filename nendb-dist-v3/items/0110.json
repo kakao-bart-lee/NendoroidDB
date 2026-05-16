@@ -1,0 +1,68 @@
+{
+  "num": "0110",
+  "name": {
+    "en": "Nendoroid K-ON! Yui and Tsumugi: Live Stage Set (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)",
+    "ja": "ねんどろいど　けいおん！唯＆紬 ライブステージセット (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)",
+    "ko": "유이&츠무기 라이브 스테이지 세트"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8381,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2888,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EXUj_80QKMg/X4NJtfjCU5I/AAAAAAABlOY/I1U71szoH8AGHOTGnz1_y8Q6UkPfnPKCQCLcBGAsYHQ/s270/110-Yui-Tsumugi-Live-Stage-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EXUj_80QKMg/X4NJtfjCU5I/AAAAAAABlOY/I1U71szoH8AGHOTGnz1_y8Q6UkPfnPKCQCLcBGAsYHQ/s270/110-Yui-Tsumugi-Live-Stage-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dCnsK8xGXso/X4dSGLMylwI/AAAAAAAApwI/SizmlYpR_x8XA_XyZwva1RUOAsH57xIEQCLcBGAsYHQ/s135/110-Yui-and-Tsumugi-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HgAN5oUNH64/X4dSGWgQ1XI/AAAAAAAApwM/DKjv9qqFIH8JlPWSIz9bQ0erkqon8kXAwCLcBGAsYHQ/s135/110-Yui-and-Tsumugi-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tZk01zQk5Zs/X4dSGlbzgLI/AAAAAAAApwQ/yLWShajJ6IoIfC7dtWuEENhlcJtAcwvFgCLcBGAsYHQ/s135/110-Yui-and-Tsumugi-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MVHVl6CzU9o/X4dSG91TuVI/AAAAAAAApwU/iYv6dWt6EfwKW4pTU5Lbn7RTeu74t2iiQCLcBGAsYHQ/s135/110-Yui-and-Tsumugi-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wntJU8HUZWQ/X4dSHIh1CpI/AAAAAAAApwY/eE7Z_OiQmHYlPzvB0VdbT5FB3TmkAQWzwCLcBGAsYHQ/s135/110-Yui-and-Tsumugi-K-ON-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n110/",
+      "fetched_at": "2026-05-16T19:10:33.226Z",
+      "raw_id": "/nendoroid/details/n110/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.291Z",
+      "raw_id": "Nendoroid/0100-0199/110.json"
+    }
+  ]
+}

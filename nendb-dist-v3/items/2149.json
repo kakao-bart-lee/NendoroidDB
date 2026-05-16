@@ -1,0 +1,68 @@
+{
+  "num": "2149",
+  "name": {
+    "en": "Nendoroid Alucard",
+    "ja": "ねんどろいど アーカード (ねんどろいど あーかーど)",
+    "ko": "아카드"
+  },
+  "series": {
+    "en": "HELLSING OVA",
+    "ja": "ＨＥＬＬＳＩＮＧ　ＯＶＡ",
+    "ko": "헬싱 OVA",
+    "code": "hellsing-ova"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14456,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B00ALuEGCBc/ZIzT3iVdPzI/AAAAAAAA-Pc/ufkdPR0UEyE8DjhlNsFstAuoS5DOACHaACNcBGAsYHQ/s270/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B00ALuEGCBc/ZIzT3iVdPzI/AAAAAAAA-Pc/ufkdPR0UEyE8DjhlNsFstAuoS5DOACHaACNcBGAsYHQ/s270/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e5c9YD2KV70/ZIzVv4bTZXI/AAAAAAAA-T8/Nj_7zrG2L2wjicC0WJObCwnMRiZc0smeACNcBGAsYHQ/s135/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5lKIRRConfY/ZIzVwMMQaHI/AAAAAAAA-UA/zJ0T8zkWpvcI2aBLE6Eolxasez8IWRpRACNcBGAsYHQ/s135/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--6b8X7Rm0MY/ZIzVwXUGiEI/AAAAAAAA-UE/yZcwxhvhkfEEC_tnSAba6vg7YhYh6kCRQCNcBGAsYHQ/s135/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-req_fKy7eTg/ZIzVwwDKAHI/AAAAAAAA-UI/4NH8xxGy8j4NM0te_Lu5yR4IqzYwlwGRwCNcBGAsYHQ/s135/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DuMyK8b7gmg/ZIzVw4IoUwI/AAAAAAAA-UM/GzufDaZR91E4ICWBDbomBdoyyVs3ApR8QCNcBGAsYHQ/s135/2149-Alucard-Hellsing-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2149/",
+      "fetched_at": "2026-05-16T19:10:33.868Z",
+      "raw_id": "/nendoroid/details/n2149/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.839Z",
+      "raw_id": "Nendoroid/2100-2199/2149.json"
+    }
+  ]
+}

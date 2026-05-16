@@ -1,0 +1,63 @@
+{
+  "num": "2359",
+  "name": {
+    "en": "Ikki",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Amnesia",
+    "ja": null,
+    "ko": null,
+    "code": "amnesia"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AS30rxBWTas/ZZcfJDdccpI/AAAAAAABDJ0/scJ_vcttJ3keB5j_lPpYT7O-xiFUL3vlgCNcBGAsYHQ/s270/2359-Ikki-Amnesia-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AS30rxBWTas/ZZcfJDdccpI/AAAAAAABDJ0/scJ_vcttJ3keB5j_lPpYT7O-xiFUL3vlgCNcBGAsYHQ/s270/2359-Ikki-Amnesia-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hvpzGIm1kKI/ZZSM2Zq7KVI/AAAAAAABDCc/rzPNoST9r7Mw9QhkK9qH8YL98Vmq1yVnACNcBGAsYHQ/s135/2359-Ikki-Amnesia-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y9rf3nisXuw/ZZSM3GONcmI/AAAAAAABDCg/UYb_2HFZh3U57IbVfz4I1UETrLaXV5Z9QCNcBGAsYHQ/s135/2359-Ikki-Amnesia-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cv35clQbxjM/ZZSM3moEKhI/AAAAAAABDCk/E8uMCmvGF9YvubEJyqmLLkF_5oF9bs6ZgCNcBGAsYHQ/s135/2359-Ikki-Amnesia-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dhpcd0vn6sk/ZZSM3wt5t4I/AAAAAAABDCo/GO2JtqNjkSwUX1YN-c6R1gq-j0-pTBQ9wCNcBGAsYHQ/s135/2359-Ikki-Amnesia-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sQZ8vSEhfrs/ZZSM4oHLrSI/AAAAAAABDCs/FdRgil0xHFYFWWLI3qKtKh37yYeX2qH2wCNcBGAsYHQ/s135/2359-Ikki-Amnesia-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2359/",
+      "fetched_at": "2026-05-16T19:10:34.008Z",
+      "raw_id": "/nendoroid/details/n2359/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1972",
+  "name": {
+    "en": "Nendoroid Bella",
+    "ja": "ねんどろいど ベラ (ねんどろいど べら)",
+    "ko": "벨라"
+  },
+  "series": {
+    "en": "A-SOUL",
+    "ja": "A-SOUL",
+    "ko": "A-SOUL",
+    "code": "a-soul"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13337,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ta78Ooumnys/Y02wI_EsJiI/AAAAAAAA7AY/nPbs0a1DOX8370uUN1_80NHUiaduHpF0wCNcBGAsYHQ/s270/1972-Bella-A-SOUL-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ta78Ooumnys/Y02wI_EsJiI/AAAAAAAA7AY/nPbs0a1DOX8370uUN1_80NHUiaduHpF0wCNcBGAsYHQ/s270/1972-Bella-A-SOUL-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WpEG5iyxEDc/Y028NZozXmI/AAAAAAAA7YY/1Qlv5Z48-BALs9npUW_xBgDoOIa9ehWQQCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fXCOYCRjnuI/Y028NkBk5RI/AAAAAAAA7Yc/DWleGiRWC0si5kXzCleGCk0RYhvNfYBFwCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oEDhT003n1s/Y028NxWz0wI/AAAAAAAA7Yg/EXTWgA6_Gh04hsLa9MLJ8loqbQ-a7wE0QCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--L4UAlbSg-Y/Y028OC5FDVI/AAAAAAAA7Yk/HFC2O7_8EmELn98YsISN6pFfl0YqFe7swCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qI3xM6QeoXQ/Y028OW9tpVI/AAAAAAAA7Yo/OY0JBR7gPDw2UEf8wANd5c3o2MbPFEefwCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RGFgmkDZMG8/Y028OiwyXmI/AAAAAAAA7Ys/cAcKHqgGHfAShmmTt7wOwRQUuw8FdpfogCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-v0PH2CEAyBo/Y028O8izfbI/AAAAAAAA7Yw/EeuekvAe7DsA7uDqMNKf0t4OvxuYQSzvgCNcBGAsYHQ/s135/1972-Bella-A-SOUL-Others-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1972/",
+      "fetched_at": "2026-05-16T19:10:33.761Z",
+      "raw_id": "/nendoroid/details/n1972/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.794Z",
+      "raw_id": "Nendoroid/1900-1999/1972.json"
+    }
+  ]
+}

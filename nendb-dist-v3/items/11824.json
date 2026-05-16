@@ -1,0 +1,55 @@
+{
+  "num": "11824",
+  "name": {
+    "en": "Nendoroid Doll Tanjiro Kamado",
+    "ja": "ねんどろいどどーる 竈門炭治郎 (ねんどろいどどーる かまどたんじろう)",
+    "ko": "카마도 탄지로"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11824,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210924/11824/90324/large/5c8d47fd700e665bf5db08dcee4dc526.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.954Z",
+      "raw_id": "NendoroidDoll/Doll/11824.json"
+    }
+  ]
+}

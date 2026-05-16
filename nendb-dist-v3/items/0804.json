@@ -1,0 +1,69 @@
+{
+  "num": "0804",
+  "name": {
+    "en": "Nendoroid Rapunzel",
+    "ja": "ねんどろいど ラプンツェル (ねんどろいど らぷんつぇる)",
+    "ko": "라푼젤"
+  },
+  "series": {
+    "en": "Tangled",
+    "ja": "塔の上のラプンツェル",
+    "ko": "라푼젤",
+    "code": "tangled"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6515,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IaWMKnrrENc/X4NdreL_O3I/AAAAAAABmC4/w0FIQPHUfOIGfdMqa9b6TFD4tf7wRSGtgCLcBGAsYHQ/s270/804-Rapunzel-Tangled-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IaWMKnrrENc/X4NdreL_O3I/AAAAAAABmC4/w0FIQPHUfOIGfdMqa9b6TFD4tf7wRSGtgCLcBGAsYHQ/s270/804-Rapunzel-Tangled-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8HbDaOfmMUc/X4rh_umlAwI/AAAAAAABnAk/2f2QU6OBSQ0KjiRc5warZO7UFwcHuKiTwCLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4uHF8OJow4Q/X4rh_5k4SBI/AAAAAAABnAo/sSw0FkazqzAF92mmsHZKdiokwn5kd_UsACLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jQr4k8qtSXA/X4riAAEkwPI/AAAAAAABnAs/pBkDD6ABmpoRVWggOyUuK4-GjM4_0QJCQCLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cC_l5laBltU/X4riAYY521I/AAAAAAABnAw/7W2tFTXIY5sg9nXHxtEU-3996DCGtL05QCLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3jzo2I5z4_Y/X4riAvU79QI/AAAAAAABnA0/hsBlUHUdtN4_fWdsQZgJyzgF2KiAGryvQCLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-M-GLNXnCfpU/X4riAr2tL9I/AAAAAAABnA4/EuVngMelU54PrnCdm-V9M5KhdoKFFCkiACLcBGAsYHQ/s135/804-Rapunzel-Tangled-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n804/",
+      "fetched_at": "2026-05-16T19:10:34.809Z",
+      "raw_id": "/nendoroid/details/n804/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.511Z",
+      "raw_id": "Nendoroid/0800-0899/804.json"
+    }
+  ]
+}

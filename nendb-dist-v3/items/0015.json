@@ -1,0 +1,72 @@
+{
+  "num": "0015",
+  "name": {
+    "en": "Nendoroid Tachikoma (ねんどろいど たちこま)",
+    "ja": "ねんどろいど タチコマ (ねんどろいど たちこま)",
+    "ko": "타치코마"
+  },
+  "series": {
+    "en": "Ghost in the Shell S.A.C",
+    "ja": "攻殻機動隊S.A.C.",
+    "ko": "공각기동대",
+    "code": "ghost-in-the-shell-s-a-c"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 618,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Q3shtQQ9QwI/X4MRyY35XVI/AAAAAAAApXM/FWxB21L0jHgpMAywWPlIB44YfzjdyMKKQCLcBGAsYHQ/s270/015-Tachikoma-Blue-Ghost%2Bin%2Bthe%2BShell-Stand%2BAlone%2BComplex-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Q3shtQQ9QwI/X4MRyY35XVI/AAAAAAAApXM/FWxB21L0jHgpMAywWPlIB44YfzjdyMKKQCLcBGAsYHQ/s270/015-Tachikoma-Blue-Ghost%2Bin%2Bthe%2BShell-Stand%2BAlone%2BComplex-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y5jSHXRiwS4/X4GwPRXdh5I/AAAAAAAAo_M/Uh8jvHJZW4kmZdrVpOknWGeIkAQuoMZCACLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rADb079xEO4/X4GwPd_hSmI/AAAAAAAAo_Q/bzD_wm-pJJ4UWMVxC1hLx79MJfg7PnahwCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WFlenyIgOwM/X4GwPpSkTPI/AAAAAAAAo_Y/FSoxrYRxTl8YVYwe9yH-PpFPZsRBPvuNwCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5M31EIdUrUk/X4GwP_tSfdI/AAAAAAAAo_U/4T75jiSWMRYwkt0NPxauxE2IzLraj_EAgCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--VhSMJFDKDs/X4GwP2HQcnI/AAAAAAAAo_c/Bu1w8yqswkUTNCdKcKxN-ZOWs_aBrFvBgCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-h82ObkV78uk/X4GwQbRNf9I/AAAAAAAAo_g/PtNLRi6ITro4EFa_cqdDhto3j3VpcFMQACLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-v1WyNgKSTSw/X4GwQv8ckpI/AAAAAAAAo_k/h7vLGsF1YiclFC4IVpNeJG6CNdEgtemkACLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-74ooelvN4dc/X4GwO2Eb1MI/AAAAAAAAo_E/fGzgYWt9v3spv3K8lWt3kPm8g-NTKoIxwCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-WTrBJ2gLrIk/X4GwPPLmdeI/AAAAAAAAo_I/ffoL4uma--EljLl0CropMrPL0QPOchAawCLcBGAsYHQ/s135/015-Tachikoma-Ghost-in-the-Shell-Stand-Alone-Complex-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n015/",
+      "fetched_at": "2026-05-16T19:10:33.072Z",
+      "raw_id": "/nendoroid/details/n015/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.262Z",
+      "raw_id": "Nendoroid/0000-0099/015.json"
+    }
+  ]
+}

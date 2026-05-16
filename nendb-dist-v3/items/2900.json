@@ -1,0 +1,92 @@
+{
+  "num": "2900",
+  "name": {
+    "en": "Yui Hirasawa",
+    "ja": "ねんどろいど 平沢唯 2.0",
+    "ko": null
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": null,
+    "code": "k-on"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": "preorder",
+  "price_jpy": 6500,
+  "gtin": "4580828664586",
+  "gsc_product_id": "1137233",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1137233",
+    "ja": "https://www.goodsmile.com/ja/product/1137233"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137233/QNgcVxJh2a6GyS7LedK4kpbBqjMYwiRA.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq38mhImVH1XkkjChn5-oAEGZ_GZdXVtg4AzWZk-FF0nB8aeE3CCYfb7tblU7zivH1HEJnL6lfFU8q_n9wtuU_1fRy3gNRKa27OQT7M9ZGh-8HVYCdSqP-KMMl7nZ1xvYbRU0A3pxP1BabfxVg_RKhdojkvOYVQ1G_vXScbYBQ29YsCQ8AfZ3UQvFLaMjL/s270/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkPeY55SZVjZHwWKhVRwIG3Pk4Yec3dzT14b-eMED1LgZY2wTFjoRltUHaEyUtbXRgbvZkUqaNk7CuIlF484YE3uuMv2fYLZNCSgA5fNzXk7XF_WHGlRif_3RzrBEvoyjjV8fEPw7c9N45CMhStxn8O82ohY9fuKN8Q_1i3O2YL7uta-VEyMuY1Pi8FRk1/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJFMwwRrpgltl3ui_5vEtHFL1lQX4spSG0HgKENjlXjNZfGTDLeFfUX8uJsN-hMl5-sS8rDt5gwubkkvMA5PaU1gywWDwS5aWvBr0O0mkUEVSvAjIx-cu2BnEfYvQZc-Az3MNUrwtlMv5OucYJHq8mUC1vg5eAw9hNWBk-FLQSqguXitcGYZzwjZyiYlyy/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1e9RSv5jcN2haKLCk7eqXlFdCua1nmIW0AWb1Atm-2PP_rC5kTEzteRW2HvaHTZm0sGyJTyqX23R-9ezwe6_hK4jkvsxCQF3RfVlJEJL1i3ZYmTKvuvJKV1Fthp8DOKab5zcPEBPsQOyaiQ5MfjwIZmkJEr5gzmFQeEPoIFBuVmQfPXw2sGBsI2NaSve0/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqgR4MONNpkfLkGsjet2GtjsCo9NG7flbjOM7LOD8AJq2TGLHjiSJUC82r3AiLlmQYH68OuCk3vYiVUwbVFM6G6OPTx-g6Auu-0d30aY85M_8mKWs9tS6au3nCevFV6stN__kR2AyP3J-1UBQE7TupDbUxVO77v1LLvpIcL9pVg0E21Fdw1fYbJz63Tt7/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2g3x8NG-MHbAcSwJJOUUwFBCAEJj02atT-_9hGAXMphr64ZC-ccnZFOIMRLdQbioU_wB9P2f4O3GWhY0K-Q8Qx3snRlter-9RFAmE9Lk32L8doShWakK5K3ErpX_R4pmcEIekpladUmmgfx9Kl38xOOrv8FZrvbAaQJjFbE1qm7MMe28XsGhFm8qaGztU/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGn8Z7VgT9dZUJy165sqvRsTshKX-Qv-nox7BuroTF4qfvkqY3elCVhDv7qraJwbcIDCuxwuA8e-VYDRhNYJPbxjuh6_JMRY0jCLlvlWWX5w8lyvVTf5GKFl4dw8nwbBK_ld9R8WrVfujnpiDdm4SC3x7wzB5DIedJsKoAA_Ft09dcG9m_0XBAykCj0RpE/s135/2900-Yui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137233/WxRVtyrABGMQuCjcSZJFHpdL35eKg8iv.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137233/QNgcVxJh2a6GyS7LedK4kpbBqjMYwiRA.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Preorders Open Now",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1137233",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:12:13.575Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1137233",
+      "fetched_at": "2026-05-16T12:12:13.575Z",
+      "raw_id": "1137233"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1137233",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1137233"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2900/",
+      "fetched_at": "2026-05-16T19:10:34.380Z",
+      "raw_id": "/nendoroid/details/n2900/"
+    }
+  ]
+}

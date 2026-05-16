@@ -1,0 +1,64 @@
+{
+  "num": "2366",
+  "name": {
+    "en": "Freddy Fazbear",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Five Nights At Freddy's",
+    "ja": null,
+    "ko": null,
+    "code": "five-nights-at-freddy-s"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-InugEWASJl0/Ziq-srJeK2I/AAAAAAABD_A/4eg0SbhJ3FUluwkA2or7-r0i9yqUDqDOwCNcBGAsYHQ/s270/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-InugEWASJl0/Ziq-srJeK2I/AAAAAAABD_A/4eg0SbhJ3FUluwkA2or7-r0i9yqUDqDOwCNcBGAsYHQ/s270/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Nr9dgx8tLv4/ZowzvOIVq6I/AAAAAAABFLw/ki8CR70KA9ENmr0cMDhwbGirMkPpN8IwwCNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8SxKWnLHAN0/ZowzvdNAZ4I/AAAAAAABFL0/m8wGXU1IYSshcI8U6NbreECiuiVzgFD_ACNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MOmYHsY9_-Q/ZowzwEVN_XI/AAAAAAABFL4/-b_rnJTavLM2pblX3X7Xva3xR9xneIouQCNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pxHhvesOw38/Zowzwc3noKI/AAAAAAABFL8/9Y4ZBArx5WUT0CqkIIal25mRZP9rQcHjACNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-juLRA_FJoDI/Zow93hHBV7I/AAAAAAABGOo/PZfPOMjG7a8bGfd_z4Yf5age5VRw1OeYQCNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sVFwRYgT7xo/ZowzxW-G6uI/AAAAAAABFME/SsbYGf0xeRwUBWoy_2ryOOgeyOlwCEZWACNcBGAsYHQ/s135/2366-Freddy-Fazbear-Five-Nights-at-Freddys-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2366/",
+      "fetched_at": "2026-05-16T19:10:34.013Z",
+      "raw_id": "/nendoroid/details/n2366/"
+    }
+  ]
+}

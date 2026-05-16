@@ -1,0 +1,68 @@
+{
+  "num": "1414",
+  "name": {
+    "en": "Nendoroid Osamu Dazai: Airport Ver.",
+    "ja": "ねんどろいど 太宰治 ヱアポートVer. (ねんどろいど だざいおさむ えあぽーとVer.)",
+    "ko": "다자이 오사무 에어포트 Ver."
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9771,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l-YdkVw5S08/X4NkcEM0E3I/AAAAAAABm5Q/3ubxOlz_k8IFpGTiiJeJDOruRnsGBbUTgCLcBGAsYHQ/s270/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l-YdkVw5S08/X4NkcEM0E3I/AAAAAAABm5Q/3ubxOlz_k8IFpGTiiJeJDOruRnsGBbUTgCLcBGAsYHQ/s270/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-birA5VyprDo/X4tAJLuX45I/AAAAAAABqxk/ZkHzWBRM7xsIgpM1bV-AtEovi1zQs_7wACLcBGAsYHQ/s135/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7dCOnQfVo74/X4tAJaazJBI/AAAAAAABqxo/Rsc55BcUZ2E4mYQ-hFXwR3LrgPlRLYnogCLcBGAsYHQ/s135/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CzOc4zdn_TM/X4tAJmEy7dI/AAAAAAABqxs/aFV6szCTCw4epZRV47WFEJGNTaa0KoObQCLcBGAsYHQ/s135/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-13S68toe8Ms/X4tAJ9KRtHI/AAAAAAABqxw/NKwJfLr0TVMjTsyn5cK2wGjyFwDSac_cQCLcBGAsYHQ/s135/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-K97n9KLvr0A/X4tAKMwbwRI/AAAAAAABqx0/50JldTnTTl8z8EqYyKxzc091I9dxokynQCLcBGAsYHQ/s135/1414-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1414/",
+      "fetched_at": "2026-05-16T19:10:33.416Z",
+      "raw_id": "/nendoroid/details/n1414/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.659Z",
+      "raw_id": "Nendoroid/1400-1499/1414.json"
+    }
+  ]
+}

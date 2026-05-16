@@ -1,0 +1,68 @@
+{
+  "num": "2155",
+  "name": {
+    "en": "Nendoroid Elishka",
+    "ja": "ねんどろいど エリシュカ (ねんどろいど えりしゅか)",
+    "ko": "에리슈카"
+  },
+  "series": {
+    "en": "BLACK ROCK SHOOTER FRAGMENT",
+    "ja": "ブラック★ロックシューター FRAGMENT",
+    "ko": "블랙록슈터",
+    "code": "black-rock-shooter-fragment"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14369,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-m8zstnw2FHM/ZIzT4MGitEI/AAAAAAAA-Pk/jxyg7smjnUsKx0AcH-D6h2dXxaVvJ9feQCNcBGAsYHQ/s270/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-m8zstnw2FHM/ZIzT4MGitEI/AAAAAAAA-Pk/jxyg7smjnUsKx0AcH-D6h2dXxaVvJ9feQCNcBGAsYHQ/s270/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0bxxeEDRndI/ZIzV2fAQquI/AAAAAAAA-U4/DNvmeaZkp6s7D8ErMmJWUV6HBS01643wQCNcBGAsYHQ/s135/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_NgLku_KqI0/ZIzV28cavRI/AAAAAAAA-U8/EwgR2Wm0LtwlHST9R1qJF-nJhLfxm8ItgCNcBGAsYHQ/s135/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DOcy081KgRs/ZIzV3dKf_TI/AAAAAAAA-VA/eqiXsDOG4mUssDp_x2hkAVk6TysfknqlQCNcBGAsYHQ/s135/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tVBlhmpYLIo/ZIzV3x_shpI/AAAAAAAA-VE/thI3bZsMJDQxvbVTu-AkHTWq7y5gm7bGACNcBGAsYHQ/s135/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Xkv0Ct7OpJA/ZIzV4TuJYII/AAAAAAAA-VI/SQjWvgSpCQsK6cunKDhzJD5Pl6MKXkrqACNcBGAsYHQ/s135/2155-Elishka-Black-Rock-Shooter-Fragment-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2155/",
+      "fetched_at": "2026-05-16T19:10:33.871Z",
+      "raw_id": "/nendoroid/details/n2155/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.840Z",
+      "raw_id": "Nendoroid/2100-2199/2155.json"
+    }
+  ]
+}

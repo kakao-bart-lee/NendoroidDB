@@ -1,0 +1,67 @@
+{
+  "num": "1367",
+  "name": {
+    "en": "Nendoroid Atsushi Nakajima: Airport Ver.",
+    "ja": "ねんどろいど 中島敦 ヱアポートVer. (ねんどろいど なかじまあつし えあぽーとVer.)",
+    "ko": "나카지마 아츠시 에어포트 Ver."
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9580,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DyJoS3QT_Z8/X4Nj0P6eOdI/AAAAAAABm28/yvCfV2ZWhZYmyYOFs4MqeZDPoPE3pSsNwCLcBGAsYHQ/s270/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DyJoS3QT_Z8/X4Nj0P6eOdI/AAAAAAABm28/yvCfV2ZWhZYmyYOFs4MqeZDPoPE3pSsNwCLcBGAsYHQ/s270/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NzErXZC06YA/X4s96rSew0I/AAAAAAABqm8/V2BKPSG3tZwjlbcKJRTgNNJnIUSxDA-ygCLcBGAsYHQ/s135/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-waoPynGaZP8/X4s96qI9DRI/AAAAAAABqnA/SjmvHpViYHoDdz1Yh3Ib4eDk_1HImjnngCLcBGAsYHQ/s135/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--k31e9GHNro/X4s960kgflI/AAAAAAABqnE/LJE6wzH9R5UuQ_1Fw9Uuud3IKdiZqdEtgCLcBGAsYHQ/s135/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XhwJ9s1ao6E/X4s97aFaioI/AAAAAAABqnI/fP3HIw_sRLUKEv-7aUvFMnnmmVCUZAYtACLcBGAsYHQ/s135/1367-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1367/",
+      "fetched_at": "2026-05-16T19:10:33.385Z",
+      "raw_id": "/nendoroid/details/n1367/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.649Z",
+      "raw_id": "Nendoroid/1300-1399/1367.json"
+    }
+  ]
+}

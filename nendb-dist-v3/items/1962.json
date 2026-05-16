@@ -1,0 +1,68 @@
+{
+  "num": "1962",
+  "name": {
+    "en": "Nendoroid Tohru",
+    "ja": "ねんどろいど トール (ねんどろいど とーる)",
+    "ko": "토르"
+  },
+  "series": {
+    "en": "Miss Kobayashi's Dragon Maid",
+    "ja": "小林さんちのメイドラゴン",
+    "ko": "코바야시네 메이드래곤",
+    "code": "miss-kobayashi-s-dragon-maid"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13253,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5c-xZQH7Nxw/Y02wD4Ij6xI/AAAAAAAA6_w/Je9c8fwc0TwIbl4F_a1UABbYPTmT_OoRwCNcBGAsYHQ/s270/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5c-xZQH7Nxw/Y02wD4Ij6xI/AAAAAAAA6_w/Je9c8fwc0TwIbl4F_a1UABbYPTmT_OoRwCNcBGAsYHQ/s270/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ugIPwxN8o7w/Y0271L_JiwI/AAAAAAAA7UY/P0Jkpj6qETwdCanJYnUqI6KAkPcTslwSACNcBGAsYHQ/s135/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iUssWTLVfm0/Y0271njKgrI/AAAAAAAA7Uc/cw6OB7qoXN09kd7rmsNDrdXr3tS3lboKQCNcBGAsYHQ/s135/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6P7moC5HiVY/Y0272PzM7DI/AAAAAAAA7Ug/xsRxbLVhwA0IQtGd619Gvb0hSdEy8KUGgCNcBGAsYHQ/s135/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-69JDVkiN_R0/Y0272qdldQI/AAAAAAAA7Uk/SXNA1NNXN4wp0TnM0qC366bqVHq8HNyWACNcBGAsYHQ/s135/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-abQw6hDrilQ/Y0273G-BXRI/AAAAAAAA7Uo/GsJbGwD1SXkk_flkIIvF43oWwiKWMLffwCNcBGAsYHQ/s135/1962-Tohru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1962/",
+      "fetched_at": "2026-05-16T19:10:33.755Z",
+      "raw_id": "/nendoroid/details/n1962/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.792Z",
+      "raw_id": "Nendoroid/1900-1999/1962.json"
+    }
+  ]
+}

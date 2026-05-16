@@ -1,0 +1,68 @@
+{
+  "num": "0362",
+  "name": {
+    "en": "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)",
+    "ja": "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
+    "ko": "샤메이마루 아야"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4028,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mxf5YHfnJps/X4NM6NFwiOI/AAAAAAABljY/unfJzF_zNxoRR9tiC_10HlT3kWX5zOYAwCLcBGAsYHQ/s270/362-Aya-Shameimaru-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mxf5YHfnJps/X4NM6NFwiOI/AAAAAAABljY/unfJzF_zNxoRR9tiC_10HlT3kWX5zOYAwCLcBGAsYHQ/s270/362-Aya-Shameimaru-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ae63dnVGmME/X4dbEidAt-I/AAAAAAAArHg/GIEWD_CpvsQJbiszZn5OTKiiAjgAb54WgCLcBGAsYHQ/s135/362-Aya-Shameimaru-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-urqxhNiGd8s/X4dbFV60TOI/AAAAAAAArHk/168lusZFPWsZrMVGTXjd6r8zTI4AbrrlQCLcBGAsYHQ/s135/362-Aya-Shameimaru-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8sIdcg-bOBE/X4dbF9XGiUI/AAAAAAAArHo/rAIbQME6hxwfaH1ISRJTrOEV6AMOLOKVQCLcBGAsYHQ/s135/362-Aya-Shameimaru-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cyzbH12SsJI/X4dbGXnrUwI/AAAAAAAArHs/Maa1xOoQNO8qwWrD6WwXocp-B5Dv6buSACLcBGAsYHQ/s135/362-Aya-Shameimaru-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RP9ShjMCshU/X4dbG9GXOmI/AAAAAAAArHw/tW5zR4KDhAQkAsnVtwd1qjBQhxNDATPGwCLcBGAsYHQ/s135/362-Aya-Shameimaru-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n362/",
+      "fetched_at": "2026-05-16T19:10:34.484Z",
+      "raw_id": "/nendoroid/details/n362/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.361Z",
+      "raw_id": "Nendoroid/0300-0399/362.json"
+    }
+  ]
+}

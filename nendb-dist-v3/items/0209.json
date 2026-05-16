@@ -1,0 +1,67 @@
+{
+  "num": "0209",
+  "name": {
+    "en": "Nendoroid Sayaka Miki (ねんどろいど みきさやか)",
+    "ja": "ねんどろいど 美樹さやか (ねんどろいど みきさやか)",
+    "ko": "미키 사야카"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3343,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hP0VY_NT_tE/X4NLGLgzMgI/AAAAAAABlV0/9mxNpUY4TvQ4SuX_mnn64N8AWE6qB8uEgCLcBGAsYHQ/s270/209-Miki-Sayaka-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hP0VY_NT_tE/X4NLGLgzMgI/AAAAAAABlV0/9mxNpUY4TvQ4SuX_mnn64N8AWE6qB8uEgCLcBGAsYHQ/s270/209-Miki-Sayaka-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Cn8QWZ8DHuE/X4dW5XdzqyI/AAAAAAAAqVE/On7E_jHeEyEdzQytOG6E-86S9_Of4uTDQCLcBGAsYHQ/s135/209-Miki-Sayaka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3iJPDV7JLw8/X4dW5Rdn8AI/AAAAAAAAqVI/PPLoAASP9zU7MVy-HlnZxYlLDRxas4DMQCLcBGAsYHQ/s135/209-Miki-Sayaka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dMZ9qRixs24/X4dW5gFqjzI/AAAAAAAAqVM/veG4BO5_vbA_FTumUUOrbigkmP5oG2MxQCLcBGAsYHQ/s135/209-Miki-Sayaka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4a4y-kcxGqo/X4dW53RyMPI/AAAAAAAAqVQ/_YRGg4iNXX0hFL1zvAD6_SdGKE67E3YwwCLcBGAsYHQ/s135/209-Miki-Sayaka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n209/",
+      "fetched_at": "2026-05-16T19:10:33.840Z",
+      "raw_id": "/nendoroid/details/n209/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.321Z",
+      "raw_id": "Nendoroid/0200-0299/209.json"
+    }
+  ]
+}

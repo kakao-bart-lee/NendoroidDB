@@ -1,0 +1,69 @@
+{
+  "num": "1190",
+  "name": {
+    "en": "Nendoroid Aquaman: Hero's Edition",
+    "ja": "ねんどろいど アクアマン ヒーローズ・エディション (ねんどろいど あくあまん ひーろーず・えでぃしょん)",
+    "ko": "아쿠아맨 히어로즈 에디션"
+  },
+  "series": {
+    "en": "Aquaman",
+    "ja": "アクアマン",
+    "ko": "아쿠아맨",
+    "code": "aquaman"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8656,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YBzvzWh0XN8/X4NguuVNyyI/AAAAAAABmec/PPagXxVXLDoXu2YdRCvPxNEGrmJpyGw3gCLcBGAsYHQ/s270/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YBzvzWh0XN8/X4NguuVNyyI/AAAAAAABmec/PPagXxVXLDoXu2YdRCvPxNEGrmJpyGw3gCLcBGAsYHQ/s270/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e8MSg1Qtu6c/X4rxvAsmw8I/AAAAAAABpeM/wJOOdcFb6HwtddbhjfHQ_bd66eBbLNIaACLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lw-a3elENzI/X4rxvbywUBI/AAAAAAABpeQ/jlrcfLIQCsE8VPkvwcLm0U2H-EKjDzEWACLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IqszeTUcLZA/X4rxvsTdH5I/AAAAAAABpeU/aG7hIqNB4ZM5NCT4V4XiwB57WVT5O7jBQCLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-byLG84ZqHps/X4rxv3gdUNI/AAAAAAABpeY/y4ecxYsfKu42_CkyrDXZjIW2QHnvDg0LgCLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-u555ytzETfw/X4rxwD7wa2I/AAAAAAABpec/2FvjRd-QWwIyeUX-X-SHHG5AVAJLAm_qACLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ALEY2vSe2Ls/X4rxwX6C7nI/AAAAAAABpeg/vtunu-_HM3wIOSQi81wybFjPpBSGUrcnQCLcBGAsYHQ/s135/1190-Aquaman-Aquaman-DC-Comics-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1190/",
+      "fetched_at": "2026-05-16T19:10:33.277Z",
+      "raw_id": "/nendoroid/details/n1190/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.606Z",
+      "raw_id": "Nendoroid/1100-1199/1190.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1210",
+  "name": {
+    "en": "Nendoroid Haru Okumura: Phantom Thief Ver.",
+    "ja": "ねんどろいど 奥村春 怪盗服Ver. (ねんどろいど おくむらはる かいとうふくVer.)",
+    "ko": "오쿠무라 하루 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8792,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WphTBpk7PVo/X4NiFmuyRRI/AAAAAAABmnU/Wpn-rkvkiGIrXC3sPgSO6VdZiCsZVEhrQCLcBGAsYHQ/s270/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WphTBpk7PVo/X4NiFmuyRRI/AAAAAAABmnU/Wpn-rkvkiGIrXC3sPgSO6VdZiCsZVEhrQCLcBGAsYHQ/s270/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oYLP9yq6I8U/X4rzFEYH2JI/AAAAAAABppA/xqof_ZnKqCwywHGBiPAuaOjtXzOdVCBlQCLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pOHj0EhtVt0/X4rzFExRtpI/AAAAAAABppE/ybL7XVQEhA4oACpxjlvSXnBaHByhovV8gCLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ByjZcnFKDAs/X4rzFWyIDcI/AAAAAAABppI/2PRHMC-ZDyImX7oT9FsmdcN9TL9spkiCwCLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YWxbf25bXTA/X4rzF_wTRUI/AAAAAAABppM/tlXwPZ7OOW0sE0wzV9zz9GFlwfnBBiZeACLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Hawsn_j5Beg/X4rzGH7_u3I/AAAAAAABppQ/EtYD6sLWvH4c1zO6gxq4d-8Aclf1-_aEgCLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QEThC6txbQE/X4rzGNtZg5I/AAAAAAABppU/p4wTiIHfBaAcfQY8ATtHH9erg_tcnEbhACLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-XiLdXDOZEqs/X4rzGTy6AsI/AAAAAAABppY/peEaM_QaPs0Ov1k8da_2URN09Q6TkLkCACLcBGAsYHQ/s135/1210-Haru-Okumura-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1210/",
+      "fetched_at": "2026-05-16T19:10:33.289Z",
+      "raw_id": "/nendoroid/details/n1210/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.610Z",
+      "raw_id": "Nendoroid/1200-1299/1210.json"
+    }
+  ]
+}

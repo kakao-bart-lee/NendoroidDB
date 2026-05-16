@@ -1,0 +1,68 @@
+{
+  "num": "1847",
+  "name": {
+    "en": "Nendoroid Misuzu Kamio",
+    "ja": "ねんどろいど 神尾観鈴 (ねんどろいど かみおみすず)",
+    "ko": "카미오 미스즈"
+  },
+  "series": {
+    "en": "KAGINADO",
+    "ja": "かぎなど",
+    "ko": "카기나도",
+    "code": "kaginado"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12458,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YDrZkolIX2o/YliMln8w-OI/AAAAAAAA5MU/sW30gQwmaaYkokE6xHMmNf9m1DxyQ5lCACNcBGAsYHQ/s270/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YDrZkolIX2o/YliMln8w-OI/AAAAAAAA5MU/sW30gQwmaaYkokE6xHMmNf9m1DxyQ5lCACNcBGAsYHQ/s270/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AFCv5fCsNSY/YliVxftmqpI/AAAAAAAA5Xw/0FusJQDzw7YsRkL3cU5nysUIW9lZBHGpQCNcBGAsYHQ/s135/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dr8aGN3vmG8/YliVx5fJxgI/AAAAAAAA5X0/dCacipEFF7kbgkG1BRk3cGmSCEtHFGqWwCNcBGAsYHQ/s135/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-D8kBB8IMPcY/YliVyMk_Y-I/AAAAAAAA5X4/n2IdzBoodkgCofy6qlkeg7AedtJIqDZDgCNcBGAsYHQ/s135/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Zy0FLtEBi4E/YliVyb5KYOI/AAAAAAAA5X8/_KMsmkP2BX0GRwlpSEBI6u-QFNj0-WaXQCNcBGAsYHQ/s135/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-spr89BksW1E/YliVySOuoBI/AAAAAAAA5YA/34hdrVSQw58z2oWxx5LQEjz34QpZKg4HACNcBGAsYHQ/s135/1847-Misuzu-Kamio-KAGINADO-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1847/",
+      "fetched_at": "2026-05-16T19:10:33.684Z",
+      "raw_id": "/nendoroid/details/n1847/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.766Z",
+      "raw_id": "Nendoroid/1800-1899/1847.json"
+    }
+  ]
+}

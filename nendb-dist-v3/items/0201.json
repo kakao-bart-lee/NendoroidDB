@@ -1,0 +1,67 @@
+{
+  "num": "0201",
+  "name": {
+    "en": "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)",
+    "ja": "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
+    "ko": "코바야시 카무이"
+  },
+  "series": {
+    "en": "Kamui Kobayashi",
+    "ja": "小林可夢偉",
+    "ko": "실존인물(레이서)",
+    "code": "kamui-kobayashi"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cP2dG6ULRTk/X4NLED6FvBI/AAAAAAABlVU/P8UtTcW0GmkHmryppE3STQ7kvN896wGBgCLcBGAsYHQ/s270/201-Kamui%2BKobayashi-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cP2dG6ULRTk/X4NLED6FvBI/AAAAAAABlVU/P8UtTcW0GmkHmryppE3STQ7kvN896wGBgCLcBGAsYHQ/s270/201-Kamui%2BKobayashi-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z2nu0hkl8NU/X4dWtsyKLBI/AAAAAAAAqSs/P7dWIS6QHfMDEdHAI-0L5F55iOUOBpF0QCLcBGAsYHQ/s135/201-Kamui-Kobayashi-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gSEDU3JU5bo/X4dWtmYWYII/AAAAAAAAqSo/Jgx6CuKCSsIbcxJ2egztR46e6BIa72oPACLcBGAsYHQ/s135/201-Kamui-Kobayashi-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a3j-r8mGKBU/X4dWtkQyaOI/AAAAAAAAqSw/v_c2OlUZ4wkGhfqj07Vk_m36Gvr_pvVjACLcBGAsYHQ/s135/201-Kamui-Kobayashi-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wZgznwwnJIM/X4dWuEHnZ1I/AAAAAAAAqS0/YhgbNsCJO3UbY0tDmLn-4E0iQTPnS-KlACLcBGAsYHQ/s135/201-Kamui-Kobayashi-Celebrity-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n201/",
+      "fetched_at": "2026-05-16T19:10:33.788Z",
+      "raw_id": "/nendoroid/details/n201/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.318Z",
+      "raw_id": "Nendoroid/0200-0299/201.json"
+    }
+  ]
+}

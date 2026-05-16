@@ -1,0 +1,69 @@
+{
+  "num": "2060",
+  "name": {
+    "en": "Nendoroid Saint Tail",
+    "ja": "ねんどろいど セイント・テール (ねんどろいど せいんと・てーる)",
+    "ko": "세인트 테일"
+  },
+  "series": {
+    "en": "Saint Tail",
+    "ja": "怪盗セイント・テール",
+    "ko": "천사소녀 네티(괴도 세인트 테일)",
+    "code": "saint-tail"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13916,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-46wArEk99Jo/ZA3eAmirllI/AAAAAAAA9KE/Fry72oWPVRA7eYlRDpJJ2tn7maLTn9KlwCNcBGAsYHQ/s270/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-46wArEk99Jo/ZA3eAmirllI/AAAAAAAA9KE/Fry72oWPVRA7eYlRDpJJ2tn7maLTn9KlwCNcBGAsYHQ/s270/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Gd3aBKhCnYc/ZA3cvamGyNI/AAAAAAAA8_c/vOgcVWCy020CpVqDhd5MlPOC6rv0cHRiACNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-krQWHdV_7rM/ZA3cvUv9U9I/AAAAAAAA8_g/Sj0vaNQsUSQ9TggqlvH52YjuuYi9-zoeACNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ChC5pExskqI/ZA3cvhkbD7I/AAAAAAAA8_k/9li3ZwZe2PEH1xcn6mMllRcII26Wf8NmACNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WiTvl4apxdg/ZA3cvqrhkRI/AAAAAAAA8_o/7JV7IQx7JBc99oFrlZ2ZMXIYHix1uFrMgCNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TeoRu7CYzTM/ZA3cv82aejI/AAAAAAAA8_s/H9lFdag7azIYxpSkah3BqiTT4F1wE9qrACNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6Mti0Vmj7Uo/ZA3cwG71xTI/AAAAAAAA8_0/cogiP0eKWQY8gVFzsfiEW8PhaTpW_j20QCNcBGAsYHQ/s135/2060-Saint-Tail-Saint-Tail-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2060/",
+      "fetched_at": "2026-05-16T19:10:33.815Z",
+      "raw_id": "/nendoroid/details/n2060/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.817Z",
+      "raw_id": "Nendoroid/2000-2099/2060.json"
+    }
+  ]
+}

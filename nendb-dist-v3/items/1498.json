@@ -1,0 +1,67 @@
+{
+  "num": "1498",
+  "name": {
+    "en": "Nendoroid Peter Parker: Spider-Verse Ver.",
+    "ja": "ねんどろいど ピーター・パーカー スパイダーバースVer. (ねんどろいど ぴーたー・ぱーかー すぱいだーばーすVer.)",
+    "ko": "피터 B. 파커 스파이더 Ver. "
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10299,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FzwtIRYVLmQ/X58YjQAdxiI/AAAAAAAAuFY/vlOfjeBH42g2W0ayuHCN4BEAXh00bl0hgCLcBGAsYHQ/s270/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FzwtIRYVLmQ/X58YjQAdxiI/AAAAAAAAuFY/vlOfjeBH42g2W0ayuHCN4BEAXh00bl0hgCLcBGAsYHQ/s270/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kbThQcsC-ZM/X58Z-xfIi4I/AAAAAAAAuIw/9LPcJIOt_q4zj1GvVJ5Rvx0RBWSYZBspQCLcBGAsYHQ/s135/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sfiadTARBi8/X58Z_P_p4UI/AAAAAAAAuI0/laz718dkGXEgeaUfb_bXMCAWrg8b29igACLcBGAsYHQ/s135/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Wrc3ATPI_lg/X58Z_dWb5NI/AAAAAAAAuI4/_bklI_Ue6xk0GLq2ZVDUb64LGwQKMTk2QCLcBGAsYHQ/s135/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jpznBjgr5qY/X58Z_oXgF4I/AAAAAAAAuI8/qSuZ5oQgGUk4s-2UoAI1oIgJ_wQ7fSO5QCLcBGAsYHQ/s135/1498-Peter-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1498/",
+      "fetched_at": "2026-05-16T19:10:33.467Z",
+      "raw_id": "/nendoroid/details/n1498/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.680Z",
+      "raw_id": "Nendoroid/1400-1499/1498.json"
+    }
+  ]
+}

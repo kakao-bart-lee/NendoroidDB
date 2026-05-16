@@ -1,0 +1,67 @@
+{
+  "num": "0537",
+  "name": {
+    "en": "Nendoroid N (ねんどろいど えぬ)",
+    "ja": "ねんどろいど N (ねんどろいど えぬ)",
+    "ko": "N"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5144,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1cue-S9A708/X4NOeWfvkHI/AAAAAAABlvw/V39ziaIKg3AfHrLxsJUby_TagSmmZ99TgCLcBGAsYHQ/s270/537-N-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1cue-S9A708/X4NOeWfvkHI/AAAAAAABlvw/V39ziaIKg3AfHrLxsJUby_TagSmmZ99TgCLcBGAsYHQ/s270/537-N-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KlvZHp4imMU/X4isfHXhjRI/AAAAAAAAsHc/jnDyrNy3pXcxUBoUm3bqjHg1aS4uUiRWwCLcBGAsYHQ/s135/537-N-Pokemon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SLp-8zESKoY/X4isfb1cTAI/AAAAAAAAsHk/F7_zNITD9zgL0qp4AeTcAXv3YQ7-dAXWgCLcBGAsYHQ/s135/537-N-Pokemon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OJFrIIEb7BM/X4isfVlkzEI/AAAAAAAAsHg/CP93TRTBl403EdvaJp5Dt99NkPeBwje3wCLcBGAsYHQ/s135/537-N-Pokemon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jdGTcmE7BL4/X4isfizEM7I/AAAAAAAAsHo/ryKUR__iIFcCAIekUEnqhlgjDskL22CQACLcBGAsYHQ/s135/537-N-Pokemon-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n537/",
+      "fetched_at": "2026-05-16T19:10:34.586Z",
+      "raw_id": "/nendoroid/details/n537/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.435Z",
+      "raw_id": "Nendoroid/0500-0599/537.json"
+    }
+  ]
+}

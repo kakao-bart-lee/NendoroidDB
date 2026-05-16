@@ -1,0 +1,68 @@
+{
+  "num": "1891",
+  "name": {
+    "en": "Nendoroid Yoshikazu Miyano",
+    "ja": "ねんどろいど 宮野由美 (ねんどろいど みやのよしかず)",
+    "ko": "미야노 요시카즈"
+  },
+  "series": {
+    "en": "Sasaki and Miyano",
+    "ja": "佐々木と宮野",
+    "ko": "사사키와 미야노",
+    "code": "sasaki-and-miyano"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12780,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZyuI4E2OIyo/Yw_WLDCOY0I/AAAAAAAA6ZE/nhKa_geFe0EMpq_WLbtZyGa-I9JjrFXwwCNcBGAsYHQ/s270/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZyuI4E2OIyo/Yw_WLDCOY0I/AAAAAAAA6ZE/nhKa_geFe0EMpq_WLbtZyGa-I9JjrFXwwCNcBGAsYHQ/s270/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bF4VK_NC1VY/YxEWoiEuaaI/AAAAAAAA6iE/2IypSbgkRSE7PHXYj5ngNT4peTb61xQfACNcBGAsYHQ/s135/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ETBpw1cilvs/YxEWoxzg4KI/AAAAAAAA6iM/dk0YoaPNSZ0WIG14JLZR-cddxT_4FdnUACNcBGAsYHQ/s135/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dNFQhtvU0-I/YxEWpYHPSrI/AAAAAAAA6iQ/FMVroap7W8MLK0gomoS8LUWrVLbThz1KACNcBGAsYHQ/s135/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5TTrVkwn36k/YxEWp89BPOI/AAAAAAAA6iU/VS1qcslacA0ux62__nphqIDhE0pJr_piQCNcBGAsYHQ/s135/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-R4E2g9WN4xw/YxEWqfBo_4I/AAAAAAAA6iY/4ztzTk6djVAI2itovvEjCaEWbdDzaARvwCNcBGAsYHQ/s135/1891-Yoshikazu-Miyano-Sasaki-and-Miyano-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1891/",
+      "fetched_at": "2026-05-16T19:10:33.713Z",
+      "raw_id": "/nendoroid/details/n1891/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.776Z",
+      "raw_id": "Nendoroid/1800-1899/1891.json"
+    }
+  ]
+}

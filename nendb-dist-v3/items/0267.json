@@ -1,0 +1,67 @@
+{
+  "num": "0267",
+  "name": {
+    "en": "Nendoroid Nodoka Haramura (ねんどろいど はらむらのどか)",
+    "ja": "ねんどろいど 原村和 (ねんどろいど はらむらのどか)",
+    "ko": "하라무라 노도카"
+  },
+  "series": {
+    "en": "Saki Achiga-hen episode of Side-A",
+    "ja": "咲-Saki-阿知賀編 episode of side-A",
+    "ko": "사키",
+    "code": "saki-achiga-hen-episode-of-side-a"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3909,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3622,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8jxjpt5lOP8/X4NLVu7shCI/AAAAAAABlZc/90r87lDekx4eCeeiUwFalm-H2FuC2UmtwCLcBGAsYHQ/s270/267-Haramura-Nodoka-Saki-Achiga-Hen-Episode-of-Side-A-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8jxjpt5lOP8/X4NLVu7shCI/AAAAAAABlZc/90r87lDekx4eCeeiUwFalm-H2FuC2UmtwCLcBGAsYHQ/s270/267-Haramura-Nodoka-Saki-Achiga-Hen-Episode-of-Side-A-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1jU3f1dvoW4/X4dX_-c5-0I/AAAAAAAAqmc/-C6Xn7pGsoQNnCL1lNe8lI-H2xYizwVYgCLcBGAsYHQ/s135/267-Haramura-Nodoka-Saki-Achiga-hen-Episode-of-side-A-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LSfJt5uOZro/X4dX__EH7oI/AAAAAAAAqmg/13hwVYSDT-YPXSf1xqJh-KkLKEO7qul1QCLcBGAsYHQ/s135/267-Haramura-Nodoka-Saki-Achiga-hen-Episode-of-side-A-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-11wOlyvTM94/X4dYADn5jcI/AAAAAAAAqmo/G98QWWWyN5osEInFRRjUPq-iwvG52TEtgCLcBGAsYHQ/s135/267-Haramura-Nodoka-Saki-Achiga-hen-Episode-of-side-A-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WobtQB_dPb8/X4dYAKiB5aI/AAAAAAAAqmk/j6vB-s_9YMkFAN-8mOzy1LNTRSM6--Z4wCLcBGAsYHQ/s135/267-Haramura-Nodoka-Saki-Achiga-hen-Episode-of-side-A-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n267/",
+      "fetched_at": "2026-05-16T19:10:34.205Z",
+      "raw_id": "/nendoroid/details/n267/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.336Z",
+      "raw_id": "Nendoroid/0200-0299/267.json"
+    }
+  ]
+}

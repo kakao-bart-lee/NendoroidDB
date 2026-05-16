@@ -1,0 +1,68 @@
+{
+  "num": "0317",
+  "name": {
+    "en": "Nendoroid Kobato Hasegawa (ねんどろいど はせがわこばと)",
+    "ja": "ねんどろいど 羽瀬川小鳩 (ねんどろいど はせがわこばと)",
+    "ko": "하세가와 코바토"
+  },
+  "series": {
+    "en": "Bokuha Tomodachiga Sukunai NEXT",
+    "ja": "僕は友達が少ないNEXT",
+    "ko": "나는 친구가 적다",
+    "code": "bokuha-tomodachiga-sukunai-next"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3869,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zGR_XHUc9jA/X4NMntjO44I/AAAAAAABlgc/FJ2Futv5olEVjLNIjqZNFLTHsZu4Gl-_wCLcBGAsYHQ/s270/317-Hasegawa-Kobato-Boku-Wa-Tomodachi-Sa-Sukunai-Next-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zGR_XHUc9jA/X4NMntjO44I/AAAAAAABlgc/FJ2Futv5olEVjLNIjqZNFLTHsZu4Gl-_wCLcBGAsYHQ/s270/317-Hasegawa-Kobato-Boku-Wa-Tomodachi-Sa-Sukunai-Next-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-F91KQbEHB2A/X4daMGod94I/AAAAAAAAq40/7zlL2eW56w4I7DXGp3Wx0xJHdGkj4xhfACLcBGAsYHQ/s135/317-Kobato-Hasegawa-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q3Y6E7V8g3A/X4daMmejjJI/AAAAAAAAq44/5cEWSVtExXs7bLkjvv4pEQnCNnfkQHLoACLcBGAsYHQ/s135/317-Kobato-Hasegawa-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-W0KwexHG9uE/X4daNI3MVrI/AAAAAAAAq48/wsm_8JMboJI8T286k-QuD95beyWLs1-IgCLcBGAsYHQ/s135/317-Kobato-Hasegawa-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YymRo2OObDg/X4daNpN8npI/AAAAAAAAq5A/SrVKmYhU-Nw0NIHPFGtz-P1MqEzOM2LaACLcBGAsYHQ/s135/317-Kobato-Hasegawa-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DR9aG4XXw8k/X4daNxeRXaI/AAAAAAAAq5E/0FkjfMIoXF8eiTEN-kyeZ4ptshPYsk_jQCLcBGAsYHQ/s135/317-Kobato-Hasegawa-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n317/",
+      "fetched_at": "2026-05-16T19:10:34.458Z",
+      "raw_id": "/nendoroid/details/n317/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.350Z",
+      "raw_id": "Nendoroid/0300-0399/317.json"
+    }
+  ]
+}

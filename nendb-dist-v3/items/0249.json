@@ -1,0 +1,67 @@
+{
+  "num": "0249",
+  "name": {
+    "en": "Nendoroid Kuroyukihime (ねんどろいど くろゆきひめ)",
+    "ja": "ねんどろいど 黒雪姫 (ねんどろいど くろゆきひめ)",
+    "ko": "흑설공주"
+  },
+  "series": {
+    "en": "Accel World",
+    "ja": "アクセル・ワールド",
+    "ko": "엑셀 월드",
+    "code": "accel-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3550,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5IGrhQ72Qrk/X4NLRFzYwsI/AAAAAAABlYU/T-PwT__GLfIDbNQ02JWh9MUfEO8eav-6QCLcBGAsYHQ/s270/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5IGrhQ72Qrk/X4NLRFzYwsI/AAAAAAABlYU/T-PwT__GLfIDbNQ02JWh9MUfEO8eav-6QCLcBGAsYHQ/s270/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4K39EnB7XwI/X4dXtn7YR5I/AAAAAAAAqhI/SCAZq5d3XDwfJljuY17Als4kag6T_kZNgCLcBGAsYHQ/s135/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tAV-gZ_0Po8/X4dXtlBhrBI/AAAAAAAAqhM/95EmBRKu4Y0QPxiLNlto06aGpgJNCxpagCLcBGAsYHQ/s135/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lib6iOHBlKU/X4dXuFyTh5I/AAAAAAAAqhQ/UeC6ZMogTrcnUKGoLKVr8FGpfB0XN98DQCLcBGAsYHQ/s135/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eri5LDQPmvU/X4dXuYdyV6I/AAAAAAAAqhU/7seLMCHPCBo3M1sC7wz__ChbXydb1Q0HwCLcBGAsYHQ/s135/249-Kuroyukihime-Accel-World-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n249/",
+      "fetched_at": "2026-05-16T19:10:34.098Z",
+      "raw_id": "/nendoroid/details/n249/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.333Z",
+      "raw_id": "Nendoroid/0200-0299/249.json"
+    }
+  ]
+}

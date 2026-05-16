@@ -1,0 +1,68 @@
+{
+  "num": "1670",
+  "name": {
+    "en": "Nendoroid Tatsuya Yoigoshi",
+    "ja": "ねんどろいど 宵越竜哉 (ねんどろいど よいごしたつや)",
+    "ko": "요이고시 타츠야"
+  },
+  "series": {
+    "en": "Shakunetsu Kabaddi",
+    "ja": "灼熱カバディ",
+    "ko": "작열 카바디",
+    "code": "shakunetsu-kabaddi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11459,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2fKZP-8xu50/YS6Jq1ECa4I/AAAAAAAAz8o/9kzKAT9hckIJka5gvd0lrM7dbbloVlp-wCLcBGAsYHQ/s270/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2fKZP-8xu50/YS6Jq1ECa4I/AAAAAAAAz8o/9kzKAT9hckIJka5gvd0lrM7dbbloVlp-wCLcBGAsYHQ/s270/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nBafhAcSkmk/YS6MS_IAV5I/AAAAAAAA0C0/zVR7gjoRVoU-BHB6rDvfebwu40IhL0r6ACLcBGAsYHQ/s135/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-a9xyNPNWuX8/YS6MS1Vbv5I/AAAAAAAA0C4/4ogNxVvEtVcGyNz0HSEmBgsWvgSbyjCsACLcBGAsYHQ/s135/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8snDPiZ_YUc/YS6MTXFfz3I/AAAAAAAA0C8/u0gEfph7R0YeyjObtysaxfhNmi062teRwCLcBGAsYHQ/s135/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FzJWqRrHMvo/YS6MTnXB7tI/AAAAAAAA0DA/ZCyHdBiVXSo7oWOQQgkML0FjL6u2BxntwCLcBGAsYHQ/s135/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nG20Kk5v958/YS6MT-9gLPI/AAAAAAAA0DE/sslMKEOLiE4y67xr7p5tiqV_66NNU8OMgCLcBGAsYHQ/s135/1670-Tatsuya-Yoigoshi-Shakunetsu-Kabaddi-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1670/",
+      "fetched_at": "2026-05-16T19:10:33.573Z",
+      "raw_id": "/nendoroid/details/n1670/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.722Z",
+      "raw_id": "Nendoroid/1600-1699/1670.json"
+    }
+  ]
+}

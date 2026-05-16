@@ -1,0 +1,55 @@
+{
+  "num": "13306",
+  "name": {
+    "en": "Nendoroid Doll Xie Lian",
+    "ja": "ねんどろいどどーる 謝怜 (ねんどろいどどーる しえ・りぇん)",
+    "ko": "사련"
+  },
+  "series": {
+    "en": "Heaven Official's Blessing",
+    "ja": "天官賜福",
+    "ko": "천관사복",
+    "code": "heaven-official-s-blessing"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13306,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220926/13306/104901/large/28faf476616337a1657adc09420433f4.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.961Z",
+      "raw_id": "NendoroidDoll/Doll/13306.json"
+    }
+  ]
+}

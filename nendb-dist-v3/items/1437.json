@@ -1,0 +1,68 @@
+{
+  "num": "1437",
+  "name": {
+    "en": "Nendoroid Nebula: Endgame Ver.",
+    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. (ねんどろいど ねびゅら えんどげーむ Ver. )",
+    "ko": "네뷸라 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9899,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6ipsKvuVudg/X4NkihWWSRI/AAAAAAABm60/EjQGlWu1guAOzONMbcQnem9aecBgYkKxQCLcBGAsYHQ/s270/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6ipsKvuVudg/X4NkihWWSRI/AAAAAAABm60/EjQGlWu1guAOzONMbcQnem9aecBgYkKxQCLcBGAsYHQ/s270/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1I1O7A1bSbk/YJKxXuG0omI/AAAAAAAAxtQ/QdtEh4PshYMgR3WkpEaeFSC0zEpkoHvXACLcBGAsYHQ/s135/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3gNbXm2xvmw/YJKxXnvV8MI/AAAAAAAAxtU/L2aOydQlOXU2pdrXReORw_fYxv7b0Al2wCLcBGAsYHQ/s135/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CRsGfmQ-GEI/YJKxX0_xi9I/AAAAAAAAxtY/ZYoVER0AtP4mOrbMy6JjLaqFuciComCygCLcBGAsYHQ/s135/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j8fEAQHCfQc/YJKxYOTmekI/AAAAAAAAxtc/niKEkxaCKIIPksBLcd7mywIvLoGFw58TACLcBGAsYHQ/s135/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-R6WgSRDabRU/YJKxYWSNb8I/AAAAAAAAxtg/G8y0TpMcJJ8jj1GYxc0gUFMQ__WW_7hSgCLcBGAsYHQ/s135/1437-Nebula-Avengers-Endgame-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1437/",
+      "fetched_at": "2026-05-16T19:10:33.430Z",
+      "raw_id": "/nendoroid/details/n1437/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.666Z",
+      "raw_id": "Nendoroid/1400-1499/1437.json"
+    }
+  ]
+}

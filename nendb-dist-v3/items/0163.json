@@ -1,0 +1,68 @@
+{
+  "num": "0163",
+  "name": {
+    "en": "Nendoroid Minami Kawashima (ねんどろいど かわしまみなみ)",
+    "ja": "ねんどろいど 川島みなみ (ねんどろいど かわしまみなみ)",
+    "ko": "가와시마 미나미"
+  },
+  "series": {
+    "en": "Moshi Koukou Yakyuu no Joshi Manager ga Drucker no \"Management\" o Yondara",
+    "ja": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+    "ko": "모시도라",
+    "code": "moshi-koukou-yakyuu-no-joshi-manager-ga-drucker-no-management-o-yondara"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3161,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IUmTqoEf6Xg/X4Nn9I6KgUI/AAAAAAABm9Y/rjjdaSIwYmcaaNQqQmxLCfWM7bveJl1PACLcBGAsYHQ/s270/163-Minami%2BKawashima-Moshidora-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IUmTqoEf6Xg/X4Nn9I6KgUI/AAAAAAABm9Y/rjjdaSIwYmcaaNQqQmxLCfWM7bveJl1PACLcBGAsYHQ/s270/163-Minami%2BKawashima-Moshidora-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CxIPLdaF4tk/X4dTZtMsobI/AAAAAAAAqCo/qJSctr9zIxAaRJ5aNmPk_MOYsoI1E4_kwCLcBGAsYHQ/s135/163-Minami-Kawashima-Moshidora-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PYayMsWzcRQ/X4dTaN7vOlI/AAAAAAAAqCs/tszlX0tJQAELkvSDGadOupZfpCJuUiDKgCLcBGAsYHQ/s135/163-Minami-Kawashima-Moshidora-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pgSM5dumQ6w/X4dTadOF__I/AAAAAAAAqCw/h0EGIzzIkQQELvXxCHCaciiozO68xz9HQCLcBGAsYHQ/s135/163-Minami-Kawashima-Moshidora-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Y6J3Viz98AM/X4dTaopcSqI/AAAAAAAAqC0/Xm-qPJNZYJ8VsPLJsb_ls340M-6RMpxfwCLcBGAsYHQ/s135/163-Minami-Kawashima-Moshidora-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sAw6UhvkNuE/X4dTa17yQMI/AAAAAAAAqC4/OrF0YTwmEvQkFobaxGoZf7SYBhzhZaIMQCLcBGAsYHQ/s135/163-Minami-Kawashima-Moshidora-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n163/",
+      "fetched_at": "2026-05-16T19:10:33.552Z",
+      "raw_id": "/nendoroid/details/n163/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.305Z",
+      "raw_id": "Nendoroid/0100-0199/163.json"
+    }
+  ]
+}

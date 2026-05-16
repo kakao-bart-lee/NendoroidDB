@@ -1,0 +1,70 @@
+{
+  "num": "1266",
+  "name": {
+    "en": "Nendoroid Chiaki Ogaki",
+    "ja": "ねんどろいど 大垣千明 (ねんどろいど おおがきちあき)",
+    "ko": "오가키 치아키"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6050,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9192,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jSUe3Di17Yc/X4NiakcB5WI/AAAAAAABmq0/5PeGRJABLAsCaUcFPnPl-My6rC-o5gBpwCLcBGAsYHQ/s270/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jSUe3Di17Yc/X4NiakcB5WI/AAAAAAABmq0/5PeGRJABLAsCaUcFPnPl-My6rC-o5gBpwCLcBGAsYHQ/s270/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Klr3wecZWsI/X4r0ZiGB0XI/AAAAAAABp9U/vIvC0Fm213EQTEXlYfPFcgzdFflI0OQHACLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zIDOpPKo5qg/X4r0ZyvFz2I/AAAAAAABp9Y/vrvXgT8Ey6AVAx7x7a5uJjR6iF5PIoQ_QCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xBskTU9slEo/X4r0aa0do7I/AAAAAAABp9c/nEQwNcWoMCEQ33ynmIfetrblZJJIHTkCQCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SKCsP6BjtRA/X4r0ahjPW2I/AAAAAAABp9g/cDaUX6Itd145hLWnSC2F4yPV-giwA9c8wCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Suw30H8wlBA/X4r0a4ZuVtI/AAAAAAABp9o/EE4kaLwPCRA8h3F0q4A6iqxQkuPXpiAkgCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O07eL1hQecU/X4r0aw3txpI/AAAAAAABp9k/90d8-7R_mDYnxF3C7YSSVXlFjZvJKydjwCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-jMGRpmfKrCE/X4r0bBK4-nI/AAAAAAABp9s/mhwOZcJILscscTZmKiYjDJ7AA3Dh_jSKQCLcBGAsYHQ/s135/1266-Chiaki-Ogaki-Laid-Back-Camp-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1266/",
+      "fetched_at": "2026-05-16T19:10:33.322Z",
+      "raw_id": "/nendoroid/details/n1266/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.624Z",
+      "raw_id": "Nendoroid/1200-1299/1266.json"
+    }
+  ]
+}

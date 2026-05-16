@@ -1,0 +1,68 @@
+{
+  "num": "1529",
+  "name": {
+    "en": "Nendoroid Weiss Schnee",
+    "ja": "ねんどろいど ワイス・シュニー (ねんどろいど わいす・しゅにー)",
+    "ko": "와이스 슈니이"
+  },
+  "series": {
+    "en": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "ko": "RWBY",
+    "code": "rwby"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10500,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NbauZYH4AWE/X9p0uU_Ly6I/AAAAAAAAu_0/OPMQzIxYy-EBihQKmkF_A3u2CIb37oauQCLcBGAsYHQ/s270/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NbauZYH4AWE/X9p0uU_Ly6I/AAAAAAAAu_0/OPMQzIxYy-EBihQKmkF_A3u2CIb37oauQCLcBGAsYHQ/s270/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IZ_FdJIIP5U/X9p5ISbHfMI/AAAAAAAAvCM/26rDnxSg2xAQZW0uuZaH7Oo5n-6aygr6QCLcBGAsYHQ/s135/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qnWR6C3Uc2M/X9p5Il-TohI/AAAAAAAAvCQ/3JzPCjJjKNIL1E5eEhuRoGTp55J4RceewCLcBGAsYHQ/s135/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--IewSvWY818/X9p5IxsPRuI/AAAAAAAAvCU/Uon1zVYsg7AUNIKC1V7O3WLUZRLGafYLQCLcBGAsYHQ/s135/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EMLvr43LhDg/X9p5JGb4b2I/AAAAAAAAvCY/vuYJ5JNy_vUsLbtuJR3kTP24fKauyNIpQCLcBGAsYHQ/s135/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NczPWSWVwCg/X9p5JWF9ysI/AAAAAAAAvCc/k7jr579Avv8NE4HuspbPxUPlURU_2DylgCLcBGAsYHQ/s135/1529-Weiss-Schnee-RWBY-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1529/",
+      "fetched_at": "2026-05-16T19:10:33.485Z",
+      "raw_id": "/nendoroid/details/n1529/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.688Z",
+      "raw_id": "Nendoroid/1500-1599/1529.json"
+    }
+  ]
+}

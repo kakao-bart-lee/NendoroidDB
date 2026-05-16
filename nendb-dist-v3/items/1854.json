@@ -1,0 +1,69 @@
+{
+  "num": "1854",
+  "name": {
+    "en": "Nendoroid Lavi",
+    "ja": "ねんどろいど ラビ (ねんどろいど らび)",
+    "ko": "라비"
+  },
+  "series": {
+    "en": "D.Gray-man",
+    "ja": "D.Gray-man",
+    "ko": "디그레이맨",
+    "code": "d-gray-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12532,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nii6DrW54jI/YliMmxJ7J2I/AAAAAAAA5Ms/H5O0RCH0k7QxmQWp1_5GKmgTYG_8AclggCNcBGAsYHQ/s270/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nii6DrW54jI/YliMmxJ7J2I/AAAAAAAA5Ms/H5O0RCH0k7QxmQWp1_5GKmgTYG_8AclggCNcBGAsYHQ/s270/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zxlAcwiySuc/YliV_Bz_cQI/AAAAAAAA5aQ/sJuBru51DzI41lE3BsL1t_B6kovBE6HsgCNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oNXPNUMhTTU/YliV_iZ_JKI/AAAAAAAA5aU/edOH9okI_8wY-Tlcjvbjj0cSHkPQBma1QCNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PSXo-1kiHPo/YliWAIF3-0I/AAAAAAAA5aY/5M4gY75i9O0AI_53hCvZYSoRnLPcy-2qACNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wZ4LbxUfGaQ/YliWAUeEofI/AAAAAAAA5ac/CKv7DVCoowAQYUPwnPaWxRzT-ih3Eq8kACNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Sg-22SntNHU/YliWAiVlELI/AAAAAAAA5ag/oBG-0N4kdosPMxiS3McHz45jr-YurzkogCNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hyGvaY9tMbU/YliWBI-qd2I/AAAAAAAA5ak/anIp5b9ms5I43go6OtH-ngOVJNGGIXKmQCNcBGAsYHQ/s135/1854-Lavi-D.Gray-man-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1854/",
+      "fetched_at": "2026-05-16T19:10:33.689Z",
+      "raw_id": "/nendoroid/details/n1854/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.768Z",
+      "raw_id": "Nendoroid/1800-1899/1854.json"
+    }
+  ]
+}

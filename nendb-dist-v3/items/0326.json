@@ -1,0 +1,68 @@
+{
+  "num": "0326",
+  "name": {
+    "en": "Nendoroid Racing Miku: 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)",
+    "ja": "ねんどろいど レーシングミク 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)",
+    "ko": "레이싱 미쿠 2013 Ver."
+  },
+  "series": {
+    "en": "Racing Miku 2013 ver.",
+    "ja": "初音ミク GTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "racing-miku-2013-ver"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3867,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Qh6MEQC4a1k/X4NMqNIiP0I/AAAAAAABlhA/oONxSWhnFGUXvBjkohMdrAgoO1Ofo2CkgCLcBGAsYHQ/s270/326-Hatsune-Miku-GT-Project-2013-Racing-Ver-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Qh6MEQC4a1k/X4NMqNIiP0I/AAAAAAABlhA/oONxSWhnFGUXvBjkohMdrAgoO1Ofo2CkgCLcBGAsYHQ/s270/326-Hatsune-Miku-GT-Project-2013-Racing-Ver-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-diY5X1h77Jc/X4daXAto-4I/AAAAAAAAq74/TuyMkesi-tUozrmCyf11CmIir8OmndargCLcBGAsYHQ/s135/326-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jcNiCiOykVg/X4daXF8OScI/AAAAAAAAq78/XzxJq1IwST47Q5oKxiblPhowOPeCo9HIACLcBGAsYHQ/s135/326-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dCvzZb5zhAo/X4daXi7addI/AAAAAAAAq8E/qrTfn1l1QMsCPD9vNbTtkH95abdg6rpWACLcBGAsYHQ/s135/326-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vYOKQf95qi4/X4daXXDDWEI/AAAAAAAAq8A/K4AGJLI1hRQBAKTPRfW7hgSfdgO2ku0NgCLcBGAsYHQ/s135/326-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oRJd4VKq2Tg/X4daX_AXHUI/AAAAAAAAq8I/Xk3AwIg8GusMx6XoVaIwuyMR8e6xTHlbwCLcBGAsYHQ/s135/326-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n326/",
+      "fetched_at": "2026-05-16T19:10:34.463Z",
+      "raw_id": "/nendoroid/details/n326/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.352Z",
+      "raw_id": "Nendoroid/0300-0399/326.json"
+    }
+  ]
+}

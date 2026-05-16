@@ -1,0 +1,68 @@
+{
+  "num": "1628",
+  "name": {
+    "en": "Nendoroid Nadia",
+    "ja": "ねんどろいど ナディア (ねんどろいど なでぃあ)",
+    "ko": "나디아 라 아르월"
+  },
+  "series": {
+    "en": "Nadia: The Secret of Blue Water",
+    "ja": "ふしぎの海のナディア",
+    "ko": "신비한 바다의 나디아",
+    "code": "nadia-the-secret-of-blue-water"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11124,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2AL_Ni1d3MI/YL_Ur4fhYdI/AAAAAAAAyPI/NNpIbU4O_2YHrOL0LIkRysBZAAXmm9BWQCLcBGAsYHQ/s270/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2AL_Ni1d3MI/YL_Ur4fhYdI/AAAAAAAAyPI/NNpIbU4O_2YHrOL0LIkRysBZAAXmm9BWQCLcBGAsYHQ/s270/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-A9N8U2riQ4w/YL_cvDZHGMI/AAAAAAAAyTA/NkPuL0akYOQ8d12EdVlfy0OaXtHObHYDQCLcBGAsYHQ/s135/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NiKmbRAlli4/YL_cvfmZs6I/AAAAAAAAyTE/G6vZQuLT_UwZn6iwykAMgmYIbmKMHcaFwCLcBGAsYHQ/s135/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cV7Sldg33J4/YL_cvUu4d7I/AAAAAAAAyTI/XX9ZHNMtHA0HHlgKp3xyH8Frz23119QtACLcBGAsYHQ/s135/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hl1QMkXzsdE/YL_cvrXSByI/AAAAAAAAyTM/esdthVw9bgIZB1SJYPpS8gPlVEiG7GN0QCLcBGAsYHQ/s135/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ouFnYfp184Q/YL_cv_rYD7I/AAAAAAAAyTQ/er_STK6JsOgpJe62yKu2T6NVBIF7ecufQCLcBGAsYHQ/s135/1628-Nadia-Nadia-The-Secret-of-Blue-Water-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1628/",
+      "fetched_at": "2026-05-16T19:10:33.545Z",
+      "raw_id": "/nendoroid/details/n1628/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.711Z",
+      "raw_id": "Nendoroid/1600-1699/1628.json"
+    }
+  ]
+}

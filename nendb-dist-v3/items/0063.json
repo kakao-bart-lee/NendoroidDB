@@ -1,0 +1,67 @@
+{
+  "num": "0063",
+  "name": {
+    "en": "Nendoroid Kureha (くれは ねんどろいど)",
+    "ja": "ねんどろいど クレハ (くれは ねんどろいど)",
+    "ko": "쿠레하"
+  },
+  "series": {
+    "en": "Shining Wind",
+    "ja": "シャイニング・ウィンド",
+    "ko": "샤이닝 윈드",
+    "code": "shining-wind"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2315,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-o-Q5nyZ6zac/X4MSNeHYxKI/AAAAAAAApdM/sBxaxIiSY1cZqOCCnFKq-_fCF9L53lrtwCLcBGAsYHQ/s270/63-Kureha-Shining%2BWind-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-o-Q5nyZ6zac/X4MSNeHYxKI/AAAAAAAApdM/sBxaxIiSY1cZqOCCnFKq-_fCF9L53lrtwCLcBGAsYHQ/s270/63-Kureha-Shining%2BWind-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zMhnBasZZGA/X4GwtRywa0I/AAAAAAAApIM/D1mVRroC_rYBBlGo2RetIX74vlzjvvgIwCLcBGAsYHQ/s135/063-Kureha-Shining-Wind-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GgWhiK6JN_0/X4GwtlLNGxI/AAAAAAAApIQ/XwTnLcwjfXkEin6DCl2i_uhi0d73VohEACLcBGAsYHQ/s135/063-Kureha-Shining-Wind-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TNRBi3gq6KY/X4Gwt7BxwQI/AAAAAAAApIU/j6vly4xa2XshUbDV9hP7w-prMwtByfPrACLcBGAsYHQ/s135/063-Kureha-Shining-Wind-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cs_WDOJDFj4/X4GwuMwxOMI/AAAAAAAApIY/6hCYj6SLyME5nBm_uTUBbquk5rmrwdapQCLcBGAsYHQ/s135/063-Kureha-Shining-Wind-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n063/",
+      "fetched_at": "2026-05-16T19:10:33.105Z",
+      "raw_id": "/nendoroid/details/n063/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.278Z",
+      "raw_id": "Nendoroid/0000-0099/063.json"
+    }
+  ]
+}

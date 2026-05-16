@@ -1,0 +1,68 @@
+{
+  "num": "1074",
+  "name": {
+    "en": "Nendoroid Taiga Kagami",
+    "ja": "ねんどろいど 火神大我 (ねんどろいど かがみたいが)",
+    "ko": "카가미 타이가"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BDohLO_J5eQ/X4Nf3I5a-XI/AAAAAAABmWA/U2r3bGA8rYoWAxtlYkq170C40inRCTR8ACLcBGAsYHQ/s270/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BDohLO_J5eQ/X4Nf3I5a-XI/AAAAAAABmWA/U2r3bGA8rYoWAxtlYkq170C40inRCTR8ACLcBGAsYHQ/s270/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pb3dfjmJiZ8/X4rs5J-9o0I/AAAAAAABotg/f2Mr9wDfrAkZ4Y2u3zFBNhLt_iBAIVs4wCLcBGAsYHQ/s135/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-USsz66V35v8/X4rs5ucwPzI/AAAAAAABotk/fuDEvSwlqL8uZyiq0wMt7vmsEcnuo4WmQCLcBGAsYHQ/s135/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0WFIWe-nZuY/X4rs6OC5rXI/AAAAAAABoto/pu9BwfokMHAwUwlPF-o0QCOSzMRGXnyLwCLcBGAsYHQ/s135/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oJ0uqW_xttA/X4rs6h8_pKI/AAAAAAABots/-biwSUKdFJ0V9cQIsy5i5on8uPVrTT43gCLcBGAsYHQ/s135/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wVtjKvRIqHE/X4rs7IJ4agI/AAAAAAABotw/pjHIVJPxY0EXgYbGrLAjqatZ51Oe5SgmwCLcBGAsYHQ/s135/1074-Taiga-Kagami-Kurokos-Basketball-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1074/",
+      "fetched_at": "2026-05-16T19:10:33.201Z",
+      "raw_id": "/nendoroid/details/n1074/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.579Z",
+      "raw_id": "Nendoroid/1000-1099/1074.json"
+    }
+  ]
+}

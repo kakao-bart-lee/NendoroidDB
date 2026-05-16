@@ -1,0 +1,68 @@
+{
+  "num": "1652",
+  "name": {
+    "en": "Nendoroid Minnie Mouse: Polka Dot Dress Ver.",
+    "ja": "ねんどろいど ミニーマウス 水玉ドレスVer. (ねんどろいど みにーまうす みずたまどれすVer.)",
+    "ko": "미니 마우스 물방울드레스 Ver."
+  },
+  "series": {
+    "en": "Minnie Mouse",
+    "ja": "Minnie Mouse",
+    "ko": "디즈니 캐릭터",
+    "code": "minnie-mouse"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11298,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-H7Gf2onqt38/YL_UzgMSqpI/AAAAAAAAyQc/OOAEmqmZIhMKiOCXhpeJGr96u7qo0EsugCLcBGAsYHQ/s270/1652-Minnie-Mouse-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-H7Gf2onqt38/YL_UzgMSqpI/AAAAAAAAyQc/OOAEmqmZIhMKiOCXhpeJGr96u7qo0EsugCLcBGAsYHQ/s270/1652-Minnie-Mouse-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-N3ECUjKLhIg/YL_dPYwvfLI/AAAAAAAAya8/0DJrzfsoohQM4NyF_6qZpsY7Sd8BepMngCLcBGAsYHQ/s135/1652-Minnie-Mouse-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-D0koUOdZDFM/YL_dPvjEUHI/AAAAAAAAybA/Tp35yVsTZLAZiQwny034AqDLI4_HO1KdgCLcBGAsYHQ/s135/1652-Minnie-Mouse-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PTKKaZu0ZHU/YL_dPtv-tPI/AAAAAAAAybE/3vFZPD9UkpM9QigdyrLlzqNL4Xf0MPwLwCLcBGAsYHQ/s135/1652-Minnie-Mouse-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HT6iRHXJU-g/YL_dP7ME7HI/AAAAAAAAybI/tgA8OlhjOKQPww8kXNAJIT0y21fU3CCXACLcBGAsYHQ/s135/1652-Minnie-Mouse-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7fPWL-_sJNU/YL_dQALwQgI/AAAAAAAAybM/scf6PRrgq905izd_5tcUQNDxaM3NQm4GwCLcBGAsYHQ/s135/1652-Minnie-Mouse-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1652/",
+      "fetched_at": "2026-05-16T19:10:33.560Z",
+      "raw_id": "/nendoroid/details/n1652/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.718Z",
+      "raw_id": "Nendoroid/1600-1699/1652.json"
+    }
+  ]
+}

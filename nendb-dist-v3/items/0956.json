@@ -1,0 +1,68 @@
+{
+  "num": "0956",
+  "name": {
+    "en": "Nendoroid Gaara",
+    "ja": "ねんどろいど 我愛羅 (ねんどろいど があら)",
+    "ko": "가아라"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7379,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gLkduDXDD2w/X4Nesbmz5SI/AAAAAAABmNQ/8EAFcz0SUGIbYfl_aUcT0p-XOR-hnNUaQCLcBGAsYHQ/s270/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gLkduDXDD2w/X4Nesbmz5SI/AAAAAAABmNQ/8EAFcz0SUGIbYfl_aUcT0p-XOR-hnNUaQCLcBGAsYHQ/s270/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pQRKhIertKg/X4rou5nJ5XI/AAAAAAABn9o/9B9mEo4PupMttvgvogHAsuZ4JW-Rtr8GQCLcBGAsYHQ/s135/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JOiDREtsTNA/X4rovEWYXvI/AAAAAAABn9s/LM_pUDdzRZAUQIrfTq_LR8nT-TDzZdhmgCLcBGAsYHQ/s135/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KsBWhTNXDQU/X4rovXKf6xI/AAAAAAABn9w/mkyT5REEMfowSxSAq8pJryBBsNpuVlkVgCLcBGAsYHQ/s135/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jyMzkL60T2o/X4rovtx244I/AAAAAAABn90/5ZEjPBaKpsAXSOKyh42_AGKJqmj0fCsWACLcBGAsYHQ/s135/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GIbYF0pGh2w/X4rov8OjevI/AAAAAAABn94/8U-6qc4A4p8wcVxMeuGILSjVB-oh8ckNgCLcBGAsYHQ/s135/956-Gaara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n956/",
+      "fetched_at": "2026-05-16T19:10:34.894Z",
+      "raw_id": "/nendoroid/details/n956/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.548Z",
+      "raw_id": "Nendoroid/0900-0999/956.json"
+    }
+  ]
+}

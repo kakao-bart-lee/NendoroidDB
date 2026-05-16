@@ -1,0 +1,69 @@
+{
+  "num": "1234",
+  "name": {
+    "en": "Nendoroid All Might",
+    "ja": "ねんどろいど オールマイト (ねんどろいど おーるまいと)",
+    "ko": "올마이트"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8972,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CoZjBCvmKiI/X4NiPeRRaFI/AAAAAAABmo4/wI9FOKm14mA8In9OQp7k4iL6whSAr9wrgCLcBGAsYHQ/s270/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.png",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CoZjBCvmKiI/X4NiPeRRaFI/AAAAAAABmo4/wI9FOKm14mA8In9OQp7k4iL6whSAr9wrgCLcBGAsYHQ/s270/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.png",
+      "https://1.bp.blogspot.com/-zi4_vsxqgvM/X4rztVicY1I/AAAAAAABpyc/Kct5udvHcXM2d1Pf_RHEe_L98wZ9xK9gACLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FJlhQwJYi4c/X4rztjA2M0I/AAAAAAABpyg/-3mMqcU1hzwbvqvua-ht6au9UVbUj8p0wCLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jHjblqpRgzk/X4rzthsOAPI/AAAAAAABpyk/aP93-QKpGvsGkyyMuUEQS6XTTfbA85N-ACLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1zYc1xoaAeY/X4rzuNeWgQI/AAAAAAABpyo/b_3iPxvcpVgmgkV8l-8IQ3KMs2OrqNE5wCLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fno0EuZhgNo/X4rzuOpDMsI/AAAAAAABpys/7ujrXGjO0bEDFOK83HesXOZVW_9_Om3QACLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0EWDDADusQI/X4rzuifkiXI/AAAAAAABpyw/zN7NK9SXf0Igiw98EU5EZidWpo3RDm6RgCLcBGAsYHQ/s135/1234-All-Might-My-Hero-Academia-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1234/",
+      "fetched_at": "2026-05-16T19:10:33.303Z",
+      "raw_id": "/nendoroid/details/n1234/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.617Z",
+      "raw_id": "Nendoroid/1200-1299/1234.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "0839",
+  "name": {
+    "en": "Nendoroid Hanzo: Classic Skin Edition",
+    "ja": "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
+    "ko": "한조"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6781,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0jqNKzhdPAI/X4NdzszfE5I/AAAAAAABmFE/vDf_wh9ANxwtWT6BFneDxGg4AGLVXqnUgCLcBGAsYHQ/s270/839-Hanzo-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0jqNKzhdPAI/X4NdzszfE5I/AAAAAAABmFE/vDf_wh9ANxwtWT6BFneDxGg4AGLVXqnUgCLcBGAsYHQ/s270/839-Hanzo-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UNgpQykatwQ/X4ri15PQCOI/AAAAAAABnNg/uSz4frhhM1k6IgAmTZsZNkHzW0fDTbU2gCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_QJsXbE4Zs8/X4ri2LDo4XI/AAAAAAABnNk/V3KgTtEgO4MaXPpqcG1MhIxr-idwYxPaQCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Rr8VKAw2yPM/X4ri2T_B3dI/AAAAAAABnNo/EON3Nx1EoF483eVeaZR5ZY_zcxQZskAiwCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-R2fzx__QIXI/X4ri2taJdtI/AAAAAAABnNs/AtmG7M7F5rI0785cPvxvGh5uLZxyixhmACLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-b6pzSCYFnXU/X4ri264H_2I/AAAAAAABnNw/l_sHXpJzuyc_S83JG4X2tKvHMIhIwFnWgCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SIl02axN-Vg/X4ri3CzfZTI/AAAAAAABnN0/pM6dsBviA_IqbiP2y_Mjirg9W-9W48H_QCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-R25mkcYNKoQ/X4ri3IwsMaI/AAAAAAABnN4/0Yp55EPjrfQOiv-N0-Hdnb3K9EhsVudWgCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-AolrN98J8VY/X4ri1uzpj2I/AAAAAAABnNc/xDmeNOg_EroXrwjklvx8sgBJBN3R6cVigCLcBGAsYHQ/s135/839-Hanzo-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n839/",
+      "fetched_at": "2026-05-16T19:10:34.829Z",
+      "raw_id": "/nendoroid/details/n839/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.519Z",
+      "raw_id": "Nendoroid/0800-0899/839.json"
+    }
+  ]
+}

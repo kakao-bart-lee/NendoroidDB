@@ -1,0 +1,68 @@
+{
+  "num": "0619",
+  "name": {
+    "en": "Nendoroid Michelle K. Davis: Super Movable Edition",
+    "ja": "ねんどろいど ミッシェル・K・デイヴス スーパームーバブル・エディション (ねんどろいど みっしぇる・K・でいゔす すーぱーむーばぶる・えでぃしょん)",
+    "ko": "미셸 K 데이비스 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "TERRAFORMARS REVENGE",
+    "ja": "テラフォーマーズ リベンジ",
+    "ko": "테라포마스",
+    "code": "terraformars-revenge"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5607,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gFtjw5nr7t4/X4NPqayRuqI/AAAAAAABl1o/V4sTfG6vEhQ59pr3qx-MkTUeMa-6P4ndACLcBGAsYHQ/s270/619-Michelle-K-Davis-Terraformers-Revenge-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gFtjw5nr7t4/X4NPqayRuqI/AAAAAAABl1o/V4sTfG6vEhQ59pr3qx-MkTUeMa-6P4ndACLcBGAsYHQ/s270/619-Michelle-K-Davis-Terraformers-Revenge-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vWSLO6L2agU/X4iz8GKZplI/AAAAAAAAsmY/P133LwStCScyd6PVQrBf8M0fuwjpizXGgCLcBGAsYHQ/s135/619-Michelle-K.-Davis-TERRAFORMARS-REVENGE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8eXnW9Vswd8/X4iz8dxzXdI/AAAAAAAAsmc/AeaYx9CZ58oK1-unS-v2S027urClX04OgCLcBGAsYHQ/s135/619-Michelle-K.-Davis-TERRAFORMARS-REVENGE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aM7zyedUa1U/X4iz8p4YgvI/AAAAAAAAsmg/gkO9xKAqH6cjDn311WZ93ImhBTHukB_gACLcBGAsYHQ/s135/619-Michelle-K.-Davis-TERRAFORMARS-REVENGE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OeMA5ucHk9I/X4iz899om8I/AAAAAAAAsmk/lHhO4lUEiloaMFa08aM2Cl04v0cx7Fe3gCLcBGAsYHQ/s135/619-Michelle-K.-Davis-TERRAFORMARS-REVENGE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-c41YnX95QIY/X4iz9Gp9guI/AAAAAAAAsmo/HeXtUJKpre88yBF9byUDuB8TkWR3cyjeACLcBGAsYHQ/s135/619-Michelle-K.-Davis-TERRAFORMARS-REVENGE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n619/",
+      "fetched_at": "2026-05-16T19:10:34.701Z",
+      "raw_id": "/nendoroid/details/n619/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.465Z",
+      "raw_id": "Nendoroid/0600-0699/619.json"
+    }
+  ]
+}

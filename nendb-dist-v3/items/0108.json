@@ -1,0 +1,67 @@
+{
+  "num": "0108",
+  "name": {
+    "en": "Nendoroid Francesca Lucchini (ねんどろいど ふらんちぇすか・るっきーに)",
+    "ja": "ねんどろいど フランチェスカ・ルッキーニ (ねんどろいど ふらんちぇすか・るっきーに)",
+    "ko": "프란체스카 루키니"
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2826,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZVaEZTo1Ib0/X4NJr_eyAPI/AAAAAAABlOM/Ydc9MMvDFiE7g4kfXTMY4aVuaPsfrAFtwCLcBGAsYHQ/s270/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZVaEZTo1Ib0/X4NJr_eyAPI/AAAAAAABlOM/Ydc9MMvDFiE7g4kfXTMY4aVuaPsfrAFtwCLcBGAsYHQ/s270/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I5xsncGq9c8/X4dSC946CwI/AAAAAAAApvc/w06SMB9zQrE_M-clKgqE2bg43YwEDZLeACLcBGAsYHQ/s135/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZuQTSy1iUbQ/X4dSDNPr9tI/AAAAAAAApvg/CPecvm5aJUwbUvMMgxrDCN6_M7myLXtvwCLcBGAsYHQ/s135/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LqKIT-jOxTM/X4dSDNQKKDI/AAAAAAAApvk/iHAQBqXNHIYaDxVKN0srSYnKqTu-nuAgACLcBGAsYHQ/s135/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-I1GfBxSevpA/X4dSDXcUmTI/AAAAAAAApvo/O_fhYJCL8ewLEZSL3Uw396gQCtl_Fz_OgCLcBGAsYHQ/s135/108-Francesca-Lucchini-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n108/",
+      "fetched_at": "2026-05-16T19:10:33.213Z",
+      "raw_id": "/nendoroid/details/n108/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.290Z",
+      "raw_id": "Nendoroid/0100-0199/108.json"
+    }
+  ]
+}

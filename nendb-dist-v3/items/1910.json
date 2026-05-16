@@ -1,0 +1,68 @@
+{
+  "num": "1910",
+  "name": {
+    "en": "Nendoroid Tsubaki",
+    "ja": "ねんどろいど ツバキ (ねんどろいど つばき)",
+    "ko": "츠바키 쿠노이치"
+  },
+  "series": {
+    "en": "In the Heart of Kunoichi Tsubaki",
+    "ja": "くノ一ツバキの胸の内",
+    "ko": "츠바키의 속마음",
+    "code": "in-the-heart-of-kunoichi-tsubaki"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12888,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cqQ2fsO8ymE/Yw_WQeaTfsI/AAAAAAAA6aE/FUcCfLQEplEOktHm1x-RwQ4EZz98Aa3bQCNcBGAsYHQ/s270/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cqQ2fsO8ymE/Yw_WQeaTfsI/AAAAAAAA6aE/FUcCfLQEplEOktHm1x-RwQ4EZz98Aa3bQCNcBGAsYHQ/s270/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Dcwfvlk0ZdA/YxEXPvjLe2I/AAAAAAAA6no/Q3mCvr55ltwMk1rzV-ON8OfF0qJdMNsEwCNcBGAsYHQ/s135/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ghgs6furnRg/YxEXQNXdq4I/AAAAAAAA6ns/qHTOQkRJBmwZeuTCx4AH1Fqig7zY8WSygCNcBGAsYHQ/s135/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x3VC7BvUP_I/YxEXQuU4WSI/AAAAAAAA6nw/nr8kiUMArrgaW3PL7UWUdM60UzkqEutQgCNcBGAsYHQ/s135/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3yGyc9vjrpQ/YxEXRAbcETI/AAAAAAAA6n0/12ZxJnjuVWM2N2N6hCaM6XGvIGMDOcwrgCNcBGAsYHQ/s135/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iUe2VcDCJJY/YxEXRvfM5mI/AAAAAAAA6n4/-0YZM0PWg5Yry0AqCZ2pu84-iyJPqrn4gCNcBGAsYHQ/s135/1910-Tsubaki-In-the-Heart-of-Kunoichi-Tsubaki-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1910/",
+      "fetched_at": "2026-05-16T19:10:33.725Z",
+      "raw_id": "/nendoroid/details/n1910/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.780Z",
+      "raw_id": "Nendoroid/1900-1999/1910.json"
+    }
+  ]
+}

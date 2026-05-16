@@ -1,0 +1,68 @@
+{
+  "num": "0959",
+  "name": {
+    "en": "Nendoroid LLENN",
+    "ja": "ねんどろいど レン (ねんどろいど れん)",
+    "ko": "렌"
+  },
+  "series": {
+    "en": "Sword Art Online Alternative: Gun Gale Online",
+    "ja": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+    "ko": "소드 아트 온라인 얼터너티브 : 건 게일 온라인",
+    "code": "sword-art-online-alternative-gun-gale-online"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7399,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ONck_ZaYXzU/X4NetP2ExoI/AAAAAAABmNc/gKVapx-HJK8wXy33PY3CeylbC7T21uk3QCLcBGAsYHQ/s270/959-Llenn-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ONck_ZaYXzU/X4NetP2ExoI/AAAAAAABmNc/gKVapx-HJK8wXy33PY3CeylbC7T21uk3QCLcBGAsYHQ/s270/959-Llenn-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z1t9JqPPdn8/X4roy8vqI8I/AAAAAAABn-o/mCW_AxH3A_INSKxc2E-AcOhCCjxlGR4kACLcBGAsYHQ/s135/959-LLENN-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BubywfylZkM/X4roy0XBd4I/AAAAAAABn-s/7UVyyEBNA3A4Ddw1a5vhzCoNhR9pBBE0wCLcBGAsYHQ/s135/959-LLENN-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JtvYPyWuGM0/X4rozO28d3I/AAAAAAABn-w/puOvb78ca4UfJ3uhUSxtps7pfhPXe5n3wCLcBGAsYHQ/s135/959-LLENN-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7uILT7vkdPU/X4rozr3eqeI/AAAAAAABn-0/sEGX3Q6dvWI1Kj2So9IbyrTCOAJmnWXaACLcBGAsYHQ/s135/959-LLENN-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9_J13fbNS5A/X4roz_Mi29I/AAAAAAABn-4/WxbXRnmoKZ4LQKQgiwPVSF9gXDTJgOq9QCLcBGAsYHQ/s135/959-LLENN-Sword-Art-Online-Alternative-Gun-Gale-Online-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n959/",
+      "fetched_at": "2026-05-16T19:10:34.896Z",
+      "raw_id": "/nendoroid/details/n959/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.549Z",
+      "raw_id": "Nendoroid/0900-0999/959.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2183",
+  "name": {
+    "en": "Nendoroid Hyakumantenbara Salome",
+    "ja": "ねんどろいど 壱百満天原サロメ (ねんどろいど ひゃくまんてんばらさろめ)",
+    "ko": "햐쿠만텐바라 살로메"
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": "にじさんじ",
+    "ko": "니지산지",
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14445,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2iNbaqOrPsA/ZKXXPIeH4MI/AAAAAAAA-kU/AwlD93hJY-EDVK37sZXkP2OeHZ6HJOmCgCNcBGAsYHQ/s270/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2iNbaqOrPsA/ZKXXPIeH4MI/AAAAAAAA-kU/AwlD93hJY-EDVK37sZXkP2OeHZ6HJOmCgCNcBGAsYHQ/s270/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CTouTAiY1hk/ZKXmSP9_PcI/AAAAAAAA-_8/yRyCqpt9lUcdrrRpmccEFQP0_s3O9vOTgCNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mT1E4wfzXhg/ZKXmSBB80nI/AAAAAAAA_AA/JTBKLHEVLQgSKTbSE96TESOoYkJtOuD_ACNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ggCSZnwv6Z0/ZKXmSFdTGXI/AAAAAAAA_AE/1sIiJbMXYvQLxGY1ejZKp0isckIZE5gzwCNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wV9-wetVxkg/ZKXmSyaG7VI/AAAAAAAA_AI/BSthsNXBCOwk7vv2yxAtlos9bKTtKXdlACNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DuIQYmrs9LA/ZKXmTiS4bBI/AAAAAAAA_AM/4JLmhK5JHXYR7S6qlzXOH8LCfk40EnR8wCNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FaHUD_z06NA/ZKXmTz8q5WI/AAAAAAAA_AQ/8vBeZKC0oF4pu1ku9FGEHDSGs6KtavbmACNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-TuFFkW1_sTU/ZKXmUOvMd8I/AAAAAAAA_AU/LwBURF9Csn899YR7Gecuu9IBI5eDuU_QACNcBGAsYHQ/s135/2183-Hyakumantenbara-Salome-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2183/",
+      "fetched_at": "2026-05-16T19:10:33.888Z",
+      "raw_id": "/nendoroid/details/n2183/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.849Z",
+      "raw_id": "Nendoroid/2100-2199/2183.json"
+    }
+  ]
+}

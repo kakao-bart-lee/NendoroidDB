@@ -1,0 +1,55 @@
+{
+  "num": "13541",
+  "name": {
+    "en": "Nendoroid Doll Tea Time Series: Bianca",
+    "ja": "ねんどろいどどーる ティータイムシリーズ：ビアンカ (ねんどろいどどーる てぃーたいむしりーず：びあんか)",
+    "ko": "비앙카"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "티타임 시리즈",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13541,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221116/13541/107181/large/02ebff4c4e3e5d95cab68e34c31c674e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.962Z",
+      "raw_id": "NendoroidDoll/Doll/13541.json"
+    }
+  ]
+}

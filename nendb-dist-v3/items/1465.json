@@ -1,0 +1,68 @@
+{
+  "num": "1465",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: MIKU WITH YOU 2019 Ver.",
+    "ja": "ねんどろいど 初音ミク MIKU WITH YOU 2019Ver. (ねんどろいど はつねみく MIKU WITH YOU 2019Ver.)",
+    "ko": "하츠네 미쿠 MIKU WITH YOU 2019 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10064,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ui5sPEqE4Ec/X4Nkn9CWxUI/AAAAAAABm8I/iq9hH0s0ESUNh2lKlaZGvAcebatLfycMACLcBGAsYHQ/s270/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ui5sPEqE4Ec/X4Nkn9CWxUI/AAAAAAABm8I/iq9hH0s0ESUNh2lKlaZGvAcebatLfycMACLcBGAsYHQ/s270/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-To5oDOrG108/X4tBNJOA77I/AAAAAAABrBs/UrlNl-Vwtj8iMHcC5epsGp-B7owzItAYACLcBGAsYHQ/s135/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CVZ2_Ry9aoA/X4tBNXwMKwI/AAAAAAABrBw/XZCnOIKWkegw4yxCXBsHqs5MwoJWLVQPgCLcBGAsYHQ/s135/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XQNwoWB8Jjo/X4tBNt_R-BI/AAAAAAABrB0/ckyqqHY5noIkxVe0kMltHyaWfJp8FdtKQCLcBGAsYHQ/s135/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UkWoYvUVnSQ/X4tBN1h4OsI/AAAAAAABrB4/MTvHkgKTE-g0EWxCxoi3Nz4Z39XUKFNlQCLcBGAsYHQ/s135/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_TQZF-EfFhE/X4tBONsGWiI/AAAAAAABrB8/_62kjPhTvCMWeccX1agc2vKgFeU4dzKuQCLcBGAsYHQ/s135/1465-Hatsune-Miku-MIKU-WITH-YOU-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1465/",
+      "fetched_at": "2026-05-16T19:10:33.447Z",
+      "raw_id": "/nendoroid/details/n1465/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.672Z",
+      "raw_id": "Nendoroid/1400-1499/1465.json"
+    }
+  ]
+}

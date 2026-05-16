@@ -1,0 +1,69 @@
+{
+  "num": "0992",
+  "name": {
+    "en": "Nendoroid Rize",
+    "ja": "ねんどろいど リゼ (ねんどろいど りぜ)",
+    "ko": "테데자 리제"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit?",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sGuocMHp-Mc/X4Ne7Xc2AEI/AAAAAAABmPw/j-l6rKnpuZs04NJACFWJ79vfmBxb3OXuwCLcBGAsYHQ/s270/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sGuocMHp-Mc/X4Ne7Xc2AEI/AAAAAAABmPw/j-l6rKnpuZs04NJACFWJ79vfmBxb3OXuwCLcBGAsYHQ/s270/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Au7_9esDAlg/X4rpxZGL37I/AAAAAAABoLw/6CVzPTB5IAQt14EgV1p2TtKX3FcKDKNkwCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hc5-3fyC3ug/X4rpxQN2-OI/AAAAAAABoL0/L5Slqh8TYjYkZ9V-UpWo6sQkoPvVTgA2QCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SA0LgueimIM/X4rpxlw8frI/AAAAAAABoL4/Ub3kH2EB7O0-bh23WG18rbBX1gFWIFMDgCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qn4Wxmz0xms/X4rpx5ni5qI/AAAAAAABoL8/u1lQWuiRE3IF-JVagdakP5_75TTlxvUjgCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ufFU5nvOa6E/X4rpyJrDV0I/AAAAAAABoMA/2F2U6XP_BcgeHogJW97VF1WESQC0Y_CSwCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fM9WcIcDmrY/X4rpyrcpOUI/AAAAAAABoME/AhMJdS8KGOwpBtKkp7Q_vlmZaajWHzu4wCLcBGAsYHQ/s135/992-Rize-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n992/",
+      "fetched_at": "2026-05-16T19:10:34.913Z",
+      "raw_id": "/nendoroid/details/n992/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.559Z",
+      "raw_id": "Nendoroid/0900-0999/992.json"
+    }
+  ]
+}

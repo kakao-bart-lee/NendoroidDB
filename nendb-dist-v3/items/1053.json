@@ -1,0 +1,68 @@
+{
+  "num": "1053",
+  "name": {
+    "en": "Nendoroid Reg",
+    "ja": "ねんどろいど レグ (ねんどろいど れぐ)",
+    "ko": "레그"
+  },
+  "series": {
+    "en": "Made in Abyss",
+    "ja": "メイドインアビス",
+    "ko": "메이드 인 어비스",
+    "code": "made-in-abyss"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7903,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qTIwKtC1oAg/X4NfuwI2oAI/AAAAAAABmUo/nuOl_7eFN04N2dS-hntKo7sKM7CF5GNIACLcBGAsYHQ/s270/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qTIwKtC1oAg/X4NfuwI2oAI/AAAAAAABmUo/nuOl_7eFN04N2dS-hntKo7sKM7CF5GNIACLcBGAsYHQ/s270/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7cIRrSs00mE/X4rsYpGd_aI/AAAAAAABol0/OK5Uf0jNrnQYu24oTypyjsSBuELOsltVwCLcBGAsYHQ/s135/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OU9H0PjPA1A/X4rsZOQO8kI/AAAAAAABol4/8tlV7HPKB6Qp9zo9sdVm1fm8uqDCbK30gCLcBGAsYHQ/s135/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lacZJWYJArc/X4rsZV0ZcBI/AAAAAAABol8/aWhqbeh0R_kxb_ZFIysBeFFbsCYxow3gQCLcBGAsYHQ/s135/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8vRwpbZaecU/X4rsZodqk7I/AAAAAAABomA/67j0jg_msG45xBNQMwpFKvo7gs7bCtEhACLcBGAsYHQ/s135/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-y6Ux_MobZWs/X4rsZ4I_ZEI/AAAAAAABomE/52QlL7SZrMoEw78M3SJmpNWYALZaYLMXQCLcBGAsYHQ/s135/1053-Reg-Made-in-Abyss-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1053/",
+      "fetched_at": "2026-05-16T19:10:33.179Z",
+      "raw_id": "/nendoroid/details/n1053/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.574Z",
+      "raw_id": "Nendoroid/1000-1099/1053.json"
+    }
+  ]
+}

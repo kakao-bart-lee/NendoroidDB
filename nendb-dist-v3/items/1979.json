@@ -1,0 +1,70 @@
+{
+  "num": "1979",
+  "name": {
+    "en": "Nendoroid Hoshimachi Suisei",
+    "ja": "ねんどろいど 星街すいせい (ねんどろいど ほしまちすいせい)",
+    "ko": "호시마치 스이세이"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13432,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tfFuXMP1mxQ/Y45wSHS7ZvI/AAAAAAAA7rU/XKp99Qjh2PQsa9zRCaiLc5A4dEvIOFrdwCNcBGAsYHQ/s270/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tfFuXMP1mxQ/Y45wSHS7ZvI/AAAAAAAA7rU/XKp99Qjh2PQsa9zRCaiLc5A4dEvIOFrdwCNcBGAsYHQ/s270/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BCi7T2iOiXU/Y451RwQ9YrI/AAAAAAAA7y0/8FoGclKDYjErDwZ2pizjUBYMTLLqIXKqQCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WtP6w6CPRU0/Y451SOm_FVI/AAAAAAAA7y4/Ssr90sJ8F_sXC0EJflycxrhUX2jQyxcawCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZZUIoe_aixo/Y451SXyt3oI/AAAAAAAA7y8/XafDEk-ngS0zJKFH4PGXJEWzwE9j7WWmgCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-n-fVvZ09q0Q/Y451SSuAqyI/AAAAAAAA7zA/l2-3HCsXQUcMUiRm5PSwL4S8LfF7xlMuwCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kir3umcLiSE/Y451Sj-oajI/AAAAAAAA7zE/HcUvAYj8FEoGjPD0uqAVYpTNMkqybBTHwCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9ONE7xTlqSY/Y451S7NYZXI/AAAAAAAA7zI/hYP_Bj6hgW4LleARe7HCzoGCSSMu9nXowCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-jZyZZ35hGVU/Y451TB2-B2I/AAAAAAAA7zM/LD5Gxtjtmmg2n1T501Igh4QkXlP13zgLwCNcBGAsYHQ/s135/1979-Hoshimachi-Suisei-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1979/",
+      "fetched_at": "2026-05-16T19:10:33.765Z",
+      "raw_id": "/nendoroid/details/n1979/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.796Z",
+      "raw_id": "Nendoroid/1900-1999/1979.json"
+    }
+  ]
+}

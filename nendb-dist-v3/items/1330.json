@@ -1,0 +1,68 @@
+{
+  "num": "1330",
+  "name": {
+    "en": "Nendoroid Luna Lovegood",
+    "ja": "ねんどろいど ルーナ・ラブグッド (ねんどろいど るーな・らぶぐっど)",
+    "ko": "루나 러브굿"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9679,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dWsDsGfUxfY/X4Njr2LZ0kI/AAAAAAABm0w/CSEV8jneIuYTERm34rDj5cqIS44VnndqwCLcBGAsYHQ/s270/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dWsDsGfUxfY/X4Njr2LZ0kI/AAAAAAABm0w/CSEV8jneIuYTERm34rDj5cqIS44VnndqwCLcBGAsYHQ/s270/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L8uWJFOps3g/X4s9HnI34YI/AAAAAAABqa4/LGR-4aP00B4pY8fYbDpIyXYyu8gmmNIeACLcBGAsYHQ/s135/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ENeQNf3K3xQ/X4s9Hzl4w6I/AAAAAAABqa8/J2bfrUEYQesexftM81IMRT9hoZ0kRcgCgCLcBGAsYHQ/s135/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jCXb0mhAPBo/X4s9IJHtwPI/AAAAAAABqbA/149CrmxIbfY9DB9Ch-m-N_d_FttBrPZkQCLcBGAsYHQ/s135/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q2WfG0QUnqY/X4s9IVjUJ1I/AAAAAAABqbE/wo1qTUpZfcEKDj-fZf-LOp3dtaQisARHACLcBGAsYHQ/s135/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8qMtVTrGMAs/X4s9IsYJcaI/AAAAAAABqbI/zRM_eSYI4bUedD1Ci6hY9sJ3XahuSfxJQCLcBGAsYHQ/s135/1330-Luna-Lovegood-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1330/",
+      "fetched_at": "2026-05-16T19:10:33.362Z",
+      "raw_id": "/nendoroid/details/n1330/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.640Z",
+      "raw_id": "Nendoroid/1300-1399/1330.json"
+    }
+  ]
+}

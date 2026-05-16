@@ -1,0 +1,68 @@
+{
+  "num": "0148",
+  "name": {
+    "en": "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)",
+    "ja": "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
+    "ko": "사이쿄우지 유유코"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3051,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Z3IlTnK-Las/X4NJ-8fr8fI/AAAAAAABlRA/nHB5ZvepnSs9TDwzerjWidJUxxofKGDVwCLcBGAsYHQ/s270/148-Yuyuko-Saigyouji-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Z3IlTnK-Las/X4NJ-8fr8fI/AAAAAAABlRA/nHB5ZvepnSs9TDwzerjWidJUxxofKGDVwCLcBGAsYHQ/s270/148-Yuyuko-Saigyouji-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cyUCfCxwnS8/X4dTBOl-C0I/AAAAAAAAp9E/NMv0Tau1ucwp6vf4fa9Mx-HZgxbwOAUFACLcBGAsYHQ/s135/148-Yuyuko-Saigyouji-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Myxlc_SPIIQ/X4dTBTM42oI/AAAAAAAAp9I/jb0besaoBF8FqXCgetAItFlerUQ3RZxPwCLcBGAsYHQ/s135/148-Yuyuko-Saigyouji-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-movJzlmwHHs/X4dTBqZ7zbI/AAAAAAAAp9M/6AA3_c40b5g8OLypcujJ4jOAfsR1c3EJACLcBGAsYHQ/s135/148-Yuyuko-Saigyouji-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zB-6i5x1MMo/X4dTB6RE8kI/AAAAAAAAp9Q/w7rEUV1UXt4F-L4CvSY94qV9Jbs0y8mAQCLcBGAsYHQ/s135/148-Yuyuko-Saigyouji-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CMr6V5AWWQg/X4dTCFdnycI/AAAAAAAAp9U/TxSmYlzptTMCbi23COjgg-dFjP8_kzOqwCLcBGAsYHQ/s135/148-Yuyuko-Saigyouji-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n148/",
+      "fetched_at": "2026-05-16T19:10:33.462Z",
+      "raw_id": "/nendoroid/details/n148/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.301Z",
+      "raw_id": "Nendoroid/0100-0199/148.json"
+    }
+  ]
+}

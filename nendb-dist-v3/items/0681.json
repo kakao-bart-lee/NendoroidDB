@@ -1,0 +1,70 @@
+{
+  "num": "0681",
+  "name": {
+    "en": "Nendoroid Chris Redfield",
+    "ja": "ねんどろいど クリス・レッドフィールド (ねんどろいど くりす・れっどふぃーるど)",
+    "ko": "크리스 레드필드"
+  },
+  "series": {
+    "en": "Resident Evil",
+    "ja": "バイオハザード",
+    "ko": "바이오 하자드",
+    "code": "resident-evil"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5989,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FbRfY03P5Yk/X4NP9UlIDDI/AAAAAAABl5g/5koELuIq920r5nrJUG-J2RbQUAUMS3srQCLcBGAsYHQ/s270/681-Chris-Redfield-Resident-Evil-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FbRfY03P5Yk/X4NP9UlIDDI/AAAAAAABl5g/5koELuIq920r5nrJUG-J2RbQUAUMS3srQCLcBGAsYHQ/s270/681-Chris-Redfield-Resident-Evil-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pU0jXcMS3dE/X4i1xt_EXfI/AAAAAAAAs88/6ZfWrUEZAxosgKHSUBrSC7FeOLpTf9v_QCLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wMy_cukDgwo/X4i1x3uIwwI/AAAAAAAAs9A/Rr4yvJ2fH3oNu7AkP1r9FOOywSsqR1KqACLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bq2s1xNA9ko/X4i1yBb2tOI/AAAAAAAAs9E/y1mokUVUSJoV4qwY_yoZfwV2EJZa4QmZgCLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PxgkH45oaUo/X4i1yT61CfI/AAAAAAAAs9I/nRlB-kgHZgoB5wvW0kAmmVqMfbXaGF3pgCLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lexwFE8H5fg/X4i1y_LUtuI/AAAAAAAAs9M/LUxCkNR_i3IrBQAakRz-wvn75VAtU-2ogCLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2J_trau_B48/X4i1zFA_B5I/AAAAAAAAs9Q/jpW7nTvDkGQZP-30AhwGQe6zKdl6yWl0ACLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bveFhVZybx8/X4i1zbJ-CTI/AAAAAAAAs9U/khLIKa5oHRQNGgClpDIAgu5Lw5zT0NdQACLcBGAsYHQ/s135/681-Chris-Redfield-Resident-Evil-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n681/",
+      "fetched_at": "2026-05-16T19:10:34.739Z",
+      "raw_id": "/nendoroid/details/n681/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.482Z",
+      "raw_id": "Nendoroid/0600-0699/681.json"
+    }
+  ]
+}

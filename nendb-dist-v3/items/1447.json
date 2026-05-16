@@ -1,0 +1,69 @@
+{
+  "num": "1447",
+  "name": {
+    "en": "Nendoroid Leone Abbacchio",
+    "ja": "ねんどろいど レオーネ・アバッキオ (ねんどろいど れおーね・あばっきお)",
+    "ko": "레오네 아바키오"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9936,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2jspuyjSjSA/X4Nkk14KCYI/AAAAAAABm7Y/AEEZECF3rgwJ3C2wPiiJSd3BgIB4vHcjACLcBGAsYHQ/s270/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2jspuyjSjSA/X4Nkk14KCYI/AAAAAAABm7Y/AEEZECF3rgwJ3C2wPiiJSd3BgIB4vHcjACLcBGAsYHQ/s270/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3xGoV9mJjV4/X4tA5oYqkMI/AAAAAAABq9Y/53fua5n-lKk_D-hW8aQPP-t6QX1Ah33kgCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-72CL2qwkd9E/X4tA56mFSgI/AAAAAAABq9c/Qr1OUw0P5DEGH7BE1rrLNZVeGkEv57RbgCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vZYYyE1f_Lw/X4tA6FsRG0I/AAAAAAABq9g/DNb-HwjTeUga7ZYwE9gZ5IxqARhIaVmigCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cidv1MXqMoY/X4tA6Y0bB6I/AAAAAAABq9k/mte26g60PE46B1p9KdX1Fe978CoVlCPRgCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IVnoIMh6bgg/X4tA6lI0biI/AAAAAAABq9o/gAdprsd2krogoZg2fqpDkMBNBONXFSKYwCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-18PcEieF-Sw/X4tA63qZaaI/AAAAAAABq9s/uFbM4i_TVDMEDfUw9Kk4qeKR6hu_OVxLgCLcBGAsYHQ/s135/1447-Leone-Abbacchio-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1447/",
+      "fetched_at": "2026-05-16T19:10:33.437Z",
+      "raw_id": "/nendoroid/details/n1447/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.668Z",
+      "raw_id": "Nendoroid/1400-1499/1447.json"
+    }
+  ]
+}

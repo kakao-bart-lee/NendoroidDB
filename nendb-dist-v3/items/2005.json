@@ -1,0 +1,72 @@
+{
+  "num": "2005",
+  "name": {
+    "en": "Nendoroid Shion",
+    "ja": "ねんどろいど 紫苑 (ねんどろいど しおん)",
+    "ko": "시온"
+  },
+  "series": {
+    "en": "NO.6",
+    "ja": "NO.6",
+    "ko": "NO.6",
+    "code": "no-6"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13909,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dWGSj96cpcg/ZA3d-Sqa6FI/AAAAAAAA9Js/Nc9FBbSUSWMpn2XFVmXbuqG15zVn-J2bgCNcBGAsYHQ/s270/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dWGSj96cpcg/ZA3d-Sqa6FI/AAAAAAAA9Js/Nc9FBbSUSWMpn2XFVmXbuqG15zVn-J2bgCNcBGAsYHQ/s270/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-226STGNgxc4/ZA3cngWoILI/AAAAAAAA888/QoAsxcnhZsQliVvv3CpQsbIJKbAbBwHLQCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Vu5XV5O-Vko/ZA3cn7hvq-I/AAAAAAAA89A/uPMd8yiGgeokWM6O8HcZo6fqRALiHeYpgCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nq8oSEFc1dE/ZA3copfsDWI/AAAAAAAA89E/x2hk4dlnPAsLGQLHvh8wItHQbwm0UG5ewCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-J0TWs9kv1Gk/ZA3conGvDQI/AAAAAAAA89I/bq7x738osBEEVacVjDmQrXjuQhYv1tnEwCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Kmd9wTNgB98/ZA3co5Jy8RI/AAAAAAAA89Q/oj3iRYP8O9YLwurb93plw5j7mhoUShNGQCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hDK9JCa5W7A/ZA3cpnpk0nI/AAAAAAAA89M/bltkc3CdEZw3Cwc4eIdSaKn0_SVSVa97ACNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wKacfzb170c/ZA3cqClWG6I/AAAAAAAA89U/gmToGSZEAlQB1SHycGAbWgfEPGDN3B-hQCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-ODCt2rq6uTQ/ZA3cm5orgBI/AAAAAAAA880/VX_5Kuibq-MMeu-nhAcqXG9JyMXfT3NlACNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-U9uzCnuWBF8/ZA3cnEDZDKI/AAAAAAAA884/lAnwVYJnTT8VH3X55L0G1mzaG4g9JdHAgCNcBGAsYHQ/s135/2005-Shion-NO.6-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2005/",
+      "fetched_at": "2026-05-16T19:10:33.780Z",
+      "raw_id": "/nendoroid/details/n2005/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.803Z",
+      "raw_id": "Nendoroid/2000-2099/2005.json"
+    }
+  ]
+}

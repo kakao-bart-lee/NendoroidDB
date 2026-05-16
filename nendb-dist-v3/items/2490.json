@@ -1,0 +1,64 @@
+{
+  "num": "2490",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hatsune Miku Symphony",
+    "ja": null,
+    "ko": null,
+    "code": "hatsune-miku-symphony"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-akSvkR-33Ic/ZljX9d2AN7I/AAAAAAABEgs/-LEpw7RNE2IeoVo-O9SZudX4lM55dVshQCNcBGAsYHQ/s270/2490-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-akSvkR-33Ic/ZljX9d2AN7I/AAAAAAABEgs/-LEpw7RNE2IeoVo-O9SZudX4lM55dVshQCNcBGAsYHQ/s270/2490-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XUb5PE2r2D4/Zow6NL03QYI/AAAAAAABF9I/0m4uUdy1KAEuJ53mVba90z_BQ2rGqsDLACNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WzlDvLdq0PI/Zow6NkeEiiI/AAAAAAABF9M/EoQ68EPZjC8rXZvaUiLAbnPVRrhyPnsQACNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cY1PLp-18Cc/Zow6OSWs9uI/AAAAAAABF9Q/SfObtP_uyq4fyYP9X58y6umL41JVklSrgCNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JSUWY_GKelE/Zow6O0ct4MI/AAAAAAABF9U/CDbXqSTd5bkWe5VW0wjEjsJ1VPo8ajqLACNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--VzbquxCZcE/Zow6Pf8SvNI/AAAAAAABF9Y/6o8XSZ9PLecFGWI5L8rtRmTalLTOzgVZACNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qthwd1hlXTY/Zow6P8np8RI/AAAAAAABF9c/ORhmnCl0Jz0t_1FggLuJcuH4pJOHJvyNwCNcBGAsYHQ/s135/2490-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2490/",
+      "fetched_at": "2026-05-16T19:10:34.093Z",
+      "raw_id": "/nendoroid/details/n2490/"
+    }
+  ]
+}

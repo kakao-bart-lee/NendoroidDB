@@ -1,0 +1,63 @@
+{
+  "num": "2493",
+  "name": {
+    "en": "Kim Yeon Koung",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kvwUtJ09Y98/ZljX-RPYcOI/AAAAAAABEg0/HXN-XBrGXj0s1a2sDr1wVhVdiVKRnjhuwCNcBGAsYHQ/s270/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kvwUtJ09Y98/ZljX-RPYcOI/AAAAAAABEg0/HXN-XBrGXj0s1a2sDr1wVhVdiVKRnjhuwCNcBGAsYHQ/s270/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-at08fIXdU1k/Zow6laAgD9I/AAAAAAABF-w/Qck8kyQtUusXGiPSX3cg4y8B94KY7ZsEACNcBGAsYHQ/s135/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-komwlEF0YQs/Zow6l86yPMI/AAAAAAABF-0/ox5w778mgSosih_oeXsuXK4PouJ4SWQZQCNcBGAsYHQ/s135/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VngsgFJvbL4/Zow6mdS86vI/AAAAAAABF-4/OmzG7U79RKoWoVI8nIZTIFVqxrRBI_73wCNcBGAsYHQ/s135/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1NVnG5FLD8I/Zow6m3dUECI/AAAAAAABF-8/ahAaPNbYYtQXokZ54FbAquZ_t6ZLbNVAQCNcBGAsYHQ/s135/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-x-xYhUy314M/Zow6nfG5HmI/AAAAAAABF_A/Zo_DX6w4IN4kf7aHPJprZfIYuAE8IDOdACNcBGAsYHQ/s135/2493-Kim-Yeon-Koung-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2493/",
+      "fetched_at": "2026-05-16T19:10:34.094Z",
+      "raw_id": "/nendoroid/details/n2493/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "2492",
+  "name": {
+    "en": "Kazusa Kyoyama",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Archive",
+    "ja": null,
+    "ko": null,
+    "code": "blue-archive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Vp50tI_dIRU/ZljX9msGa8I/AAAAAAABEgw/kK4IlO5JoqIGaTW7TX__y0D6sghjOswgQCNcBGAsYHQ/s270/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Vp50tI_dIRU/ZljX9msGa8I/AAAAAAABEgw/kK4IlO5JoqIGaTW7TX__y0D6sghjOswgQCNcBGAsYHQ/s270/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mc-H-KFqtSY/Zow6iJtVyAI/AAAAAAABF-Y/ZTxPvXQh-4AUEY1Oi_2FEodLp7A6EX07QCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MxnlfxCOb5E/Zow6io85ZKI/AAAAAAABF-c/0I2xh-JCwIEbe2n3-3MVb6VeR0Nqn82LwCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pVC4qrL5lrY/Zow6jHkthxI/AAAAAAABF-g/iACttAGO4DMOOJpdgEZZ6RBShO67z6c3gCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Jj3A1QCjlq8/Zow6jpGp6gI/AAAAAAABF-k/HrFns1-48BArqS_MkgQ4C_FZA9G8VEj4gCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QQ16n0FenEE/Zow6kO5YblI/AAAAAAABF-o/UxrwA2pwcNk4OXPKsvEbQQEGQ879MrwSgCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-y7-N9iyU02w/Zow6k-z4c2I/AAAAAAABF-s/8-4C7R5WtIsUT5NhR55hP3ibml61NwjzgCNcBGAsYHQ/s135/2492-Kazusa-Kyoyama-Blue-Archive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2492/",
+      "fetched_at": "2026-05-16T19:10:34.094Z",
+      "raw_id": "/nendoroid/details/n2492/"
+    }
+  ]
+}

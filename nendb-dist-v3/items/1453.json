@@ -1,0 +1,69 @@
+{
+  "num": "1453",
+  "name": {
+    "en": "Nendoroid Junta Azumaya",
+    "ja": "ねんどろいど 東谷准太 (ねんどろいど あずまやじゅんた)",
+    "ko": "아즈마야 쥰타"
+  },
+  "series": {
+    "en": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+    "ja": "抱かれたい男1位に脅されています。",
+    "ko": "안기고 싶은 남자 1위에게 협박당하고 있습니다",
+    "code": "dakaretai-otoko-1-i-ni-odosarete-imasu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10054,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8F4B1ZOCwQs/X4Nkl0R3bwI/AAAAAAABm7o/T3h9M5sfcrMD24XSHLuhLJZjFXIJnLYAQCLcBGAsYHQ/s270/1453-Junta-Azumaya-Dakaretai-Otoko-1-i-ni-Odosarete-Imasu.-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8F4B1ZOCwQs/X4Nkl0R3bwI/AAAAAAABm7o/T3h9M5sfcrMD24XSHLuhLJZjFXIJnLYAQCLcBGAsYHQ/s270/1453-Junta-Azumaya-Dakaretai-Otoko-1-i-ni-Odosarete-Imasu.-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-T33dFbwGtJg/X4tA_xTVH_I/AAAAAAABq-4/DG0swIsl858PlXsbZKRojYKS6O3c_s53gCLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-3.jpg",
+      "https://1.bp.blogspot.com/-Sjyq9flQrCo/X4tBAOvmcxI/AAAAAAABq-8/rmmlDPcpNm4eXhClCgRzZxZwtZhwL_-iACLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-4.jpg",
+      "https://1.bp.blogspot.com/-MiNFERxDUfo/X4tBAX6tGDI/AAAAAAABq_A/HZ2766Kw3bkCP2rg4YhEgve7TbxyLNSpgCLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-5.jpg",
+      "https://1.bp.blogspot.com/-mq4EogPwYrE/X4tBAmWNtkI/AAAAAAABq_E/5z42CgCr3AM4ohqayjgY2NYB4twTuVIbwCLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-6.jpg",
+      "https://1.bp.blogspot.com/-Odn-AdwfYws/X4tBA3t0JUI/AAAAAAABq_I/On0bzxRPa3sVhX5-nwtX0oRpWaw69gI9ACLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-7.jpg",
+      "https://1.bp.blogspot.com/-8j7gR1hjgnc/X4tBBBxT60I/AAAAAAABq_M/1dBJ7kAsvPo8QNb3jbAUEJQk-72-RMC4wCLcBGAsYHQ/s135/1453-Junta-Azumaya-Dakaretai-Otoko-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1453/",
+      "fetched_at": "2026-05-16T19:10:33.440Z",
+      "raw_id": "/nendoroid/details/n1453/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.669Z",
+      "raw_id": "Nendoroid/1400-1499/1453.json"
+    }
+  ]
+}

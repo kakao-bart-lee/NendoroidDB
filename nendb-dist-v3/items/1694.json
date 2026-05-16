@@ -1,0 +1,72 @@
+{
+  "num": "1694",
+  "name": {
+    "en": "Nendoroid Batman: 1989 Ver.",
+    "ja": "ねんどろいど バットマン 1989 Ver. (ねんどろいど ばっとまん 1989 Ver.)",
+    "ko": "배트맨 1989 ver."
+  },
+  "series": {
+    "en": "Batman",
+    "ja": "バットマン",
+    "ko": "배트맨",
+    "code": "batman"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11465,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zHA74CRG2jw/YS6Jx1IwCZI/AAAAAAAAz-I/Fbg6AMLAQKsRqxnW_dOAXbLYRmBXHZCAgCLcBGAsYHQ/s270/1694-Batman-1989-Batman-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zHA74CRG2jw/YS6Jx1IwCZI/AAAAAAAAz-I/Fbg6AMLAQKsRqxnW_dOAXbLYRmBXHZCAgCLcBGAsYHQ/s270/1694-Batman-1989-Batman-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FkRJrl9c98M/YS6M9CVtucI/AAAAAAAA0MM/JCeMbWm_gvAfPxCz_wNMX5Aag0unv6u_wCLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J9f0B7783ws/YS6M9XmktVI/AAAAAAAA0MQ/siN9Vhg2qh4KDaViUgRPU783Q4v4OkmNwCLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uFzCB7aQxJA/YS6M9wWNkVI/AAAAAAAA0MU/0nLir-FnFngIUM2bgnuYrZIgT2FJ1fGmACLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-C5s6VCKV_CQ/YS6M-UILIoI/AAAAAAAA0MY/gBl7AtQiOTEhk0tIz09f7hsAWDEaDZbFgCLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--tPot3lrYAU/YS6M-2W1O1I/AAAAAAAA0Mc/upy-6z4QhYsQRadvBHkHjgGyPjXvvMq0ACLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0_LsKGFjwZk/YS6M_TygU7I/AAAAAAAA0Mg/CJOkD-vAkjIa4igmf2gCOBVhg690lIxFwCLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MJXmoB69npU/YS6M_9kDwkI/AAAAAAAA0Mk/XCceF9joolgQ3M3OjQmIk14-yn__NhVFACLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-kjFnYVexeHc/YS6M8-JXoXI/AAAAAAAA0ME/s3ieXbHTiFo1RvQUVfqVnJ32LsX7Np_IgCLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-FGLpPpsGT5o/YS6M9JoDMwI/AAAAAAAA0MI/Th2IRQFgEWw-B3g7pUwNUdD38ymz-cHsACLcBGAsYHQ/s135/1694-Batman-Batman-DC-Comics-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1694/",
+      "fetched_at": "2026-05-16T19:10:33.590Z",
+      "raw_id": "/nendoroid/details/n1694/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.728Z",
+      "raw_id": "Nendoroid/1600-1699/1694.json"
+    }
+  ]
+}

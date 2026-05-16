@@ -1,0 +1,68 @@
+{
+  "num": "0642",
+  "name": {
+    "en": "Nendoroid Albedo",
+    "ja": "ねんどろいど アルベド (ねんどろいど あるべど)",
+    "ko": "알베도"
+  },
+  "series": {
+    "en": "OVERLORD",
+    "ja": "オーバーロード",
+    "ko": "오버로드",
+    "code": "overlord"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5751,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oKttPZ2x0D4/X4NPwjUh0oI/AAAAAAABl3E/IO9vcVQCy6UdNhJvgE4ktqifbzmlBu_TwCLcBGAsYHQ/s270/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oKttPZ2x0D4/X4NPwjUh0oI/AAAAAAABl3E/IO9vcVQCy6UdNhJvgE4ktqifbzmlBu_TwCLcBGAsYHQ/s270/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-06I8kxtVxlE/X4i0mZvDOOI/AAAAAAAAsu8/_VWAxiAB-d4raoc6FzDx8ZDFMI2ppiqOwCLcBGAsYHQ/s135/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-66JwOY1wT4U/X4i0mwU_9OI/AAAAAAAAsvA/du60kvU4StksHwOeuleeMEWcIbGdBrAsgCLcBGAsYHQ/s135/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-86W0XQpbIN4/X4i0nEbEyUI/AAAAAAAAsvE/s7hCAf3ajE0npnyfniiHDWxZqk1C8ZAHgCLcBGAsYHQ/s135/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TQeVRpX2MU4/X4i0nU-AWQI/AAAAAAAAsvI/cWd4XehVp-0i3PYwFbN5gChBcC9sCf1UACLcBGAsYHQ/s135/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4nTDsPx8K6E/X4i0npeTShI/AAAAAAAAsvM/Th20wbgDUo8k85E3Svy30FcwpDJ1AM8EwCLcBGAsYHQ/s135/642-Albedo-Overlord-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n642/",
+      "fetched_at": "2026-05-16T19:10:34.717Z",
+      "raw_id": "/nendoroid/details/n642/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.472Z",
+      "raw_id": "Nendoroid/0600-0699/642.json"
+    }
+  ]
+}

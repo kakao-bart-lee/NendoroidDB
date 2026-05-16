@@ -1,0 +1,69 @@
+{
+  "num": "1371",
+  "name": {
+    "en": "Nendoroid Bronya: Valkyrie Chariot Ver.",
+    "ja": "ねんどろいど ブローニャ 戦乙女・戦車Ver. (ねんどろいど ぶろーにゃ いくさおとめ・せんしゃVer.)",
+    "ko": "브로냐 자이칙 채리엇 Ver."
+  },
+  "series": {
+    "en": "Honkai Impact 3rd",
+    "ja": "崩壊3rd",
+    "ko": "붕괴 3rd",
+    "code": "honkai-impact-3rd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9923,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VDx3nd9Lf2I/X4Nj1UFlmVI/AAAAAAABm3M/EYKbkS10Q2IBYn9wJPFH6b59_lKPEcJDgCLcBGAsYHQ/s270/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VDx3nd9Lf2I/X4Nj1UFlmVI/AAAAAAABm3M/EYKbkS10Q2IBYn9wJPFH6b59_lKPEcJDgCLcBGAsYHQ/s270/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HFgdSc_WDvg/X4s9-851ybI/AAAAAAABqoE/gLfa2r6lTVA2bhBik_q1pYsKWITe1YxnACLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yT1fAVXWbVs/X4s9-6t5EpI/AAAAAAABqoI/m1h5ehEJHKMVGbJWb0hDDHlLj_OxiNA4ACLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3K7UcX7_MT4/X4s9_e-LbDI/AAAAAAABqoM/TLEi_0XMAb0QRo4XJFN1-rI5pahGGzVEQCLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fgR-0DmGa4I/X4s9_k4rd9I/AAAAAAABqoQ/LbazJJZYEBMIAWTDdY__-KBaBYtBum8ewCLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EsEgCNrumuc/X4s9__N_vZI/AAAAAAABqoU/r8W0anb5rTQmpsU6yijnOxezkM8bNCrJgCLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Jxii8D2k5y0/X4s9_ztN56I/AAAAAAABqoY/4hkX2bYNc04LXIRTuXTifAuHSYmtbFd_QCLcBGAsYHQ/s135/1371-Bronya-Honkai-Impact-3rd-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1371/",
+      "fetched_at": "2026-05-16T19:10:33.388Z",
+      "raw_id": "/nendoroid/details/n1371/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.650Z",
+      "raw_id": "Nendoroid/1300-1399/1371.json"
+    }
+  ]
+}

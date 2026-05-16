@@ -1,0 +1,68 @@
+{
+  "num": "2194",
+  "name": {
+    "en": "Nendoroid Narberal Gamma",
+    "ja": "ねんどろいど ナーベラル・ガンマ (ねんどろいど なーべらる・がんま)",
+    "ko": "나베랄 감마"
+  },
+  "series": {
+    "en": "OVERLORD IV",
+    "ja": "オーバーロードⅣ",
+    "ko": "오버로드",
+    "code": "overlord-iv"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14569,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3S6zYp3iBOE/ZKXXSD9clEI/AAAAAAAA-k8/dtkx5FlGuZMHfDBy8MT8l-OTZSl582vNQCNcBGAsYHQ/s270/2194-Narberal-Gamma-Overlord-IV-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3S6zYp3iBOE/ZKXXSD9clEI/AAAAAAAA-k8/dtkx5FlGuZMHfDBy8MT8l-OTZSl582vNQCNcBGAsYHQ/s270/2194-Narberal-Gamma-Overlord-IV-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zUEnHEj0a54/ZKXmsjevXfI/AAAAAAAA_Ds/jMEWhRTZKlsKp2Dw_XbVJk3H7Tjb-CQLQCNcBGAsYHQ/s135/2194-Narberal-Gamma-Overlord-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KpIxSSRsD0M/ZKXms67K_5I/AAAAAAAA_Dw/N0g4Q4bcvt8470aogINpsLiuyTi16JQLACNcBGAsYHQ/s135/2194-Narberal-Gamma-Overlord-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HoAS7A6MVQU/ZKXms8gdFWI/AAAAAAAA_D0/7FrLk2Fl74Uny3XKeHu3Xiw3U2lsd39mgCNcBGAsYHQ/s135/2194-Narberal-Gamma-Overlord-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-u3YUFsGtQkw/ZKXmtlxKgFI/AAAAAAAA_D4/QtklCFuOQlQ0kdDXYraQRoggWWKovNHggCNcBGAsYHQ/s135/2194-Narberal-Gamma-Overlord-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ry7J-uIZr9Y/ZKXmuOL8MmI/AAAAAAAA_D8/qysMdtSJpfcenj4xLKXlgsw4zfJ1aTQSQCNcBGAsYHQ/s135/2194-Narberal-Gamma-Overlord-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2194/",
+      "fetched_at": "2026-05-16T19:10:33.898Z",
+      "raw_id": "/nendoroid/details/n2194/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.851Z",
+      "raw_id": "Nendoroid/2100-2199/2194.json"
+    }
+  ]
+}

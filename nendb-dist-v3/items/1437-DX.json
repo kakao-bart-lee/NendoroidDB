@@ -1,0 +1,55 @@
+{
+  "num": "1437-DX",
+  "name": {
+    "en": "Nendoroid Nebula: Endgame Ver. DX",
+    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. DX (ねんどろいど ねびゅら えんどげーむ Ver. DX)",
+    "ko": "네뷸라 엔드게임 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9898,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200805/9898/72934/large/32f0b7cf213c7858a5fd21dcd132ed6e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.665Z",
+      "raw_id": "Nendoroid/1400-1499/1437-DX.json"
+    }
+  ]
+}

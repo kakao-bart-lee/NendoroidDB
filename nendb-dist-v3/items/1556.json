@@ -1,0 +1,71 @@
+{
+  "num": "1556",
+  "name": {
+    "en": "Nendoroid Ying Ye",
+    "ja": "ねんどろいど 葉英 (ねんどろいど いえいん)",
+    "ko": "예잉"
+  },
+  "series": {
+    "en": "JX3",
+    "ja": "剣網3",
+    "ko": "검망3 : 손끝강호",
+    "code": "jx3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11830,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WdkSdNPbzxo/YYBJ-gFuXQI/AAAAAAAA1is/pBQPgfrddUcKEbQWtRONtdsP0YzUWbF2gCLcBGAsYHQ/s270/1556-Ying-Ye-JX3-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WdkSdNPbzxo/YYBJ-gFuXQI/AAAAAAAA1is/pBQPgfrddUcKEbQWtRONtdsP0YzUWbF2gCLcBGAsYHQ/s270/1556-Ying-Ye-JX3-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DbidjmqSpcw/YYBOjqiCxkI/AAAAAAAA1kI/pcYr9Fhlw4wcOzRnQEArSiHPkjgjYk0BgCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ve6oqbYUVMo/YYBOjuusM-I/AAAAAAAA1kQ/aOBAVYdeRWwIW0z16pT6HMe2LlTkO1hTwCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--FlI_MN5IKY/YYBOkGx51cI/AAAAAAAA1kU/EyLaWsdXxpId9Tt0zsH1es0c1I9DX_HmwCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-S8IRC_sqo9U/YYBOkZuGhkI/AAAAAAAA1kY/q8fsWVpfmyI4-1LDX7Gb0jFyi5V16EKXACLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BlN0ImoIc9g/YYBOkpNJCmI/AAAAAAAA1kc/kwMi7vucE24i5P9IFZxCclsR7HvBuYw1wCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-L6scILK51x0/YYBOk2xy5iI/AAAAAAAA1kg/b3tf5QAO-78p23pM4ZdzVs5sUSlj45LEwCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-M9ygRaP73zc/YYBOk9HNLrI/AAAAAAAA1kk/26ZCz6hueRo-al-XmZ-qMWSOvajY07uiACLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-hNzDmkFDqwg/YYBOjt_wiAI/AAAAAAAA1kM/df0SRWImLZsG4KinesSvRLqo_0Yo6sMyQCLcBGAsYHQ/s135/1556-Ying-Ye-JX3-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1556/",
+      "fetched_at": "2026-05-16T19:10:33.501Z",
+      "raw_id": "/nendoroid/details/n1556/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.694Z",
+      "raw_id": "Nendoroid/1500-1599/1556.json"
+    }
+  ]
+}

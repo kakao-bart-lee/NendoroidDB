@@ -1,0 +1,68 @@
+{
+  "num": "0405",
+  "name": {
+    "en": "Nendoroid Kongo (ねんどろいど こんごう)",
+    "ja": "ねんどろいど 金剛 (ねんどろいど こんごう)",
+    "ko": "콩고"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wYo0h-LjRGY/X4NNovVCLVI/AAAAAAABlmw/OmQRJYQSwsMdKzcFdbV42eQ7idMKXgHAgCLcBGAsYHQ/s270/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wYo0h-LjRGY/X4NNovVCLVI/AAAAAAABlmw/OmQRJYQSwsMdKzcFdbV42eQ7idMKXgHAgCLcBGAsYHQ/s270/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0LZcTLdh1y4/X4ddQINhgmI/AAAAAAAArYI/NUFUjg5fDdkxMsVw_6FsJvW075BYgPyLACLcBGAsYHQ/s135/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eMdzGVhlQ1U/X4ddQRj4bjI/AAAAAAAArYM/ig-D57zNKZY9aLqQPaxgwh6-_V63DzkGQCLcBGAsYHQ/s135/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P54piqLG-rA/X4ddQjk-VgI/AAAAAAAArYQ/QYt6TngT-lAsN8U_YvpWFkorPUomrlN5wCLcBGAsYHQ/s135/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hEtJ-dhO6zI/X4ddQ2hIvKI/AAAAAAAArYU/HwVOjreU70MUZDj0YtMb8oJajgWeJ08pgCLcBGAsYHQ/s135/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aFK2S5YmBtQ/X4ddRDdVJhI/AAAAAAAArYY/cZRC8tfTsPAbjeN5xb6K1AP2wrTJArnEwCLcBGAsYHQ/s135/405-Kongou-Kantai-Collection-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n405/",
+      "fetched_at": "2026-05-16T19:10:34.509Z",
+      "raw_id": "/nendoroid/details/n405/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.372Z",
+      "raw_id": "Nendoroid/0400-0499/405.json"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "num": "1411",
+  "name": {
+    "en": "Nendoroid Shoyo Hinata: The New Karasuno Ver.",
+    "ja": "ねんどろいど 日向翔陽 新生烏野Ver. (ねんどろいど ひなたしょうよう しんせいからすのVer.)",
+    "ko": "히나타 쇼요 신생 카라스노 Ver."
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model), Sho Nagano",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4571697187689",
+  "gsc_product_id": "7497",
+  "gsc_product_num": 9795,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/7497",
+    "ja": "https://www.goodsmile.com/ja/product/7497"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200717/9795/72100/large/a487fe6bb9e40e517ce4c9bd5f9e9f48.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2D61vQsntKo/X4Nkbf7pZXI/AAAAAAABm5E/7E3YkCFJDCA8pNNvQazoIIoFQef-bDA1wCLcBGAsYHQ/s270/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-unwCWaL1IU8/X4tAEV9YSAI/AAAAAAABqwk/4Lqza3wWGZQDtoYh6udKQeIMSMEhhi7yACLcBGAsYHQ/s135/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DBT4JiBWJr4/X4tAEoWWGoI/AAAAAAABqwo/ba6OjVbH8LcPuyMAWtpzYeN9knLX5igdgCLcBGAsYHQ/s135/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NeURYE62s5g/X4tAE1Z6VeI/AAAAAAABqws/t_fCTqnwHysV6UTv36APAIsvDQlDua_NACLcBGAsYHQ/s135/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-k3B7P8x2MfY/X4tAFJdtO6I/AAAAAAABqww/P_qOPh5vLAAMetKf8PczzafhqIE6NusWQCLcBGAsYHQ/s135/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-izFXW1GDUmI/X4tAFT_3PII/AAAAAAABqw0/yHWDJxjjYI8K4MBoDrWY9hKQGT52CqC5wCLcBGAsYHQ/s135/1411-Shoyo-Hinata-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200717/9795/72106/large/659848513e5bf061e556cf4a75bbe318.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200717/9795/72100/large/a487fe6bb9e40e517ce4c9bd5f9e9f48.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7497",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:56:27.570Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7497",
+      "fetched_at": "2026-05-16T11:56:27.570Z",
+      "raw_id": "7497"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/7497",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "7497"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1411/",
+      "fetched_at": "2026-05-16T19:10:33.414Z",
+      "raw_id": "/nendoroid/details/n1411/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.659Z",
+      "raw_id": "Nendoroid/1400-1499/1411.json"
+    }
+  ]
+}

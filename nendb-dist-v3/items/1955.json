@@ -1,0 +1,96 @@
+{
+  "num": "1955",
+  "name": {
+    "en": "Nendoroid Chisato Nishikigi",
+    "ja": "ねんどろいど 錦木千束 (ねんどろいど にしきぎちさと)",
+    "ko": "니시키기 치사토"
+  },
+  "series": {
+    "en": "Lycoris Recoil",
+    "ja": "リコリス・リコイル",
+    "ko": "리코리스 리코일",
+    "code": "lycoris-recoil"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Daigaku",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828660571",
+  "gsc_product_id": "10898",
+  "gsc_product_num": 13213,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/10898",
+    "ja": "https://www.goodsmile.com/ja/product/10898"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220906/13213/104239/large/62897949f924504f02276ffeaab1f2ee.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ybnePQcjVCc/Y02wBy9C_4I/AAAAAAAA6_g/63qOTsQ80c0bsofaoJow6Ntpg-PRIoTKgCNcBGAsYHQ/s270/1955-Chisato-Nishikigi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dgk1ezyUt1s/Y027pOes58I/AAAAAAAA7S4/a0Mk2u9XQoc7_U2oAXL3wdGGWen5E9qeACNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NkMvaBxOGrE/Y027pnQbhuI/AAAAAAAA7S8/0Wl_N6A6X98NwaWqP0gUuhJijJNHbcAdgCNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9T_GyR8u-JQ/Y027qI97KCI/AAAAAAAA7TA/wJJB-TGCsXE-CoS8tRIRHOLV9SUzMN-kQCNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-baW8mRP8j6U/Y027qliudwI/AAAAAAAA7TE/SgM1v7mDBIYe1m2dr3DGjmhJpOP0NmntACNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Siz7lgMO4Js/Y027rPbMgBI/AAAAAAAA7TI/dCXWFrKoeq0KWcB70aw69xZudfQN3CnVgCNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zuOmupPZjE8/Y027rq62DoI/AAAAAAAA7TM/eGHLgd_8Wp4mA0Kg-ivPDmn863pyeLLBACNcBGAsYHQ/s135/1955-Chisato-Nishikigi-Lyoris-Recoil-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220906/13213/104238/large/3a676874ebaf008a2c16800cf2182b6b.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220906/13213/104239/large/62897949f924504f02276ffeaab1f2ee.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10898",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:02:00.659Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10898",
+      "fetched_at": "2026-05-16T12:02:00.659Z",
+      "raw_id": "10898"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/10898",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "10898"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1955/",
+      "fetched_at": "2026-05-16T19:10:33.750Z",
+      "raw_id": "/nendoroid/details/n1955/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.790Z",
+      "raw_id": "Nendoroid/1900-1999/1955.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0760",
+  "name": {
+    "en": "Nendoroid Yamatonokami Yasusada",
+    "ja": "ねんどろいど 大和守安定 (ねんどろいど やまとのかみやすさだ)",
+    "ko": "야마토노가미 야스사다"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6376,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-V0wBU9fABTc/X4NdCBd_FFI/AAAAAAABl_Q/0KhAvzjnRj8nSDgx1yDTf07JgTp0UJWlwCLcBGAsYHQ/s270/760-Yamatonokami-Yasusada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-V0wBU9fABTc/X4NdCBd_FFI/AAAAAAABl_Q/0KhAvzjnRj8nSDgx1yDTf07JgTp0UJWlwCLcBGAsYHQ/s270/760-Yamatonokami-Yasusada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-o0kLmI-qr34/X4i5FaGUZkI/AAAAAAAAtco/s5y672Z4RdsXDbMRADkTVdH-45lOL9UyACLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Cwn4eKjL6Xk/X4i5Fqqn5YI/AAAAAAAAtcs/_fqY5MUKjZ4Q-0ALbs0PkBVtdYRBc1ZBwCLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qSEK7x1MS8Y/X4i5F9FkrBI/AAAAAAAAtcw/m2zuCfHhMW4EVvKrSL293igOS7j1IcQLwCLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DOpZPwB2ZPI/X4i5GL8LVWI/AAAAAAAAtc0/RxCnJo0r-c4FwcHDoQLWdHZfUwFYzwwrQCLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7-6u-dc1nHQ/X4i5GRxPgFI/AAAAAAAAtc4/B86OAkxhkocUxHcuRzG2L4i9l14GgVlfQCLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4il9mnjrR4A/X4i5GjhMsHI/AAAAAAAAtc8/iXEJEM7bpxQDD6uP_HnIrvvttI3uwoPKACLcBGAsYHQ/s135/760-Yamatonokami-Yasusada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n760/",
+      "fetched_at": "2026-05-16T19:10:34.783Z",
+      "raw_id": "/nendoroid/details/n760/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.501Z",
+      "raw_id": "Nendoroid/0700-0799/760.json"
+    }
+  ]
+}

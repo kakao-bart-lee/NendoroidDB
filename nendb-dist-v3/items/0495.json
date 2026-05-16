@@ -1,0 +1,69 @@
+{
+  "num": "0495",
+  "name": {
+    "en": "Nendoroid Haruna (ねんどろいど はるな)",
+    "ja": "ねんどろいど 榛名 (ねんどろいど はるな)",
+    "ko": "하루나"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4819,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5KLSGwR8f6A/X4NOBKW_JsI/AAAAAAABlsg/z1gzU_kW2F8RMSGVJ8s9LPg5s3JmpK8aACLcBGAsYHQ/s270/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5KLSGwR8f6A/X4NOBKW_JsI/AAAAAAABlsg/z1gzU_kW2F8RMSGVJ8s9LPg5s3JmpK8aACLcBGAsYHQ/s270/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Va5tvhh-2iY/X4dfgttf03I/AAAAAAAAr2E/q5jpaOfzm-01YdNaGQEGZ87flpLKJ7tSwCLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XhtwJpu2eqQ/X4dfhVWZAOI/AAAAAAAAr2I/ycNK_yeVGgci62cPpL0swO4gGSO-VklowCLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qxbRpkYwPpM/X4dfhsTuPJI/AAAAAAAAr2M/HMHTgSmDr0g9guJGe9b8j7UIwwzldxV2QCLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ypahwa4OJys/X4dfhxqT8XI/AAAAAAAAr2Q/nhjcFFxVsJQRfH8jRW3imEMNRCfYGBxbQCLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-40Fib8bQWsI/X4dfiF2JQuI/AAAAAAAAr2U/3BrjQJi1CUcueKHFKEMU_mKzVNZg6SETACLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-T8Qs3bAoy1Q/X4dfiZEKAdI/AAAAAAAAr2Y/lRC9yaiiC-kDkSvadq_7vtMuOMZKli58gCLcBGAsYHQ/s135/495-Haruna-Kantai-Collection-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n495/",
+      "fetched_at": "2026-05-16T19:10:34.560Z",
+      "raw_id": "/nendoroid/details/n495/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.393Z",
+      "raw_id": "Nendoroid/0400-0499/495.json"
+    }
+  ]
+}

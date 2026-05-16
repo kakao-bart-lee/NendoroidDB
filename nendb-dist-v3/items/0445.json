@@ -1,0 +1,67 @@
+{
+  "num": "0445",
+  "name": {
+    "en": "Nendoroid Renge Miyauchi",
+    "ja": "ねんどろいど 宮内れんげ (ねんどろいど みやうちれんげ)",
+    "ko": "이야우치 렌게"
+  },
+  "series": {
+    "en": "Non Non Biyori",
+    "ja": "のんのんびより",
+    "ko": "논논비요리",
+    "code": "non-non-biyori"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4506,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--WBfejuTJtU/X4NNyYXNrTI/AAAAAAABlpU/wjfAzMxofT4dX33mswT02VT48p18Rpp0QCLcBGAsYHQ/s270/445-Renge%2BMiyauchi-Non%2BNon%2BBiyori-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--WBfejuTJtU/X4NNyYXNrTI/AAAAAAABlpU/wjfAzMxofT4dX33mswT02VT48p18Rpp0QCLcBGAsYHQ/s270/445-Renge%2BMiyauchi-Non%2BNon%2BBiyori-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HucHNlwD5A8/X4deNaw4muI/AAAAAAAArko/6tOFoIRjVV8OAItgqhys4A8AoeRAZt9iACLcBGAsYHQ/s135/445-Renge-Miyauchi-Non-Non-Biyori-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OK2WsJRSUnc/X4deNioWVvI/AAAAAAAArks/ejcO85iF24U7tCZR7rDLEC_-SzGo86bCgCLcBGAsYHQ/s135/445-Renge-Miyauchi-Non-Non-Biyori-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-szsZKltywj4/X4deN7GaMMI/AAAAAAAArkw/QKMpI7l8UNMoHzMarqSnqmP7EIPxb-YUwCLcBGAsYHQ/s135/445-Renge-Miyauchi-Non-Non-Biyori-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Bw2i9zAkSGk/X4deOLBDmsI/AAAAAAAArk0/5seaPO5UzjQfHIaPKdRuMcJMq5g6MNBOACLcBGAsYHQ/s135/445-Renge-Miyauchi-Non-Non-Biyori-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n445/",
+      "fetched_at": "2026-05-16T19:10:34.533Z",
+      "raw_id": "/nendoroid/details/n445/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.381Z",
+      "raw_id": "Nendoroid/0400-0499/445.json"
+    }
+  ]
+}

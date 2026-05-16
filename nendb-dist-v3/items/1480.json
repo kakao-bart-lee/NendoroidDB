@@ -1,0 +1,69 @@
+{
+  "num": "1480",
+  "name": {
+    "en": "Nendoroid Karyl",
+    "ja": "ねんどろいど キャル (ねんどろいど きゃる)",
+    "ko": "캬루"
+  },
+  "series": {
+    "en": "Princess Connect! Re: Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "ko": "프린세스 커넥트! Re:Dive",
+    "code": "princess-connect-re-dive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10178,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KNxm0BZd6Fo/X5Ccdh5OBfI/AAAAAAAAt1Y/0kqoElxz0JELSPxoQbF2kQI7x-_lUzXnwCLcBGAsYHQ/s270/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KNxm0BZd6Fo/X5Ccdh5OBfI/AAAAAAAAt1Y/0kqoElxz0JELSPxoQbF2kQI7x-_lUzXnwCLcBGAsYHQ/s270/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RDjml8UKUAc/X5CdXGH-UcI/AAAAAAAAt2s/MuOujFLbBn8PiPru-3suzAsaqJVc-4pmwCLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hhUKwx7LSWE/X5CdXaAODxI/AAAAAAAAt2w/3CG6vYIE7149I0kIv6NhWBMnJTgZgV4vwCLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I0ZvU-ZkzEQ/X5CdXuX4stI/AAAAAAAAt20/IjBlIujcR8kI6YPO6UA7WJYmAMRnOrcQQCLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XRIA1WAd8Qg/X5CdXzsQN_I/AAAAAAAAt24/nZg0p9sJfnIxW8C3_dF1aSbYy3hXWi7BACLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OM6Fww6GDEE/X5CdX4kmeAI/AAAAAAAAt28/KVhiZan2yYAcz7FUapFLgToWoKDjj2RxACLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4YVBw0--67U/X5CdYSHX6DI/AAAAAAAAt3A/118oU7QKyAcThtlGFTu2pet9ghr3sUCLgCLcBGAsYHQ/s135/1480-Karyl-Princess-Connect-Re-Dive-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1480/",
+      "fetched_at": "2026-05-16T19:10:33.457Z",
+      "raw_id": "/nendoroid/details/n1480/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.676Z",
+      "raw_id": "Nendoroid/1400-1499/1480.json"
+    }
+  ]
+}

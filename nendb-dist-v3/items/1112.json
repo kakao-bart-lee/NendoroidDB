@@ -1,0 +1,68 @@
+{
+  "num": "1112",
+  "name": {
+    "en": "Nendoroid Shoto Todoroki: Hero's Edition",
+    "ja": "ねんどろいど 轟焦凍 ヒーローズ・エディション (ねんどろいど とどろきしょうと ひーろーず・えでぃしょん)",
+    "ko": "토도로키 쇼토 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8187,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fiI63uoKyLE/X4NgUmgemtI/AAAAAAABmZQ/2UzGwpdXONwIT7BZZ9PGiTEorFAQRyY1gCLcBGAsYHQ/s270/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fiI63uoKyLE/X4NgUmgemtI/AAAAAAABmZQ/2UzGwpdXONwIT7BZZ9PGiTEorFAQRyY1gCLcBGAsYHQ/s270/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tL0gJIvGm-Q/X4rvm2tIGxI/AAAAAAABo-w/0rxE_Je6_Dg_9A08l5s4xjfB41kAhHUoACLcBGAsYHQ/s135/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1KlkE5X_Xeo/X4rvnH5A36I/AAAAAAABo-0/2uNAy24m4pw4D9C1vJa8riHiBHnvVAegACLcBGAsYHQ/s135/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o9_HT3HTPec/X4rvnfslLJI/AAAAAAABo-4/VIHJKHg9HSE7dCcF7cz6pAeo1ajjWdjLgCLcBGAsYHQ/s135/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rvkRyKpg_e8/X4rvnuGfuWI/AAAAAAABo-8/R-piIODdQTk7gbnvOvmKfWggDdkUqlxWgCLcBGAsYHQ/s135/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5gmTRU2akhE/X4rvn-g_YWI/AAAAAAABo_A/MmRRvYZs1kYXEV0V_RL-lO-7JJufYfPDwCLcBGAsYHQ/s135/1112-Shoto-Todoroki-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1112/",
+      "fetched_at": "2026-05-16T19:10:33.228Z",
+      "raw_id": "/nendoroid/details/n1112/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.587Z",
+      "raw_id": "Nendoroid/1100-1199/1112.json"
+    }
+  ]
+}

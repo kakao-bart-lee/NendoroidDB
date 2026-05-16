@@ -1,0 +1,63 @@
+{
+  "num": "2533",
+  "name": {
+    "en": "Marcus Fenix",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Gears Of War",
+    "ja": null,
+    "ko": null,
+    "code": "gears-of-war"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8_IRpWgTySc/Zor7kfKtCtI/AAAAAAABFDs/HzTLVnXC9zYFTAa7ImXvgNuHAdcxmB_vQCNcBGAsYHQ/s270/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8_IRpWgTySc/Zor7kfKtCtI/AAAAAAABFDs/HzTLVnXC9zYFTAa7ImXvgNuHAdcxmB_vQCNcBGAsYHQ/s270/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ykEwgi9l05A/Zow9apds_uI/AAAAAAABGMU/uf9o-TuVKWgo7RMlvDTSQnMxu8cW38xJACNcBGAsYHQ/s135/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-m6rem44LLXw/Zow9bARL8OI/AAAAAAABGMY/CBgQusAmlUIkn_6sZOMom1ryp8zhUuFBwCNcBGAsYHQ/s135/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ijktAXqpiTY/Zow9bU1XXdI/AAAAAAABGMc/OOeZ1pAfbQ8jZFQFC2mvM9zfSZqde6TcgCNcBGAsYHQ/s135/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QK0ZSX2bQYs/Zow9cOMRjFI/AAAAAAABGMg/C5mUfg7-SA4KSUaBP-f-5eChcNbMJHihQCNcBGAsYHQ/s135/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VsOsQs2R-OI/Zow9cm33l7I/AAAAAAABGMk/fWSxSiOr_r0eE7fSJF93B2bVXrvvFy5sgCNcBGAsYHQ/s135/2533-Marcus-Fenix-Gears-of-War-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2533/",
+      "fetched_at": "2026-05-16T19:10:34.118Z",
+      "raw_id": "/nendoroid/details/n2533/"
+    }
+  ]
+}

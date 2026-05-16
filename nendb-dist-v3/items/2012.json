@@ -1,0 +1,68 @@
+{
+  "num": "2012",
+  "name": {
+    "en": "Nendoroid Stan Lee",
+    "ja": "ねんどろいど スタン・リー (ねんどろいど すたん・りー)",
+    "ko": "스탠 리"
+  },
+  "series": {
+    "en": "Stan Lee",
+    "ja": "スタン・リー",
+    "ko": "스탠 리",
+    "code": "stan-lee"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13617,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ev1Yc_hjfhg/Y45wXBfkqQI/AAAAAAAA7sw/Dme_oglQWaoiOupjSXWH-SsBB7pUKwfiwCNcBGAsYHQ/s270/2012-Stan-Lee-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ev1Yc_hjfhg/Y45wXBfkqQI/AAAAAAAA7sw/Dme_oglQWaoiOupjSXWH-SsBB7pUKwfiwCNcBGAsYHQ/s270/2012-Stan-Lee-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-onKUjJQM-Oo/Y451_9IdlOI/AAAAAAAA774/D6yTemNR7Ts73lvedlN2Q38Dwj3CmDurQCNcBGAsYHQ/s135/2012-Stan-Lee-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZQS0uWrvtGc/Y452AX8JVcI/AAAAAAAA778/G5DaF3zkHVIqGi-f_T2epIcVApHTvsPfwCNcBGAsYHQ/s135/2012-Stan-Lee-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-p-dsvtrBFzo/Y452A6XKDwI/AAAAAAAA78A/va6Xcn72Ld8kn_dZz2f_0lhuaG4giEs2QCNcBGAsYHQ/s135/2012-Stan-Lee-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-b5gI8VU7uRc/Y452Bc6-DvI/AAAAAAAA78E/uC6OANF6g0EppEJJe9XC6lNce7mx5oiFACNcBGAsYHQ/s135/2012-Stan-Lee-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QUOR2kO8eCk/Y452CEZV_EI/AAAAAAAA78I/z8ba1ce3h_g2yl5x8FurW405uSv9HDqRACNcBGAsYHQ/s135/2012-Stan-Lee-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2012/",
+      "fetched_at": "2026-05-16T19:10:33.784Z",
+      "raw_id": "/nendoroid/details/n2012/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.805Z",
+      "raw_id": "Nendoroid/2000-2099/2012.json"
+    }
+  ]
+}

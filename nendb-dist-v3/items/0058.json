@@ -1,0 +1,67 @@
+{
+  "num": "0058",
+  "name": {
+    "en": "Nendoroid KAITO (ねんどろいど かいと)",
+    "ja": "ねんどろいど KAITO (ねんどろいど かいと)",
+    "ko": "KAITO"
+  },
+  "series": {
+    "en": "KAITO",
+    "ja": "KAITO",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "kaito"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2165,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eyX3R6v-5YI/X4MSALe4f7I/AAAAAAAApaQ/d3YOEweLw7ERDBzPcIPItR40R7t-VTZUwCLcBGAsYHQ/s270/058-Kaito-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eyX3R6v-5YI/X4MSALe4f7I/AAAAAAAApaQ/d3YOEweLw7ERDBzPcIPItR40R7t-VTZUwCLcBGAsYHQ/s270/058-Kaito-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5Qitjg7NrEY/X4GwpFqWe3I/AAAAAAAApGs/HFzHnrCv-vwj6PUWZrBaT4bq6IsbipQIACLcBGAsYHQ/s135/058-Kaito-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5vN1nzUhR8s/X4GwpKY67mI/AAAAAAAApGw/DniQMEvVr3U0zbN1C_PZxBrHaKs0vyjTQCLcBGAsYHQ/s135/058-Kaito-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NIxEQ78aQCw/X4GwpfJUr_I/AAAAAAAApG0/R68gS_BMvmAujNch99PhGa2ATfwHs37wQCLcBGAsYHQ/s135/058-Kaito-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8m-TGDhp0u4/X4Gwp8xZZDI/AAAAAAAApG4/ooZIRIO1T6A2SiJyTzYa2-QE9OrpnM78gCLcBGAsYHQ/s135/058-Kaito-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n058/",
+      "fetched_at": "2026-05-16T19:10:33.102Z",
+      "raw_id": "/nendoroid/details/n058/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.277Z",
+      "raw_id": "Nendoroid/0000-0099/058.json"
+    }
+  ]
+}

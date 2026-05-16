@@ -1,0 +1,55 @@
+{
+  "num": "10749",
+  "name": {
+    "en": "Nendoroid Doll Easel Stand (Clear Red/Clear Blue/Clear Green/Clear Yellow/Clear Purple/Clear Black)",
+    "ja": "ねんどろいどどーる イーゼル（クリアレッド/クリアブルー/クリアグリーン/クリアイエロー/クリアパープル/クリアブラック） (ねんどろいどどーる いーぜる（くりあれっど/くりあぶるー/くりあぐりーん/くりあいえろー/くりあぱーぷる/くりあぶらっく）)",
+    "ko": "이젤(컬러)"
+  },
+  "series": {
+    "en": "Nendoroid",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 1000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10749,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210202/10749/80560/large/55381f2a51d91ae605b4f8bf7edbde76.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.947Z",
+      "raw_id": "NendoroidDoll/Customizing/10749.json"
+    }
+  ]
+}

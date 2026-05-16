@@ -1,0 +1,69 @@
+{
+  "num": "1875",
+  "name": {
+    "en": "Nendoroid Ryang-Ha Song",
+    "ja": "ねんどろいど ソン・リャンハ (ねんどろいど そん・りゃんは)",
+    "ko": "송량하"
+  },
+  "series": {
+    "en": "Love of Kill",
+    "ja": "殺し愛",
+    "ko": "살애",
+    "code": "love-of-kill"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12658,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B_F7hRxLwaU/Yp4F5tzPzAI/AAAAAAAB6xA/ABqx2oqnHsMXD7ZkDCKP9DlJrNQfcZK_wCNcBGAsYHQ/s270/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B_F7hRxLwaU/Yp4F5tzPzAI/AAAAAAAB6xA/ABqx2oqnHsMXD7ZkDCKP9DlJrNQfcZK_wCNcBGAsYHQ/s270/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QW9mKvxgGgc/Yp4NTuBtH8I/AAAAAAAB62U/_Hu8fMh1o2wfTTjfMggJrtj8VI9-VBbsgCNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pdo2-ESZhMI/Yp4NUEjCzUI/AAAAAAAB62Q/Hki2nwlGqa4NidxPy7UfQHZt3L9oEZY5ACNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RLuxXnEbm7k/Yp4NUugsCkI/AAAAAAAB62Y/NO7gSVn9LL4l9-A_8RLFyAiiiEiWjLYFgCNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-88azppzw4rM/Yp4NUh21MYI/AAAAAAAB62c/MNdLt1BHIf8IMoONIqn2xEed_VT8Jo-9QCNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ra3ZVKDuvag/Yp4NU-Or9qI/AAAAAAAB62g/ULCamln2T7UgSM_0FiJA31PrSAeLCl0KwCNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-TwLicgy5fb0/Yp4NVEdFTXI/AAAAAAAB62k/bhIwIq6LCPsdPWECrAshM9jHFEBTRglCwCNcBGAsYHQ/s135/1875-Ryang-Ha-Song-Love-of-Kill-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1875/",
+      "fetched_at": "2026-05-16T19:10:33.703Z",
+      "raw_id": "/nendoroid/details/n1875/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.773Z",
+      "raw_id": "Nendoroid/1800-1899/1875.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1394",
+  "name": {
+    "en": "Nendoroid Kurama",
+    "ja": "ねんどろいど 蔵馬 (ねんどろいど くらま)",
+    "ko": "쿠라마"
+  },
+  "series": {
+    "en": "Yu Yu Hakusho",
+    "ja": "幽☆遊☆白書",
+    "ko": "유유백서",
+    "code": "yu-yu-hakusho"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13117,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xAMkV6xxi9I/Yw_WIs40dFI/AAAAAAAA6Yc/RqenwlJD9rEjlUxWnip3Je25PwXRnw8vACNcBGAsYHQ/s270/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xAMkV6xxi9I/Yw_WIs40dFI/AAAAAAAA6Yc/RqenwlJD9rEjlUxWnip3Je25PwXRnw8vACNcBGAsYHQ/s270/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bCdJAE-M308/YxEWQysCpYI/AAAAAAAA6eA/WAx5tg8iLRg5FtCpoGAm5fLgA5BVnHx_gCNcBGAsYHQ/s135/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IUrQobSCV0U/YxEWRSr4IuI/AAAAAAAA6eE/WZqsa701-ggYmax3qijISNmp5MmqKysmACNcBGAsYHQ/s135/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5aCeHhzPU7w/YxEWRu7fNSI/AAAAAAAA6eI/rY4ikkoVhU4kTg2r_c6TT3AaYHjAg3BZQCNcBGAsYHQ/s135/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yWw4vcxo5Z4/YxEWR-nXYwI/AAAAAAAA6eM/AZW4C83nBYASVPlhwqzWNahcsWmeej7LwCNcBGAsYHQ/s135/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ktr0IIDuKeA/YxEWSdFekmI/AAAAAAAA6eQ/4ZIc2QkW_4MoGl8W5Uyy00L63-Wc4X0KQCNcBGAsYHQ/s135/1394-Kurama-Yu-Yu-Hakusho-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1394/",
+      "fetched_at": "2026-05-16T19:10:33.404Z",
+      "raw_id": "/nendoroid/details/n1394/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.655Z",
+      "raw_id": "Nendoroid/1300-1399/1394.json"
+    }
+  ]
+}

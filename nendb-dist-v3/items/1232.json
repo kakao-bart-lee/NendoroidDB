@@ -1,0 +1,68 @@
+{
+  "num": "1232",
+  "name": {
+    "en": "Nendoroid Orochimaru",
+    "ja": "ねんどろいど 大蛇丸 (ねんどろいど おろちまる)",
+    "ko": "오로치마루"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8949,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-C-KSLrsc8fY/X4NiOv8KC0I/AAAAAAABmow/AAwmcx7QwGAtr3uJotIMw3-CN8TbYfpMwCLcBGAsYHQ/s270/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-C-KSLrsc8fY/X4NiOv8KC0I/AAAAAAABmow/AAwmcx7QwGAtr3uJotIMw3-CN8TbYfpMwCLcBGAsYHQ/s270/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nt55sWraGkA/X4rzqe8BRkI/AAAAAAABpx0/7U9rPgEzGJ8cLboQ1fd8QRv2a9EoXRiWQCLcBGAsYHQ/s135/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CwWqsquray4/X4rzqUB9h5I/AAAAAAABpx4/H1Mdp9Aqdd4cuwI3Og1QKRg-orn3FrtXwCLcBGAsYHQ/s135/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ap4v7oFTwM4/X4rzqvCtzhI/AAAAAAABpx8/9r1TSmeUWIU_eQwYYcOf1MOZWfM3a7z-gCLcBGAsYHQ/s135/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ys442lHEQO8/X4rzq0KMiSI/AAAAAAABpyA/91WXL5vmN3kmwe9ZHiJKWXfzAuc6pH4gQCLcBGAsYHQ/s135/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-n8uanzwTHU4/X4rzrHVUQUI/AAAAAAABpyE/_njTApdoaPgToP6ZWbVGeA8elYamqlOOACLcBGAsYHQ/s135/1232-Orochimaru-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1232/",
+      "fetched_at": "2026-05-16T19:10:33.302Z",
+      "raw_id": "/nendoroid/details/n1232/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.617Z",
+      "raw_id": "Nendoroid/1200-1299/1232.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0090",
+  "name": {
+    "en": "Nendoroid Alphard (ねんどろいど あるふぁるど)",
+    "ja": "ねんどろいど アルファルド (ねんどろいど あるふぁるど)",
+    "ko": "알파르도"
+  },
+  "series": {
+    "en": "CANAAN",
+    "ja": "CANAAN",
+    "ko": "카난",
+    "code": "canaan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2670,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jQjZUF8_Q7M/X4MSJRyLUpI/AAAAAAAApcM/rEt5rMMAwqolTWTg6vhCvE1nvwsG_Es1gCLcBGAsYHQ/s270/090-Aphard-CANAAN-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jQjZUF8_Q7M/X4MSJRyLUpI/AAAAAAAApcM/rEt5rMMAwqolTWTg6vhCvE1nvwsG_Es1gCLcBGAsYHQ/s270/090-Aphard-CANAAN-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OQWptTAdbIo/X4GxI0PanRI/AAAAAAAApQI/8_AJQSh2SOwzuNJyIkL2S4QFKAbJ_0CDQCLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zhnJ9oEwbKk/X4GxJDfLEsI/AAAAAAAApQM/I091nWqiu-82CgFH7jgnQe6rgs9ilZ_WgCLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WEu6vOBSfRg/X4GxJRufqjI/AAAAAAAApQQ/8wffotvHB2A8KrCtYofwMHZlAugBDEpWwCLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uvIgepS9jW0/X4GxJR5_8SI/AAAAAAAApQU/C2OpGzzzYpAEiXOOnG5lxTJLF1MiN13TACLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NEqIqrKQNfM/X4GxJphiuyI/AAAAAAAApQY/oMHJOz7YdfUr4uAo-t15AA2KpqcTPHUXQCLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-g1odTTyviVE/X4GxJgAxuvI/AAAAAAAApQc/mPnHPEfuLgwSbX98RRS5nits1CjJisabQCLcBGAsYHQ/s135/090-Alphard-Canaan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n090/",
+      "fetched_at": "2026-05-16T19:10:33.121Z",
+      "raw_id": "/nendoroid/details/n090/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.285Z",
+      "raw_id": "Nendoroid/0000-0099/090.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1174",
+  "name": {
+    "en": "Nendoroid Jasmine",
+    "ja": "ねんどろいど ジャスミン (ねんどろいど じゃすみん)",
+    "ko": "자스민"
+  },
+  "series": {
+    "en": "Aladdin",
+    "ja": "アラジン",
+    "ko": "알라딘",
+    "code": "aladdin"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8602,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LfM5TjdeEn4/X4NgqrygduI/AAAAAAABmdc/hH81XJoDEcEFPPRD_NYeA65dnYeo6RUWQCLcBGAsYHQ/s270/1174-Jasmine-Alladin-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LfM5TjdeEn4/X4NgqrygduI/AAAAAAABmdc/hH81XJoDEcEFPPRD_NYeA65dnYeo6RUWQCLcBGAsYHQ/s270/1174-Jasmine-Alladin-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-g27zdwDxvbk/X4rxT8X2B3I/AAAAAAABpYE/GxOCnPJVjCIWCpYUCmfK-WDK8ivrMlYqQCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cwQ5YicPH1c/X4rxUHxjKSI/AAAAAAABpYI/tsy1oFMIMp8sT6CMPEGzWxx1KuYeTBbQQCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-posnCwGpnn0/X4rxUXJRudI/AAAAAAABpYM/m-fJCn-OxvwVTh8XDboS0-HpUxtURa8cQCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-33DzOKpQwRw/X4rxUn3-9OI/AAAAAAABpYQ/5V7vReL7LzQ13876_DelfN9e1rotlrN1wCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YJXr42IJFb4/X4rxU1-CowI/AAAAAAABpYU/mULQki1XMa8lJZMHew2EzUfSp6P-_4AnACLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kF1vqb5Rm-g/X4rxVC_xTAI/AAAAAAABpYY/y6HK9rZ3Rr80F6Fxt04dFelv-pc1yXn8QCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-VxyJzkC0vkM/X4rxVQyjmoI/AAAAAAABpYc/pK4CSAhjTXgRuBQ7Hr6lo0_8V7tZz3hFQCLcBGAsYHQ/s135/1174-Jasmine-Alladin-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1174/",
+      "fetched_at": "2026-05-16T19:10:33.267Z",
+      "raw_id": "/nendoroid/details/n1174/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.602Z",
+      "raw_id": "Nendoroid/1100-1199/1174.json"
+    }
+  ]
+}

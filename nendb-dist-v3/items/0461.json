@@ -1,0 +1,68 @@
+{
+  "num": "0461",
+  "name": {
+    "en": "Nendoroid Shoyo Hinata",
+    "ja": "ねんどろいど 日向翔陽 (ねんどろいど ひなたしょうよう)",
+    "ko": "히나타 쇼오"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4644,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lCz6Dh-ES5E/X4NN2ueT4KI/AAAAAAABlqY/AXtgQSw2AsAOCnCqoVnQ08n-HakL_4fogCLcBGAsYHQ/s270/461-Shoyo%2BHinata-Haikyu%2521%2521-Second-Season-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lCz6Dh-ES5E/X4NN2ueT4KI/AAAAAAABlqY/AXtgQSw2AsAOCnCqoVnQ08n-HakL_4fogCLcBGAsYHQ/s270/461-Shoyo%2BHinata-Haikyu%2521%2521-Second-Season-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BToN7k7nJQU/X4denPcaM3I/AAAAAAAArp4/KweHI3nBp5EFvp0Wm4V4Aaz98DamGKG4wCLcBGAsYHQ/s135/461-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Im_i1H6kOFg/X4denucnVTI/AAAAAAAArp8/FFLI-amcRXgfPvDJdGi1bZm0UYIubg0BwCLcBGAsYHQ/s135/461-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0GBtKNjVBOQ/X4deoGh9BkI/AAAAAAAArqA/U0DCKZzhMkoPZRMPDa6VhQLkEi8TmaXcwCLcBGAsYHQ/s135/461-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Oe_SvqXjykA/X4deohxhh0I/AAAAAAAArqE/oF62hpS_up0fDRfDR7uBMp1KH_OMZWNJwCLcBGAsYHQ/s135/461-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--tyWol21cR0/X4depPIj0fI/AAAAAAAArqI/OSYA-R6LPn4G6evv-g0F7QQFP1mp_BOuACLcBGAsYHQ/s135/461-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n461/",
+      "fetched_at": "2026-05-16T19:10:34.542Z",
+      "raw_id": "/nendoroid/details/n461/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.385Z",
+      "raw_id": "Nendoroid/0400-0499/461.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1252",
+  "name": {
+    "en": "Nendoroid Sakura Matou",
+    "ja": "ねんどろいど 間桐桜 (ねんどろいど まとうさくら)",
+    "ko": "마토 사쿠라"
+  },
+  "series": {
+    "en": "Fate/stay night: Heaven's Feel",
+    "ja": "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-heaven-s-feel"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9690,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UO4Tzks9LWQ/X4NiVEDYMyI/AAAAAAABmp8/MDZAthVLbt0Ss3Nz-cgOryAaHDstFReMgCLcBGAsYHQ/s270/1252-Sakura-Matou-Fatestay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UO4Tzks9LWQ/X4NiVEDYMyI/AAAAAAABmp8/MDZAthVLbt0Ss3Nz-cgOryAaHDstFReMgCLcBGAsYHQ/s270/1252-Sakura-Matou-Fatestay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eI6odplPaUE/X4r0FLcGdUI/AAAAAAABp4U/U5rQ6-Lp-yA0VaRwfzXJwC2qZnq1QTV2gCLcBGAsYHQ/s135/1252-Sakura-Matou-Fate-stay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iUIe6cp8Jg0/X4r0FUYUxWI/AAAAAAABp4Y/Q6JhyeouJi03D3XvnD5jNu5CGtZ6KRmUgCLcBGAsYHQ/s135/1252-Sakura-Matou-Fate-stay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LMyYMzpVd5w/X4r0FmF5kKI/AAAAAAABp4c/bxU1wnvP_FMEts9pjtrZBPtptE8__XldACLcBGAsYHQ/s135/1252-Sakura-Matou-Fate-stay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LhBFtnuCU1k/X4r0FxLO-yI/AAAAAAABp4g/6KULgQ28YSUnn_XSK7mh1yAkl9Ae4FvMwCLcBGAsYHQ/s135/1252-Sakura-Matou-Fate-stay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8lkZw0AYH24/X4r0GE8HHTI/AAAAAAABp4k/n9fxJWsJzAs-jGxPx5jvSorJioX9u9XHACLcBGAsYHQ/s135/1252-Sakura-Matou-Fate-stay-night-Heavens-Feel-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1252/",
+      "fetched_at": "2026-05-16T19:10:33.314Z",
+      "raw_id": "/nendoroid/details/n1252/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.621Z",
+      "raw_id": "Nendoroid/1200-1299/1252.json"
+    }
+  ]
+}

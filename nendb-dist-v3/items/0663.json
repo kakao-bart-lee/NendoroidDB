@@ -1,0 +1,68 @@
+{
+  "num": "0663",
+  "name": {
+    "en": "Nendoroid Rem",
+    "ja": "ねんどろいど レム (ねんどろいど れむ)",
+    "ko": "렘"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5863,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KZz7CMkPNZM/X4NP38nyqXI/AAAAAAABl4Y/w1UuIzaipIMvgxTeQWKkHFZkJzpYdDmrwCLcBGAsYHQ/s270/663-Rem-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KZz7CMkPNZM/X4NP38nyqXI/AAAAAAABl4Y/w1UuIzaipIMvgxTeQWKkHFZkJzpYdDmrwCLcBGAsYHQ/s270/663-Rem-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-voCBCDLx-30/X4i1PS9km0I/AAAAAAAAs2w/WKdbsDUEyFEQ3GTompbVd7zWABzJyW3QQCLcBGAsYHQ/s135/663-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9WOTVMYRqtA/X4i1P1q3MZI/AAAAAAAAs20/Y1XpfKFZxFs4mucTjwovRsSmK0YAV-bhACLcBGAsYHQ/s135/663-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-n5SSANN8CW4/X4i1QX6LL1I/AAAAAAAAs24/pixRyMoPs8YXwWR0_UVf_oTSf1AKV77YQCLcBGAsYHQ/s135/663-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0h06C1-o_tk/X4i1Q23QZRI/AAAAAAAAs28/1i8dHvj6BQkzgucALFZbpQPC2BqmrkzPgCLcBGAsYHQ/s135/663-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wXTclcSRbi4/X4i1Rb8lOYI/AAAAAAAAs3A/1iCaM7BSl3Iub6Wgoj64FWCfILs97N69ACLcBGAsYHQ/s135/663-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n663/",
+      "fetched_at": "2026-05-16T19:10:34.729Z",
+      "raw_id": "/nendoroid/details/n663/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.478Z",
+      "raw_id": "Nendoroid/0600-0699/663.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0308",
+  "name": {
+    "en": "Nendoroid Miyako (ねんどろいど みやこ)",
+    "ja": "ねんどろいど 宮子 (ねんどろいど みやこ)",
+    "ko": "미야코"
+  },
+  "series": {
+    "en": "Hidamari Sketch x Honeycomb",
+    "ja": "ひだまりスケッチ×ハニカム",
+    "ko": "히다마리 스케치",
+    "code": "hidamari-sketch-x-honeycomb"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3822,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cajY74mvXEA/X4NMjoMPGMI/AAAAAAABlf4/LsHNjNCjWSMJHaUc1PcxEhNWyloGSyu2wCLcBGAsYHQ/s270/308-Miyako-Hidamari-Sketch-Hanikamu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cajY74mvXEA/X4NMjoMPGMI/AAAAAAABlf4/LsHNjNCjWSMJHaUc1PcxEhNWyloGSyu2wCLcBGAsYHQ/s270/308-Miyako-Hidamari-Sketch-Hanikamu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ES7Ut9L-AhI/X4daAoQSbVI/AAAAAAAAq18/U84_T1fMnvAwd-6cUjae7nusWnY5d8UxgCLcBGAsYHQ/s135/308-Miyako-Hidamari-Sketch-x-Hanikamu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jqg8jWIRyqs/X4daAvKLeWI/AAAAAAAAq2A/V2bl9PXQqyAxCKKw_nmaRuH3vhS86T_MQCLcBGAsYHQ/s135/308-Miyako-Hidamari-Sketch-x-Hanikamu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Na3lIPOer14/X4daA-1MMFI/AAAAAAAAq2E/7VyVrDRHoNgVm8upHhul3QKsLe2U3R9kgCLcBGAsYHQ/s135/308-Miyako-Hidamari-Sketch-x-Hanikamu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BywU3p8CHps/X4daBKb31xI/AAAAAAAAq2I/u4MG3acoNmopyQvKa5mXko2zzG0_H8MAgCLcBGAsYHQ/s135/308-Miyako-Hidamari-Sketch-x-Hanikamu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Wj7-eFL7SU0/X4daBclOyUI/AAAAAAAAq2M/S2FMs0ZcDgMBnqqPzFlap50Sh1vSz3GEgCLcBGAsYHQ/s135/308-Miyako-Hidamari-Sketch-x-Hanikamu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n308/",
+      "fetched_at": "2026-05-16T19:10:34.453Z",
+      "raw_id": "/nendoroid/details/n308/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.347Z",
+      "raw_id": "Nendoroid/0300-0399/308.json"
+    }
+  ]
+}

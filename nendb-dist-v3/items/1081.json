@@ -1,0 +1,68 @@
+{
+  "num": "1081",
+  "name": {
+    "en": "Nendoroid Saitama: OPPAI Hoodie Ver.",
+    "ja": "ねんどろいど サイタマ OPPAI パーカーVer. (ねんどろいど さいたま おっぱい ぱーかーVer.)",
+    "ko": "사이타마 OPPAI 파카 Ver."
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8381,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jD0q9ELwlKQ/X4Nf5JPRbRI/AAAAAAABmWk/8BDcuUoayfINB2g62x6mgfBNoSEGFh_CQCLcBGAsYHQ/s270/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jD0q9ELwlKQ/X4Nf5JPRbRI/AAAAAAABmWk/8BDcuUoayfINB2g62x6mgfBNoSEGFh_CQCLcBGAsYHQ/s270/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-u44ppwFxH7o/X4rtJ87SqDI/AAAAAAABoxA/tNHdxAOpCMg3XJifmjleVpTihzhWPm4-QCLcBGAsYHQ/s135/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sk1ZvGp7GBk/X4rtKer9PJI/AAAAAAABoxE/sBxVj7JsVFM0qlPh7aXeyXHPRxKsUd51gCLcBGAsYHQ/s135/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-l1OQe97cOYU/X4rtKhgG5aI/AAAAAAABoxI/jGSHg3BrOswDQU2PmsVcKevjpr8-6pU6gCLcBGAsYHQ/s135/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ONOfKLyui_I/X4rtKin_xXI/AAAAAAABoxM/k_nfhCSudqovhEMkdc9R4dFVizE_pqR4ACLcBGAsYHQ/s135/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pxphj4k2w0Q/X4rtK_HcFbI/AAAAAAABoxQ/OQGVDAjlyJkgJgS45uGdX8Z3DMzLVIMRACLcBGAsYHQ/s135/1081-Saitama-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1081/",
+      "fetched_at": "2026-05-16T19:10:33.207Z",
+      "raw_id": "/nendoroid/details/n1081/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.580Z",
+      "raw_id": "Nendoroid/1000-1099/1081.json"
+    }
+  ]
+}

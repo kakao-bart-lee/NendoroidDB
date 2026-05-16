@@ -1,0 +1,68 @@
+{
+  "num": "2253",
+  "name": {
+    "en": "Nendoroid Elma",
+    "ja": "ねんどろいど エルマ (ねんどろいど えるま)",
+    "ko": "엘마"
+  },
+  "series": {
+    "en": "Miss Kobayashi's Dragon Maid",
+    "ja": "小林さんちのメイドラゴン",
+    "ko": "코바야시네 메이드래곤",
+    "code": "miss-kobayashi-s-dragon-maid"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14967,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zXJZZWXkHNk/ZRSXddLmvRI/AAAAAAABB3s/ITxiUfd4EnwWjXMoKDZD69V7IqBCIew8gCNcBGAsYHQ/s270/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zXJZZWXkHNk/ZRSXddLmvRI/AAAAAAABB3s/ITxiUfd4EnwWjXMoKDZD69V7IqBCIew8gCNcBGAsYHQ/s270/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U4LwdiNx2cw/ZRSb9M5u48I/AAAAAAABB60/ZJW-mV7gZ3IkznxHRAeBpdVXwaC3wlw3ACNcBGAsYHQ/s135/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ISiNad0TbiA/ZRSb9j88tgI/AAAAAAABB64/8oLo9TRypYoWUOItPSYcI4uTKb40QYO8gCNcBGAsYHQ/s135/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MiiP2Us-3VE/ZRSb9w-ijNI/AAAAAAABB68/cQKZydFlxG86klr5eBCxWBL9S5tLVt0ogCNcBGAsYHQ/s135/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TxnF636iyYU/ZRSb97o1KgI/AAAAAAABB7A/yOeU7bwehccU0bhVaqZrGBp45e6due9CgCNcBGAsYHQ/s135/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HvzoPcT1DTw/ZRSb-cEDnxI/AAAAAAABB7E/6QforNhOPv4kJutMu6AWx-MW9YIURAUpgCNcBGAsYHQ/s135/2253-Elma-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2253/",
+      "fetched_at": "2026-05-16T19:10:33.945Z",
+      "raw_id": "/nendoroid/details/n2253/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.866Z",
+      "raw_id": "Nendoroid/2200-2299/2253.json"
+    }
+  ]
+}

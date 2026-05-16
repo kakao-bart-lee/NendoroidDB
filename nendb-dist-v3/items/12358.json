@@ -1,0 +1,55 @@
+{
+  "num": "12358",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Rose: Another Color)",
+    "ja": "ねんどろいどどーる おようふくセット ローズ Another Color (ねんどろいどどーる おようふくせっと ろーず あなざー からー)",
+    "ko": "로즈 Another Color Ver. 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12358,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220217/12358/95584/large/4ec7fec23f7104803b75f7062bcc9474.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.924Z",
+      "raw_id": "NendoroidDoll/Clothes/12358.json"
+    }
+  ]
+}

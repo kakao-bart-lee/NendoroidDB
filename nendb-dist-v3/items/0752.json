@@ -1,0 +1,68 @@
+{
+  "num": "0752",
+  "name": {
+    "en": "Nendoroid Serval",
+    "ja": "ねんどろいど サーバル (ねんどろいど さーばる)",
+    "ko": "서벌"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6339,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k3ieL0dO2Pc/X4NdAKD7NcI/AAAAAAABl-w/dl2NlOrUgs8QOUPIrLMz1FrCV6iGzVeIQCLcBGAsYHQ/s270/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k3ieL0dO2Pc/X4NdAKD7NcI/AAAAAAABl-w/dl2NlOrUgs8QOUPIrLMz1FrCV6iGzVeIQCLcBGAsYHQ/s270/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y_gLpSRUJ3M/X4i43coZN3I/AAAAAAAAtaA/vlTXbIXhC9kC_KVQOffwv-V2pa8GVup8ACLcBGAsYHQ/s135/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2sW8pdj7TE0/X4i43vGlhbI/AAAAAAAAtaE/wDVACKoaJEkJPFIJnmTZ5vTQ_37_5xovwCLcBGAsYHQ/s135/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZQqNIcHTzgk/X4i438SIEnI/AAAAAAAAtaI/xS8Js8TwnaQfu5l0el3sc9hMHx1wcYgmgCLcBGAsYHQ/s135/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qfXYDHUnskc/X4i44DRnSOI/AAAAAAAAtaM/L7MDK8mFA5ALnvCYB9Ykz75WjOL5f3kLwCLcBGAsYHQ/s135/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-78gTqnM2Z10/X4i44ZoJxyI/AAAAAAAAtaQ/0X5cWRiOLPwwGYESxWqW_VlgbP9K93KzQCLcBGAsYHQ/s135/752-Serval-Kemono-Friends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n752/",
+      "fetched_at": "2026-05-16T19:10:34.778Z",
+      "raw_id": "/nendoroid/details/n752/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.499Z",
+      "raw_id": "Nendoroid/0700-0799/752.json"
+    }
+  ]
+}

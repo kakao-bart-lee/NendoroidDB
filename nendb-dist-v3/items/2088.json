@@ -1,0 +1,69 @@
+{
+  "num": "2088",
+  "name": {
+    "en": "Nendoroid Ango Sakaguchi",
+    "ja": "ねんどろいど 坂口安吾 (ねんどろいど さかぐちあんご)",
+    "ko": "사카구치 안고"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14132,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h8M6odfTrBU/ZCnVYVM7PJI/AAAAAAAA9T4/s4lULLzZBTEU8MgIOul_B4RSGqsFWJGQgCNcBGAsYHQ/s270/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h8M6odfTrBU/ZCnVYVM7PJI/AAAAAAAA9T4/s4lULLzZBTEU8MgIOul_B4RSGqsFWJGQgCNcBGAsYHQ/s270/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MAcCJF1Jeto/ZCnZkAf-zhI/AAAAAAAA9Vc/GzKSAxwu9UMH-R_h_i57OT2CW8a-1cwWQCNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JPDaQNulwLs/ZCnZkUtsHyI/AAAAAAAA9Vg/hWp6IfQvXZIti60DG3xjmujaybS2x8XHACNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5ydxPLOL_LU/ZCnZkrOl6rI/AAAAAAAA9Vk/tbOzLid8vMAPIHZXm-AB5KUwju_annHGgCNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wLU8PARKJUo/ZCnZlJyG5jI/AAAAAAAA9Vo/QUYEA1-4kiwqShH5lHq5uYlQiAYkL61SACNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OO68GFD0o_Q/ZCnZlp7hxKI/AAAAAAAA9Vs/OShv8r5Q2AAMgSF65nVMZws1DZD8jqGJACNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cVYIFYlQdTs/ZCnZmKzVx2I/AAAAAAAA9Vw/1g8SKnQb_CU052xUAZ9G7QFRBYmJDqaZQCNcBGAsYHQ/s135/2088-Ango-Sakaguchi-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2088/",
+      "fetched_at": "2026-05-16T19:10:33.833Z",
+      "raw_id": "/nendoroid/details/n2088/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.823Z",
+      "raw_id": "Nendoroid/2000-2099/2088.json"
+    }
+  ]
+}

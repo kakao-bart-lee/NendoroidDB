@@ -1,0 +1,97 @@
+{
+  "num": "1655",
+  "name": {
+    "en": "Nendoroid Shinobu Kocho",
+    "ja": "ねんどろいど 胡蝶しのぶ (ねんどろいど こちょうしのぶ)",
+    "ko": "코쵸우 시노부"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": "4580828663251",
+  "gsc_product_id": "9147",
+  "gsc_product_num": 11453,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/9147",
+    "ja": "https://www.goodsmile.com/ja/product/9147"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/9147/74204c08159218d00959e6f2765b981d.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TABhRiYgpCs/YS6JqO21cHI/AAAAAAAAz8Y/krsaqH3AW5kycSkoPVRG_Jm_4NDWbQt6gCLcBGAsYHQ/s270/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4If-7jwMfNs/YS6MOn7gS1I/AAAAAAAA0Bs/s4MuDSIE2JoHbFmvjEVOW7A_VVfq5K9gQCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qnSKhCJ1-k8/YS6MO54815I/AAAAAAAA0Bw/Ov7NhXex1uIqCW5QBJERUuQ4ZqRQ0ouqACLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1mLQLAyuNAc/YS6MPOhoutI/AAAAAAAA0B0/152BiaMnCocp6u-FEmZFwIb3ocsuKqhfQCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lERVaBXJBW0/YS6MPTdIvaI/AAAAAAAA0B4/0krPOirZtKAr3wSH0e_F1n8u0hVrOM3XQCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dMxdQrMZSmg/YS6MPm_PscI/AAAAAAAA0B8/xhDF6-tlnmcO2b7zvUTcGaifakjalrYagCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UtAWwlgh9pk/YS6MP9qmegI/AAAAAAAA0CA/Ri8bMMUq1ZA6wISrfWvoNxb_SJHL8jDMwCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-JtREcKhCt8M/YS6MQLxumMI/AAAAAAAA0CE/6r4mRluMv3IoFtF7ag_wjQFEsIJLbYtIwCLcBGAsYHQ/s135/1655-Shinobu-Kocho-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210705/11453/86903/large/54ff64a0dcbe36d5a9e9bbff790dab3f.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/9147/74204c08159218d00959e6f2765b981d.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9147",
+      "price_local": 7400,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:07:46.026Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9147",
+      "fetched_at": "2026-05-16T12:07:46.026Z",
+      "raw_id": "9147"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/9147",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "9147"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1655/",
+      "fetched_at": "2026-05-16T19:10:33.562Z",
+      "raw_id": "/nendoroid/details/n1655/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.719Z",
+      "raw_id": "Nendoroid/1600-1699/1655.json"
+    }
+  ]
+}

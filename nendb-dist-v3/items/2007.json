@@ -1,0 +1,69 @@
+{
+  "num": "2007",
+  "name": {
+    "en": "Nendoroid Beatrix LeBeau",
+    "ja": "ねんどろいど ベアトリクス・ルボー (ねんどろいど べあとりくす・るぼー)",
+    "ko": "베아트릭스 르보"
+  },
+  "series": {
+    "en": "Slime Rancher 2",
+    "ja": "Slime Rancher 2",
+    "ko": "슬라임 랜쳐 2",
+    "code": "slime-rancher-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13654,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9GA0bh93r28/Y69BLprmjOI/AAAAAAAA8PM/LRMKqpxqi48TLBH_wyWAhgusBPfzHDCnwCNcBGAsYHQ/s270/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9GA0bh93r28/Y69BLprmjOI/AAAAAAAA8PM/LRMKqpxqi48TLBH_wyWAhgusBPfzHDCnwCNcBGAsYHQ/s270/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ePQ_e7M0Juw/Y684ZfnZ1LI/AAAAAAAA8Gw/WSpE_e-ACzkne56uAEvKNjfQSWuJRfzdwCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AV8d5p4n2CM/Y684Zjvc74I/AAAAAAAA8G0/sgYISwLRprEwozaDJ3RbV8gv1OBMad-nwCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2IumxYf-Loc/Y684Z_uCHrI/AAAAAAAA8G4/MlwjHVNRh4cdMZLZXXw89309Lgre4KXDQCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FS23uns35PU/Y684aH_V_yI/AAAAAAAA8G8/tFyXsOwGKSYx9zu29mhvIvyTpJJHmwKJgCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ARKHUxYEXaw/Y684aXO2fgI/AAAAAAAA8HA/lOf6Zr2zsEEtAg7yp4TdxSRohPeJOfLRQCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Ftvuvb4TQ_0/Y684apublcI/AAAAAAAA8HE/SNAlC_oqXZwung4MMToODonoB2JJUYBfwCNcBGAsYHQ/s135/2007-Beatrix-LeBeau-Slime-Rancher-2-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2007/",
+      "fetched_at": "2026-05-16T19:10:33.781Z",
+      "raw_id": "/nendoroid/details/n2007/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.804Z",
+      "raw_id": "Nendoroid/2000-2099/2007.json"
+    }
+  ]
+}

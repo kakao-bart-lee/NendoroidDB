@@ -1,0 +1,95 @@
+{
+  "num": "0413",
+  "name": {
+    "en": "Nendoroid Link: The Wind Waker ver. (ねんどろいど りんく かぜのたくとVer.)",
+    "ja": "ねんどろいど リンク 風のタクトVer. (ねんどろいど りんく かぜのたくとVer.)",
+    "ko": "링크 바람의 택트 Ver."
+  },
+  "series": {
+    "en": "The Legend of Zelda: The Wind Waker HD",
+    "ja": "ゼルダの伝説 風のタクトHD",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-the-wind-waker-hd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Abusuke",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4571697189058",
+  "gsc_product_id": "2181",
+  "gsc_product_num": 4370,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/2181",
+    "ja": "https://www.goodsmile.com/ja/product/2181"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/2181/Jg9WQnv5tG2DLB7qFYNdmeMPZA4CTczE.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DTC4rzemWnQ/X4NNqgPPYXI/AAAAAAABlnU/MLcQlt6xw4o60IKHIaAGgBlXAH52yapjwCLcBGAsYHQ/s270/413-Link-Wind-Waker-TLOZ-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-W7gNM0MvdXM/X4ddfh1rQMI/AAAAAAAAras/B0vikDx-uCkbX4vSc5MW_1qISzTtNi96ACLcBGAsYHQ/s135/413-Link-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zzo-9uEtRVI/X4ddgOkJfVI/AAAAAAAAraw/D69iaB9JNn4a1gKmco-Y13G7EjhX9yhaACLcBGAsYHQ/s135/413-Link-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0qsAq8qQm7c/X4ddgV9bkVI/AAAAAAAAra0/XAt-PBIjX6EkcPcAPo-FfLFuwAe7q8TKgCLcBGAsYHQ/s135/413-Link-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_B0nXSXXt4U/X4ddgnb9JuI/AAAAAAAAra4/9ZRHcvD4kQM79ka99frqA3bq0R6hSGvXgCLcBGAsYHQ/s135/413-Link-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EpUav7cSiCE/X4ddguenbgI/AAAAAAAAra8/Xfe5M0EgmHMUuw-vb4GrJo69hylk1nXgQCLcBGAsYHQ/s135/413-Link-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/2181/K5Hh3ek9Ytz4CQBgvpbGU81cysuWLZnD.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/2181/Jg9WQnv5tG2DLB7qFYNdmeMPZA4CTczE.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2181",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:01:11.786Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2181",
+      "fetched_at": "2026-05-16T12:01:11.786Z",
+      "raw_id": "2181"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/2181",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "2181"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n413/",
+      "fetched_at": "2026-05-16T19:10:34.514Z",
+      "raw_id": "/nendoroid/details/n413/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.374Z",
+      "raw_id": "Nendoroid/0400-0499/413.json"
+    }
+  ]
+}

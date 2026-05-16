@@ -1,0 +1,55 @@
+{
+  "num": "921-DX",
+  "name": {
+    "en": "Nendoroid Mike & Boo Set: DX Ver.",
+    "ja": "ねんどろいど マイク＆ブーセット DX Ver. (ねんどろいど まいく＆ぶーせっと でらっくす Ver.)",
+    "ko": "마이크 와조스키 & 부 DX"
+  },
+  "series": {
+    "en": "Monsters, Inc.",
+    "ja": "モンスターズ・インク",
+    "ko": "몬스터 주식회사",
+    "code": "monsters-inc"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6926,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7273,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180515/7273/52002/large/3900130ceaa4b49972cefdc2c4de4b68.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.539Z",
+      "raw_id": "Nendoroid/0900-0999/921-DX.json"
+    }
+  ]
+}

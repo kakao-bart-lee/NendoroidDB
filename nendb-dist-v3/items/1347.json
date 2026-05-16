@@ -1,0 +1,68 @@
+{
+  "num": "1347",
+  "name": {
+    "en": "Nendoroid Junko Konno",
+    "ja": "ねんどろいど 紺野純子 (ねんどろいど こんのじゅんこ)",
+    "ko": "콘노 준코"
+  },
+  "series": {
+    "en": "Zombie Land Saga",
+    "ja": "ゾンビランドサガ",
+    "ko": "좀비랜드사가",
+    "code": "zombie-land-saga"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9507,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1ZNFoSnmTQI/X4NjvsWjVQI/AAAAAAABm1s/YE-YYf0cU5oiHhCZPpczIdBzzC6mGRQAACLcBGAsYHQ/s270/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1ZNFoSnmTQI/X4NjvsWjVQI/AAAAAAABm1s/YE-YYf0cU5oiHhCZPpczIdBzzC6mGRQAACLcBGAsYHQ/s270/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fQClpkInHHk/X4s9bNxheCI/AAAAAAABqfg/RjcKGCsOzX0fi98tNPutoZNTqADtbk77gCLcBGAsYHQ/s135/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1uXTLOc_9ME/X4s9bpN2h9I/AAAAAAABqfk/JYoO-W_ee5I7Ts0lCJuUwlmk6LnTjgUJwCLcBGAsYHQ/s135/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zSjGoMNqaHY/X4s9b26rCNI/AAAAAAABqfo/WQt3pnyYQY4tATmlkCJPHq7NWvli4cpHACLcBGAsYHQ/s135/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WOhCI1G5kqY/X4s9b6VDotI/AAAAAAABqfs/jamrMYzTopkLtm1uqq5ZjwHsaFpgyIYYwCLcBGAsYHQ/s135/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wQWZm2nPbLU/X4s9cYHY8eI/AAAAAAABqfw/z9uhvzcLdiIbIwod6YNyDEAujBVV51CiQCLcBGAsYHQ/s135/1347-Junko-Konno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1347/",
+      "fetched_at": "2026-05-16T19:10:33.373Z",
+      "raw_id": "/nendoroid/details/n1347/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.644Z",
+      "raw_id": "Nendoroid/1300-1399/1347.json"
+    }
+  ]
+}

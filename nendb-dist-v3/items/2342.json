@@ -1,0 +1,64 @@
+{
+  "num": "2342",
+  "name": {
+    "en": "Endeavor",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": null,
+    "ko": null,
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CnoA5s9GtVg/ZZcfD3lsFcI/AAAAAAABDJA/7NiPloYFZuAHgVDTUILkApQLX3Fj8G4WQCNcBGAsYHQ/s270/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CnoA5s9GtVg/ZZcfD3lsFcI/AAAAAAABDJA/7NiPloYFZuAHgVDTUILkApQLX3Fj8G4WQCNcBGAsYHQ/s270/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Dpzd8WZ82YI/ZZSMWwjX1GI/AAAAAAABC9M/oON75fvgKJshzvfTTaxHC7nVwzVFithzgCNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qej1GHQSRA0/ZZSMXN52QcI/AAAAAAABC9Q/pzyLExp0OvYRtVqXZOyYfkTRjy3S-4bYACNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ww4GKJIRPyM/ZZSMXoOijeI/AAAAAAABC9U/ReWot671hHAXyoYK3HYtl-GBzm2-1u4IwCNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oPJvR0AzWN0/ZZSMX1m-5hI/AAAAAAABC9Y/xVPE1R5ysEI1bkQrIehp_zJSLlWbUyyEwCNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jRwkL_pMbq0/ZZSMX8etfDI/AAAAAAABC9c/Eyfqv1mTPNEx8sd6-1Br3VcFZYRuQ0RjwCNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lC97R_3AZA0/ZZSMYEcPzOI/AAAAAAABC9g/sf9TVcHSUu0p-1rtZcOevnl6HqmOHyN8ACNcBGAsYHQ/s135/2342-Endeavor-My-Hero-Academia-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2342/",
+      "fetched_at": "2026-05-16T19:10:33.998Z",
+      "raw_id": "/nendoroid/details/n2342/"
+    }
+  ]
+}

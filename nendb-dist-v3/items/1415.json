@@ -1,0 +1,68 @@
+{
+  "num": "1415",
+  "name": {
+    "en": "Nendoroid Chuya Nakahara: Airport Ver.",
+    "ja": "ねんどろいど 中原中也 ヱアポートVer. (ねんどろいど はかはらちゅうや えあぽーとVer.)",
+    "ko": "나카하라 츄야 에어포트 Ver."
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9772,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NtUGmf3cw98/X4NkciwwEmI/AAAAAAABm5U/lpU951W9Zk0g-8UU4oTDtX766cJL-nvyACLcBGAsYHQ/s270/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NtUGmf3cw98/X4NkciwwEmI/AAAAAAABm5U/lpU951W9Zk0g-8UU4oTDtX766cJL-nvyACLcBGAsYHQ/s270/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LbL2alCThbM/X4tAKWyXphI/AAAAAAABqx4/6Z0zUtvVx2IxT5MPCdjdF7Ml4RM2fpSMQCLcBGAsYHQ/s135/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T9_wV5-TsNs/X4tAKh_TcXI/AAAAAAABqx8/EbnCrKZgNEk_N8z-zNkAxD8KkaSmkIbeACLcBGAsYHQ/s135/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fONp1QJhFZc/X4tAK1I-f6I/AAAAAAABqyA/kRZ5x4trRREhcybN-VjYpJszjDvREEzIACLcBGAsYHQ/s135/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-w8g8hNGZ-_s/X4tALMKbG0I/AAAAAAABqyE/vMPGJbTcio49RDfs-7iusWfH52GWhX_zgCLcBGAsYHQ/s135/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JjAExu9wM2k/X4tALWHssLI/AAAAAAABqyI/FzHnaqfGJbQFYqj8FFJsy5RpRrjaJinmQCLcBGAsYHQ/s135/1415-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1415/",
+      "fetched_at": "2026-05-16T19:10:33.416Z",
+      "raw_id": "/nendoroid/details/n1415/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.660Z",
+      "raw_id": "Nendoroid/1400-1499/1415.json"
+    }
+  ]
+}

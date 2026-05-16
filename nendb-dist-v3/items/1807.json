@@ -1,0 +1,70 @@
+{
+  "num": "1807",
+  "name": {
+    "en": "Nendoroid Jung Kook",
+    "ja": "ねんどろいど Jung Kook",
+    "ko": "정국"
+  },
+  "series": {
+    "en": "TinyTAN",
+    "ja": "TinyTAN",
+    "ko": "방탄소년단",
+    "code": "tinytan"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12188,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YKIb3MAwH_I/YhAE1T05AyI/AAAAAAAA3lM/hu3A4dUb9hUGz6FX-deYM-SUT7dr13RZACNcBGAsYHQ/s270/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YKIb3MAwH_I/YhAE1T05AyI/AAAAAAAA3lM/hu3A4dUb9hUGz6FX-deYM-SUT7dr13RZACNcBGAsYHQ/s270/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0v8FhrxlUcQ/YhAMEfmtjUI/AAAAAAAA3s0/43zj0_M86BY8eh4qq4od_uWYc2EsHNH3ACNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U5oMkvwo4SY/YhAMEqCcXTI/AAAAAAAA3s4/VidGQpYPsxI0euCFERPI-VqjJdWVKaFSgCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cx8i-Fdq6PY/YhAMEzFfxkI/AAAAAAAA3s8/LwHUV3DS91EXWcRriPBrRIUIZxhJeWKwgCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HuW926ol5KI/YhAMFPpUSQI/AAAAAAAA3tA/iiBPLZgf-58jUiD4mYSxXFdUknds7SBIwCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cQJ5tcaPyQ8/YhAMFZwN_TI/AAAAAAAA3tE/9OjP2MmSkCQowdHip35YS-OxjV_LxCwOgCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FL4cUHI5bcI/YhAMFg-FzOI/AAAAAAAA3tI/U5b3Udb2UoomefUXEqcYUx6ya88mnLqvQCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-uKEs6FwFoM0/YhAMF0yaQlI/AAAAAAAA3tM/SrBGEZLcAGkD8uhh7qYR2zJVbX1OxcjoQCNcBGAsYHQ/s135/1807-Jung-Kook-BTS-TinyTAN-Celebrity-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1807/",
+      "fetched_at": "2026-05-16T19:10:33.659Z",
+      "raw_id": "/nendoroid/details/n1807/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.756Z",
+      "raw_id": "Nendoroid/1800-1899/1807.json"
+    }
+  ]
+}

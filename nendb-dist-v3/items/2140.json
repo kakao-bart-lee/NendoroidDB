@@ -1,0 +1,70 @@
+{
+  "num": "2140",
+  "name": {
+    "en": "Nendoroid Lilia Vanrouge",
+    "ja": "ねんどろいど リリア・ヴァンルージュ (ねんどろいど りりあ・ゔぁんるーじゅ)",
+    "ko": "릴리아 반루즈"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14154,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tzIJ9-skjwA/ZFqWfJj6gLI/AAAAAAAA90I/wCJtPYiXv4chQnJCtLDQRfFBpHEzxF4-QCNcBGAsYHQ/s270/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tzIJ9-skjwA/ZFqWfJj6gLI/AAAAAAAA90I/wCJtPYiXv4chQnJCtLDQRfFBpHEzxF4-QCNcBGAsYHQ/s270/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QiCtuaAJ9Tw/ZFqcI3WUUMI/AAAAAAAA-AA/OJDL65IwltEP2PftNZ1mrV3vVO1QGiSewCNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lVP1NeQKY0s/ZFqcIyvfdXI/AAAAAAAA-AE/RiNX3cyB1HQZ4iEz4UsbMcQAcwDdH9h8ACNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TYyxuGxlg9s/ZFqcJOwLXSI/AAAAAAAA-AI/OwLhUwqN324rl-8GsMHODAYX-QpwJsWfwCNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7kaHzKw3DSc/ZFqcJWrt3wI/AAAAAAAA-AM/kP5sNIfb7HwRwQ2ZjzKAGJKbXnxnNmYvwCNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dH_kHImTMuU/ZFqcJxDqpOI/AAAAAAAA-AQ/92nMojEPd8QEWvYkDdzOij3CP-Bw38NIQCNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-m92chTpun_w/ZFqcKZoOSnI/AAAAAAAA-AU/Zpfz6eFav4wFNMKCLu7FYFepX4IxjIjkACNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Qy390wv2QXQ/ZFqcK-bUCGI/AAAAAAAA-AY/2KYKTBVGDU03dq695g_cLwcTdvBuXEiQACNcBGAsYHQ/s135/2140-Lilia-Vanrouge-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2140/",
+      "fetched_at": "2026-05-16T19:10:33.863Z",
+      "raw_id": "/nendoroid/details/n2140/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.836Z",
+      "raw_id": "Nendoroid/2100-2199/2140.json"
+    }
+  ]
+}

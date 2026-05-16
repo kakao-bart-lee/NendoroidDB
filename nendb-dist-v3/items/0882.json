@@ -1,0 +1,68 @@
+{
+  "num": "0882",
+  "name": {
+    "en": "Nendoroid Yumeko Jabami",
+    "ja": "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
+    "ko": "자바미 유메코"
+  },
+  "series": {
+    "en": "Kakegurui - Compulsive Gambler",
+    "ja": "賭ケグルイ××",
+    "ko": "카케구루이",
+    "code": "kakegurui-compulsive-gambler"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7030,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2VrTiM8pKuM/X4NeA2NOmcI/AAAAAAABmH0/bIoJ3woS5Tg4s6oZBzKFqqHu7aY7gvzyACLcBGAsYHQ/s270/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2VrTiM8pKuM/X4NeA2NOmcI/AAAAAAABmH0/bIoJ3woS5Tg4s6oZBzKFqqHu7aY7gvzyACLcBGAsYHQ/s270/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HW1bPsdNs-M/X4rj-W6b7PI/AAAAAAABneE/97oTBUO-Aossu12npo52vA8sRukJGlpBACLcBGAsYHQ/s135/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5XW24VoU2AI/X4rj-T6cRGI/AAAAAAABneI/lqe2aN6BbZUsHU_5QaQNImprybLCG0dxwCLcBGAsYHQ/s135/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h5DBggJGPC4/X4rj-yPjUNI/AAAAAAABneM/Hn65JMHFi1cSLBMQczNetTru6W-OidT_QCLcBGAsYHQ/s135/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XQ7skWid9gg/X4rj_HO9OiI/AAAAAAABneQ/qhubf6MIqawkQblchsIJddr_wXox9PffQCLcBGAsYHQ/s135/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KMLFBKh-4XU/X4rj_NUWYlI/AAAAAAABneU/PXnwjLuAxs8za-Dnbzv4eUfnY6Sq1McnACLcBGAsYHQ/s135/882-Yumeko-Jabami-Kakegurui-Compulsive-Gambler-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n882/",
+      "fetched_at": "2026-05-16T19:10:34.852Z",
+      "raw_id": "/nendoroid/details/n882/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.529Z",
+      "raw_id": "Nendoroid/0800-0899/882.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0727",
+  "name": {
+    "en": "Nendoroid Su Huan-Jen: Unite Against the Darkness Ver.",
+    "ja": "ねんどろいど 素還真 轟掣天下Ver. (ねんどろいど そかんしん ごうせいてんかVer.)",
+    "ko": "소환진 광체천하 Ver."
+  },
+  "series": {
+    "en": "PILI XIA YING: Unite Against the Darkness",
+    "ja": "霹靂俠影之 轟掣天下(へきれききょうえい ごうせいてんか)",
+    "ko": "벽력협영지 굉체천하",
+    "code": "pili-xia-ying-unite-against-the-darkness"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6185,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zK-BczXfg-M/X4Nc4VA7fJI/AAAAAAABl9A/_-z5oYY1Uu4uf1fl6mpvoYBdUKUHfb47wCLcBGAsYHQ/s270/727-Su-Huan-Jen-Pili-Xia-Ying-Unite-Darkness-Movies-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zK-BczXfg-M/X4Nc4VA7fJI/AAAAAAABl9A/_-z5oYY1Uu4uf1fl6mpvoYBdUKUHfb47wCLcBGAsYHQ/s270/727-Su-Huan-Jen-Pili-Xia-Ying-Unite-Darkness-Movies-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xNBJePnViiU/X4i4C0AiEkI/AAAAAAAAtP4/98V8_iwf9aA7y-FFTfr84MSoZpHK_19KQCLcBGAsYHQ/s135/727-Su-Huan-Jen-PILI-XIA-YING-Unite-Against-the-Darkness-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qm6wC6yGpME/X4i4DTe5v9I/AAAAAAAAtP8/ORHI19wcOZUWlI5eGgP5dqNx8OjeGHMxQCLcBGAsYHQ/s135/727-Su-Huan-Jen-PILI-XIA-YING-Unite-Against-the-Darkness-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MvXgZ_DqX0E/X4i4DzqgnaI/AAAAAAAAtQA/3FWNWriXkUshUXGQlpZVVewSlSiEILoHgCLcBGAsYHQ/s135/727-Su-Huan-Jen-PILI-XIA-YING-Unite-Against-the-Darkness-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WraQJR15jt8/X4i4EatNsHI/AAAAAAAAtQE/SwambAxEsAk-jMn8MHJIPK5RtnCoIN5WACLcBGAsYHQ/s135/727-Su-Huan-Jen-PILI-XIA-YING-Unite-Against-the-Darkness-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yqcZGQAMjVg/X4i4EZ81y5I/AAAAAAAAtQI/F59dhZbWGnU9cPexpm1wcY_q6fecEiOXgCLcBGAsYHQ/s135/727-Su-Huan-Jen-PILI-XIA-YING-Unite-Against-the-Darkness-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n727/",
+      "fetched_at": "2026-05-16T19:10:34.764Z",
+      "raw_id": "/nendoroid/details/n727/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.493Z",
+      "raw_id": "Nendoroid/0700-0799/727.json"
+    }
+  ]
+}

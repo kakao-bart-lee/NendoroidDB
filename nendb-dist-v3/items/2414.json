@@ -1,0 +1,64 @@
+{
+  "num": "2414",
+  "name": {
+    "en": "KAF",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vd6EK3IhLZ0/Ziq-1c1RooI/AAAAAAABEAY/B5dnnpHn6AsTQIj7N4WCo_p7cLdSXeiZACNcBGAsYHQ/s270/2414-KAF-KAF-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vd6EK3IhLZ0/Ziq-1c1RooI/AAAAAAABEAY/B5dnnpHn6AsTQIj7N4WCo_p7cLdSXeiZACNcBGAsYHQ/s270/2414-KAF-KAF-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z3iq8ISgAFk/Zow1nYnw53I/AAAAAAABFcU/tdW-Cu4zvJMefHtUOqer-W2Of4S_fPTagCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wCd97MgU-oI/Zow1ngDw7TI/AAAAAAABFcc/bsnWiQBoM4MMxU_BuMS03E_BIWFHRStIgCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MhSh1mNw-rU/Zow1nhGPP5I/AAAAAAABFcY/0WPzOnldlCk5KPcmre7jOGN-0g8vnigpgCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p4uZjKVr9KQ/Zow1oEpb1xI/AAAAAAABFcg/_KmMgcKTWw4VSdCqIPyBtINDvqc6nBzogCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CsnuHI0O0io/Zow1onOK67I/AAAAAAABFco/F1BQu3mAfVkXtqaj3dSDdoa8y6TB5X7GwCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-iOAyrpdanec/Zow1oRM0btI/AAAAAAABFck/PQ2B1k-5RN8xPiH-NBneFwQINHVWfuv7gCNcBGAsYHQ/s135/2414-KAF-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2414/",
+      "fetched_at": "2026-05-16T19:10:34.043Z",
+      "raw_id": "/nendoroid/details/n2414/"
+    }
+  ]
+}

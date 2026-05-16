@@ -1,0 +1,69 @@
+{
+  "num": "0330",
+  "name": {
+    "en": "Nendoroid Sheryl Nome (ねんどろいど しぇりる・のーむ)",
+    "ja": "ねんどろいど シェリル・ノーム (ねんどろいど しぇりる・のーむ)",
+    "ko": "셰릴 놈"
+  },
+  "series": {
+    "en": "Macross F (Frontier)",
+    "ja": "マクロスF（フロンティア）",
+    "ko": "마크로스 프론티어",
+    "code": "macross-f-frontier"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3900,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yta3ITAOI1E/X4NMsERKOPI/AAAAAAABlhQ/N4W9t8Xpy9MDOLz70bWCdUQnjfaD2AnRgCLcBGAsYHQ/s270/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yta3ITAOI1E/X4NMsERKOPI/AAAAAAABlhQ/N4W9t8Xpy9MDOLz70bWCdUQnjfaD2AnRgCLcBGAsYHQ/s270/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eIDkVTry1UA/X4dab2t4wQI/AAAAAAAAq9E/T0suYfMR8BwepllytYmDlp-U58Nnk-rkQCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9tO72g7D2Eg/X4dacAoAbnI/AAAAAAAAq9I/XZRfbJnnhsQQM1nQK1aqKYi36QAnCd9_gCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-13Uk1lhLeLI/X4dacpxuRWI/AAAAAAAAq9M/TMzGSCiv9LcYeeTuKfBayOAInk8UJbjxgCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZOqHEvgy6Ms/X4dacyM9qLI/AAAAAAAAq9Q/G9iFAOewsqs1FZMvgkiJgQqwuBe0SfRjQCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k0-ctV33L8U/X4dac6TFqLI/AAAAAAAAq9U/3rzpHFYztvkuCDuC__2ueL3Z9ASY1mH9wCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mO6cAP6T9i8/X4dadJYfCFI/AAAAAAAAq9Y/l8ZomSMD4nwIiZTOwbORuJoGA8KuBLLRwCLcBGAsYHQ/s135/330-Sheryl-Nome-Macross-Frontier-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n330/",
+      "fetched_at": "2026-05-16T19:10:34.465Z",
+      "raw_id": "/nendoroid/details/n330/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.353Z",
+      "raw_id": "Nendoroid/0300-0399/330.json"
+    }
+  ]
+}

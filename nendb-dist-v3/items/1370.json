@@ -1,0 +1,68 @@
+{
+  "num": "1370",
+  "name": {
+    "en": "Nendoroid Wraith",
+    "ja": "ねんどろいど レイス (ねんどろいど れいす)",
+    "ko": "레이스"
+  },
+  "series": {
+    "en": "Apex Legends",
+    "ja": "エーペックスレジェンズ",
+    "ko": "Apex 레전드",
+    "code": "apex-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Dnc2tZ2sWUU/X4Nj1ENtR2I/AAAAAAABm3I/T8K6SQXpMfoD9PCgOP3Qn4Z7htCh9eplQCLcBGAsYHQ/s270/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Dnc2tZ2sWUU/X4Nj1ENtR2I/AAAAAAABm3I/T8K6SQXpMfoD9PCgOP3Qn4Z7htCh9eplQCLcBGAsYHQ/s270/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1sB53O_-9Fg/X4s99kwmidI/AAAAAAABqnw/qLACvAUb_eYFPfiZv0_Mh98nCiOaHw5rACLcBGAsYHQ/s135/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lXBqExSeRJs/X4s99-k0tjI/AAAAAAABqn0/V849tpg214I-dZ9g5g_G4NDGnoS5yignQCLcBGAsYHQ/s135/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iASkVXkgETo/X4s997H1wTI/AAAAAAABqn4/PKcccl_6OYwtu1r29yWJtbZ5FhBVLfhVQCLcBGAsYHQ/s135/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-abKPrDJpgtg/X4s9-BkmWCI/AAAAAAABqn8/2TdwNiII7MEcm_2ZXYEFG00BNNVgVZrEQCLcBGAsYHQ/s135/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D5gjo5pmLBs/X4s9-ovsCxI/AAAAAAABqoA/9PSs_y3QhdcMCMOhVOMbTvDtv1CIIkndQCLcBGAsYHQ/s135/1370-Wraith-Apex-Legends-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1370/",
+      "fetched_at": "2026-05-16T19:10:33.387Z",
+      "raw_id": "/nendoroid/details/n1370/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.650Z",
+      "raw_id": "Nendoroid/1300-1399/1370.json"
+    }
+  ]
+}

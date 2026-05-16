@@ -1,0 +1,68 @@
+{
+  "num": "1440",
+  "name": {
+    "en": "Nendoroid Alter Ego/Okita Souji (Alter)",
+    "ja": "ねんどろいど アルターエゴ/沖田総司〔オルタ〕 (ねんどろいど あるたーえご/おきたそうじ〔おるた〕)",
+    "ko": "얼터 에고/오키타 소지[얼터]"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9985,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YF1WEm8s-_4/X4NkjQGWNRI/AAAAAAABm7A/Uqxga68jhQUgPhqCzaxYHrknpP_R5_LTQCLcBGAsYHQ/s270/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YF1WEm8s-_4/X4NkjQGWNRI/AAAAAAABm7A/Uqxga68jhQUgPhqCzaxYHrknpP_R5_LTQCLcBGAsYHQ/s270/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-g1X_MEVFcIs/X4tAwHbAy7I/AAAAAAABq7M/F02nRIAmxT4pqJfaI0C393vmYMIrBKEVgCLcBGAsYHQ/s135/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WhRmZa69vng/X4tAwcyg4oI/AAAAAAABq7Q/y6GAFmxGHmkW77GhTQBzWegsEr4T13kXwCLcBGAsYHQ/s135/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7xRtJlGuEVY/X4tAw251OsI/AAAAAAABq7U/_6FYvLK7iZgYfi6uPMdXwg0T3JYbD4EIQCLcBGAsYHQ/s135/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qz23jkRIeuY/X4tAwwbzOWI/AAAAAAABq7Y/S0Fj0jgbUlc-mZHA9jzIz1jUqzMV325DgCLcBGAsYHQ/s135/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cqFt6o1pL5w/X4tAxAFRLaI/AAAAAAABq7c/ngIpszB-pWI3wZ8dBbRWlfxHHoJ6Kj_qQCLcBGAsYHQ/s135/1440-Alter-Ego-Okita-Souji-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1440/",
+      "fetched_at": "2026-05-16T19:10:33.432Z",
+      "raw_id": "/nendoroid/details/n1440/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.666Z",
+      "raw_id": "Nendoroid/1400-1499/1440.json"
+    }
+  ]
+}

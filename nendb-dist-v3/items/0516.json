@@ -1,0 +1,67 @@
+{
+  "num": "0516",
+  "name": {
+    "en": "Nendoroid Maki Nishikino (ねんどろいど にしきのまき)",
+    "ja": "ねんどろいど 西木野真姫 (ねんどろいど にしきのまき)",
+    "ko": "니시키노 마키"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gkJNHDPE8MQ/X4NOYHgbWYI/AAAAAAABluU/nldx36NJD_MANmtzAZdnPEEd1__TQSTfgCLcBGAsYHQ/s270/516-Nishikino-Maki-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gkJNHDPE8MQ/X4NOYHgbWYI/AAAAAAABluU/nldx36NJD_MANmtzAZdnPEEd1__TQSTfgCLcBGAsYHQ/s270/516-Nishikino-Maki-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SW6WukJpDZI/X4ir9RxfdoI/AAAAAAAAr_o/NQjxR_HXSh0_QlxCwpgYSymdRNsXtjjBwCLcBGAsYHQ/s135/516-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-un8IwH1V5Sw/X4ir9l3dlJI/AAAAAAAAr_s/WsCMFVgTnespbKbixCu0hlBuHrw8ixX5wCLcBGAsYHQ/s135/516-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z8B1-QypJjw/X4ir9hMtsSI/AAAAAAAAr_w/5WiZn9qJ9cA10EjQAVLJtzSHM8ht1809ACLcBGAsYHQ/s135/516-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A1SayFD91qI/X4ir93QlCbI/AAAAAAAAr_0/K_tiG8suFUop8EywQ3m_-UfLxYqJ9mtZACLcBGAsYHQ/s135/516-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n516/",
+      "fetched_at": "2026-05-16T19:10:34.573Z",
+      "raw_id": "/nendoroid/details/n516/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.420Z",
+      "raw_id": "Nendoroid/0500-0599/516.json"
+    }
+  ]
+}

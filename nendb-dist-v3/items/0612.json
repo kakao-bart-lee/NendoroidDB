@@ -1,0 +1,68 @@
+{
+  "num": "0612",
+  "name": {
+    "en": "Nendoroid Pokémon Trainer Red & Green",
+    "ja": "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
+    "ko": "레드&그린"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8250,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5512,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QVpPxJrJLlo/X4NPobGhYFI/AAAAAAABl1M/L2vE2nfu35sh2A_xv08r22hQB3_YagLuQCLcBGAsYHQ/s270/612-Red-Green-Pokemon-Trainer-Pokemon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QVpPxJrJLlo/X4NPobGhYFI/AAAAAAABl1M/L2vE2nfu35sh2A_xv08r22hQB3_YagLuQCLcBGAsYHQ/s270/612-Red-Green-Pokemon-Trainer-Pokemon-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qpWxgbxzdbo/X4izwM-c73I/AAAAAAAAskQ/KRdu-BeI6YssGTCsjimCpdQI5tQimh9jQCLcBGAsYHQ/s135/612-Red-and-Green-Pokemon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U7pwNVR96RY/X4izwoBTwOI/AAAAAAAAskU/5TlXv8GtxC8jD7hNuERmL0CncYE_fOv4ACLcBGAsYHQ/s135/612-Red-and-Green-Pokemon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XaYseARM2a8/X4izxKxHLbI/AAAAAAAAskY/cTwluLSspKYLVw0JY9mAxhCLjqIVoZYBACLcBGAsYHQ/s135/612-Red-and-Green-Pokemon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3D22i9kNhFc/X4izxr63PuI/AAAAAAAAskc/2en6n9mXpKo7i8ZdtSKkemmoHelZtnskQCLcBGAsYHQ/s135/612-Red-and-Green-Pokemon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-R5f89Hfj_NA/X4izyA0TzoI/AAAAAAAAskg/97iLDA7Si4AaZjHs_nB3gGdC7JEUGN-1gCLcBGAsYHQ/s135/612-Red-and-Green-Pokemon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n612/",
+      "fetched_at": "2026-05-16T19:10:34.691Z",
+      "raw_id": "/nendoroid/details/n612/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.462Z",
+      "raw_id": "Nendoroid/0600-0699/612.json"
+    }
+  ]
+}

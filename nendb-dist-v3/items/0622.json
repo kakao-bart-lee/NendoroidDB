@@ -1,0 +1,71 @@
+{
+  "num": "0622",
+  "name": {
+    "en": "Nendoroid Zuikaku",
+    "ja": "ねんどろいど 瑞鶴 (ねんどろいど ずいかく)",
+    "ko": "즈이카쿠"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5613,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0YOf8HWHZj0/X4NPrEegN1I/AAAAAAABl10/Cdmn4FWVzcIQtFAHUaSPyJBxCkqNH8pWgCLcBGAsYHQ/s270/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0YOf8HWHZj0/X4NPrEegN1I/AAAAAAABl10/Cdmn4FWVzcIQtFAHUaSPyJBxCkqNH8pWgCLcBGAsYHQ/s270/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-urBtmqu46E8/X4i0BGZbanI/AAAAAAAAsnk/N7n7N1Ful7saijjVEKymgFQqIWyZ_QOCgCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kDVEHr02l2Q/X4i0BcSPZGI/AAAAAAAAsno/yuVm-2RHAmcwHhfZlbN4ejCG-mbZSiaFgCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7mQqex_kqk8/X4i0Bmg4FkI/AAAAAAAAsns/6hJ1vbvEPakJlmmv8kvm6A_QMR55aNTCQCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lnfuB630iqQ/X4i0B_xURPI/AAAAAAAAsnw/q4IV2WCcOiITA2qIuCDfWEWNB_c6-eavgCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-W8YVZ8WnwkA/X4i0CE1ipAI/AAAAAAAAsn0/gm6PN_dDzW4AA2MqJt4nTH7U_r7-gzTzQCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-darn2qVV1z0/X4i0CW9vMhI/AAAAAAAAsn4/IpCJAPuvLssViOKhv6sQyYVC7tN9DCw5wCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Fm5vwpzTGR8/X4i0CjE35NI/AAAAAAAAsn8/gOgVMUzeRJU-ZWdcTQR2lptE9iSkPEUnACLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-3o44TJ4D5zY/X4i0A6ctXBI/AAAAAAAAsng/6GRJyFymXMEte_i-i5XrS23RNXzYVBdFwCLcBGAsYHQ/s135/622-Zuikaku-Kantai-Collection-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n622/",
+      "fetched_at": "2026-05-16T19:10:34.703Z",
+      "raw_id": "/nendoroid/details/n622/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.466Z",
+      "raw_id": "Nendoroid/0600-0699/622.json"
+    }
+  ]
+}

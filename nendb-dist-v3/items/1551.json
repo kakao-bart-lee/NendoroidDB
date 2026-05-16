@@ -1,0 +1,69 @@
+{
+  "num": "1551",
+  "name": {
+    "en": "Nendoroid Texas",
+    "ja": "ねんどろいど テキサス (ねんどろいど てきさす)",
+    "ko": "텍사스"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10657,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Fiu3wrikojQ/YA2BOXgPzCI/AAAAAAAAvdQ/eeELWpCcpW4CQ6a5oX3oZ6Ln-a0Je-ZaQCLcBGAsYHQ/s270/1551-Texas-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Fiu3wrikojQ/YA2BOXgPzCI/AAAAAAAAvdQ/eeELWpCcpW4CQ6a5oX3oZ6Ln-a0Je-ZaQCLcBGAsYHQ/s270/1551-Texas-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-K8PLzY0Ba10/YA2ElXsH7WI/AAAAAAAAvjI/mtEXVjeLDZ8yXuOJxHb23-7mtjaNhYNPwCLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--VBWQlKklQk/YA2Elqd0LNI/AAAAAAAAvjM/FwU_pNRgsegxK-qUgMy3oSsiuPNbZFvMQCLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-H4frEcQ3Zws/YA2ElqXtccI/AAAAAAAAvjQ/U7TBcPSCMXUqLI9oc_3oTOIKL40sbldEACLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QPXWnJBCTt4/YA2ElzWywbI/AAAAAAAAvjU/BaBxqineGNkb7MtL3PbGpKN_irefW_wgwCLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-m2r63wyNDHI/YA2El7740aI/AAAAAAAAvjY/PQMliQENw9QdkpRPD6Bzeezvz8F7mNipACLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tUt13TfeU-g/YA2EmGbh0YI/AAAAAAAAvjc/1d9814kaNUY1oskN3rOm6f-pYGn-F-MZwCLcBGAsYHQ/s135/1551-Texas-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1551/",
+      "fetched_at": "2026-05-16T19:10:33.499Z",
+      "raw_id": "/nendoroid/details/n1551/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.693Z",
+      "raw_id": "Nendoroid/1500-1599/1551.json"
+    }
+  ]
+}

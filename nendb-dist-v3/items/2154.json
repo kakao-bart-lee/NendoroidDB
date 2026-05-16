@@ -1,0 +1,69 @@
+{
+  "num": "2154",
+  "name": {
+    "en": "Nendoroid Kei Hazuki",
+    "ja": "ねんどろいど 葉月 珪 (ねんどろいど はづき けい)",
+    "ko": "하즈키 케이"
+  },
+  "series": {
+    "en": "Tokimeki Memorial Girl's Side",
+    "ja": "ときめきメモリアル Girl's Side",
+    "ko": "두근두근 메모리얼 걸즈 사이드",
+    "code": "tokimeki-memorial-girl-s-side"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14308,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-momNh8NM3rc/ZFqWhL_ywMI/AAAAAAAA90w/6CB_aoml0UQUyPtiiWCtS5MesVt5tRacwCNcBGAsYHQ/s270/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-momNh8NM3rc/ZFqWhL_ywMI/AAAAAAAA90w/6CB_aoml0UQUyPtiiWCtS5MesVt5tRacwCNcBGAsYHQ/s270/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZfLCy93H54s/ZFqccLDy44I/AAAAAAAA-D4/YXxa5sJV_HMRBeNjvmoCKUjSD4Gim5vnwCNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d9TRGUTc1Dg/ZFqccSG93rI/AAAAAAAA-D8/29myEhf1Ap0cUqAe4NQwcCbBC6WLrXwmgCNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JRf8fHPDhR8/ZFqccbOolEI/AAAAAAAA-EA/IIghC54nU486-dZ4jUZrtdaAE3TZuh3SgCNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0OgotZTae50/ZFqccqmfFcI/AAAAAAAA-EE/dmmy4YKvrqoOHZPdYICwN7jjJ8-IydCwgCNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-G4zIE9RCw-U/ZFqccr5Bl0I/AAAAAAAA-EI/DeHq3Anqi7cRtxhN0fs-pwlv8UD01LWeACNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vMgDNxeERQs/ZFqcc4jtQRI/AAAAAAAA-EQ/_RDhT4AG6P0oEbpjuHILhkTAy6kaZk47QCNcBGAsYHQ/s135/2154-Kei-Hazuki-Tokimeki-Memorial-Girls-Side-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2154/",
+      "fetched_at": "2026-05-16T19:10:33.870Z",
+      "raw_id": "/nendoroid/details/n2154/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.840Z",
+      "raw_id": "Nendoroid/2100-2199/2154.json"
+    }
+  ]
+}

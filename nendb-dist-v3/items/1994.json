@@ -1,0 +1,69 @@
+{
+  "num": "1994",
+  "name": {
+    "en": "Nendoroid Prussia",
+    "ja": "ねんどろいど プロイセン (ねんどろいど ぷろいせん)",
+    "ko": "프로이센"
+  },
+  "series": {
+    "en": "Hetalia World★Stars",
+    "ja": "アニメ「ヘタリア World★Stars」",
+    "ko": "헤타리아",
+    "code": "hetalia-world-stars"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13501,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hzBwFJYb-TE/Y45wUtoqymI/AAAAAAAA7sA/XY4I-uMbjDUTDI6EhsQLKkIABSgXH6euwCNcBGAsYHQ/s270/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hzBwFJYb-TE/Y45wUtoqymI/AAAAAAAA7sA/XY4I-uMbjDUTDI6EhsQLKkIABSgXH6euwCNcBGAsYHQ/s270/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bBzsZe25ut0/Y451rka7uuI/AAAAAAAA73M/kfnFHNFziwsnvMZfKicc-8lyrGXLnqF9QCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ll7r_n2a-XE/Y451r6FaWvI/AAAAAAAA73Q/vitEHnzXTmcnaBxE0te0I2ySUWjo1w5RQCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PfEvWB8uISw/Y451r0ykQnI/AAAAAAAA73U/J7OmD-rv4wYMxOorH44VbW9bCzvLrQV1gCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jiCBm53vCN0/Y451sKZvxQI/AAAAAAAA73Y/m0zxgOrrZTodfTkRT6qGS7f9kWlT9ZCdQCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XOaNWwvJdUA/Y451sQ3vVBI/AAAAAAAA73c/p4W0aAT2tz8gi0cRK61F74ggueazx_J2wCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-H0EAY8hbiVg/Y451si7TwKI/AAAAAAAA73g/owSb4IgY4TcDI2p1lFeuRsC68zdg6j7owCNcBGAsYHQ/s135/1994-Prussia-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1994/",
+      "fetched_at": "2026-05-16T19:10:33.774Z",
+      "raw_id": "/nendoroid/details/n1994/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.800Z",
+      "raw_id": "Nendoroid/1900-1999/1994.json"
+    }
+  ]
+}

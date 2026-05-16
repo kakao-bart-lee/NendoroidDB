@@ -1,0 +1,70 @@
+{
+  "num": "0491",
+  "name": {
+    "en": "Nendoroid Kirishima",
+    "ja": "ねんどろいど 霧島 (ねんどろいど きりしま)",
+    "ko": "키리시마"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4798,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OAtCANSwNLo/X4NOAWc8WrI/AAAAAAABlsQ/njW8MQeeAdA67hw3oHz7YHyfunv_TKTTQCLcBGAsYHQ/s270/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OAtCANSwNLo/X4NOAWc8WrI/AAAAAAABlsQ/njW8MQeeAdA67hw3oHz7YHyfunv_TKTTQCLcBGAsYHQ/s270/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RglZ8Hw8-7A/X4dfVzAWtII/AAAAAAAAr0k/UmrXIexPa90hK3VOFdhYN3kNDUkvBYZqgCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MG9S6ykeU1Q/X4dfWH2dE9I/AAAAAAAAr0o/k_pVPBOfq0ACHqiKefkhlXXjY1KdYLJqwCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nVPOqmDrU_Q/X4dfWXNmcjI/AAAAAAAAr0s/VU1P8ePsTQEV4qc4ze-d0HGW_BXi2wGmACLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p7AN4uqLrQ8/X4dfWpvQFbI/AAAAAAAAr0w/zHvmrgH3faAHB5jxN7w6LRbLTQgPFRIiQCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wtUIkgs_Jds/X4dfW7xjlTI/AAAAAAAAr00/PV2cGEXHv8E7hqQo9CXg-SrJ3Thn6oHewCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7_kjOar3Mi0/X4dfXZSh0YI/AAAAAAAAr04/86LQZX7LzdwH1_IwG-4F9jrN8zrCxAILgCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-QIyKt_3paDk/X4dfX6KUz1I/AAAAAAAAr08/mxI7am_hXtcnbP6Wt6IZoorBnRE3HK-agCLcBGAsYHQ/s135/491-Kirishima-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n491/",
+      "fetched_at": "2026-05-16T19:10:34.558Z",
+      "raw_id": "/nendoroid/details/n491/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.393Z",
+      "raw_id": "Nendoroid/0400-0499/491.json"
+    }
+  ]
+}

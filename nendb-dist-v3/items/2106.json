@@ -1,0 +1,70 @@
+{
+  "num": "2106",
+  "name": {
+    "en": "Nendoroid Diana",
+    "ja": "ねんどろいど ダイアナ (ねんどろいど だいあな)",
+    "ko": "다이애나"
+  },
+  "series": {
+    "en": "A-SOUL",
+    "ja": "A-SOUL",
+    "ko": "A-SOUL",
+    "code": "a-soul"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14172,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3RocMbSY0eE/ZCnVcjr3JqI/AAAAAAAA9Uc/ax4LDbHFzY0rBJYMTq_lm2JDRrDmKnpxACNcBGAsYHQ/s270/2106-Diana-A-SOUL-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3RocMbSY0eE/ZCnVcjr3JqI/AAAAAAAA9Uc/ax4LDbHFzY0rBJYMTq_lm2JDRrDmKnpxACNcBGAsYHQ/s270/2106-Diana-A-SOUL-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r4ZmYo5gM2w/ZCnZ9d3jflI/AAAAAAAA9ZQ/KlcvhQABva8TzT-bcey8TJrQsa5yDo2kwCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x2DeCPN2kSM/ZCnZ9WYMPsI/AAAAAAAA9ZU/Gy8I4lTmhZE-RrWvgsybz08C2L1lvBU0QCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UuazXmRj8GI/ZCnZ9ZFp9eI/AAAAAAAA9Zc/ykukajNIIwwi8L04yJEnL0ENvOmnw27vQCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rJO3nKapz_Q/ZCnZ9tH34dI/AAAAAAAA9ZY/eBkzOcMViD4Az8zdhsNNFgnJuvISq0-_QCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zFhYR4vlgVg/ZCnZ9xFQEQI/AAAAAAAA9Zg/oz_n0a-ElTQ6VuI9oofpuH60usG0m5dogCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AdFoFxDaug4/ZCnZ-MNNyGI/AAAAAAAA9Zk/Y-1N8exkt38-lIdH7N0LZdknm44Oxg15wCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-yZpB07jiUl4/ZCnZ-JWZeCI/AAAAAAAA9Zo/JedGShKezq0Kxia4gaZxS7m93iNYTvZpQCNcBGAsYHQ/s135/2106-Diana-A-SOUL-Others-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2106/",
+      "fetched_at": "2026-05-16T19:10:33.843Z",
+      "raw_id": "/nendoroid/details/n2106/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.828Z",
+      "raw_id": "Nendoroid/2100-2199/2106.json"
+    }
+  ]
+}

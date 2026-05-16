@@ -1,0 +1,69 @@
+{
+  "num": "2212",
+  "name": {
+    "en": "Nendoroid Bridget",
+    "ja": "ねんどろいど ブリジット (ねんどろいど ぶりじっと)",
+    "ko": "브리짓"
+  },
+  "series": {
+    "en": "GUILTY GEAR™ -STRIVE-",
+    "ja": "GUILTY GEAR™ -STRIVE-",
+    "ko": "길티기어",
+    "code": "guilty-geartm-strive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14718,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k4CZ5vus4cU/ZM6yxu1qL0I/AAAAAAABA9U/_Ce2Gs9UgTcEzdSlhAvrRjUth4-n1ICigCNcBGAsYHQ/s270/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k4CZ5vus4cU/ZM6yxu1qL0I/AAAAAAABA9U/_Ce2Gs9UgTcEzdSlhAvrRjUth4-n1ICigCNcBGAsYHQ/s270/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vHD1Hv5O8rI/ZNAWT6K6YBI/AAAAAAABBGI/wiFch7lJjTcbWb99Oelg3JFw9ztOPAlSACNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rpg1RtT05_k/ZNAWT2sZEGI/AAAAAAABBGM/Zs3ssN0RHJQuIXuE9L62PW3wEhAPQBLlgCNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_0YHtSQJKE4/ZNAWULrJk0I/AAAAAAABBGQ/hlozp0qCb-QRIZHmYr_4KdybSpr3FdwzgCNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jhXGvG3HXLM/ZNAWUvnu-wI/AAAAAAABBGU/WUdEzIpcx14x3o6ILpOdTtZ-gWqv_E4UQCNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lWuS5lQxUok/ZNAWUq-F6uI/AAAAAAABBGY/b-uihdLyOoYXIyfJHB0irgh5aVP39OM_ACNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-akvXylGZVyo/ZNAWU9G10CI/AAAAAAABBGc/emDzeJSM9SQZ66C3RT0yIItlaowP2dCYgCNcBGAsYHQ/s135/2212-Bridget-Guilty-Gear-Strive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2212/",
+      "fetched_at": "2026-05-16T19:10:33.918Z",
+      "raw_id": "/nendoroid/details/n2212/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.856Z",
+      "raw_id": "Nendoroid/2200-2299/2212.json"
+    }
+  ]
+}

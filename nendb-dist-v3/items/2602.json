@@ -1,0 +1,64 @@
+{
+  "num": "2602",
+  "name": {
+    "en": "Rin",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "BUNNY GARDEN",
+    "ja": null,
+    "ko": null,
+    "code": "bunny-garden"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dhEe6vZgUnE6PeOcqveuXwgLyDmoVdJ87nE7aZV3INxk585Uy4Ldw-o-vlyKauiJB79PbqhZrRqw9RcsNuwE-T8dvk1CiVCNwe429J0_7hcQH2urY9V_aBgZlSPbDonsWOGU367sohSQUv5QLUgtSBuMFuJLKU04LRlR8ZmgutrVu225G9I8_DDisAN7/s270/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dhEe6vZgUnE6PeOcqveuXwgLyDmoVdJ87nE7aZV3INxk585Uy4Ldw-o-vlyKauiJB79PbqhZrRqw9RcsNuwE-T8dvk1CiVCNwe429J0_7hcQH2urY9V_aBgZlSPbDonsWOGU367sohSQUv5QLUgtSBuMFuJLKU04LRlR8ZmgutrVu225G9I8_DDisAN7/s270/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYiS6P3iEd0aK5VXWpCtuFtfuuCunbKavZeScO0mxigXQLMPQeSHUSO9d3J5r630TmmjbHr_DS8DtL281VLyxr3t9RA3IG3W1msM3ou1ZPL9D9Yx8uVv5iapbEb06ygoTtxDHF6e2cdE5B__2bZy30gWkDtMsb2Cyc5gKK8LprTWQCbroq0V1kaCaGEtcm/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU49ehYmdbq9Y7abwHWUUXjUdhVO6tmoJLeihfO0UfkBOZmsiMSwXdGkP2b6NThppxDkcuzikx3EGLM9mVhQiizlM5Cqa_nK3CpZnB02Is9T1hqsTNaDVQVPkcPiM-XXzI3dY3ltYvkjruEa8rENF1jjbFHhECKfP-m5FruMR-0wDolUhBrqoetFkHNMD3/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9pZ2j4X7qnEQDRsyPkdFi5weIv7vkx-8JABfR-QVK4z9AJpUW5M1as3UnBQ2SsR_I5bGfwhbrKrwcobNFOcUKWtcZBGx2-qKNqtSggipG7gVkWF8ectXvnNpmSLrgb7s1ho-sUTC19O3Ad1b0nnYhBmJqKVSRw7Dt5dhbFqdRojjgeoFqHl7ZKZPGxA5/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgsbJizqSXKW5VjVH0f55xrQ24WykSQY_6K0KGh4A0HsVpW0nXgyOJQzy26i96zzGYXZl_19626chF6z0DyVgZbfKCXNBT87l4ptW1NSeNo63D2HQNa4a4g84lfDF2mWXK89K5LUV81Z2i_to-uTym76VxzYFLe8qAvdNxrWx9qw92jGiKRV1IvUCkGoG/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBXhaM1FR47s2S_W2A6Xqzt3fYiIgRBq8Xk31YQWwwWfQERkZ10mFBBmAvkb_uQKi17PFkWvLtVhyu_I3VPDewcpJlTz78It7b2ZGBfaeqXdvx1Ht55g3Y5larmILp2a21bVbjcmLlittvPBghyKdOKPWMDKL1QSbSjPWFBA4YMYvQSz33Z78lzc-02V/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrRJJjBK8ZTf9vTR8-9BMt5d43Y7YOsf3cUXdmjVBSWSzUR99FUwQRo772XNLizEoYVOzBs6vlu_vU22ze-bvvQwvBDMy82d77kPyqEJC__vp3pV_8r6dG9CBVlWCdZ6L4fgcaQZqvbrFUAUSt4vHJD9s1yYPM0eQFwHguPl2JVlXYTODJVRVXHImXrTLR/s135/2602-Rin-BUNNY-GARDEN-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2602/",
+      "fetched_at": "2026-05-16T19:10:34.160Z",
+      "raw_id": "/nendoroid/details/n2602/"
+    }
+  ]
+}

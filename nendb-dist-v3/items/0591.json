@@ -1,0 +1,68 @@
+{
+  "num": "0591",
+  "name": {
+    "en": "Nendoroid Hacka Doll No.1",
+    "ja": "ねんどろいど ハッカドール1号 (ねんどろいど はっかどーるいちごう)",
+    "ko": "해커돌 1호"
+  },
+  "series": {
+    "en": "Hacka Doll the Animation",
+    "ja": "ハッカドール THE・あにめ～しょん",
+    "ko": "해커돌",
+    "code": "hacka-doll-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5355,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XgLDknBBub0/X4NOssubT4I/AAAAAAABlzQ/ffdiQeNXVL0QlU67LabBM9z3RXFOYOrswCLcBGAsYHQ/s270/591-Hacka-Doll-No-1-The-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XgLDknBBub0/X4NOssubT4I/AAAAAAABlzQ/ffdiQeNXVL0QlU67LabBM9z3RXFOYOrswCLcBGAsYHQ/s270/591-Hacka-Doll-No-1-The-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P6gKLHU5p0Y/X4itkFIzmSI/AAAAAAAAsaI/WRc45nssa7wi3QB-f816tQnwjFueO30QQCLcBGAsYHQ/s135/591-Hacka-Doll-No.1-Hacka-Doll-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IP7h_DordO8/X4itkrB9WcI/AAAAAAAAsaM/z2z38cIEO4gMV2UyEEHYJR5qnRP4xc79wCLcBGAsYHQ/s135/591-Hacka-Doll-No.1-Hacka-Doll-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9gD-Ei8Bq5E/X4itk7Zvt6I/AAAAAAAAsaQ/jGapiYKOBtcv8J3bCLr9i8uT1L8hRbzPQCLcBGAsYHQ/s135/591-Hacka-Doll-No.1-Hacka-Doll-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ek7bjdS9WS8/X4itlDJ0tpI/AAAAAAAAsaY/MkwDKIAZzz42Uqe5PSD_06KvY2BtmZtegCLcBGAsYHQ/s135/591-Hacka-Doll-No.1-Hacka-Doll-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yK8vIjrPv_w/X4itlCdTCfI/AAAAAAAAsaU/qzU4f0eyVZsXdGmakl3RVoS4XWratTtBACLcBGAsYHQ/s135/591-Hacka-Doll-No.1-Hacka-Doll-the-Animation-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n591/",
+      "fetched_at": "2026-05-16T19:10:34.672Z",
+      "raw_id": "/nendoroid/details/n591/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.457Z",
+      "raw_id": "Nendoroid/0500-0599/591.json"
+    }
+  ]
+}

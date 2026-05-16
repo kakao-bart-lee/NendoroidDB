@@ -1,0 +1,98 @@
+{
+  "num": "1455",
+  "name": {
+    "en": "Nendoroid Tobio Kageyama: The New Karasuno Ver.",
+    "ja": "ねんどろいど 影山飛雄 新生烏野Ver. (ねんどろいど かげやまとびお しんせいからすのVer.)",
+    "ko": "카게야마 토비오 카라스노 Ver."
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "七兵衛（松田モデル）、shiro",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4571697187696",
+  "gsc_product_id": "7726",
+  "gsc_product_num": 10030,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/7726",
+    "ja": "https://www.goodsmile.com/ja/product/7726"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200909/10030/74077/large/080b444e8cd16cce8a365a1c7bac9a6d.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-b_9AZLD_8AI/X4NkmQXDOBI/AAAAAAABm7w/xJfj5tke2UU3Yq-kqtIaNj1_WHjdlY2JACLcBGAsYHQ/s270/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3sKNIWNGQ0o/X4tBCwtSzDI/AAAAAAABq_k/8ZvopJ-lbmg00ulrVvBqB78p2__a6uqsACLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Iq7er6Umjxc/X4tBDO_cQII/AAAAAAABq_o/XVTfJc0L5SY_aF8Swb2JA2qFffE9SFd_QCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cb3GPdh-7tA/X4tBDcyEUVI/AAAAAAABq_s/3TyQIympxuUL98gJbm7raz7uhEyOChbswCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T_3RNafw9lw/X4tBDhZdHhI/AAAAAAABq_w/_cCuUY8Y_HQhuzAsRAF-HfSOuokjMhlvgCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wFolhWc_SHM/X4tBD3OloGI/AAAAAAABq_0/L_aryKWR--01E54bTDHCsA9CXvcodNbfwCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SHGIsMx2XvU/X4tBEO3SnLI/AAAAAAABq_4/c4RBxHYp-KUQulwu8KpY-aGMUSDwZLMkQCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pBFrHZJMfiw/X4tBEQz7Y6I/AAAAAAABq_8/_CFsWaVmA5wszDRppmBoFyTBvZbV2bvOwCLcBGAsYHQ/s135/1455-Tobio-Kageyama-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200909/10030/74084/large/4434ce07ba5957a4bf54907ea713b12d.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200909/10030/74077/large/080b444e8cd16cce8a365a1c7bac9a6d.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7726",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:56:18.057Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7726",
+      "fetched_at": "2026-05-16T11:56:18.057Z",
+      "raw_id": "7726"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/7726",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "7726"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1455/",
+      "fetched_at": "2026-05-16T19:10:33.441Z",
+      "raw_id": "/nendoroid/details/n1455/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.669Z",
+      "raw_id": "Nendoroid/1400-1499/1455.json"
+    }
+  ]
+}

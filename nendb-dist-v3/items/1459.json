@@ -1,0 +1,67 @@
+{
+  "num": "1459",
+  "name": {
+    "en": "Nendoroid Ne Zha",
+    "ja": "ねんどろいど 哪吒 (ねんどろいど なた)",
+    "ko": "나타"
+  },
+  "series": {
+    "en": "Ne Zha",
+    "ja": "哪吒之魔童降世",
+    "ko": "나타지마동강세",
+    "code": "ne-zha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10687,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vDfSHTMwpXU/YA2BJ4ZQthI/AAAAAAAAvcg/MwMUPUgSUqAyWuC6cHzs6IBN443gL0uBgCLcBGAsYHQ/s270/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vDfSHTMwpXU/YA2BJ4ZQthI/AAAAAAAAvcg/MwMUPUgSUqAyWuC6cHzs6IBN443gL0uBgCLcBGAsYHQ/s270/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kh9KqRx6aN8/YA2EWZ9DAyI/AAAAAAAAvfE/g-61AfyJYxsv0qMFBpUWXhdNAlKCc9hrwCLcBGAsYHQ/s135/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JnO3w3PpQMQ/YA2EWh5nEpI/AAAAAAAAvfI/Tq3YJjnKnEMALXMfL367PhrvieQ7hvJxwCLcBGAsYHQ/s135/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-j5t_v0VSRBc/YA2EWw1iBoI/AAAAAAAAvfM/H4cp-RY86KYYP3sv73NExc7SRNDAISxSgCLcBGAsYHQ/s135/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UcLTuaIWjJw/YA2EXOHCkoI/AAAAAAAAvfQ/47laiwv3RhQ3yPpsbu6et5ZwqC1kKKLsACLcBGAsYHQ/s135/1459-Ne-Zha-Ne-Zha-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1459/",
+      "fetched_at": "2026-05-16T19:10:33.443Z",
+      "raw_id": "/nendoroid/details/n1459/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.670Z",
+      "raw_id": "Nendoroid/1400-1499/1459.json"
+    }
+  ]
+}

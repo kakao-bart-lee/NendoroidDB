@@ -1,0 +1,67 @@
+{
+  "num": "0288",
+  "name": {
+    "en": "Nendoroid Kanna Tanigawa (ねんどろいど たにがわかんな)",
+    "ja": "ねんどろいど 谷川柑菜 (ねんどろいど たにがわかんな)",
+    "ko": "타니가와 칸나"
+  },
+  "series": {
+    "en": "Waiting in the Summer",
+    "ja": "あの夏で待ってる",
+    "ko": "그 여름에서 기다릴게",
+    "code": "waiting-in-the-summer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3725,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rIN7SfXHlzQ/X4NLazmto3I/AAAAAAABla0/mx2nwQq04rER8zISX1ApB3t1c39Y1PK9gCLcBGAsYHQ/s270/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rIN7SfXHlzQ/X4NLazmto3I/AAAAAAABla0/mx2nwQq04rER8zISX1ApB3t1c39Y1PK9gCLcBGAsYHQ/s270/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-245ziCL5gP0/X4dYa5Ds1EI/AAAAAAAAqso/7h9P-EWyBgYVIUCaPOEOI6kb7uu3nW1FgCLcBGAsYHQ/s135/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1IcjNmpH_hQ/X4dYbOP1IsI/AAAAAAAAqss/2NTjrcTLSHIBOfBrtZMBZH3qRBdJiELbQCLcBGAsYHQ/s135/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sy_rdulLGqA/X4dYbFH_lSI/AAAAAAAAqsw/bL0r6q8vg5wYOk6ow0PJOveKbgWPL8EIwCLcBGAsYHQ/s135/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PWQ_cFkDPmQ/X4dYbbIniyI/AAAAAAAAqs0/C-Tym9Cc9o0XAstgkJgWoOTa85WjnuAngCLcBGAsYHQ/s135/288-Tanigawa-Kanna-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n288/",
+      "fetched_at": "2026-05-16T19:10:34.374Z",
+      "raw_id": "/nendoroid/details/n288/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.343Z",
+      "raw_id": "Nendoroid/0200-0299/288.json"
+    }
+  ]
+}

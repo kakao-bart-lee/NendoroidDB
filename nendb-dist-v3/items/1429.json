@@ -1,0 +1,69 @@
+{
+  "num": "1429",
+  "name": {
+    "en": "Nendoroid Triss Merigold",
+    "ja": "ねんどろいど トリス・メリゴールド (ねんどろいど とりす・めりごーるど)",
+    "ko": "트리스 메리골드"
+  },
+  "series": {
+    "en": "The Witcher 3: Wild Hunt",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "ko": "위쳐 시리즈",
+    "code": "the-witcher-3-wild-hunt"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9808,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QDgKfe81520/X4NkgjBeStI/AAAAAAABm6U/PwNJqe_lvIsb7yCvId3Zdp1gzUxtyH1yQCLcBGAsYHQ/s270/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QDgKfe81520/X4NkgjBeStI/AAAAAAABm6U/PwNJqe_lvIsb7yCvId3Zdp1gzUxtyH1yQCLcBGAsYHQ/s270/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BMYmKD_wis8/X4tAg4ssXlI/AAAAAAABq3Y/5XICsezZYkszbRQ-n8-1d0-Zt3SQ7735ACLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YT3TmMbfepA/X4tAhMZuMXI/AAAAAAABq3c/ENw218Tu9swrjdiYYkJ1RfF9WTs6Me2wgCLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9P_UpGvOhs0/X4tAhXCKBOI/AAAAAAABq3g/VSVKqYSK8_s3s6kiKhflj9vO-yd4zwCEACLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QGXQjzLua2M/X4tAhtqnLuI/AAAAAAABq3k/gWkqaZnGGggTlH-GUp9X7H4X7M63kUZwACLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OcDh7BsEGyw/X4tAhxejcyI/AAAAAAABq3o/m-NN0DRiqkEpBaYlcP5Zs25Vh4k5uGCeACLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rDkKB0VrLt0/X4tAiHicrMI/AAAAAAABq3s/gRtS4O8I0rcV1GTV5-2r8LLrjWyXs51oQCLcBGAsYHQ/s135/1429-Triss-Merigold-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1429/",
+      "fetched_at": "2026-05-16T19:10:33.425Z",
+      "raw_id": "/nendoroid/details/n1429/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.663Z",
+      "raw_id": "Nendoroid/1400-1499/1429.json"
+    }
+  ]
+}

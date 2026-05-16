@@ -1,0 +1,67 @@
+{
+  "num": "0122",
+  "name": {
+    "en": "Sherlock Shellinford",
+    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "ko": "셜록 셰린포드"
+  },
+  "series": {
+    "en": "Tantei Opera Milky Holmes",
+    "ja": "探偵オペラ ミルキィホームズ",
+    "ko": "탐정 오페라 밀키 홈즈",
+    "code": "tantei-opera-milky-holmes"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10780,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3378,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FVnTcRQ1dCI/X4NJzqp25yI/AAAAAAABlPM/W9v4d_65q40rjHWB6uKuC4RIkWwRA-ADwCLcBGAsYHQ/s270/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FVnTcRQ1dCI/X4NJzqp25yI/AAAAAAABlPM/W9v4d_65q40rjHWB6uKuC4RIkWwRA-ADwCLcBGAsYHQ/s270/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CJEZOCt6PtM/X4dSUz5OCvI/AAAAAAAApzw/lsv2hk1w1KgQQvRHLLUTs2ZcVOgMv_KSgCLcBGAsYHQ/s135/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KDLA1ugkkR8/X4dSVO62QfI/AAAAAAAApz0/tewMm32JlYg4pNkjVyrrXwsFWM_ujz6XQCLcBGAsYHQ/s135/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eax1sNJW6MA/X4dSVhRjviI/AAAAAAAApz4/85WSmojHt6w8M1ujqYuq0evXBfxSszTDACLcBGAsYHQ/s135/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dAefy7gWG3g/X4dSVgx14yI/AAAAAAAApz8/zvLl0TNrl9MGoNDgw8o2WccFwVc-3P1fACLcBGAsYHQ/s135/122-Sherlock-Shellinford-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n122/",
+      "fetched_at": "2026-05-16T19:10:33.300Z",
+      "raw_id": "/nendoroid/details/n122/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.293Z",
+      "raw_id": "Nendoroid/0100-0199/122.json"
+    }
+  ]
+}

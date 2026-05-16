@@ -1,0 +1,68 @@
+{
+  "num": "0686",
+  "name": {
+    "en": "Nendoroid Izuku Midoriya: Hero's Edition",
+    "ja": "ねんどろいど 緑谷出久 ヒーローズ・エディション (ねんどろいど みどりやいずく ひーろーず・えでぃしょん)",
+    "ko": "미도리야 이즈쿠 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5994,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xHNFc0bs6Eg/X4NP-8T3JyI/AAAAAAABl50/QgM0La-GiUI_k7fa84IKJJJUlbBpk12ZQCLcBGAsYHQ/s270/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xHNFc0bs6Eg/X4NP-8T3JyI/AAAAAAABl50/QgM0La-GiUI_k7fa84IKJJJUlbBpk12ZQCLcBGAsYHQ/s270/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TD6jJvQCo_Q/X4i14mdLACI/AAAAAAAAs-0/SsdU1aneDjMWN5eWFW4cugXCEY1dZbX3wCLcBGAsYHQ/s135/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nnmHYUp-OlA/X4i14yEUw4I/AAAAAAAAs-4/moSZseAtvG04YWiWGn_4-jxHTO1yfNeLQCLcBGAsYHQ/s135/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tAosqpdsNPU/X4i14-HmzCI/AAAAAAAAs-8/t8mFJ_Po1ZwIvvCdyKYVa15EBUUBdWyvgCLcBGAsYHQ/s135/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HZwBJOLrOq0/X4i142U3L3I/AAAAAAAAs_A/AeWLyQO3RDsoyXPH9vJsbx7T77uUIWAhQCLcBGAsYHQ/s135/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gE-tRKtj94k/X4i15KwnqRI/AAAAAAAAs_E/kpRjZMCwLvUyutYRfAAVG1l3qyiAA86fACLcBGAsYHQ/s135/686-Izuku-Midoriya-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n686/",
+      "fetched_at": "2026-05-16T19:10:34.742Z",
+      "raw_id": "/nendoroid/details/n686/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.483Z",
+      "raw_id": "Nendoroid/0600-0699/686.json"
+    }
+  ]
+}

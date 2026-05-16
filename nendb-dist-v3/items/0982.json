@@ -1,0 +1,68 @@
+{
+  "num": "0982",
+  "name": {
+    "en": "Nendoroid Rintaro Okabe: Kyouma Hououin Ver.",
+    "ja": "ねんどろいど 岡部倫太郎 鳳凰院凶真Ver. (ねんどろいど おかべりんたろう ほうおういんきょうまVer.)",
+    "ko": "오카베 린타로 호우인 교우마 Ver."
+  },
+  "series": {
+    "en": "Steins;Gate",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7532,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RJfNz-58D-I/X4Ne1dpIiuI/AAAAAAABmPA/utsAp0SOmDE2tYaddZ0ZbMu6Bw6pVUz-QCLcBGAsYHQ/s270/982-Rintaro-Okabe-Kyouma0Hououin-Ver-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RJfNz-58D-I/X4Ne1dpIiuI/AAAAAAABmPA/utsAp0SOmDE2tYaddZ0ZbMu6Bw6pVUz-QCLcBGAsYHQ/s270/982-Rintaro-Okabe-Kyouma0Hououin-Ver-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dljTHXkBTWE/X4rpX-N6DbI/AAAAAAABoHM/Q0ApvTXj8x4hVLcgYPxY0j5rWC4aqgePQCLcBGAsYHQ/s135/982-Rintaro-Okabe-Steins%253BGate-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Zts0Dus8In4/X4rpYU9aapI/AAAAAAABoHQ/0qGXCHxNqoEzoMO4MOoHajUjRMcszN-YACLcBGAsYHQ/s135/982-Rintaro-Okabe-Steins%253BGate-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KOOyakEIL6I/X4rpY2Ism1I/AAAAAAABoHU/sMz9Tm1fJOsWwrKzENutzIjPdPeQvGtnACLcBGAsYHQ/s135/982-Rintaro-Okabe-Steins%253BGate-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sqyAq_0K80o/X4rpZTrQX7I/AAAAAAABoHY/5dxWg-dMXoQkNCMynjRP4fqMGeLTmGX-gCLcBGAsYHQ/s135/982-Rintaro-Okabe-Steins%253BGate-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FHv8gSTdfSk/X4rpZxmIohI/AAAAAAABoHc/aYCi4ZYmD4A-xkAKIhwydpGT_2MKGKR3QCLcBGAsYHQ/s135/982-Rintaro-Okabe-Steins%253BGate-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n982/",
+      "fetched_at": "2026-05-16T19:10:34.908Z",
+      "raw_id": "/nendoroid/details/n982/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.556Z",
+      "raw_id": "Nendoroid/0900-0999/982.json"
+    }
+  ]
+}

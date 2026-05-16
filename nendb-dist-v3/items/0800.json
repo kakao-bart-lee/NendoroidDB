@@ -1,0 +1,68 @@
+{
+  "num": "0800",
+  "name": {
+    "en": "Nendoroid Ash & Pikachu",
+    "ja": "ねんどろいど サトシ＆ピカチュウ (ねんどろいど さとしあんどぴかちゅう)",
+    "ko": "한지우 & 피카츄"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Yk2jxfNGDYY/X4NdNYH6IVI/AAAAAAABmB0/MbAIWS7YvcAPNDyEBuE8tmJ7cy_MOcOTQCLcBGAsYHQ/s270/800-Ash-and-Pikachu-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Yk2jxfNGDYY/X4NdNYH6IVI/AAAAAAABmB0/MbAIWS7YvcAPNDyEBuE8tmJ7cy_MOcOTQCLcBGAsYHQ/s270/800-Ash-and-Pikachu-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HQ7v9fQipQ8/X4i6I_rLVaI/AAAAAAAAtrs/9HMyhFlIENgjoTOt5aQ8uw90VZ4iL_tWwCLcBGAsYHQ/s135/800-Ash-and-Pikachu-Pokemon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4VOe_nYbZ0E/X4i6JIYALgI/AAAAAAAAtrw/2y4qYPBmlP4PI4OyJYr28VNQ2uzDgWftwCLcBGAsYHQ/s135/800-Ash-and-Pikachu-Pokemon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Yl1mdWmBb7I/X4i6JAt4BYI/AAAAAAAAtr0/JpUaVyB369ASeKfSe5E_XfnzAphZ5RKYQCLcBGAsYHQ/s135/800-Ash-and-Pikachu-Pokemon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2vE6IrjUEXY/X4i6JF7oCjI/AAAAAAAAtr4/ShR9gD2G-rIL85tgO9Sf-MhEYUlCZeSzQCLcBGAsYHQ/s135/800-Ash-and-Pikachu-Pokemon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DsagroPDzBU/X4i6JdQICCI/AAAAAAAAtr8/Eo1ZODhzfWIJLbzaM_TxQ2YSgzQvQ7cMACLcBGAsYHQ/s135/800-Ash-and-Pikachu-Pokemon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n800/",
+      "fetched_at": "2026-05-16T19:10:34.807Z",
+      "raw_id": "/nendoroid/details/n800/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.510Z",
+      "raw_id": "Nendoroid/0800-0899/800.json"
+    }
+  ]
+}

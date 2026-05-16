@@ -1,0 +1,69 @@
+{
+  "num": "0677",
+  "name": {
+    "en": "Nendoroid Okurikara",
+    "ja": "ねんどろいど 大倶利伽羅 (ねんどろいど おおくりから)",
+    "ko": "오오쿠리카라"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5966,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EvjflGukvS0/X4NP8WVYejI/AAAAAAABl5Q/Ri7tvDMb3OoyEq7F2lUqyqYjvkCz7p-FwCLcBGAsYHQ/s270/677-Okurikara-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EvjflGukvS0/X4NP8WVYejI/AAAAAAABl5Q/Ri7tvDMb3OoyEq7F2lUqyqYjvkCz7p-FwCLcBGAsYHQ/s270/677-Okurikara-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AzsCPcLaJX4/X4i1pxMEOfI/AAAAAAAAs7s/CRjh8_HSQR0C77NdXJtitlzyiNgoi4lJQCLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EoklPDNOwLA/X4i1qODmKnI/AAAAAAAAs7w/KpVw2Lbu36ArqSWZ-NvYayfodvwY0RjGACLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RgyqGZMylWg/X4i1qQjToyI/AAAAAAAAs70/4FeplM_SFGgUB8uPLEvKm0TB5781hfiDgCLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lQesMuvI68Y/X4i1qlVEZ0I/AAAAAAAAs74/GeWDazMB25kdGFIgdWYMZ2G6p8sD3_mowCLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-96L0K0FlDrU/X4i1q8qF2vI/AAAAAAAAs78/QZ4LEdgNgF49BRh8mbuU1dsayM625-rnwCLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6I3J2Znjo0w/X4i1rLnY8DI/AAAAAAAAs8A/dPwBhwIxmuoYBlRrd0Bc8CPSGWjEcC33gCLcBGAsYHQ/s135/677-Okurikara-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n677/",
+      "fetched_at": "2026-05-16T19:10:34.737Z",
+      "raw_id": "/nendoroid/details/n677/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.481Z",
+      "raw_id": "Nendoroid/0600-0699/677.json"
+    }
+  ]
+}

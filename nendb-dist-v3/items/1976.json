@@ -1,0 +1,68 @@
+{
+  "num": "1976",
+  "name": {
+    "en": "Nendoroid Persicaria",
+    "ja": "ねんどろいど ペルシカ (ねんどろいど ぺるしか)",
+    "ko": "페르시카리아"
+  },
+  "series": {
+    "en": "NeuralCloud",
+    "ja": "ニューラルクラウド",
+    "ko": "뉴럴 클라우드",
+    "code": "neuralcloud"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13355,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oWJdNpnsKRc/Y02wKU-FN8I/AAAAAAAA7Ak/VolZZxPJbI0PR8xpvbR6WMer9tL9e6LDQCNcBGAsYHQ/s270/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oWJdNpnsKRc/Y02wKU-FN8I/AAAAAAAA7Ak/VolZZxPJbI0PR8xpvbR6WMer9tL9e6LDQCNcBGAsYHQ/s270/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kxVbAT4HpDM/Y028SldjJTI/AAAAAAAA7Zo/lK63cpelEA4VIDptnDoTDi8a6dlSc_vvwCNcBGAsYHQ/s135/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_osCTYZF9D8/Y028S_VbnsI/AAAAAAAA7Zs/6ke8COixhQwTHxPR7xv4euvtNPNBl_wTACNcBGAsYHQ/s135/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c_tYmZH7Xic/Y028TAFoSvI/AAAAAAAA7Zw/0qouZLtjQjQJOyiTkrhwYMdd-CLevFv2QCNcBGAsYHQ/s135/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_4SfGxZxJ0k/Y028ToX16fI/AAAAAAAA7Z0/dy02kpvdBpoa7qX9NLiW108Xqt5tQxfugCNcBGAsYHQ/s135/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VRtMsT127ts/Y028T4q_i3I/AAAAAAAA7Z4/2jRxi1pGiOMQrZgiPngmkgGBd9gwSrFQgCNcBGAsYHQ/s135/1976-Persicaria-NeuralCloud-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1976/",
+      "fetched_at": "2026-05-16T19:10:33.763Z",
+      "raw_id": "/nendoroid/details/n1976/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.796Z",
+      "raw_id": "Nendoroid/1900-1999/1976.json"
+    }
+  ]
+}

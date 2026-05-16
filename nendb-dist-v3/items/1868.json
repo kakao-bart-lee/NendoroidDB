@@ -1,0 +1,69 @@
+{
+  "num": "1868",
+  "name": {
+    "en": "Nendoroid Lancer/Altria Pendragon (Alter)",
+    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らんさー/あるとりあ・ぺんどらごん〔おるた〕)",
+    "ko": "Fate/Grand Order 랜서 / 알트리아 펜드래곤 얼터"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12568,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fRbT_JmeVEA/Yp4F4SgvVzI/AAAAAAAB6w0/SG8TQFwTtbwQScQxNGITkgdlp7UqNw1pQCNcBGAsYHQ/s270/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fRbT_JmeVEA/Yp4F4SgvVzI/AAAAAAAB6w0/SG8TQFwTtbwQScQxNGITkgdlp7UqNw1pQCNcBGAsYHQ/s270/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-knF10nFiMaY/Yp4hw_-sgvI/AAAAAAAB67E/aO4SOT0PuYM8d39D0u0ultBywKnpSFyuQCNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XsdulQYLzD0/Yp4hw1YsGWI/AAAAAAAB67M/HemnmLpYXs451HhbCVrkBVMVLfSuN_BlwCNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8akQnefHNTw/Yp4hw3uANtI/AAAAAAAB67I/A_R1LGrg0AgfsMMCBpDugR2MCB3cAcZ_gCNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hAx8y6TZYnU/Yp4hxVBUdII/AAAAAAAB67Q/Vs3K8ScZXao4QDZ6Ht-dWxhi8HYHQ_tOACNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q9WAiPJyk88/Yp4hx7E5DuI/AAAAAAAB67U/IGHUQD8hh2snVBWCEoEqC8ZYp3Ir-bmFwCNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-s-aZk18n2AU/Yp4hyLjkNgI/AAAAAAAB67Y/RIorVztiUpgIJoxB9usx_sYtv4bMj7iIwCNcBGAsYHQ/s135/1868-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1868/",
+      "fetched_at": "2026-05-16T19:10:33.698Z",
+      "raw_id": "/nendoroid/details/n1868/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.771Z",
+      "raw_id": "Nendoroid/1800-1899/1868.json"
+    }
+  ]
+}

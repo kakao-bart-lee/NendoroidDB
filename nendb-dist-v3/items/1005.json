@@ -1,0 +1,69 @@
+{
+  "num": "1005",
+  "name": {
+    "en": "Nendoroid Shirotani Tadaomi",
+    "ja": "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
+    "ko": "시로타니 타다오미"
+  },
+  "series": {
+    "en": "TEN COUNT",
+    "ja": "テンカウント",
+    "ko": "텐카운트",
+    "code": "ten-count"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7746,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k2zdZ-z-khE/X4Nfgb0ml9I/AAAAAAABmRU/9iKtj0nsYjYxptCC-fVbpNguNV2B7-T5QCLcBGAsYHQ/s270/1005-Shirotani-Tadaomi-10-Count-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k2zdZ-z-khE/X4Nfgb0ml9I/AAAAAAABmRU/9iKtj0nsYjYxptCC-fVbpNguNV2B7-T5QCLcBGAsYHQ/s270/1005-Shirotani-Tadaomi-10-Count-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tMqw33trI_w/X4rrH11jXjI/AAAAAAABoTk/7K9J5yUXS5guEJ3zo6o6-U810lTrOj_egCLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GVpBmHJ5oQ0/X4rrIIFR64I/AAAAAAABoTo/x-4AYS2VIJcpECDrSC5vn0TqOcGr7zB2QCLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bg9W0YrPcKw/X4rrIcoln-I/AAAAAAABoTs/lIHKrQI7fMUOvrcQZIXPf3UmU347a0ezACLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5MYd_fRSdZI/X4rrIupW-5I/AAAAAAABoTw/ifLpliJLAN4JJrwch9ZRG4HOEyWdiyJ9ACLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jgwEd3Qy64w/X4rrI38hifI/AAAAAAABoT0/zHNjbPpltbYpyp4YAsCMD8z9O2MmhNS7ACLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-MmElGb80c-s/X4rrJLuM1wI/AAAAAAABoT4/PB3Wluk4u7Q9UaLtVIhXv90EvVecjrITgCLcBGAsYHQ/s135/1005-Shirotani-Tadaomi-TEN-COUNT-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1005/",
+      "fetched_at": "2026-05-16T19:10:33.130Z",
+      "raw_id": "/nendoroid/details/n1005/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.562Z",
+      "raw_id": "Nendoroid/1000-1099/1005.json"
+    }
+  ]
+}

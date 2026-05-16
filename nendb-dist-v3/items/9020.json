@@ -1,0 +1,55 @@
+{
+  "num": "9020",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Colorful Coveralls - Red/Blue/Yellow/Lime Green/Purple)",
+    "ja": "ねんどろいどどーる おようふくセット（カラフルつなぎ：あか/あお/きいろ/きみどり/むらさき） (ねんどろいどどーる おようふくせっと（からふるつなぎ：あか/あお/きいろ/きみどり/むらさき）)",
+    "ko": "컬러풀 츠나기(빨강/파랑/노랑/연두/보라)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9020,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191126/9020/65608/large/969f7a5cdb135f9ba450fb1f91235d49.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.942Z",
+      "raw_id": "NendoroidDoll/Clothes/9020.json"
+    }
+  ]
+}

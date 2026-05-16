@@ -1,0 +1,69 @@
+{
+  "num": "1701",
+  "name": {
+    "en": "Nendoroid Hatsune Miku NT",
+    "ja": "ねんどろいど 初音ミク NT (ねんどろいど はつねみく にゅーたいぷ)",
+    "ko": "하츠네 미쿠 NT Ver."
+  },
+  "series": {
+    "en": "Piapro Characters",
+    "ja": "ピアプロキャラクターズ",
+    "ko": "하츠네미쿠",
+    "code": "piapro-characters"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11712,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YGfv6qPp85k/YS6JzNvLa0I/AAAAAAAAz-g/zurWNxWu29YFGY1lCzoAk4z9TG9ihTwRgCLcBGAsYHQ/s270/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YGfv6qPp85k/YS6JzNvLa0I/AAAAAAAAz-g/zurWNxWu29YFGY1lCzoAk4z9TG9ihTwRgCLcBGAsYHQ/s270/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nIf4olCAvQI/YS6NLfkdpSI/AAAAAAAA0PI/AaNpKQpaknAcpBV4fiILMutmr8uPbqE_QCLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y3Zv40OSLes/YS6NLqsEvsI/AAAAAAAA0PM/h9HkHCTuLI4ZzscxiRAkMYPt-EzaWh7EwCLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZiDs84PNFMI/YS6NLxYRzQI/AAAAAAAA0PQ/57nWD3QnBnUcTjrOubdnH7OnfnlzsxgkACLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jcUl9PzdGMo/YS6NMdVPUlI/AAAAAAAA0PU/4lAzXHh6Qa4zsSz1T4ywshC4GqrnSTUqgCLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-K4U-2GLeVc8/YS6NMuFAf4I/AAAAAAAA0PY/POY45Bx7yEQdodbVRofC27pf7EMhtIxHwCLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZpXRWh6DEj8/YS6NM4JsPVI/AAAAAAAA0Pg/oVx8K7ITCvISPdHHgHER0ebRYzEDcxmbgCLcBGAsYHQ/s135/1701-Hatsune-Miku-NT-Piapro-Characters-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1701/",
+      "fetched_at": "2026-05-16T19:10:33.594Z",
+      "raw_id": "/nendoroid/details/n1701/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.730Z",
+      "raw_id": "Nendoroid/1700-1799/1701.json"
+    }
+  ]
+}

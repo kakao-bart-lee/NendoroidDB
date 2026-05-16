@@ -1,0 +1,55 @@
+{
+  "num": "10707",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Japanese-Style Maid - Pink)",
+    "ja": "ねんどろいどどーる おようふくセット 和風メイド 桜色 (ねんどろいどどーる おようふくせっと わふうめいど さくらいろ)",
+    "ko": "일본식 메이드 의상(빨간색)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10707,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210122/10707/80119/large/a339a42b59aba935623aa36bc0a5cbb9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.915Z",
+      "raw_id": "NendoroidDoll/Clothes/10707.json"
+    }
+  ]
+}

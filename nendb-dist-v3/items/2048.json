@@ -1,0 +1,69 @@
+{
+  "num": "2048",
+  "name": {
+    "en": "Nendoroid Reki",
+    "ja": "ねんどろいど 暦 (ねんどろいど れき)",
+    "ko": "칸 레키"
+  },
+  "series": {
+    "en": "SK8 the Infinity",
+    "ja": "SK∞ エスケーエイト",
+    "ko": "SK8 에스케이 에이트",
+    "code": "sk8-the-infinity"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13907,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eM6G-r3l9JU/ZA3d-pgaSxI/AAAAAAAA9J0/Jt38wzKfDAQ9pbe8-TYgsVSZeDkK6mWdACNcBGAsYHQ/s270/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eM6G-r3l9JU/ZA3d-pgaSxI/AAAAAAAA9J0/Jt38wzKfDAQ9pbe8-TYgsVSZeDkK6mWdACNcBGAsYHQ/s270/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xz9_iYVlfGw/ZA3crRm8wPI/AAAAAAAA8-A/vXbtpwFaKHIOqv1_PhWk7eH3O9ow22XqQCNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XNkSDG6FbnA/ZA3crDGhMnI/AAAAAAAA898/fAlJiObqmMYWySAxZjGbSsAtkgc2weDjACNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aDGXwpE8c2w/ZA3crvNjG2I/AAAAAAAA8-E/XcXJ8Rgq13ISmWj1UIXue6OlcS0rpiJ7ACNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nsk8Pk1O7sI/ZA3crm7Q6II/AAAAAAAA8-I/S0HDqqpfJtYiMXchq_iDRNXF8Vy5kA-qACNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9fepB2HSBRE/ZA3crq6t4XI/AAAAAAAA8-M/gfPzPAo6HNQBb2dG-VjtlvfhOeiYYKEzgCNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tuZLdenec4g/ZA3csJb5wrI/AAAAAAAA8-Q/rYB4lPS_HJkeIJzgbecfnh4SKLGdw5dOACNcBGAsYHQ/s135/2048-Reki-SK8-the-Infinity-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2048/",
+      "fetched_at": "2026-05-16T19:10:33.807Z",
+      "raw_id": "/nendoroid/details/n2048/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2048.json"
+    }
+  ]
+}

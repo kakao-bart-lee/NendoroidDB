@@ -1,0 +1,68 @@
+{
+  "num": "0145",
+  "name": {
+    "en": "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)",
+    "ja": "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
+    "ko": "블랙 골드 소"
+  },
+  "series": {
+    "en": "Black Rock Shooter",
+    "ja": "ブラック★ロックシューター",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "black-rock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k02MPIK0bhg/X4NJ9iIRaqI/AAAAAAABlQ0/f9AmV2QkLZI9iD_kyr_FaXVVcgJjztw0wCLcBGAsYHQ/s270/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k02MPIK0bhg/X4NJ9iIRaqI/AAAAAAABlQ0/f9AmV2QkLZI9iD_kyr_FaXVVcgJjztw0wCLcBGAsYHQ/s270/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NXeoR4UZUok/X4dS9VPiJQI/AAAAAAAAp8M/CE-8HPGCoxcKJnhbvmM2IWAAvIUrsuC2wCLcBGAsYHQ/s135/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SVaIZDTCE_s/X4dS941uJqI/AAAAAAAAp8Q/67vbcCRMhVUXDFXUu9ytJMIay7dKlSAvACLcBGAsYHQ/s135/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LoAi4OmF5Uk/X4dS-TuSRyI/AAAAAAAAp8U/Nhg3UWvamCgexP_wIOG7Paa7R-sb7Yu3QCLcBGAsYHQ/s135/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mj8WeRbdQNI/X4dS-gNtV7I/AAAAAAAAp8Y/X4gOmUHcpfQev2tKdgDLE5FrrfJk0Fe3QCLcBGAsYHQ/s135/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rewGU4E59_Q/X4dS-0LiWAI/AAAAAAAAp8g/BfXfucJ1D74M6VFRqhYgGle9dF_6UiVhQCLcBGAsYHQ/s135/145-Black-Gold-Saw-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n145/",
+      "fetched_at": "2026-05-16T19:10:33.444Z",
+      "raw_id": "/nendoroid/details/n145/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.300Z",
+      "raw_id": "Nendoroid/0100-0199/145.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1671",
+  "name": {
+    "en": "Nendoroid Sylvanas Windrunner",
+    "ja": "ねんどろいど シルヴァナス・ウィンドランナー (ねんどろいど しるゔぁなす・うぃんどらんなー)",
+    "ko": "실바나스 윈드런너"
+  },
+  "series": {
+    "en": "World of Warcraft",
+    "ja": "World of Warcraft",
+    "ko": "월드 오브 워크래프트",
+    "code": "world-of-warcraft"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11314,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZkNslTsA0G4/YS6JrDAU88I/AAAAAAAAz8s/np8U2xl6Dpo9fsJ9ZlefjsZqoreywtdfgCLcBGAsYHQ/s270/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZkNslTsA0G4/YS6JrDAU88I/AAAAAAAAz8s/np8U2xl6Dpo9fsJ9ZlefjsZqoreywtdfgCLcBGAsYHQ/s270/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cxdjF2fcBuw/YS6MUF-t5PI/AAAAAAAA0DI/0MyrEbH0e_k6Dn6Vzam71D_B_aFpAkMCgCLcBGAsYHQ/s135/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zoKqIbgBltE/YS6MUfbs9WI/AAAAAAAA0DM/OthcqVGg6SoxsBJ90XsgnGzpoWpmkl-jwCLcBGAsYHQ/s135/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cJS-fch6ZXY/YS6MUZQNVdI/AAAAAAAA0DQ/zqqH97-14aMWF9lEfKrCT-353AQZQxmVQCLcBGAsYHQ/s135/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jJvyj5k1xgc/YS6MUhj4iHI/AAAAAAAA0DU/fz292G2fMUUdzZ3xcgC3xkzMmEpaPjhrwCLcBGAsYHQ/s135/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yZtEjdDK9qo/YS6MUwP6S-I/AAAAAAAA0DY/pna1jxYliwA9xsVOwaS8Otf-9_ub87kuwCLcBGAsYHQ/s135/1671-Sylvanas-Windrunner-World-of-Warcraft-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1671/",
+      "fetched_at": "2026-05-16T19:10:33.573Z",
+      "raw_id": "/nendoroid/details/n1671/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.722Z",
+      "raw_id": "Nendoroid/1600-1699/1671.json"
+    }
+  ]
+}

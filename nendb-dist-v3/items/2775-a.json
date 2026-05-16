@@ -1,0 +1,71 @@
+{
+  "num": "2775-a",
+  "name": {
+    "en": "Good Smile Kuji Hatsune Miku 2025 Autumn A Prize - Nendoroid Hatsune Miku: Glasses x Café Ver.",
+    "ja": "グッスマくじ 初音ミク 2025 Autumn A賞 ねんどろいど 初音ミク めがね✕カフェVer.",
+    "ko": null
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": null,
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "other",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 880,
+  "gtin": "4571697180161",
+  "gsc_product_id": "62068",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/62068",
+    "ja": "https://www.goodsmile.com/ja/product/62068"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62068/4zwG2BxYQmnCSRkcH0ePpKydaFvgXrAs.jpg",
+    "gallery": [
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62068/T2edvmuLAPBr6ZR0xk1Q9JVjzWYKygN5.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62068/4zwG2BxYQmnCSRkcH0ePpKydaFvgXrAs.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/62068",
+      "price_local": 880,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:06:46.581Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/62068",
+      "fetched_at": "2026-05-16T12:06:46.581Z",
+      "raw_id": "62068"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/62068",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "62068"
+    }
+  ]
+}

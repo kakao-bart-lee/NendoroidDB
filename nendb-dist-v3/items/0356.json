@@ -1,0 +1,67 @@
+{
+  "num": "0356",
+  "name": {
+    "en": "Nendoroid Etna (ねんどろいど えとな)",
+    "ja": "ねんどろいど エトナ (ねんどろいど えとな)",
+    "ko": "에트나"
+  },
+  "series": {
+    "en": "Disgaea",
+    "ja": "魔界戦記ディスガイア",
+    "ko": "마계전기 디스가이아",
+    "code": "disgaea"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4001,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PD_k-TDEcy4/X4NM3VwQ0UI/AAAAAAABljA/-BMJn6Un4hs4FHleq2sMt8uX1vAzAXT9QCLcBGAsYHQ/s270/356-Etna-Disagea-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PD_k-TDEcy4/X4NM3VwQ0UI/AAAAAAABljA/-BMJn6Un4hs4FHleq2sMt8uX1vAzAXT9QCLcBGAsYHQ/s270/356-Etna-Disagea-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PSYcD2ijaf4/X4da8UwZsEI/AAAAAAAArFU/C85et8cNow8Ew12w7coBDiUrnFFa_dn0wCLcBGAsYHQ/s135/356-Etna-Disgaea-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WGYkP7ll6cM/X4da8sXRfBI/AAAAAAAArFY/GxIl-1Cfz_QfnJmY9VskBi7UFuRrda33QCLcBGAsYHQ/s135/356-Etna-Disgaea-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-u0Oed1hfEcg/X4da8xeNgqI/AAAAAAAArFc/_vpmdwB4sqAoZspSwxEwZouhGN38-TDowCLcBGAsYHQ/s135/356-Etna-Disgaea-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WX9cG42Yuvc/X4da83JGlxI/AAAAAAAArFg/ZqSV74-Z548tE933HGW_rHQfPTTkKoYkQCLcBGAsYHQ/s135/356-Etna-Disgaea-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n356/",
+      "fetched_at": "2026-05-16T19:10:34.480Z",
+      "raw_id": "/nendoroid/details/n356/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.360Z",
+      "raw_id": "Nendoroid/0300-0399/356.json"
+    }
+  ]
+}

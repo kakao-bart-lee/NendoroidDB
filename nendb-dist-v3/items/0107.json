@@ -1,0 +1,68 @@
+{
+  "num": "0107",
+  "name": {
+    "en": "Nendoroid Feena (ねんどろいど ふぃーな)",
+    "ja": "ねんどろいど フィーナ (ねんどろいど ふぃーな)",
+    "ko": "피나 팜 아슈라이트"
+  },
+  "series": {
+    "en": "Yoake Mae yori Ruriiro na",
+    "ja": "夜明け前より瑠璃色な",
+    "ko": "새벽녘보다 유리색인",
+    "code": "yoake-mae-yori-ruriiro-na"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2814,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Irljm8dOT-o/X4NJrgExY9I/AAAAAAABlOI/y_NWkzyEtbM-2Cq6XoIxI7MKlZZLmuObACLcBGAsYHQ/s270/107-Feena-Yoake%2BMae%2Byori%2BRuriiro%2Bna-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Irljm8dOT-o/X4NJrgExY9I/AAAAAAABlOI/y_NWkzyEtbM-2Cq6XoIxI7MKlZZLmuObACLcBGAsYHQ/s270/107-Feena-Yoake%2BMae%2Byori%2BRuriiro%2Bna-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0TEyM_mKzI8/X4dSBoW7_3I/AAAAAAAApvI/9lmoEK3Wel4J3YnwpoVrJ40qz7CgavVaQCLcBGAsYHQ/s135/107-Feena-Yoake-Mae-yori-Ruriiro-na-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PDD14wfTrFI/X4dSB595RMI/AAAAAAAApvM/ps8ogCwNlPsowMNz1lHgZJzd7fj_VagGQCLcBGAsYHQ/s135/107-Feena-Yoake-Mae-yori-Ruriiro-na-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-g8Hc6bL91WI/X4dSCBWnaGI/AAAAAAAApvQ/WkddfHqOkHMXD27O9DX94PEDiIAjYIq3QCLcBGAsYHQ/s135/107-Feena-Yoake-Mae-yori-Ruriiro-na-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AvfGXd2NWB0/X4dSCXDpLzI/AAAAAAAApvU/1i6mOfPh0lIL-Mw1H91j5JymJPWbHmJCwCLcBGAsYHQ/s135/107-Feena-Yoake-Mae-yori-Ruriiro-na-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WwpkPhJBGwY/X4dSCikSb_I/AAAAAAAApvY/qDxUvSwIIPoibglG5MtURhUUtNtC0hTwwCLcBGAsYHQ/s135/107-Feena-Yoake-Mae-yori-Ruriiro-na-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n107/",
+      "fetched_at": "2026-05-16T19:10:33.206Z",
+      "raw_id": "/nendoroid/details/n107/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.290Z",
+      "raw_id": "Nendoroid/0100-0199/107.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1668",
+  "name": {
+    "en": "Nendoroid Donald Duck",
+    "ja": "ねんどろいど ドナルドダック (ねんどろいど どなるどだっく)",
+    "ko": "도날드 덕"
+  },
+  "series": {
+    "en": "Donald Duck",
+    "ja": "ドナルドダック",
+    "ko": "디즈니 캐릭터",
+    "code": "donald-duck"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11386,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uGv4z09mhyo/YONqRg_iBBI/AAAAAAAAzEk/ymP7dA6OZJob0VGqMKnN_n6WUevpPDpPACLcBGAsYHQ/s270/1668-Donald-Duck-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uGv4z09mhyo/YONqRg_iBBI/AAAAAAAAzEk/ymP7dA6OZJob0VGqMKnN_n6WUevpPDpPACLcBGAsYHQ/s270/1668-Donald-Duck-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RynyG9O_Jrk/YONsS_ovuMI/AAAAAAAAzKk/NYlEpy-9Jp4J26spZg_Rh4zayH_8QBb3wCLcBGAsYHQ/s135/1668-Donald-Duck-Donald-Duck-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vaWW9hQ0hgg/YONsSx0WcyI/AAAAAAAAzKo/3mhaOujMWsEnkFRwAlVYm_GS-4wm3_lFQCLcBGAsYHQ/s135/1668-Donald-Duck-Donald-Duck-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1R0oH1qBHSs/YONsTOQGeqI/AAAAAAAAzKs/ykk82wP6rXAkYfPdynZ4h5dEUDCfgVHHACLcBGAsYHQ/s135/1668-Donald-Duck-Donald-Duck-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2YAFNmXQjQg/YONsTZIWjMI/AAAAAAAAzKw/TYvJZKE5r3oN8mxIUCow7rQzyEtuxYaGACLcBGAsYHQ/s135/1668-Donald-Duck-Donald-Duck-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2w7Z7i-TN-4/YONsTqIy0lI/AAAAAAAAzK0/q82X9jHAQewuuYV9ZAZWiBZk6jlQlcPsQCLcBGAsYHQ/s135/1668-Donald-Duck-Donald-Duck-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1668/",
+      "fetched_at": "2026-05-16T19:10:33.570Z",
+      "raw_id": "/nendoroid/details/n1668/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.722Z",
+      "raw_id": "Nendoroid/1600-1699/1668.json"
+    }
+  ]
+}

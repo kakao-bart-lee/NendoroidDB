@@ -1,0 +1,67 @@
+{
+  "num": "0175",
+  "name": {
+    "en": "Nendoroid Madoka Kaname: School Uniform Ver. (ねんどろいど かなめまどか せいふくVer.)",
+    "ja": "ねんどろいど 鹿目まどか 制服Ver. (ねんどろいど かなめまどか せいふくVer.)",
+    "ko": "카나메 마도카 교복 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3199,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GEdh4685YhI/X4NKGuJ9_SI/AAAAAAABlS4/6ZN8Ce3VCbo31DPOf8uqvFfgpzz7icznQCLcBGAsYHQ/s270/175-Kaname-Madoka-School-Uniform-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GEdh4685YhI/X4NKGuJ9_SI/AAAAAAABlS4/6ZN8Ce3VCbo31DPOf8uqvFfgpzz7icznQCLcBGAsYHQ/s270/175-Kaname-Madoka-School-Uniform-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DzVYU5f1OX8/X4dTvKTz7dI/AAAAAAAAqHs/d6hdRSotCKE8phtip9Vd6CyP_gEYY_HHACLcBGAsYHQ/s135/175-Kaname-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SB3SJvu6QAQ/X4dTvh7XvUI/AAAAAAAAqHw/Uxgg9hLw-lgRQcx1FeRnaVu6JvbNMcBbwCLcBGAsYHQ/s135/175-Kaname-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aX_uKE9vAnw/X4dTwHHP3QI/AAAAAAAAqH0/041DreCyqasfVKLztnleqnZuqUxpR07lgCLcBGAsYHQ/s135/175-Kaname-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5Fg53Zb8qNM/X4dTwq73JwI/AAAAAAAAqH4/yRvmQnHP0k0cvo045DXlOBbxTeCSxYjEgCLcBGAsYHQ/s135/175-Kaname-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n175/",
+      "fetched_at": "2026-05-16T19:10:33.630Z",
+      "raw_id": "/nendoroid/details/n175/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.309Z",
+      "raw_id": "Nendoroid/0100-0199/175.json"
+    }
+  ]
+}

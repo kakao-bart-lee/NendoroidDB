@@ -1,0 +1,68 @@
+{
+  "num": "1069",
+  "name": {
+    "en": "Nendoroid Yami Yugi",
+    "ja": "ねんどろいど 闇遊戯 (ねんどろいど やみゆうぎ)",
+    "ko": "어둠의 유우기"
+  },
+  "series": {
+    "en": "Yu-Gi-Oh!",
+    "ja": "遊☆戯☆王デュエルモンスターズ",
+    "ko": "유희왕",
+    "code": "yu-gi-oh"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7982,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8xqTTcBZtwg/X4Nf1to6G2I/AAAAAAABmVs/4F-_kRTAMiMr1KGWrfiOMjaCTiXeL57kACLcBGAsYHQ/s270/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8xqTTcBZtwg/X4Nf1to6G2I/AAAAAAABmVs/4F-_kRTAMiMr1KGWrfiOMjaCTiXeL57kACLcBGAsYHQ/s270/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O4J-hh7p1QM/X4rsyTuJ8QI/AAAAAAABorw/JVKDG3amAiQ8oVHu5hO8_kM1tkSMHkEvQCLcBGAsYHQ/s135/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-o_jcSGp2toM/X4rsyYJHAWI/AAAAAAABor0/kkl5V9x2TKcaNPSGF6ykDp0Ds52TzUGpwCLcBGAsYHQ/s135/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IS0DWIXDqZY/X4rsy2dbPOI/AAAAAAABor4/Xgx85KyXsaQ9ZncITSc1ukIJ3n-icYzHACLcBGAsYHQ/s135/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wXrXo3jFzHQ/X4rszFPO5PI/AAAAAAABor8/6ZOM5am0UccHGoHHrwmtrQ37VtgRCMVDACLcBGAsYHQ/s135/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CfEaor-wg6I/X4rszXzK8WI/AAAAAAABosA/J-Spqpv6Ap0IYl3Jijxfu_GSnEaXFjhLgCLcBGAsYHQ/s135/1069-Yami-Yugi-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1069/",
+      "fetched_at": "2026-05-16T19:10:33.197Z",
+      "raw_id": "/nendoroid/details/n1069/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.577Z",
+      "raw_id": "Nendoroid/1000-1099/1069.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0826",
+  "name": {
+    "en": "Nendoroid Yunyun",
+    "ja": "ねんどろいど ゆんゆん",
+    "ko": "융융"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6720,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LmkOSb4esiI/X4NdwS6abEI/AAAAAAABmEQ/Ohy408Gs7Okm3XyzgffEmYHPNGbdfGmogCLcBGAsYHQ/s270/826-Yunyun-Kono-Subarashii-Sekai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LmkOSb4esiI/X4NdwS6abEI/AAAAAAABmEQ/Ohy408Gs7Okm3XyzgffEmYHPNGbdfGmogCLcBGAsYHQ/s270/826-Yunyun-Kono-Subarashii-Sekai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yxTnMLZWjKU/X4rigiX9vRI/AAAAAAABnIg/aYsh_o3FUkEp1oW7FFuRz3m-952hU_tQACLcBGAsYHQ/s135/826-Yunyun-Kono-Subarashii-Sekai-ni-Syukufuku-wo-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sFXzz4ZY0Gk/X4rihANGwgI/AAAAAAABnIk/tIPidjLIStA09r0NtolEGFm38uezZjA7wCLcBGAsYHQ/s135/826-Yunyun-Kono-Subarashii-Sekai-ni-Syukufuku-wo-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oECaV17rS_I/X4rihu8MGeI/AAAAAAABnIo/eR0bWIY-kEwpCm7riN5Ssw2WCpNLqS0OwCLcBGAsYHQ/s135/826-Yunyun-Kono-Subarashii-Sekai-ni-Syukufuku-wo-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CwzmpTPEm4M/X4rih5vvc0I/AAAAAAABnIs/MEdOBErEZFcbZisnN0E7ZyI5_RwiJXFPACLcBGAsYHQ/s135/826-Yunyun-Kono-Subarashii-Sekai-ni-Syukufuku-wo-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PwqMYJVNCkY/X4rih3qLi1I/AAAAAAABnIw/F3JSPSuzOrc3JML1PcfTqeLxrkIsTEPxgCLcBGAsYHQ/s135/826-Yunyun-Kono-Subarashii-Sekai-ni-Syukufuku-wo-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n826/",
+      "fetched_at": "2026-05-16T19:10:34.821Z",
+      "raw_id": "/nendoroid/details/n826/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.516Z",
+      "raw_id": "Nendoroid/0800-0899/826.json"
+    }
+  ]
+}

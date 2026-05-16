@@ -1,0 +1,70 @@
+{
+  "num": "1833",
+  "name": {
+    "en": "Nendoroid Ruggie Bucchi",
+    "ja": "ねんどろいど ラギー・ブッチ (ねんどろいど らぎー・ぶっち)",
+    "ko": "라기부치"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12345,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EYLjD0X9ebY/YliMh7fA5iI/AAAAAAAA5Lc/UeZRp1nLPhQ81DqaXgfCgIa71tMnzSVZwCNcBGAsYHQ/s270/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EYLjD0X9ebY/YliMh7fA5iI/AAAAAAAA5Lc/UeZRp1nLPhQ81DqaXgfCgIa71tMnzSVZwCNcBGAsYHQ/s270/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1ESj2C3Bk3s/YliVQk97ZvI/AAAAAAAA5R8/jCDLxjoIxpQ7oBvtcOgypb9nWBZQ9RuQwCNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xrwLcBszkbs/YliVRCuOsUI/AAAAAAAA5SA/EeKoxtm0Iisryc9qI141X2gagRGAHjcuQCNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ORB2TPddCqE/YliVRbKHT-I/AAAAAAAA5SE/22T3KG9NyMUURfHik--H0yH8yjYCiAYUQCNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Oc0Tf9eN_JQ/YliVRlytedI/AAAAAAAA5SI/07fsmq5i_IgkuqilViyeVk_Z865zzWALACNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Nbv4Qgjy8Uk/YliVR-FvxHI/AAAAAAAA5SM/78wLUfXgPfgt_pJhIWDpYEXJuGCFlXUsACNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JNdiS6ESJgA/YliVSGIuvoI/AAAAAAAA5SQ/dPFUqNQ32jI10sWINBsqee1co29tpAy7wCNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Vjmt2-XbdbU/YliVSUVzGzI/AAAAAAAA5SU/RFSdPvBz1VQLFZOBSD8mgQyx7we1xKwygCNcBGAsYHQ/s135/1833-Ruggie-Bucchi-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1833/",
+      "fetched_at": "2026-05-16T19:10:33.675Z",
+      "raw_id": "/nendoroid/details/n1833/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.763Z",
+      "raw_id": "Nendoroid/1800-1899/1833.json"
+    }
+  ]
+}

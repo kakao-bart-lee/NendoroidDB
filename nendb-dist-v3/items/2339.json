@@ -1,0 +1,64 @@
+{
+  "num": "2339",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Snow Miku",
+    "ja": null,
+    "ko": null,
+    "code": "snow-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S2uBjFV97dQ/Zcqepq-ayMI/AAAAAAABDYA/CBzIzkEb-ZgxM6bdyxot9eetfY6ZaHd0QCNcBGAsYHQ/s270/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S2uBjFV97dQ/Zcqepq-ayMI/AAAAAAABDYA/CBzIzkEb-ZgxM6bdyxot9eetfY6ZaHd0QCNcBGAsYHQ/s270/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8frQw6R7Dq4/ZoxB9h0ObVI/AAAAAAABGSk/6s-tLHaQTC0AL9E2QJQfiwH-470PiNcMwCNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-A0jLFmdvlAo/ZoxB-Oe_7OI/AAAAAAABGSs/WXWuegYmbGIqH08OmGbOzDBG6hEBsIIhwCNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_QRh5nZhXCg/ZoxB-Zt8xFI/AAAAAAABGSw/t2bS8PnOxQgj0o-EJ_NuUlCyGu0hcQiNQCNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SNm2gWKmtgc/ZoxB-pjPzBI/AAAAAAABGS0/GklYyVa4FokDjbOMfp9RDlGbLzqw0miHQCNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xb9-zlZqPto/ZoxB-hGNskI/AAAAAAABGS4/K6vdG6cVMJEam0ZDo0oPold8u6EvapEFACNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RgTe6UsBjJ4/ZoxB_FxaHtI/AAAAAAABGTE/3USQtbA37qsPc-e8HiVSMxSRDVXUQTkIACNcBGAsYHQ/s135/2339-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2339/",
+      "fetched_at": "2026-05-16T19:10:33.996Z",
+      "raw_id": "/nendoroid/details/n2339/"
+    }
+  ]
+}

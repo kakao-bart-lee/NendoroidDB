@@ -1,0 +1,68 @@
+{
+  "num": "1308",
+  "name": {
+    "en": "Nendoroid Mira Konohata",
+    "ja": "ねんどろいど 木ノ幡みら (ねんどろいど このはたみら)",
+    "ko": "코노하타 미라"
+  },
+  "series": {
+    "en": "Asteroid in Love",
+    "ja": "恋する小惑星",
+    "ko": "사랑하는 소행성",
+    "code": "asteroid-in-love"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9375,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Q-I6mezsmCI/X4Nji9KoS3I/AAAAAAABmzY/caxXI3409XIdBoGNkx59iN0DoKINic5QQCLcBGAsYHQ/s270/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Q-I6mezsmCI/X4Nji9KoS3I/AAAAAAABmzY/caxXI3409XIdBoGNkx59iN0DoKINic5QQCLcBGAsYHQ/s270/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZqUL1rl9u9Y/X4s8jq9CRkI/AAAAAAABqSU/blijlMcidsQWzJKlEhEMpvar3ZHNaXeOACLcBGAsYHQ/s135/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-91GO1xNHq9E/X4s8jyXmWJI/AAAAAAABqSY/vpQIc7zIzBIEp3bA9fOQD28Ie8EXYek2QCLcBGAsYHQ/s135/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A9L5WZE0Mn8/X4s8kBbcRfI/AAAAAAABqSc/itHJWnNEpRkVdgAKNjFbhSyY3Tp8kqaeQCLcBGAsYHQ/s135/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qJO-rH-vkxc/X4s8kYtX9-I/AAAAAAABqSg/OymAcv3IguIFYz7o8v7VUJvIiDuhgvJjACLcBGAsYHQ/s135/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q67cLV7NSOc/X4s8kgoJwUI/AAAAAAABqSk/RyRC-aedLiIyS310QUHwc9StLTQSW_MSgCLcBGAsYHQ/s135/1308-Mira-Konohata-Asteroid-in-Love-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1308/",
+      "fetched_at": "2026-05-16T19:10:33.348Z",
+      "raw_id": "/nendoroid/details/n1308/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.634Z",
+      "raw_id": "Nendoroid/1300-1399/1308.json"
+    }
+  ]
+}

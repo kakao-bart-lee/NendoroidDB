@@ -1,0 +1,55 @@
+{
+  "num": "13573",
+  "name": {
+    "en": "Nendoroid Doll Wu Xie: Seeking Till Found Ver.",
+    "ja": "ねんどろいどどーる 呉邪 墨脱尋故Ver. (ねんどろいどどーる ごじゃ めとくじんこVer.)",
+    "ko": "옥사 묵탈심고 Ver."
+  },
+  "series": {
+    "en": "TIME RAIDERS",
+    "ja": "盗墓筆記",
+    "ko": "도묘필기",
+    "code": "time-raiders"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13573,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221118/13573/107464/large/f5294d7f6f877052bb5a0bdc58f93601.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.963Z",
+      "raw_id": "NendoroidDoll/Doll/13573.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2125",
+  "name": {
+    "en": "Nendoroid David",
+    "ja": "ねんどろいど デイビッド (ねんどろいど でいびっど)",
+    "ko": "데이비드"
+  },
+  "series": {
+    "en": "Cyberpunk: Edgerunners",
+    "ja": "サイバーパンク エッジランナーズ",
+    "ko": "사이버펑크: 엣지러너",
+    "code": "cyberpunk-edgerunners"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14264,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-o-sK-SBsAto/ZFqWbRqGeDI/AAAAAAAA9zg/1la2LvFhQUAAsmjYw-sgg6wH0md8Qqp9wCNcBGAsYHQ/s270/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-o-sK-SBsAto/ZFqWbRqGeDI/AAAAAAAA9zg/1la2LvFhQUAAsmjYw-sgg6wH0md8Qqp9wCNcBGAsYHQ/s270/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qJJfKizNrl4/ZFqb6e9K1EI/AAAAAAAA98U/uvdXbsXLFH8UislNs1jfHS2aDf6CqLGfQCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FcCSkPBOUNU/ZFqb6TNszdI/AAAAAAAA98Y/3jrqLTp796Ykr5kPB4fzq-7SjqLDoLxhgCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-msJUJ_4GA5U/ZFqb6gG74LI/AAAAAAAA98c/dS-FWrNIi7EwG-CpnSZwjW4AVS-st9X2QCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oQjHA9frz98/ZFqb68PX6vI/AAAAAAAA98g/g_FevSgwnZUB2bmUzBFLV6byh3TsngTwQCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-73LcQECCdnY/ZFqb6xaHdmI/AAAAAAAA98k/clrI96-WRJ8gh2rE-6N48iLhb4bW1yYygCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nW1_fCM9MVo/ZFqb7OMxcUI/AAAAAAAA98o/McxpzSvDVVInnx0qNDNCD6vkGes58ZS_ACNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-qKvAvxIi3tA/ZFqb7BZ917I/AAAAAAAA98s/KcRiBaY9jp4wpsj5mWIEpsWFN9oESuW_gCNcBGAsYHQ/s135/2125-David-Cyberpunk-Edgerunners-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2125/",
+      "fetched_at": "2026-05-16T19:10:33.854Z",
+      "raw_id": "/nendoroid/details/n2125/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.832Z",
+      "raw_id": "Nendoroid/2100-2199/2125.json"
+    }
+  ]
+}

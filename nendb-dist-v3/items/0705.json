@@ -1,0 +1,69 @@
+{
+  "num": "0705",
+  "name": {
+    "en": "Nendoroid Katsuki Bakugo: Hero's Edition",
+    "ja": "ねんどろいど 爆豪勝己 ヒーローズ・エディション (ねんどろいど ばくごうかつき ひーろーず・えでぃしょん)",
+    "ko": "바쿠고 카츠키 히어로즈 에디션"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6107,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gcwgvhPF8Mc/X4NcypX6KYI/AAAAAAABl7o/HIdJFdiX1G0RadmLkgdcYdW3HEgeFNxewCLcBGAsYHQ/s270/705-Katsuki-Bakugo-Heros-Edition-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gcwgvhPF8Mc/X4NcypX6KYI/AAAAAAABl7o/HIdJFdiX1G0RadmLkgdcYdW3HEgeFNxewCLcBGAsYHQ/s270/705-Katsuki-Bakugo-Heros-Edition-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TbfrQUC_yzI/X4i3YLj9tMI/AAAAAAAAtIE/P9HLc1jS2ks5yTV4HoqySFDCtyYwGfHowCLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-p9kiMC5sRvI/X4i3YWcZvNI/AAAAAAAAtII/NqDMDChuzb81do6C8VzAbOWvkTX2rYWygCLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2L93CYipXg8/X4i3YvtqoUI/AAAAAAAAtIM/e7QXV_jUOtQ0SpXmCT5ov-wfnPP8o8LlACLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-50EEF30IK00/X4i3Y3HpWRI/AAAAAAAAtIQ/Q8sEOHEXk5sLXXKBnYVw5bDVPN2UNIHKgCLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ez1cbR3GYRM/X4i3ZNf5PrI/AAAAAAAAtIU/yhhqxV56SdolMCgTbT0FByYw4apMJ--zACLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AudbfT9-tuk/X4i3ZdB7v6I/AAAAAAAAtIY/qwB-XF2UIzwqE3MjjMIes0NjkINwcVxFACLcBGAsYHQ/s135/705-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n705/",
+      "fetched_at": "2026-05-16T19:10:34.752Z",
+      "raw_id": "/nendoroid/details/n705/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.488Z",
+      "raw_id": "Nendoroid/0700-0799/705.json"
+    }
+  ]
+}

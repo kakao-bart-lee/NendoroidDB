@@ -1,0 +1,68 @@
+{
+  "num": "1912",
+  "name": {
+    "en": "Nendoroid Arsnotoria",
+    "ja": "ねんどろいど アルスノトリア (ねんどろいど あるすのとりあ)",
+    "ko": "아르스노토리아"
+  },
+  "series": {
+    "en": "Smile of the Arsnotoria",
+    "ja": "咲う アルスノトリア",
+    "ko": "웃는 아르스노토리아",
+    "code": "smile-of-the-arsnotoria"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-20D-SuLr6N8/Yw_WQ31pLbI/AAAAAAAA6aI/tW6dkzb-ty47epLUtY-XZwCbqfvrFMXwgCNcBGAsYHQ/s270/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-20D-SuLr6N8/Yw_WQ31pLbI/AAAAAAAA6aI/tW6dkzb-ty47epLUtY-XZwCbqfvrFMXwgCNcBGAsYHQ/s270/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EcMHl3yk3Fo/YxEXSHnVQGI/AAAAAAAA6n8/1Hzrg9kQk7MPOMFgINpuyMt1L5UgI0aEACNcBGAsYHQ/s135/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uUDGT15pmTA/YxEXSquNusI/AAAAAAAA6oA/1oiZsPBayScEY4yJWUNdOvwuo_hvY9bGACNcBGAsYHQ/s135/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dtSNc24lB8I/YxEXTKN7WCI/AAAAAAAA6oE/_156XUoJ8RAy3oQ_bDH7VrWNG9nzLeJtQCNcBGAsYHQ/s135/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q-mh5l4b9eo/YxEXTiEkN0I/AAAAAAAA6oI/IS-7BQ3j2jALUl1ISijf4ePb-uyhNadwACNcBGAsYHQ/s135/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ytY96_6bK-s/YxEXUCTOI4I/AAAAAAAA6oM/l0ab9OkgusYyZusfYmpfo3ruk-tD21etACNcBGAsYHQ/s135/1912-Arsnotoria-Smile-of-the-Arsnotoria-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1912/",
+      "fetched_at": "2026-05-16T19:10:33.726Z",
+      "raw_id": "/nendoroid/details/n1912/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.781Z",
+      "raw_id": "Nendoroid/1900-1999/1912.json"
+    }
+  ]
+}

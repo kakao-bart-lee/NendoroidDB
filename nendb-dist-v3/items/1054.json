@@ -1,0 +1,68 @@
+{
+  "num": "1054",
+  "name": {
+    "en": "Nendoroid Riko",
+    "ja": "ねんどろいど リコ (ねんどろいど りこ)",
+    "ko": "리코"
+  },
+  "series": {
+    "en": "Made in Abyss",
+    "ja": "メイドインアビス",
+    "ko": "메이드 인 어비스",
+    "code": "made-in-abyss"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7904,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lrLU_VlpVaA/X4NfvgVkpJI/AAAAAAABmUs/_d1Jyn7KjTkl8hNqwAmevF8VijHF4HPrwCLcBGAsYHQ/s270/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lrLU_VlpVaA/X4NfvgVkpJI/AAAAAAABmUs/_d1Jyn7KjTkl8hNqwAmevF8VijHF4HPrwCLcBGAsYHQ/s270/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Md5OZdUY4Sg/X4rsaKy8A7I/AAAAAAABomI/EKeyoAVV57cSK8xRTY9ybB23LjDaLJXxACLcBGAsYHQ/s135/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SES90Nymz6g/X4rsaa7bHcI/AAAAAAABomM/NOmopKD_-NgjHjNRN4wsmDiJoXJR_46UACLcBGAsYHQ/s135/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jGwniBkLNkM/X4rsaol3nYI/AAAAAAABomQ/vRnpmXlLLIgIEkOrH1TmhgS4Bz5YYlbRACLcBGAsYHQ/s135/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FUF59FPNakg/X4rsaz301UI/AAAAAAABomU/AnYkeVV2TdQdNi4rO98euBndiZvzeUhiQCLcBGAsYHQ/s135/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-m_-baL6jn58/X4rsbOeU3_I/AAAAAAABomY/_I7WZfAS_TAiA5vP-k47rjkgPX3_lFiGgCLcBGAsYHQ/s135/1054-Riko-Made-in-Abyss-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1054/",
+      "fetched_at": "2026-05-16T19:10:33.180Z",
+      "raw_id": "/nendoroid/details/n1054/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.574Z",
+      "raw_id": "Nendoroid/1000-1099/1054.json"
+    }
+  ]
+}

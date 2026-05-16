@@ -1,0 +1,67 @@
+{
+  "num": "0283",
+  "name": {
+    "en": "Nendoroid Asuna (ねんどろいど あすな)",
+    "ja": "ねんどろいど アスナ (ねんどろいど あすな)",
+    "ko": "아스나"
+  },
+  "series": {
+    "en": "Sword Art Online",
+    "ja": "ソードアート・オンライン",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3710,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cVihzIJfwlw/X4NLZ-zFpTI/AAAAAAABlag/NiXhnVZg47si3RcFCnPHrdPDjhDce8GgQCLcBGAsYHQ/s270/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cVihzIJfwlw/X4NLZ-zFpTI/AAAAAAABlag/NiXhnVZg47si3RcFCnPHrdPDjhDce8GgQCLcBGAsYHQ/s270/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dI0vELI_QXY/X4dYT5z9z7I/AAAAAAAAqrM/Wp4EAdnaf6szIEmXHESSsD3O2hb-lhdSQCLcBGAsYHQ/s135/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l4QY_TF9NLg/X4dYUUcSP0I/AAAAAAAAqrQ/F74KlhCGxWoYcND8lMFwBnxQvzCY28Y1QCLcBGAsYHQ/s135/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WAYqzsqqVME/X4dYU--pwII/AAAAAAAAqrU/-9DXe-sIf7sfmQEgcjT4-ixcVJ9PLqU0ACLcBGAsYHQ/s135/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AqPWiMj07HE/X4dYVVZznII/AAAAAAAAqrY/3ttVNDUXA4EnRpR5KbPoR_z4W3UfsHb1gCLcBGAsYHQ/s135/283-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n283/",
+      "fetched_at": "2026-05-16T19:10:34.343Z",
+      "raw_id": "/nendoroid/details/n283/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.341Z",
+      "raw_id": "Nendoroid/0200-0299/283.json"
+    }
+  ]
+}

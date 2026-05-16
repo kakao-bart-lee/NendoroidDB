@@ -1,0 +1,68 @@
+{
+  "num": "0983",
+  "name": {
+    "en": "Nendoroid Mirai Akari",
+    "ja": "ねんどろいど ミライアカリ (ねんどろいど みらいあかり)",
+    "ko": "미라이 아카리"
+  },
+  "series": {
+    "en": "Mirai Akari Project",
+    "ja": "ミライアカリプロジェクト",
+    "ko": "버츄얼 유튜버",
+    "code": "mirai-akari-project"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7564,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bCoSnen9gpc/X4Ne1-eecHI/AAAAAAABmPE/oP9xmWWwNigskY8y0CL9FM6_GP52EM75ACLcBGAsYHQ/s270/983-Mirai-Akari-Project-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bCoSnen9gpc/X4Ne1-eecHI/AAAAAAABmPE/oP9xmWWwNigskY8y0CL9FM6_GP52EM75ACLcBGAsYHQ/s270/983-Mirai-Akari-Project-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ghWevcwVZ9w/X4rpaCoB3kI/AAAAAAABoHg/ndLtY_KM3_4CCxGVbgUU8ZfVXt150z_zwCLcBGAsYHQ/s135/983-Mirai-Akari-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v68_9Kzlndk/X4rpaeH5LBI/AAAAAAABoHk/sKhufZS4WbYdr0wF9wuhzV8OwKqOQVpSACLcBGAsYHQ/s135/983-Mirai-Akari-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-s_Detd70DNs/X4rpaulpBKI/AAAAAAABoHo/_T6z66Re20oUAVTA6uelEnuu8tTZIOd3QCLcBGAsYHQ/s135/983-Mirai-Akari-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UZ8zLnbd2Hg/X4rpa1XlZwI/AAAAAAABoHs/M--eVjdLdhAzD-e5kStiITbT4DSoCwf_ACLcBGAsYHQ/s135/983-Mirai-Akari-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jcpyt3eZQgY/X4rpbCJajqI/AAAAAAABoHw/zMvNUcoIsbYTTQPmaVN-GdchzjBwoa_mgCLcBGAsYHQ/s135/983-Mirai-Akari-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n983/",
+      "fetched_at": "2026-05-16T19:10:34.909Z",
+      "raw_id": "/nendoroid/details/n983/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.556Z",
+      "raw_id": "Nendoroid/0900-0999/983.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1115",
+  "name": {
+    "en": "Nendoroid Kizuna AI: A.I.Channel 2019 Ver.",
+    "ja": "ねんどろいど キズナアイ A.I.Channel 2019Ver. (ねんどろいど きずなあい あいちゃんねる 2019Ver.)",
+    "ko": "키즈나 아이 A.I.Channel 2019 Ver."
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8213,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HjYZdeXe4-M/X4NgVWC0c1I/AAAAAAABmZc/nuCnlUM4NNU56K7V5OBCDSpHECIOOvCoACLcBGAsYHQ/s270/1115-Kizuna-AI-2019-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HjYZdeXe4-M/X4NgVWC0c1I/AAAAAAABmZc/nuCnlUM4NNU56K7V5OBCDSpHECIOOvCoACLcBGAsYHQ/s270/1115-Kizuna-AI-2019-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E8nAdgNIVnM/X4rvrD5RKUI/AAAAAAABo_0/XdQPh5e0-vEED8J4Pv6xQrlhQRzHy16eACLcBGAsYHQ/s135/1115-Kizuna-AI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mvvlmoRY1UY/X4rvreZPWXI/AAAAAAABo_4/0TDp0ZYtA7ocOGSFgbVWVpIQ-JVIAfrWQCLcBGAsYHQ/s135/1115-Kizuna-AI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SU-yA3WkAuQ/X4rvr8lfXnI/AAAAAAABpAA/CUtV4UM5-3ciAp-rYvOQzVPoVITHOO3twCLcBGAsYHQ/s135/1115-Kizuna-AI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sOnpkCxoshQ/X4rvrwdBR6I/AAAAAAABo_8/txkeCnUrlMgj36RxKnQxNcuefh-Qe0cbQCLcBGAsYHQ/s135/1115-Kizuna-AI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WCu131WFGbg/X4rvsbDNWAI/AAAAAAABpAE/jKFHMye1OOww3B6CJhN4fVZnGXRiDEoWgCLcBGAsYHQ/s135/1115-Kizuna-AI-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1115/",
+      "fetched_at": "2026-05-16T19:10:33.230Z",
+      "raw_id": "/nendoroid/details/n1115/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.588Z",
+      "raw_id": "Nendoroid/1100-1199/1115.json"
+    }
+  ]
+}

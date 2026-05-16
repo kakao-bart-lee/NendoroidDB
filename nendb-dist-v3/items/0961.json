@@ -1,0 +1,69 @@
+{
+  "num": "0961",
+  "name": {
+    "en": "Nendoroid Harley Quinn: Sengoku Edition",
+    "ja": "ねんどろいど ハーレイ・クイン センゴク・エディション (ねんどろいど はーれい・くいん せんごく・えでぃしょん )",
+    "ko": "할리퀸 센코쿠 에디션"
+  },
+  "series": {
+    "en": "Batman Ninja",
+    "ja": "ニンジャバットマン",
+    "ko": "닌자 배트맨",
+    "code": "batman-ninja"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7410,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5bmfrN-iZcU/X4Net8RqOFI/AAAAAAABmNk/ralXnGotlFIbrZY9_mbbBzwbXjKYe20YACLcBGAsYHQ/s270/961-Harley-Quinn-Sengoku-Edition-Ninja-Edition-Batman-Ninja-DC-Comics-Cartoon-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5bmfrN-iZcU/X4Net8RqOFI/AAAAAAABmNk/ralXnGotlFIbrZY9_mbbBzwbXjKYe20YACLcBGAsYHQ/s270/961-Harley-Quinn-Sengoku-Edition-Ninja-Edition-Batman-Ninja-DC-Comics-Cartoon-1.jpg",
+      "https://1.bp.blogspot.com/-Hle-KyUMB-A/X4ro1tWp_CI/AAAAAAABn_U/nrLP6YQAHzAfyb3uRGqv2oJNUUmu_VAQgCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4-d8e9JX_Ds/X4ro1x3YoWI/AAAAAAABn_Y/0-TSBiJv_y0ogdLAD9iBM-if7_DKVYTZQCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-msCkrToPIuM/X4ro2BLaGeI/AAAAAAABn_c/5_u2zePiSA0GzIid4r0W0Rk3ujBXxGOdgCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wbqlJmYEcZc/X4ro2S4fybI/AAAAAAABn_g/hbUuqIVfSfsr1r0VqJ-Epy_uz0DhTxc5QCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Q9VP-eDtcZg/X4ro2oHZfUI/AAAAAAABn_k/zf2BLfJjnG0ShZ6BPfToxSSozE3Ly5F7QCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8T8rmUFM8GA/X4ro262MKEI/AAAAAAABn_o/isW2siWtOVIUYIqYR40W-S70NuiYEq0wgCLcBGAsYHQ/s135/961-Harley-Quinn-Batman-Ninja-DC-Comics-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n961/",
+      "fetched_at": "2026-05-16T19:10:34.897Z",
+      "raw_id": "/nendoroid/details/n961/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.549Z",
+      "raw_id": "Nendoroid/0900-0999/961.json"
+    }
+  ]
+}

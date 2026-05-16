@@ -1,0 +1,63 @@
+{
+  "num": "2477",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Racing Miku",
+    "ja": null,
+    "ko": null,
+    "code": "racing-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uetuPQYGe18/Zj_ivabXlDI/AAAAAAABEZo/zgP9z0CtHIgNphk66eWv31UHCHS9W7segCNcBGAsYHQ/s270/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uetuPQYGe18/Zj_ivabXlDI/AAAAAAABEZo/zgP9z0CtHIgNphk66eWv31UHCHS9W7segCNcBGAsYHQ/s270/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CwPl9ltJruM/Zow5fmcfaqI/AAAAAAABF3c/Vzu56fDqefIqqloEnhrqxc8hR_a6w7-aQCNcBGAsYHQ/s135/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DkVYQiWsUpA/Zow5gMCFcMI/AAAAAAABF3g/yn1JdNGmHFc4bf2dM_pXybEMTuqPa-CrgCNcBGAsYHQ/s135/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5cmyqSO04Z4/Zow5gkX83TI/AAAAAAABF3k/Lfo310OUMXwsBdhDNVZLHi3S-H03DJ4MwCNcBGAsYHQ/s135/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1GCUpfweVEU/Zow5hKihO2I/AAAAAAABF3o/ixRWhsqYmsUVMTZPmhaCwg_nHmoI4fzvQCNcBGAsYHQ/s135/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hTJ598iIc4c/Zow5hrp049I/AAAAAAABF3s/2aVoecoD_K4wchw5hUAEzN4GwkaT5K-dACNcBGAsYHQ/s135/2477-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2477/",
+      "fetched_at": "2026-05-16T19:10:34.083Z",
+      "raw_id": "/nendoroid/details/n2477/"
+    }
+  ]
+}

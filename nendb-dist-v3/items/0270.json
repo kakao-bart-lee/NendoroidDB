@@ -1,0 +1,68 @@
+{
+  "num": "0270",
+  "name": {
+    "en": "Nendoroid Hakase (ねんどろいど はかせ)",
+    "ja": "ねんどろいど はかせ (ねんどろいど はかせ)",
+    "ko": "박사"
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": "日常",
+    "ko": "일상",
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VQ0v7AnhFCg/X4NLWs_cfkI/AAAAAAABlZs/rEB86vJr-bwACdd5R-cfTk1b4omD672XwCLcBGAsYHQ/s270/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VQ0v7AnhFCg/X4NLWs_cfkI/AAAAAAABlZs/rEB86vJr-bwACdd5R-cfTk1b4omD672XwCLcBGAsYHQ/s270/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZqrM045o0Yw/X4dYETZJ6UI/AAAAAAAAqnU/lXLjlQWyiEog8fxl6AFwz4KJszEjJOR7wCLcBGAsYHQ/s135/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xW9q35KITII/X4dYE0ljUcI/AAAAAAAAqnY/mjPGYIlnPIMmfn4vWHuWFXrVczd39K5fQCLcBGAsYHQ/s135/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tbPENECN4N4/X4dYFsa22CI/AAAAAAAAqnc/zmgAnW5uw8MZ6eK6SszZGJUZiAPyG6sngCLcBGAsYHQ/s135/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vWsrDmLjmDY/X4dYGHqp_zI/AAAAAAAAqng/A6G2BLQuJgglBkC8OsX5BnAHUiev04kRQCLcBGAsYHQ/s135/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CW0MVL_Sft8/X4dYGhLb68I/AAAAAAAAqnk/r8Yn3zbBxZUn0bsqtr0lRGMKSNVVpJSwACLcBGAsYHQ/s135/270-Hakase-Nichijou-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n270/",
+      "fetched_at": "2026-05-16T19:10:34.240Z",
+      "raw_id": "/nendoroid/details/n270/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.337Z",
+      "raw_id": "Nendoroid/0200-0299/270.json"
+    }
+  ]
+}

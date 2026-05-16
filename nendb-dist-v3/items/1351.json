@@ -1,0 +1,69 @@
+{
+  "num": "1351",
+  "name": {
+    "en": "Nendoroid Yennefer",
+    "ja": "ねんどろいど イェネファー (ねんどろいど いぇねふぁー)",
+    "ko": "예니퍼"
+  },
+  "series": {
+    "en": "The Witcher 3: Wild Hunt",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "ko": "위쳐 시리즈",
+    "code": "the-witcher-3-wild-hunt"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9RVFjrqwgIY/X4NjwkKpe5I/AAAAAAABm18/oYp2kJHydEUEDmhIpLCJozJ39cKHzTzOQCLcBGAsYHQ/s270/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9RVFjrqwgIY/X4NjwkKpe5I/AAAAAAABm18/oYp2kJHydEUEDmhIpLCJozJ39cKHzTzOQCLcBGAsYHQ/s270/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cvindzIQphc/X4s9gbFRmAI/AAAAAAABqgw/cp2UxX4GcfQU4VX9PJHwjdmAfSj08U3wACLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Z8SvWVqvIvI/X4s9hCp6pFI/AAAAAAABqg0/vl7y37Gly5ov509t22I49pHeDJCXmDlQQCLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y1BOrTwp4yM/X4s9htbmUdI/AAAAAAABqg4/LH6oB7Eglfs2Tf61gcNnkBkI3V5P1dOjgCLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KZheSQfkEsU/X4s9iMZRLNI/AAAAAAABqg8/U2PDaWGaeRk-egdQPwIw-lXHG0GVluVTwCLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Uz9PXu53o4I/X4s9iDUbt6I/AAAAAAABqhA/_lGqox11DQ0SD2jq8KbrsJCrSsDOJafdwCLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-viu7KSfqxhE/X4s9indMYPI/AAAAAAABqhE/y4ALX1u9NmMFBTNPeXhwg00J8jzwCepuQCLcBGAsYHQ/s135/1351-Yennefer-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1351/",
+      "fetched_at": "2026-05-16T19:10:33.376Z",
+      "raw_id": "/nendoroid/details/n1351/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.645Z",
+      "raw_id": "Nendoroid/1300-1399/1351.json"
+    }
+  ]
+}

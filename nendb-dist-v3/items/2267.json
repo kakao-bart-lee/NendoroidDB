@@ -1,0 +1,69 @@
+{
+  "num": "2267",
+  "name": {
+    "en": "Nendoroid Lamb",
+    "ja": "ねんどろいど 子羊 (ねんどろいど こひつじ)",
+    "ko": "어린 양"
+  },
+  "series": {
+    "en": "Cult of the Lamb",
+    "ja": "Cult of the Lamb",
+    "ko": "컬트 오브 더 램",
+    "code": "cult-of-the-lamb"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14976,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EyIHDaso5Es/ZRSXeUwJOQI/AAAAAAABB4A/GrtPV71SYxs-DLvI_8tV42jREqqCpMyOgCNcBGAsYHQ/s270/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EyIHDaso5Es/ZRSXeUwJOQI/AAAAAAABB4A/GrtPV71SYxs-DLvI_8tV42jREqqCpMyOgCNcBGAsYHQ/s270/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bZARmumbaow/ZRScFpJY-FI/AAAAAAABB8s/BhI463-jIc0rG2lRtLUW0otymGAogz7pACNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rNVTrzMWXCk/ZRScF3gbFJI/AAAAAAABB8w/-2IqG1K71po3gHkBzGB8YZ0S9mxDwWzwwCNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6lYFFrL2Ico/ZRScGXuro7I/AAAAAAABB80/LFPp1m5Clp4-Rfw0HckokxybGTaM9p6pQCNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wJ_1zmZLAXY/ZRScGcktwSI/AAAAAAABB84/WwVbf-YZTI0tv2mhU55Rfqe68WSHr_huQCNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g5jVv1YFF0M/ZRScGu6zpEI/AAAAAAABB88/eUvjA6M80SEMbU8JvmDS8w2rtKfKTdKRACNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-INgBrvkB4tk/ZRScHewMVtI/AAAAAAABB9A/8Xp2V9YyoNcF60ivT5NP_6WX1jtqYxTyQCNcBGAsYHQ/s135/2267-Lamb-Cult-of-the-Lamb-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2267/",
+      "fetched_at": "2026-05-16T19:10:33.954Z",
+      "raw_id": "/nendoroid/details/n2267/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.868Z",
+      "raw_id": "Nendoroid/2200-2299/2267.json"
+    }
+  ]
+}

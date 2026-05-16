@@ -1,0 +1,70 @@
+{
+  "num": "0820",
+  "name": {
+    "en": "Nendoroid Itachi Uchiha",
+    "ja": "ねんどろいど うちはイタチ (ねんどろいど うちはいたち)",
+    "ko": "우치하 이타치"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6710,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tkFF5bMpKCc/X4NduxoOkHI/AAAAAAABmD4/NATYfopkj3Qg2Mg-X3SCfXjtMuvNRDXUgCLcBGAsYHQ/s270/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tkFF5bMpKCc/X4NduxoOkHI/AAAAAAABmD4/NATYfopkj3Qg2Mg-X3SCfXjtMuvNRDXUgCLcBGAsYHQ/s270/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P6Mah9mmD5g/X4riW7a-ieI/AAAAAAABnGc/VMU3QVFGV0wR-M3zss3UVf1clAkXVsTLACLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ceq-_zw__H8/X4riXZfaIwI/AAAAAAABnGg/5bP-Ur8QSqs-r64FzdIlSAcPd5ViJJtfQCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oB1dlcGhUpw/X4riX0oIQ5I/AAAAAAABnGk/6k7EzjfQyhIoY2yl5qLTGL4-kOgL_Y8cQCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Jt1flpDM-0U/X4riXzrokgI/AAAAAAABnGo/YhnB8fHfFxUQKIjnhpLE7kIxhmzVCvmSQCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-plbbfLgzsi8/X4riYKQPoHI/AAAAAAABnGs/GUb1mOaAGHQd7G56VASLI_G1Jp0Ad6xMQCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AEiaPubj5tA/X4riYikyRBI/AAAAAAABnGw/lRgQEO6zXycTFAFYcoV28ZTTmfD2pEcjwCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-v6s34JN5cMk/X4riYoWG90I/AAAAAAABnG0/Lt2GkCMUZc8mshhH6fWMARPr9iY19NflgCLcBGAsYHQ/s135/820-Itachi-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n820/",
+      "fetched_at": "2026-05-16T19:10:34.819Z",
+      "raw_id": "/nendoroid/details/n820/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.515Z",
+      "raw_id": "Nendoroid/0800-0899/820.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1797",
+  "name": {
+    "en": "Nendoroid Zagreus",
+    "ja": "ねんどろいど ザグレウス (ねんどろいど ざぐれうす)",
+    "ko": "자그레우스"
+  },
+  "series": {
+    "en": "Hades",
+    "ja": "ハデス",
+    "ko": "하데스",
+    "code": "hades"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12259,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-C7_FqNvnGqU/YhAEy6idVeI/AAAAAAAA3ko/-UCXOxvHFMQF4s27U_qEnzgZkeBrqIQ4QCNcBGAsYHQ/s270/1797-Zagreus-Hades-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-C7_FqNvnGqU/YhAEy6idVeI/AAAAAAAA3ko/-UCXOxvHFMQF4s27U_qEnzgZkeBrqIQ4QCNcBGAsYHQ/s270/1797-Zagreus-Hades-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jieYjWyylMY/YhAL1C7_AEI/AAAAAAAA3pA/rCel2hSJPSw1wt3XNO53fDBtQor23LgVgCNcBGAsYHQ/s135/1797-Zagreus-Hades-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yMWGRcup1BU/YhAL1QnU-pI/AAAAAAAA3pE/K5-JAt204kY3BHLZnrK_ax_rRE9taRghACNcBGAsYHQ/s135/1797-Zagreus-Hades-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hxm7lMyMegI/YhAL1oQQKlI/AAAAAAAA3pI/S1F6btnR4jkUazZOETJgYUChToKtThbZwCNcBGAsYHQ/s135/1797-Zagreus-Hades-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A3xKjiS1KwY/YhAL1-OaXEI/AAAAAAAA3pM/0j7VqfeajCIZfYzpvCz_ELAfYUQwREdfACNcBGAsYHQ/s135/1797-Zagreus-Hades-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pPGTR18LGXs/YhAL2LLtOPI/AAAAAAAA3pQ/NFZR0ZMjQLsJ6PusUk_oYkO4u5O7lIZVgCNcBGAsYHQ/s135/1797-Zagreus-Hades-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1797/",
+      "fetched_at": "2026-05-16T19:10:33.653Z",
+      "raw_id": "/nendoroid/details/n1797/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.753Z",
+      "raw_id": "Nendoroid/1700-1799/1797.json"
+    }
+  ]
+}

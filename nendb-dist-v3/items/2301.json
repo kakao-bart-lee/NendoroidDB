@@ -1,0 +1,66 @@
+{
+  "num": "2301",
+  "name": {
+    "en": "Hakui Koyori",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y9gNvIu4_tA/Ziq-q10d-CI/AAAAAAABD-w/NFWwckwCSI047Hma0tveIbp6G-Q8-C1lgCNcBGAsYHQ/s270/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y9gNvIu4_tA/Ziq-q10d-CI/AAAAAAABD-w/NFWwckwCSI047Hma0tveIbp6G-Q8-C1lgCNcBGAsYHQ/s270/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tUpuxFOSb9Q/ZowzGRiRqfI/AAAAAAABFHQ/um5ScnL_sD8s5UwS57aqwsWqvG45tAXmwCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uW4a3dhkId4/ZowzHKmUS_I/AAAAAAABFHY/9C_fIHL1aDkU1nvqqYEtVePf523bAMw4wCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ag_-mxn5A58/ZowzHVsbChI/AAAAAAABFHg/AbkXJl9BVdozAP24liMWC9k5KFBcZVKPgCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mnr4_0W3n7o/ZowzHWZO1rI/AAAAAAABFHc/PSYl0B-S6r8_8nPusz2lnsqZCBbJBclXgCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WG14YIvAP94/ZowzHm6tIMI/AAAAAAABFHk/C1LrRrcWn1QR65hVnLfe9xC1YqQZZIcFwCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8cmBzc9OMwU/ZowzIH9iqiI/AAAAAAABFHs/p214TUjw3eISZw6QwnNndpS37WxfSQmLQCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-KUrcCadlrAY/ZowzIApLonI/AAAAAAABFHo/_bk8DdbmRmMiNJebaNW8T9RyKHOs6cxcQCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-EYQafDnv32g/ZowzGXpj65I/AAAAAAABFHU/B8HLthNu5dkpM5TeGLQnyIN_LG61IcaugCNcBGAsYHQ/s135/2301-Hakui-Koyori-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2301/",
+      "fetched_at": "2026-05-16T19:10:33.974Z",
+      "raw_id": "/nendoroid/details/n2301/"
+    }
+  ]
+}

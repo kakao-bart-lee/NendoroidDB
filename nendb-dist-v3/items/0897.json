@@ -1,0 +1,69 @@
+{
+  "num": "0897",
+  "name": {
+    "en": "Nendoroid Ai Hinatsuru",
+    "ja": "ねんどろいど 雛鶴あい (ねんどろいど ひなつるあい)",
+    "ko": "히나츠루 아이"
+  },
+  "series": {
+    "en": "The Ryuo's Work is Never Done!",
+    "ja": "りゅうおうのおしごと！",
+    "ko": "용왕이 하는 일!",
+    "code": "the-ryuo-s-work-is-never-done"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7125,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_g_DxMHnW2E/X4NeF8hHJ3I/AAAAAAABmIw/KSi3HzujuH4xBQIMODit1_G2omxwc5S_ACLcBGAsYHQ/s270/897-Ai-Hinatsuru-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_g_DxMHnW2E/X4NeF8hHJ3I/AAAAAAABmIw/KSi3HzujuH4xBQIMODit1_G2omxwc5S_ACLcBGAsYHQ/s270/897-Ai-Hinatsuru-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8oLtmJC-PSQ/X4rkXa1mGNI/AAAAAAABnjM/WktZXSocM8EH_i-QQa5d1RipeFGRT7SjQCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ms9CMEoEsr4/X4rkX3keFyI/AAAAAAABnjQ/76IRaMQdHussC_Ulwh749NwppwdbhsxZwCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gqltL6Pl274/X4rkYKhbBTI/AAAAAAABnjU/SP6coiQ902MBZjJwDS3z5Bl_wBhM1ycDQCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_d8cZYpwIdE/X4rkYHirUXI/AAAAAAABnjY/U68mEmmG-7ASpDWzGqgbB99HSh4JjWe8wCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZMuFyGIDb6M/X4rkYSFNhBI/AAAAAAABnjc/2upVyOV7mfECtN9nvBXM5t9MnVB6hspngCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DiEQIUW4V2E/X4rkY-3Fn_I/AAAAAAABnjg/MP0AIOotfPAEXNxpVA2ordHlh54R1ZCewCLcBGAsYHQ/s135/897-Ai-Hinatsuru-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n897/",
+      "fetched_at": "2026-05-16T19:10:34.861Z",
+      "raw_id": "/nendoroid/details/n897/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.533Z",
+      "raw_id": "Nendoroid/0800-0899/897.json"
+    }
+  ]
+}

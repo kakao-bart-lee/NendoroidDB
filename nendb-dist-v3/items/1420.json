@@ -1,0 +1,68 @@
+{
+  "num": "1420",
+  "name": {
+    "en": "Nendoroid Hina Tsurugi",
+    "ja": "ねんどろいど 鶴木陽渚 (ねんどろいど つるぎひな)",
+    "ko": "츠루기 히나"
+  },
+  "series": {
+    "en": "Diary of our Days at the Breakwater",
+    "ja": "放課後ていぼう日誌",
+    "ko": "방과 후 제방 일지",
+    "code": "diary-of-our-days-at-the-breakwater"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9811,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VEwZYCgr02o/X4Nkdq2JS6I/AAAAAAABm5k/DN1Ao4Igp1M7CUnnXwng5z9LimQ2TidLACLcBGAsYHQ/s270/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VEwZYCgr02o/X4Nkdq2JS6I/AAAAAAABm5k/DN1Ao4Igp1M7CUnnXwng5z9LimQ2TidLACLcBGAsYHQ/s270/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-A5mDRHijnl8/X4tAPzi1peI/AAAAAAABqzM/ORqeeFlExSUcDrYFgABnMUYOyXteTfJNACLcBGAsYHQ/s135/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DJB4eMuqwrU/X4tAQLKu0FI/AAAAAAABqzQ/LD-MI_VT1okZ6RbTn-nBVzUzZ2e9bX6ggCLcBGAsYHQ/s135/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A_VR2o8KjQw/X4tAQOe40DI/AAAAAAABqzU/BRyFGFxQjgIRY1UTgDhTEUd3sFfQV3VnwCLcBGAsYHQ/s135/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PPm8HaFmxz4/X4tAQcj6vGI/AAAAAAABqzY/Pzf1xh1IPDIFllm1RTG5nrJp-LMS4JRJgCLcBGAsYHQ/s135/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iKKhW6ZLO0o/X4tAQloSarI/AAAAAAABqzc/Fxcyo6u7f7woIZH12u3Tx2FNm0CXIxD_gCLcBGAsYHQ/s135/1420-Hina-Tsurugi-Diary-of-our-Days-at-the-Breakwater-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1420/",
+      "fetched_at": "2026-05-16T19:10:33.419Z",
+      "raw_id": "/nendoroid/details/n1420/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.661Z",
+      "raw_id": "Nendoroid/1400-1499/1420.json"
+    }
+  ]
+}

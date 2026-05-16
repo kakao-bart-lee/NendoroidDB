@@ -1,0 +1,69 @@
+{
+  "num": "0794",
+  "name": {
+    "en": "Nendoroid Jibril",
+    "ja": "ねんどろいど ジブリール (ねんどろいど じぶりーる)",
+    "ko": "지브릴"
+  },
+  "series": {
+    "en": "No Game No Life",
+    "ja": "ノーゲーム・ノーライフ",
+    "ko": "노게임 노라이프",
+    "code": "no-game-no-life"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ffvbV496jeU/X4NdLAgQbXI/AAAAAAABmBc/h6lP_AHjORIsHKDbc8Mp9OGRSX1EHwDLwCLcBGAsYHQ/s270/794-Jibril-No-Game-No-Life-Anime-and-Manga-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ffvbV496jeU/X4NdLAgQbXI/AAAAAAABmBc/h6lP_AHjORIsHKDbc8Mp9OGRSX1EHwDLwCLcBGAsYHQ/s270/794-Jibril-No-Game-No-Life-Anime-and-Manga-1.jpg",
+      "https://1.bp.blogspot.com/-UjDpOWn0pFA/X4i5_IEYnvI/AAAAAAAAtpc/JnurYgLgmlA8lKzEXWZctKFTiMR4qsN8QCLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mq0qTQNjOyo/X4i5_YlDjOI/AAAAAAAAtpg/XiXqu6C41EklIDjkjVrDnnwViusJ5N5FACLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z7VMmcCAVDI/X4i5_mX5eMI/AAAAAAAAtpk/_OBuRVZ6Pecf0jGkLXzdVn8MJshHxyPjwCLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_6bnE4ozS0g/X4i5_-3zh4I/AAAAAAAAtpo/8FrV8xkstG4cNQKeWAYqzTyMKEYnK8jzQCLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YDSlAJvSf60/X4i5_zGBdeI/AAAAAAAAtps/_vTV9cwYKY4MtvxO3X6y_xCsZW_nE_GaQCLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PRKNGYuqYtQ/X4i6AL-HeqI/AAAAAAAAtpw/dJGk9NIxOzwi2sSQ24a8QBB0Z9FE6J3oACLcBGAsYHQ/s135/794-Jibril-No-Game-No-Life-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n794/",
+      "fetched_at": "2026-05-16T19:10:34.804Z",
+      "raw_id": "/nendoroid/details/n794/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.509Z",
+      "raw_id": "Nendoroid/0700-0799/794.json"
+    }
+  ]
+}

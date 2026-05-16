@@ -1,0 +1,68 @@
+{
+  "num": "2218",
+  "name": {
+    "en": "Nendoroid Muichiro Tokito",
+    "ja": "ねんどろいど 時透無一郎 (ねんどろいど ときとうむいちろう)",
+    "ko": "토키토 무이치로"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14689,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-D27WbYenQwM/ZQoU2EXTsEI/AAAAAAABBi4/yt00HYCu_5sGXbqDJIB8WTh1KpfGiZk5ACNcBGAsYHQ/s270/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-D27WbYenQwM/ZQoU2EXTsEI/AAAAAAABBi4/yt00HYCu_5sGXbqDJIB8WTh1KpfGiZk5ACNcBGAsYHQ/s270/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ym07KDx4lfQ/ZQsgezzSM3I/AAAAAAABBoI/Vrp36HZT-jEfuqhPtiFflKYM9bVpBlTmACNcBGAsYHQ/s135/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TnfLJ5Q9HO0/ZQsgfJUcE-I/AAAAAAABBoM/YR3nGcMWGo83jjKwp3m_RUatkvSoLETrQCNcBGAsYHQ/s135/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5XWNGaZHRTw/ZQsgfehIhJI/AAAAAAABBoQ/nuGyR5v3pn4MGMdVH1dIPmWey7F3Dm9NgCNcBGAsYHQ/s135/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uzrQhflpMt8/ZQsgfTbK4yI/AAAAAAABBoU/jSqogRsxteY5croNmHISZppwMKFpcP8oQCNcBGAsYHQ/s135/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bRzmgDDjTrE/ZQsggKNwiiI/AAAAAAABBoY/UvsU-6R5i_gN0T0peBVTRjIT_WYTQ-ingCNcBGAsYHQ/s135/2218-Muichiro-Tokito-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2218/",
+      "fetched_at": "2026-05-16T19:10:33.923Z",
+      "raw_id": "/nendoroid/details/n2218/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.857Z",
+      "raw_id": "Nendoroid/2200-2299/2218.json"
+    }
+  ]
+}

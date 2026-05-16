@@ -1,0 +1,67 @@
+{
+  "num": "0186",
+  "name": {
+    "en": "Nendoroid Hercule Barton (ねんどろいど えるきゅーる・ばーとん)",
+    "ja": "ねんどろいど エルキュール・バートン (ねんどろいど えるきゅーる・ばーとん)",
+    "ko": "에르큘 바튼"
+  },
+  "series": {
+    "en": "Tantei Opera Milky Holmes",
+    "ja": "探偵オペラ ミルキィホームズ",
+    "ko": "탐정 오페라 밀키 홈즈",
+    "code": "tantei-opera-milky-holmes"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3242,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LJpcQPZg-nU/X4NKLdj0jbI/AAAAAAABlTs/u0CHL316FccJTinCqi2tNw3nxCAWepSwQCLcBGAsYHQ/s270/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LJpcQPZg-nU/X4NKLdj0jbI/AAAAAAABlTs/u0CHL316FccJTinCqi2tNw3nxCAWepSwQCLcBGAsYHQ/s270/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dvBY-jUNjWk/X4dUPHL37eI/AAAAAAAAqLo/-lffbnM-f_k-SYTBSHDhXd98tQ13HsYDgCLcBGAsYHQ/s135/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jZHed4tJEM0/X4dUPedX4tI/AAAAAAAAqLs/m_5sL0T-dMQ_hKvJHRqHsj10ifm-klP0ACLcBGAsYHQ/s135/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iKaywct-hNo/X4dUPw6sshI/AAAAAAAAqLw/E6rdVff08TICyZGFLbQ3wfmqzKtCd6njQCLcBGAsYHQ/s135/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HGJSdoFumW0/X4dUQvT3IDI/AAAAAAAAqL0/hJp9eXjuxssBWxo5eNcbJNvBTtBu0XvZACLcBGAsYHQ/s135/186-Hercule-Barton-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n186/",
+      "fetched_at": "2026-05-16T19:10:33.699Z",
+      "raw_id": "/nendoroid/details/n186/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.313Z",
+      "raw_id": "Nendoroid/0100-0199/186.json"
+    }
+  ]
+}

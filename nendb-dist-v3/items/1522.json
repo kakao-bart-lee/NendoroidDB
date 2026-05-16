@@ -1,0 +1,67 @@
+{
+  "num": "1522",
+  "name": {
+    "en": "Nendoroid Peni Parker: Spider-Verse Ver.",
+    "ja": "ねんどろいど ペニー・パーカー スパイダーバースVer. (ねんどろいど ぺにー・ぱーかー すぱいだーばーすVer.)",
+    "ko": "페니 파커 스파이더 버스 Ver."
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10412,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-b-4N8HOwQPc/X850-h-8o6I/AAAAAAAAu4Y/D8s126bPNHYgIQmhCjbH5e6deIkbhm4GgCLcBGAsYHQ/s270/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-b-4N8HOwQPc/X850-h-8o6I/AAAAAAAAu4Y/D8s126bPNHYgIQmhCjbH5e6deIkbhm4GgCLcBGAsYHQ/s270/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AO-3yEKEuXo/X86Ku95HE5I/AAAAAAAAu78/F4HCZ_hJhUUqXpczJYpCf0U91vSYHce-ACLcBGAsYHQ/s135/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-te_Ks3W2rhg/X86KvEMWTZI/AAAAAAAAu8A/28j-uR8tZtYYwrhfJFfq_wgMeNZHRnwOwCLcBGAsYHQ/s135/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i1rvxIDC0S4/X86KvGLEuiI/AAAAAAAAu8E/CPe17DxLiwk_KbwZVR4_X9Jd46yiC8tPwCLcBGAsYHQ/s135/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mUK7MCC0_I0/X86KvQU4LnI/AAAAAAAAu8I/JHovwDpYiPoC5H1Rc2KYU3mLrWtVOPSZwCLcBGAsYHQ/s135/1522-Peni-Parker-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1522/",
+      "fetched_at": "2026-05-16T19:10:33.481Z",
+      "raw_id": "/nendoroid/details/n1522/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.686Z",
+      "raw_id": "Nendoroid/1500-1599/1522.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0319",
+  "name": {
+    "en": "Nendoroid Len & Darth wooser (ねんどろいど れん＆だすうさ)",
+    "ja": "ねんどろいど れん＆ダスウサ (ねんどろいど れん＆だすうさ)",
+    "ko": "렌&다스우서"
+  },
+  "series": {
+    "en": "wooser's hand-to-mouth life",
+    "ja": "うーさーのその日暮らし",
+    "ko": "우서의 하루살이",
+    "code": "wooser-s-hand-to-mouth-life"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5029,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3864,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NyEoKZxYs6Q/X4NMoPortVI/AAAAAAABlgk/oSw_ZcqyBv0iXFaouSq55eyByA6dl0NHwCLcBGAsYHQ/s270/319-Ren-Darth-Wooser-Wooser-Hand-to-Mouth-Life-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NyEoKZxYs6Q/X4NMoPortVI/AAAAAAABlgk/oSw_ZcqyBv0iXFaouSq55eyByA6dl0NHwCLcBGAsYHQ/s270/319-Ren-Darth-Wooser-Wooser-Hand-to-Mouth-Life-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U5HefpVoi98/X4daOpJ08nI/AAAAAAAAq5U/tWraR_x4QYwht1ndVXhUciQ8ufyKOSL7wCLcBGAsYHQ/s135/319-Len-and-Darth-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1utPreUxBPs/X4daOw79ovI/AAAAAAAAq5c/aYuLi5SaJoEzhX62iaiHSuY-VrKl0oK9wCLcBGAsYHQ/s135/319-Len-and-Darth-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HBSmsRm35Kk/X4daPDdg0oI/AAAAAAAAq5g/uB2j3h75yaEZe1OW7Bil-smUfLDtf_OUQCLcBGAsYHQ/s135/319-Len-and-Darth-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8ZurGrG6xaE/X4daPTBIygI/AAAAAAAAq5k/mfrMmZsZcC0vEwzpYFM_R4U7vpIwHoJTQCLcBGAsYHQ/s135/319-Len-and-Darth-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n319/",
+      "fetched_at": "2026-05-16T19:10:34.459Z",
+      "raw_id": "/nendoroid/details/n319/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.350Z",
+      "raw_id": "Nendoroid/0300-0399/319.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2030",
+  "name": {
+    "en": "Nendoroid Mafuyu Sato",
+    "ja": "ねんどろいど 佐藤 真冬 (ねんどろいど さとう まふゆ)",
+    "ko": "사토 마후유"
+  },
+  "series": {
+    "en": "Given",
+    "ja": "ギヴン",
+    "ko": "기븐",
+    "code": "given"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13710,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yWw-Hfy-bQY/Y69BQSKZW7I/AAAAAAAA8QE/7vTpRQkVjZYRImIzaL3-YMKnXogPYB8VwCNcBGAsYHQ/s270/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yWw-Hfy-bQY/Y69BQSKZW7I/AAAAAAAA8QE/7vTpRQkVjZYRImIzaL3-YMKnXogPYB8VwCNcBGAsYHQ/s270/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-F3IRkt2eZ1Y/Y68416SuVtI/AAAAAAAA8Mc/ZEE2rWkptgsSKdGozpTns-n4Nm9WzSuvwCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Sdsq9cHDEBo/Y6842OL-tiI/AAAAAAAA8Mg/Lemx45G0cpY4JllZR8_-tZFrshE87FyqwCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aEtlymr_y38/Y6842WtQlcI/AAAAAAAA8Mk/ZExVtaFrsCMZGvi8gydDMv5kp6OSlmGyQCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-P3MsPZP-R5s/Y6842vvK3qI/AAAAAAAA8Mo/TffKtHuu5wI8MCEpIcHGLJXvRHIoky-_ACNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eiES0cWDwuc/Y68422j9svI/AAAAAAAA8Ms/7rwqJObgnk4GoqNJzSVinoXw2bDn7BzJwCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Ic228wQi6U8/Y6843D9BBWI/AAAAAAAA8Mw/YatZ01req7wsdl-g7k-E16E5itQoirxgwCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7ZSfx14ZhWI/Y6843SAOPpI/AAAAAAAA8M0/YXcuV91l5roBxrrX8Y9qP-w9j8Z9X_M_wCNcBGAsYHQ/s135/2030-Mafuyu-Sato-Given-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2030/",
+      "fetched_at": "2026-05-16T19:10:33.795Z",
+      "raw_id": "/nendoroid/details/n2030/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.810Z",
+      "raw_id": "Nendoroid/2000-2099/2030.json"
+    }
+  ]
+}

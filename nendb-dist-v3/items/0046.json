@@ -1,0 +1,68 @@
+{
+  "num": "0046",
+  "name": {
+    "en": "Nendoroid Yako Katsuragi (かつらぎ やこ ねんどろいど)",
+    "ja": "ねんどろいど 桂木弥子 (かつらぎ やこ ねんどろいど)",
+    "ko": "카츠라기 야코"
+  },
+  "series": {
+    "en": "Demon Detective Neuro Nougami",
+    "ja": "魔人探偵脳噛ネウロ",
+    "ko": "마인탐정 네우로",
+    "code": "demon-detective-neuro-nougami"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 266,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SkapjdvfrT8/X4MR8C9fKZI/AAAAAAAApZQ/HngbBv3ZCcMc53m9q9C3lP6ExYibxK1UwCLcBGAsYHQ/s270/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SkapjdvfrT8/X4MR8C9fKZI/AAAAAAAApZQ/HngbBv3ZCcMc53m9q9C3lP6ExYibxK1UwCLcBGAsYHQ/s270/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-f7y_ZqgrcpY/X4GweFZCenI/AAAAAAAApDQ/bgvEo2jxJ7QIMSv_wf2XsBmK1ch93RJ1wCLcBGAsYHQ/s135/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hjvsqZnaCj4/X4GweU_SdvI/AAAAAAAApDU/2rlL5nTXv1Qa59oEcn1zKAeq9PiILa3ngCLcBGAsYHQ/s135/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A4DHK30W6Ww/X4GwebXhF0I/AAAAAAAApDY/GkGSSQ24JhgmD7pg9xYENAVsC7YDH9fOgCLcBGAsYHQ/s135/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9mDiYYDMdRc/X4GweqYJy5I/AAAAAAAApDc/yHSzrc7AhQchnZxO26bYPXxj3z33btxJQCLcBGAsYHQ/s135/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-byB_o4w42DU/X4GwfO3Wu0I/AAAAAAAApDg/UUC-SSG4WogB97ocM9e6j16Sha9XhJbGACLcBGAsYHQ/s135/046-Katsuragi-Yako-Majin-Tantei-Nougami-Neuro-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n046/",
+      "fetched_at": "2026-05-16T19:10:33.093Z",
+      "raw_id": "/nendoroid/details/n046/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.273Z",
+      "raw_id": "Nendoroid/0000-0099/046.json"
+    }
+  ]
+}

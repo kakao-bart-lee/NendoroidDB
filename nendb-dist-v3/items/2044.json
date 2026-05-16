@@ -1,0 +1,68 @@
+{
+  "num": "2044",
+  "name": {
+    "en": "Nendoroid Ireena",
+    "ja": "ねんどろいど イリーナ (ねんどろいど いりーな)",
+    "ko": "이리나"
+  },
+  "series": {
+    "en": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+    "ja": "史上最強の大魔王、村人Aに転生する",
+    "ko": "사상 최강의 대마왕",
+    "code": "the-greatest-demon-lord-is-reborn-as-a-typical-nobody"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13803,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NT3P-q0ILGM/Y9mJ_BFKmLI/AAAAAAAA8e4/0U9NEK6AYTY3PyA5RPkQ0IP1aoiEhJpRwCNcBGAsYHQ/s270/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NT3P-q0ILGM/Y9mJ_BFKmLI/AAAAAAAA8e4/0U9NEK6AYTY3PyA5RPkQ0IP1aoiEhJpRwCNcBGAsYHQ/s270/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ux6EtxO3l6Y/Y9mPGDP3BaI/AAAAAAAA8mc/89mBklX5NigWBtgOEfI9urV1KXIgTTBbgCNcBGAsYHQ/s135/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-V1R8EBCFHuM/Y9mPGFnB8EI/AAAAAAAA8mg/L81geDldHDQMz8MPOaxiGdTnxOCDPVM4wCNcBGAsYHQ/s135/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zj2YwDIy6Gk/Y9mPGeblAGI/AAAAAAAA8mk/LUWsAv709YcnOIocewBcm4yWcLatIZDDwCNcBGAsYHQ/s135/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gsM5rv-RYr0/Y9mPGvoIFHI/AAAAAAAA8mo/Wth_Zr3uXvIqJJ1NhqOOb99Ae_eKrFS0gCNcBGAsYHQ/s135/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-l2g4vPceCtY/Y9mPG-Uc-MI/AAAAAAAA8ms/hmBlp2UWdnMyXERHPy0LPOZrdehg7u4wgCNcBGAsYHQ/s135/2044-Ireena-he-Greatest-Demon-Lord-Is-Reborn-as-a-Typical-Nobody-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2044/",
+      "fetched_at": "2026-05-16T19:10:33.805Z",
+      "raw_id": "/nendoroid/details/n2044/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2044.json"
+    }
+  ]
+}

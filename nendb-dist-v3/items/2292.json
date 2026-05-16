@@ -1,0 +1,63 @@
+{
+  "num": "2292",
+  "name": {
+    "en": "Mio Naganohara",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": null,
+    "ko": null,
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-p7XpHDWySqg/ZWZfmp2-TzI/AAAAAAABCb0/1gtSF-4i9CMRZIfXpvGrY8-5e-0et1BEQCNcBGAsYHQ/s270/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-p7XpHDWySqg/ZWZfmp2-TzI/AAAAAAABCb0/1gtSF-4i9CMRZIfXpvGrY8-5e-0et1BEQCNcBGAsYHQ/s270/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nBUlRlmX9KE/ZWZovK2luYI/AAAAAAABCjI/pcqIwBjBt0osoDQtborKwYjkV_hkJY2pQCNcBGAsYHQ/s135/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Nvl5axiGW0g/ZWZovQ-Jz6I/AAAAAAABCjM/IQ6uLRZnXpw3cGR7Yk4YNJ93dxo28OJ3gCNcBGAsYHQ/s135/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RbXR_WkgS3Q/ZWZovkjhKoI/AAAAAAABCjQ/8ZeHxOAAPpMpBRWVjaVvgmmMF-kxVwryACNcBGAsYHQ/s135/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g6xIZKregQo/ZWZov354g2I/AAAAAAABCjU/oxoNMw42d-UANSPKkw3WoIrcYMBa1TYYwCNcBGAsYHQ/s135/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZY6KA3A-DxY/ZWZowXvgeTI/AAAAAAABCjY/w6QNlFKbrucLzv2kTZ42EupCdw4Kbk5nACNcBGAsYHQ/s135/2292-Mio-Naganohara-Nichijou-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2292/",
+      "fetched_at": "2026-05-16T19:10:33.969Z",
+      "raw_id": "/nendoroid/details/n2292/"
+    }
+  ]
+}

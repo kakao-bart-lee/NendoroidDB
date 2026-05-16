@@ -1,0 +1,63 @@
+{
+  "num": "2264",
+  "name": {
+    "en": "Pompompurin",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Sanrio",
+    "ja": null,
+    "ko": null,
+    "code": "sanrio"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tokYoJLqvyc/ZSHUpPSFi0I/AAAAAAABCAM/VYBD4OTkR0YZtbox7RMDCoCXobDKqAVkACNcBGAsYHQ/s270/2264-Pompompurin-Sanrio-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tokYoJLqvyc/ZSHUpPSFi0I/AAAAAAABCAM/VYBD4OTkR0YZtbox7RMDCoCXobDKqAVkACNcBGAsYHQ/s270/2264-Pompompurin-Sanrio-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xc3gxrfGEqM/ZSHVi_N7WHI/AAAAAAABCC8/nHCvLNmM6_kJZ5kyZzcRkEOeJoSYxSn0gCNcBGAsYHQ/s135/2264-Pompompurin-Sanrio-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5kpFiaT_jXM/ZSHVjH7aTsI/AAAAAAABCDA/l-qLI_oFHHAbIAD0_SmN6OaQCjT1zztawCNcBGAsYHQ/s135/2264-Pompompurin-Sanrio-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fxbwSVWWmic/ZSHVjU4Sk7I/AAAAAAABCDE/yIBuJWVgVqQUF0DosnOuUr15YuANMcjHQCNcBGAsYHQ/s135/2264-Pompompurin-Sanrio-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d83nm4Yn0XY/ZSHVkBzHJ7I/AAAAAAABCDI/aAnr18pEmr8mBqxLDDuEpq_5gafiNFawQCNcBGAsYHQ/s135/2264-Pompompurin-Sanrio-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-V-GdxLIzfg8/ZSHVkgru0OI/AAAAAAABCDM/qH2EtXyjIDAiMQUtK84O6IOcF4AWSAl5QCNcBGAsYHQ/s135/2264-Pompompurin-Sanrio-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2264/",
+      "fetched_at": "2026-05-16T19:10:33.952Z",
+      "raw_id": "/nendoroid/details/n2264/"
+    }
+  ]
+}

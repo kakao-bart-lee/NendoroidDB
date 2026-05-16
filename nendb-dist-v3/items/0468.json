@@ -1,0 +1,69 @@
+{
+  "num": "0468",
+  "name": {
+    "en": "Nendoroid Shikinami Asuka Langley: EVANGELION RACING Ver. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)",
+    "ja": "ねんどろいど 式波・アスカ・ラングレー エヴァンゲリオンレーシングVer. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)",
+    "ko": "시키나미 아스카 랑그레이 에반게리온 레이싱 Ver."
+  },
+  "series": {
+    "en": "EVANGELION RACING",
+    "ja": "エヴァンゲリオンレーシング",
+    "ko": "에반게리온",
+    "code": "evangelion-racing"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4691,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vpeq3cwGEAU/X4NN4Zw-gZI/AAAAAAABlq0/pNlF1CW0MCASDSI7Ii3WqoKC4J4L7WGJgCLcBGAsYHQ/s270/468-Shikinami-Asuka-Langley-Evangelion-Racing-Version-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vpeq3cwGEAU/X4NN4Zw-gZI/AAAAAAABlq0/pNlF1CW0MCASDSI7Ii3WqoKC4J4L7WGJgCLcBGAsYHQ/s270/468-Shikinami-Asuka-Langley-Evangelion-Racing-Version-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Lc0-GlmkXAs/X4deyEhg0pI/AAAAAAAArsU/5wcHHSORkxsimn64LYgE6uvA1oYP2_yNgCLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1DQLm-xdjWI/X4deyMerOQI/AAAAAAAArsY/WxZRmfJ3lAQ1Drj637xNWDm6cVKFFydrgCLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ljGW6B3gk9I/X4deyhH6l9I/AAAAAAAArsc/caWFirgWruU-KxvPCjurSQ2-lxQbomqBwCLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-twtYTlIaJf4/X4dezIC9U6I/AAAAAAAArsg/TzuxHG-M16Y73jBGOWfHs5yOMscUZhzSACLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J-8cNfgHQf0/X4dezWbAncI/AAAAAAAArsk/3clGrK41ft4HFBw_bfdCre8FF5-JIR3SgCLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-F8cQ4CghIck/X4deztEg_BI/AAAAAAAArso/BDga_Qh8kdslsgvIkgqnmAvhet1iuH0YACLcBGAsYHQ/s135/468-Shikinami-Asuka-Langley-Evangelion-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n468/",
+      "fetched_at": "2026-05-16T19:10:34.546Z",
+      "raw_id": "/nendoroid/details/n468/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.387Z",
+      "raw_id": "Nendoroid/0400-0499/468.json"
+    }
+  ]
+}

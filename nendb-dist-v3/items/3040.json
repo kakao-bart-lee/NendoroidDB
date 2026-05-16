@@ -1,0 +1,61 @@
+{
+  "num": "3040",
+  "name": {
+    "en": "Kurisu Makise",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Steins;Gate",
+    "ja": null,
+    "ko": null,
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGpYUoG8laahkZUnjMto0JodLHTQGtTtwehZWX8t6t_X4n3f66JhuCT6MIWBZFdc1CHLCi8JhS8wmfCXwNY0kbNXjMbkbiQcWSHhKLCmBDcPsf8BR4l58H6bf_udoWD2NTmCFVoAlFrDEn3Vz_O70ldDLCSJjLDmPg0K764CJy4jUWueZ0xx3L8w1tsIPg/s270/3040-Kurisu-Makise-Steins;Gate-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGpYUoG8laahkZUnjMto0JodLHTQGtTtwehZWX8t6t_X4n3f66JhuCT6MIWBZFdc1CHLCi8JhS8wmfCXwNY0kbNXjMbkbiQcWSHhKLCmBDcPsf8BR4l58H6bf_udoWD2NTmCFVoAlFrDEn3Vz_O70ldDLCSJjLDmPg0K764CJy4jUWueZ0xx3L8w1tsIPg/s270/3040-Kurisu-Makise-Steins;Gate-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ254sf-1Og7AnoC-I_ZzBreMpdncX7566lelakOcPbXsVFXdfULvMXO13xJYReI1R5CGE15qo4mIyCkGC5jE-thqP9O7uOMufTPinhJcBOYrYQWzW0ugEuBB970zN4nVAu1o0NHNCtgmRjkf31T46cFpO32_HokafBVrte3Yi0pXpJuVgIrUIJXMnj2cm/s135/3040-Kurisu-Makise-Steins;Gate-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifsv2FADy9Yo2_hwI_u6W1DiIB3Ba12gdPHuoqpJwZj9-1uUI1Fjr7WEmd2779MtHCYiXDvjqiRC0b0dohNmbLgBnMPnoyajxKgCGXPtS2JKxxw7wq-yTaMTkbWTEOzDZK3na0qh4LfAtyzXflRJ0AXqu63TtiN83E2vhWqkza7WHIdsBrFJVZUdCQLnoZ/s135/3040-Kurisu-Makise-Steins;Gate-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFKo_DV6-8P2HbIBd7KsOpSz6u-J-HEgXq7f13Sk-nlljoH7_uK_5adVi7AnSepFGLTqKcLe0ozeZ7QMr581Kdz1Jo1_FmIWw-3Z_dSu_pN4MnnOJEVruzs7e1XZa7P3cEfV0RRMqKYRSQtdwW7PrGgou1mCfpxhdpLlv1KStTEGj9KSZ_8gOsbQqWrz8s/s135/3040-Kurisu-Makise-Steins;Gate-Video-Games-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3040/",
+      "fetched_at": "2026-05-16T19:10:34.443Z",
+      "raw_id": "/nendoroid/details/n3040/"
+    }
+  ]
+}

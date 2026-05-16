@@ -1,0 +1,68 @@
+{
+  "num": "0475",
+  "name": {
+    "en": "Nendoroid Elsa",
+    "ja": "ねんどろいど エルサ (ねんどろいど えるさ)",
+    "ko": "엘사"
+  },
+  "series": {
+    "en": "Frozen",
+    "ja": "アナと雪の女王",
+    "ko": "겨울왕국",
+    "code": "frozen"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4738,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5RG1Uv7EsDw/X4NN6Ut0YNI/AAAAAAABlrQ/pVMkv-b_Lz8P8p09oS2X8pwUbd7w7-ISQCLcBGAsYHQ/s270/475-Elsa-Frozen-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5RG1Uv7EsDw/X4NN6Ut0YNI/AAAAAAABlrQ/pVMkv-b_Lz8P8p09oS2X8pwUbd7w7-ISQCLcBGAsYHQ/s270/475-Elsa-Frozen-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5hErW_wAgss/X4de_58Rg0I/AAAAAAAAru4/EgYbPCSStdYTBNKiHalD619_vn0jnnNUQCLcBGAsYHQ/s135/475-Elsa-Frozen-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8BQ6VHNBHnQ/X4dfAVyiJZI/AAAAAAAAru8/1ih-lO8tonkvaj7-e_79_b-3JVrbqvLTQCLcBGAsYHQ/s135/475-Elsa-Frozen-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-U30LX5HVnP8/X4dfA_c4kOI/AAAAAAAArvA/aBeg7PoJUnUZLsKl7fUyOXIlH7FAC-umACLcBGAsYHQ/s135/475-Elsa-Frozen-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z9Ds_dn9QXU/X4dfBC5IddI/AAAAAAAArvE/A4ha4PLeZ5MndvqG7uPRBjaQxinUyz1sgCLcBGAsYHQ/s135/475-Elsa-Frozen-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-htwc4eCwjZM/X4dfBQF004I/AAAAAAAArvI/4YBO2wn4qP4gWCbgyymmW8GZTlQAtoY8wCLcBGAsYHQ/s135/475-Elsa-Frozen-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n475/",
+      "fetched_at": "2026-05-16T19:10:34.549Z",
+      "raw_id": "/nendoroid/details/n475/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.389Z",
+      "raw_id": "Nendoroid/0400-0499/475.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0625",
+  "name": {
+    "en": "Nendoroid Mira Fenrietta",
+    "ja": "ねんどろいど ミラ・フェンリエッタ (ねんどろいど みら・ふぇんりえった)",
+    "ko": "미라 펜리엣타"
+  },
+  "series": {
+    "en": "Shironeko Project",
+    "ja": "白猫プロジェクト",
+    "ko": "하얀고양이 프로젝트",
+    "code": "shironeko-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5644,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Pa8tJggIat8/X4NPrjZMaXI/AAAAAAABl2A/Sf0U5xDK0jcGy87PEvnj8eH_y-FBIn_VgCLcBGAsYHQ/s270/625-Mira-Fenrietta-Shironeko-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Pa8tJggIat8/X4NPrjZMaXI/AAAAAAABl2A/Sf0U5xDK0jcGy87PEvnj8eH_y-FBIn_VgCLcBGAsYHQ/s270/625-Mira-Fenrietta-Shironeko-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UErfuc70sn8/X4i0IEOH_-I/AAAAAAAAso4/1BZQ2suvrjwrtAKChTN_YNoHc93p83BPgCLcBGAsYHQ/s135/625-Mira-Fenrietta-Shironeko-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qkIpmevndx4/X4i0I2e-sxI/AAAAAAAAso8/IMFMk0GokOcWV7P07QPxi9anJz1KaR0qQCLcBGAsYHQ/s135/625-Mira-Fenrietta-Shironeko-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0sBj5sbcfWg/X4i0JCawyMI/AAAAAAAAspA/QP0ZkE-E0EkomA9WCJymg221fu9LLrQ_wCLcBGAsYHQ/s135/625-Mira-Fenrietta-Shironeko-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A8FP6CEg61M/X4i0JoEdJhI/AAAAAAAAspE/UHwv7n0gKS0cA-bb9XlIH1uAJlMmAiGAACLcBGAsYHQ/s135/625-Mira-Fenrietta-Shironeko-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qujpruaiNak/X4i0KST8ZbI/AAAAAAAAspI/X86fgyNP7UomlVx6hBl-VNFtbtX1Is-vwCLcBGAsYHQ/s135/625-Mira-Fenrietta-Shironeko-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n625/",
+      "fetched_at": "2026-05-16T19:10:34.705Z",
+      "raw_id": "/nendoroid/details/n625/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.467Z",
+      "raw_id": "Nendoroid/0600-0699/625.json"
+    }
+  ]
+}

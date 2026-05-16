@@ -1,0 +1,55 @@
+{
+  "num": "9931",
+  "name": {
+    "en": "Nendoroid Doll Easel Stand",
+    "ja": "ねんどろいどどーる イーゼル (ねんどろいどどーる いーぜる)",
+    "ko": "이젤"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 1000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9931,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200818/9931/73239/large/11475443e5b099f105e39fff152ff5fe.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.950Z",
+      "raw_id": "NendoroidDoll/Customizing/9931.json"
+    }
+  ]
+}

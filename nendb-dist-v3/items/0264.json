@@ -1,0 +1,67 @@
+{
+  "num": "0264",
+  "name": {
+    "en": "Nendoroid Renne (ねんどろいど れん)",
+    "ja": "ねんどろいど レン (ねんどろいど れん)",
+    "ko": "렌"
+  },
+  "series": {
+    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter",
+    "ja": "英雄伝説 空の軌跡SC",
+    "ko": "영웅전설 하늘의 궤적 SC",
+    "code": "the-legend-of-heroes-trails-in-the-sky-second-chapter"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3620,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LWplYxuRN60/X4NLU_HT-BI/AAAAAAABlZQ/opbSgnAejpcTq-ws-Mrca3Zv4I97Y2X9ACLcBGAsYHQ/s270/264-Renne-The-Legend-of-Heroes-Trails-In-the-Sky-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LWplYxuRN60/X4NLU_HT-BI/AAAAAAABlZQ/opbSgnAejpcTq-ws-Mrca3Zv4I97Y2X9ACLcBGAsYHQ/s270/264-Renne-The-Legend-of-Heroes-Trails-In-the-Sky-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-S87s3gjpWPc/X4dX9EHEg4I/AAAAAAAAqlk/WwE8FCjn7SUyuErIIzGRPQwcIl2ZZL02gCLcBGAsYHQ/s135/264-Renne-The-Legend-of-Heroes-Trails-in-the-Sky-SC-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l95tv1y44A0/X4dX9aL5A7I/AAAAAAAAqlo/5rRcM8UKpDwt91W5wncOqVbVABiwGYGPQCLcBGAsYHQ/s135/264-Renne-The-Legend-of-Heroes-Trails-in-the-Sky-SC-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6v_Jy9Jcx0A/X4dX9YLs2FI/AAAAAAAAqls/Ln-dDoi2T4kOzdXCfCtFeTKzuQxPTVa6wCLcBGAsYHQ/s135/264-Renne-The-Legend-of-Heroes-Trails-in-the-Sky-SC-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wjAgy3Wrd50/X4dX96_7K_I/AAAAAAAAqlw/KtvBe4zbHPUNww9dZM0YN6kFhUtajSqKgCLcBGAsYHQ/s135/264-Renne-The-Legend-of-Heroes-Trails-in-the-Sky-SC-Video-Game-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n264/",
+      "fetched_at": "2026-05-16T19:10:34.188Z",
+      "raw_id": "/nendoroid/details/n264/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.336Z",
+      "raw_id": "Nendoroid/0200-0299/264.json"
+    }
+  ]
+}

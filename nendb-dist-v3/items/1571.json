@@ -1,0 +1,70 @@
+{
+  "num": "1571",
+  "name": {
+    "en": "Nendoroid Popp",
+    "ja": "ねんどろいど ポップ (ねんどろいど ぽっぷ)",
+    "ko": "포프"
+  },
+  "series": {
+    "en": "Dragon Quest: The Legend of Dai",
+    "ja": "ドラゴンクエスト ダイの大冒険",
+    "ko": "타이의 대모험",
+    "code": "dragon-quest-the-legend-of-dai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10871,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1rs9aMHj9m8/YFYAb-sxnsI/AAAAAAAAwUk/FzEAFg1MDWUoMxhai_qaWLJk3ztOSr4CQCLcBGAsYHQ/s270/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1rs9aMHj9m8/YFYAb-sxnsI/AAAAAAAAwUk/FzEAFg1MDWUoMxhai_qaWLJk3ztOSr4CQCLcBGAsYHQ/s270/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--IJdvRB2lqc/YFX_t_8iWBI/AAAAAAAAwO8/ktMfmtaEkrYCXBvCMHGomMKI8z_xIe7EwCLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uXI5v7hLMug/YFX_uXLOhjI/AAAAAAAAwPA/9J3sd9X7PHADCH32WsgZIGxd_raxDByiACLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OwOASkVobnk/YFX_urb8pCI/AAAAAAAAwPE/HSaXDq9c1vEzrgaBWRPrcq9v-qmI_FNAACLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lQbRIWrkAAs/YFX_u6_TjAI/AAAAAAAAwPI/QdFi1BVpc3oRrFPNUoE3WYG7g96gp8ikgCLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NkpXS6snmRU/YFX_vPZ6yGI/AAAAAAAAwPM/KYGWzHJX2GI_g6JpgVHs9AXMb-W-gUMkgCLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O6tWEOuQF9g/YFX_vfAZsvI/AAAAAAAAwPQ/kjyoT8xVi68eqkimLGaN-rqveIQ3DxHLQCLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-LVO63Dmdujw/YFX_vtx0FHI/AAAAAAAAwPU/1HVcW0tOJ1IspGpyqnwZblGYK_LyCb1dACLcBGAsYHQ/s135/1571-Popp-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1571/",
+      "fetched_at": "2026-05-16T19:10:33.511Z",
+      "raw_id": "/nendoroid/details/n1571/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.698Z",
+      "raw_id": "Nendoroid/1500-1599/1571.json"
+    }
+  ]
+}

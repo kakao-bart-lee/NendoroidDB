@@ -1,0 +1,71 @@
+{
+  "num": "1167",
+  "name": {
+    "en": "Nendoroid Ashe: Classic Skin Edition",
+    "ja": "ねんどろいど アッシュ クラシックスキン・エディション (ねんどろいど あっしゅ くらしっくすきん・えでぃしょん)",
+    "ko": "애쉬"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8444,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4cpza5-GkHk/X4NgoN972JI/AAAAAAABmc8/YqKNyTM2o78MrT1gwXZOwsV4BJYFKdCVACLcBGAsYHQ/s270/1167-Ashe-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4cpza5-GkHk/X4NgoN972JI/AAAAAAABmc8/YqKNyTM2o78MrT1gwXZOwsV4BJYFKdCVACLcBGAsYHQ/s270/1167-Ashe-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iM8GZ0HuNqo/X4rxGMKVdFI/AAAAAAABpVE/aFUsg48Q8L8PN0rqq-ALR3MjeDPDGTOvACLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bBCov-mitj0/X4rxGTWuiOI/AAAAAAABpVI/66G-JainRWcy5_mcCr6suEG45L6lyv0KQCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bd6QVEOFmuM/X4rxGkjyBCI/AAAAAAABpVM/jpqPcf8sQuslY3lvtw3teG2U2w1cnZTHwCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gTYR9m_eTL0/X4rxG0WqwOI/AAAAAAABpVQ/F5J1XB_v3lIJ-HcteyNbEIFTypdAdNkqQCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rtzBQxCU71w/X4rxHJcbw1I/AAAAAAABpVU/HqG5G0ZNmbsGapUvXc18-aD0uyTozuJ8ACLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3P_2qJrRTu0/X4rxHZNV0KI/AAAAAAABpVY/y7wZsE-38O4GWDYcv-zSP0j1xSLMrqR9gCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-qZ_Uhnnl8oQ/X4rxHqnXjfI/AAAAAAABpVc/LaGxFufaOwAGAlavolLGBaA83pkb9U-DQCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-tfQO7H0fuO4/X4rxF0TQqnI/AAAAAAABpVA/CYpS638a5EAR6C7A1DgGjJdTDksAd5u9gCLcBGAsYHQ/s135/1167-Ashe-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1167/",
+      "fetched_at": "2026-05-16T19:10:33.262Z",
+      "raw_id": "/nendoroid/details/n1167/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.601Z",
+      "raw_id": "Nendoroid/1100-1199/1167.json"
+    }
+  ]
+}

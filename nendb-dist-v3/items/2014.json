@@ -1,0 +1,96 @@
+{
+  "num": "2014",
+  "name": {
+    "en": "Nendoroid Kobeni",
+    "ja": "ねんどろいど コベニ (ねんどろいど こべに)",
+    "ko": "코베니"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4580828662995",
+  "gsc_product_id": "11308",
+  "gsc_product_num": 13623,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11308",
+    "ja": "https://www.goodsmile.com/ja/product/11308"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11308/wgeYrqBNyH6T4cA7UpXxE32zQKnCh0Zm.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iGxVI9e4Oug/Y69BMVIb7YI/AAAAAAAA8PY/FbVBQKrpcOAad5nVW7ia0k0c_6Zxoc57wCNcBGAsYHQ/s270/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-grOiVT0eFyg/Y684fxoPzqI/AAAAAAAA8IE/yJRXiznwOQ0Nu0bJ8mpB_EwpLsLVI01aQCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Xwt2xvRSsNQ/Y684gYH5etI/AAAAAAAA8IM/Ll1fJQBTrcA0vOzx--R7BazXM9IO5jgmgCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DrhfWsspx44/Y684gdA3ErI/AAAAAAAA8II/TGKL4EFkx7s7pzx4p2_hNWrRIdV2BQ7TgCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JhZA3pSUrcw/Y684gkIhTgI/AAAAAAAA8IQ/5P-8l_LtOeorej_dph3kb47PZz0RasbWgCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WU-knU2Vnk4/Y684hXaSpfI/AAAAAAAA8IU/HR13KtgeGgcsK6SueSPXCAy0dLy57U8uwCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JN4Vo_mnuYU/Y684hxOklZI/AAAAAAAA8IY/sDms_wb14ycgnkX05tss4QKu8GjfXsrrQCNcBGAsYHQ/s135/2014-Kobeni-Chainsaw-Man-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11308/d0c5pNWiY3C4QPnzLUyJhfEZ9x7eXMVk.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11308/wgeYrqBNyH6T4cA7UpXxE32zQKnCh0Zm.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11308",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:18:21.050Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11308",
+      "fetched_at": "2026-05-16T12:18:21.050Z",
+      "raw_id": "11308"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11308",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11308"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2014/",
+      "fetched_at": "2026-05-16T19:10:33.786Z",
+      "raw_id": "/nendoroid/details/n2014/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.806Z",
+      "raw_id": "Nendoroid/2000-2099/2014.json"
+    }
+  ]
+}

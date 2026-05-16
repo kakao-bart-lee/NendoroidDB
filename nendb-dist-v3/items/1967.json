@@ -1,0 +1,70 @@
+{
+  "num": "1967",
+  "name": {
+    "en": "Nendoroid Shigure Ui",
+    "ja": "ねんどろいど しぐれうい (ねんどろいど しぐれうい)",
+    "ko": "시구레 우이"
+  },
+  "series": {
+    "en": "Shigure Ui",
+    "ja": "しぐれうい",
+    "ko": "시구레 우이",
+    "code": "shigure-ui"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13285,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IzWssmAIJ40/Y02wGeEHotI/AAAAAAAA7AE/6hDWjmYZ8UogzFJIfxT4SgwxiwvwA4g_QCNcBGAsYHQ/s270/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IzWssmAIJ40/Y02wGeEHotI/AAAAAAAA7AE/6hDWjmYZ8UogzFJIfxT4SgwxiwvwA4g_QCNcBGAsYHQ/s270/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-v6XsEth7QM4/Y028E2uNv5I/AAAAAAAA7Ws/6KpaGd15cNYK3Z52J4PryD2TfDyrVK6NwCNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vlahwYOoIwE/Y028FCpjwoI/AAAAAAAA7Ww/pd95L2rnlgIXmEmp_ou2zLkZkspHloSVgCNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OAVU1t7KI0s/Y028FjCwgPI/AAAAAAAA7W0/Ru15IgTEH5UfVlIkpo8o815mUXytdIqrgCNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EmOEwYlbcU8/Y028F35B6lI/AAAAAAAA7W4/1YnyoR2qWxUf-BF7r6qP6DH83gfgbOvXACNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D3OWWTlLwVI/Y028GOrAj2I/AAAAAAAA7W8/XlkdgI5agbg7FuTClPWtukXPlehiG-jMACNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5CiW2xWSFq8/Y028GfJNFNI/AAAAAAAA7XA/wDXHIEnn2LIL8Z4iTmZxHFjjLbJYukizQCNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-vHGvo1TF1jk/Y028G3h8gKI/AAAAAAAA7XE/CEtrCMXHlNoKP_CL0iMXaYtrPKrWQ78MACNcBGAsYHQ/s135/1967-Shigure-Ui-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1967/",
+      "fetched_at": "2026-05-16T19:10:33.758Z",
+      "raw_id": "/nendoroid/details/n1967/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.793Z",
+      "raw_id": "Nendoroid/1900-1999/1967.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0916",
+  "name": {
+    "en": "Nendoroid P-Body",
+    "ja": "ねんどろいど P-Body (ねんどろいど ぴー ぼでぃ)",
+    "ko": "P-보디"
+  },
+  "series": {
+    "en": "Portal 2",
+    "ja": "Portal2",
+    "ko": "포탈",
+    "code": "portal-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7201,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xXup3NhpDM8/X4Nef4L_GqI/AAAAAAABmKo/hHeQGRbkrBkLNWMpilj5WjZowkmoU2nFACLcBGAsYHQ/s270/916-P-Body-Portal-2-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xXup3NhpDM8/X4Nef4L_GqI/AAAAAAABmKo/hHeQGRbkrBkLNWMpilj5WjZowkmoU2nFACLcBGAsYHQ/s270/916-P-Body-Portal-2-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SURVuuDzilk/X4rnpErKrtI/AAAAAAABntU/hY22NjRu0IEpA5dJjl4pxV7kR7SOkDPPACLcBGAsYHQ/s135/916-P-Body-Portal-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x_lcQ8bZvsc/X4rnpfLM7MI/AAAAAAABntY/bFDselzIlDY4hXKXjq_YJfIihe_VUFcrACLcBGAsYHQ/s135/916-P-Body-Portal-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CWBbG6so7nM/X4rnpotNDlI/AAAAAAABntc/BBcS9iEbCRsZcnWc4cTOZpPwHnP4JJ67ACLcBGAsYHQ/s135/916-P-Body-Portal-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ESTpJ_Cr5wA/X4rnp93o6FI/AAAAAAABntg/XNyaef-UdDs_Uxu1IOmd8LqUcwWXNONIQCLcBGAsYHQ/s135/916-P-Body-Portal-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MqrXynMC7fY/X4rnqHs9asI/AAAAAAABntk/4rx4arD12vs7D_KrpNpM6kfDEU2TExbngCLcBGAsYHQ/s135/916-P-Body-Portal-2-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n916/",
+      "fetched_at": "2026-05-16T19:10:34.871Z",
+      "raw_id": "/nendoroid/details/n916/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.537Z",
+      "raw_id": "Nendoroid/0900-0999/916.json"
+    }
+  ]
+}

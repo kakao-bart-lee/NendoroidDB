@@ -1,0 +1,68 @@
+{
+  "num": "1900",
+  "name": {
+    "en": "Nendoroid Arcueid Brunestud",
+    "ja": "ねんどろいど アルクェイド・ブリュンスタッド (ねんどろいど あるくぇいど・ぶりゅんすたっど)",
+    "ko": "알퀘이드 브륜스터드"
+  },
+  "series": {
+    "en": "TSUKIHIME -A piece of blue glass moon-",
+    "ja": "月姫 -A piece of blue glass moon-",
+    "ko": "월희 -어 피스 오브 블루 글래스 문-",
+    "code": "tsukihime-a-piece-of-blue-glass-moon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y2UWz_a-Cwk/Yw_WMs09H8I/AAAAAAAA6Zg/qxI9I7M1R6E_GNu9Vw1ccTanVBY1LIhlACNcBGAsYHQ/s270/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y2UWz_a-Cwk/Yw_WMs09H8I/AAAAAAAA6Zg/qxI9I7M1R6E_GNu9Vw1ccTanVBY1LIhlACNcBGAsYHQ/s270/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-67C7wE2XudI/YxEW7ZrxlUI/AAAAAAAA6kk/ID1OS42E9NQr2QU_9boWPSbCW9KI9x3YACNcBGAsYHQ/s135/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RvvIscKz1O8/YxEW7oFE60I/AAAAAAAA6ko/T0xrDZxI-iYf_kq0_tznxuHshYnLnutvwCNcBGAsYHQ/s135/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IiC0miqkub8/YxEW71SSH9I/AAAAAAAA6ks/TUs3dJ7lY6MUnq3hiLF0crNK6rKPHDqwQCNcBGAsYHQ/s135/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-thQAE3jAaWg/YxEW8HSfctI/AAAAAAAA6kw/MRj6Qgtc-Hgg6zhvlFxKh5m_V-41IBzWgCNcBGAsYHQ/s135/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FVj6c3erv9w/YxEW8W7QgiI/AAAAAAAA6k0/UA5chp57iPIPBagkqXvZbsTspVsXypSJgCNcBGAsYHQ/s135/1900-Arcueid-Brunestud-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1900/",
+      "fetched_at": "2026-05-16T19:10:33.718Z",
+      "raw_id": "/nendoroid/details/n1900/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.778Z",
+      "raw_id": "Nendoroid/1900-1999/1900.json"
+    }
+  ]
+}

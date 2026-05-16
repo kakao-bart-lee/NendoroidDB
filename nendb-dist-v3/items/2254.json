@@ -1,0 +1,68 @@
+{
+  "num": "2254",
+  "name": {
+    "en": "Nendoroid Akari Mizunashi",
+    "ja": "ねんどろいど 水無灯里 (ねんどろいど みずなしあかり)",
+    "ko": "미즈나시 아카리"
+  },
+  "series": {
+    "en": "ARIA",
+    "ja": "ARIA",
+    "ko": "아리아",
+    "code": "aria"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14845,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fOLvD24W4sI/ZQoU66sFvPI/AAAAAAABBj8/p19eNsrT0FYl0sn5tam_GnNn621FcSRBACNcBGAsYHQ/s270/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fOLvD24W4sI/ZQoU66sFvPI/AAAAAAABBj8/p19eNsrT0FYl0sn5tam_GnNn621FcSRBACNcBGAsYHQ/s270/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zSN3HQ9dIz4/ZQshMgT6ayI/AAAAAAABBuo/pSSmiAsxPtoT2wxOkL0kbzya3CXkarhtACNcBGAsYHQ/s135/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cGubWuuTNpU/ZQshMi8C0aI/AAAAAAABBus/UNZcMIYzQK8NvdQ9V-29xaYi8fYc-KAtQCNcBGAsYHQ/s135/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-V5eKwLeqR5Y/ZQshM8PO6DI/AAAAAAABBuw/JsQxgV02gQYuKd6nsSEoEsEDUcZBJwsmwCNcBGAsYHQ/s135/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g5MkWu4xWaI/ZQshNWbSDcI/AAAAAAABBu0/wQHsWfdakwoDYYW2GElg75gkTiJ-sbMFACNcBGAsYHQ/s135/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wosBlTtgbW8/ZQshNmpx0-I/AAAAAAABBu4/lBoy05qJh2YJEZUNBoD-rNBHGcf47lC4wCNcBGAsYHQ/s135/2254-Akari-Mizunashi-ARIA-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2254/",
+      "fetched_at": "2026-05-16T19:10:33.946Z",
+      "raw_id": "/nendoroid/details/n2254/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.866Z",
+      "raw_id": "Nendoroid/2200-2299/2254.json"
+    }
+  ]
+}

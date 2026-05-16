@@ -1,0 +1,69 @@
+{
+  "num": "0120",
+  "name": {
+    "en": "Nendoroid Neko Arc: Ultimate Version (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
+    "ja": "ねんどろいど ネコアルク　アルティメット・エディション (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
+    "ko": "네코 알퀘이드 얼티메이트 에디션"
+  },
+  "series": {
+    "en": "MELTY BLOOD",
+    "ja": "MELTY BLOOD",
+    "ko": "MELTY BLOOD",
+    "code": "melty-blood"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2889,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OQby8y8MtO8/X4NJy-ufGMI/AAAAAAABlPE/dsTQGMF0FUcC2-3IRwsUWP9F56xCPl6aACLcBGAsYHQ/s270/120-Neko%2BArc-Ultimate-Melty%2BBlood-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OQby8y8MtO8/X4NJy-ufGMI/AAAAAAABlPE/dsTQGMF0FUcC2-3IRwsUWP9F56xCPl6aACLcBGAsYHQ/s270/120-Neko%2BArc-Ultimate-Melty%2BBlood-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MNH05JEbwl4/X4dSRf8ThjI/AAAAAAAApzA/RkXxzXwjswk2Da_c-IDrDYQw_0IQK7kCACLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S3khb7YcmoM/X4dSR0ymK8I/AAAAAAAApzE/-ZEi80C_fqocaCvAJYLmD7VCgTs4JbpgQCLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XurMo0ITiJk/X4dSSMHYO2I/AAAAAAAApzI/CxemCbyN1j0B8W17mj1M4_cNRn5FMLRpQCLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dFBULS_Hd7E/X4dSSxWKhYI/AAAAAAAApzM/OiaxFLWc9R8UIy4TOYTmFmed0c2-Y-vmwCLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_BABU_w-bAI/X4dSS-VieRI/AAAAAAAApzQ/Md7-H7vkEAg3mtLn1Z7tqVg8QYEvZSqQACLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Hpdjz7mvLzE/X4dSTMAkR2I/AAAAAAAApzU/r9NAyE1VPG0HUg9dbxXX0zvA6S8CbS4CgCLcBGAsYHQ/s135/120-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n120/",
+      "fetched_at": "2026-05-16T19:10:33.288Z",
+      "raw_id": "/nendoroid/details/n120/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.293Z",
+      "raw_id": "Nendoroid/0100-0199/120.json"
+    }
+  ]
+}

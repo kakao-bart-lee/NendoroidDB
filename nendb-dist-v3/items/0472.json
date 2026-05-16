@@ -1,0 +1,67 @@
+{
+  "num": "0472",
+  "name": {
+    "en": "Nendoroid Rin Hoshizora (ねんどろいど ほしぞらりん)",
+    "ja": "ねんどろいど 星空凛 (ねんどろいど ほしぞらりん)",
+    "ko": "호시조라 린"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4708,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IGqsuEHMibg/X4NN5brcd4I/AAAAAAABlrE/r8DefhKRxyIGqhE_GPkf6WTNlnDTMCz9gCLcBGAsYHQ/s270/472-Hoshiroza-Rin-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IGqsuEHMibg/X4NN5brcd4I/AAAAAAABlrE/r8DefhKRxyIGqhE_GPkf6WTNlnDTMCz9gCLcBGAsYHQ/s270/472-Hoshiroza-Rin-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1btiJYvnJGg/X4de4JxCJOI/AAAAAAAArtw/eUwIMdyep20m5CQeOeda3z2wri9eCDLRwCLcBGAsYHQ/s135/472-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nf0crC2n4ZM/X4de4SxlwcI/AAAAAAAArt0/dFOPxrsAPhUjMEQQKwuFcufgLV3h4DPdQCLcBGAsYHQ/s135/472-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-D1i94whjVRk/X4de4tikn6I/AAAAAAAArt4/PEG-vPKIgf8ILWDGBKre5kMDapIrFYgRQCLcBGAsYHQ/s135/472-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-w4DUyHIPeEc/X4de46IxsrI/AAAAAAAArt8/wYDZ0uNRwT4Q5XXieOLNCWAIPya8XgfzgCLcBGAsYHQ/s135/472-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n472/",
+      "fetched_at": "2026-05-16T19:10:34.548Z",
+      "raw_id": "/nendoroid/details/n472/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.388Z",
+      "raw_id": "Nendoroid/0400-0499/472.json"
+    }
+  ]
+}

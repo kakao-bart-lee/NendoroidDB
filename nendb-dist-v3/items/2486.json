@@ -1,0 +1,65 @@
+{
+  "num": "2486",
+  "name": {
+    "en": "Himemori Luna",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-z_j3aS_XL8c/ZnsoeayyCRI/AAAAAAABE3Y/PtyHAVxW4j00n3bwKXCzVjCA9uTisz7jwCNcBGAsYHQ/s270/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-z_j3aS_XL8c/ZnsoeayyCRI/AAAAAAABE3Y/PtyHAVxW4j00n3bwKXCzVjCA9uTisz7jwCNcBGAsYHQ/s270/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bb16WkFUHt0/Zow5_ZheHjI/AAAAAAABF7c/nFctpTP4Ql4sF0su00YgsSGiImVz2msbgCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZlQj_9eqSSw/Zow6AOTrckI/AAAAAAABF7g/l7rdZ4BoTt8B2nE55sFxLlv02Dd2XwxZwCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M3_7AD0kp5w/Zow6AXSpOiI/AAAAAAABF7k/EcNY3SHlEPc0VLgumGp2l6JzlA7ivCjVgCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MIuQEL8tnZ8/Zow6AyZ3X9I/AAAAAAABF7o/_gJa9LMJC1YpTIwRgGzegnzWmYA_7VUggCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L8IdAWpTNJ0/Zow6BSXorAI/AAAAAAABF7s/F20VqswoYC8e8mcsNRu8b5u-WMyfWou-gCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sFbULSUuqeY/Zow6B84OuFI/AAAAAAABF7w/QDacK1gc9H4AlctXMNvlQQJ2uaLp908ogCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-81BW3en0oS0/Zow6CeUW6II/AAAAAAABF70/6GGt7Uf1ZeoLOhXl74uighGxVudmM0UmQCNcBGAsYHQ/s135/2486-Himemori-Luna-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2486/",
+      "fetched_at": "2026-05-16T19:10:34.090Z",
+      "raw_id": "/nendoroid/details/n2486/"
+    }
+  ]
+}

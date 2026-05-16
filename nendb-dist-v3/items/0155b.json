@@ -1,0 +1,69 @@
+{
+  "num": "0155b",
+  "name": {
+    "en": "Aldra",
+    "ja": "ねんどろいど アルドラ 2PカラーVer. (ねんどろいど あるどら 2Pからーver.)",
+    "ko": "알드라 2P컬러 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3392,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dO7Fpcx9Sz8/X4NKArGQoUI/AAAAAAABlRg/q9n0pAwIKusFZvzhrIxdIKpNxXBeXcOmACLcBGAsYHQ/s270/155B-Aldra-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dO7Fpcx9Sz8/X4NKArGQoUI/AAAAAAABlRg/q9n0pAwIKusFZvzhrIxdIKpNxXBeXcOmACLcBGAsYHQ/s270/155B-Aldra-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0SVMZtf-PLk/X4dTPAYyj-I/AAAAAAAAqAI/d-7NDKxtcZYkF-bYq0dAqRvAy1wVvkgmQCLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eyEsnGzXzk0/X4dTPsypBeI/AAAAAAAAqAM/8D67-udJahcquVXg4mwHqB2mJLsMyUjugCLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--hVbVOYK3Ns/X4dTPmqU38I/AAAAAAAAqAQ/sGd2lTnJkDoe_0bQCnHBwCWxBLbvDtceACLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tMUhYuNR-gE/X4dTQKJoaTI/AAAAAAAAqAU/DqVOwPwtVTwn8I_egUCjVyc0cY6coOiFgCLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rAWCOTi1Ibk/X4dTQUblKwI/AAAAAAAAqAc/NJVG9E2xraozFFDM8-mCpyuGPLN7OG6jACLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tmkAVfhukeA/X4dTQUz54TI/AAAAAAAAqAY/VfTqKrLp8j0VTBELeBmTFwX_1hBabvkGwCLcBGAsYHQ/s135/155B-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n155b/",
+      "fetched_at": "2026-05-16T19:10:33.504Z",
+      "raw_id": "/nendoroid/details/n155b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.303Z",
+      "raw_id": "Nendoroid/0100-0199/155b.json"
+    }
+  ]
+}

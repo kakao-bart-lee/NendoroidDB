@@ -1,0 +1,60 @@
+{
+  "num": "3027",
+  "name": {
+    "en": "P5R Protagonist",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Persona",
+    "ja": null,
+    "ko": null,
+    "code": "persona"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD-1oxk7gpSp09sZvsQeLAJTjuDXB1B2vtyx6V6I74Gi6t1RWVejUlwgLQre92gl4HID-ljGGGqWIYZmDKFmjUjYLjlsajrYlNW92Eb3_cI4LpMER-Nw0SzPhBiyb223xc_MJDpzFX21H_6LOnxs5wei_62j6OXAkBoK2PyeFI_BhEC5XUhXkWb4oKThbt/s270/3027-P5R-Protagonist-Persona-5-Royal-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD-1oxk7gpSp09sZvsQeLAJTjuDXB1B2vtyx6V6I74Gi6t1RWVejUlwgLQre92gl4HID-ljGGGqWIYZmDKFmjUjYLjlsajrYlNW92Eb3_cI4LpMER-Nw0SzPhBiyb223xc_MJDpzFX21H_6LOnxs5wei_62j6OXAkBoK2PyeFI_BhEC5XUhXkWb4oKThbt/s270/3027-P5R-Protagonist-Persona-5-Royal-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJN1M9JzMvI_tcIThVcjPitBuNdwHveefUjwInU7oRZ_XXs5rNI8YQa8X7H1GNGAO8P6qWCDCih5EvE8NoNXEZCK0fUqj-x7gYmT7musQIk2eQhH7p3O_h2Aes9g95Sda0L1yJRUS0mPFOWFJqdPvDfxn6_biN8Xa19DJWus8iwjCPL46ElZvGEYX_B8UN/s135/3027-P5R-Protagonist-Persona-5-Royal-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbBp75o-_d38mC31N1yJgDDZ445Ul4C4CkIcxEx9cJjLA7GPdICL_2Rs0b-zla4WGzAvnWOGG8oLdUs3Fqro9O7L6MnMkg0S7ayLc3oXbObVgQF9UPP3MaVLAiEYQ6OYkSZBG-RKIOLitF6ia972S99MYuQKsdCSWU8Bggv8MAeUB5DCPmiRPvJ4Eq8eIT/s135/3027-P5R-Protagonist-Persona-5-Royal-Video-Games-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3027/",
+      "fetched_at": "2026-05-16T19:10:34.437Z",
+      "raw_id": "/nendoroid/details/n3027/"
+    }
+  ]
+}

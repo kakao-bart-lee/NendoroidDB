@@ -1,0 +1,66 @@
+{
+  "num": "2364",
+  "name": {
+    "en": "Marty McFly",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Back To The Future",
+    "ja": null,
+    "ko": null,
+    "code": "back-to-the-future"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lI05XOYBooU/ZZcfJ4KgpxI/AAAAAAABDKA/AICtnLFSTZAkxooHb_owajiuhCh0xRpJQCNcBGAsYHQ/s270/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lI05XOYBooU/ZZcfJ4KgpxI/AAAAAAABDKA/AICtnLFSTZAkxooHb_owajiuhCh0xRpJQCNcBGAsYHQ/s270/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nrocLAG72r8/ZZSNAtFGoBI/AAAAAAABDDo/5oUgnuMgTRk3d2oK8J3XTUy2gLEwtdewwCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HJVqndOS5as/ZZSNBJGoq0I/AAAAAAABDDs/AKenCrHB3JIy2OBqoA_pzYE1YNsfGCafQCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fue2Ks6RvVs/ZZSNBh3niHI/AAAAAAABDDw/ZCaN9Th6vF4pspfbcC4ZP0WI-qQK43HTQCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xkGTbpEeoVs/ZZSNCDAYDdI/AAAAAAABDD0/7meJ2IdwAHM6hYRp7YiVmjtdW-pnDzmHACNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Z6f2PhXOWmE/ZZSNCcV9L6I/AAAAAAABDD4/QzOT0BXYu2IKtQK3p7J5x1xu0_ReAm99QCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XEqRfhE3OgM/ZZSNDH1qDoI/AAAAAAABDD8/U5_3qAAsWiw33K8XmK_ZcqGbYhyQTiS1wCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rY84tsLtKWE/ZZSNDuqQmOI/AAAAAAABDEA/J_-JUChmbzkp_SvRnN0N0SnjjPYcaZ0dgCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-PY9Q9IdO04A/ZZSNAAnmMqI/AAAAAAABDDk/ujL3_3Tywb4eVmjz5CqG9KGo68ZuSftmgCNcBGAsYHQ/s135/2364-Marty-McFly-Back-to-the-Future-Movies-and-TV-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2364/",
+      "fetched_at": "2026-05-16T19:10:34.012Z",
+      "raw_id": "/nendoroid/details/n2364/"
+    }
+  ]
+}

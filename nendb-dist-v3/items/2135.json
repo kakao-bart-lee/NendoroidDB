@@ -1,0 +1,69 @@
+{
+  "num": "2135",
+  "name": {
+    "en": "Nendoroid Libra",
+    "ja": "ねんどろいど Libra (ねんどろいど りぶら)",
+    "ko": "Libra"
+  },
+  "series": {
+    "en": "Tears of Themis",
+    "ja": "未定事件簿",
+    "ko": "미해결사건부",
+    "code": "tears-of-themis"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14275,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AkAXtVFks6A/ZFqWdf1-3UI/AAAAAAAA9z4/B3dZQikxnUgUsVRYD6v-ay9nxGa5-FJswCNcBGAsYHQ/s270/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AkAXtVFks6A/ZFqWdf1-3UI/AAAAAAAA9z4/B3dZQikxnUgUsVRYD6v-ay9nxGa5-FJswCNcBGAsYHQ/s270/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kYG05MRn7uQ/ZFqcAZSIVBI/AAAAAAAA9-c/EpvYJPRZ-2kGGdFY9Y4QN5gcn0Fbky2LwCNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MFfBAZMC3U8/ZFqcA-PbijI/AAAAAAAA9-g/V3TBdqffkHIGTvu0dPmevZ1IJZlVVXsDwCNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bh9uSt6sbnM/ZFqcBSB6kxI/AAAAAAAA9-k/i4Pue5QnwBY-hXchmIOf7Hykz9QSS1UeACNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LnV3fjMNw7g/ZFqcBzVaHSI/AAAAAAAA9-o/RlEsfDlAflExUZ48msJW75Hz4LwAP8-_wCNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TsS3sfVrKtA/ZFqcCbcFzSI/AAAAAAAA9-s/1exTEieDcF8lhWE9t2GfoyX2AR0WQXkEQCNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6sIleH3y4fY/ZFqcC8ebV6I/AAAAAAAA9-w/1Vcim2dAgawGaYQv6ZqG9i5zPfKr67BjACNcBGAsYHQ/s135/2135-Libra-Tears-of-Themis-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2135/",
+      "fetched_at": "2026-05-16T19:10:33.859Z",
+      "raw_id": "/nendoroid/details/n2135/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.835Z",
+      "raw_id": "Nendoroid/2100-2199/2135.json"
+    }
+  ]
+}

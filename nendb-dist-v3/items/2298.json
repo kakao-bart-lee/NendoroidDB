@@ -1,0 +1,63 @@
+{
+  "num": "2298",
+  "name": {
+    "en": "Kobayashi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Miss Kobayashi's Dragon Maid",
+    "ja": null,
+    "ko": null,
+    "code": "miss-kobayashi-s-dragon-maid"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7J-ywBrwSn0/ZWZfnxhzgzI/AAAAAAABCcE/TkYqQ_CHMgQX5Fdfk0qH_kLD-8fT9yeLwCNcBGAsYHQ/s270/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7J-ywBrwSn0/ZWZfnxhzgzI/AAAAAAABCcE/TkYqQ_CHMgQX5Fdfk0qH_kLD-8fT9yeLwCNcBGAsYHQ/s270/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AfgfYZPR4OY/ZWZo3LNeD_I/AAAAAAABCkg/kUT5bLEmGloAhdzutLt5Q7oQi4Y394mwQCNcBGAsYHQ/s135/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0tgeq6Y0PIw/ZWZo3P2OHPI/AAAAAAABCkc/HvB5jlBThHc-Or-c0KbRkBS0cTYMpz8EACNcBGAsYHQ/s135/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-p6HffOkaPYs/ZWZo3vAzxPI/AAAAAAABCkk/Mwp9ZHNXo-Ex1IG8dclDWKrSLNWhTHYQwCNcBGAsYHQ/s135/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZjD2VErTYdk/ZWZo4FKocbI/AAAAAAABCko/_4VDXxzSEmMUSaOIr_6PcRCmgfSDltxZQCNcBGAsYHQ/s135/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AN-0YQS46rY/ZWZo4p7LL1I/AAAAAAABCks/KHTBGqtbMnQFOjOV9DbkxjXNd19v0PPTwCNcBGAsYHQ/s135/2298-Kobayashi-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2298/",
+      "fetched_at": "2026-05-16T19:10:33.972Z",
+      "raw_id": "/nendoroid/details/n2298/"
+    }
+  ]
+}

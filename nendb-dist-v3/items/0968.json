@@ -1,0 +1,68 @@
+{
+  "num": "0968",
+  "name": {
+    "en": "Nendoroid Megumi Tadokoro",
+    "ja": "ねんどろいど 田所恵 (ねんどろいど たどころめぐみ)",
+    "ko": "타도코로 메구미"
+  },
+  "series": {
+    "en": "Food Wars! Shokugeki no Soma: The Third Plate",
+    "ja": "食戟のソーマ 餐ノ皿",
+    "ko": "식극의 소마",
+    "code": "food-wars-shokugeki-no-soma-the-third-plate"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7467,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kQVDQyixPuQ/X4NevbTL4MI/AAAAAAABmOA/vJo-xUwNSxgJQvAHBzngse4IK7O3e11TgCLcBGAsYHQ/s270/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kQVDQyixPuQ/X4NevbTL4MI/AAAAAAABmOA/vJo-xUwNSxgJQvAHBzngse4IK7O3e11TgCLcBGAsYHQ/s270/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KKlwJMXdXLY/X4ro_Jz5QAI/AAAAAAABoBs/z_Cbdt90pCcm6-1iV7yTg6hjkaNKSkkawCLcBGAsYHQ/s135/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Xuo8AdpZTgU/X4ro_VQWjeI/AAAAAAABoBw/Sonmxsxlr8kJZxPCGEb7WjJ6AcZLThYzQCLcBGAsYHQ/s135/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XQsGfDPovhQ/X4ro_l94UyI/AAAAAAABoB0/OYc6qbtGqpkHfWl_iuPYDIYRhZflOc8dwCLcBGAsYHQ/s135/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9LwI9cEiwSs/X4ro_2vDghI/AAAAAAABoB4/KHE5JUZ8DrEhYgDoCNhdNNb612NpjeuqgCLcBGAsYHQ/s135/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s1ANNI8i0kg/X4rpAVYr7TI/AAAAAAABoB8/ySYWkn21-dgMoOEtOdtdf9kx1MLSX_4IgCLcBGAsYHQ/s135/968-Megumi-Tadokoro-Food-Wars-Shokugeki-no-Soma-The-Third-Plate-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n968/",
+      "fetched_at": "2026-05-16T19:10:34.901Z",
+      "raw_id": "/nendoroid/details/n968/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.551Z",
+      "raw_id": "Nendoroid/0900-0999/968.json"
+    }
+  ]
+}

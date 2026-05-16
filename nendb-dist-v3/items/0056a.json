@@ -1,0 +1,64 @@
+{
+  "num": "0056a",
+  "name": {
+    "en": "Pixel Maritan",
+    "ja": "ねんどろいど ぴくせる☆まりたん ブチこめ！強襲戦闘Ver. (ぴくせる☆まりたん ぶちこめ！きょうしゅうせんとうver.)",
+    "ko": "픽셀☆마리땅 전투준비 Ver."
+  },
+  "series": {
+    "en": "Magical Marine Pixel Maritan",
+    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko": "마법의 해병대원 픽셀☆마리땅",
+    "code": "magical-marine-pixel-maritan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3372,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dm4j5erX_CA/X4MR_XNOb1I/AAAAAAAApaI/elYL4Ka1hOsczPku2MRF7zd1ywT_e01xACLcBGAsYHQ/s270/056A-Pixel-Maritan-Magical-Marina-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dm4j5erX_CA/X4MR_XNOb1I/AAAAAAAApaI/elYL4Ka1hOsczPku2MRF7zd1ywT_e01xACLcBGAsYHQ/s270/056A-Pixel-Maritan-Magical-Marina-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AA5rd_nYLLw/X4GwnA5qOrI/AAAAAAAApGE/t883uducOtQbFfizg1RXlxhXX4gXhjUzwCLcBGAsYHQ/s135/056A-Pixel-Maritan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n056a/",
+      "fetched_at": "2026-05-16T19:10:33.100Z",
+      "raw_id": "/nendoroid/details/n056a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.276Z",
+      "raw_id": "Nendoroid/0000-0099/056a.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0814",
+  "name": {
+    "en": "Nendoroid Hifumi Takimoto",
+    "ja": "ねんどろいど 滝本ひふみ (ねんどろいど たきもとひふみ)",
+    "ko": "타키모토 히후미"
+  },
+  "series": {
+    "en": "NEW GAME!!",
+    "ja": "NEW GAME!!",
+    "ko": "NEW GAME!",
+    "code": "new-game"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6652,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-v8-MiaQqX_8/X4Ndtzf8O-I/AAAAAAABmDg/ub8y-9f2gqMb8KPxvRzbfbVur3kiTV5nACLcBGAsYHQ/s270/814-Hifumi-Takimoto-New-Game%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-v8-MiaQqX_8/X4Ndtzf8O-I/AAAAAAABmDg/ub8y-9f2gqMb8KPxvRzbfbVur3kiTV5nACLcBGAsYHQ/s270/814-Hifumi-Takimoto-New-Game%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Shy49L6JSdU/X4riOYhiaLI/AAAAAAABnEQ/nKlei644WfknGgtYtBdqGcaGBGnuUEjgACLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S8fG9tB3OrM/X4riOnt4kvI/AAAAAAABnEU/tARUo9hfs9wScKovwyovjuusb1VQ_NGjwCLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-m2YpyF5ZTcI/X4riO6Uf0JI/AAAAAAABnEY/EyoDiz0GGnksF6uyVEQnk6LxPeo-8CdJwCLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Hevh8xwnhXE/X4riPJ2Y4qI/AAAAAAABnEc/WQE_xm3QcPkk4dBCkKSD5LtAmwAW2imcACLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bVyhx4QZbwk/X4riPfx1sbI/AAAAAAABnEg/EJ0dADi9ESoCOsSVfOSsbQOnCqBstNvUACLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GTyHRH5Z_tM/X4riPg4tuWI/AAAAAAABnEk/-AkaZKKFIDoI_B1UwOdTEj4Xbpm_6oiTwCLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MeCliBzhafU/X4riP7-1tOI/AAAAAAABnEo/IGRocPgc5zMNcVSBgMJ3wyHOr2ycFkgBQCLcBGAsYHQ/s135/814-Hifumi-Takimoto-New-Game-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n814/",
+      "fetched_at": "2026-05-16T19:10:34.815Z",
+      "raw_id": "/nendoroid/details/n814/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.514Z",
+      "raw_id": "Nendoroid/0800-0899/814.json"
+    }
+  ]
+}

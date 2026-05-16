@@ -1,0 +1,68 @@
+{
+  "num": "0246",
+  "name": {
+    "en": "Nendoroid Black Rock Shooter : TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)",
+    "ja": "ねんどろいど ブラック★ロックシューター TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)",
+    "ko": "블랙★록 슈터 TV ANIMATION Ver."
+  },
+  "series": {
+    "en": "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "tv-animation-black-rock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3538,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EtqyvS_Kj_s/X4NLQjX9XpI/AAAAAAABlYI/eahhXHgSXSoa1Ua8ZKlUq3GWtChgpkcuQCLcBGAsYHQ/s270/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EtqyvS_Kj_s/X4NLQjX9XpI/AAAAAAABlYI/eahhXHgSXSoa1Ua8ZKlUq3GWtChgpkcuQCLcBGAsYHQ/s270/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E_ssdDnUfMQ/X4dXpyN-YQI/AAAAAAAAqgU/3l_ni7gzzg4pTR4V-MjIi0PB3PxjlKVBgCLcBGAsYHQ/s135/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W60BOsQicW0/X4dXqHPrSLI/AAAAAAAAqgY/rwCNb9M9HvkWUo5_MDgUZh5yJh5f5qxZACLcBGAsYHQ/s135/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A_wQXKJ5SMg/X4dXqTq0TPI/AAAAAAAAqgc/NpnUOz65-O0u6wNVUu5bjQWCbiQMgmgiACLcBGAsYHQ/s135/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XSM82-ysTbQ/X4dXqYKmVZI/AAAAAAAAqgg/EzxLroAZ3F4yb9gnKG5Ko06cKKsNF9mZQCLcBGAsYHQ/s135/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DuZUMoK2Wog/X4dXq_qOmQI/AAAAAAAAqgk/GpEMyPuhDQQg9731JDCwV2NJwHQf0tQ8ACLcBGAsYHQ/s135/246-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n246/",
+      "fetched_at": "2026-05-16T19:10:34.079Z",
+      "raw_id": "/nendoroid/details/n246/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.332Z",
+      "raw_id": "Nendoroid/0200-0299/246.json"
+    }
+  ]
+}

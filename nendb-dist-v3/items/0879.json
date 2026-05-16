@@ -1,0 +1,93 @@
+{
+  "num": "0879",
+  "name": {
+    "en": "Nendoroid Hinata Hyuga",
+    "ja": "ねんどろいど 日向ヒナタ (ねんどろいど ひゅうがひなた)",
+    "ko": "휴우가 히나타"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4500,
+  "gtin": "4580416904957",
+  "gsc_product_id": "4724",
+  "gsc_product_num": 7004,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/4724",
+    "ja": "https://www.goodsmile.com/ja/product/4724"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180123/7004/49774/large/d13f7fdaf6e6abe7bb640f226ab661a9.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-73Nmj3GU5GI/X4Nd_u0-CtI/AAAAAAABmHo/_Ghpr0nR0d4S-yVL_QwR_f_K28gMO4zDACLcBGAsYHQ/s270/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wvQl0iMcL7Y/X4rj6AkCnbI/AAAAAAABndA/Qn2Q3LNqZ10lmIHYxa2hgUVPXBDWsUWYACLcBGAsYHQ/s135/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-skOv9R2hAI0/X4rj6eLWXaI/AAAAAAABndE/2bMgnGjR2mgOSihuLkUvtKxuvMdT-ah3ACLcBGAsYHQ/s135/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sEyC5f_Zyqw/X4rj6fkVDNI/AAAAAAABndI/1Di5WsGNoa4AoURdBwO2oI8YXbAPJ5I3gCLcBGAsYHQ/s135/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-N9K8T6YSf5A/X4rj6_iWbmI/AAAAAAABndM/-O8EqAXEvSky6xBO4Eki4JmP0Rf3w_XnQCLcBGAsYHQ/s135/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xJ2J8-81mdw/X4rj7LL5QmI/AAAAAAABndQ/biWHLRoAvC89CyrUDOYygIJ_6m-Zz3aXwCLcBGAsYHQ/s135/879-Hinata-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180123/7004/49780/large/f9920095a8e0e9b08ebf3be4fa6b8476.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20180123/7004/49774/large/d13f7fdaf6e6abe7bb640f226ab661a9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4724",
+      "price_local": 4500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:55.860Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4724",
+      "fetched_at": "2026-05-16T11:49:55.860Z",
+      "raw_id": "4724"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/4724",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "4724"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n879/",
+      "fetched_at": "2026-05-16T19:10:34.850Z",
+      "raw_id": "/nendoroid/details/n879/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.529Z",
+      "raw_id": "Nendoroid/0800-0899/879.json"
+    }
+  ]
+}

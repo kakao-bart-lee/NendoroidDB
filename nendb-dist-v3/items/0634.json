@@ -1,0 +1,73 @@
+{
+  "num": "0634",
+  "name": {
+    "en": "Nendoroid Musashi",
+    "ja": "ねんどろいど 武蔵 (ねんどろいど むさし)",
+    "ko": "무사시"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7944,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5808,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UUKzdBVGlF0/X4NPt6KQ5EI/AAAAAAABl2k/9QPCy7Olf8UMKx4zY31VyNjkLUEKQi_wQCLcBGAsYHQ/s270/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UUKzdBVGlF0/X4NPt6KQ5EI/AAAAAAABl2k/9QPCy7Olf8UMKx4zY31VyNjkLUEKQi_wQCLcBGAsYHQ/s270/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KHFelk09bC0/X4i0bcVWvXI/AAAAAAAAssE/O8B1nhixhH4DBwqn0uVcHQiIzVGV9sgPACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VJLsEMXyESk/X4i0bjN09qI/AAAAAAAAssI/f5fqQO3YTaYDJXFRCjB8eKARnMZiilsXACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VfDSgDCLTGE/X4i0b_T3zOI/AAAAAAAAssM/jMCEAT3sx8Ixix5sNlxJ-8upIew9myjGQCLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kOM2EP8CPxc/X4i0b5jEgEI/AAAAAAAAssQ/fU3PqT1ovYUmDKnNTZYq1mr40nbW-DfYACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rruXmX8a1Uc/X4i0cLtSB2I/AAAAAAAAssU/QjpK6T5aWkwfs06F_lKqEYjoD5x04hsPACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HbYrT5-GwjU/X4i0cd2_JcI/AAAAAAAAssY/PwuHP89G34AtKtNZ_2WK0He4rjnD9dn4QCLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-S5FfS3j4rj0/X4i0ceXZeUI/AAAAAAAAssc/H6wAwZPNergE6BN8ZHM5Ye_JUI1vpwIVACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-2F6Z1wdjKzE/X4i0Z2r0GqI/AAAAAAAAsr4/txXdV9n0kuUwTYODZ52vwxShiP44Gr9JwCLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-_WEARVNFwug/X4i0act38GI/AAAAAAAAsr8/RrgNWkJa2gUkAXa6SIwNBQC7nHrKzKtnACLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-sMk7N7NHWlc/X4i0ay0D2AI/AAAAAAAAssA/NBgyZEejGP4u7iyu3t9p0gxpi9ymqZD1QCLcBGAsYHQ/s135/634-Musashi-Kantai-Collection-KanColle-Video-Games-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n634/",
+      "fetched_at": "2026-05-16T19:10:34.711Z",
+      "raw_id": "/nendoroid/details/n634/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.469Z",
+      "raw_id": "Nendoroid/0600-0699/634.json"
+    }
+  ]
+}

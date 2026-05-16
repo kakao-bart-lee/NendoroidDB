@@ -1,0 +1,68 @@
+{
+  "num": "0715",
+  "name": {
+    "en": "Nendoroid Izetta",
+    "ja": "ねんどろいど イゼッタ (ねんどろいど いぜった)",
+    "ko": "이제타"
+  },
+  "series": {
+    "en": "Izetta: The Last Witch",
+    "ja": "終末のイゼッタ",
+    "ko": "종말의 이제타",
+    "code": "izetta-the-last-witch"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6142,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Wcun_B2E7gA/X4Nc1eDO1nI/AAAAAAABl8Q/S-6eYKUbIIcGCJB96oriqtR5uHTksDiTQCLcBGAsYHQ/s270/715-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Wcun_B2E7gA/X4Nc1eDO1nI/AAAAAAABl8Q/S-6eYKUbIIcGCJB96oriqtR5uHTksDiTQCLcBGAsYHQ/s270/715-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YMoowWXPFAc/X4i3mno0k7I/AAAAAAAAtLk/6ElhfRbWCCkcIm4bNYDMlfpeOKaYykjAQCLcBGAsYHQ/s135/715-Izetta-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S6eeAMR4g2E/X4i3m8vtSuI/AAAAAAAAtLo/VwenvbspaiYFI9klSV_Wj1KHIxaEySuFACLcBGAsYHQ/s135/715-Izetta-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GuJ1LGFp9JM/X4i3nBeMULI/AAAAAAAAtLs/rJWGSB-CoKEMoP-IpYPscVf-kKilBGg0ACLcBGAsYHQ/s135/715-Izetta-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DO0DP-sVhME/X4i3nWm0JQI/AAAAAAAAtLw/9lRWiLZ7RpMGNW56XY_jlD_XOG-aZF-dQCLcBGAsYHQ/s135/715-Izetta-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EJdD6JSNL5Q/X4i3n9BFZMI/AAAAAAAAtL0/fL4p_KxHIHUJyKn1XrwhXk8Hsn8EeRxZgCLcBGAsYHQ/s135/715-Izetta-Izetta-The-Last-Witch-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n715/",
+      "fetched_at": "2026-05-16T19:10:34.758Z",
+      "raw_id": "/nendoroid/details/n715/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.490Z",
+      "raw_id": "Nendoroid/0700-0799/715.json"
+    }
+  ]
+}

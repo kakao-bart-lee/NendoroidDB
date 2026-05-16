@@ -1,0 +1,89 @@
+{
+  "num": "2316",
+  "name": {
+    "en": "Yuno Gasai",
+    "ja": "ねんどろいど 我妻由乃",
+    "ko": null
+  },
+  "series": {
+    "en": "Future Diary",
+    "ja": "未来日記",
+    "ko": null,
+    "code": "future-diary"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Arts Shanghai",
+  "sculptor": "QingYu",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4580590177949",
+  "gsc_product_id": "12823",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12823",
+    "ja": "https://www.goodsmile.com/ja/product/12823"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15140/122716/large/884dda522c6489e8a4228f2a2afb0302.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VAOL6h2IctY/ZWZfrl5RtlI/AAAAAAABCcw/f_Dw76YlgjAjVLgGHSDwB46h-tW7mBt5QCNcBGAsYHQ/s270/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--k09jGO5jVo/ZWZpOZ3CWZI/AAAAAAABCoI/7MIguujwxVADErieNN5Bae9ZofU9QO7BwCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qFvwFzXajns/ZWZpOWdfTLI/AAAAAAABCoM/pWuVeTq3iDMmuN5f5_SwmvOAKuAIG8qTQCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9_245kDlZeA/ZWZpOg7Rz1I/AAAAAAABCoQ/HViU3BErESwpYPDJACZG-801mc1DIInLgCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xTSokOhoQCg/ZWZpPI7Z1aI/AAAAAAABCoU/XKVpTuRNn30OvmGlo7cjDIYZetcp989_wCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WJQj-lJHawM/ZWZpQ5UtPII/AAAAAAABCos/NWFktFwDLxgr1Vennx-V8XHyteQ_hl6HgCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bfZi8bZUi6o/ZWZpPR4v9yI/AAAAAAABCoY/BNRsqzWAGvAv83VkHg03FDJI7kVXYaEJgCNcBGAsYHQ/s135/2316-Yuno-Gasai-Future-Diary-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15140/122723/large/eff3be2d4c66523e52ab88d6fdbfefe4.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15140/122716/large/884dda522c6489e8a4228f2a2afb0302.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12823",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:16.199Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12823",
+      "fetched_at": "2026-05-16T11:51:16.199Z",
+      "raw_id": "12823"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12823",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12823"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2316/",
+      "fetched_at": "2026-05-16T19:10:33.982Z",
+      "raw_id": "/nendoroid/details/n2316/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2476",
+  "name": {
+    "en": "Ichihime",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "MahjongSoul",
+    "ja": null,
+    "ko": null,
+    "code": "mahjongsoul"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nHRLp608Z78/Zj_iu-J50UI/AAAAAAABEZk/XnluxsWOSXwmqGBJD0LsxsHTNN5YqsQ1wCNcBGAsYHQ/s270/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nHRLp608Z78/Zj_iu-J50UI/AAAAAAABEZk/XnluxsWOSXwmqGBJD0LsxsHTNN5YqsQ1wCNcBGAsYHQ/s270/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E0cU_0kcMSs/Zow5d2DupVI/AAAAAAABF3E/OhfbKVfvHS0JBwlFltFlsnSVojZuss5PwCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8G-DxTd-XFc/Zow5drx8fRI/AAAAAAABF3A/ELQ_6bbkQOQf2FY77p6FI__61PXhYtlwgCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ySN7yzQNP5Q/Zow5d4uCoQI/AAAAAAABF3I/kw4M6EhdQVo4usHbgfGS1KsVwxGyYxyUwCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JCN_bFxqasU/Zow5eGy3i5I/AAAAAAABF3M/Zvo4BHUKMMcfuVTEaG-LZR_oAsJ2rptqwCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5uRiL1nsf0w/Zow5eWZfVHI/AAAAAAABF3Q/ybVR4Ssvj20YHn6uWrNespSRhrcVoXj6QCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O2kqefRLKqM/Zow5evN5vRI/AAAAAAABF3U/diYckEQ7R9gqdt3rWjDc5jOcETF-FfXpQCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-KgebgrjvTUg/Zow5fFRfxGI/AAAAAAABF3Y/GtKDkpWWNO43X8DhgBgmG-zAiSQik2VwgCNcBGAsYHQ/s135/2476-Ichihime-MahjongSoul-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2476/",
+      "fetched_at": "2026-05-16T19:10:34.083Z",
+      "raw_id": "/nendoroid/details/n2476/"
+    }
+  ]
+}

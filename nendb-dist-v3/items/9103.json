@@ -1,0 +1,55 @@
+{
+  "num": "9103",
+  "name": {
+    "en": "Nendoroid Doll Kizuna AI",
+    "ja": "ねんどろいどどーる キズナアイ (ねんどろいどどーる きずなあい)",
+    "ko": "키즈나 아이"
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6820,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9103,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191217/9103/66237/large/aab53ddb84e75f4e102801deb809f19a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.967Z",
+      "raw_id": "NendoroidDoll/Doll/9103.json"
+    }
+  ]
+}

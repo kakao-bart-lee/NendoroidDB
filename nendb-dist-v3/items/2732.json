@@ -1,0 +1,60 @@
+{
+  "num": "2732",
+  "name": {
+    "en": "Nero",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Promise Of Wizard",
+    "ja": null,
+    "ko": null,
+    "code": "promise-of-wizard"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEbL75u7iP-TJjd2SCAisd6US_15d2_OhYB4HsCwxGA40QTQ3hcuNYX8q26Mj30HkY1rBAuzEOdu8TOIMBJU3hA1o9JCOGoLIM8CwXLkZ5qsCgVy2AZi9fuFaEEPKY3XXudf3T1LQwKkm68_AW3jUu6Z8oCK1AdpR5oWigA4YRxwWLGkYYt7TaWhX4Id09/s270/2732-Nero-Promise-of-Wizard-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEbL75u7iP-TJjd2SCAisd6US_15d2_OhYB4HsCwxGA40QTQ3hcuNYX8q26Mj30HkY1rBAuzEOdu8TOIMBJU3hA1o9JCOGoLIM8CwXLkZ5qsCgVy2AZi9fuFaEEPKY3XXudf3T1LQwKkm68_AW3jUu6Z8oCK1AdpR5oWigA4YRxwWLGkYYt7TaWhX4Id09/s270/2732-Nero-Promise-of-Wizard-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaeUYyrGipRTDp84nsDKxpgzt_V6xk2leKG1fS9sGP7smrITAieUuWIPdK-r8K2M8pPAfXMEwaBAd_FjeKLmcmqEJ4vez231mAg8dtMp9YfRnVHtNLkWFweEpfYhXfQOloBQa_qzlHKukhzqEWcWkkry5Mo1vfBSrI3Byqq0_EtT-H1SKgx0kIFLPNcAj/s135/2732-Nero-Promise-of-Wizard-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd7l5gVUvMP_h9ZsQQdFcK7pWT9DOu95cdGNiNAKl6x6g2P724687LTDQTMjZgydgyBiW3cjJS01mHeY7yckQm3nvUey-h_AtsaTG4PD7b1MhG1OzUC96UQnIGdcbBJduAyffOoC7JbYffXlA4Ou_psUifaZZdusCft_aVYcK5MJVmj52YISy9fQMhY0lX/s135/2732-Nero-Promise-of-Wizard-Video-Games-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2732/",
+      "fetched_at": "2026-05-16T19:10:34.256Z",
+      "raw_id": "/nendoroid/details/n2732/"
+    }
+  ]
+}

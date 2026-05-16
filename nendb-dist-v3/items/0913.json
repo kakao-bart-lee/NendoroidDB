@@ -1,0 +1,70 @@
+{
+  "num": "0913",
+  "name": {
+    "en": "Nendoroid Kyoya Hibari",
+    "ja": "ねんどろいど 雲雀恭弥 (ねんどろいど ひばりきょうや)",
+    "ko": "히바리 쿄야"
+  },
+  "series": {
+    "en": "Reborn!",
+    "ja": "家庭教師ヒットマンREBORN!",
+    "ko": "가정교사 히트맨 REBORN!",
+    "code": "reborn"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7232,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8FhE1MiFJZg/X4NeeSyQSII/AAAAAAABmKc/uXK57ZtGZekqn-08igjtQImKq6h2FUzYACLcBGAsYHQ/s270/913-Kyoya-Hibari-Reborn%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8FhE1MiFJZg/X4NeeSyQSII/AAAAAAABmKc/uXK57ZtGZekqn-08igjtQImKq6h2FUzYACLcBGAsYHQ/s270/913-Kyoya-Hibari-Reborn%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ig3uSzsVGEo/X4rnkTwIM1I/AAAAAAABnsI/akJ3q98d7AYuBktRZf4NKkyJYBRknKQ-QCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AJWrxtgf28s/X4rnks3tpGI/AAAAAAABnsM/AWW6qX9WGq4yB8z_yMaw3LeXI0FLRe7yQCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d6jMCJF0J4M/X4rnk6e52NI/AAAAAAABnsQ/AU5Tb_rdfAc9y5e1uZqO_NFY3YfyVSG3gCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7X7qv0wNn1U/X4rnlOzDuVI/AAAAAAABnsU/Krn7XSn_qc4S9i5jYQEOCV5Tgt1rE-vWwCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Yo9k4229xyw/X4rnlS7RlVI/AAAAAAABnsY/7mTpJCH3WXgUA4-B0A8X8Kvupu8CfCeJwCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qCtZJDYuzL4/X4rnlmkggCI/AAAAAAABnsc/xMrruvqglwwicaMEjeFiacxbuB-1qPtOwCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-03ye7-OIing/X4rnl3TuJmI/AAAAAAABnsg/XUEBKGD1lxkBn2JHZWWb1FKVMXIztdbzQCLcBGAsYHQ/s135/913-Kyoya-Hibari-REBORN-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n913/",
+      "fetched_at": "2026-05-16T19:10:34.870Z",
+      "raw_id": "/nendoroid/details/n913/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.537Z",
+      "raw_id": "Nendoroid/0900-0999/913.json"
+    }
+  ]
+}

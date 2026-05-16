@@ -1,0 +1,61 @@
+{
+  "num": "2650b",
+  "name": {
+    "en": "Protagonist",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Metaphor: ReFantazio",
+    "ja": null,
+    "ko": null,
+    "code": "metaphor-refantazio"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSANtLhMa7cWmWaMh1nMgSgIG_Ut_Zjn5kvvJjRwCKk6g76ZIrOGl6Kc0cblDnnvGxZ_wbjMeEVaC-l7RVozRnNNho3QNA0XRjINsPNaL22J0szCWJD7o4N6y6wbrVCTVqVaYll4-UybKk3TTpq0OHbemwGfPn597UyBHwUP26v8F1GwnkAvi1QPL0WX4U/s270/2650-Protagonist-Metaphor-ReFantazio-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSANtLhMa7cWmWaMh1nMgSgIG_Ut_Zjn5kvvJjRwCKk6g76ZIrOGl6Kc0cblDnnvGxZ_wbjMeEVaC-l7RVozRnNNho3QNA0XRjINsPNaL22J0szCWJD7o4N6y6wbrVCTVqVaYll4-UybKk3TTpq0OHbemwGfPn597UyBHwUP26v8F1GwnkAvi1QPL0WX4U/s270/2650-Protagonist-Metaphor-ReFantazio-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZzWGOhKN_7zrWtvlGOVyqF3HvjraiadDs3F9zsButCxwgldw_wqSFI6RSoH3EC75XUVzbp8BgLb3sqfqtYsetp8pe9RoG0B-1sYCE0sfzkzGAO31wtsA3oQkkQX4XDiWuUdrtRlFCuYe0nnNx_tO1q5fghOEoltM_eovqrs8-NFzFkiPMDyLXvdC_Rr5/s135/2650-Protagonist-Metaphor-ReFantazio-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBJKuEzpab0KgfMydBT5b3gliTA-pnhOpEW98ZMzqyymIC3OmydIfuMQ69lUAiTfKUacu0iQvJZNbFS7PpIdJcLtIWGG3UPOOscbWJUoVkDIpIgS2_05kg754fYgfw0xnWx3eHnMpFTVv48pziyqdN4qsqds4OYubSjHn94ERG5gz3f9K2SR7uszlDB21/s135/2650-Protagonist-Metaphor-ReFantazio-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0DWv_XexW0sbS0NKH3qRaweFJzJ2GJ4ZNI-7uJlUyuoE3uXzzancDVKqeChL5WsuefDTI7Zc6Ti0PEYajK_vQnvIlK0owJxV_UCS-b2PVKZuqJ9RgTl0mHhecgJn_nG6xjDTxoPZY0FFLsl3P69buH4GjxK3aFehN25ac-HZ5wlZ8AIHe9-gYm0ltW_C_/s135/2650-Protagonist-Metaphor-ReFantazio-Video-Games-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2650b/",
+      "fetched_at": "2026-05-16T19:10:34.189Z",
+      "raw_id": "/nendoroid/details/n2650b/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1727",
+  "name": {
+    "en": "Nendoroid Yun Arikawa",
+    "ja": "ねんどろいど 有川ユン (ねんどろいど ありかわゆん)",
+    "ko": "아리카와 윤"
+  },
+  "series": {
+    "en": "Godzilla Singular Point",
+    "ja": "ゴジラS.P＜シンギュラポイント＞",
+    "ko": "고질라: 싱귤러 포인트",
+    "code": "godzilla-singular-point"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11879,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DqoJ63prjNs/YYBJ-ioE1kI/AAAAAAAA1io/GXt_84Fj0-swb-Bl3WfIyMfBRqIwYAyLQCLcBGAsYHQ/s270/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DqoJ63prjNs/YYBJ-ioE1kI/AAAAAAAA1io/GXt_84Fj0-swb-Bl3WfIyMfBRqIwYAyLQCLcBGAsYHQ/s270/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t9C6Og0E_BI/YYBOlOlFzzI/AAAAAAAA1ko/JuDIeImIskA3DhAqrX5RJAYZ_CIaGxCagCLcBGAsYHQ/s135/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iMt1S36gzJU/YYBOlQpTGlI/AAAAAAAA1kw/VDeX5wNBXYohY7RIOVtACeP_UFy5Lzc6wCLcBGAsYHQ/s135/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_8zLhYxHIEo/YYBOlVHNeHI/AAAAAAAA1ks/LbndLWacAnQW5Ncr2HW9uM-Fu8pEhUU9wCLcBGAsYHQ/s135/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M5c57y3FGHE/YYBOlsyRHSI/AAAAAAAA1k0/U1MV2Gpz2i4C1Z1yz9pBN3BqUuDfTZ-EQCLcBGAsYHQ/s135/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mtTsmbqP6Nc/YYBOl9HJ1jI/AAAAAAAA1k4/RWuhlQyfIeMuAniaZ8urk3xiE-iwjs-XACLcBGAsYHQ/s135/1727-Yun-Arikawa-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1727/",
+      "fetched_at": "2026-05-16T19:10:33.610Z",
+      "raw_id": "/nendoroid/details/n1727/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.737Z",
+      "raw_id": "Nendoroid/1700-1799/1727.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0410",
+  "name": {
+    "en": "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)",
+    "ja": "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
+    "ko": "길가메쉬"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4357,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5CzHVEJHUr8/X4NNpzo91wI/AAAAAAABlnI/6SxVh4SCcyYjKOAxHe6POa1zWobbU1JEACLcBGAsYHQ/s270/410-Gilgamesh-Fate-Stay-Night-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5CzHVEJHUr8/X4NNpzo91wI/AAAAAAABlnI/6SxVh4SCcyYjKOAxHe6POa1zWobbU1JEACLcBGAsYHQ/s270/410-Gilgamesh-Fate-Stay-Night-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LBrM8DhqcS4/X4ddahE8NkI/AAAAAAAArZ4/RNLKUeaWAxMNztCI7rvJRHwDYIdwbcipQCLcBGAsYHQ/s135/410-Gilgamesh-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-H9r8xqjchwE/X4ddayjWrxI/AAAAAAAArZ8/a9GNr2I9a5YwovTYDQpuFgwalVG0DCfngCLcBGAsYHQ/s135/410-Gilgamesh-Fate-Stay-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1AKoZUuAM3A/X4ddbKTjVGI/AAAAAAAAraA/e-btCB0bTukdq1IYcafezjo2kVdIA7b4QCLcBGAsYHQ/s135/410-Gilgamesh-Fate-Stay-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M_4JCI4OtMo/X4ddbPwnR-I/AAAAAAAAraE/0LPqxOlbPFINBGw_aw7RXtzFoi_TThlRACLcBGAsYHQ/s135/410-Gilgamesh-Fate-Stay-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-STrWD992ImY/X4ddbT205_I/AAAAAAAAraI/yfzVP5I_21cegxt-_mAn80TNgKZO_PCYACLcBGAsYHQ/s135/410-Gilgamesh-Fate-Stay-Night-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n410/",
+      "fetched_at": "2026-05-16T19:10:34.512Z",
+      "raw_id": "/nendoroid/details/n410/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.373Z",
+      "raw_id": "Nendoroid/0400-0499/410.json"
+    }
+  ]
+}

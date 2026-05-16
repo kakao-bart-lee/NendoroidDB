@@ -1,0 +1,66 @@
+{
+  "num": "1046",
+  "name": {
+    "en": "Nendoroid Woody: Standard Ver.",
+    "ja": "ねんどろいど ウッディ スタンダードVer. (ねんどろいど うっでぃ すたんだーどVer.)",
+    "ko": "우디"
+  },
+  "series": {
+    "en": "Toy Story",
+    "ja": "トイ・ストーリー",
+    "ko": "토이 스토리",
+    "code": "toy-story"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l3lvgsmEOk8/X4NfsEa4QaI/AAAAAAABmUA/CUvEZyZrF6MLBGxNF7vgtyLlAx1lzZ3twCLcBGAsYHQ/s270/1046-DX-Woody-Toy-Story-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l3lvgsmEOk8/X4NfsEa4QaI/AAAAAAABmUA/CUvEZyZrF6MLBGxNF7vgtyLlAx1lzZ3twCLcBGAsYHQ/s270/1046-DX-Woody-Toy-Story-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7PC6mQ6VZfg/X4rsJjnxW1I/AAAAAAABoiU/lHcgJIBtB-MmtF69Uaj7lWtAoUpdJ9L1QCLcBGAsYHQ/s135/1046-Woody-Toy-Story-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-A2-lvzwulFc/X4rsJ2dJ6SI/AAAAAAABoiY/X3xpYqa6sbw2osgU3Vw6RDha503_UwgSgCLcBGAsYHQ/s135/1046-Woody-Toy-Story-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ffff1uCxgno/X4rsKMIkFfI/AAAAAAABoic/-Kt_3FjBwzsVek9c2HIactsQI1Qy-7jCgCLcBGAsYHQ/s135/1046-Woody-Toy-Story-Disney-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1046/",
+      "fetched_at": "2026-05-16T19:10:33.172Z",
+      "raw_id": "/nendoroid/details/n1046/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.572Z",
+      "raw_id": "Nendoroid/1000-1099/1046.json"
+    }
+  ]
+}

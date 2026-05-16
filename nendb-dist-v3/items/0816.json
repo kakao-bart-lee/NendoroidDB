@@ -1,0 +1,69 @@
+{
+  "num": "0816",
+  "name": {
+    "en": "Nendoroid Cobra",
+    "ja": "ねんどろいど コブラ (ねんどろいど こぶら)",
+    "ko": "코브라"
+  },
+  "series": {
+    "en": "HIGH&LOW g-sword",
+    "ja": "HiGH＆LOW g-sword",
+    "ko": "HIGH & LOW g-sword",
+    "code": "high-low-g-sword"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3769,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6700,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fvI8T9z_I_w/X4NduM5kKbI/AAAAAAABmDo/pXGLPez6E-wozZ6UYTBDb52JDpGejXnSACLcBGAsYHQ/s270/816-Cobra-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fvI8T9z_I_w/X4NduM5kKbI/AAAAAAABmDo/pXGLPez6E-wozZ6UYTBDb52JDpGejXnSACLcBGAsYHQ/s270/816-Cobra-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WgJlf54MaS8/X4riRY4IC8I/AAAAAAABnFA/oGqcga_3V0Qh0b2f1aZnWjXJOD8iSCS3ACLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SgUSKRcnjNc/X4riRsqNzTI/AAAAAAABnFE/LpvIGtGrJzMYDJlpHkAAaMcFnychk61WACLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eJwrAyYmcIs/X4riR8BGFdI/AAAAAAABnFI/dhjM8-4jlgE_8XqVE-qaj_OWrxqULHqZQCLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-915ZCahm7Bg/X4riSKoKBuI/AAAAAAABnFM/U4Z5McTIvPwc4INlkd9M8Kb60WbE_48LQCLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oyPsgjHyaQo/X4riSY57tnI/AAAAAAABnFQ/JgYL6xKkIRg6hGAKVRUHj8O87cnunIZbACLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tgSr4bPqOOo/X4riSjGethI/AAAAAAABnFU/_OdYtD-Pf5Qz2itwPAgSR6d53Xb_-VavQCLcBGAsYHQ/s135/816-Cobra-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n816/",
+      "fetched_at": "2026-05-16T19:10:34.817Z",
+      "raw_id": "/nendoroid/details/n816/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.514Z",
+      "raw_id": "Nendoroid/0800-0899/816.json"
+    }
+  ]
+}

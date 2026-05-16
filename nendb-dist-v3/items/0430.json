@@ -1,0 +1,68 @@
+{
+  "num": "0430",
+  "name": {
+    "en": "Nendoroid Kitakami (ねんどろいど きたかみ)",
+    "ja": "ねんどろいど 北上 (ねんどろいど きたかみ)",
+    "ko": "키타카미"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fv0R93d74N0/X4NNun_uq4I/AAAAAAABloY/fGL9YvRgXegIFH0qKibCv3PIMmFNYyb0QCLcBGAsYHQ/s270/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fv0R93d74N0/X4NNun_uq4I/AAAAAAABloY/fGL9YvRgXegIFH0qKibCv3PIMmFNYyb0QCLcBGAsYHQ/s270/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KwFE3l-MUoo/X4dd2dTjRII/AAAAAAAArf4/RTI3B_VLwOw-9OBd2CWGTOFeQKQVZuWYwCLcBGAsYHQ/s135/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lYisxaF9Rfw/X4dd23CbgCI/AAAAAAAArf8/JIrtOwIsQfYPf2Y7A0CjYauuNarXb9HkgCLcBGAsYHQ/s135/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WJM-7unniaE/X4dd3dqQZhI/AAAAAAAArgA/vOR6yfxJd8QS7d_1JkL8kyQKS3fqsW4MwCLcBGAsYHQ/s135/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-etKMOL8R-xQ/X4dd377l2cI/AAAAAAAArgE/AR3SDrqi1mU04sbkRzy9VVNCDTGjpmhNgCLcBGAsYHQ/s135/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ABagl2o4AeM/X4dd4aB94rI/AAAAAAAArgI/siDAqJwz-Ho2YHoHDMYRe15V5HfF_KslgCLcBGAsYHQ/s135/430-Kitakami-Kantai-Collection-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n430/",
+      "fetched_at": "2026-05-16T19:10:34.525Z",
+      "raw_id": "/nendoroid/details/n430/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.377Z",
+      "raw_id": "Nendoroid/0400-0499/430.json"
+    }
+  ]
+}

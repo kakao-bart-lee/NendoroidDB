@@ -1,0 +1,68 @@
+{
+  "num": "0074",
+  "name": {
+    "en": "Nendoroid Reimu Hakurei (ねんどろいどはくれいれいむ)",
+    "ja": "ねんどろいど 博麗霊夢 (ねんどろいど　はくれいれいむ)",
+    "ko": "하이레이 레이무 "
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2568,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HrwsY-y89Ls/X4MSDwQzasI/AAAAAAAApbI/n-aj9uD12_YqRnBFyEIWrwHTvmg9X1FHACLcBGAsYHQ/s270/074-Reimu-Hakurei-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HrwsY-y89Ls/X4MSDwQzasI/AAAAAAAApbI/n-aj9uD12_YqRnBFyEIWrwHTvmg9X1FHACLcBGAsYHQ/s270/074-Reimu-Hakurei-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7fyunevGJGE/X4Gw3YhGs0I/AAAAAAAApK4/l3TsPRSNRTwGsRuKBVA3yVQHDjRe18OeQCLcBGAsYHQ/s135/074-Reimu-Hakurei-Touhou-Project-Video-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GEG8rjcbIxA/X4Gw3h5qvgI/AAAAAAAApK8/-3sgTGVVqgoMyoDn33xeOe4vmj6Lnut2ACLcBGAsYHQ/s135/074-Reimu-Hakurei-Touhou-Project-Video-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8_dPdpskRmQ/X4Gw3h5C5yI/AAAAAAAApLA/mTJK4i8YkzYG6aTvWCoQxbE2YbLSrx8YgCLcBGAsYHQ/s135/074-Reimu-Hakurei-Touhou-Project-Video-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G5cqMu8axDI/X4Gw4FC6j6I/AAAAAAAApLE/cQX3LkzwARIwGzKU0YBFmyBCXPn2V2fqQCLcBGAsYHQ/s135/074-Reimu-Hakurei-Touhou-Project-Video-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5iO-ghu6eYw/X4Gw4f5CegI/AAAAAAAApLI/xcHRT0PM-KgJLvOfwMV4GiQkLVXhiE1XwCLcBGAsYHQ/s135/074-Reimu-Hakurei-Touhou-Project-Video-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n074/",
+      "fetched_at": "2026-05-16T19:10:33.110Z",
+      "raw_id": "/nendoroid/details/n074/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.281Z",
+      "raw_id": "Nendoroid/0000-0099/074.json"
+    }
+  ]
+}

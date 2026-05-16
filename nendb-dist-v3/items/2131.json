@@ -1,0 +1,68 @@
+{
+  "num": "2131",
+  "name": {
+    "en": "Nendoroid Cheshire",
+    "ja": "ねんどろいど チェシャー (ねんどろいど ちぇしゃー)",
+    "ko": "체셔"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14333,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OBRBquDeLqY/ZIzT2dZlvfI/AAAAAAAA-PM/8rPboHbwjQct2XTbdw669xsCElsbKOcpwCNcBGAsYHQ/s270/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OBRBquDeLqY/ZIzT2dZlvfI/AAAAAAAA-PM/8rPboHbwjQct2XTbdw669xsCElsbKOcpwCNcBGAsYHQ/s270/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oV4u2eUZg-o/ZIzVqDx55rI/AAAAAAAA-S0/zr1x2bkP00sBT7BWW8vgldHrvajCm9jtACNcBGAsYHQ/s135/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4aC0d1HYFOg/ZIzVqZ0yg3I/AAAAAAAA-S4/20kscECxYjQztdrGdOgj0s2usR0XMHM4ACNcBGAsYHQ/s135/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LgZfPl2TvAY/ZIzVqxFxscI/AAAAAAAA-S8/8FlYzC0eLVQaQ8dptuZGxBMt8GsUzBo7gCNcBGAsYHQ/s135/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZPc24Ddz8QE/ZIzVrcDzt2I/AAAAAAAA-TA/9jsXA9_uqOoy76HTqLIUsLG1UupJCYShQCNcBGAsYHQ/s135/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JDU108lkB-U/ZIzVr5srYUI/AAAAAAAA-TE/SEEQvVvX_2w-SR5HaeYVhZ4GLajurXarACNcBGAsYHQ/s135/2131-Cheshire-Azur-Lane-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2131/",
+      "fetched_at": "2026-05-16T19:10:33.857Z",
+      "raw_id": "/nendoroid/details/n2131/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.834Z",
+      "raw_id": "Nendoroid/2100-2199/2131.json"
+    }
+  ]
+}

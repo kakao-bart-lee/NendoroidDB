@@ -1,0 +1,55 @@
+{
+  "num": "13597",
+  "name": {
+    "en": "Nendoroid Doll Hanako kun",
+    "ja": "ねんどろいどどーる 花子くん (ねんどろいどどーる はなこくん)",
+    "ko": "하나코 군"
+  },
+  "series": {
+    "en": "Toilet-bound Hanako kun",
+    "ja": "地縛少年花子くん",
+    "ko": "지박소년 하나코 군",
+    "code": "toilet-bound-hanako-kun"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13597,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221125/13597/107769/large/af6c627d7060542012b6606a3aa9547d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.964Z",
+      "raw_id": "NendoroidDoll/Doll/13597.json"
+    }
+  ]
+}

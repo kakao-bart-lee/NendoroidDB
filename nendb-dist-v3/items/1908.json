@@ -1,0 +1,68 @@
+{
+  "num": "1908",
+  "name": {
+    "en": "Nendoroid Nyatasha Nyanners",
+    "ja": "ねんどろいど ニャターシャ・ニャンナーズ (ねんどろいど にゃたーしゃ・にゃんなーず)",
+    "ko": "냐타샤 냐너스"
+  },
+  "series": {
+    "en": "VShojo",
+    "ja": "VShojo",
+    "ko": "브이쇼조",
+    "code": "vshojo"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12840,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nQZ3JPP9H5w/Yw_WPaTA-GI/AAAAAAAA6Z8/zZmAYt0iusM5wsXtZU4FHt1353Azae8TACNcBGAsYHQ/s270/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nQZ3JPP9H5w/Yw_WPaTA-GI/AAAAAAAA6Z8/zZmAYt0iusM5wsXtZU4FHt1353Azae8TACNcBGAsYHQ/s270/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BxDV28oHOcU/YxEXJ85TXsI/AAAAAAAA6m8/KBXb-y-c9H0cm4LZWgLYMxkMyL9tgOfuwCNcBGAsYHQ/s135/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RH9JVViDkQw/YxEXKfR2kDI/AAAAAAAA6nA/TiAQMGqxk00wc_kbN5Z-OIay_GFMpM5kACNcBGAsYHQ/s135/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YgsEMQogDJs/YxEXK4O3_RI/AAAAAAAA6nE/6FR4l4M_-cAA7IH2xQ1dUc7sO11lypkZQCNcBGAsYHQ/s135/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bNeaAJK1rI8/YxEXLZGsqzI/AAAAAAAA6nI/2Bhi_yuFYBY62dIXF9PjUqaPSYkrCRHEACNcBGAsYHQ/s135/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TuFGsYa6Npc/YxEXL4suzmI/AAAAAAAA6nM/a6e0pB2c9TcTcM8he1nAYeVh-Ka_SME0wCNcBGAsYHQ/s135/1908-Nyatasha-Nyanners-Vshojo-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1908/",
+      "fetched_at": "2026-05-16T19:10:33.722Z",
+      "raw_id": "/nendoroid/details/n1908/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.779Z",
+      "raw_id": "Nendoroid/1900-1999/1908.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1259",
+  "name": {
+    "en": "Nendoroid Foreigner/Katsushika Hokusai",
+    "ja": "ねんどろいど フォーリナー/葛飾北斎 (ねんどろいど ふぉーりなー/かつしかほくさい)",
+    "ko": "포리너/카츠시카 호쿠사이/호리나"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9091,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-g_2zYonJoCQ/X4NiY4RkdvI/AAAAAAABmqY/9v5FEWhwgdsPYLrMLPIv_zhg1PG8vjZ0gCLcBGAsYHQ/s270/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-g_2zYonJoCQ/X4NiY4RkdvI/AAAAAAABmqY/9v5FEWhwgdsPYLrMLPIv_zhg1PG8vjZ0gCLcBGAsYHQ/s270/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QaNAlXQLCOQ/X4r0PBSWDvI/AAAAAAABp60/bze3eBEDHuAwi8DZf_OIG21OUDGwNs9JQCLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4phGw4bWqdc/X4r0PXPIRBI/AAAAAAABp64/WRdyr91qJtoNeEMRSuYQbmXn7BmfvL2cgCLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LQuhb-VbNnw/X4r0Pt_LiHI/AAAAAAABp68/J2xnFhZAKEc6l30rVNAniaoKm7Fa7_a0wCLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-10DX9Zz1_k8/X4r0QDd-JfI/AAAAAAABp7A/I8-vHWb5_KILMvnw7ePASIM6siuubGiOACLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g943rKpmLdE/X4r0QLa_kSI/AAAAAAABp7E/RMx2g7jQ19giM_UWDa4aS8c6R1PrZVqHgCLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kTAiewqgXzU/X4r0QeAdT2I/AAAAAAABp7I/HXTY8ZyHI5g9dIq4__4pShl0aJqMLmObgCLcBGAsYHQ/s135/1259-Foreigner-Katsushika-Hokusai-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1259/",
+      "fetched_at": "2026-05-16T19:10:33.318Z",
+      "raw_id": "/nendoroid/details/n1259/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.623Z",
+      "raw_id": "Nendoroid/1200-1299/1259.json"
+    }
+  ]
+}

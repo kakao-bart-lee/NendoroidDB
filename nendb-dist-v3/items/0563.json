@@ -1,0 +1,97 @@
+{
+  "num": "0563",
+  "name": {
+    "en": "Nendoroid Toru Oikawa",
+    "ja": "ねんどろいど 及川徹 (ねんどろいど おいかわとおる)",
+    "ko": "오이카와 토오루"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4571697187702",
+  "gsc_product_id": "57599",
+  "gsc_product_num": 5222,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/57599",
+    "ja": "https://www.goodsmile.com/ja/product/57599"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57599/iP6wFBq3trjfexnmEpJcguvD8KVHS5G7.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QWRMnQYUGoE/X4NOk8gJVAI/AAAAAAABlxc/-9kMqc2pfvg0CHM8RYgvPGTPWa2_Y_J3gCLcBGAsYHQ/s270/563-Toru-Oikawa-Haikyu%2521%2521-Second-Season-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9-xNH-s_8GE/X4is-zxg6GI/AAAAAAAAsQg/BPtqlu-aJ7gA2oKlCyOHjG3TqfRzAIOrgCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xOyUw8va5ZQ/X4is_JM9LxI/AAAAAAAAsQk/LVCDuloucncFhZzKNoIFcVDycvtE2xi6wCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-v6sUNta1aog/X4is_SHK3hI/AAAAAAAAsQo/_vrQArvUgDAQrgcnAUYRI8B1BxwYJgm4QCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xm64w1c8woA/X4is_fMlwTI/AAAAAAAAsQs/71KN_XWnIfsViO4HU93JFmQhYR0iHgABwCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i8BVIxXLEQM/X4is_xxGmRI/AAAAAAAAsQw/T2zPlAfuqMg9ek6FBAwh3V6uUS56kLs9QCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-64MuJc-cFNM/X4is_4GO-EI/AAAAAAAAsQ0/OgfMjs0RoXMcCw79r8MaEF4ZcPY2E3vTwCLcBGAsYHQ/s135/563-Toru-Oikawa-Haikyu-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57599/FcZjxq38XfVCaU9piPrwbL2RnE1SYsvK.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57599/iP6wFBq3trjfexnmEpJcguvD8KVHS5G7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/57599",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:56:07.921Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/57599",
+      "fetched_at": "2026-05-16T11:56:07.921Z",
+      "raw_id": "57599"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/57599",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "57599"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n563/",
+      "fetched_at": "2026-05-16T19:10:34.602Z",
+      "raw_id": "/nendoroid/details/n563/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.447Z",
+      "raw_id": "Nendoroid/0500-0599/563.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0274",
+  "name": {
+    "en": "Nendoroid Sakura Miku (ねんどろいど さくらみく)",
+    "ja": "ねんどろいど 桜ミク (ねんどろいど さくらみく)",
+    "ko": "사쿠라 미쿠"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4086,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3655,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2QBlEaeDtkE/X4NLXrmhjVI/AAAAAAABlZ8/PG9GErKQayACx8xiVOj1WQRKXibdIzpqQCLcBGAsYHQ/s270/274-Sakura-Miku-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2QBlEaeDtkE/X4NLXrmhjVI/AAAAAAABlZ8/PG9GErKQayACx8xiVOj1WQRKXibdIzpqQCLcBGAsYHQ/s270/274-Sakura-Miku-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SgQg1cLJQYk/X4dYK4A4BMI/AAAAAAAAqoo/cA2NazEqMw4LXfSIHIyLDcUVD-pehZlbACLcBGAsYHQ/s135/274-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JWIiLmAz-Sc/X4dYLDCj4GI/AAAAAAAAqos/ApEEkf_tRb4MURYU834cM7CL_XLBOIzwACLcBGAsYHQ/s135/274-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gkASLvuUk60/X4dYLeSHALI/AAAAAAAAqow/9sf9pxBR4noyR5wlsgLFvWHvlOpuBZyPQCLcBGAsYHQ/s135/274-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Sq2Z8mRMfC8/X4dYLQGo9TI/AAAAAAAAqo0/mLxPRiKlhPEU-YXkbHGHAiACE_Jvz4tjgCLcBGAsYHQ/s135/274-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n274/",
+      "fetched_at": "2026-05-16T19:10:34.269Z",
+      "raw_id": "/nendoroid/details/n274/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.338Z",
+      "raw_id": "Nendoroid/0200-0299/274.json"
+    }
+  ]
+}

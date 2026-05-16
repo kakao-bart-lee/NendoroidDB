@@ -1,0 +1,89 @@
+{
+  "num": "2854",
+  "name": {
+    "en": "Oozora Subaru",
+    "ja": "ねんどろいど 大空スバル サスペンダー衣装Ver.",
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": "ホロライブプロダクション",
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "other",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": "4580828662650",
+  "gsc_product_id": "57498",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/57498",
+    "ja": "https://www.goodsmile.com/ja/product/57498"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57498/bae9d58a979bf484e83e8a21cbadb20f.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3GDMJzFrEWC9a-XHKxp4upyBPTvDD9k3ZVnhNG5qRiRsgli6bFCk3Dzof-NSTxSKiIPuXSxFoz9khWZsDiNqgU27EdcEFJ-uznWA6YZmuJQXTobytGBqpNFWYEslqUWFCkzAg-35C1IEEOfr95GklgRihstwia2Z3UcQMBnWOptJizBDeZbupUMOxvWdD/s270/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ypJyEbbCsY2Nej2kLaZxIklb0uKyIxT_090bNgP6b7ty07toGNvL2a-Gt0SW7zK0NE8x7JEVcSN0ELDuVdJRc7xdaOLeVLSMsBRaxq83z_HtWesy1zwkv-YwZXzuj7w-ADetEhVF__FxKMf4UuntKLmjdWId-1UliYbRPdhW-hcJeIeykuB1mihazlGc/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL8iG2pjtroj3hQwkmiB4HxFU6duOEtKRJf7U6DNIJIzL8QxKgDrlfxGLzDTrXGMlEYvH-6pjCGxEUVP6Ng4fZPeuyGnGzocBlsXBR4DQ_EHl6Qg4a58wLmShJzMFju9HSFA34XvxQ-VmNvZsiOASDHzbn5e0egC4R1CIKtvcaaf4wWwKXJKpMAJkTzTvE/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp-sH2LQDX4VF4dXIG31hmoQdv1Ugdpg7UffauK5VSeZNPRSua3cZKAdiBULjCw6H8x2WGyWHcFPBwfb1UwuJ3zFO_h3CerX1td32lIhA3IScTjhRb9UszdT7a6B4tTXP6t0wriC6MfrC4sUEGuz3ddOEZhti2gjuN14PLv9YpwAx5EbaAAPlRbhaxD3MP/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN0F2uROTqCbY3CRkV6ntl8dEOXLUbEDYH1wUZTFQgI4St3vQuj2j3CE2e_5qNEaKDZ3GL8LVJegjiKOueUGa04mLmR-CDbm8ONF49FzqlJrmvHq_Zn_QPMx5bCe5ikvQDkxY1VcvAnRFIGONBPKONnrr5EpAlJviFmYvF3Vm3T32jE12lk07DCX8QzobA/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBW1zWNGYaNDcrg90EcTtTeFk1_rQnxrZzYIIFawwvuFLhUHRfd9PdRjynuZ17YVq5-DSLPI6nplCXPKNEDL3UiK-ky3XPROoA8xE_Ag7v5Lh7DAMJLjxmsSAFdAs39hHKxlIQ-xghuT-1_ICi0JBuAE8jIFteLbjNV-4b5PSIxHf6w5xQdVxEjtzMyv3o/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-zEPuRuqVmQIwhGIwUCvNOvzoor5WVlYZu5viQo6loBQNmMW6FVMGGSZjMOkJcEkSjGTd9f36tJ7kJw6p4PwsMBTuSH1L8TqMu_-RA23TQ_GEfpYBrZaV03EzisMBTHknm0ZFfTkHWzHC5od9kNYUoNd4yWn4fTYKNsFMKaRjNIeyGj2ZTgGf2EkoUue/s135/2854-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57498/7fc5fcdaf5ee5a0a3faac723b60fca54.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57498/bae9d58a979bf484e83e8a21cbadb20f.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/57498",
+      "price_local": 7500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:04:57.422Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/57498",
+      "fetched_at": "2026-05-16T12:04:57.422Z",
+      "raw_id": "57498"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/57498",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "57498"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2854/",
+      "fetched_at": "2026-05-16T19:10:34.353Z",
+      "raw_id": "/nendoroid/details/n2854/"
+    }
+  ]
+}

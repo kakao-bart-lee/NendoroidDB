@@ -1,0 +1,64 @@
+{
+  "num": "0049",
+  "name": {
+    "en": "Trigger Heart",
+    "ja": "ねんどろいど エグゼリカ＆ユニットセット (ねんどろいど えぐぜりか＆ゆにっとせっと)",
+    "ko": "에그제리카 & 유닛 세트"
+  },
+  "series": {
+    "en": "Trigger Heart Excelica",
+    "ja": "トリガーハート エグゼリカ エンハンスド",
+    "ko": "트리거하트 에그제리카",
+    "code": "trigger-heart-excelica"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 14080,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3368,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1ALLRnri1LU/X4MR9bCFC0I/AAAAAAAApZg/v0yDsQ9hWNoK4kwaWFn0uJEahuVq8XogQCLcBGAsYHQ/s270/049-Trigger-Heart-Excelica-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1ALLRnri1LU/X4MR9bCFC0I/AAAAAAAApZg/v0yDsQ9hWNoK4kwaWFn0uJEahuVq8XogQCLcBGAsYHQ/s270/049-Trigger-Heart-Excelica-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cg2VeW7H74c/X4GwiF_uRnI/AAAAAAAApEY/i3DDXLaZ6K4-4TyhfZk6u5nV8lymlV_XwCLcBGAsYHQ/s135/049-Trigger-Heart-Trigger-Heart-Excelica-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n049/",
+      "fetched_at": "2026-05-16T19:10:33.095Z",
+      "raw_id": "/nendoroid/details/n049/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.274Z",
+      "raw_id": "Nendoroid/0000-0099/049.json"
+    }
+  ]
+}

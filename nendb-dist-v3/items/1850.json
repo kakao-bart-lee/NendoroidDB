@@ -1,0 +1,68 @@
+{
+  "num": "1850",
+  "name": {
+    "en": "Nendoroid Aloy",
+    "ja": "ねんどろいど アーロイ (ねんどろいど あーろい)",
+    "ko": "에일로이"
+  },
+  "series": {
+    "en": "Horizon Forbidden West",
+    "ja": "Horizon Forbidden West",
+    "ko": "호라이즌 포비든 웨스트",
+    "code": "horizon-forbidden-west"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12520,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4cOpuL4wHao/Yp4F3M7LejI/AAAAAAAB6wg/ip3cedvZM148ffT6wLUwTFllZanSbEgHgCNcBGAsYHQ/s270/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4cOpuL4wHao/Yp4F3M7LejI/AAAAAAAB6wg/ip3cedvZM148ffT6wLUwTFllZanSbEgHgCNcBGAsYHQ/s270/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r7RzGGev97k/Yp4NCKvCpEI/AAAAAAAB6yw/0YPa_uBsBGgWUiw26XkWOr5os6pSLxBpQCNcBGAsYHQ/s135/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pfFmlqhc1sM/Yp4NCGAZSeI/AAAAAAAB6ys/8ClnCBMKN4os0mUEDzTqMnyoCgLJ7NjPwCNcBGAsYHQ/s135/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5V1zWN7niwo/Yp4NCcunS-I/AAAAAAAB6y0/sz6KxiYxu7ghNFI0wLwMncC8HRUyVJoHwCNcBGAsYHQ/s135/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z0kBcsj9HnY/Yp4NCu64ioI/AAAAAAAB6y4/XollK1E7ulo61Lp7DmwJHOTbmgPZz5AggCNcBGAsYHQ/s135/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TvVcRRoFljg/Yp4NCnn5-iI/AAAAAAAB6y8/6DKVvdcLmvM4GkjmyC9jGrwtjF-GbIRngCNcBGAsYHQ/s135/1850-Aloy-Horizon-Forbidden-West-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1850/",
+      "fetched_at": "2026-05-16T19:10:33.686Z",
+      "raw_id": "/nendoroid/details/n1850/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.767Z",
+      "raw_id": "Nendoroid/1800-1899/1850.json"
+    }
+  ]
+}

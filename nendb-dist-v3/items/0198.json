@@ -1,0 +1,68 @@
+{
+  "num": "0198",
+  "name": {
+    "en": "Nendoroid Haqua (ねんどろいど はくあ)",
+    "ja": "ねんどろいど ハクア (ねんどろいど はくあ)",
+    "ko": "하쿠아"
+  },
+  "series": {
+    "en": "The World God Only Knows",
+    "ja": "神のみぞ知るセカイ",
+    "ko": "신만이 아는 세계",
+    "code": "the-world-god-only-knows"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3304,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fSszK7Zfg-Y/X4NKOtwE7gI/AAAAAAABlUc/FwL683FE7icJsDkKFrkoOqKuLl7puq-awCLcBGAsYHQ/s270/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fSszK7Zfg-Y/X4NKOtwE7gI/AAAAAAABlUc/FwL683FE7icJsDkKFrkoOqKuLl7puq-awCLcBGAsYHQ/s270/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Q70SRAFjCl8/X4dUsXXHISI/AAAAAAAAqPI/b5XVgAX7gQUBFSe3-_HjotSBnXU73M9gwCLcBGAsYHQ/s135/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cq4kky96WBU/X4dUsnb5-oI/AAAAAAAAqPM/05H-ZFkZRhYJCX43ld5tdwhA290Z-Sb8gCLcBGAsYHQ/s135/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Hev2Ncflsug/X4dUtBB71gI/AAAAAAAAqPQ/YS5hdCFyanAJsk-vRISQgaYtSK2fbY55QCLcBGAsYHQ/s135/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4fa3Z-1qziE/X4dUtvEw7HI/AAAAAAAAqPU/V_jRb-WXapQ6mdj1nlECbXpIGNAi91UeQCLcBGAsYHQ/s135/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-w9hZhdmy7JA/X4dUuRW7dnI/AAAAAAAAqPY/Lq8_0-KbzGQIDe-51fw9zGI_99gSlwsQACLcBGAsYHQ/s135/198-Haqua-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n198/",
+      "fetched_at": "2026-05-16T19:10:33.771Z",
+      "raw_id": "/nendoroid/details/n198/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.317Z",
+      "raw_id": "Nendoroid/0100-0199/198.json"
+    }
+  ]
+}

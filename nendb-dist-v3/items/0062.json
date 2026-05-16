@@ -1,0 +1,68 @@
+{
+  "num": "0062",
+  "name": {
+    "en": "Nendoroid MikkuMiku Kagami (みっくみくかがみ ねんどろいど)",
+    "ja": "ねんどろいど ミックミクかがみ (みっくみくかがみ ねんどろいど)",
+    "ko": "미쿠미쿠 카가미"
+  },
+  "series": {
+    "en": "Lucky Star OVA",
+    "ja": "らき☆すたOVA",
+    "ko": "하츠네미쿠",
+    "code": "lucky-star-ova"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2293,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ai5JkHqgwZc/X4MSA8SPmzI/AAAAAAAApac/DRyfNeVrEs4jOWZI8KhgF6HNn0qzgjBhQCLcBGAsYHQ/s270/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ai5JkHqgwZc/X4MSA8SPmzI/AAAAAAAApac/DRyfNeVrEs4jOWZI8KhgF6HNn0qzgjBhQCLcBGAsYHQ/s270/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fIgQ7K0tioA/X4GwslMhpdI/AAAAAAAApH4/O3sw0GuygrcJXbF4q7gXwaEzcIBCxRSQQCLcBGAsYHQ/s135/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NqMcRyIazV4/X4Gws-LawwI/AAAAAAAApH8/2LhD1UvN2-omZYiZvAhn7grS6ZcnF40-ACLcBGAsYHQ/s135/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jF8eVjDyycM/X4Gws6-IDoI/AAAAAAAApIA/GsKhlmrpIMkRWxbXZHmSsZoFXAOcwSGAgCLcBGAsYHQ/s135/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dlq7V9JiX_I/X4GwtAokFnI/AAAAAAAApII/MkPnrAskXqEG3ntjXBKHrgoJb4gUndDgQCLcBGAsYHQ/s135/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0EIlBd3nHIk/X4GwtB0uwrI/AAAAAAAApIE/060zbvXrZ98X-ja6f35ERaAjnQnxuBCJQCLcBGAsYHQ/s135/062-Miku-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n062/",
+      "fetched_at": "2026-05-16T19:10:33.104Z",
+      "raw_id": "/nendoroid/details/n062/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.278Z",
+      "raw_id": "Nendoroid/0000-0099/062.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "2056",
+  "name": {
+    "en": "Nendoroid Nagi Seishiro",
+    "ja": "ねんどろいど 凪 誠士郎 (ねんどろいど なぎ せいしろう)",
+    "ko": "나기 세이시로"
+  },
+  "series": {
+    "en": "BLUELOCK",
+    "ja": "ブルーロック",
+    "ko": "블루 록",
+    "code": "bluelock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13856,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G9PJOoJvtiE/Y9mKEkOJmhI/AAAAAAAA8fk/9pN1TCRvGfkoWUQNceuAwYklqhGDsg_rACNcBGAsYHQ/s270/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G9PJOoJvtiE/Y9mKEkOJmhI/AAAAAAAA8fk/9pN1TCRvGfkoWUQNceuAwYklqhGDsg_rACNcBGAsYHQ/s270/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wCEfbGQg7cE/Y9mPeosJjnI/AAAAAAAA8qk/Z3HP8ksblDMg78CFOVQdVXzMT9Kj5SoRQCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hOJYNlqNxgU/Y9mPfGle-uI/AAAAAAAA8qo/K3nkLN6I9ZAfq2maF9f6kf1XsJdhpwwnQCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-McnMtrzRuP4/Y9mPfQYgiqI/AAAAAAAA8qs/wZs1oUr18IAYj9oSQlTeLYl32BgIYNZ1wCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4ZvDLJrcLJM/Y9mPf04wfAI/AAAAAAAA8qw/wgns9kNdh10mSysPAAlvqO6hvcMy52-NACNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yt0o2a2E4S0/Y9mPgTvdVBI/AAAAAAAA8q0/b0icagqz-awkPUj5NiNKE3U6odpdTRALwCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xfrPUS0iHJQ/Y9mPg0cPNVI/AAAAAAAA8q4/NJGzcYIF-ZcDxI0OIm-cBiQP4BMwVBfjgCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-tG9hItaOOZo/Y9mPhZCmXZI/AAAAAAAA8q8/CoyXTAXgDhIkzLayRnZC_dgJESKUUcgEwCNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-oFTRVzLgqFI/Y9mPerh8dRI/AAAAAAAA8qg/tlY7LeqJ-SUskuGA4zZvDs06MaFRRlIGACNcBGAsYHQ/s135/2056-Nagi-Seishiro-Blue-Lock-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2056/",
+      "fetched_at": "2026-05-16T19:10:33.812Z",
+      "raw_id": "/nendoroid/details/n2056/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.816Z",
+      "raw_id": "Nendoroid/2000-2099/2056.json"
+    }
+  ]
+}

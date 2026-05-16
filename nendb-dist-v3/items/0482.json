@@ -1,0 +1,70 @@
+{
+  "num": "0482",
+  "name": {
+    "en": "Nendoroid Suzuya (ねんどろいど すずや)",
+    "ja": "ねんどろいど 鈴谷 (ねんどろいど すずや)",
+    "ko": "스즈야"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4744,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9grTWXI2FDI/X4NN7_WDPHI/AAAAAAABlrs/xYIBExgY6Hwb6ISkCbzrCVpOvnvHu8EOACLcBGAsYHQ/s270/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9grTWXI2FDI/X4NN7_WDPHI/AAAAAAABlrs/xYIBExgY6Hwb6ISkCbzrCVpOvnvHu8EOACLcBGAsYHQ/s270/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4CmoS9UoevA/X4dfIx18V3I/AAAAAAAArxY/x2nRSligGMg-UJ2uTXE9yBmDvgdujFhIQCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hgv4iZkn9f4/X4dfJKR4cTI/AAAAAAAArxc/-CGNOVSnOioN0GbhfHKXNd_tlR4U-eWVgCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Utx9MnpvZYE/X4dfJdL8qpI/AAAAAAAArxg/gI0_1UEBWAowrKIpuvwzh0dGJTfVIwPnQCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NHIqnKaDUZI/X4dfJrhUVZI/AAAAAAAArxk/EXf89suJEtQZD8Bv6faesM9dcChwoKwrgCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9_qoEDFcf2g/X4dfJ0Wau7I/AAAAAAAArxo/bWpe8xxLqYQ95af1mSaxyNxVqyD7ECEUQCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jQxfoNwSBmU/X4dfKDXsLgI/AAAAAAAArxs/qhZprRN3nAsDqNGxC1MKPBkjjaAcMYyPwCLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-tEgmPaIWkHc/X4dfKScV3eI/AAAAAAAArxw/w-7Nogu7C2cYgugytdIOEX8XtdRLnJwtACLcBGAsYHQ/s135/482-Suzuya-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n482/",
+      "fetched_at": "2026-05-16T19:10:34.553Z",
+      "raw_id": "/nendoroid/details/n482/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.390Z",
+      "raw_id": "Nendoroid/0400-0499/482.json"
+    }
+  ]
+}

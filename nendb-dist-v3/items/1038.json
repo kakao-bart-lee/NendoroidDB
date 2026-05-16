@@ -1,0 +1,68 @@
+{
+  "num": "1038",
+  "name": {
+    "en": "Nendoroid Jin",
+    "ja": "ねんどろいど 金 (ねんどろいど きん)",
+    "ko": "킹"
+  },
+  "series": {
+    "en": "AOTU World",
+    "ja": "凹凸世界",
+    "ko": "요철세계",
+    "code": "aotu-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7837,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oD2jKh7NyEM/X4Nfp8B-jYI/AAAAAAABmTg/LzW8Q9a0oooCbcGWVdIrfRjGEkJ-T06ewCLcBGAsYHQ/s270/1038-Jin-Aotu-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oD2jKh7NyEM/X4Nfp8B-jYI/AAAAAAABmTg/LzW8Q9a0oooCbcGWVdIrfRjGEkJ-T06ewCLcBGAsYHQ/s270/1038-Jin-Aotu-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e3T9e-LFTyA/X4rr6Q5c3YI/AAAAAAABofo/EnvK2i9xp7A2oWxTq8Z38UhzNzsVQJfGACLcBGAsYHQ/s135/1038-Jin-AOTU-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NJ050256xxA/X4rr62AtmOI/AAAAAAABofs/kWIQxBIsQi8bXDj4cYaxrf7O5VElE6uMwCLcBGAsYHQ/s135/1038-Jin-AOTU-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kVr_2Nb0g4k/X4rr7OHKGPI/AAAAAAABofw/GmdDIQ4BOY4fSMtiyMDwWUJXowB4gyY5wCLcBGAsYHQ/s135/1038-Jin-AOTU-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-da99hbYMSIo/X4rr7mJmI8I/AAAAAAABof0/VPaE5qGZVUAub1IPAEmfnwJyiN_xWGwBACLcBGAsYHQ/s135/1038-Jin-AOTU-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hP10OJJlTQQ/X4rr7gxoLuI/AAAAAAABof4/BYX6G5FhgVoxKav09FDUe8bzzT3ZfeTrQCLcBGAsYHQ/s135/1038-Jin-AOTU-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1038/",
+      "fetched_at": "2026-05-16T19:10:33.163Z",
+      "raw_id": "/nendoroid/details/n1038/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.570Z",
+      "raw_id": "Nendoroid/1000-1099/1038.json"
+    }
+  ]
+}

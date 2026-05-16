@@ -1,0 +1,68 @@
+{
+  "num": "0436",
+  "name": {
+    "en": "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ja": "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ko": "슈퍼 소니코 워킹 Ver."
+  },
+  "series": {
+    "en": "SoniAni",
+    "ja": "そにアニ",
+    "ko": "슈퍼 소니코",
+    "code": "soniani"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3769,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4486,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MGZwPwOJC1k/X4NNwBKCEGI/AAAAAAABlow/ARzgXn1G7tMRHYq6FnB9RsIu2e-avRs4gCLcBGAsYHQ/s270/436-Super-Sonico-Working-Set-Super-Sonico-The-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MGZwPwOJC1k/X4NNwBKCEGI/AAAAAAABlow/ARzgXn1G7tMRHYq6FnB9RsIu2e-avRs4gCLcBGAsYHQ/s270/436-Super-Sonico-Working-Set-Super-Sonico-The-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WYxGQC_X6fI/X4deBoKCtWI/AAAAAAAArh0/8vC5HKLOVycxxdLezeYO3SZVRTwtsDw4ACLcBGAsYHQ/s135/436-Super-Sonico-Nitroplus-Mascots-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4vtXqEMZ-Yg/X4deB3aD-3I/AAAAAAAArh4/Hm4FK_GrgGoEoZHkJQa1OVEej1Gn53ZuQCLcBGAsYHQ/s135/436-Super-Sonico-Nitroplus-Mascots-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9cI12LTjxmQ/X4deCJrzh9I/AAAAAAAArh8/YSrbAd1VTzUo3q5QlSsvBKB63sID2SxNACLcBGAsYHQ/s135/436-Super-Sonico-Nitroplus-Mascots-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BHCisVEKxIw/X4deCWBXV0I/AAAAAAAAriA/OPujwFsdfOUGebOy7Z7gXmw2rwbHzQIMACLcBGAsYHQ/s135/436-Super-Sonico-Nitroplus-Mascots-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HfdftM2Dtbs/X4deCfo6Z2I/AAAAAAAAriE/DU0b3DcIiwgL7SR5Y2pnOYLpvU8pzs8ygCLcBGAsYHQ/s135/436-Super-Sonico-Nitroplus-Mascots-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n436/",
+      "fetched_at": "2026-05-16T19:10:34.528Z",
+      "raw_id": "/nendoroid/details/n436/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.379Z",
+      "raw_id": "Nendoroid/0400-0499/436.json"
+    }
+  ]
+}

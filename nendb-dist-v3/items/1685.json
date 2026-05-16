@@ -1,0 +1,70 @@
+{
+  "num": "1685",
+  "name": {
+    "en": "Nendoroid Pannacotta Fugo",
+    "ja": "ねんどろいど パンナコッタ・フーゴ (ねんどろいど ぱんなこった・ふーご)",
+    "ko": "판나코타 푸고"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11548,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-frPb5RkMxkA/YS6JwPCrT3I/AAAAAAAAz9o/Ul3I4f2gC14CZcIjPGK09s6KOBeKuQ2eACLcBGAsYHQ/s270/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-frPb5RkMxkA/YS6JwPCrT3I/AAAAAAAAz9o/Ul3I4f2gC14CZcIjPGK09s6KOBeKuQ2eACLcBGAsYHQ/s270/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6Qr3UR8aBkw/YS6Mud7jipI/AAAAAAAA0I8/z4xd-HSK6yoFyZpqxinVlibIwBQ6M8AHwCLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0wAq_snji9w/YS6MudOd1jI/AAAAAAAA0JA/JhBcYUKvONITa_r2y_0LnWHLAOVfPmiPgCLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z3R1Ycfb8R0/YS6MujvahMI/AAAAAAAA0JE/KgIAhKFCFGE-2feUAYfOYvzpiWct2-ZeACLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-28SlbZscu5Q/YS6MvQw2BBI/AAAAAAAA0JI/zmwZZVHM9Uoh5ghOrpArRKeiHM3tEJjpACLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-elIVsXi8IcY/YS6MvbHXPkI/AAAAAAAA0JM/yf9nAHPtVrkOuHR7a38Lp-BNxg5w492jQCLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-URjrNHtUstE/YS6Mvly1jLI/AAAAAAAA0JQ/9ftgHpB88m82WWeN90J70xPs8SVnGzN_wCLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-0TI_fNQWRZQ/YS6MwM80bFI/AAAAAAAA0JU/YvliPKLoFHwAWDVt625JsqVb8Z84a2z0gCLcBGAsYHQ/s135/1685-Pannacotta-Fugo-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1685/",
+      "fetched_at": "2026-05-16T19:10:33.583Z",
+      "raw_id": "/nendoroid/details/n1685/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.726Z",
+      "raw_id": "Nendoroid/1600-1699/1685.json"
+    }
+  ]
+}

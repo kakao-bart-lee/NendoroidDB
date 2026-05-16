@@ -1,0 +1,69 @@
+{
+  "num": "1504",
+  "name": {
+    "en": "Nendoroid Teletha Testarossa",
+    "ja": "ねんどろいど テレサ・テスタロッサ (ねんどろいど てれさ・てすたろっさ)",
+    "ko": "테레사 테스타롯사"
+  },
+  "series": {
+    "en": "Full Metal Panic! Invisible Victory",
+    "ja": "フルメタル・パニック！ Invisible Victory",
+    "ko": "풀 메탈 패닉!",
+    "code": "full-metal-panic-invisible-victory"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10303,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-100Ff0HshWE/X58YkULEECI/AAAAAAAAuFo/l7d48NkxHVgOqmRqny55mHgNKEkuDqb6gCLcBGAsYHQ/s270/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-100Ff0HshWE/X58YkULEECI/AAAAAAAAuFo/l7d48NkxHVgOqmRqny55mHgNKEkuDqb6gCLcBGAsYHQ/s270/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SSRDfJKatVQ/X58aFAjOiZI/AAAAAAAAuKI/BuJ7UwUFSVIIcT07Fd4Z3sv8sAkjalFjgCLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-g-nCw-vlswg/X58aFoFDwYI/AAAAAAAAuKM/HrwZ0uPXM4oYv3xP7OD2jKaBCs208YSGQCLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VqLCc5K6YAw/X58aGO0A4yI/AAAAAAAAuKQ/HNJ1T3mmZVYps-NJIN1tRdihDn_wBD1lgCLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SggIDschiB8/X58aGkbYrFI/AAAAAAAAuKU/HGutB6I0nyYvSQr23gmZVwUrT5wAs75VgCLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eIio1qH8s6E/X58aHUzxYBI/AAAAAAAAuKY/h0MBhsw5rHIlqGIbAr_CUVS3aFWLmrxzACLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-KaFA9fWaWSY/X58aHUyspmI/AAAAAAAAuKc/AgwdU7tY320VgXsjzTLLIjDUNefQi1XPgCLcBGAsYHQ/s135/1504-Teletha-Testarossa-Full-Metal-Panic-Invisible-Victory-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1504/",
+      "fetched_at": "2026-05-16T19:10:33.471Z",
+      "raw_id": "/nendoroid/details/n1504/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.682Z",
+      "raw_id": "Nendoroid/1500-1599/1504.json"
+    }
+  ]
+}

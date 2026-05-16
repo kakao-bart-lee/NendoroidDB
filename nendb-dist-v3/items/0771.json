@@ -1,0 +1,67 @@
+{
+  "num": "0771",
+  "name": {
+    "en": "Nendoroid Kanan Matsuura",
+    "ja": "ねんどろいど 松浦果南 (ねんどろいど まつうらかなん)",
+    "ko": "마츠우라 카난"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6437,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RUJlFyv7B1c/X4NdFbhB3zI/AAAAAAABl_8/mQ78VDCpoRo-fdAqSD5o2FsGR-k-zZGEgCLcBGAsYHQ/s270/771-Kanan-Matsuura-Love-Live-Sunshine%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RUJlFyv7B1c/X4NdFbhB3zI/AAAAAAABl_8/mQ78VDCpoRo-fdAqSD5o2FsGR-k-zZGEgCLcBGAsYHQ/s270/771-Kanan-Matsuura-Love-Live-Sunshine%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j_kmrCcMvM4/X4i5XQDLSXI/AAAAAAAAtgU/0RkgEhXZrxUGQgElCS_JLhpJH9TLmik9wCLcBGAsYHQ/s135/771-Kanan-Matsuura-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5UWPwBvczlQ/X4i5XlHLMhI/AAAAAAAAtgY/kCm3wNwk4WYjCAlb3gjMPOqhE4fTLh9AQCLcBGAsYHQ/s135/771-Kanan-Matsuura-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--HfvG4AAiVY/X4i5Xtph5lI/AAAAAAAAtgc/-IFYuwp42DI0UNXZ8fuFcJdSobhAtjYFACLcBGAsYHQ/s135/771-Kanan-Matsuura-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-k-jh_AKd2yo/X4i5X3Zdg1I/AAAAAAAAtgg/Womp_-YS6j0Dy9fh5VjpCc9Aa55JXEnawCLcBGAsYHQ/s135/771-Kanan-Matsuura-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n771/",
+      "fetched_at": "2026-05-16T19:10:34.789Z",
+      "raw_id": "/nendoroid/details/n771/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.504Z",
+      "raw_id": "Nendoroid/0700-0799/771.json"
+    }
+  ]
+}

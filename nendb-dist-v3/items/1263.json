@@ -1,0 +1,69 @@
+{
+  "num": "1263",
+  "name": {
+    "en": "Nendoroid Mamako Oosuki",
+    "ja": "ねんどろいど 大好真々子 (ねんどろいど おおすきままこ)",
+    "ko": "오오스기 마마코"
+  },
+  "series": {
+    "en": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "ja": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "ko": "일반공격이 전체공격에 2회 공격인 엄마는 좋아하세요?",
+    "code": "do-you-love-your-mom-and-her-two-hit-multi-target-attacks"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9125,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-i7DQQWCKKgU/X4NiZ6lxetI/AAAAAAABmqo/lwBsPe8JTi8BvJS8kfTaoPl6jAvdRAbigCLcBGAsYHQ/s270/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i7DQQWCKKgU/X4NiZ6lxetI/AAAAAAABmqo/lwBsPe8JTi8BvJS8kfTaoPl6jAvdRAbigCLcBGAsYHQ/s270/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-b_VJOtlyp-I/X4r0VQAR0KI/AAAAAAABp8U/jGj1FCC1xuEtE3ijRYZ5K4l6K5oXQezmgCLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tlxH5Rdec3A/X4r0V2c-3DI/AAAAAAABp8Y/pN1Kw-mgQXo6dPyrAbyx0Zt8sQu16FxWQCLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_h-LBzvuF7E/X4r0WNk683I/AAAAAAABp8c/8NobD_FCwyU1di5ku-FSfo_wxIt6jfFjACLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-THR3F4LmQYU/X4r0WFbirCI/AAAAAAABp8g/CiBnmhpyUZQWfiDT5LQf5Eni5JCPJYpSACLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZDn5Zy4zrgI/X4r0Wft0JHI/AAAAAAABp8k/1xTMCMTapQsl5liY9vOgiBhmNv9ODY2iwCLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lP3sDc6MRK4/X4r0WbvMoTI/AAAAAAABp8o/28LOqCo1FAco3O0ylYQ2qDZ8WjhV-4PQgCLcBGAsYHQ/s135/1263-Mamako-Oosuki-Do-You-Love-Your-Mom-and-Her-Two-Hit-Multi-Target-Attacks-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1263/",
+      "fetched_at": "2026-05-16T19:10:33.321Z",
+      "raw_id": "/nendoroid/details/n1263/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.624Z",
+      "raw_id": "Nendoroid/1200-1299/1263.json"
+    }
+  ]
+}

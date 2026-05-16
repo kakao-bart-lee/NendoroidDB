@@ -1,0 +1,68 @@
+{
+  "num": "1215",
+  "name": {
+    "en": "Nendoroid Qiluo Zhou",
+    "ja": "ねんどろいど キラ (ねんどろいど きら)",
+    "ko": "주기락"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8838,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3RjJqhADidA/X4NiIDCfykI/AAAAAAABmno/DIySZkB8w70Wl19Xa-oBMM42md2JBXPFgCLcBGAsYHQ/s270/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3RjJqhADidA/X4NiIDCfykI/AAAAAAABmno/DIySZkB8w70Wl19Xa-oBMM42md2JBXPFgCLcBGAsYHQ/s270/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-16O65LG4VVU/X4rzOWZ6E7I/AAAAAAABprA/ru4U9LBJ0o4WzEfd8BMea2cU0JaeLRcgQCLcBGAsYHQ/s135/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VZHw5Sfjy58/X4rzOvdBlGI/AAAAAAABprE/YpBOnui3SV8FEdcZ-Q8ZGKaTTA3S2b9jwCLcBGAsYHQ/s135/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T0cgUbNFSUk/X4rzOz581LI/AAAAAAABprI/NChLfhw2iJYEvsW9WWgfMZ4ENfUpL03awCLcBGAsYHQ/s135/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NReVmFVTzPI/X4rzO-EKJBI/AAAAAAABprM/PdgjfZMfS0calD_cULXjlTxG8PO-X_9lQCLcBGAsYHQ/s135/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7HnQZbjtiY0/X4rzPF5e9nI/AAAAAAABprQ/BsUzR3Ij1b0VzUAU7xPaLCIqxQEk3w-GwCLcBGAsYHQ/s135/1215-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1215/",
+      "fetched_at": "2026-05-16T19:10:33.291Z",
+      "raw_id": "/nendoroid/details/n1215/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.612Z",
+      "raw_id": "Nendoroid/1200-1299/1215.json"
+    }
+  ]
+}

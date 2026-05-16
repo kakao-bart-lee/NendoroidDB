@@ -1,0 +1,68 @@
+{
+  "num": "1265",
+  "name": {
+    "en": "Nendoroid Su Mucheng",
+    "ja": "ねんどろいど 蘇沐橙 (ねんどろいど そむーちぇん)",
+    "ko": "쑤무청"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9134,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XFUesvNcq7k/X4NiakQLuHI/AAAAAAABmqw/PHdwI3xdK-gsOQ8VEz0PYbv5v6R1uJZQwCLcBGAsYHQ/s270/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XFUesvNcq7k/X4NiakQLuHI/AAAAAAABmqw/PHdwI3xdK-gsOQ8VEz0PYbv5v6R1uJZQwCLcBGAsYHQ/s270/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-w3R4MYV7nbo/X4r0XyyyglI/AAAAAAABp9A/vSDqsVWj8-4XVW952ung4PKXCgwGTwPDACLcBGAsYHQ/s135/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-p3VxhgtNxTA/X4r0YVUZG1I/AAAAAAABp9E/VV7YQ4-B14E0aRwPZ5ScCvctJUy6zB9gwCLcBGAsYHQ/s135/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-E3u5Bh9JtUo/X4r0Yz7kQBI/AAAAAAABp9I/kvwO5hDBP7UidTdn99BtWXw-q5FLgALjQCLcBGAsYHQ/s135/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1XChWYJDwaY/X4r0ZQOtTLI/AAAAAAABp9M/C0msqc5qCOwLZ9904sRAF3Zox2ib0kwZwCLcBGAsYHQ/s135/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SeNr0e4K4XU/X4r0ZmqdBKI/AAAAAAABp9Q/VAE4fvCkzlwvEprm6Gd1-u8Ce5QFViaXgCLcBGAsYHQ/s135/1265-Su-Mucheng-The-Kings-Avatar-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1265/",
+      "fetched_at": "2026-05-16T19:10:33.322Z",
+      "raw_id": "/nendoroid/details/n1265/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.624Z",
+      "raw_id": "Nendoroid/1200-1299/1265.json"
+    }
+  ]
+}

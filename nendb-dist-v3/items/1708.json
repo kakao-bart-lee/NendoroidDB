@@ -1,0 +1,68 @@
+{
+  "num": "1708",
+  "name": {
+    "en": "Nendoroid Sally",
+    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko": "샐리"
+  },
+  "series": {
+    "en": "Peach Boy Riverside",
+    "ja": "ピーチボーイリバーサイド",
+    "ko": "피치보이 리버사이드",
+    "code": "peach-boy-riverside"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11742,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-seHBjc--zdQ/YWSHbsKrQaI/AAAAAAAA0_A/wqrhqcrmaGkrBpos-BVTdtqojAHESIvyACLcBGAsYHQ/s270/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-seHBjc--zdQ/YWSHbsKrQaI/AAAAAAAA0_A/wqrhqcrmaGkrBpos-BVTdtqojAHESIvyACLcBGAsYHQ/s270/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R6fdhvp2glE/YWSagAXDHCI/AAAAAAAA1Ec/fZcbJryL1DYk2sHe5eaKfr_b1DYV7naFACLcBGAsYHQ/s135/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-E6CQXDLEri0/YWSagTtslpI/AAAAAAAA1Ek/dYAIcPhAA5QHOQIr_L1VmF3ZtDfXA8s2ACLcBGAsYHQ/s135/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_tyBDu4-vZQ/YWSagqYQWhI/AAAAAAAA1Eo/OpRR25RNkqEnEIen3uflNxbmtIlisJdkQCLcBGAsYHQ/s135/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MfTHoNRSdjU/YWSag-a16CI/AAAAAAAA1Es/Cq6xy_51CR8X0KAkKJ7bGEoGIJ80FoOGwCLcBGAsYHQ/s135/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2jsg4Np2K2A/YWSag9Dd7cI/AAAAAAAA1Ew/5SYsxeCyO9EARqZofiphAbN4jM04XO2pQCLcBGAsYHQ/s135/1708-Sally-Peach-Boy-Riverside-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1708/",
+      "fetched_at": "2026-05-16T19:10:33.598Z",
+      "raw_id": "/nendoroid/details/n1708/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.731Z",
+      "raw_id": "Nendoroid/1700-1799/1708.json"
+    }
+  ]
+}

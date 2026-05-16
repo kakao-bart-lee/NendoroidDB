@@ -1,0 +1,69 @@
+{
+  "num": "1214",
+  "name": {
+    "en": "Nendoroid Red Blood Cell",
+    "ja": "ねんどろいど 赤血球 (ねんどろいど せっけっきゅう)",
+    "ko": "적혈구"
+  },
+  "series": {
+    "en": "Cells at Work!",
+    "ja": "はたらく細胞",
+    "ko": "일하는 세포",
+    "code": "cells-at-work"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8836,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3bkVf7eT9kA/X4NiHjdumuI/AAAAAAABmnk/bgc13lD741o4eZphytxhol9IYU37Kgm-ACLcBGAsYHQ/s270/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3bkVf7eT9kA/X4NiHjdumuI/AAAAAAABmnk/bgc13lD741o4eZphytxhol9IYU37Kgm-ACLcBGAsYHQ/s270/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Sw-Hm7X753A/X4rzM6sh1TI/AAAAAAABpqo/fzUtCuK9MB0S3BW9N7wbwusnEK4EgWByACLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QGBDjjNBCRU/X4rzNCrt9QI/AAAAAAABpqs/0kta-4vLhAoU3jqlSuJ6_eWgOhJoInBJwCLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mlt3u-xa9zI/X4rzNRAeQsI/AAAAAAABpqw/li03leeo3gA-VFyS1r2_6FfxZrJBBuI_ACLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NS9dmVsg6Gc/X4rzNXbp5mI/AAAAAAABpq0/VGEN1kyabo0ZgGbcETsccGFo8hC5jAHnACLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D72XsVuE7x8/X4rzN0YRoWI/AAAAAAABpq4/noNIhHzr62QNgVBgVurQk0Jwadk0VWFWQCLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-t3YmF3XXn0Q/X4rzOI5qFuI/AAAAAAABpq8/0rgUXKRVY-oPxJ3qLm7O1cdy-flYLnGfwCLcBGAsYHQ/s135/1214-Red-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1214/",
+      "fetched_at": "2026-05-16T19:10:33.291Z",
+      "raw_id": "/nendoroid/details/n1214/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.612Z",
+      "raw_id": "Nendoroid/1200-1299/1214.json"
+    }
+  ]
+}

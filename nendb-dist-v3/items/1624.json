@@ -1,0 +1,71 @@
+{
+  "num": "1624",
+  "name": {
+    "en": "Nendoroid Dio Brando",
+    "ja": "ねんどろいど ディオ・ブランドー (ねんどろいど でぃお・ぶらんどー)",
+    "ko": "디오 브란도"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11143,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fqfah17TnsA/YJfim7Uz3wI/AAAAAAAAx24/pwoi0DoLUjcm3TR9XG4ECfBJpVXbT6OwwCLcBGAsYHQ/s270/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fqfah17TnsA/YJfim7Uz3wI/AAAAAAAAx24/pwoi0DoLUjcm3TR9XG4ECfBJpVXbT6OwwCLcBGAsYHQ/s270/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rLq4Ce8yKXI/YJfkcWf4rGI/AAAAAAAAx6I/dvazVFG-2mEUFmm26Pldvto5BGUCY32TQCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-78vKs1h59SU/YJfkcmOQvoI/AAAAAAAAx6M/_lat70WIykIxXgojVAQbGu08A3YFbWeXQCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qkuo42Ufr7U/YJfkc76VOBI/AAAAAAAAx6Q/kYkC8exfV9AtpEqhk8Lq6yE1LDniz90FgCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9tHkb8JgXMY/YJfkdYI-AuI/AAAAAAAAx6U/R7eX8m0ZG68aVZPSzgpxfzqnXJ0aFH8fgCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-G5ilcb28TvY/YJfkdlJR0rI/AAAAAAAAx6Y/5HvgfhfH7EU23_lnspBfdDorXwH_oEVgQCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-x8ENw_ZuLC0/YJfkdgmHU_I/AAAAAAAAx6c/Alve7tFvnMgxq6Fl-kNuKxmUJhHmy3TiQCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-OVf6x2TZAHo/YJfkeXJAUDI/AAAAAAAAx6g/ivHxbSSG4s8P-IAkQ9DtOwf9Ap_U0Q39wCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-D6AuRGRzWWg/YJfkcJsxAhI/AAAAAAAAx6E/u4JWJaw9Y78f1XaVoYdmSFPjg12V4sMewCLcBGAsYHQ/s135/1624-Dio-Brando-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1624/",
+      "fetched_at": "2026-05-16T19:10:33.543Z",
+      "raw_id": "/nendoroid/details/n1624/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.710Z",
+      "raw_id": "Nendoroid/1600-1699/1624.json"
+    }
+  ]
+}

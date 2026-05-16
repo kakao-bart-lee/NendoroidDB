@@ -1,0 +1,64 @@
+{
+  "num": "2300",
+  "name": {
+    "en": "Ai",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Oshi No Ko",
+    "ja": null,
+    "ko": null,
+    "code": "oshi-no-ko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t24SNxYIMwU/ZcqemoOD0eI/AAAAAAABDXs/WWAzBYlhgto5ViTcJ7ue_2wT3n3TnkD1ACNcBGAsYHQ/s270/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t24SNxYIMwU/ZcqemoOD0eI/AAAAAAABDXs/WWAzBYlhgto5ViTcJ7ue_2wT3n3TnkD1ACNcBGAsYHQ/s270/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SPdh9GADET4/ZowzE47xz2I/AAAAAAABFG4/e1FtTHSp0REP4A3bNW5cWUVxsaMZPdepACNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y1mEyEd8NQQ/ZowzFG-bZiI/AAAAAAABFG8/ivENnNbOFHY6Y77md-LN-MFSSLw4EZGtACNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gSrUOUrYeME/ZowzFtbgCwI/AAAAAAABFHA/JR9vGrPX5WclSO7NbLhTsXAz6iv0CuLqwCNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zcLfXddCez4/ZowzFuBR_qI/AAAAAAABFHE/MMHQzo7nXwolxZ4RMnG1119Hhbp1XWdZQCNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Dx3EZFbZuks/ZowzF5NbdvI/AAAAAAABFHI/yVRPh1DpDNc81_PKCG_tDv_ap3MEyt1fgCNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6r0oDmXd-Ao/ZowzGXH-azI/AAAAAAABFHM/wBH5OsN8-5I-6mDWnJXNkpyLri0efD-hwCNcBGAsYHQ/s135/2300-Ai-Oshi-no-Ko-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2300/",
+      "fetched_at": "2026-05-16T19:10:33.973Z",
+      "raw_id": "/nendoroid/details/n2300/"
+    }
+  ]
+}

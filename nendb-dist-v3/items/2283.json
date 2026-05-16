@@ -1,0 +1,65 @@
+{
+  "num": "2283",
+  "name": {
+    "en": "Yuri",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Doki Doki Literature Club!",
+    "ja": null,
+    "ko": null,
+    "code": "doki-doki-literature-club"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vJffq2wKaTE/ZSHUq2vwEII/AAAAAAABCAg/s52gJdPdZTwP7xjnOZQg-S0BT-zXR7wGwCNcBGAsYHQ/s270/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vJffq2wKaTE/ZSHUq2vwEII/AAAAAAABCAg/s52gJdPdZTwP7xjnOZQg-S0BT-zXR7wGwCNcBGAsYHQ/s270/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FnQwc-doPTQ/ZSHVs3qJZRI/AAAAAAABCEw/SqY5W51SCEg3ukApt0xcAmU5W5n6kKotQCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_5MBJ50uFXM/ZSHVtTDENlI/AAAAAAABCE0/R7WYVaL_z8kD9RiKikLUX7V5Xh0Ydfj0QCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A-GX8HDU1uA/ZSHVtprJtbI/AAAAAAABCE4/Ki8tOe13JA0-u4-O6oPdyUm69Jf65jgBACNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AmeF5rlU2C0/ZSHVuGclEII/AAAAAAABCE8/V9b0B6tafxExnDwcVCVeFMKG3h_qdppyQCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zdK6ncWJXRo/ZSHVubYjzII/AAAAAAABCFA/wf9PRJREgmEe7ZiuPKD3JDFeClbLNkfhwCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-o0vLBDxPrP0/ZSHVu7QMpPI/AAAAAAABCFE/pkpAVUIUpg4P2zVI1fK_7o9rJB7iFrOFwCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8BjMjEh1qf4/ZSHVvTu2H_I/AAAAAAABCFI/IBdakN8ZufIsoxEcBoIfgf3Qhj_hpMIKwCNcBGAsYHQ/s135/2283-Yuri-Doki-Doki-Literature-Club-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2283/",
+      "fetched_at": "2026-05-16T19:10:33.963Z",
+      "raw_id": "/nendoroid/details/n2283/"
+    }
+  ]
+}

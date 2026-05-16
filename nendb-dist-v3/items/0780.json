@@ -1,0 +1,68 @@
+{
+  "num": "0780",
+  "name": {
+    "en": "Nendoroid Lillie",
+    "ja": "ねんどろいど リーリエ (ねんどろいど りーりえ)",
+    "ko": "릴리에"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6464,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nzUDAbRO3CM/X4NdHinMV9I/AAAAAAABmAg/45mRURd5-888ZwDWb79ulIhxjzKMnlAHQCLcBGAsYHQ/s270/780-Lillie-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nzUDAbRO3CM/X4NdHinMV9I/AAAAAAABmAg/45mRURd5-888ZwDWb79ulIhxjzKMnlAHQCLcBGAsYHQ/s270/780-Lillie-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TD0kXCi8GNQ/X4i5lQxG6vI/AAAAAAAAtjQ/1aAuA2k8GhsEbBa0DCv8ifZ5_v9wmTqSQCLcBGAsYHQ/s135/780-Lillie-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_Z02s2AMn-k/X4i5lmRTdOI/AAAAAAAAtjU/SIULxWy4M0Af72cWa64tc5xzz8vCb0blwCLcBGAsYHQ/s135/780-Lillie-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1MQnGCxQD6s/X4i5l6KHlgI/AAAAAAAAtjY/Z6xtSob7kTI2s3hsshlrRvwIuL9TkqUhgCLcBGAsYHQ/s135/780-Lillie-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jORh7pmGxEE/X4i5mbOjfFI/AAAAAAAAtjc/2malu4xdPGQFtP-5fLVMzKvu537SGCr3ACLcBGAsYHQ/s135/780-Lillie-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QUMQOYk-mGo/X4i5mx2FOjI/AAAAAAAAtjg/Vty2OlhTTEQ1PHAAIB8dGEPfME_Ay9TfQCLcBGAsYHQ/s135/780-Lillie-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n780/",
+      "fetched_at": "2026-05-16T19:10:34.795Z",
+      "raw_id": "/nendoroid/details/n780/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.506Z",
+      "raw_id": "Nendoroid/0700-0799/780.json"
+    }
+  ]
+}

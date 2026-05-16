@@ -1,0 +1,68 @@
+{
+  "num": "0406b",
+  "name": {
+    "en": "Nendoroid Miss Monochrome: Poker Face Black ver. (ねんどろいど みす・ものくろーむ ぽーかー ふぇいす ぶらっく ver.)",
+    "ja": "ねんどろいど ミス・モノクローム Poker Face Black ver. (ねんどろいど みす・ものくろーむ ぽーかー ふぇいす ぶらっく ver.)",
+    "ko": "미스 모노크롬 Poker Face Black Ver."
+  },
+  "series": {
+    "en": "Miss Monochrome -The Animation-",
+    "ja": "ミス・モノクローム-The Animation-",
+    "ko": "미스 모노크롬",
+    "code": "miss-monochrome-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4273,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uiez-xhZca0/X4NNoy8N7_I/AAAAAAABlm4/P_lePrFSsI4XCpAVhnvtqihlnd3yXPTKQCLcBGAsYHQ/s270/406B-Miss-Monochrome-The%2BAnimation-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uiez-xhZca0/X4NNoy8N7_I/AAAAAAABlm4/P_lePrFSsI4XCpAVhnvtqihlnd3yXPTKQCLcBGAsYHQ/s270/406B-Miss-Monochrome-The%2BAnimation-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Zoeg2HoZNxg/X4ddSHAYo3I/AAAAAAAArYw/jk_nInUTmeo8PkXSg2RhllYt2d6hbJ1oACLcBGAsYHQ/s135/406B-Miss-Monochrome-Miss-Monochrome-The-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0fjSQ1U2cEQ/X4ddSrQbp_I/AAAAAAAArY0/q8fvnnwXUTUkopWVfKJdUOnbsP_ujWCGQCLcBGAsYHQ/s135/406B-Miss-Monochrome-Miss-Monochrome-The-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Yj8oIwoKBcA/X4ddS_fSsOI/AAAAAAAArY4/YXM1RIz0lL4dacpnlKvOlMCC7mF_vXvZACLcBGAsYHQ/s135/406B-Miss-Monochrome-Miss-Monochrome-The-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_HQ4g-nEccQ/X4ddTB4oloI/AAAAAAAArY8/rrawsRVqSRYASDpjLT9J5kMBmTW3xVXDQCLcBGAsYHQ/s135/406B-Miss-Monochrome-Miss-Monochrome-The-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yEdcVKDbNoY/X4ddTsbfLkI/AAAAAAAArZA/YpLWeMp-QKMfTHDEiOlkJ2Xud5pdOwdCwCLcBGAsYHQ/s135/406B-Miss-Monochrome-Miss-Monochrome-The-Animation-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n406b/",
+      "fetched_at": "2026-05-16T19:10:34.510Z",
+      "raw_id": "/nendoroid/details/n406b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.372Z",
+      "raw_id": "Nendoroid/0400-0499/406b.json"
+    }
+  ]
+}

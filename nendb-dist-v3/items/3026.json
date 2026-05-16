@@ -1,0 +1,60 @@
+{
+  "num": "3026",
+  "name": {
+    "en": "Frieren",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Frieren: Beyond Journey's End",
+    "ja": null,
+    "ko": null,
+    "code": "frieren-beyond-journey-s-end"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjExjl7p_jEVhChfMxIfRpRLHkwaKp4QFgNBa0bKHcdYqUaa5dARd0aV9iePDLWPMCpSyKpTCtlrwPohBUXBRru82L4UwLYzI2OK3Th9AkJhXzVfHOAvPZsEbWY3kndz_xgBWcu8pbZVGIEL_9Uk5UzT8OW_2Wvzgq42A026QTFBLO0l8rJI0HU_FQjJST/s270/3026-Frieren-Frieren-Beyond-Journeys-End-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjExjl7p_jEVhChfMxIfRpRLHkwaKp4QFgNBa0bKHcdYqUaa5dARd0aV9iePDLWPMCpSyKpTCtlrwPohBUXBRru82L4UwLYzI2OK3Th9AkJhXzVfHOAvPZsEbWY3kndz_xgBWcu8pbZVGIEL_9Uk5UzT8OW_2Wvzgq42A026QTFBLO0l8rJI0HU_FQjJST/s270/3026-Frieren-Frieren-Beyond-Journeys-End-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLyvVyECcN3qS3l1wnd2JWm5Ya1KD31nu8WgG9nZjzPZEKsD-wtbtV6Yu_ee9Xn7ZKF5I1fZUPLRO43QuXJSC3pKpOonPHa7giI4Q5VZCRemMueJl8J7KEYITFGqCaIkHfPozA7bhoSTDeBHIDeXUWDaNZBfHYXPBOf5wJCUpaa9ED50zO_ladGt2An3HL/s135/3026-Frieren-Frieren-Beyond-Journeys-End-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEsukNRE-7heNQaRP-jb2YHl4eiy1k9yuFq_w0QWnfZDQXCZX73L3vP8y6sG204FZFYwEqE2Gb0IMFx5JAa5gLmEinGwqZFdkl_0sTbES1vpcTBC9KWDN3d_kah9VTlOJmsbLfIZX0nX_vgTFQuYVo1caFNDKSF1BaUHTeu_gomWMNjJXBUg8kB0PgmvPB/s135/3026-Frieren-Frieren-Beyond-Journeys-End-Anime-and-Manga-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3026/",
+      "fetched_at": "2026-05-16T19:10:34.437Z",
+      "raw_id": "/nendoroid/details/n3026/"
+    }
+  ]
+}

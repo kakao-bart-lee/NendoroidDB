@@ -1,0 +1,70 @@
+{
+  "num": "1289",
+  "name": {
+    "en": "Nendoroid Nemesis",
+    "ja": "ねんどろいど ネメシス (ねんどろいど ねめしす)",
+    "ko": "네메시스"
+  },
+  "series": {
+    "en": "Infinite Dendrogram",
+    "ja": "インフィニット・デンドログラム",
+    "ko": "인피니트 덴드로그램",
+    "code": "infinite-dendrogram"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bavGOrbW18I/X4NihuSWSlI/AAAAAAABmsg/IH8dU6u0K84AtQYN6c3_PjzKOEPgNb6_ACLcBGAsYHQ/s270/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bavGOrbW18I/X4NihuSWSlI/AAAAAAABmsg/IH8dU6u0K84AtQYN6c3_PjzKOEPgNb6_ACLcBGAsYHQ/s270/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VgG4667tPWA/X4r1I6eRa7I/AAAAAAABqHU/nM-rv93FOfg486eTZMnXdrG9stRi4rRVQCLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wlaeETfaLBc/X4r1Jcm3f3I/AAAAAAABqHY/zAaFtFpmcmsUrXT2pXzKbyMcEYhmiksGwCLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vmFvk8YzYIA/X4r1J-XqkQI/AAAAAAABqHc/iOQ4MecIAK4FNZ7YF8wBqfD0TaqcrJiOgCLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-t_eeNrgc4c4/X4r1Ka_LLDI/AAAAAAABqHg/hgTT5AJdE5AkPuFCdCs0QylbtScuhMEHACLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rI7zMnJaWko/X4r1LISCfnI/AAAAAAABqHk/AolBFKFArkYRVfCfQtOs_tflFu_AQYUUACLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-De0M1AmXqBA/X4r1LNyx68I/AAAAAAABqHo/LrJcZ8MoUSIWNylJ2eDuXYnQTmxmF0s7gCLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-yQAYa2eRpww/X4r1LaxvHoI/AAAAAAABqHs/5K8AMhulU3UK1qNzk2DSOdL2FzQIqvdkQCLcBGAsYHQ/s135/1289-Nemesis-Infinite-Dendrogram-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1289/",
+      "fetched_at": "2026-05-16T19:10:33.337Z",
+      "raw_id": "/nendoroid/details/n1289/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.630Z",
+      "raw_id": "Nendoroid/1200-1299/1289.json"
+    }
+  ]
+}

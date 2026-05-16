@@ -1,0 +1,69 @@
+{
+  "num": "1906",
+  "name": {
+    "en": "Nendoroid Reina Aharen",
+    "ja": "ねんどろいど 阿波連れいな (ねんどろいど あはれんれいな)",
+    "ko": "아하렌 레이나"
+  },
+  "series": {
+    "en": "Aharen-san wa Hakarenai",
+    "ja": "阿波連さんははかれない",
+    "ko": "아하렌 양은 알 수가 없어",
+    "code": "aharen-san-wa-hakarenai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12837,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JGwIFswG2iI/Yw_WOV47VnI/AAAAAAAA6Z0/Xw7bJLIksDwsUE-GKq3Dm2MDScr-aTJGQCNcBGAsYHQ/s270/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JGwIFswG2iI/Yw_WOV47VnI/AAAAAAAA6Z0/Xw7bJLIksDwsUE-GKq3Dm2MDScr-aTJGQCNcBGAsYHQ/s270/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nzOaiUUI-w8/YxEXEa4Vb6I/AAAAAAAA6mQ/NrtBzFb_kpsS_v9wDO0fE8tePOrzsbYPACNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-y_32bnHPeCA/YxEXE-pRdTI/AAAAAAAA6mU/sLmUsa0HSS0QeMOnvPqYyCoOo9JymQebQCNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pPWBJlXzpzs/YxEXFeHHrZI/AAAAAAAA6mY/JFkT-PymCssmBhnS69SuZSKkWdL5nVDjACNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UDTrus0kKYw/YxEXF8Z-XSI/AAAAAAAA6mc/nJrd0UZlUWAY4MstdsSgY4p1cnlJhuqUgCNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3JWBg0Ou_y0/YxEXGRRaReI/AAAAAAAA6mg/b1VEgOix7W4NHKpAQdQm-30oaAJmf2bUACNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1a2IuFbHJUU/YxEXGzldG8I/AAAAAAAA6mk/w3SDbkyiPdEGSOQevQAJvmZwicxJ-E2iwCNcBGAsYHQ/s135/1906-Reina-Aharen-Aharen-san-wa-Hakarenai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1906/",
+      "fetched_at": "2026-05-16T19:10:33.721Z",
+      "raw_id": "/nendoroid/details/n1906/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.779Z",
+      "raw_id": "Nendoroid/1900-1999/1906.json"
+    }
+  ]
+}

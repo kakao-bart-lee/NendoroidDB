@@ -1,0 +1,64 @@
+{
+  "num": "2643",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Snow Miku",
+    "ja": null,
+    "ko": null,
+    "code": "snow-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZoSFc95uRkuIoDcAfXnsRpO0Vazrf9cyWT5twZRsJUukCSD2yDZ43bXTKIWtG5C6g39VSZZp7N80U3F3rE_tnPW02j7LpYHmdUDoxOa4qg9Ng2i9NJ9r2Sn_74M9JQOjb8aypQX5UeIUCftn_qXs7KRAI5KM6PzSjFZD8Gd016fssEOXqEJPq_V12ezA/s270/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZoSFc95uRkuIoDcAfXnsRpO0Vazrf9cyWT5twZRsJUukCSD2yDZ43bXTKIWtG5C6g39VSZZp7N80U3F3rE_tnPW02j7LpYHmdUDoxOa4qg9Ng2i9NJ9r2Sn_74M9JQOjb8aypQX5UeIUCftn_qXs7KRAI5KM6PzSjFZD8Gd016fssEOXqEJPq_V12ezA/s270/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnoz5jdwMxxBZkTDcG-R90aH7BL_Y3quo0fzBXKX3FW0ma4QWqhrbaZuqf_8CwUv1T5_QjAy35lFtnw_CccOLDCzwoorMkoUJkye-vn6m_G687s1C44tvIgpfLo1k6B7R9QpcsTM8iiOIG2456eT7t-JXSGOXWxaaXCY6USu2B5ikCBWOHOkhtzLVW0lF/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqS4qBYg-FYn31-gRBny2Bx7ko4MCFT6ZiY_ctYf0YKgLf4JcUNyyj_m4gagxjCRMF1c6ac9Xa-rhwJ_nt0GnHPlpfN3bqM4IsApjgoRFDPwDeQSDDvajArc9EUmcF06kVTcnob9misF5wobZAON8aqONyAPWURDTkB78bzObdOeZqYvgO8Qe8SAz8_Z6/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKahboshpI0ycih_xhCwJy7Smp34OUT0Xt-cBC6OnjB2FB8cXT8gfwIZ_KYlCBlTrxl-e83-rBno-Vqh2HU2oH4Fm6o5nSQ4Fn_crkfg2XSkTVWob7pGqzbI7nyGKAW_EY8MrlBpXdedFmyt6hOSDC518juzzF8Go_8v0ItZshM3KMf-Klr1nc2M1wHZK_/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5rGxH_QXp8c1WVs30GsL6fK-7Ul1pg_RsWohPCifo44ZoVdE4CYa4ZL1J2YmZYneVEv4IhXTBFUP0Uo1dbcDgkbKBJGnpI1A0QLTQqccEWkpUXyMP3RiBdMluktRck2o7huDCWEna7POoazVDzifD6Q72owYTBdJx4NIN1SMhtfCSCHGPGnYhNs2910tV/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetAHI9gWlHz1qEuJXKOnBCa2-hUvmfoUU_HDQl_QPSacWHJ0or-mu35yLXRh6tO4u6trwlQmF3143Cdwutx9ZdmG3uzVLwdHUb7Q4cYtlWppMuAc5WoMKIYfFLlX-5sWkJu24jE3vtaCJre7Yi3fH4Ckbez8lsDnZcEi8urJiQ5sk56vdadZb2sbPtKhO/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucb0-mdx3_CZL5UJckjenmliTIWIPorDCWS7GGbKX4wvW_vBqgDjD4hL3bNdjAQi-XjYyHouvf8gb7YDoOmG34Kj1zZzUZObOHzmuwAJiy9x6LKi6siRqEeMHF2zjKJDUz6A4F0usGJQcZGRoye9FfL_YGlpi94XuAB2etdz-fCcMBOVz9I_GfZxTy36a/s135/2643-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2643/",
+      "fetched_at": "2026-05-16T19:10:34.184Z",
+      "raw_id": "/nendoroid/details/n2643/"
+    }
+  ]
+}

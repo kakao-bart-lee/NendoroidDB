@@ -1,0 +1,68 @@
+{
+  "num": "1705",
+  "name": {
+    "en": "Nendoroid NieR Replicant ver. 1.22474487139... Kainé",
+    "ja": "ねんどろいど NieR Replicant ver.1.22474487139... カイネ (ねんどろいど にーあ れぷりかんと ver.1.22474487139... かいね)",
+    "ko": "카이네"
+  },
+  "series": {
+    "en": "NieR Replicant ver. 1.22474487139...",
+    "ja": "NieR Replicant ver.1.22474487139...",
+    "ko": "니어 레플리칸트",
+    "code": "nier-replicant-ver-1-22474487139"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11774,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bBlo5HXmMz8/YWSHa-67b0I/AAAAAAAA0-0/VvAXQ5xrXBkozHUzD-sh5gruyRAmgOhOQCLcBGAsYHQ/s270/1705-Kain%25C3%25A9-NieR-Replicant-ver.-1.22474487139%25E2%2580%25A6-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bBlo5HXmMz8/YWSHa-67b0I/AAAAAAAA0-0/VvAXQ5xrXBkozHUzD-sh5gruyRAmgOhOQCLcBGAsYHQ/s270/1705-Kain%25C3%25A9-NieR-Replicant-ver.-1.22474487139%25E2%2580%25A6-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FK2de80U_vs/YWSac7fzO2I/AAAAAAAA1Dc/6VknkQD56gkldARICaaNjOkYR87f-AyjwCLcBGAsYHQ/s135/1705-Kain%25C3%25A9-NieR-Replicant-ver.-3.jpg",
+      "https://1.bp.blogspot.com/-eP8jMlLMvBE/YWSadN0Dt4I/AAAAAAAA1Dk/F572lhqcBuAhKFclB16zVsbR-0C9MhdVACLcBGAsYHQ/s135/1705-Kain%25C3%25A9-NieR-Replicant-ver.-4.jpg",
+      "https://1.bp.blogspot.com/-amS8ayujbRQ/YWSadMuwjKI/AAAAAAAA1Dg/o4LzlwefNx839vlShDL-psijazKaAXtPwCLcBGAsYHQ/s135/1705-Kain%25C3%25A9-NieR-Replicant-ver.-5.jpg",
+      "https://1.bp.blogspot.com/-OUT_w-8EBMc/YWSadIaN5QI/AAAAAAAA1Do/9QlmpDWnv6Mbr97bnfUay02jfbmgU_RgACLcBGAsYHQ/s135/1705-Kain%25C3%25A9-NieR-Replicant-ver.-6.jpg",
+      "https://1.bp.blogspot.com/-Gpao0sV14YE/YWSadvW4UsI/AAAAAAAA1Ds/0mmwwp-QW4405ClI4famtiuoOF2iwHCEgCLcBGAsYHQ/s135/1705-Kain%25C3%25A9-NieR-Replicant-ver.-7.jpg"
+    ]
+  },
+  "character_gender": "A",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1705/",
+      "fetched_at": "2026-05-16T19:10:33.597Z",
+      "raw_id": "/nendoroid/details/n1705/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.731Z",
+      "raw_id": "Nendoroid/1700-1799/1705.json"
+    }
+  ]
+}

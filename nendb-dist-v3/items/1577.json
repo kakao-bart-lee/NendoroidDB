@@ -1,0 +1,70 @@
+{
+  "num": "1577",
+  "name": {
+    "en": "Nendoroid Marnie",
+    "ja": "ねんどろいど マリィ (ねんどろいど まりぃ)",
+    "ko": "마리"
+  },
+  "series": {
+    "en": "Pokémon Sword and Shield",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon-sword-and-shield"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10678,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OlOTDYqBcs4/YFXyCqPGvKI/AAAAAAAAwME/we-2rCmyDxMO4C8MlE_P9hv_cqvyUq8lwCLcBGAsYHQ/s270/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OlOTDYqBcs4/YFXyCqPGvKI/AAAAAAAAwME/we-2rCmyDxMO4C8MlE_P9hv_cqvyUq8lwCLcBGAsYHQ/s270/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4LM1T4e57bs/YD1f5s8CXvI/AAAAAAAAv-U/eaMSMmI3hkkQLlPS1Cdg925QJCTth0xKgCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3p660OmGq3Q/YD1f6JcDQoI/AAAAAAAAv-Y/uThQznxM0HUKCT97xT3ST1PneISvOlsOACLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ooVqFblcYkA/YD1f6Tc3hFI/AAAAAAAAv-c/hY8Rin-29lc2Bp0q6bH-5ogBehGw4nCZgCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-88hTtk6WS2s/YD1f6sLM24I/AAAAAAAAv-g/y_XjDkd2GhIIzFx7wUbgYElf_DTpNm-YQCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FtL8ZUtrF9k/YD1f64xHuzI/AAAAAAAAv-k/GvBNamoa9JseukkMRAgWY6Ekox1in3IrwCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-EMvbBfb7TsU/YD1f7HqlIOI/AAAAAAAAv-o/9Jm0tyy6Gmo6_RIvLgaMQIJ4kXltHeMpwCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-k9cmIJge9sg/YD1f7aDgu_I/AAAAAAAAv-s/RwoPh9XfyacdgmZr3M6DbuNZXqY-pWLagCLcBGAsYHQ/s135/1577-Marnie-Pok%25C3%25A9mon-Sword-and-Shield-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1577/",
+      "fetched_at": "2026-05-16T19:10:33.514Z",
+      "raw_id": "/nendoroid/details/n1577/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.700Z",
+      "raw_id": "Nendoroid/1500-1599/1577.json"
+    }
+  ]
+}

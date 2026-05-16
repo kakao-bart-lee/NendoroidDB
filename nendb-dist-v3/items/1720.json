@@ -1,0 +1,69 @@
+{
+  "num": "1720",
+  "name": {
+    "en": "Nendoroid Hikaru Shindo",
+    "ja": "ねんどろいど 進藤ヒカル (ねんどろいど しんどうひかる)",
+    "ko": "신도우 히카루"
+  },
+  "series": {
+    "en": "Hikaru no Go",
+    "ja": "ヒカルの碁",
+    "ko": "고스트 바둑왕",
+    "code": "hikaru-no-go"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11848,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lvJNa8w3ez0/YdGwN8k7zFI/AAAAAAAA2do/0sYqXlkYZKY5k32CyY2xiMe2VVXlHoWEQCNcBGAsYHQ/s270/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lvJNa8w3ez0/YdGwN8k7zFI/AAAAAAAA2do/0sYqXlkYZKY5k32CyY2xiMe2VVXlHoWEQCNcBGAsYHQ/s270/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8kxqJHPUjVI/YdGzMd5nIdI/AAAAAAAA2fA/2KuKVVtPNe8Q2nNNGLpyoNuvc_a60tWlQCNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U9oLp3VLmuA/YdGzMchCXOI/AAAAAAAA2e8/9y8z1qGAcjMMTi7xs-xOV7Aji4h8Ze3OQCNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bE2J8gjNJX8/YdGzMeyl0gI/AAAAAAAA2fE/pENjcpTyGUoQbvZ7SZEdMv6uNRmDRrOUACNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lM2y99p1xW8/YdGzM0gMFxI/AAAAAAAA2fI/z7JWw6fkKxMg_FHoQn4VUWAw8MMAQywyQCNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-X-B6lcuNN30/YdGzNfjjVdI/AAAAAAAA2fM/x23IHL_R8_s54D59mXE57UbKllj884kCACNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JGj60hNWdO8/YdGzN96QQEI/AAAAAAAA2fQ/GomE9KoizDIspFjMwvS6n4gvpBV-_hIJwCNcBGAsYHQ/s135/1720-Hikaru-Shindo-Hikaru-no-Go-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1720/",
+      "fetched_at": "2026-05-16T19:10:33.606Z",
+      "raw_id": "/nendoroid/details/n1720/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.735Z",
+      "raw_id": "Nendoroid/1700-1799/1720.json"
+    }
+  ]
+}

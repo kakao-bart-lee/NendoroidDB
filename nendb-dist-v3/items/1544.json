@@ -1,0 +1,68 @@
+{
+  "num": "1544",
+  "name": {
+    "en": "Nendoroid Hina Sato",
+    "ja": "ねんどろいど 佐藤 ひな (ねんどろいど さとう ひな)",
+    "ko": "사토 히나"
+  },
+  "series": {
+    "en": "The Day I Became a God",
+    "ja": "神様になった日",
+    "ko": "신이 된 날",
+    "code": "the-day-i-became-a-god"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10631,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w6-bm4KyqH8/YA2BMaO41AI/AAAAAAAAvdA/E7lHoLl4TNwzEu4J_St4D16n3deUapf6ACLcBGAsYHQ/s270/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w6-bm4KyqH8/YA2BMaO41AI/AAAAAAAAvdA/E7lHoLl4TNwzEu4J_St4D16n3deUapf6ACLcBGAsYHQ/s270/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1A_aM-uZp6U/YA2EfZq9dzI/AAAAAAAAvhU/zaYbHcHaKzoNE2wQySR9VJ7qdTV8SNEOACLcBGAsYHQ/s135/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J6-nSFi8YWs/YA2Efr6ycKI/AAAAAAAAvhY/i_VAWBIHK7kRNxg_A_Z1xYvH-9uxx2CHgCLcBGAsYHQ/s135/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6wNqzuYqWQo/YA2EfjkMvsI/AAAAAAAAvhc/gC20LhF11DAPCBDztX2cE352y8IGI49ewCLcBGAsYHQ/s135/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qgg7f9iUDe0/YA2Ef2K-Q0I/AAAAAAAAvhg/ZAPWb0iZnO86RYJI4bnPtI3-QbThsIkVwCLcBGAsYHQ/s135/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6xgLnJwcKRk/YA2EgIxJGwI/AAAAAAAAvhk/tXrA2F0mbEoFQ4sm2AP6FIe1HEYVFVCfACLcBGAsYHQ/s135/1544-Hina-Sato-The-Day-I-Became-a-God-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1544/",
+      "fetched_at": "2026-05-16T19:10:33.494Z",
+      "raw_id": "/nendoroid/details/n1544/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.692Z",
+      "raw_id": "Nendoroid/1500-1599/1544.json"
+    }
+  ]
+}

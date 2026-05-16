@@ -1,0 +1,69 @@
+{
+  "num": "1486",
+  "name": {
+    "en": "Nendoroid Kirara Hoshino",
+    "ja": "ねんどろいど 星乃雲母 (ねんどろいど ほしのきらら)",
+    "ko": "호시노 키라라"
+  },
+  "series": {
+    "en": "SUPER HXEROS",
+    "ja": "ド級編隊エグゼロス",
+    "ko": "초급편대 에그제로스",
+    "code": "super-hxeros"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10193,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cN12KXGJAh0/X4wr9FV-OBI/AAAAAAABrIc/wIQhKKdxbgolhVc-GSf4QO0415eLQs46wCLcBGAsYHQ/s270/1486-Kirara%2BHoshino-Anime-Manga-SUPER-HXEROS-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cN12KXGJAh0/X4wr9FV-OBI/AAAAAAABrIc/wIQhKKdxbgolhVc-GSf4QO0415eLQs46wCLcBGAsYHQ/s270/1486-Kirara%2BHoshino-Anime-Manga-SUPER-HXEROS-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xHScFpost2A/X4wvSUlcuGI/AAAAAAABrJY/PPDq8FTCs88PUEOFILzfXbaCkGhTCzTQACLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SN-grGkSn8I/X4wvSSinZAI/AAAAAAABrJc/c6bMWAxyMJE5kj4okyDk6B-zr41C1TCKACLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_nJjr2zxpVU/X4wvSg33FSI/AAAAAAABrJg/ZAyY6chiosgPpm6mTFYBXNscaiabxijegCLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-P6ugz4N7dy4/X4wvSyb9FOI/AAAAAAABrJk/vApVyBAYaw8Xx-Xb6OMOOr45fZWCsyLnQCLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OGzhSjHbOck/X4wvTNbfWdI/AAAAAAABrJo/3edZbRJC_kwX9Izs7GZntlf57Z-lk2k-QCLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-97bh20oSIaA/X4wvTfen8jI/AAAAAAABrJs/ctZrsqzCweM7Wr_GXkBV4SfPpSj3z2EHACLcBGAsYHQ/s135/1486-Kirara-Hoshino-SUPER-HXEROS-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1486/",
+      "fetched_at": "2026-05-16T19:10:33.460Z",
+      "raw_id": "/nendoroid/details/n1486/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.677Z",
+      "raw_id": "Nendoroid/1400-1499/1486.json"
+    }
+  ]
+}

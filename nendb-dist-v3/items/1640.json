@@ -1,0 +1,97 @@
+{
+  "num": "1640",
+  "name": {
+    "en": "Nendoroid Momo",
+    "ja": "ねんどろいど 百 (ねんどろいど もも)",
+    "ko": "모모"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4571697188440",
+  "gsc_product_id": "8932",
+  "gsc_product_num": 11238,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/8932",
+    "ja": "https://www.goodsmile.com/ja/product/8932"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210521/11238/84940/large/fc769343a2a80e1fdcd7d9bc2f289f54.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JNPDrFPuqjM/YL_UvVshfmI/AAAAAAAAyPs/IwfPKMGGU2MNmLc9EEUgV7DM45Do_Ps5ACLcBGAsYHQ/s270/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zca1rNFBNGA/YL_c5Tpbn6I/AAAAAAAAyV0/Kk5bsZYgYycz7pEf14LQpLiRT0I3cbTJACLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-InXUOL7KXVg/YL_c5pGfrdI/AAAAAAAAyV4/uaa3KdzC8D0veU0apebM0byr5ITsrJs4QCLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WGhj4TflIT8/YL_c52Re5oI/AAAAAAAAyWA/FH7P9ESfzDUBNfftd-ozwLg-XLRZlc_DgCLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-O28ZtPipkXM/YL_c6Dp962I/AAAAAAAAyV8/uBwFB-UPMkUMM7cp0QfQC6NrnH7OpEH4QCLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LjkiVq4opdc/YL_c6ezBjhI/AAAAAAAAyWE/SKNYt8SOKU0GJkbLxNek5rbJkAMvNlnbgCLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nHAlQ6UoDtI/YL_c6_0nCbI/AAAAAAAAyWI/xNPZCAqc6vEI89n1EHeFjxLzIgXEmSDjQCLcBGAsYHQ/s135/1640-Momo-IDOLiSH7-Video-Games-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210521/11238/84946/large/43bb7d254f2bb5e28315e23e5a6f2fb0.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210521/11238/84940/large/fc769343a2a80e1fdcd7d9bc2f289f54.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8932",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:57:41.916Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8932",
+      "fetched_at": "2026-05-16T11:57:41.916Z",
+      "raw_id": "8932"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/8932",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "8932"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1640/",
+      "fetched_at": "2026-05-16T19:10:33.553Z",
+      "raw_id": "/nendoroid/details/n1640/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.714Z",
+      "raw_id": "Nendoroid/1600-1699/1640.json"
+    }
+  ]
+}

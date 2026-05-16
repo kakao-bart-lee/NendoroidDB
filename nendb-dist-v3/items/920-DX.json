@@ -1,0 +1,55 @@
+{
+  "num": "920-DX",
+  "name": {
+    "en": "Nendoroid Sulley: DX Ver.",
+    "ja": "ねんどろいど サリー DX Ver. (ねんどろいど さりー でらっくす Ver.)",
+    "ko": "제임스 P. 설리반 DX"
+  },
+  "series": {
+    "en": "Monsters, Inc.",
+    "ja": "モンスターズ・インク",
+    "ko": "몬스터 주식회사",
+    "code": "monsters-inc"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6926,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7209,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180413/7209/51447/large/e7c6cd03d131ba9f7aa46e160a3c9aa4.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.538Z",
+      "raw_id": "Nendoroid/0900-0999/920-DX.json"
+    }
+  ]
+}

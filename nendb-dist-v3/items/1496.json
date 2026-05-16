@@ -1,0 +1,70 @@
+{
+  "num": "1496",
+  "name": {
+    "en": "Nendoroid Luo Binghe",
+    "ja": "ねんどろいど 洛冰河 (ねんどろいど らくひょうが)",
+    "ko": "낙빙하"
+  },
+  "series": {
+    "en": "ChuanShuZiJiuZhiNan",
+    "ja": "穿書自救指南",
+    "ko": "인사반파자구계통",
+    "code": "chuanshuzijiuzhinan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10301,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vyNPdezEuQU/X58YhwUFBoI/AAAAAAAAuFE/JcwYjOskknwO9y9TaJ1BQvO99QKH1bxnwCLcBGAsYHQ/s270/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vyNPdezEuQU/X58YhwUFBoI/AAAAAAAAuFE/JcwYjOskknwO9y9TaJ1BQvO99QKH1bxnwCLcBGAsYHQ/s270/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R_jwp5OVJ04/X58Z3V-T_7I/AAAAAAAAuG4/xrdGr4Jo9FcLJuykF38v6Ir1H77LXbm2QCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9ZDsrWbhcKA/X58Z3uWquPI/AAAAAAAAuG8/gRp_qMYzFiAgqgMQX2b7pcG77NMQ6Gs4gCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OoaNCt4bb20/X58Z3_fjsBI/AAAAAAAAuHA/kaEw8wTMGh8RDP6A0DHPgUm0djIGG3wTgCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TUYgRxPR72I/X58Z4M4dgaI/AAAAAAAAuHE/WzvrWrEodSs1Z2Yl2uRInC6-j85Lt8M6wCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OuiYfJwJPTI/X58Z4QxbH6I/AAAAAAAAuHI/Vg_GO8so51QPgEY7_9OLF3qGE-VuyyamgCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-R2lpFg1Hu10/X58Z4h1vFNI/AAAAAAAAuHM/KJPWm6QK-cQfWkfXR59k1-9SMgbdogzeQCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-s9y-zC2wIwc/X58Z43jtjgI/AAAAAAAAuHQ/bp1W6FLFHmQgZ5ilDiIhfty5f0-NHZvNQCLcBGAsYHQ/s135/1496-Luo-Binghe-ChuanShuZiJiuZhiNan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1496/",
+      "fetched_at": "2026-05-16T19:10:33.466Z",
+      "raw_id": "/nendoroid/details/n1496/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.680Z",
+      "raw_id": "Nendoroid/1400-1499/1496.json"
+    }
+  ]
+}

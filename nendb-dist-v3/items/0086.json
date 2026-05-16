@@ -1,0 +1,68 @@
+{
+  "num": "0086",
+  "name": {
+    "en": "Nendoroid Yui Hirasawa (ひらさわゆい ねんどろいど)",
+    "ja": "ねんどろいど 平沢 唯 (ひらさわゆい ねんどろいど)",
+    "ko": "히라사와 유이"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2604,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9jxPsy3FN_g/X4MSHRpgiEI/AAAAAAAApb8/YLkNqhxsfqY2K-M7wy5bSgrzMJN2uSH_gCLcBGAsYHQ/s270/086-Hirasawa-Yui-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9jxPsy3FN_g/X4MSHRpgiEI/AAAAAAAApb8/YLkNqhxsfqY2K-M7wy5bSgrzMJN2uSH_gCLcBGAsYHQ/s270/086-Hirasawa-Yui-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-isomUp8v474/X4GxFR5EUUI/AAAAAAAApO0/PXKdZS5AVpom7InWFWtbRBseK8aVCWeHQCLcBGAsYHQ/s135/086-Hirasawa-Yui-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iNK4ns4ZLho/X4GxFgPVE3I/AAAAAAAApO4/KceiEcL5PVMmeBUeDUlIwjLYHhOlY7scgCLcBGAsYHQ/s135/086-Hirasawa-Yui-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ez3R0NSH3ts/X4GxF1PIIwI/AAAAAAAApO8/PH3iumdxigczawalScinA1fK9NXfFLHEACLcBGAsYHQ/s135/086-Hirasawa-Yui-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JWJBHWT81G0/X4GxFzA_J6I/AAAAAAAApPA/_kteVfBaJPgkqdSUS0u7Ijc60DKzLGPoACLcBGAsYHQ/s135/086-Hirasawa-Yui-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S4hDXD4m8c8/X4GxGE8ATtI/AAAAAAAApPE/vnHrcjEqrlY48C-qLVk6r1LxHsJSY7i5gCLcBGAsYHQ/s135/086-Hirasawa-Yui-K-ON-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n086/",
+      "fetched_at": "2026-05-16T19:10:33.119Z",
+      "raw_id": "/nendoroid/details/n086/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.284Z",
+      "raw_id": "Nendoroid/0000-0099/086.json"
+    }
+  ]
+}

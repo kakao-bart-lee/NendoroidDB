@@ -1,0 +1,68 @@
+{
+  "num": "0620",
+  "name": {
+    "en": "Nendoroid Zelda: The Wind Waker Ver.",
+    "ja": "ねんどろいど ゼルダ 風のタクトVer. (ねんどろいど ぜるだ かぜのたくとVer.)",
+    "ko": "젤다 바람의 택트 Ver."
+  },
+  "series": {
+    "en": "The Legend of Zelda: The Wind Waker HD",
+    "ja": "ゼルダの伝説 風のタクトHD",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-the-wind-waker-hd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5598,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--xFubFcYWDo/X4NPqodppsI/AAAAAAABl1s/nxGrS6QkAT813pq2DpHgPBWnxk-P64rjQCLcBGAsYHQ/s270/620-Zelda-Wind-Waker-TLOZ-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--xFubFcYWDo/X4NPqodppsI/AAAAAAABl1s/nxGrS6QkAT813pq2DpHgPBWnxk-P64rjQCLcBGAsYHQ/s270/620-Zelda-Wind-Waker-TLOZ-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gVEyOksEJNA/X4iz9W4outI/AAAAAAAAsms/s7Ji6g7-1PQ4jYCnPJFaXGdxZfU5wtQoACLcBGAsYHQ/s135/620-Zelda-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kZkBYAW7oBI/X4iz9TNoimI/AAAAAAAAsmw/FKXPnFF3b68gdp7TG_JnWRLgzO7HZrTyQCLcBGAsYHQ/s135/620-Zelda-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cOx9gIX94rQ/X4iz9t_pG5I/AAAAAAAAsm0/4QL7b9MZM4UxRCAxxSaZ36avy8Jmjy1wgCLcBGAsYHQ/s135/620-Zelda-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RIbO0GB7R6I/X4iz925fh2I/AAAAAAAAsm4/yJuumgaQqx8ZGfOInpE2ifEndCaAqxg8wCLcBGAsYHQ/s135/620-Zelda-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rX1audD-L-I/X4iz-BceWuI/AAAAAAAAsm8/2GEiJYTdHDAocPm1DzN9EoSSkfbeL_OEQCLcBGAsYHQ/s135/620-Zelda-The-Legend-of-Zelda-Wind-Waker-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n620/",
+      "fetched_at": "2026-05-16T19:10:34.701Z",
+      "raw_id": "/nendoroid/details/n620/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.465Z",
+      "raw_id": "Nendoroid/0600-0699/620.json"
+    }
+  ]
+}

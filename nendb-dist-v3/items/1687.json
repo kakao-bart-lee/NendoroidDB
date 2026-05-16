@@ -1,0 +1,70 @@
+{
+  "num": "1687",
+  "name": {
+    "en": "Nendoroid Houshou Marine",
+    "ja": "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
+    "ko": "호쇼 마린"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-L-W3YCIBsd4/YS6Jw1OAJWI/AAAAAAAAz9w/HL43k9f05J4_el1rQF7UdiuB5fxT0l6BgCLcBGAsYHQ/s270/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-L-W3YCIBsd4/YS6Jw1OAJWI/AAAAAAAAz9w/HL43k9f05J4_el1rQF7UdiuB5fxT0l6BgCLcBGAsYHQ/s270/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hsLQt5Ts66E/YS6MxOO_vTI/AAAAAAAA0Js/tiM1kDds5jcC44My18VauLFvBj3vCTlQgCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tQR-e2Ja_aY/YS6MxwtCUJI/AAAAAAAA0Jw/9uLw-6Gh3rkwUBfylS018mjeBYF0rieGACLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0Iij5sKrvuY/YS6MyQ2CWnI/AAAAAAAA0J0/B_zNyzyIV645-DAztthe19BDCc4Y_PJDwCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W-cHeb7ClQM/YS6My2U3A3I/AAAAAAAA0J4/fywlPSre7nQeCKDQOz-jzfhSNY-MOuOQQCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jxJlWlxA27w/YS6MzSD6LFI/AAAAAAAA0J8/954jBRgc2roOrJunnn43HERy6PtFq7xTwCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Dc3fYuXRvdQ/YS6Mz1M9RbI/AAAAAAAA0KA/h6O4HN4hhE459DWuUTsHQnMYhLNzki4KQCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6atrZkYlhqc/YS6M0a2_KxI/AAAAAAAA0KE/pq_cQsUXOPw1YzSrfho-YhBwvpSUQDS1gCLcBGAsYHQ/s135/1687-Houshou-Marine-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1687/",
+      "fetched_at": "2026-05-16T19:10:33.584Z",
+      "raw_id": "/nendoroid/details/n1687/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.726Z",
+      "raw_id": "Nendoroid/1600-1699/1687.json"
+    }
+  ]
+}

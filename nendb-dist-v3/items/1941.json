@@ -1,0 +1,70 @@
+{
+  "num": "1941",
+  "name": {
+    "en": "Nendoroid Jamil Viper",
+    "ja": "ねんどろいど ジャミル・バイパー (ねんどろいど じゃみる・ばいぱー)",
+    "ko": "자밀 바이퍼"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13019,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZYgKjun8ITE/Yw_WeVufEvI/AAAAAAAA6b0/kxtn9n2rPf8QYfW9_1tDfnddOy8WHtIGwCNcBGAsYHQ/s270/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZYgKjun8ITE/Yw_WeVufEvI/AAAAAAAA6b0/kxtn9n2rPf8QYfW9_1tDfnddOy8WHtIGwCNcBGAsYHQ/s270/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SLAUC_Iz9Zo/YxEYc5wy14I/AAAAAAAA6x8/37Z42P6XzscyIYcCuL1qU39LveYuLQ5jQCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W7FlYzGaxb4/YxEYdi06lzI/AAAAAAAA6yA/SflXYvt-FwE8gV7myZftqgRW_vQV72RtgCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nyU1JyvDEKI/YxEYeA_XRfI/AAAAAAAA6yE/m0IumBHX6EsX-d5FHwOk-MlDQbqDq7rQwCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1wEcWtx8Cmg/YxEYem2oH1I/AAAAAAAA6yI/FuroO0JBq9o4f2SS0ST2lcz82lawEw5ugCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FGH32FFeN2o/YxEYfGYSAaI/AAAAAAAA6yM/kCcIy1ErqwA95nl6YJLMJWQlLaCnxF9MACNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3vucjuNIFTY/YxEYfqcPEEI/AAAAAAAA6yQ/b4oZK5SqDd83V7iE2SwLplKbgjeyuzrtgCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-RWGCenPYTGA/YxEYgE-CudI/AAAAAAAA6yU/pYqq0KKh9CwczNobWNkD5BUWCaF66uj6QCNcBGAsYHQ/s135/1941-Jamil-Viper-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1941/",
+      "fetched_at": "2026-05-16T19:10:33.743Z",
+      "raw_id": "/nendoroid/details/n1941/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.787Z",
+      "raw_id": "Nendoroid/1900-1999/1941.json"
+    }
+  ]
+}

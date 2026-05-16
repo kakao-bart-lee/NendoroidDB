@@ -1,0 +1,68 @@
+{
+  "num": "0236",
+  "name": {
+    "en": "Nendoroid Estelle Bright (ねんどろいど えすてる・ぶらいと)",
+    "ja": "ねんどろいど エステル・ブライト (ねんどろいど えすてる・ぶらいと)",
+    "ko": "에스텔 브라이트"
+  },
+  "series": {
+    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter",
+    "ja": "英雄伝説 空の軌跡 SC",
+    "ko": "영웅전설 하늘의 궤적 SC",
+    "code": "the-legend-of-heroes-trails-in-the-sky-second-chapter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3486,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NDPDTCMAB18/X4NLNcDQ26I/AAAAAAABlXc/j5Yyvh-7EoIH4NItyX0mT-4RsrZsrxqkwCLcBGAsYHQ/s270/236-Estelle-Bright-The-Legend-of-Heroes-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NDPDTCMAB18/X4NLNcDQ26I/AAAAAAABlXc/j5Yyvh-7EoIH4NItyX0mT-4RsrZsrxqkwCLcBGAsYHQ/s270/236-Estelle-Bright-The-Legend-of-Heroes-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-coI_NTcrRks/X4dXb89oeVI/AAAAAAAAqdE/Cjl3f2k9ylgYIQ3xA0Bm5_lFwC-Rl1vGgCLcBGAsYHQ/s135/236-Estelle-Bright-Trails-in-the-Sky-THE-ANIMATION-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Moug2ct-H-A/X4dXcCSVseI/AAAAAAAAqdI/YvSSe4I1ahcDkfTLEcSx6b1prCCBojyMACLcBGAsYHQ/s135/236-Estelle-Bright-Trails-in-the-Sky-THE-ANIMATION-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qAVYamU8hcc/X4dXcAVvGcI/AAAAAAAAqdM/DA611kFDf9M0yAQnX7jpPRNL2qzEA2_iACLcBGAsYHQ/s135/236-Estelle-Bright-Trails-in-the-Sky-THE-ANIMATION-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-l5GFMlsg-RY/X4dXceguntI/AAAAAAAAqdQ/KKUihk5qffMvgh1mwqZM4mHXNiNeXpEpQCLcBGAsYHQ/s135/236-Estelle-Bright-Trails-in-the-Sky-THE-ANIMATION-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FWkX_RUWlgA/X4dXcr30suI/AAAAAAAAqdU/o7RqpUK8thIZQUzIfUdtup4Z8XPaw8sUgCLcBGAsYHQ/s135/236-Estelle-Bright-Trails-in-the-Sky-THE-ANIMATION-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n236/",
+      "fetched_at": "2026-05-16T19:10:34.015Z",
+      "raw_id": "/nendoroid/details/n236/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.329Z",
+      "raw_id": "Nendoroid/0200-0299/236.json"
+    }
+  ]
+}

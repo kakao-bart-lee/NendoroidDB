@@ -1,0 +1,64 @@
+{
+  "num": "2308",
+  "name": {
+    "en": "Invincible",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Invincible",
+    "ja": null,
+    "ko": null,
+    "code": "invincible"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vjObaSWBHhI/ZWZfp0xGHSI/AAAAAAABCcY/hOxchnMrZSEc_93yokCT21GjsQpujNdWwCNcBGAsYHQ/s270/2308-Invincible-Invincible-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vjObaSWBHhI/ZWZfp0xGHSI/AAAAAAABCcY/hOxchnMrZSEc_93yokCT21GjsQpujNdWwCNcBGAsYHQ/s270/2308-Invincible-Invincible-Western-Animation-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PoHO2NcqT90/ZWZpB8jqJtI/AAAAAAABCmI/9Liy6gR9yJgmks4BGRPlqHgem2QwFJPAQCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rGlesBUU2wM/ZWZpCYINu2I/AAAAAAABCmM/o9qhhE533KQTfcZdR9XL3mjQch580DfEgCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c0Ar35OV4_c/ZWZpCqzLEUI/AAAAAAABCmQ/m8J26ryOa-IF8vTauybIA4Plft_wXHRSQCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-44NT1x3HPBk/ZWZpDNXilgI/AAAAAAABCmU/s1cR-cO0zMMG2HU1nrgT_V7GH5jKWoxpgCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t2SBCyoxF4A/ZWZpDdNTKGI/AAAAAAABCmY/96n6ijCfUbYs0iSqIxOdg7MLZGcblggcQCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lqSRVxh5AiA/ZWZpDaw4FdI/AAAAAAABCmc/iIvWRh-wOfkb18ZcGon8Z3RBPclw8abeQCNcBGAsYHQ/s135/2308-Invincible-Invincible-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2308/",
+      "fetched_at": "2026-05-16T19:10:33.978Z",
+      "raw_id": "/nendoroid/details/n2308/"
+    }
+  ]
+}

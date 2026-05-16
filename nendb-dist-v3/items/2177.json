@@ -1,0 +1,70 @@
+{
+  "num": "2177",
+  "name": {
+    "en": "Nendoroid Master Chief",
+    "ja": "ねんどろいど マスターチーフ (ねんどろいど ますたーちーふ)",
+    "ko": "마스터 치프"
+  },
+  "series": {
+    "en": "Halo Infinite",
+    "ja": "Halo Infinite",
+    "ko": "헤일로 인피니트",
+    "code": "halo-infinite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14443,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-V0cuxqucIpw/ZIzT8wPI_9I/AAAAAAAA-Qc/x0smlK08uZcBNlb_FI565rUntpAbqynMQCNcBGAsYHQ/s270/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-V0cuxqucIpw/ZIzT8wPI_9I/AAAAAAAA-Qc/x0smlK08uZcBNlb_FI565rUntpAbqynMQCNcBGAsYHQ/s270/2177-b-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7hYmpTWEBuc/ZIzWP1Di7uI/AAAAAAAA-Zk/ugfz4X1X94YiYwqM3lEitookL7WmB2b-ACNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qpP-jd0BbGQ/ZIzWQXqqC6I/AAAAAAAA-Zo/-9bBzZ4l_NQyQaD2468TqHJ2sRR-_tGoACNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PkJJsXDyT3s/ZIzWQxQ1F9I/AAAAAAAA-Zs/NfZ7MS-dhMEvb75gMPhUq65MS67V566qwCNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y23oDnZUhZc/ZIzWRd6iiEI/AAAAAAAA-Zw/EMzcaJaLi70Dqq6BdIwWOkY816n2zaJTwCNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8FEhluX_vdk/ZIzWRzF7Z1I/AAAAAAAA-Z0/5yP8Lhxh9egBFD7NDPDoXAF9oDawmJG_gCNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kOxmn1kRJPE/ZIzWSFK1pCI/AAAAAAAA-Z4/nQa-uEcilGc_nQoUMK0kCAy8U8_lCXn5gCNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-x-rGgamSotc/ZIzWSF4ksfI/AAAAAAAA-Z8/w3sPa2feOTwJBWV0lF7Qr9oC_vjfSAr-gCNcBGAsYHQ/s135/2177-Master-Chief-Halo-Infinite-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2177/",
+      "fetched_at": "2026-05-16T19:10:33.883Z",
+      "raw_id": "/nendoroid/details/n2177/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.847Z",
+      "raw_id": "Nendoroid/2100-2199/2177.json"
+    }
+  ]
+}

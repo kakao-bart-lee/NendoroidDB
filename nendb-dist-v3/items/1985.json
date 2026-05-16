@@ -1,0 +1,69 @@
+{
+  "num": "1985",
+  "name": {
+    "en": "Nendoroid Michelangelo",
+    "ja": "ねんどろいど ミケランジェロ (ねんどろいど みけらんじぇろ)",
+    "ko": "미켄란젤로"
+  },
+  "series": {
+    "en": "Teenage Mutant Ninja Turtles",
+    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko": "닌자 거북이",
+    "code": "teenage-mutant-ninja-turtles"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13347,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yANc9h1yxgs/Y9mJ4XcR01I/AAAAAAAA8eE/Y_oatgFUIk4_mgZneS3MMsztismGINIYwCNcBGAsYHQ/s270/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yANc9h1yxgs/Y9mJ4XcR01I/AAAAAAAA8eE/Y_oatgFUIk4_mgZneS3MMsztismGINIYwCNcBGAsYHQ/s270/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RrWc6VkA5E4/Y451eRUgsQI/AAAAAAAA70w/uK-4dCAGlIc42jfEYLhspuZ7gOIp1fi3ACNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ByLmDmT00Lg/Y9mOtfCzwII/AAAAAAAA8hE/88POLqHjh2oHw-642TCn3XI6F2hfY0LjQCNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4tF_njQDq08/Y9mOttoSkXI/AAAAAAAA8hI/To05Hb3AWZoTeWVDeqkcEvx5MPSyxtk8ACNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mEnSPCGBNkQ/Y9mOtx2SswI/AAAAAAAA8hM/tHIxqv-v8Ncbn6x75RKvO6SjnuZGev4vgCNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QkL3Fr7QNhQ/Y9mOuNXojPI/AAAAAAAA8hQ/Kmq5C6y_ngAzLPmQ3fcVm4L5xFac3j-8QCNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-V_YRWKqjoWM/Y9mOuN09HFI/AAAAAAAA8hU/03PCu7uzcag3DBEg-wHFqRGkh74mE1nrQCNcBGAsYHQ/s135/1985-Michelangelo-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1985/",
+      "fetched_at": "2026-05-16T19:10:33.768Z",
+      "raw_id": "/nendoroid/details/n1985/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.798Z",
+      "raw_id": "Nendoroid/1900-1999/1985.json"
+    }
+  ]
+}

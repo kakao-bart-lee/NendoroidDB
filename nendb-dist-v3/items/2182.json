@@ -1,0 +1,70 @@
+{
+  "num": "2182",
+  "name": {
+    "en": "Nendoroid Suzu Kanade",
+    "ja": "ねんどろいど 花奏すず (ねんどろいど かなですず)",
+    "ko": "카나데 스즈"
+  },
+  "series": {
+    "en": "Ayakashi Triangle",
+    "ja": "あやかしトライアングル",
+    "ko": "아야카시 트라이앵글",
+    "code": "ayakashi-triangle"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14540,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wVBEb814u9k/ZKXXO3dGCJI/AAAAAAAA-kQ/nM102hllWVwaDqsDhE0P81QJHdUdF2WVgCNcBGAsYHQ/s270/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wVBEb814u9k/ZKXXO3dGCJI/AAAAAAAA-kQ/nM102hllWVwaDqsDhE0P81QJHdUdF2WVgCNcBGAsYHQ/s270/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kaRGhWNQEes/ZKXmIt6_nMI/AAAAAAAA-_k/KQrstA2wwNMttpe_p-Pn7FTzhFVyE4mygCNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hfjIOexVf7M/ZKXmIuEiNzI/AAAAAAAA-_g/9AxI50mKpfgb9crV7RU8EcKvkBVYm63cACNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eVu-6lPQZUo/ZKXmI8Fez1I/AAAAAAAA-_o/9OsPs_FoVBQTe3ql0Zvy9dhp56lNd0jNACNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YrC-FcgMXTc/ZKXmJXooYkI/AAAAAAAA-_s/m2HP03Y-tSczqzMKkdLqQotUJR8BLDBHgCNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-444WWDLGJtk/ZKXmJUy2acI/AAAAAAAA-_w/wHDq0pNwIIoVVwQO4kyGzNDW2JIhNMAUgCNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-MIJ_RZiiR8k/ZKXmJ47DzrI/AAAAAAAA-_0/aOPIsusMIwseZOD5e3AT6YBDzS1vZhBfQCNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-TJX2cbj7w84/ZKXmKSA6dzI/AAAAAAAA-_4/GasluXc4b8EV5GPrt_BFWX2o3Q_S0WxgACNcBGAsYHQ/s135/2182-Suzu-Kanade-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2182/",
+      "fetched_at": "2026-05-16T19:10:33.887Z",
+      "raw_id": "/nendoroid/details/n2182/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.849Z",
+      "raw_id": "Nendoroid/2100-2199/2182.json"
+    }
+  ]
+}

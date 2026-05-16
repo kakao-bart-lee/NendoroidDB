@@ -1,0 +1,67 @@
+{
+  "num": "0303",
+  "name": {
+    "en": "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ja": "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ko": "유키미쿠 딸기 백무구 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3798,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hlyKzx8FRko/X4NMf5Mf0QI/AAAAAAABlfc/RSN11BZ7a7Y-WspiYWEgPaDanb4wTNbMQCLcBGAsYHQ/s270/303-Hatsune-Miku-Snow-Miku-White-Kimono-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hlyKzx8FRko/X4NMf5Mf0QI/AAAAAAABlfc/RSN11BZ7a7Y-WspiYWEgPaDanb4wTNbMQCLcBGAsYHQ/s270/303-Hatsune-Miku-Snow-Miku-White-Kimono-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-g3c2-_Uz1H8/X4dZ55IhsdI/AAAAAAAAq0A/pOk9RVDdf1sCJMlSN1v203LbvsR2rVqXwCLcBGAsYHQ/s135/303-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v2cERZvM9hY/X4dZ6JKD7BI/AAAAAAAAq0E/kVj7CMcNTTU1ooEFcgCMK6BZ5NEBv3_ogCLcBGAsYHQ/s135/303-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8JTbUr199ug/X4dZ6T7agmI/AAAAAAAAq0I/luRjEc_9qRccOmlpm9tBHetlPHpGCca5wCLcBGAsYHQ/s135/303-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vAKOd98NiqU/X4dZ6sPveXI/AAAAAAAAq0M/C_nL5f5OLAIvw2L8uQRH9QONG4fJ223KwCLcBGAsYHQ/s135/303-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n303/",
+      "fetched_at": "2026-05-16T19:10:34.443Z",
+      "raw_id": "/nendoroid/details/n303/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.346Z",
+      "raw_id": "Nendoroid/0300-0399/303.json"
+    }
+  ]
+}

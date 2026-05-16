@@ -1,0 +1,68 @@
+{
+  "num": "0697",
+  "name": {
+    "en": "Nendoroid Mink",
+    "ja": "ねんどろいど ミンク (ねんどろいど みんく)",
+    "ko": "밍크"
+  },
+  "series": {
+    "en": "DRAMAtical Murder",
+    "ja": "DRAMAtical Murder",
+    "ko": "드라마티컬 머더",
+    "code": "dramatical-murder"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6083,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1K1ZMunZH9g/X4NQBil_KeI/AAAAAAABl6g/C7_YS8K2UJAQIpZld1Nx0wTIM5CioipKQCLcBGAsYHQ/s270/697-Mink-DRAMAtical-Murder-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1K1ZMunZH9g/X4NQBil_KeI/AAAAAAABl6g/C7_YS8K2UJAQIpZld1Nx0wTIM5CioipKQCLcBGAsYHQ/s270/697-Mink-DRAMAtical-Murder-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sfKRmWzEz0Q/X4i2I0EEvgI/AAAAAAAAtCw/Wdnidxq6-74Nf0qYtgyl563RSqZrOuKlQCLcBGAsYHQ/s135/697-Mink-DRAMAtical-Murder-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ahXsPMgfUj4/X4i2JKol9SI/AAAAAAAAtC0/0FIka5HMsIY9LRspur50WriIPCsyXD8DwCLcBGAsYHQ/s135/697-Mink-DRAMAtical-Murder-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Llmn3zQm5QU/X4i2JfOIrhI/AAAAAAAAtC4/YZf6hIKhx7w6a3aEOgcZDVLYZi7RzIwJwCLcBGAsYHQ/s135/697-Mink-DRAMAtical-Murder-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-erY1BrrsV4Y/X4i2Jm2tPYI/AAAAAAAAtC8/YfHYqQ9bW9MOzTN395Qrb1j5gR_TMJNyACLcBGAsYHQ/s135/697-Mink-DRAMAtical-Murder-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZxyrjalmBNA/X4i2J5s-zXI/AAAAAAAAtDA/9TqFGd1gmrcYPDLhSaj4w2zTOa5nmrFvQCLcBGAsYHQ/s135/697-Mink-DRAMAtical-Murder-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n697/",
+      "fetched_at": "2026-05-16T19:10:34.748Z",
+      "raw_id": "/nendoroid/details/n697/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.486Z",
+      "raw_id": "Nendoroid/0600-0699/697.json"
+    }
+  ]
+}

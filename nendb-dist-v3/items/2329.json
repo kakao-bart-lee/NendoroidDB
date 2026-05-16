@@ -1,0 +1,63 @@
+{
+  "num": "2329",
+  "name": {
+    "en": "Anduin Wrynn",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "World Of Warcraft",
+    "ja": null,
+    "ko": null,
+    "code": "world-of-warcraft"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iTilM46x6Vs/ZWZfuk7_bAI/AAAAAAABCdQ/BRAToxQNpVopeAv3QAyYbDW6xhZGpd1EwCNcBGAsYHQ/s270/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iTilM46x6Vs/ZWZfuk7_bAI/AAAAAAABCdQ/BRAToxQNpVopeAv3QAyYbDW6xhZGpd1EwCNcBGAsYHQ/s270/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Yd9ysQbDEug/ZWZphFD5NAI/AAAAAAABCrE/HK8jP_T3W5wafEeq9dtxIjv1MPbnLAo1QCNcBGAsYHQ/s135/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t0aoSF37Fao/ZWZphWs1uBI/AAAAAAABCrI/I7_u3RAPy-MwHzcvYDploWRpiesANBwOgCNcBGAsYHQ/s135/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XDMjqm9XbYY/ZWZphl7wlYI/AAAAAAABCrM/7qadyK2R0-Y10hfgDMx1EGnMvpl3CeR2QCNcBGAsYHQ/s135/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d7HEFi9J2tk/ZWZph3BJdvI/AAAAAAABCrQ/l0JPFQK4biQROKC_nugveEWNn5eSzNFdwCNcBGAsYHQ/s135/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CnZJXL-_XCc/ZWZpiIRCqqI/AAAAAAABCrU/I0el8LEIdLUkLTw17w9br5WCxeWl7d2CQCNcBGAsYHQ/s135/2329-Anduin-Wrynn-World-of-Warcraft-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2329/",
+      "fetched_at": "2026-05-16T19:10:33.990Z",
+      "raw_id": "/nendoroid/details/n2329/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "num": "2433",
+  "name": {
+    "en": "Marin Kitagawa",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "My Dress-Up Darling",
+    "ja": null,
+    "ko": null,
+    "code": "my-dress-up-darling"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DbU7OmDR3Sg/Ziq-6cFiUXI/AAAAAAABEBY/FbWIzkXbs64N2OnkLet5PJdvW0fOTcPpwCNcBGAsYHQ/s270/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DbU7OmDR3Sg/Ziq-6cFiUXI/AAAAAAABEBY/FbWIzkXbs64N2OnkLet5PJdvW0fOTcPpwCNcBGAsYHQ/s270/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WsQtP9EDdLs/Zow2wgzP5FI/AAAAAAABFk8/2wozlrN_9qkZ6Xr9dInJTDQ_w9iqZyslQCNcBGAsYHQ/s135/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YrD8h8kSK90/Zow2xAFXzlI/AAAAAAABFlA/tL22Emb8G4QCm7E3esQkKwfOv1HYe_nSQCNcBGAsYHQ/s135/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zw6YgzfyWSs/Zow2xgpvTQI/AAAAAAABFlE/oRkfV7fpYZ0ebfB2ZBdeHPNSSHSuDs7TQCNcBGAsYHQ/s135/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-O8JjJ68UMws/Zow2yC36hBI/AAAAAAABFlI/iYDdcblssT0opxBlPJQd7Xnp9sJsLTN7gCNcBGAsYHQ/s135/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2MMO67GwB68/Zow2y8wqM2I/AAAAAAABFlM/OxLbIALM5bYLPe-2vw24y3RPU7Arj57BQCNcBGAsYHQ/s135/2433-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2433/",
+      "fetched_at": "2026-05-16T19:10:34.054Z",
+      "raw_id": "/nendoroid/details/n2433/"
+    }
+  ]
+}

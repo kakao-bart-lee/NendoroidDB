@@ -1,0 +1,68 @@
+{
+  "num": "0918",
+  "name": {
+    "en": "Nendoroid Sakura Kinomoto: Tomoeda Junior High Uniform Ver.",
+    "ja": "ねんどろいど 木之本桜 友枝中学校制服Ver. (ねんどろいど きのもとさくら ともえだちゅうがっこうせいふくVer.)",
+    "ko": "키노모토 사쿠라 토모에다 중학교 교복 Ver."
+  },
+  "series": {
+    "en": "Cardcaptor Sakura: Clear Card",
+    "ja": "カードキャプターさくら クリアカード編",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura-clear-card"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7310,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Kj0Zx_qyBXY/X4Neg7mcECI/AAAAAAABmKw/07g7wkCVEootViEjVfqPQFV7xBkficqAwCLcBGAsYHQ/s270/918-Sakura-Kinomoto-Tomoeda-Junior-High-Uniform-Ver-Cardcaptor-Clear-Card-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Kj0Zx_qyBXY/X4Neg7mcECI/AAAAAAABmKw/07g7wkCVEootViEjVfqPQFV7xBkficqAwCLcBGAsYHQ/s270/918-Sakura-Kinomoto-Tomoeda-Junior-High-Uniform-Ver-Cardcaptor-Clear-Card-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kOqJdm_YMkM/X4rnrtPS4sI/AAAAAAABnt8/igbDLaoR5d8wHnfPqiDfX-P2GXcHTt5GwCLcBGAsYHQ/s135/918-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ha4_xC3CvUo/X4rnr0yBXZI/AAAAAAABnuA/lohcrXaQdjgo87y_KEenSeerGaukSYofgCLcBGAsYHQ/s135/918-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I_abOnW0B4Q/X4rnsCa0O3I/AAAAAAABnuE/SWxH-WKFdQ4eENDnS_74aKZYoYMQu-vNgCLcBGAsYHQ/s135/918-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CyyXSNJV1rg/X4rnsbP3dRI/AAAAAAABnuI/OLlmTaqdpNEwwPYKs_rKVpmPgFTcIPNCQCLcBGAsYHQ/s135/918-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GIwe-UoQKVI/X4rnspPc6rI/AAAAAAABnuM/ZLGyB6NUkDwzX-JdMv4F0BrQFlD3ZIB1QCLcBGAsYHQ/s135/918-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n918/",
+      "fetched_at": "2026-05-16T19:10:34.872Z",
+      "raw_id": "/nendoroid/details/n918/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.538Z",
+      "raw_id": "Nendoroid/0900-0999/918.json"
+    }
+  ]
+}

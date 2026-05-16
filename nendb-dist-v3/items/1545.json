@@ -1,0 +1,68 @@
+{
+  "num": "1545",
+  "name": {
+    "en": "Nendoroid Berserker/Mysterious Heroine X (Alter)",
+    "ja": "ねんどろいど バーサーカー/謎のヒロインX〔オルタ〕 (ねんどろいど ばーさーかー/なぞのひろいんえっくす〔おるた〕)",
+    "ko": "수수께끼의 히로인 X[얼터]"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10629,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-q91ZdvJ7W6I/X_N-tCTF7vI/AAAAAAAAvNQ/on_TLlliuYsudBm8xcuVYev_Ect0cccdQCLcBGAsYHQ/s270/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-q91ZdvJ7W6I/X_N-tCTF7vI/AAAAAAAAvNQ/on_TLlliuYsudBm8xcuVYev_Ect0cccdQCLcBGAsYHQ/s270/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MGZWFiTJW4Y/X_OBiE3LR-I/AAAAAAAAvQk/P94tViSl1os7z1ZMyU-AmMA02lEFH6GOACLcBGAsYHQ/s135/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qI_XNdO3uB8/X_OBiUkhPPI/AAAAAAAAvQo/VRGdc-H6-6EHpHQGVEAkP3PY2IDXHJ2YwCLcBGAsYHQ/s135/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-awKAHy1zKhc/X_OBijJ1JFI/AAAAAAAAvQs/pUmJtjLPdnIzbY1-1h7gLIp3bsPuLe33QCLcBGAsYHQ/s135/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UlmlazFe8F0/X_OBi182quI/AAAAAAAAvQw/uE9Fb4z8Z-UnlwOwK9bcoFslyzab_oRWwCLcBGAsYHQ/s135/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v8dcTWlEF0U/X_OBjLNgYjI/AAAAAAAAvQ0/YsFup_DvqS05SwPjsS1Ey4kEeH7l9OqkgCLcBGAsYHQ/s135/1545-Berserker-Mysterious-Heroine-X-Alter-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1545/",
+      "fetched_at": "2026-05-16T19:10:33.494Z",
+      "raw_id": "/nendoroid/details/n1545/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.692Z",
+      "raw_id": "Nendoroid/1500-1599/1545.json"
+    }
+  ]
+}

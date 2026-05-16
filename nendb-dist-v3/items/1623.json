@@ -1,0 +1,72 @@
+{
+  "num": "1623",
+  "name": {
+    "en": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver.",
+    "ja": "ねんどろいど 各務原なでしこ ソロキャンVer. (ねんどろいど かがみはらなでしこ そろきゃんVer.)",
+    "ko": "카가미하라 나데시코 솔로캠프 Ver."
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11142,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UaruOxbfwDQ/YJfimmMPGfI/AAAAAAAAx20/hcWI1pz9UUo7X7vIg0eo79eXXfBURUPhgCLcBGAsYHQ/s270/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UaruOxbfwDQ/YJfimmMPGfI/AAAAAAAAx20/hcWI1pz9UUo7X7vIg0eo79eXXfBURUPhgCLcBGAsYHQ/s270/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-J0o_rtm-5vY/YJfkbN-4VyI/AAAAAAAAx5o/JqrGCua2O1wBawUuNuJn8-oxq8-Ykog1QCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pmfUyg69MTg/YJfkbGfTHVI/AAAAAAAAx5s/UxkSrkuOh_wCBqdSuwoBAyCjthukGP47QCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HVBjZ02DB_c/YJfkbdw7VJI/AAAAAAAAx5w/nmhycA1niwcqLx03xTN-HlHqqC0Zoz6pwCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oS1G08hqRXE/YJfkbvjVN2I/AAAAAAAAx50/9b-AoikwhOQ5PQgc0s5Yez_5ITVPnG9uwCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VHTnHafsFK8/YJfkbm9M3lI/AAAAAAAAx54/hHMbJsnn3X4YckjJJo_O20Na14_JcdwHwCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8IyQi02-j1I/YJfkb1CO7vI/AAAAAAAAx58/j8q8SH8At1cX6d2V73puxv9l7JbetgrYQCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-WMQiGe51Wyk/YJfkcP4eg6I/AAAAAAAAx6A/BtIkSPyTcLgfLZDLhUuza8gmfmX2rr-ogCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-vXMbb_8MzGY/YJfkaiwpj_I/AAAAAAAAx5g/Bq5jGpNbCiIoB43oMEiO0ltkEOkp0OqzQCLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-AIGcq2csWk4/YJfka6HjcgI/AAAAAAAAx5k/UKsvqmrN0905uGO8ViRnstDnaUDhaMToACLcBGAsYHQ/s135/1623-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1623/",
+      "fetched_at": "2026-05-16T19:10:33.542Z",
+      "raw_id": "/nendoroid/details/n1623/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.710Z",
+      "raw_id": "Nendoroid/1600-1699/1623.json"
+    }
+  ]
+}

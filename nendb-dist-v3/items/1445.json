@@ -1,0 +1,69 @@
+{
+  "num": "1445",
+  "name": {
+    "en": "Nendoroid Shinji Ikari: Plugsuit Ver.",
+    "ja": "ねんどろいど 碇シンジ プラグスーツVer. (ねんどろいど いかりしんじ ぷらぐすーつVer.)",
+    "ko": "이카리 신지 플러그 슈트 Ver."
+  },
+  "series": {
+    "en": "Rebuild of Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "ko": "에반게리온",
+    "code": "rebuild-of-evangelion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9967,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UKf_yMTkFZ0/X4NkkVAZT4I/AAAAAAABm7Q/eS0bHno5WfQIEeyPxO6kfVK9jXXBtzg-gCLcBGAsYHQ/s270/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UKf_yMTkFZ0/X4NkkVAZT4I/AAAAAAABm7Q/eS0bHno5WfQIEeyPxO6kfVK9jXXBtzg-gCLcBGAsYHQ/s270/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NWLDNWdFWRE/X4tA2lXewYI/AAAAAAABq8o/7oiL6Jb08Jg6nRtLLKW8lBek-tb4rseOACLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CLhV_-nOucQ/X4tA2190s7I/AAAAAAABq8s/FOg5obOoOPYLnZGNyhp3V069ELQnIAscQCLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YocrymXrXxI/X4tA3EFSB4I/AAAAAAABq8w/FB5NvIrz7yo6cVC3YpFlZjs7aPxejmA6wCLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M2UK3VmBAwk/X4tA3ULaIBI/AAAAAAABq80/hlOEOjmyq9Emual7l92R4cpoXww1ONWeACLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jifo0U-4XF8/X4tA3ttBu1I/AAAAAAABq84/ryk516qyPh89LT2TDGj4FtKK4Bj6XiZ_ACLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2VJCcAWynE0/X4tA3xowCjI/AAAAAAABq88/4X8O05c9b8Y2Lc350_FQHbjq0BZ4P8f0gCLcBGAsYHQ/s135/1445-Shinji-Ikari-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1445/",
+      "fetched_at": "2026-05-16T19:10:33.435Z",
+      "raw_id": "/nendoroid/details/n1445/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.667Z",
+      "raw_id": "Nendoroid/1400-1499/1445.json"
+    }
+  ]
+}

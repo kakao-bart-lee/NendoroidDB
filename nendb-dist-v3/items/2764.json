@@ -1,0 +1,68 @@
+{
+  "num": "2764",
+  "name": {
+    "en": "Dr. Ratio",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Honkai: Star Rail",
+    "ja": null,
+    "ko": null,
+    "code": "honkai-star-rail"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2fBdga0jv94o3LqbRVuDh1ViscAmUkJN2i8F7hWUQYZJN5c8LAMkrIiBBvTKxiMhraI9eo54AtAIlwqI2tpDwnjQEP5u9jJZB4zHezhBnBnm6CuuKoYk0cd1YBUIryfwW4l6YVrlFtQRO1Bwmbf1WJ7q2p6M5As82NCDVafhnAXsykiZpzhLXdcfFtQSO/s270/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2fBdga0jv94o3LqbRVuDh1ViscAmUkJN2i8F7hWUQYZJN5c8LAMkrIiBBvTKxiMhraI9eo54AtAIlwqI2tpDwnjQEP5u9jJZB4zHezhBnBnm6CuuKoYk0cd1YBUIryfwW4l6YVrlFtQRO1Bwmbf1WJ7q2p6M5As82NCDVafhnAXsykiZpzhLXdcfFtQSO/s270/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0er9Pga27ImghSEt8bovTHttrhVkAqfIBeOBZMKMwaee81Z-QRu-KxT98yGWdWtDE6ELnv5njrrl6nwzMd_EkUR_9iMeRen3zmHbRS0yjg7umXJMZlCHC6K0i5pjZcIERY9jFVGmiw3exzdDxGdRqzz_Cuy96Im2p-fIy-IY1orB-Lt8eD9iYQQhU3E1t/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZuelbbVxbMxSN8S_GInfvFk_FEzPFxt3g-myevqzvhU-zzuJA49hilspTZL_70JPtzw8oWmrLkjPKTdMjvCz7SkwSrq6hQpTosNi9X4s5-sfDeRR0FzM3S0bQSW2ktGfbGrst7ONduRy5TQn7oecdUtiiT_eVAzSfKAgUa_Bc8HLTRfhohfWaMLc9pIrX/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi77GgrbHfDGkV-v3Kj2QxZlGWJytzBKnIf4iIsmUa_IaU5btS03BNnutevh8l9_lokwq19266SDOMDTDMxrByj8gkonf2ombpyKzxkhK4aDUTf9D4k-PxJkdRMTSLkdx1Y-_fmZkMMUMXtiNBj9KPaYk1yY38UJ-IUMs39RwrY8TkJQTvO0YmKEiqB1vqD/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg640PKXAL32-ObCmI7XGoveDJLhXEIafVVEZe99Tw_dcgLRrZZJ7pOFppCNhrdsAkUeYu1h4dEEqCYYtgNYy8TQMZYF5C48Acveler0yhb6b3X3ya150bafp2tcg32tfLs7lNNQ6we6n9QbsVvqAeTDWcmzGibcoW_Dyi7IjxkYeVSfRz6oZzBDDx07lU_/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jIWCV24oHU7rWEEERPMkzz-MjJw1HFWYx7DTDTt-toTUAuzYEPgX40Ny3aP0PKQ55nhSiB8oLnIwdj8Sf0nMOozrGYKnb9QhS0p6nFHoY7lg9zXAk5HbsWhUAUtgkfDYVScc7WRcnliS_8XcHxVLt_6HP3G1yLnRyzDNbRMDqMNUfoMz14lyUFwkxEyF/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVNXhUk1et3oA6Lfox7X09vMKSnWLNyJCihk231we5djMsbhxtdSiZvPjIIpRdImi__yYbNxmHpjLu2jy3OlABI9VVI-zdZE8KuHzxkQ3-_YSPxp4ZGiBzaaN3f5zkjyWLn_8e562R6-YRRK9DN5_9Of_iKJw6_9rUCoy2NTM3gZ2RpZFUJ4F7W8DO75-5/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh44X_w3I0ED-NZFoynHDeD1DxOwjzGookgzXFwXXOfiyNY3BVlxZYn52AchsA2oLap7QH4l6S14BeatH9NeI1UiINDiumpojHlSTNaVlW45_I88yD61xxUXUtSVjtA4R1sHSzRXfj51RedZBr3Z_I3bHtXx4PFX18EOWTFWgP3XBPZkwwGscnVXd59Q-AW/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj395nFSyfnleE93YwEbQjkEBKZ1PQTr0Xpb-Y1mXhLeCQ17LvzMaTRmQSMQ4qLo2QksRfy3Buu9ykOk5F6wi4M_g6iJ3mAqA5ANcvLq5SezwJRHbFDU3pJN54RPvAia7BGLVzEXnFSMp__W1ebCjxG35E6UlVkZLGZsaXupE9zW3HfkXeKfAwrrpZxTMnU/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwh6l70ZdXzEQD3llLYpwDHwsxKxssuY6XkKtSQsuvDdFMi8xlaBoWRZ0UqcdBnSg2SpBn_ISNrU_LGf4QC4RAbdtHUplBc1DRi8twoqZECgN3mL5LpsdIsR80OwZvIXyCRzT5YoSHNfLJFblUhLOqWi4xsGI9JexWIS1Zw2jC3q93SAGmwxLNLFKD6yzv/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t5w_ST5oQlehqAdIw2yDCNeJFcENOUjldyOpRmrq7ORwa1HFHegBHz4-kN1NtMpYGxJQ7VXFicgAECo1UXlNsOJPCOvzpFfedb7hqKFWqikG7raI8zrDxl-0rCv8PnGP2DJdyjZs32nSTJc9qeZl6vTrFrY4w3AOwYkDRyRcj9Wy_iWLtxPeMYCYGjXf/s135/2764-Dr.-Ratio-Honkai-Star-Rail-Video-Games-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2764/",
+      "fetched_at": "2026-05-16T19:10:34.280Z",
+      "raw_id": "/nendoroid/details/n2764/"
+    }
+  ]
+}

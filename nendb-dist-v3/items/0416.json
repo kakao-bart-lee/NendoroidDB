@@ -1,0 +1,68 @@
+{
+  "num": "0416",
+  "name": {
+    "en": "Nendoroid Sakura Monden (ねんどろいど もんでんさくら)",
+    "ja": "ねんどろいど 門田さくら (ねんどろいど もんでんさくら)",
+    "ko": "몬덴 사쿠라"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4620,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ksy6Sjw32AQ/X4NNrHa7KsI/AAAAAAABlng/eQU596f23Jk5rObU8QZmcemRlIr0TEebACLcBGAsYHQ/s270/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ksy6Sjw32AQ/X4NNrHa7KsI/AAAAAAABlng/eQU596f23Jk5rObU8QZmcemRlIr0TEebACLcBGAsYHQ/s270/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-be5RUPYPbuE/X4ddiCiRhNI/AAAAAAAArbg/whkLitptVW8-gaRTMxIcdB3SHjsv_HG6ACLcBGAsYHQ/s135/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8yOYNJpPeNU/X4ddicw2weI/AAAAAAAArbk/DlGm4IhTaFM_oPmtShbQUD8QvPxffSFOQCLcBGAsYHQ/s135/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ygv1mL3M3-8/X4ddibf59HI/AAAAAAAArbo/hIcSC0HH04wR6jUQbVw5spwtbViMeI-SQCLcBGAsYHQ/s135/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vnQa9x9ee7s/X4dditr3yGI/AAAAAAAArbs/y4X6Mn60KoE3wB3982cBiPxjtuu-JqnJwCLcBGAsYHQ/s135/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BXooGci6UEg/X4ddi8nM11I/AAAAAAAArbw/xWUeQXzAEOcmqltUpCYoMe05Up8ugVXJACLcBGAsYHQ/s135/416-Sakura-Monden-Tetsudou-Musume-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n416/",
+      "fetched_at": "2026-05-16T19:10:34.516Z",
+      "raw_id": "/nendoroid/details/n416/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.374Z",
+      "raw_id": "Nendoroid/0400-0499/416.json"
+    }
+  ]
+}

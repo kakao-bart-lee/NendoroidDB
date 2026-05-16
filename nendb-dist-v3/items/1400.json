@@ -1,0 +1,68 @@
+{
+  "num": "1400",
+  "name": {
+    "en": "Nendoroid Catarina Claes",
+    "ja": "ねんどろいど カタリナ・クラエス (ねんどろいど かたりな・くらえす)",
+    "ko": "카타리나 클라에스"
+  },
+  "series": {
+    "en": "My Next Life as a Villainess: All Routes Lead to Doom!",
+    "ja": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+    "ko": "여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...",
+    "code": "my-next-life-as-a-villainess-all-routes-lead-to-doom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9711,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pmQdO908Vg4/X4NkZLfyyiI/AAAAAAABm4c/U0fBB_qvYDkv7K2XwLIYJtZbpjw6QHSeACLcBGAsYHQ/s270/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pmQdO908Vg4/X4NkZLfyyiI/AAAAAAABm4c/U0fBB_qvYDkv7K2XwLIYJtZbpjw6QHSeACLcBGAsYHQ/s270/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P_WkGQBEcMo/X4s-Jya2O5I/AAAAAAABqq0/f9XITr7qgFIYhX3svgl3YUDQE4oljweaACLcBGAsYHQ/s135/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1ZLY98hLXjY/X4s-KHn4jUI/AAAAAAABqq4/bfp3pKPnuEkZShBsYsbNwAh_VfrTyQyzQCLcBGAsYHQ/s135/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6HrUV-RwjWU/X4s-KZJ0AvI/AAAAAAABqq8/fGxUHavu9CsNq4dBhCPzFY71xFaCOeOOwCLcBGAsYHQ/s135/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ik8Iz6y5IF0/X4s-K7F9-II/AAAAAAABqrA/VpIIzseDQT0bk2M4Pya2-Mxub-J0OQlKwCLcBGAsYHQ/s135/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mN0wAxsvSrg/X4s-LV4PmoI/AAAAAAABqrE/5jaiw7uzoQoKZNV7YBqaw22iqooNO98EwCLcBGAsYHQ/s135/1400-Catarina-Claes-My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1400/",
+      "fetched_at": "2026-05-16T19:10:33.408Z",
+      "raw_id": "/nendoroid/details/n1400/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.656Z",
+      "raw_id": "Nendoroid/1400-1499/1400.json"
+    }
+  ]
+}

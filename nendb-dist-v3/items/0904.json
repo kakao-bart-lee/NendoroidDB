@@ -1,0 +1,68 @@
+{
+  "num": "0904",
+  "name": {
+    "en": "Nendoroid Archer/Ishtar",
+    "ja": "ねんどろいど アーチャー/イシュタル (ねんどろいど あーちゃー/いしゅたる)",
+    "ko": "아처/이슈타르"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6926,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7145,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jcHJDphUA8M/X4NeZ_kRh_I/AAAAAAABmJ4/n6llOKsDOl48EygKvykDM5G2OLs2tvhWwCLcBGAsYHQ/s270/904-Archer-Ishtar-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jcHJDphUA8M/X4NeZ_kRh_I/AAAAAAABmJ4/n6llOKsDOl48EygKvykDM5G2OLs2tvhWwCLcBGAsYHQ/s270/904-Archer-Ishtar-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-h_3QSJ4Vmno/X4rnWcNLHhI/AAAAAAABno8/U3qGIEDJJEY3R6qhsLvzYcU-ZGMKJ_FNQCLcBGAsYHQ/s135/904-Archer-Ishtar-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HeUKcQgm0Oo/X4rnWgl1WlI/AAAAAAABnpA/eDZ9I_kSyJMezRFNFSc8nc3uKTdQkJTKACLcBGAsYHQ/s135/904-Archer-Ishtar-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gPKVaWx6VIQ/X4rnW-A5dJI/AAAAAAABnpE/ST_IXH5X1IEGKKVvmI9ndYApkSE9g6CYACLcBGAsYHQ/s135/904-Archer-Ishtar-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5NeDmwVtGDo/X4rnXGnKSJI/AAAAAAABnpI/t5KixKkF0e8cynt9c5WP7z-BUketjk67wCLcBGAsYHQ/s135/904-Archer-Ishtar-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t8TNqXm-oB4/X4rnXebuUHI/AAAAAAABnpM/5nlrrS1G5b4JcRYU6Ofhwi8fG9k7y7XkgCLcBGAsYHQ/s135/904-Archer-Ishtar-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n904/",
+      "fetched_at": "2026-05-16T19:10:34.864Z",
+      "raw_id": "/nendoroid/details/n904/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.534Z",
+      "raw_id": "Nendoroid/0900-0999/904.json"
+    }
+  ]
+}

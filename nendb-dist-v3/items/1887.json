@@ -1,0 +1,71 @@
+{
+  "num": "1887",
+  "name": {
+    "en": "Nendoroid Floyd Leech",
+    "ja": "ねんどろいど フロイド・リーチ (ねんどろいど ふろいど・りーち)",
+    "ko": "플로이드 리치"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12677,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1INiUbpcp9o/Yw_WJ77joHI/AAAAAAAA6Y0/Qub1iyQmWu08YLSs12MtPxF62WkCzUfxgCNcBGAsYHQ/s270/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1INiUbpcp9o/Yw_WJ77joHI/AAAAAAAA6Y0/Qub1iyQmWu08YLSs12MtPxF62WkCzUfxgCNcBGAsYHQ/s270/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lLT3u1m60Gk/YxEWemOygyI/AAAAAAAA6gc/orRksOghQS4mHtPrWv-hJndtxxa6SfZbACNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3YmWVxbUqyY/YxEWfLeyz6I/AAAAAAAA6gg/-5wCxToMS8sk1WY0VICSJD6SXSzyTSuoQCNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T7vaY7qaoYs/YxEWfvAu63I/AAAAAAAA6gk/9GaoLsYbqR4k5jV7rTAYf2kv6x8oafblgCNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pb7ontm51UE/YxEWgHY-SKI/AAAAAAAA6go/O53bH3n9bLMEbUHZJtscKuqsgsxwJfakACNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BqfQRYsM73Q/YxEWguqmqgI/AAAAAAAA6gs/l8k0nTiogZck4pIjEC121i6Za2i9C2fNACNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-dApkYIhDhYs/YxEWop3SHRI/AAAAAAAA6iI/uqbd-xQafEw60zMH84JUm1HDIFathqSOACNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-9iGXEdXMCvA/YxEWhj2c_gI/AAAAAAAA6gw/TbWXd7qsj18PVOas2mYaMlOrpUY-ZmcAQCNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-fxW2Jk1FuRs/YxEWeMAHYhI/AAAAAAAA6gY/XPmEJzNRkw4yVE6XqEfNRdy5gv79iYmcACNcBGAsYHQ/s135/1887-Floyd-Leech-Twisted-Wonderlands-Disney-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1887/",
+      "fetched_at": "2026-05-16T19:10:33.710Z",
+      "raw_id": "/nendoroid/details/n1887/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.775Z",
+      "raw_id": "Nendoroid/1800-1899/1887.json"
+    }
+  ]
+}

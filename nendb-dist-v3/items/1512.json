@@ -1,0 +1,69 @@
+{
+  "num": "1512",
+  "name": {
+    "en": "Nendoroid Yuna",
+    "ja": "ねんどろいど ユナ (ねんどろいど ゆな)",
+    "ko": "유나"
+  },
+  "series": {
+    "en": "Kuma Kuma Kuma Bear",
+    "ja": "くまクマ熊ベアー",
+    "ko": "곰곰곰 베어",
+    "code": "kuma-kuma-kuma-bear"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10397,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CamRj8z6qWI/X67o2cO2cJI/AAAAAAAAukI/2Qvedfq1uDMQ725K73GPEP2sdPfqvFfcgCLcBGAsYHQ/s270/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CamRj8z6qWI/X67o2cO2cJI/AAAAAAAAukI/2Qvedfq1uDMQ725K73GPEP2sdPfqvFfcgCLcBGAsYHQ/s270/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QcX3cSDBk6k/X67pF44q1rI/AAAAAAAAukU/u4VKOT0i0voWXpgP_FicXykq2-NNP8N9QCLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QhZHwgOlWEs/X67pF6heuuI/AAAAAAAAukc/FcKT-R2aZz8lhpV4hoGhr21jR17UUEuLACLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OdyVpPCXEGw/X67pF1mNtgI/AAAAAAAAukY/SSggmU5mM200Yjo1Mvah1iNfRylcrFX-wCLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2wyu9khnpfw/X67pGkd11gI/AAAAAAAAukg/B9k8WqIMUp8YLg9oChX6350dIWeiF1WsQCLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vb7wIOp7iXc/X67pHM4rJGI/AAAAAAAAukk/7O5BqXMYZxUKXtJzbCbohovOes4y0l0BQCLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DF7cd7nRe_U/X67pHjNL8TI/AAAAAAAAuko/fdzARQImFVApV83z_mbS2PPoKxMYQX8NQCLcBGAsYHQ/s135/1512-Yuna-Kuma-Kuma-Kuma-Bear-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1512/",
+      "fetched_at": "2026-05-16T19:10:33.475Z",
+      "raw_id": "/nendoroid/details/n1512/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.684Z",
+      "raw_id": "Nendoroid/1500-1599/1512.json"
+    }
+  ]
+}

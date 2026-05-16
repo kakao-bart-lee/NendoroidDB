@@ -1,0 +1,69 @@
+{
+  "num": "0938",
+  "name": {
+    "en": "Nendoroid Kasen Kanesada",
+    "ja": "ねんどろいど 歌仙兼定 (ねんどろいど かせんかねさだ)",
+    "ko": "카센 카네사다"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4787,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7301,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4w4xQSHG3E0/X4Nem1_5jFI/AAAAAAABmMI/FpcWp0QmeFs4tXaduIrdZuTgWD4RIpjLwCLcBGAsYHQ/s270/938-Kasen-Kanesada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4w4xQSHG3E0/X4Nem1_5jFI/AAAAAAABmMI/FpcWp0QmeFs4tXaduIrdZuTgWD4RIpjLwCLcBGAsYHQ/s270/938-Kasen-Kanesada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bNbmvMYWKJc/X4roMcw86FI/AAAAAAABn18/w4Lb59gAQAA1C7IGxMlB9UTuMsgDRZqQQCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Lp2mjyf3w48/X4roMvyJMTI/AAAAAAABn2A/68hbdqf649cps5-3HXE9WZxExvyCaYAwwCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-miZb6-St1uw/X4roM93J5PI/AAAAAAABn2E/m0yA597_JNcIn-syeJVGN_o_fgLTUZE4QCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-r0577FoPeAE/X4roNCB8JKI/AAAAAAABn2I/QTvmUrg8LfA-UX4pMH8d8eVvRSho38kpwCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TXl-Je13xS8/X4roNRFAIbI/AAAAAAABn2M/VFSaXTib_uIdHOLzGwvKKskZp27YmX66QCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sHy59Nqobrk/X4roNo6lMtI/AAAAAAABn2Q/cDvjenwIalIFXUCMl8p6lU7BpXI5SXprQCLcBGAsYHQ/s135/938-Kasen-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n938/",
+      "fetched_at": "2026-05-16T19:10:34.884Z",
+      "raw_id": "/nendoroid/details/n938/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.543Z",
+      "raw_id": "Nendoroid/0900-0999/938.json"
+    }
+  ]
+}

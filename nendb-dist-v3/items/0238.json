@@ -1,0 +1,67 @@
+{
+  "num": "0238",
+  "name": {
+    "en": "Nendoroid Yukiko Amagi (ねんどろいど あまぎゆきこ)",
+    "ja": "ねんどろいど 天城雪子 (ねんどろいど あまぎゆきこ)",
+    "ko": "아마기 유키코"
+  },
+  "series": {
+    "en": "Persona 4 TV Series",
+    "ja": "TVアニメ『ペルソナ４』",
+    "ko": "페르소나4",
+    "code": "persona-4-tv-series"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3501,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-monvmYt7qtk/X4NLOEglVSI/AAAAAAABlXk/mgi4E0iHXdkxxOHRx1P_GQBsmLSezo3sQCLcBGAsYHQ/s270/238-Amagi-Yukiko-Edition-Persona-4-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-monvmYt7qtk/X4NLOEglVSI/AAAAAAABlXk/mgi4E0iHXdkxxOHRx1P_GQBsmLSezo3sQCLcBGAsYHQ/s270/238-Amagi-Yukiko-Edition-Persona-4-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_0a-SgxQU9I/X4dXdgWdrkI/AAAAAAAAqdo/XARY_hgTX-M21NAkooFluW3MPk_2KK-TACLcBGAsYHQ/s135/238-Yukiko-Amagi-Persona-4-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hbRkRc672KE/X4dXd9hWV5I/AAAAAAAAqdw/rFMSXQxBma0_4nNldfnyjQIthPrrQMFwQCLcBGAsYHQ/s135/238-Yukiko-Amagi-Persona-4-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GjVSCLwl9yI/X4dXeHHO5wI/AAAAAAAAqd0/CsUSxfb7C2wuK404vHZQYRwOGXnpiE8PwCLcBGAsYHQ/s135/238-Yukiko-Amagi-Persona-4-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LprvC99HjDQ/X4dXeSrniII/AAAAAAAAqd4/Uk_cJyiuMjwid3PXZ55Ktw7gprNwvL9WQCLcBGAsYHQ/s135/238-Yukiko-Amagi-Persona-4-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n238/",
+      "fetched_at": "2026-05-16T19:10:34.027Z",
+      "raw_id": "/nendoroid/details/n238/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.330Z",
+      "raw_id": "Nendoroid/0200-0299/238.json"
+    }
+  ]
+}

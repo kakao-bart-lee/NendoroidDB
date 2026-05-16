@@ -1,0 +1,94 @@
+{
+  "num": "1192",
+  "name": {
+    "en": "Nendoroid Hina Amano",
+    "ja": "ねんどろいど 天野陽菜 (ねんどろいど あまのひな)",
+    "ko": "아마노 히나"
+  },
+  "series": {
+    "en": "Weathering with You",
+    "ja": "天気の子",
+    "ko": "날씨의 아이",
+    "code": "weathering-with-you"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Udono Kazuyoshi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": "4580416909181",
+  "gsc_product_id": "6428",
+  "gsc_product_num": 8721,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/6428",
+    "ja": "https://www.goodsmile.com/ja/product/6428"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190823/8721/63053/large/43144447ab10d45fb2b439c3485ed712.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EryPyHTMs0M/X4NgvOKR4KI/AAAAAAABmek/SHTAURWmltUg4PBLc4G1_qrfOQJXAh-VwCLcBGAsYHQ/s270/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cmfyf7JUgBc/X4rxybqEO7I/AAAAAAABpe8/VT5MSN-wJKUDNLUYKP9XgZqj76pEG8geQCLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-phs-QVm8M6Y/X4rxyiSD3bI/AAAAAAABpfA/Hn_NArxW16cu5L11tVxQkyfCI7MYMBmZACLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fi2ROh2lXqY/X4rxy9z_WzI/AAAAAAABpfE/ip2APPmMa4kZixJ6xcSPyI4MCQkHUlj7wCLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iHHRS5d6ej8/X4rxzJwM36I/AAAAAAABpfI/8uysOYvyIVIjdk3JPJIe1FX-IsdtPpwiQCLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ahybo589oAs/X4rxza43ZWI/AAAAAAABpfM/mC1MljqiS-E5U_MX8tFL-JKJM4lYx685QCLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SiOGKsSK-5Y/X4rxzlfzgtI/AAAAAAABpfQ/-5Ssddd2_Zct2TnTi4ylovSz6AF-dp9XwCLcBGAsYHQ/s135/1192-Hina-Amano-Weathering-with-You-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190823/8721/63059/large/68f0b16b7365f37ce239378430f99b27.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190823/8721/63053/large/43144447ab10d45fb2b439c3485ed712.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6428",
+      "price_local": 5100,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:50:13.833Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6428",
+      "fetched_at": "2026-05-16T11:50:13.833Z",
+      "raw_id": "6428"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/6428",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "6428"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1192/",
+      "fetched_at": "2026-05-16T19:10:33.278Z",
+      "raw_id": "/nendoroid/details/n1192/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.607Z",
+      "raw_id": "Nendoroid/1100-1199/1192.json"
+    }
+  ]
+}

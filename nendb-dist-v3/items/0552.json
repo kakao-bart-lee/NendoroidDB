@@ -1,0 +1,68 @@
+{
+  "num": "0552",
+  "name": {
+    "en": "Nendoroid Sanya V. Litvyak (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)",
+    "ja": "ねんどろいど サーニャ・V・リトヴャク (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)",
+    "ko": "샤나 V. 리트뱌크"
+  },
+  "series": {
+    "en": "Strike Witches 2",
+    "ja": "ストライクウィッチーズ2",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5199,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ScfKv_2r9UE/X4NOiDlhZuI/AAAAAAABlws/Kn19f8QD-wc15MrzPcwx36WGmSAHl60BQCLcBGAsYHQ/s270/552-Sanya-V-Litvyak-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ScfKv_2r9UE/X4NOiDlhZuI/AAAAAAABlws/Kn19f8QD-wc15MrzPcwx36WGmSAHl60BQCLcBGAsYHQ/s270/552-Sanya-V-Litvyak-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4WgU5Hml0ik/X4isxm74ivI/AAAAAAAAsMc/S_PBR1qYjl8KA7B3PjNyWBzwFyeC9Re4wCLcBGAsYHQ/s135/552-Sanya-V.-Litvyak-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8a8frAQgzLQ/X4isx_eL6XI/AAAAAAAAsMg/P0wjLBDYBsENw2arfb42qrMwBhBWT8L8wCLcBGAsYHQ/s135/552-Sanya-V.-Litvyak-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZE0HHYglctk/X4isx7RzXBI/AAAAAAAAsMk/eiPs1C2_hFwGttxiwd_qaEslWs5kqCBZACLcBGAsYHQ/s135/552-Sanya-V.-Litvyak-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yrYOyvRPiTY/X4isyBIEgXI/AAAAAAAAsMo/4l4TV45bKXs2nwsYQ8lyUB-99HC8DJAMQCLcBGAsYHQ/s135/552-Sanya-V.-Litvyak-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MtXkVya3sC4/X4isyhaJEUI/AAAAAAAAsMs/-4w4-Sa8sZwInGqxGFz7rf1UD-ZwRH3YwCLcBGAsYHQ/s135/552-Sanya-V.-Litvyak-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n552/",
+      "fetched_at": "2026-05-16T19:10:34.595Z",
+      "raw_id": "/nendoroid/details/n552/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.442Z",
+      "raw_id": "Nendoroid/0500-0599/552.json"
+    }
+  ]
+}

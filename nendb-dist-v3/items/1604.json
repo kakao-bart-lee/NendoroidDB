@@ -1,0 +1,70 @@
+{
+  "num": "1604",
+  "name": {
+    "en": "Nendoroid Idia Shroud",
+    "ja": "ねんどろいど イデア・シュラウド (ねんどろいど いであ・しゅらうど)",
+    "ko": "이데아 슈라우드"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11009,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_29LO-md0s4/YJfnWX8iViI/AAAAAAAAx7Y/IHomruWym9Avg9yuiQIn33PTriUgxX3BwCLcBGAsYHQ/s270/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_29LO-md0s4/YJfnWX8iViI/AAAAAAAAx7Y/IHomruWym9Avg9yuiQIn33PTriUgxX3BwCLcBGAsYHQ/s270/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ix2YpC5NDPY/YJK7kxCG9mI/AAAAAAAAxvs/4uN43xmX3hsjnt59SG4lGd_F1s50TVEoQCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kT714j1JSzc/YJK7lPJ5CkI/AAAAAAAAxvw/CDuLEoNNK7kmKaGfWcVPAVdFctms_am-QCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MW4rfYukAJ0/YJK7leBla8I/AAAAAAAAxv0/Qm_978-m7d40_7svODAcCRx6FFctWJFRwCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ah8Eq6cG7Vs/YJK7lutgH-I/AAAAAAAAxv4/bYxcOQy7CdAVsqEQ5TxkA-IAGpEmNR50wCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JPPc7BIabG8/YJK7l0GZL2I/AAAAAAAAxv8/ebrDHWOe0qIwp9iyCQg9MBOt0-olYS2xgCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4EeCMJQqpuQ/YJK7mNceaVI/AAAAAAAAxwA/OsyhzfiHoLk6XW1YrDL5buOZMTpvmARJgCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-J95-dXkd5HI/YJK7mfimwAI/AAAAAAAAxwE/rm3Q-8YdwVE5k2GeUXn1xXA2kw5RJqgjwCLcBGAsYHQ/s135/1604-Idia-Shroud-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1604/",
+      "fetched_at": "2026-05-16T19:10:33.530Z",
+      "raw_id": "/nendoroid/details/n1604/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.705Z",
+      "raw_id": "Nendoroid/1600-1699/1604.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1859",
+  "name": {
+    "en": "Nendoroid Saga",
+    "ja": "ねんどろいど サガ (ねんどろいど さが)",
+    "ko": "사가"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12476,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sXB_pMEWKy8/YliMn00CLiI/AAAAAAAA5M8/-OzKYJSfwl08Xc2gskbt99CaMB-2WVJ1ACNcBGAsYHQ/s270/1859-Saga-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sXB_pMEWKy8/YliMn00CLiI/AAAAAAAA5M8/-OzKYJSfwl08Xc2gskbt99CaMB-2WVJ1ACNcBGAsYHQ/s270/1859-Saga-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lQ7JQDxqSew/YliWHFXzNdI/AAAAAAAA5b0/gKf_g7v4qc8eDe8exqur95RpVj4RfPLygCNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2CHD4YUCA1A/YliWHYaACDI/AAAAAAAA5b4/jMCM8aE0nMAU1Je3TdbAQlgEGXhA-ZQ0gCNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Q6D0MqdaVDo/YliWHj6g5RI/AAAAAAAA5b8/1UNRfiW-1qcXIN9UjqanqtJEBK3IQxA5QCNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oFiPj3l-xgs/YliWHz5a0zI/AAAAAAAA5cA/miRUwNya3igL8TlmRjBV79Dh1CMlsAQZACNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XLXgZ5K2bc8/YliWIY-VoTI/AAAAAAAA5cE/7P4LVDB2wl8KOdmdtQjJ1i3sV7jv3I_BQCNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qyWzJ0vk9JI/YliWI7I1yfI/AAAAAAAA5cI/pbpy8boTeOQx1iEeGfv5Epcva2wcFfLbwCNcBGAsYHQ/s135/1859-Saga-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1859/",
+      "fetched_at": "2026-05-16T19:10:33.691Z",
+      "raw_id": "/nendoroid/details/n1859/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.769Z",
+      "raw_id": "Nendoroid/1800-1899/1859.json"
+    }
+  ]
+}

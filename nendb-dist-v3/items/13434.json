@@ -1,0 +1,55 @@
+{
+  "num": "13434",
+  "name": {
+    "en": "Nendoroid Doll Kigurumi Pajamas: Pochacco",
+    "ja": "ねんどろいどどーる きぐるみパジャマ ポチャッコ (ねんどろいどどーる きぐるみぱじゃま ぽちゃっこ)",
+    "ko": "키구루미 잠옷(포차코)"
+  },
+  "series": {
+    "en": "Pochacco",
+    "ja": "ポチャッコ",
+    "ko": "굿스마일 오리지널",
+    "code": "pochacco"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13434,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221019/13434/108609/large/d690c47df043d4e87dd8ccbb09c0b186.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.933Z",
+      "raw_id": "NendoroidDoll/Clothes/13434.json"
+    }
+  ]
+}

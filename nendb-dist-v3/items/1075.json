@@ -1,0 +1,68 @@
+{
+  "num": "1075",
+  "name": {
+    "en": "Nendoroid KING MICKEY",
+    "ja": "ねんどろいど 王様（ミッキーマウス） (ねんどろいど おうさま（みっきーまうす）)",
+    "ko": "미키"
+  },
+  "series": {
+    "en": "Kingdom Hearts II",
+    "ja": "キングダム ハーツⅡ",
+    "ko": "킹덤 하츠 시리즈",
+    "code": "kingdom-hearts-ii"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UamMebrSbMs/X4Nf3mqwd6I/AAAAAAABmWI/2h6FNaNphAEie8Za6r4UajWHq_s_TELJQCLcBGAsYHQ/s270/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UamMebrSbMs/X4Nf3mqwd6I/AAAAAAABmWI/2h6FNaNphAEie8Za6r4UajWHq_s_TELJQCLcBGAsYHQ/s270/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DQrnjN4DZOA/X4rs9jS9JXI/AAAAAAABouU/3aQv-fPy6rIHcJmU4fAE8ZKbd2qyp-ogQCLcBGAsYHQ/s135/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eyjTyRDTvL8/X4rs-E4x2UI/AAAAAAABouY/hRDa4qGRbdoEquQNEGvO4SSoOoku02yWQCLcBGAsYHQ/s135/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7w-0OJHKnvs/X4rs-X2zDmI/AAAAAAABouc/_3zZ5X544GcalHw9_gyp-mXLAn89FxW7QCLcBGAsYHQ/s135/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gIIUUA6i7l0/X4rs-oth7BI/AAAAAAABoug/yavubJ6YrA0fOJqxdxvVNb6u9UPbi_pYgCLcBGAsYHQ/s135/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-luuIiTjvFAo/X4rs-_mh9uI/AAAAAAABouk/B448g-kJIgU8b-hfo2uoYkPsS3P1qORrACLcBGAsYHQ/s135/1075-King-Mickey-Kingdom-Hearts-II-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1075/",
+      "fetched_at": "2026-05-16T19:10:33.202Z",
+      "raw_id": "/nendoroid/details/n1075/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.579Z",
+      "raw_id": "Nendoroid/1000-1099/1075.json"
+    }
+  ]
+}

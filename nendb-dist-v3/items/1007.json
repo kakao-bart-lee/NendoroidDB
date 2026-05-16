@@ -1,0 +1,69 @@
+{
+  "num": "1007",
+  "name": {
+    "en": "Nendoroid Namazuo Toshiro",
+    "ja": "ねんどろいど 鯰尾藤四郎 (ねんどろいど なまずおとうしろう)",
+    "ko": "나마즈오 토시로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4787,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7641,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LxQJ65TjXAY/X4NfgxMYz3I/AAAAAAABmRc/tZER0Jio5TINg8s4cRJIbtm4EgEqAsZQgCLcBGAsYHQ/s270/1007-Namazuo-Toushirou-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LxQJ65TjXAY/X4NfgxMYz3I/AAAAAAABmRc/tZER0Jio5TINg8s4cRJIbtm4EgEqAsZQgCLcBGAsYHQ/s270/1007-Namazuo-Toushirou-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FbPlzVCsZlc/X4rrK22rayI/AAAAAAABoUU/U2fl5Zlz4pIdIJ9pf8WSCC8k-gQQgJ5fQCLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-E5rrcO11PYA/X4rrLDNcNAI/AAAAAAABoUY/JkHUmwD4DCcIhLccdSislbAjmflLgVJBACLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HByJSMGhmQ8/X4rrLSEYquI/AAAAAAABoUc/-EMAiesXJDw78Zkvp4ZAnoXS3DcivSBEgCLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sZOJMG-X8pc/X4rrLqkJS8I/AAAAAAABoUg/yo_c1eJHIq4icLv5_nhh4TqyUvOH26C4ACLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--Ow2RubJilQ/X4rrL4Qm6II/AAAAAAABoUk/xg-vsKev8aYTrsh1-5NcNfIk0daXsucYACLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3e1rIM-WLWQ/X4rrMq70AHI/AAAAAAABoUo/e8q0PoSdty8hqSC38ekS6ismTmMDDYn0wCLcBGAsYHQ/s135/1007-Namazuo-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1007/",
+      "fetched_at": "2026-05-16T19:10:33.131Z",
+      "raw_id": "/nendoroid/details/n1007/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.562Z",
+      "raw_id": "Nendoroid/1000-1099/1007.json"
+    }
+  ]
+}

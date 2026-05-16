@@ -1,0 +1,68 @@
+{
+  "num": "0265",
+  "name": {
+    "en": "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)",
+    "ja": "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
+    "ko": "쿄우노 마도카"
+  },
+  "series": {
+    "en": "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)",
+    "ja": "輪廻のラグランジェ",
+    "ko": "윤희의 라그랑제",
+    "code": "rinne-no-lagrange-lagrange-the-flower-of-rin-ne"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3611,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pH8dX34Ezgo/X4NLVPTbpcI/AAAAAAABlZU/25zUifYQgwghRhrksaG1nJgJUF9DQ3h-QCLcBGAsYHQ/s270/265-Kyono-Madoka-Lagrange-The-FLower-if-Rin-ne-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pH8dX34Ezgo/X4NLVPTbpcI/AAAAAAABlZU/25zUifYQgwghRhrksaG1nJgJUF9DQ3h-QCLcBGAsYHQ/s270/265-Kyono-Madoka-Lagrange-The-FLower-if-Rin-ne-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CSjGdVuR6rA/X4dX94Rz1tI/AAAAAAAAql0/cIjggnD75q8A_gXEIYNad5C8IurfWPlDACLcBGAsYHQ/s135/265-Kyono-Madoka-Lagrange-The-Flower-of-Rin-ne-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aSyWrfX4irk/X4dX9233q0I/AAAAAAAAql4/ZWkojOK-KoIBKt_NznWNOHcIVE0or5MDwCLcBGAsYHQ/s135/265-Kyono-Madoka-Lagrange-The-Flower-of-Rin-ne-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-opNqZVL_jw4/X4dX-d0DMRI/AAAAAAAAql8/CQJ_2C_GwDw2wXO4CTIy_EyFuENISaXUQCLcBGAsYHQ/s135/265-Kyono-Madoka-Lagrange-The-Flower-of-Rin-ne-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Tk62ReFV12E/X4dX-TmU78I/AAAAAAAAqmA/HPM_lhNjChMdf3hfPGaQqHyvohkOM--EQCLcBGAsYHQ/s135/265-Kyono-Madoka-Lagrange-The-Flower-of-Rin-ne-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RktGmkZp21k/X4dX-qqiYsI/AAAAAAAAqmE/_UFjSTfYsikq9vRIukfV0xRDbZ5AhBJmACLcBGAsYHQ/s135/265-Kyono-Madoka-Lagrange-The-Flower-of-Rin-ne-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n265/",
+      "fetched_at": "2026-05-16T19:10:34.195Z",
+      "raw_id": "/nendoroid/details/n265/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.336Z",
+      "raw_id": "Nendoroid/0200-0299/265.json"
+    }
+  ]
+}

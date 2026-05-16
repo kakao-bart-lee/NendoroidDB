@@ -1,0 +1,68 @@
+{
+  "num": "0828",
+  "name": {
+    "en": "Nendoroid Ernesti Echevalier",
+    "ja": "ねんどろいど エルネスティ・エチェバルリア (ねんどろいど えるねすてぃ・えちぇばるりあ)",
+    "ko": "에르네스티 에체바르리아"
+  },
+  "series": {
+    "en": "Knight's & Magic",
+    "ja": "ナイツ＆マジック",
+    "ko": "나이츠 & 매직",
+    "code": "knight-s-magic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6735,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9AzhhbgFPLc/X4Ndwx01SaI/AAAAAAABmEY/GnfMNebO4_E_NC6vl7VFWacO9RhllXLKQCLcBGAsYHQ/s270/828-Ernesti-Echevalier-Knight-Magic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9AzhhbgFPLc/X4Ndwx01SaI/AAAAAAABmEY/GnfMNebO4_E_NC6vl7VFWacO9RhllXLKQCLcBGAsYHQ/s270/828-Ernesti-Echevalier-Knight-Magic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5sEdrQC-VAA/X4rijle_K-I/AAAAAAABnJM/8arRua0m5vMEKsL43QdyP3oqDNz1AP6WwCLcBGAsYHQ/s135/828-Ernesti-Echevalier-Knights-and-Magic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YjVSmS-BopM/X4rij8qtVtI/AAAAAAABnJQ/Y-Qj50oRXtodvlBKE0VAjCxLu2pIPAy9QCLcBGAsYHQ/s135/828-Ernesti-Echevalier-Knights-and-Magic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-u89yLgoDoGk/X4rikSgfyXI/AAAAAAABnJU/z71OB3GA31o9UreMd5DfpyU7lvd9iKEhACLcBGAsYHQ/s135/828-Ernesti-Echevalier-Knights-and-Magic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GAI0Fk1xvJ0/X4rikhGRTvI/AAAAAAABnJY/RDQepDfXEt0yaiKqNt5yABFRsqlTAaSUQCLcBGAsYHQ/s135/828-Ernesti-Echevalier-Knights-and-Magic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qjN1KRNLZRw/X4rikl8fEhI/AAAAAAABnJc/TvYIX7UqoeEsRr56h8X5FJAiiotA03WOQCLcBGAsYHQ/s135/828-Ernesti-Echevalier-Knights-and-Magic-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n828/",
+      "fetched_at": "2026-05-16T19:10:34.823Z",
+      "raw_id": "/nendoroid/details/n828/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.517Z",
+      "raw_id": "Nendoroid/0800-0899/828.json"
+    }
+  ]
+}

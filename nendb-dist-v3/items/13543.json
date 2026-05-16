@@ -1,0 +1,55 @@
+{
+  "num": "13543",
+  "name": {
+    "en": "Nendoroid Doll Tea Time Series: Charlie",
+    "ja": "ねんどろいどどーる ティータイムシリーズ：チャーリー (ねんどろいどどーる てぃーたいむしりーず：ちゃーりー)",
+    "ko": "찰리"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "티타임 시리즈",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13543,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221116/13543/107203/large/034e34b24aad667330450ac4170470a4.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.963Z",
+      "raw_id": "NendoroidDoll/Doll/13543.json"
+    }
+  ]
+}

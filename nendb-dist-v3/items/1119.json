@@ -1,0 +1,68 @@
+{
+  "num": "1119",
+  "name": {
+    "en": "Nendoroid Qi Bai",
+    "ja": "ねんどろいど ハク (ねんどろいど はく)",
+    "ko": "백기"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8217,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GRVt7XS3u8I/X4NgWQ5qAvI/AAAAAAABmZs/ucM-cMZILfgwStenScH0G6LAczlmDmDiwCLcBGAsYHQ/s270/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GRVt7XS3u8I/X4NgWQ5qAvI/AAAAAAABmZs/ucM-cMZILfgwStenScH0G6LAczlmDmDiwCLcBGAsYHQ/s270/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ijHdYAB8CDA/X4rvv4CiNAI/AAAAAAABpBA/Vd4UMOBxtNkdHiiYE0r5Cd_cc7rN9Y57QCLcBGAsYHQ/s135/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TAaVhjZsyts/X4rvwaJcg-I/AAAAAAABpBE/qTh3zMlJxQIlvLlJC5__PzwPxK5pTKDawCLcBGAsYHQ/s135/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P5-2xqAv3y4/X4rvwvda-jI/AAAAAAABpBI/yzxWyzbb1DE6-LV_9liCxj9Y16MrkwltgCLcBGAsYHQ/s135/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cnyDzN0WLzs/X4rvw2D-PCI/AAAAAAABpBM/qBpL1Ntg-yYHoIZ3c9R0JgxyN4zeyqfhgCLcBGAsYHQ/s135/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L3exCIZF6c4/X4rvxN6x1TI/AAAAAAABpBQ/zlixxineKegKBobj-epnx9HQRZWuBmQOQCLcBGAsYHQ/s135/1119-Qi-Bai-Love-and-Producer-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1119/",
+      "fetched_at": "2026-05-16T19:10:33.232Z",
+      "raw_id": "/nendoroid/details/n1119/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.589Z",
+      "raw_id": "Nendoroid/1100-1199/1119.json"
+    }
+  ]
+}

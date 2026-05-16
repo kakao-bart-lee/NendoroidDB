@@ -1,0 +1,55 @@
+{
+  "num": "1675-DX",
+  "name": {
+    "en": "Nendoroid Taskmaster: Black Widow Ver. DX",
+    "ja": "ねんどろいど タスクマスター Black Widow Ver. DX (ねんどろいど たすくますたー ぶらっく うぃどう Ver. DX)",
+    "ko": "태스크마스터 블랙위도우 DX Ver."
+  },
+  "series": {
+    "en": "Black Widow",
+    "ja": "ブラックウィドウ",
+    "ko": "블랙위도우",
+    "code": "black-widow"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11456,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210705/11456/86927/large/87a5609cef16dfc2f4b3c8bd3f8fac7b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.723Z",
+      "raw_id": "Nendoroid/1600-1699/1675-DX.json"
+    }
+  ]
+}

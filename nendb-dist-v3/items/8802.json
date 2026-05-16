@@ -1,0 +1,59 @@
+{
+  "num": "8802",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Hakama (Boy)",
+    "ja": "ねんどろいどどーる おようふくセット 書生くん (ねんどろいどどーる おようふくせっと しょせいくん)",
+    "ko": "하카마(서생군) 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-05",
+      "status": "released"
+    },
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8802,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190918/8802/63713/large/58bf56f7f24814e1caf10ba64ea0811e.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.941Z",
+      "raw_id": "NendoroidDoll/Clothes/8802.json"
+    }
+  ]
+}

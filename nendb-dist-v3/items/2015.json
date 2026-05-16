@@ -1,0 +1,70 @@
+{
+  "num": "2015",
+  "name": {
+    "en": "Nendoroid New Jersey: Exhilarating Steps!",
+    "ja": "ねんどろいど ニュージャージー リッピング・ステッピング！ (ねんどろいど にゅーじゃーじー りっぴんぐ・すてっぴんぐ！)",
+    "ko": "뉴저지: 두근두근 무대시간!"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13619,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vEb6TIpyidk/Y45wXcqSV-I/AAAAAAAA7s0/nMmIi59QGI4JLl-wzZq3KNBn3DK6rhdgQCNcBGAsYHQ/s270/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vEb6TIpyidk/Y45wXcqSV-I/AAAAAAAA7s0/nMmIi59QGI4JLl-wzZq3KNBn3DK6rhdgQCNcBGAsYHQ/s270/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5UIjlEKMQPA/Y452CqkhHKI/AAAAAAAA78M/26erMBos5vUFyVOSKmRiwGRPK_pLfy0lgCNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s9RtVKhOMBA/Y452DKBuMWI/AAAAAAAA78Q/T2q_O-EYcSU4Z_uA5MM-xKFIlp2zCOJoQCNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i9Gr1qh3meY/Y452DlK-RfI/AAAAAAAA78U/BTxHixV9OlYpMtfYXnWmA4DymXtKlR9iQCNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gX4ZRKw4msc/Y452EJAgRdI/AAAAAAAA78Y/PXzeDf2nKPcgST2WPae_WVEURWJnrC-1ACNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2f7LL21WK3g/Y452EgeISeI/AAAAAAAA78c/7fCm_sGctIc_v8ca3nKqHjCWSr4P_6D3QCNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IQB5KAZxf5k/Y452FFjPg6I/AAAAAAAA78g/MOFtdKfnY9kvdy9zAKxJXZAXWz_Jol-dQCNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ku4YcEAgAB8/Y452FuuHsOI/AAAAAAAA78k/3LiF6e_hVw4L9enGDw23NHSFr_WKYdJxACNcBGAsYHQ/s135/2015-New-Jersey-Azur-Lane-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2015/",
+      "fetched_at": "2026-05-16T19:10:33.786Z",
+      "raw_id": "/nendoroid/details/n2015/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.806Z",
+      "raw_id": "Nendoroid/2000-2099/2015.json"
+    }
+  ]
+}

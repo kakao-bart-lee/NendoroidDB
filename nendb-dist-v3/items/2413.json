@@ -1,0 +1,64 @@
+{
+  "num": "2413",
+  "name": {
+    "en": "Ukyo",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Amnesia",
+    "ja": null,
+    "ko": null,
+    "code": "amnesia"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ybPxee8XX3Q/Ziq-0438pZI/AAAAAAABEAQ/wb2fK1Dz9VoaCxpHcXJrRonmW7rp3dF_ACNcBGAsYHQ/s270/2413-Ukyo-Amnesia-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ybPxee8XX3Q/Ziq-0438pZI/AAAAAAABEAQ/wb2fK1Dz9VoaCxpHcXJrRonmW7rp3dF_ACNcBGAsYHQ/s270/2413-Ukyo-Amnesia-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uzdDj6t9d_s/Zow1kyrcOXI/AAAAAAABFb8/VzHqJYkMbDwfBoqTMqn8Hi8-rkmufiDEgCNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4aZ_jiQhJi0/Zow1lWdZWDI/AAAAAAABFcA/KLxFJkbNg0si-CZbQZRN6ti4D1LbnpvQgCNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0DHW7SsQLOk/Zow1meA8VnI/AAAAAAABFcE/4KnHw1W22QUYsSR6DaeqFBbnkArrASIzgCNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--X6wpMc9e7I/Zow1mlQFcAI/AAAAAAABFcI/BVsa0FawEnco5MiqsuZR_BbYGlo7WaNDACNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-byyliSdhjpA/Zow1m0evo0I/AAAAAAABFcQ/39ZiovtvKrMtzuqa-iBTPyEATjzTGotowCNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CzKRUpGWojM/Zow1m_vfzdI/AAAAAAABFcM/gydNvXOeN3sWj7bWaTl0IbLxMXI56rPqwCNcBGAsYHQ/s135/2413-Ukyo-Amnesia-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2413/",
+      "fetched_at": "2026-05-16T19:10:34.042Z",
+      "raw_id": "/nendoroid/details/n2413/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0460",
+  "name": {
+    "en": "Nendoroid Naruko Aoba (ねんどろいど あおばなるこ)",
+    "ja": "ねんどろいど 青葉鳴子 (ねんどろいど あおばなるこ)",
+    "ko": "아오바 냐루코"
+  },
+  "series": {
+    "en": "Magica Wars",
+    "ja": "魔法少女大戦",
+    "ko": "마법소녀대전",
+    "code": "magica-wars"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0BzRAj5V-h0/X4NN2ZC06mI/AAAAAAABlqU/TrMIi6SdFNMby1Z53o_d53rcz-ATN8vqwCLcBGAsYHQ/s270/460-Naruko-Aoba-Magica-Wars-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0BzRAj5V-h0/X4NN2ZC06mI/AAAAAAABlqU/TrMIi6SdFNMby1Z53o_d53rcz-ATN8vqwCLcBGAsYHQ/s270/460-Naruko-Aoba-Magica-Wars-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fcPkZbmBc4c/X4delFipO3I/AAAAAAAArpk/CPpnxWiou64o82Vo10lOrl43-ldYrLzEwCLcBGAsYHQ/s135/460-Naruko-Aoba-Magica-Wars-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cBuCAWPOsK0/X4delRtclNI/AAAAAAAArpo/T2unsTIIj3U60hrtZSI2kx_oa2xiBwMBQCLcBGAsYHQ/s135/460-Naruko-Aoba-Magica-Wars-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-b9czLESaEe0/X4deljfVoWI/AAAAAAAArps/WwWJqDT6TfcPhq-Z7CFJpiCIjrYLX5MDgCLcBGAsYHQ/s135/460-Naruko-Aoba-Magica-Wars-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A4h8o8pxtd0/X4demM4Pu-I/AAAAAAAArpw/LRuwBKmpD58FcLDvIqyC3JKnNSCUEvxSwCLcBGAsYHQ/s135/460-Naruko-Aoba-Magica-Wars-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S9Kl6nLDY78/X4demi5GU_I/AAAAAAAArp0/bwwRphjLeOwA3oNmFZw2HgjOvBMxBGoAwCLcBGAsYHQ/s135/460-Naruko-Aoba-Magica-Wars-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n460/",
+      "fetched_at": "2026-05-16T19:10:34.542Z",
+      "raw_id": "/nendoroid/details/n460/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.385Z",
+      "raw_id": "Nendoroid/0400-0499/460.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0981",
+  "name": {
+    "en": "Nendoroid Rin Shima",
+    "ja": "ねんどろいど 志摩リン (ねんどろいど しまりん)",
+    "ko": "시마 린"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7608,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9uAfnfRY_OQ/X4Ne02OoIyI/AAAAAAABmO8/DZ-776khM1gyodPkQDym-i3ob3GDFNOzQCLcBGAsYHQ/s270/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9uAfnfRY_OQ/X4Ne02OoIyI/AAAAAAABmO8/DZ-776khM1gyodPkQDym-i3ob3GDFNOzQCLcBGAsYHQ/s270/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eh0pym1VLXM/X4rpWQ75AgI/AAAAAAABoG8/3BqUO574exEOg47AtkK2nWlP5p53fyaFQCLcBGAsYHQ/s135/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9_xAeL_UgX8/X4rpWke5MSI/AAAAAAABoHA/j9j0KwKy-e0_BIi7rgsDXjteXlBcSCY9QCLcBGAsYHQ/s135/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-H_4E8gAOtPc/X4rpWyBzXGI/AAAAAAABoHE/5rC5-Qp4GYAOvDORyTtkEABgOswF58UqQCLcBGAsYHQ/s135/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-b1iQkwhKmOc/X4rpXUC8BgI/AAAAAAABoHI/upalA3SMjPgXIFMzawE8aFlhhWDoUubhgCLcBGAsYHQ/s135/981-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n981/",
+      "fetched_at": "2026-05-16T19:10:34.907Z",
+      "raw_id": "/nendoroid/details/n981/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.556Z",
+      "raw_id": "Nendoroid/0900-0999/981.json"
+    }
+  ]
+}

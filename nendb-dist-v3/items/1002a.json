@@ -1,0 +1,68 @@
+{
+  "num": "1002a",
+  "name": {
+    "en": "Nendoroid Saratoga Mk.II",
+    "ja": "ねんどろいど Saratoga（サラトガ） Mk.II (ねんどろいど さらとが まーくつー)",
+    "ko": "새러토가 Mk.2"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7231,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7666,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_rJ6krsJv0c/X4NffU9_UfI/AAAAAAABmRI/epe-1FbNoVI3qbgkHUwSKG-BxMq3Jn7jwCLcBGAsYHQ/s270/1002a-Saratoga-MK-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_rJ6krsJv0c/X4NffU9_UfI/AAAAAAABmRI/epe-1FbNoVI3qbgkHUwSKG-BxMq3Jn7jwCLcBGAsYHQ/s270/1002a-Saratoga-MK-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--50y-7latw8/X4rrCLgukTI/AAAAAAABoSQ/1eHiiRQ0mGkNxsNJM5wkUfJWK9xqG9sUgCLcBGAsYHQ/s135/1002A-Saratoga-Mk.II-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W0F9-3nakEw/X4rrCuN1e9I/AAAAAAABoSU/cfElUcu0V18VjnSqgWAyWLFJxnUkXzjkQCLcBGAsYHQ/s135/1002A-Saratoga-Mk.II-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ltBMWJM58HU/X4rrC9YrnPI/AAAAAAABoSY/VXkpPs88IeIKgg6zV_erNKV3L-OHLPMSQCLcBGAsYHQ/s135/1002A-Saratoga-Mk.II-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iFIkKrbhSW8/X4rrDKZr-7I/AAAAAAABoSc/JXLC3qDViockUOKzaY3lcm8as7F92olRgCLcBGAsYHQ/s135/1002A-Saratoga-Mk.II-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OL7XD7Wfnl8/X4rrDRyX4DI/AAAAAAABoSg/Ios9PmJ9MlwxM2YbeknJCBJRjPy-L_kzACLcBGAsYHQ/s135/1002A-Saratoga-Mk.II-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1002a/",
+      "fetched_at": "2026-05-16T19:10:33.127Z",
+      "raw_id": "/nendoroid/details/n1002a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.561Z",
+      "raw_id": "Nendoroid/1000-1099/1002a.json"
+    }
+  ]
+}

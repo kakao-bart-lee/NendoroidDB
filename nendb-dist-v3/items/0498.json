@@ -1,0 +1,71 @@
+{
+  "num": "0498",
+  "name": {
+    "en": "Nendoroid Noel (Sora no Method)",
+    "ja": "ねんどろいど ノエル (ねんどろいど のえる)",
+    "ko": "노엘"
+  },
+  "series": {
+    "en": "Celestial Method",
+    "ja": "天体のメソッド",
+    "ko": "천체의 메소드",
+    "code": "celestial-method"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4828,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eoYY6JWSKTs/X4NOB8i3epI/AAAAAAABlss/FY_ux3EaA5Qgz_eHPSTUvUTXRoBc2xqqACLcBGAsYHQ/s270/498-Noel-Sora-no-Method-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eoYY6JWSKTs/X4NOB8i3epI/AAAAAAABlss/FY_ux3EaA5Qgz_eHPSTUvUTXRoBc2xqqACLcBGAsYHQ/s270/498-Noel-Sora-no-Method-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3LDISVNmG58/X4dflnrKPaI/AAAAAAAAr3I/GspcRUn3vzcjTqJzPR4WJXCHY2NMyNFvgCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CFFXZU5bvew/X4dfltDMBKI/AAAAAAAAr3M/Qy1aNAMlcacFmYN3aAkU8CVtLCGmBEI7wCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vkILDzWA7LU/X4dfmF2YDuI/AAAAAAAAr3Q/AMcLFpsNAwwKjlYvR-zLnEFrGLrmBv-HQCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wAmdiWacZ04/X4dfmWq3oVI/AAAAAAAAr3U/XBgpaL8gPUAbalsQ4Lc-dEVe5eCRI4NrwCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6vx4ZoBcd8M/X4dfmTiX37I/AAAAAAAAr3Y/UWwA1mFbTukWwHGlbW88OmH-aBzz8HeYgCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-W-0YBHNZzIA/X4dfnElOB0I/AAAAAAAAr3c/w1IW4r0X_2Mp2FqFvKcvhiTRRRmVLNS6ACLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-adesh7RPcDI/X4dfnfF9BWI/AAAAAAAAr3g/q2zAmzzBAkgLondBAExvOVBmIxgkfuCNACLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-y3QyZGAABWI/X4dflPEX9kI/AAAAAAAAr3E/2VRAqZc1Lhs6wlzZ3lzbks57C7Tpqav3QCLcBGAsYHQ/s135/498-Noel-Celestial-Method-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n498/",
+      "fetched_at": "2026-05-16T19:10:34.562Z",
+      "raw_id": "/nendoroid/details/n498/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.394Z",
+      "raw_id": "Nendoroid/0400-0499/498.json"
+    }
+  ]
+}

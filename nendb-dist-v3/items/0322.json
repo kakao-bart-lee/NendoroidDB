@@ -1,0 +1,68 @@
+{
+  "num": "0322",
+  "name": {
+    "en": "Nendoroid Nana Mizuki (ねんどろいど みずきなな)",
+    "ja": "ねんどろいど 水樹奈々 (ねんどろいど みずきなな)",
+    "ko": "미즈키 나나"
+  },
+  "series": {
+    "en": "Nana Mizuki",
+    "ja": "水樹奈々",
+    "ko": "실존인물(성우)",
+    "code": "nana-mizuki"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5133,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3915,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dvwVVpVVRBM/X4NMo92dHJI/AAAAAAABlgw/n6m6xkv82BQjanNFWKfVAZGVZv5GUCaFwCLcBGAsYHQ/s270/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dvwVVpVVRBM/X4NMo92dHJI/AAAAAAABlgw/n6m6xkv82BQjanNFWKfVAZGVZv5GUCaFwCLcBGAsYHQ/s270/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0Efq6tIR328/X4daSc7WliI/AAAAAAAAq6g/93MgzzRVeBAOeg8wVfyIR2OA-jtrP8LoACLcBGAsYHQ/s135/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C2gSmfS_IKo/X4daSnIiTAI/AAAAAAAAq6k/nYJQkgqPTqQE3aY9dEKm6EUswy_pax-awCLcBGAsYHQ/s135/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cWTOPz095sk/X4daS0qL85I/AAAAAAAAq6o/3u8UylhTKIsVUjBASckapqEzWVVYiAozgCLcBGAsYHQ/s135/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uOroCOUcko4/X4daSwfC2XI/AAAAAAAAq6s/axjJg94e7x4QbH6YSWUGVlxr6N8wW3CuQCLcBGAsYHQ/s135/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ll7uhe2vFNU/X4daTESq8bI/AAAAAAAAq6w/dhLtf41ilLQrDwq5Km1OrRJKZsX9nWpBACLcBGAsYHQ/s135/322-Nana-Mizuki-King-Records-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n322/",
+      "fetched_at": "2026-05-16T19:10:34.460Z",
+      "raw_id": "/nendoroid/details/n322/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.351Z",
+      "raw_id": "Nendoroid/0300-0399/322.json"
+    }
+  ]
+}

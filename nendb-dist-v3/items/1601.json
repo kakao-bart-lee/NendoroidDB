@@ -1,0 +1,70 @@
+{
+  "num": "1601",
+  "name": {
+    "en": "Nendoroid Shogo Makishima",
+    "ja": "ねんどろいど 槙島聖護 (ねんどろいど まきしましょうご)",
+    "ko": "마키시마 쇼고"
+  },
+  "series": {
+    "en": "PSYCHO-PASS",
+    "ja": "PSYCHO-PASS サイコパス",
+    "ko": "PSYCHO-PASS",
+    "code": "psycho-pass"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14643,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GL-qrABAxLA/ZM6ysV4VrXI/AAAAAAABA8Y/gOIobcbufDA_PEWwIfYOrqOqefWKiR9hgCNcBGAsYHQ/s270/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GL-qrABAxLA/ZM6ysV4VrXI/AAAAAAABA8Y/gOIobcbufDA_PEWwIfYOrqOqefWKiR9hgCNcBGAsYHQ/s270/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EWqZEnuC_wI/ZNAV0tAsgqI/AAAAAAABA_4/reCgRR2O8egywS-nd-_3O9cdt3DJ5zDYgCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VIVdBIJOHVs/ZNAV0pbRR2I/AAAAAAABA_8/kZV4EYKYgIoJxdh10gkr1mQDtBUVAJmqQCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eLHjprafnh8/ZNAV0qgwmKI/AAAAAAABA_0/B_x9QVWGBPE7Fa8ZqWAuwQFqoPtUffR-gCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9mdZDx1I1n4/ZNAV1m3LmnI/AAAAAAABBAA/y68KM9oPAq4zwax9Ztt0eX2074gsWY9JACNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Z9942f6w51c/ZNAV2LgmaTI/AAAAAAABBAE/f7NT0Pj2Tucz2T9fA85h9ZKUjlRWvvaQwCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DIS64laYpNM/ZNAV2fXSCsI/AAAAAAABBAI/Vt35EZWX5JI3zWhx1kypxZUTosBS5LjyQCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-SmfaW6xhZ8A/ZNAV2tRaVII/AAAAAAABBAM/IuPnHfLKaJE1M4sm3Vax_-2dIvtb72U8gCNcBGAsYHQ/s135/1601-Shogo-Makishima-Psycho-Pass-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1601/",
+      "fetched_at": "2026-05-16T19:10:33.529Z",
+      "raw_id": "/nendoroid/details/n1601/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.705Z",
+      "raw_id": "Nendoroid/1600-1699/1601.json"
+    }
+  ]
+}

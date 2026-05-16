@@ -1,0 +1,69 @@
+{
+  "num": "0578a",
+  "name": {
+    "en": "Nendoroid Nipako",
+    "ja": "ねんどろいど ニパ子 (ねんどろいど にぱこ)",
+    "ko": "니퍼코"
+  },
+  "series": {
+    "en": "Ultimate! Nipako-chan",
+    "ja": "あるてぃめっと！ニパ子ちゃん",
+    "ko": "얼티메이트! 니퍼코 짱",
+    "code": "ultimate-nipako-chan"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4620,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pAwiGbpicEY/X4NOooKvYRI/AAAAAAABlyY/ZAk1MjOR5S4XjjklYczy5x1Q-p7ayVevQCLcBGAsYHQ/s270/578A-Nipako-Chan-Celine-P-Nippern-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pAwiGbpicEY/X4NOooKvYRI/AAAAAAABlyY/ZAk1MjOR5S4XjjklYczy5x1Q-p7ayVevQCLcBGAsYHQ/s270/578A-Nipako-Chan-Celine-P-Nippern-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Dx6W8OGUqI0/X4itShDuQDI/AAAAAAAAsVk/Ywiyt69X-SsDP3K2u0nD4gvAq5GuHqa4wCLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dxtIhZg0wjs/X4itTE4VkRI/AAAAAAAAsVo/RTjASdYwpcYWNO6SfnV2iOAgC7ylPLqlQCLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CeazsGm03K0/X4itTpBqMAI/AAAAAAAAsVs/tc5q21YdAPIqbufRfA-_soB7H5qJky7zgCLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iGv6WAmI_XU/X4itTwImSqI/AAAAAAAAsVw/slbPqF7nI54phUOZ9bwTlHEcDB_H_6elQCLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-c_J57OEV4zM/X4itTzZg2MI/AAAAAAAAsV0/GJuyFHpZ79I4vEYq-XFDS4_drY10-ehdACLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XDXF13dsTtE/X4itUGfUEzI/AAAAAAAAsV4/TkllMWDCgdA5SQ0Lo9Q9EE6FjJUYFK8KwCLcBGAsYHQ/s135/578A-Nipako-chan-Celine-P.-Nippern-Mascots-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n578a/",
+      "fetched_at": "2026-05-16T19:10:34.651Z",
+      "raw_id": "/nendoroid/details/n578a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.452Z",
+      "raw_id": "Nendoroid/0500-0599/578a.json"
+    }
+  ]
+}

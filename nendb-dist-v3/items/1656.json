@@ -1,0 +1,68 @@
+{
+  "num": "1656",
+  "name": {
+    "en": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2)",
+    "ja": "ねんどろいど NieR:Automata A2（ヨルハA型二号） (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう）)",
+    "ko": "A2"
+  },
+  "series": {
+    "en": "NieR:Automata",
+    "ja": "NieR:Automata",
+    "ko": "니어 오토마타",
+    "code": "nier-automata"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11553,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UfMVpUZDWkA/YS6Jqd8kC8I/AAAAAAAAz8g/pLHAH5ZGO3kw1xB-68vp04U0X9acPsf4ACLcBGAsYHQ/s270/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UfMVpUZDWkA/YS6Jqd8kC8I/AAAAAAAAz8g/pLHAH5ZGO3kw1xB-68vp04U0X9acPsf4ACLcBGAsYHQ/s270/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SlDF3UnSe0Q/YS6MQcWRQTI/AAAAAAAA0CI/aMsQ_htUyrwoBNjB1WwMn74F4KUW1I5GwCLcBGAsYHQ/s135/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UVaSxheHQxY/YS6MRIl8lpI/AAAAAAAA0CM/8FsRrG8jSCQKt2KQSo4SDtxVpRpghw20QCLcBGAsYHQ/s135/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i7cKM6io4t8/YS6MRedB7bI/AAAAAAAA0CQ/AjQ67zuqmNILiRPpj5P4cou-_IPhpSpYwCLcBGAsYHQ/s135/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZRv1XRBjuYw/YS6MRhBMZWI/AAAAAAAA0CU/mdxsVMgs9iENFwffdzidFxEu0HUX8Uf6wCLcBGAsYHQ/s135/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PwW8BpRnYBQ/YS6MRnwHiFI/AAAAAAAA0CY/H4ZLnw9Oef80FmfreInCmNTmI9ujEP-2QCLcBGAsYHQ/s135/1656-Automata-A2-NieRAutomata-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1656/",
+      "fetched_at": "2026-05-16T19:10:33.562Z",
+      "raw_id": "/nendoroid/details/n1656/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.719Z",
+      "raw_id": "Nendoroid/1600-1699/1656.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "num": "1605",
+  "name": {
+    "en": "Vault Boy 76",
+    "ja": "ねんどろいど ボルトボーイ 76",
+    "ko": null
+  },
+  "series": {
+    "en": "Fallout",
+    "ja": "Fallout (フォールアウト)",
+    "ko": null,
+    "code": "fallout"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Design COCO",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4580590202306",
+  "gsc_product_id": "62240",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/62240",
+    "ja": "https://www.goodsmile.com/ja/product/62240"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62240/hB4i7bDLVCUs0agmzdrtv5jckMGypwHE.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXMx9nk7FZriy9iTInu87u_V0IImZo0sG22F6zSfiBeZ7keJ36d1Ba18j1QNApWw8o1IAaBgWPy60jyheD_XeladxUF6hGcd4lX9Tlcf4E65t1tAX_pCn6QSaklJdMi_LXesqs59AhxepJ3nipSKazqe9mOzALTJHzHIz_11_3d-t00cPaBobTipWZnGZJ/s270/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO2hjBxbFO9iQwCMevBqRrZVQiay50kc9_l8_9GBm3wrXDsqRJHksMR2rfAdyBTYtkPhjXCQ3LztekrXxc4INpxJF-Y118n702CbRlR_bZStwMJ5obZVTkAoXdvH8lSx7fIJ6QY45QpDlzcXXtwopuWHeVc7CvKFpkvtKkP114KtmZyLqbqYZPeiS9dgys/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqc2FUmf-nMhq7NCAZSAw2BCcVfZuSdSmWf5KwLkJkInBnfRAmICdwnpgbdxVdZKQcf1GDD_euWH82g2pA9MdJ_MfAUyg4ztQNerWx4hpQBXuTHGAtyjBqyE3OURMKkzPKY9sygfXaVFLcDwaMYUf5Q5VVEuRRo-O8V90jcB7mvni2VUW85kM4AhequEWU/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6lY6Nu_lXtxyvHy4vkA0z_XumOi6vw7rvRh2a7IKBluDAWIc8XzIY5jpGZC8Kz0-EctEd0m3eL8bOy7zimShoeCXCLzoSSWhUj_73y7dnux6y52durselRTK9_dFv-LTtyvqdOvyabCaI5_BHOeOXREnOPp9hFn_scRAz-gS0LKrI1aCe15iUsmUjzfp1/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1EAr58AfE_Nw7T-7QD2LnAjai9aVWVe4jGQ2U8Fadnuw597WibqlbwXLcexEFh7SyxJ1W7-M0CV0Lf0EOa6CLf_Hwh8y4yNzFc9T6L8J9-f2CJtYrvSiBVTeCyzKog_YwElzhuzJxtvV-hsFcKcxf06AYX5_xXbNLZ9hhyP7m_A-AJMTf4ERV-ZH8Zo5V/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCLgMvZfYigknibf-I2egr4Uo0yya_SUAlkYodqXrmiMVqGyOFHIGGanzVoEgnvcNpYeyW0RmCSQJjOEkl1Sdthj-ZFfTdLJcKzUvSP5uSt_ZROUOrNDXyQAtVM1CXOQ1iSFdDsmeqzEF9xnGXCKpKH6QDDEAQvCXIn8UgPj169NLKZMxF_v_lO890_Udc/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdQ93Aerwu8HY0Hmv48BjDBNXlMUtE9YuPUtJGfBaAOxyCYsVMLLVEWoUg7AP9-hG0TjVhKQiTFtBUAaLbtkFxFXlZfakAbZBwaYKuCTbHSs7OgLro2esnr3wwSSzvaQWYB6CnGgc8CkguKsgm_DHIAS9I2v4D6DEp1tAIp6oRWqYQMcsIqNoNSsLv56ja/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RbNTjojK15B5bbUlXBzjbtNXhJm2CGmEf7xZr64YohcVU32ol8bzR8yQyvx6g1ZkRfMPxmlPIpaeKt1tFiWxbUtOh4cIxZbwRBcAshKHce_G_eJS2pj3CQgzGon9uOQZIQh1Ge5WPX_nVD-NTPdh1grQNq8S9b6CviR4pip92T8j_gTXdUhlvN2aaAs/s135/1605-Vault-Boy-76-Fallout-76-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62240/zEaT7BPN4kGtU1Yb0muMLFrgdVsefc5x.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62240/hB4i7bDLVCUs0agmzdrtv5jckMGypwHE.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/62240",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:18:29.866Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/62240",
+      "fetched_at": "2026-05-16T12:18:29.866Z",
+      "raw_id": "62240"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/62240",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "62240"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1605/",
+      "fetched_at": "2026-05-16T19:10:33.531Z",
+      "raw_id": "/nendoroid/details/n1605/"
+    }
+  ]
+}

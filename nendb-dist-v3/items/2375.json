@@ -1,0 +1,64 @@
+{
+  "num": "2375",
+  "name": {
+    "en": "Laios",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Delicious In Dungeon",
+    "ja": null,
+    "ko": null,
+    "code": "delicious-in-dungeon"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QCjb_wbTgeE/ZcqesgG527I/AAAAAAABDYc/wi-Jv_-H3N0F_URbvvnZho9_qbopppWTwCNcBGAsYHQ/s270/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QCjb_wbTgeE/ZcqesgG527I/AAAAAAABDYc/wi-Jv_-H3N0F_URbvvnZho9_qbopppWTwCNcBGAsYHQ/s270/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P3-uKzn9JDw/Zowz8plWuaI/AAAAAAABFNk/4Nn-BIdez8EA4ZgoffYQXIryG9RYuPc9gCNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LuvgBtsKs7k/Zowz9Ikz1qI/AAAAAAABFNo/iB6-1toODOIO9kidFAcIOEQXCMLuF0BKQCNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7EstZXLXJ6k/Zowz96HyqVI/AAAAAAABFNs/-3ab50m-D34fh8tZj363KLbmRKJvAbAfgCNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dO6lYuLaJQI/Zowz-J-t1eI/AAAAAAABFNw/j98j-rYh0YgkAe-8najPt8fegSAhsZafgCNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MZudpzb4MZc/Zowz-1mvRZI/AAAAAAABFN0/RMlhj03eRAwj796su7BGogO6ldZAwce-gCNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hdtYiPIaEik/Zowz_NrHduI/AAAAAAABFN4/pwXp1R93npstoZs0yqQ2MPfeMbP_8fSxACNcBGAsYHQ/s135/2375-Laios-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2375/",
+      "fetched_at": "2026-05-16T19:10:34.019Z",
+      "raw_id": "/nendoroid/details/n2375/"
+    }
+  ]
+}

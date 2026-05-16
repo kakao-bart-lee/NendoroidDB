@@ -1,0 +1,71 @@
+{
+  "num": "0470",
+  "name": {
+    "en": "Nendoroid Aoi Yukimura",
+    "ja": "ねんどろいど 雪村あおい (ねんどろいど ゆきむらあおい)",
+    "ko": "유키무라 아오이"
+  },
+  "series": {
+    "en": "Encouragement of Climb",
+    "ja": "ヤマノススメ",
+    "ko": "야마노스스메",
+    "code": "encouragement-of-climb"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4709,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5tJbHAFRJcI/X4NN5MAJ96I/AAAAAAABlq8/8pXPOTh2bTUMVzZv-9_f_iJMwB10gVuFQCLcBGAsYHQ/s270/470-Aoi-Yukimura-Yama-no-Susume-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5tJbHAFRJcI/X4NN5MAJ96I/AAAAAAABlq8/8pXPOTh2bTUMVzZv-9_f_iJMwB10gVuFQCLcBGAsYHQ/s270/470-Aoi-Yukimura-Yama-no-Susume-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cWwWqS_B3m4/X4de1t2MeoI/AAAAAAAArtI/MjYg0ApH0LAXFdErbMg33ERglJitL9e6QCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-htemaNVF26Q/X4de10zx9YI/AAAAAAAArtM/cfmpoMIHOzQelHqAvrc5OJpJBrkdduEBwCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vKAwnh0IIZ4/X4de2FQiebI/AAAAAAAArtQ/_fP_kNxXtVsCghb8PLD8ejUmnPacnKunQCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UkV4OSpeTTg/X4de2QbLXAI/AAAAAAAArtU/fV1HizJYW8sZeTjAfCYMM3ePvG41kCztgCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0Y7J9ZxAVo0/X4de2oPuYZI/AAAAAAAArtY/rhtLZcZQWBEcStZFBuklPR3N3MSPok7JQCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FfdnzpSoUyA/X4de2wW3GFI/AAAAAAAArtc/vCbzG4Iwx2ojExcGyackArciwI1cHW1QwCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-q-Yl5QTnjtY/X4de3IPphOI/AAAAAAAArtg/X7LMX8XYF0YjdDo1NopqavYb4b3OvUdHACLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-MhpVFC2ocS8/X4de1cGGKfI/AAAAAAAArtE/PjSwAZoUNgAjT-08JryK7hIWXoXs8EKbwCLcBGAsYHQ/s135/470-Aoi-Yukimura-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n470/",
+      "fetched_at": "2026-05-16T19:10:34.547Z",
+      "raw_id": "/nendoroid/details/n470/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.387Z",
+      "raw_id": "Nendoroid/0400-0499/470.json"
+    }
+  ]
+}

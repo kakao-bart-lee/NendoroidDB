@@ -1,0 +1,55 @@
+{
+  "num": "1641-DX",
+  "name": {
+    "en": "Nendoroid Wu Xie DX",
+    "ja": "ねんどろいど 呉邪 DX (ねんどろいど ごじゃ DX)",
+    "ko": "오사 DX"
+  },
+  "series": {
+    "en": "TIME RAIDERS",
+    "ja": "盗墓筆記",
+    "ko": "도묘필기",
+    "code": "time-raiders"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11286,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210529/11286/85362/large/9df7450a1752d7ca994708acd540fa5d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.715Z",
+      "raw_id": "Nendoroid/1600-1699/1641-DX.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1958",
+  "name": {
+    "en": "Nendoroid Romano",
+    "ja": "ねんどろいど ロマーノ (ねんどろいど ろまーの)",
+    "ko": "이탈리아(로마노)"
+  },
+  "series": {
+    "en": "Hetalia World★Stars",
+    "ja": "アニメ「ヘタリア World★Stars」",
+    "ko": "헤타리아",
+    "code": "hetalia-world-stars"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13330,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-slee09Yk6ag/Y02wC5ibsNI/AAAAAAAA6_o/48RHj5V94fwp8AdPKRoFVFwQmoCK7D18gCNcBGAsYHQ/s270/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-slee09Yk6ag/Y02wC5ibsNI/AAAAAAAA6_o/48RHj5V94fwp8AdPKRoFVFwQmoCK7D18gCNcBGAsYHQ/s270/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LJm7Ia_9eWA/Y027vERnpyI/AAAAAAAA7To/6HaKOJDLgfM-7skgAnVB7LF6zconP1jYgCNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oCIDJ77UvtY/Y027vjzgJAI/AAAAAAAA7Ts/ygIGW9nCUuE5J6X7W9pvQflP-En7cKXaACNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eNNNSmOLLdg/Y027wFImZJI/AAAAAAAA7Tw/w63geEPGkH4972g9RJ0sg8V40x4Y6f9jgCNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hpOS7_BPUcU/Y027wkSqyPI/AAAAAAAA7T0/mMxpM7MX-hkO2bB0x-9kWyJZ5ZPRGv2agCNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZnXeocLUeDM/Y027xJbp3_I/AAAAAAAA7T4/z2FhcWxh6xoU4DghqOZaO_gpvLOARkDpwCNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qsXt9gV4nQM/Y027xjQodAI/AAAAAAAA7T8/SNeBi5f44v4MA0WK6IS_KxWnAglwpK2tgCNcBGAsYHQ/s135/1958-Romano-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1958/",
+      "fetched_at": "2026-05-16T19:10:33.752Z",
+      "raw_id": "/nendoroid/details/n1958/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.791Z",
+      "raw_id": "Nendoroid/1900-1999/1958.json"
+    }
+  ]
+}

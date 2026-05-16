@@ -1,0 +1,68 @@
+{
+  "num": "1156",
+  "name": {
+    "en": "Nendoroid Naga the Serpent",
+    "ja": "ねんどろいど 白蛇のナーガ (ねんどろいど さーぺんとのなーが)",
+    "ko": "서펜트의 나가"
+  },
+  "series": {
+    "en": "Slayers",
+    "ja": "スレイヤーズ",
+    "ko": "슬레이어즈",
+    "code": "slayers"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8483,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-u9nBWKEhAKw/X4NghqQmUJI/AAAAAAABmcI/x0G16BBKjLomRiFEiFfY4-6WLRlOeHasACLcBGAsYHQ/s270/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-u9nBWKEhAKw/X4NghqQmUJI/AAAAAAABmcI/x0G16BBKjLomRiFEiFfY4-6WLRlOeHasACLcBGAsYHQ/s270/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NzGmu8sayU0/X4rwxRFxU1I/AAAAAAABpQg/7RAc9K1UXz80Fgo8hMUv8163h0KMnxvEwCLcBGAsYHQ/s135/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VNp-kil0a_M/X4rwx0KMCmI/AAAAAAABpQk/ESpq7VIYsT48ljDIr_6hvJfig6bSFGeEwCLcBGAsYHQ/s135/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IxwZGat28y8/X4rwyVz5UII/AAAAAAABpQo/kBqclCVE4OUH5EnbqdVM4DiWnwCYCBkTgCLcBGAsYHQ/s135/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6NsSkNKuA1c/X4rwynHFi2I/AAAAAAABpQs/z-aA0I77lrY3z7XYXkEbnoltwWHIIea3gCLcBGAsYHQ/s135/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-n4VgVsvdn4M/X4rwy3lTMFI/AAAAAAABpQw/4WXAj88yMgABw_zQtz9MjuLQhygWlNydACLcBGAsYHQ/s135/1156-Naga-the-Serpent-Slayers-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1156/",
+      "fetched_at": "2026-05-16T19:10:33.256Z",
+      "raw_id": "/nendoroid/details/n1156/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.598Z",
+      "raw_id": "Nendoroid/1100-1199/1156.json"
+    }
+  ]
+}

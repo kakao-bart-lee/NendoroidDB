@@ -1,0 +1,68 @@
+{
+  "num": "1423",
+  "name": {
+    "en": "Nendoroid SilverAsh",
+    "ja": "ねんどろいど シルバーアッシュ (ねんどろいど しるばーあっしゅ)",
+    "ko": "실버애쉬"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9988,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jE1iQ_cbZP8/X4NkeiCUhrI/AAAAAAABm50/mPvw1-9swHoidLz3saSAWGzhwfy2CdycwCLcBGAsYHQ/s270/1423-SilverAsh-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jE1iQ_cbZP8/X4NkeiCUhrI/AAAAAAABm50/mPvw1-9swHoidLz3saSAWGzhwfy2CdycwCLcBGAsYHQ/s270/1423-SilverAsh-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PxcmB5-ODBU/X4tAVSvB_cI/AAAAAAABq0k/fgEvau3rueUzhq0-a0SbHVi0uB9o9BF9gCLcBGAsYHQ/s135/1423-SilverAsh-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LOaaGIspyh4/X4tAVvwN5FI/AAAAAAABq0o/nY6NDSksb1Uwal6cz3QtcqwZmuYvfJIzQCLcBGAsYHQ/s135/1423-SilverAsh-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tQ7sWD5A23k/X4tAVzHcueI/AAAAAAABq0s/ljfRU-wAK2cfgTnB8zblI9WZgCy25Rg0wCLcBGAsYHQ/s135/1423-SilverAsh-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eflUZQpV4yA/X4tAWE3uNiI/AAAAAAABq0w/CJDCP1LDTBc33CtNRQdglxi2dQ4JeTtfgCLcBGAsYHQ/s135/1423-SilverAsh-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aV4s6kaoiIA/X4tAWBJrh-I/AAAAAAABq00/0h8ksEqnM8AZhVDLxn-svQkPp3FMfywVgCLcBGAsYHQ/s135/1423-SilverAsh-Arknights-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1423/",
+      "fetched_at": "2026-05-16T19:10:33.421Z",
+      "raw_id": "/nendoroid/details/n1423/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.661Z",
+      "raw_id": "Nendoroid/1400-1499/1423.json"
+    }
+  ]
+}

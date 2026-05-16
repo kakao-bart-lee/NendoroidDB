@@ -1,0 +1,68 @@
+{
+  "num": "1606",
+  "name": {
+    "en": "Nendoroid Kai'Sa",
+    "ja": "ねんどろいど カイ=サ (ねんどろいど かい=さ)",
+    "ko": "카이사"
+  },
+  "series": {
+    "en": "League of Legends",
+    "ja": "リーグ・オブ・レジェンド",
+    "ko": "리그 오브 레전드",
+    "code": "league-of-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wWdMfPB_s84/YJK3z2yXXYI/AAAAAAAAxuE/0mQTJir3zzMFkf79S0NpOV4UyTHbbZ7qwCLcBGAsYHQ/s270/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wWdMfPB_s84/YJK3z2yXXYI/AAAAAAAAxuE/0mQTJir3zzMFkf79S0NpOV4UyTHbbZ7qwCLcBGAsYHQ/s270/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YA4Ik8xcyH8/YJK7mWWYinI/AAAAAAAAxwI/QRh-VpgdQ5c58tW2Emnp9eaxjEZ-zIbhwCLcBGAsYHQ/s135/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NCGAEpZm2TE/YJK7m7dhPaI/AAAAAAAAxwM/Dt4x31kjrhAguWEPu23hYKwwOfJgoOcHQCLcBGAsYHQ/s135/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-l2UU9slqheI/YJK7nOYNtWI/AAAAAAAAxwQ/-IUgtny4VSMaG2D1Y__mXYLFCtU21ZpogCLcBGAsYHQ/s135/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ebixU2ZoIHY/YJK7nfqO1kI/AAAAAAAAxwU/cfwsm5IoEwAN5l25RJt30OjID5FIO_U0ACLcBGAsYHQ/s135/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t6Ky6mHEuw8/YJK7ndJ8e7I/AAAAAAAAxwY/0m8AuXnLE54tnOFNW0wdER4WTDeRe9qzACLcBGAsYHQ/s135/1606-KaiSa-League-of-Legends-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1606/",
+      "fetched_at": "2026-05-16T19:10:33.531Z",
+      "raw_id": "/nendoroid/details/n1606/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.706Z",
+      "raw_id": "Nendoroid/1600-1699/1606.json"
+    }
+  ]
+}

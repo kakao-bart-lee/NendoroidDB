@@ -1,0 +1,68 @@
+{
+  "num": "0376",
+  "name": {
+    "en": "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ko": "헌터♀ 울크 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter 4",
+    "ja": "モンスターハンター4",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-4"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6076,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4105,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0RIg7ZhiGtg/X4NNANbRblI/AAAAAAABlkQ/sxZ2WQzC77QZ-RDuOSabNmrw4vezUyr6QCLcBGAsYHQ/s270/376-Gemale-Lagombi-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0RIg7ZhiGtg/X4NNANbRblI/AAAAAAABlkQ/sxZ2WQzC77QZ-RDuOSabNmrw4vezUyr6QCLcBGAsYHQ/s270/376-Gemale-Lagombi-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KhO5deIkGKc/X4dbTsIodfI/AAAAAAAArME/V4ujCRYvpVwUJrHUsh0Hc5hUVrcFhNzYwCLcBGAsYHQ/s135/376-Female-Monster-Hunter-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-q21X86bc6cA/X4dbTgNoMnI/AAAAAAAArMI/mk4kZFlqXp8TznX2N7w6d52rzV3duEXDACLcBGAsYHQ/s135/376-Female-Monster-Hunter-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-s3DEN-9Vn8c/X4dbULlN6TI/AAAAAAAArMM/O7vHConUCMsr_dwhtzbMqMd7faYfinVBgCLcBGAsYHQ/s135/376-Female-Monster-Hunter-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LF17gcvnvzU/X4dbU-_QY_I/AAAAAAAArMQ/o1Ona-sK_UQAFOHT54xUCHbDVvdxvqRKwCLcBGAsYHQ/s135/376-Female-Monster-Hunter-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gcAgrI_KWps/X4dbVCXUZnI/AAAAAAAArMU/om4yNweW2ZkV0QbjqfFNFf8xkbralTW_QCLcBGAsYHQ/s135/376-Female-Monster-Hunter-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n376/",
+      "fetched_at": "2026-05-16T19:10:34.492Z",
+      "raw_id": "/nendoroid/details/n376/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.365Z",
+      "raw_id": "Nendoroid/0300-0399/376.json"
+    }
+  ]
+}

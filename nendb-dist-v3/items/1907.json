@@ -1,0 +1,68 @@
+{
+  "num": "1907",
+  "name": {
+    "en": "Nendoroid Dead Master: DAWN FALL Ver.",
+    "ja": "ねんどろいど デッドマスター DAWN FALL Ver. (ねんどろいど でっどますたー どーん ふぉーる Ver.)",
+    "ko": "데드 마스터: 던 폴 Ver."
+  },
+  "series": {
+    "en": "BLACK★★ROCK SHOOTER: DAWN FALL",
+    "ja": "ブラック★★ロックシューター DAWN FALL",
+    "ko": "블랙★★록 슈터: 던 폴",
+    "code": "black-rock-shooter-dawn-fall"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12852,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7eLcV5ErVpI/Yw_WO9sZ4KI/AAAAAAAA6Z4/dyUMy-VEOoYBWc8yURv4kLLJWFoCwYJRACNcBGAsYHQ/s270/1907-Dead-Master-Dawn-Fall-Dawn-Fall-Ver.-Black-Rock-Shooter-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7eLcV5ErVpI/Yw_WO9sZ4KI/AAAAAAAA6Z4/dyUMy-VEOoYBWc8yURv4kLLJWFoCwYJRACNcBGAsYHQ/s270/1907-Dead-Master-Dawn-Fall-Dawn-Fall-Ver.-Black-Rock-Shooter-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NxUBaGVm3GE/YxEXHSKa-NI/AAAAAAAA6mo/mROx8I8zLyEJTx89tWuSUbRKjXBmw_whACNcBGAsYHQ/s135/1907-Dead-Master-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wZsF4n7NcGc/YxEXH52F3II/AAAAAAAA6ms/Y2KLK9QvljoTeqsmtsW6HgXL-Jv8C4qCwCNcBGAsYHQ/s135/1907-Dead-Master-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1eeg89_A15k/YxEXIQXIn3I/AAAAAAAA6mw/MjGUSI9PctALFOfHaaYOU05iArYqf65QACNcBGAsYHQ/s135/1907-Dead-Master-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f9ZPeVL2Q5g/YxEXIzG4xgI/AAAAAAAA6m0/PeHLKtdXjYYF013wpWze3uzApaYsjxJOACNcBGAsYHQ/s135/1907-Dead-Master-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-npnVHRtwbJw/YxEXJYGmnUI/AAAAAAAA6m4/Ic1vr9D2CdMrvRc8wjkJHP5qJvTUoN9JACNcBGAsYHQ/s135/1907-Dead-Master-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1907/",
+      "fetched_at": "2026-05-16T19:10:33.722Z",
+      "raw_id": "/nendoroid/details/n1907/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.779Z",
+      "raw_id": "Nendoroid/1900-1999/1907.json"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "num": "2327",
+  "name": {
+    "en": "Itoshi Rin",
+    "ja": "ねんどろいど 糸師 凛",
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Lock",
+    "ja": "ブルーロック",
+    "ko": null,
+    "code": "blue-lock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Dogu",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4580828662568",
+  "gsc_product_id": "12930",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12930",
+    "ja": "https://www.goodsmile.com/ja/product/12930"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/12930/1e43af021ab5529e1b3ee75ae03a6c08.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2NtAekrePOg/ZWZfuGgQ4-I/AAAAAAABCdI/o2peR2BGSEELKKnBJgN5VE9vSp9nfpgFgCNcBGAsYHQ/s270/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZwyvWWAh6bQ/ZWZpb4moFHI/AAAAAAABCqQ/VTOJFfzkSsMpU0kOu8lQVX-JWB9DofsAQCNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ei_YFoR7wNU/ZWZpbxOPPlI/AAAAAAABCqU/jPJ5v8wzfXg-QoQKGm8U33dRNT2jTiOIACNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LsZDLs4fiyc/ZWZpclkfnMI/AAAAAAABCqc/ndQLro_lPuc_RWIfGT-sCKwb9bltdJa-wCNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lXgavL2SnIY/ZWZpc2eCXwI/AAAAAAABCqg/yudg0Pi4LCQWEjoejwtMf2LmD_x8S4TMwCNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LYERJS_6c9U/ZWZpdTWeo8I/AAAAAAABCqk/iHrZPJVxysMqm5NJ5tAkTSj4JhfYIhzDgCNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-aqal_ruTKfQ/ZWZpd1QTIuI/AAAAAAABCqo/fZLc72UypIcm9aIvjTSifCaAJaUtKg61ACNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-uQGQMsYGeRA/ZWZpeLaQkcI/AAAAAAABCqs/Q2R5AcOy4tUwA0df4apwAJYPxSUcm_-hwCNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-GM4HclNPrgk/ZWZpbivKtdI/AAAAAAABCqY/6vQeH12eU3EUzJe2bnsYK1YWi24D-bz6ACNcBGAsYHQ/s135/2327-Itoshi-Rin-Blue-Lock-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231120/15247/123634/large/c561e744ae9a560467e5a8571fc1e520.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/12930/1e43af021ab5529e1b3ee75ae03a6c08.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12930",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:04:49.130Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12930",
+      "fetched_at": "2026-05-16T12:04:49.130Z",
+      "raw_id": "12930"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12930",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12930"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2327/",
+      "fetched_at": "2026-05-16T19:10:33.989Z",
+      "raw_id": "/nendoroid/details/n2327/"
+    }
+  ]
+}

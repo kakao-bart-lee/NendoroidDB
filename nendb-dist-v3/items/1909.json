@@ -1,0 +1,69 @@
+{
+  "num": "1909",
+  "name": {
+    "en": "Nendoroid Mary Saotome",
+    "ja": "ねんどろいど 早乙女芽亜里 (ねんどろいど さおとめめあり)",
+    "ko": "사오토메 메아리"
+  },
+  "series": {
+    "en": "KAKEGURUI xx",
+    "ja": "賭ケグルイ××",
+    "ko": "카케구루이 트윈",
+    "code": "kakegurui-xx"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12864,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WlYRpGnKF2A/Yw_WP_y62EI/AAAAAAAA6aA/oWmB_9r41jcxS_kqY_-2swz_eKJ5SqEaQCNcBGAsYHQ/s270/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WlYRpGnKF2A/Yw_WP_y62EI/AAAAAAAA6aA/oWmB_9r41jcxS_kqY_-2swz_eKJ5SqEaQCNcBGAsYHQ/s270/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fl5tqLQWV6s/YxEXMizuipI/AAAAAAAA6nQ/z85dQrb2HF0jNz_-IHPqPlkphRazyNKIwCNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yqheJOgM3O0/YxEXNHIxIyI/AAAAAAAA6nU/kEG6IAEquc0vGGU3SwroHxO0T3oLFVT4QCNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bi5GI8CfEJo/YxEXNRiyjeI/AAAAAAAA6nY/ojxhx8y-iF8jh_Lna-BgwxxcZAnPRIWvwCNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FH7WiDo9XGM/YxEXOKgCaOI/AAAAAAAA6nc/iuWYx_MwVjYRm7Xtd4Ju2LpfhKKf4wgXwCNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iZ993rTVJQs/YxEXOVSOfoI/AAAAAAAA6ng/-G-Br_xWcRMr-QnwrAzlGyA4EOO4ks8nACNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GRxb8u0yIek/YxEXPHjlArI/AAAAAAAA6nk/CtimnZCJFq4Bx-YgLZv2EaaIGdmI5vHfQCNcBGAsYHQ/s135/1909-Mary-Saotome-KAKEGURUI-xx-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1909/",
+      "fetched_at": "2026-05-16T19:10:33.723Z",
+      "raw_id": "/nendoroid/details/n1909/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.780Z",
+      "raw_id": "Nendoroid/1900-1999/1909.json"
+    }
+  ]
+}

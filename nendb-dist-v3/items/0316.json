@@ -1,0 +1,69 @@
+{
+  "num": "0316",
+  "name": {
+    "en": "Nendoroid Toshiki Kai (ねんどろいど かいとしき)",
+    "ja": "ねんどろいど 櫂トシキ (ねんどろいど かいとしき)",
+    "ko": "카이 토시키"
+  },
+  "series": {
+    "en": "Cardfight!! Vanguard",
+    "ja": "カードファイト!!ヴァンガード",
+    "ko": "카드파이트!! 뱅가드",
+    "code": "cardfight-vanguard"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3856,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hi9QG79o2RI/X4NMnYbIZaI/AAAAAAABlgY/Sb6CKzFLs84JN1YKs4gyE_1y1CUPZFKqACLcBGAsYHQ/s270/316-Kai-Toshiki-Cardfight-Vanguard-Anime-and-Manga-Card-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hi9QG79o2RI/X4NMnYbIZaI/AAAAAAABlgY/Sb6CKzFLs84JN1YKs4gyE_1y1CUPZFKqACLcBGAsYHQ/s270/316-Kai-Toshiki-Cardfight-Vanguard-Anime-and-Manga-Card-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-v7qwWNPIEKM/X4daJ0BCSGI/AAAAAAAAq4c/HxuTHaoYg-8_S1WeHEn_0Vn0MLzU3boqACLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qDgzahE-_xw/X4daJ_0j6aI/AAAAAAAAq4g/UXdO8a87Dk01LoahUFKZksk56na8GiFlwCLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jH7wZrMF94Y/X4daKKs6GjI/AAAAAAAAq4k/vlLhmvsb-rsB2LBBbojIqlRQrsepNW8-wCLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mAJYh8MhtSw/X4daKqKHuDI/AAAAAAAAq4o/dZwvgFlP7eouBNdiTEZ8lQ1m35P7oI76gCLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XpAxjmLTxXA/X4daLC8focI/AAAAAAAAq4s/xcm-Qe3aVZok6ThGVyoc5hXqbH8dKzfYQCLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mxPKjg3lSVQ/X4daLinNd4I/AAAAAAAAq4w/tTM7gvww0m8IKhVyyyCnQLsTpPDViUgjACLcBGAsYHQ/s135/316-Toshiki-Kai-Cardfight-Vanguard-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n316/",
+      "fetched_at": "2026-05-16T19:10:34.457Z",
+      "raw_id": "/nendoroid/details/n316/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.349Z",
+      "raw_id": "Nendoroid/0300-0399/316.json"
+    }
+  ]
+}

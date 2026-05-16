@@ -1,0 +1,69 @@
+{
+  "num": "1149",
+  "name": {
+    "en": "Nendoroid Seijuro Akashi Special Box",
+    "ja": "ねんどろいど 赤司征十郎 Special Box (ねんどろいど あかしせいじゅうろう すぺしゃるぼっくす)",
+    "ko": "아카시 세이주로"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8439,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3nvbJ5en28g/X4NgeWHor6I/AAAAAAABmbo/-xhuqvJz0tMU6YIuz_VETG_CXtEryw5GwCLcBGAsYHQ/s270/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3nvbJ5en28g/X4NgeWHor6I/AAAAAAABmbo/-xhuqvJz0tMU6YIuz_VETG_CXtEryw5GwCLcBGAsYHQ/s270/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yXEaG9fQFXY/X4rwiTfRtWI/AAAAAAABpM8/v19fXuMTzYoMBS_JVoFKVmG55KPyVF-bgCLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1zue6Fugt4E/X4rwinVaoLI/AAAAAAABpNA/yVpihdqY45wBC_hk8h7h5RPHF9c6wMNoQCLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fAJHZTTbi5s/X4rwi9if_II/AAAAAAABpNE/cXWfdf63wTMZI2ygC-pcu30RiYjSpjfJwCLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Vjjt99QgHe0/X4rwjGUAOzI/AAAAAAABpNI/XfRT9LLWcq8tG2EpESDAazOFPke6rAwSQCLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-U1pizCJG1EY/X4rwjU6CYsI/AAAAAAABpNM/2Gz117VKtBIEyL_yFHyVcxTnRjalQL5JwCLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-TPXnDGVqDgs/X4rwjg4gxeI/AAAAAAABpNQ/gA0dDSGB-io49AaxQFoTMNxGkkdf6tDxACLcBGAsYHQ/s135/1149-Seijuro-Akashi-Kurokos-Basketball-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1149/",
+      "fetched_at": "2026-05-16T19:10:33.250Z",
+      "raw_id": "/nendoroid/details/n1149/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.597Z",
+      "raw_id": "Nendoroid/1100-1199/1149.json"
+    }
+  ]
+}

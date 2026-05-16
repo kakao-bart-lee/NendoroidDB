@@ -1,0 +1,64 @@
+{
+  "num": "0126",
+  "name": {
+    "en": "Nendoroid Kudryavka Noumi: Summer Uniform Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ja": "ねんどろいど 能美クドリャフカ 夏服Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ko": "노우미 쿠드랴프카 하복 Ver."
+  },
+  "series": {
+    "en": "Kud Wafter",
+    "ja": "クドわふたー",
+    "ko": "리틀 버스터즈!",
+    "code": "kud-wafter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3379,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dR-d-go3tkU/X4NJ1qdEcuI/AAAAAAABlPc/N2p2ds7VQlsNaUnDrXBcJOpTUpgkZo6mACLcBGAsYHQ/s270/126-Kudryavka%2BNoumi-Summer-Little%2BBusters-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dR-d-go3tkU/X4NJ1qdEcuI/AAAAAAABlPc/N2p2ds7VQlsNaUnDrXBcJOpTUpgkZo6mACLcBGAsYHQ/s270/126-Kudryavka%2BNoumi-Summer-Little%2BBusters-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_YUuMnP7tuw/X4dSZUKyOGI/AAAAAAAAp04/jx6zVn2yu3YeDminYP0UJWL3kfj13XcMQCLcBGAsYHQ/s135/126-Kudryavka-Noumi-Little-Busters-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n126/",
+      "fetched_at": "2026-05-16T19:10:33.325Z",
+      "raw_id": "/nendoroid/details/n126/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.295Z",
+      "raw_id": "Nendoroid/0100-0199/126.json"
+    }
+  ]
+}

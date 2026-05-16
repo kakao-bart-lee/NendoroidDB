@@ -1,0 +1,68 @@
+{
+  "num": "1022",
+  "name": {
+    "en": "Nendoroid Ron Weasley",
+    "ja": "ねんどろいど ロン・ウィーズリー (ねんどろいど ろん・うぃーずりー)",
+    "ko": "론 위즐리"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7730,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cXOOHDMua7o/X4NflAY_TgI/AAAAAAABmSc/dDThBK4s_rwcwZdm_oyhBa3FJ0qctSCtACLcBGAsYHQ/s270/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cXOOHDMua7o/X4NflAY_TgI/AAAAAAABmSc/dDThBK4s_rwcwZdm_oyhBa3FJ0qctSCtACLcBGAsYHQ/s270/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-1.jpg",
+      "https://1.bp.blogspot.com/-ex70q-8aEQ0/X4rriJ9DqtI/AAAAAAABoZs/QJuDNlVqhXkMlobDKuNixa27LWHwz433wCLcBGAsYHQ/s135/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ySVdnqunRxw/X4rriCMjaNI/AAAAAAABoZw/xg7zRwQXnEMJWWyrgaqDOpqegHvG060KQCLcBGAsYHQ/s135/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9UPjIDkf4xo/X4rriiCVq-I/AAAAAAABoZ0/MU9aUhEtLBMFBh7-9K2061DIe7YFjUcWQCLcBGAsYHQ/s135/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QDOiib-6R4Q/X4rrizPZ92I/AAAAAAABoZ4/5FSO5y1ghCgHntTMq0_zP2lAWsUr3gAPwCLcBGAsYHQ/s135/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KNx_Z739M0o/X4rri3q3yAI/AAAAAAABoZ8/wsL85y8jFR0C5VcNP9uvGVAgiWVf1_e6gCLcBGAsYHQ/s135/1022-Ron-Weasley-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1022/",
+      "fetched_at": "2026-05-16T19:10:33.140Z",
+      "raw_id": "/nendoroid/details/n1022/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.566Z",
+      "raw_id": "Nendoroid/1000-1099/1022.json"
+    }
+  ]
+}

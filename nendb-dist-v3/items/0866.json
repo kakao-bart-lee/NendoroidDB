@@ -1,0 +1,69 @@
+{
+  "num": "0866",
+  "name": {
+    "en": "Nendoroid Loki: Thor Battle Royal Edition",
+    "ja": "ねんどろいど ロキ ソー：バトルロイヤル・エディション (ねんどろいど ろき そー：ばとるろいやる・えでぃしょん)",
+    "ko": "로키 라그나로크 에디션"
+  },
+  "series": {
+    "en": "Mighty Thor: Battle Royal",
+    "ja": "マイティ・ソー バトルロイヤル",
+    "ko": "토르 라그나로크",
+    "code": "mighty-thor-battle-royal"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6956,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_iXMzQLX5p4/X4Nd8WrN1mI/AAAAAAABmG0/wNyx3BClBc8qvEzcPl18SS3FdI34eTSBwCLcBGAsYHQ/s270/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_iXMzQLX5p4/X4Nd8WrN1mI/AAAAAAABmG0/wNyx3BClBc8qvEzcPl18SS3FdI34eTSBwCLcBGAsYHQ/s270/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-u73OjxI_860/X4rjoO3wh3I/AAAAAAABnYk/5rKPZVgSR1cPNM7L5n4rPr5PT43rIVxswCLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W2td1ZXLE8U/X4rjoQWmoeI/AAAAAAABnYo/PsCyvSQgxuQRU7EZTHXP5ksdWhF0yDvqgCLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-G37-sbq3KhQ/X4rjoiIdPNI/AAAAAAABnYs/8njm0MZdgWMuHWfoOHzaYL2B1XItgbMDQCLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A3f3cvWqSj8/X4rjoxaOvyI/AAAAAAABnYw/SVuq8NEjnrUnMqGUIBDaWAvt5nqpSKtjACLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-y0kyAwdeqT8/X4rjpGrf2VI/AAAAAAABnY0/vAzvOHMVsSQtaiOqaIguJvxphUaWNHYIQCLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bIgZgOVSH14/X4rjpbIVLEI/AAAAAAABnY4/XajSgyeQt3sej6c6sjeY-75HJdXbQYB3gCLcBGAsYHQ/s135/866-Loki-Thor-Ragnarok-Marvel-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n866/",
+      "fetched_at": "2026-05-16T19:10:34.843Z",
+      "raw_id": "/nendoroid/details/n866/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.526Z",
+      "raw_id": "Nendoroid/0800-0899/866.json"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "num": "1277-DX",
+  "name": {
+    "en": "Nendoroid Thor: Endgame Ver. DX",
+    "ja": "ねんどろいど ソー エンドゲームVer. DX (ねんどろいど そー えんどげーむVer. DX)",
+    "ko": "토르 엔드게임 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9157,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200109/9157/66695/large/71593fb51775f39605bd979c6c0b8278.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.626Z",
+      "raw_id": "Nendoroid/1200-1299/1277-DX.json"
+    }
+  ]
+}

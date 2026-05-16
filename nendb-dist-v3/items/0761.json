@@ -1,0 +1,69 @@
+{
+  "num": "0761",
+  "name": {
+    "en": "Nendoroid Rimi Ushigome",
+    "ja": "ねんどろいど 牛込りみ (ねんどろいど うしごめりみ)",
+    "ko": "우시고메 리미"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6374,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F1D5QPGj9YA/X4NdCrsaD7I/AAAAAAABl_U/5ar1bFW9nFkthZ86fljOw68SJ_SLos29gCLcBGAsYHQ/s270/761-Rimi%2BUshigome-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F1D5QPGj9YA/X4NdCrsaD7I/AAAAAAABl_U/5ar1bFW9nFkthZ86fljOw68SJ_SLos29gCLcBGAsYHQ/s270/761-Rimi%2BUshigome-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-C6QBBwwgr08/X4i5G2V7zHI/AAAAAAAAtdA/Sh7W0oyz538A7oHkaKGiLz9IwGecpsxEgCLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-llYjmHXxzDc/X4i5HGUhTqI/AAAAAAAAtdE/gbFoXoFXVsUp-3DY4kRm9IpJpm7pywcMgCLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wl9wxH0cdIc/X4i5HXHtjTI/AAAAAAAAtdI/jE7lJ-Pwxho-s9t1AhFqVYVb526Ig9jxACLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VRA_LBwD6a4/X4i5Hlo5Z3I/AAAAAAAAtdM/EwHfRfDDSnYLxNqceNXfRBGlNVblAVnYwCLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-01-hGSvGZiQ/X4i5HyJvqdI/AAAAAAAAtdQ/I8LN54sPIvUBi7I8qQnUK9eU4OUdKugNQCLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2Q5OrRgFy9M/X4i5INPh8TI/AAAAAAAAtdU/yib1xtzJ04Evd_1x0v85aL8dk9DdHW-yACLcBGAsYHQ/s135/761-Rimi-Ushigome-BanG-Dream-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n761/",
+      "fetched_at": "2026-05-16T19:10:34.784Z",
+      "raw_id": "/nendoroid/details/n761/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.501Z",
+      "raw_id": "Nendoroid/0700-0799/761.json"
+    }
+  ]
+}

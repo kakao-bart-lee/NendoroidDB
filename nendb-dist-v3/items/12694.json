@@ -1,0 +1,55 @@
+{
+  "num": "12694",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Long Length Chinese Outfit (Red/Blue)",
+    "ja": "ねんどろいどどーる おようふくセット チャイナ服 ロング丈（レッド/ブルー） (ねんどろいどどーる おようふくせっと ちゃいなふく ろんぐたけ（れっど/ぶるー）)",
+    "ko": "긴 중국 의상(레드/블루)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12694,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220516/12694/98945/large/1cf06876a72cf0591ff3e65877936267.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.925Z",
+      "raw_id": "NendoroidDoll/Clothes/12694.json"
+    }
+  ]
+}

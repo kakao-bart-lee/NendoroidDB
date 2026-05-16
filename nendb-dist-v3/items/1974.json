@@ -1,0 +1,71 @@
+{
+  "num": "1974",
+  "name": {
+    "en": "Nendoroid Karma Akabane",
+    "ja": "ねんどろいど 赤羽業 (ねんどろいど あかばねかるま)",
+    "ko": "아카바네 카르마"
+  },
+  "series": {
+    "en": "Assassination Classroom",
+    "ja": "暗殺教室",
+    "ko": "암살교실",
+    "code": "assassination-classroom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13325,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AFgju82ttFI/Y45wR11XE2I/AAAAAAAA7rM/I0cbRJisljgc4P0m1Z3XHq1fwvXhkgJyACNcBGAsYHQ/s270/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AFgju82ttFI/Y45wR11XE2I/AAAAAAAA7rM/I0cbRJisljgc4P0m1Z3XHq1fwvXhkgJyACNcBGAsYHQ/s270/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ndk1AsxKQaw/Y451PBuXEdI/AAAAAAAA7yE/BmpyXEmdYusikPtCWAMajR7nh8k_e9KgwCNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6Lhu_fXPrBU/Y451PYVgVoI/AAAAAAAA7yI/4PICTChe8jsAKzOfWeyiVCzPjPHMaK3HwCNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fY2BNd49EFI/Y451Pot2xuI/AAAAAAAA7yM/13be4LPjhtsnEHQR6gkJvdG_3r_48OweACNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-opns_avjJuw/Y451P_aKvYI/AAAAAAAA7yQ/4BUNgV_3D08vZC9PH7sMgv6do9-p4kYXwCNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VUpZVbkw9pU/Y451QIZFeCI/AAAAAAAA7yU/43zsTDODusMp7wCEfiJGjAuFfMI7yZMnQCNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-EZwGedgevds/Y451QTU8UrI/AAAAAAAA7yY/sy2AdSLqLKAPDUNV4XQId6qUgi5Bp6lbACNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-w-dxmYn3bXU/Y451Qow9pkI/AAAAAAAA7yc/a4hoJ-GRl-g8t59UY4Jku_XMwh4EC_5dACNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-YTP7tPMdG3w/Y451O3KrmbI/AAAAAAAA7yA/X-wscJ6Sb4gzrNPb1VDYYd1Jbq2nfiDIQCNcBGAsYHQ/s135/1974-Karma-Akabane-Assassination-Classroom-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1974/",
+      "fetched_at": "2026-05-16T19:10:33.762Z",
+      "raw_id": "/nendoroid/details/n1974/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.795Z",
+      "raw_id": "Nendoroid/1900-1999/1974.json"
+    }
+  ]
+}

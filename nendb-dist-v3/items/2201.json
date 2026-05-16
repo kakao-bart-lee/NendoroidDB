@@ -1,0 +1,70 @@
+{
+  "num": "2201",
+  "name": {
+    "en": "Nendoroid OMGkawaiiAngel",
+    "ja": "ねんどろいど 超絶最かわてんしちゃん (ねんどろいど ちょうぜつさいかわてんしちゃん)",
+    "ko": "최고귀염뽀짝 천사"
+  },
+  "series": {
+    "en": "NEEDY STREAMER OVERLOAD",
+    "ja": "NEEDY GIRL OVERDOSE",
+    "ko": "NEEDY GIRL OVERDOSE",
+    "code": "needy-streamer-overload"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14563,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2zVsr8jyglo/ZKXXTzoMmtI/AAAAAAAA-lU/Csh9vsFQ3H0_dcdwhS-n1eoI3Sr3wq5ogCNcBGAsYHQ/s270/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2zVsr8jyglo/ZKXXTzoMmtI/AAAAAAAA-lU/Csh9vsFQ3H0_dcdwhS-n1eoI3Sr3wq5ogCNcBGAsYHQ/s270/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zjwZh-UTHbM/ZKXm67i2f0I/AAAAAAAA_F4/10nNlLNhvAsv1EJAG5_0pE8fqCPVMvmBgCNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5Dx1NAeX1Vg/ZKXm7HQ0x8I/AAAAAAAA_F8/XByvxge87o0AhURe3wVZi_qc0L9eW3uDACNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yJicH13Vba4/ZKXm7PmGjII/AAAAAAAA_GA/eJZBlVxc1OIeVvxrYp9-DaqYbyEOmX0LwCNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iHQeZIkB9b8/ZKXm7VZKK8I/AAAAAAAA_GE/V3wm3FwqxzIuBZn4KSobn7Nb0W-GLzBbgCNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nMF-Sp4I_Q0/ZKXm7yvlnBI/AAAAAAAA_GI/ZkV-HH6uABwsNCf5qzvQPfEHtSEWvN8eACNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-AyxiEkmMl_k/ZKXm8WK_cjI/AAAAAAAA_GM/6tQ8aYeIA0YsJFXo6ZnWyJjRRG_cR4QkgCNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-nRJRSQe8cu0/ZKXm6OOcP_I/AAAAAAAA_F0/nk4n8cJ8XrUGMU3EDXBJBHfZVnfb96OpwCNcBGAsYHQ/s135/2201-OMGkawaiiAngel-NEEDY-STREAMER-OVERLOAD-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2201/",
+      "fetched_at": "2026-05-16T19:10:33.906Z",
+      "raw_id": "/nendoroid/details/n2201/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.853Z",
+      "raw_id": "Nendoroid/2200-2299/2201.json"
+    }
+  ]
+}

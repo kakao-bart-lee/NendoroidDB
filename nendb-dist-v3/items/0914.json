@@ -1,0 +1,69 @@
+{
+  "num": "0914",
+  "name": {
+    "en": "Nendoroid Asahi Azumane",
+    "ja": "ねんどろいど 東峰旭 (ねんどろいど あずまねあさひ)",
+    "ko": "아즈마네 아사히"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7194,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4NWDhhjAfcg/X4NeewJFXZI/AAAAAAABmKg/iM-v248gM68s11VosC9og-lgto_D-q07gCLcBGAsYHQ/s270/914-Asahi-Azumane-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4NWDhhjAfcg/X4NeewJFXZI/AAAAAAABmKg/iM-v248gM68s11VosC9og-lgto_D-q07gCLcBGAsYHQ/s270/914-Asahi-Azumane-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-y3gUjzDe2rw/X4rnmPEcrQI/AAAAAAABnsk/ik4iS3FqnV0lQK9AGfhMVisIw0D78FWUgCLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sAE6WmUU6Ss/X4rnmVIC8DI/AAAAAAABnso/Dmz1lTIjRCgcgW1Wp7qm-77WoAB_czYFACLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PUg6UsuN5yM/X4rnmpdfhxI/AAAAAAABnss/plZ-cix6d9ceMrxFGgt9iUZ5tmLSpG9jgCLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SVLYjn0b3_A/X4rnmw1v4CI/AAAAAAABnsw/xcF05rO5ZkocfMXjQ6TcQl9BWMQ7KdmpQCLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qErxDHD5iXw/X4rnnFtHeHI/AAAAAAABns0/fxCgCazFuLQlLyst42f2ieukLb43aasrgCLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hbeAgbICU-c/X4rnnTN_dcI/AAAAAAABns4/CRH6eN0eK6EuiokicYDw6eLXbMRTJCeuACLcBGAsYHQ/s135/914-Asahi-Azumane-Haikyu-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n914/",
+      "fetched_at": "2026-05-16T19:10:34.870Z",
+      "raw_id": "/nendoroid/details/n914/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.537Z",
+      "raw_id": "Nendoroid/0900-0999/914.json"
+    }
+  ]
+}

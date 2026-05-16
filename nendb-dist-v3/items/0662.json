@@ -1,0 +1,71 @@
+{
+  "num": "0662",
+  "name": {
+    "en": "Nendoroid Deadpool: Orechan Edition",
+    "ja": "ねんどろいど デッドプール 俺ちゃん・エディション",
+    "ko": "데드풀 오레짱 에디션"
+  },
+  "series": {
+    "en": "Deadpool",
+    "ja": "デッドプール",
+    "ko": "데드풀",
+    "code": "deadpool"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5858,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-N6asXfRxMqU/X4NP3aO8hkI/AAAAAAABl4U/YW7XI5BCcbg9OJSnCOIC5jPIovA78zN7gCLcBGAsYHQ/s270/662-Deadpool-Orechan-Edition-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-N6asXfRxMqU/X4NP3aO8hkI/AAAAAAABl4U/YW7XI5BCcbg9OJSnCOIC5jPIovA78zN7gCLcBGAsYHQ/s270/662-Deadpool-Orechan-Edition-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ldZZh_ZNKVY/X4i1MVlczXI/AAAAAAAAs2U/UaihpLg2_NQA4g2Z_fRF-KvV31PFy5BnQCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qTa0AxrwXwI/X4i1Mx3ySCI/AAAAAAAAs2Y/l-WfgylfEzUtFHuKI0k1Wy5pk5D3Z2eBgCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P7zbNCDBmIk/X4i1NXRbX1I/AAAAAAAAs2c/qmIMj4hIFBsSPyWD5ywR-bMWodjpX17kwCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B7xpuOMOjlQ/X4i1N40HAoI/AAAAAAAAs2g/ChO9wChQWTE0HwTvK3wSxbCPpUmNfIoBQCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CEQowRt_k-4/X4i1OHqKePI/AAAAAAAAs2k/C1RQ0Q8-GjITi5s0xTpfDEmuE4OU7jpjgCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zMqgRRpSamw/X4i1Oc53j8I/AAAAAAAAs2o/o2rl26nzQhsypH4w56fa5El2gzVWOcnDQCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-FmU7jnSuNCw/X4i1O7faLNI/AAAAAAAAs2s/hBLhrBYjNSkjY8MQLlpPfyKYL0HNIgE3gCLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-Fc40BiUAsDk/X4i1Lyn2EdI/AAAAAAAAs2Q/HtKFeQ2WKkwYHZpF9T5OSOtZ1MoC2HMVACLcBGAsYHQ/s135/662-Deadpool-Deadpool-Marvel-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n662/",
+      "fetched_at": "2026-05-16T19:10:34.729Z",
+      "raw_id": "/nendoroid/details/n662/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.477Z",
+      "raw_id": "Nendoroid/0600-0699/662.json"
+    }
+  ]
+}

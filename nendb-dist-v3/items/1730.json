@@ -1,0 +1,68 @@
+{
+  "num": "1730",
+  "name": {
+    "en": "Nendoroid Hana Shirosaki",
+    "ja": "ねんどろいど 白咲 花 (ねんどろいど しろさき はな)",
+    "ko": "시로사키 하나"
+  },
+  "series": {
+    "en": "Wataten!: An Angel Flew Down to Me",
+    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko": "나에게 천사가 내려왔다!",
+    "code": "wataten-an-angel-flew-down-to-me"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11846,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dxE8bZngjXE/YYBJ_1ST1BI/AAAAAAAA1i4/LrYcm3Zju-kbXByCpi0nplSue_fx0VL9gCLcBGAsYHQ/s270/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dxE8bZngjXE/YYBJ_1ST1BI/AAAAAAAA1i4/LrYcm3Zju-kbXByCpi0nplSue_fx0VL9gCLcBGAsYHQ/s270/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--UvG9iBTZUs/YYBOo2h2WcI/AAAAAAAA1lw/evLtyCQHH7AJttTHdJYi5ruKSTPgFCGgACLcBGAsYHQ/s135/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-liBuwTfRl1w/YYBOpPubg1I/AAAAAAAA1ls/vn779fHbuEcNUTRFXFMjTxRK61X0fbNxACLcBGAsYHQ/s135/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KGtQjLhbNJk/YYBOpRAddmI/AAAAAAAA1l0/s0svHO2kPh0W5szaecydUdTieJlUqGF0ACLcBGAsYHQ/s135/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4PoSg1uJIp0/YYBOptRlBgI/AAAAAAAA1l4/9aqsVvWkIUMhvFjkHxUXPd8Zz_NdhaQpQCLcBGAsYHQ/s135/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sC6jg81fU7I/YYBOplriP7I/AAAAAAAA1l8/f-vhkz0cpBsHErmjxRT2Xg6dTQnuXeIngCLcBGAsYHQ/s135/1730-Hana-Shirosaki-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1730/",
+      "fetched_at": "2026-05-16T19:10:33.612Z",
+      "raw_id": "/nendoroid/details/n1730/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.738Z",
+      "raw_id": "Nendoroid/1700-1799/1730.json"
+    }
+  ]
+}

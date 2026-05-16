@@ -1,0 +1,68 @@
+{
+  "num": "1518",
+  "name": {
+    "en": "Nendoroid Sally",
+    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko": "샐리"
+  },
+  "series": {
+    "en": "The Nightmare Before Christmas",
+    "ja": "ナイトメアー・ビフォア・クリスマス",
+    "ko": "크리스마스의 악몽",
+    "code": "the-nightmare-before-christmas"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10469,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PdLlQXnrs3g/X8509WBKOkI/AAAAAAAAu4M/0sLEWVp9Gc4p960flx4snIbCjOfsz1yaQCLcBGAsYHQ/s270/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PdLlQXnrs3g/X8509WBKOkI/AAAAAAAAu4M/0sLEWVp9Gc4p960flx4snIbCjOfsz1yaQCLcBGAsYHQ/s270/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fcXUg6gr2QU/X86KoUjiqDI/AAAAAAAAu6s/fjbVxHOJgwA8xtiL_wkFhsudpUTezWrigCLcBGAsYHQ/s135/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-c6NnKVnzpR0/X86KovAdwgI/AAAAAAAAu6w/68Psnyh6KksB-e0b4L4q87SUY6PW8DrYACLcBGAsYHQ/s135/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AQ6bUFjsb_o/X86Ko3iSJZI/AAAAAAAAu60/GJEnRG7vjfQYZ3EnB5ffnFLFp5dbkYh8wCLcBGAsYHQ/s135/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qVocV8a1Y10/X86Ko48dZrI/AAAAAAAAu64/LnWTqZT5AyUSscfTzQMTbyqI3vQFIXJwACLcBGAsYHQ/s135/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PdScK7IbeMw/X86KpYixcxI/AAAAAAAAu68/25WhEA6Nczw7jLZXhSsnqebeRg8GQFl7gCLcBGAsYHQ/s135/1518-Sally-The-Nightmare-Before-Christmas-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1518/",
+      "fetched_at": "2026-05-16T19:10:33.478Z",
+      "raw_id": "/nendoroid/details/n1518/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.685Z",
+      "raw_id": "Nendoroid/1500-1599/1518.json"
+    }
+  ]
+}

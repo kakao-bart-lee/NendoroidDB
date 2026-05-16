@@ -1,0 +1,70 @@
+{
+  "num": "0632",
+  "name": {
+    "en": "Nendoroid Shigure Kai-II",
+    "ja": "ねんどろいど 時雨改二 (ねんどろいど しぐれかいに)",
+    "ko": "시구레 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5687,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9k5KIymLUOA/X4NPtWGfO2I/AAAAAAABl2c/8wrzcWTz8K4grOnVEcHwlf8lws0R6RdCwCLcBGAsYHQ/s270/632-Shigure-Kai-Ni-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9k5KIymLUOA/X4NPtWGfO2I/AAAAAAABl2c/8wrzcWTz8K4grOnVEcHwlf8lws0R6RdCwCLcBGAsYHQ/s270/632-Shigure-Kai-Ni-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GxdNeVz6qPM/X4i0VJ80wJI/AAAAAAAAsrI/_nZ5VJJcViMoxX-om9dRe4R2m0Wt_ne_wCLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6-yu5TfmNFc/X4i0VZARSfI/AAAAAAAAsrM/w4_T9UDZQV8t12aIWcfmO08NS-v9xCASwCLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4iWfqyZlN50/X4i0VvWRTZI/AAAAAAAAsrQ/YI29XPXNoIUWzjFkecxq-eI_wQMQU_cJACLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T2JtbztPM54/X4i0WLgH8lI/AAAAAAAAsrU/no8K5rKOtZ00GshiV4R0lebY2UhPT_55wCLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Hk8Xy42uZIA/X4i0WsACZSI/AAAAAAAAsrY/c7MfYrG912Y2eVMEg8fWCXyOlRKK6u67ACLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-D8vF4p1XMpA/X4i0XNBWdcI/AAAAAAAAsrc/WFt_b_Ydx2QNribcDo26ZJ4MByYbhsBkgCLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MW_54z3GbP8/X4i0Xecs_4I/AAAAAAAAsrg/IW1q4wA3p90u_aecy7AEcLf7VDZ8p9aBACLcBGAsYHQ/s135/632-Shigure-Kai-Ni-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n632/",
+      "fetched_at": "2026-05-16T19:10:34.710Z",
+      "raw_id": "/nendoroid/details/n632/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.468Z",
+      "raw_id": "Nendoroid/0600-0699/632.json"
+    }
+  ]
+}

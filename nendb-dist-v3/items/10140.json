@@ -1,0 +1,55 @@
+{
+  "num": "10140",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Hufflepuff Uniform - Boy)",
+    "ja": "ねんどろいどどーる おようふくセット ハッフルパフ制服：Boy (ねんどろいどどーる おようふくせっと はっふるぱふせいふく：ぼーい)",
+    "ko": "후플푸프 의상(남)"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10140,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200928/10140/75026/large/d26f2300f72829975262b36f662b2bb2.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.913Z",
+      "raw_id": "NendoroidDoll/Clothes/10140.json"
+    }
+  ]
+}

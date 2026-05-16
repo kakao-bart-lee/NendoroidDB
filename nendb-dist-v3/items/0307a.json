@@ -1,0 +1,67 @@
+{
+  "num": "0307a",
+  "name": {
+    "en": "Nendoroid Melona (ねんどろいど めろーな)",
+    "ja": "ねんどろいど メローナ (ねんどろいど めろーな)",
+    "ko": "메로나"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3807,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JSeGESiyNCs/X4NMiljLo6I/AAAAAAABlfw/bynJhutOQX44WyasYCEZAACaPYUOewE5ACLcBGAsYHQ/s270/307a-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JSeGESiyNCs/X4NMiljLo6I/AAAAAAABlfw/bynJhutOQX44WyasYCEZAACaPYUOewE5ACLcBGAsYHQ/s270/307a-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RmT1fRi-310/X4dZ-yOS7oI/AAAAAAAAq1c/R9bNEC1ZelQCfkRJD2zxY7UeYR_BWaTawCLcBGAsYHQ/s135/307A-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WsZwlg0ZXL4/X4dZ_AfoDnI/AAAAAAAAq1g/HyjRbnu6JrQZAzbk8pkk_8GfsU2Up-9ZgCLcBGAsYHQ/s135/307A-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N3e4gjkFGtQ/X4dZ_UC5vsI/AAAAAAAAq1k/TLIFdwvGLZsoHUJN8j1m0NKlOMCaOi5dwCLcBGAsYHQ/s135/307A-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hg7HsbPDgZY/X4dZ_Tk4sUI/AAAAAAAAq1o/2pf958TYDnkmxw1_mY3KpR8gAl-WXVFvwCLcBGAsYHQ/s135/307A-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n307a/",
+      "fetched_at": "2026-05-16T19:10:34.452Z",
+      "raw_id": "/nendoroid/details/n307a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.347Z",
+      "raw_id": "Nendoroid/0300-0399/307a.json"
+    }
+  ]
+}

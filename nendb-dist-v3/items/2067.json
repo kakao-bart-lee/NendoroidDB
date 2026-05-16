@@ -1,0 +1,67 @@
+{
+  "num": "2067",
+  "name": {
+    "en": "Nendoroid Ryusui Nanami",
+    "ja": "ねんどろいど 七海龍水 (ねんどろいど ななみりゅうすい)",
+    "ko": "나나미 류스이"
+  },
+  "series": {
+    "en": "Dr. STONE",
+    "ja": "Dr.STONE",
+    "ko": "닥터 스톤",
+    "code": "dr-stone"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13928,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4dh_8oGVmTk/ZA3eCn3dAdI/AAAAAAAA9Kc/8XZLruWrDDMBN27gVXRWr89tJax4rE73wCNcBGAsYHQ/s270/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4dh_8oGVmTk/ZA3eCn3dAdI/AAAAAAAA9Kc/8XZLruWrDDMBN27gVXRWr89tJax4rE73wCNcBGAsYHQ/s270/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Rnym0SHIBPQ/ZA3c4gQ37eI/AAAAAAAA9Bo/pDeKUtOOPQoP_oTwJHA1zW5kz4Aq1nk6QCNcBGAsYHQ/s135/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OyJ4xdATP9w/ZA3c5WCqYnI/AAAAAAAA9Bs/qv3y9rB04kU1QrY3rlie69CqaH4HUsVxACNcBGAsYHQ/s135/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4l59fxfrJ2Q/ZA3c56_jOwI/AAAAAAAA9Bw/0gQExbLZ9kMNgQPQ7Q2S0dr6ijNe_M51QCNcBGAsYHQ/s135/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mYMwW9lObuE/ZA3c6UX7NbI/AAAAAAAA9B0/rrnTEjeo2lsctEpLu7XEzVfZq74bwLC2wCNcBGAsYHQ/s135/2067-Ryusui-Nanami-Dr.-STONE-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2067/",
+      "fetched_at": "2026-05-16T19:10:33.820Z",
+      "raw_id": "/nendoroid/details/n2067/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.819Z",
+      "raw_id": "Nendoroid/2000-2099/2067.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "1769",
+  "name": {
+    "en": "Nendoroid Cater Diamond",
+    "ja": "ねんどろいど ケイト・ダイヤモンド (ねんどろいど けいと・だいやもんど)",
+    "ko": "케이터 다이아몬드"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11944,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cfyH5c7ZYnM/Ya-zOkHJCdI/AAAAAAAA2EY/Hr0Fw8jd13cr8lP-s4fKnE2qWgZjmLoHgCNcBGAsYHQ/s270/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cfyH5c7ZYnM/Ya-zOkHJCdI/AAAAAAAA2EY/Hr0Fw8jd13cr8lP-s4fKnE2qWgZjmLoHgCNcBGAsYHQ/s270/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I8MejX0vF3w/Ya-2eR_nHrI/AAAAAAAA2Ok/Io-XG75pZjU0opzwHq15r3KJ-1o5Mn8DACNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bfLFHadsTDg/Ya-2eiNYCQI/AAAAAAAA2Oo/FWoZ7bhSm9MU-v2MMmWKJLv6jsINmYJFgCNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DBypf7bgFDQ/Ya-2ewvIk1I/AAAAAAAA2Os/QR4x6BJSuO8Z01Ia3HnmuB2vdo622vjWACNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zxL0WvlYABE/Ya-2fA63jnI/AAAAAAAA2Ow/DFl8MtY1FP0GP9i7SM2C05NGe0jLrWXyQCNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hCk_t9RjXwU/Ya-2fUDDHeI/AAAAAAAA2O0/iuAHOeQe-8wo2gpOFM3tf-wOAbFLr477wCNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O7MO_pIU-PY/Ya-2ffoAzoI/AAAAAAAA2O4/o8KFfO8HhJ8M5Zm-7i1DR1Mb2_rvKJVOACNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-jny90x06oPA/Ya-2fkPCuBI/AAAAAAAA2O8/tEa7Pk47vPIOVZsiHeTGmpaMERUfF58vgCNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-OPPoAP7ylLY/Ya-2eNnRmII/AAAAAAAA2Oc/tdGxXDL1EJgQQ8cHYmiK0fPaOYjJ30n1wCNcBGAsYHQ/s135/1769-Cater-Diamond-Twisted-Wonderlands-Disney-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1769/",
+      "fetched_at": "2026-05-16T19:10:33.635Z",
+      "raw_id": "/nendoroid/details/n1769/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.747Z",
+      "raw_id": "Nendoroid/1700-1799/1769.json"
+    }
+  ]
+}

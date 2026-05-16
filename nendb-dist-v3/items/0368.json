@@ -1,0 +1,69 @@
+{
+  "num": "0368",
+  "name": {
+    "en": "Nendoroid Mayoi Hachikuji (ねんどろいど はちくじまよい)",
+    "ja": "ねんどろいど 八九寺真宵 (ねんどろいど はちくじまよい)",
+    "ko": "하치쿠지 마요이"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4091,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tSeFFbzKBeE/X4NM8bzRE8I/AAAAAAABljw/IOghBoEOyp8bz2MLfkH9rK2so7-Dk3rowCLcBGAsYHQ/s270/368-Mayoi%2BHachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tSeFFbzKBeE/X4NM8bzRE8I/AAAAAAABljw/IOghBoEOyp8bz2MLfkH9rK2so7-Dk3rowCLcBGAsYHQ/s270/368-Mayoi%2BHachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0fzcrzTtZkI/X4dbM3g2nJI/AAAAAAAArJo/XusDEf55t3M6BEm5Ouj0gfabjo9F56MqwCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-djgu0x39BAo/X4dbM7xnIQI/AAAAAAAArJs/OgrUVhAQeg4cNn7GqzsLbrk79tTGPJKbwCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RXwLAOgUFb0/X4dbNIGF5rI/AAAAAAAArJw/e-J3OCZN2lM3PLTMkARzUUcjUy6rAOs-gCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4W6i1u1kXcs/X4dbNTELa0I/AAAAAAAArJ0/LY5yvl5Gu7EFqql2oBivfXB5eXCWfx-CgCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IgpuUGSdaak/X4dbNvNkK2I/AAAAAAAArJ4/gqtqMbItVCkLGGW2DptHV-dU8jD6HWdugCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-v1B-byxagpU/X4dbNkoh97I/AAAAAAAArJ8/DBnT0A_8LGQ07qXYsUUQ4RhC4kJSb6EyQCLcBGAsYHQ/s135/368-Mayoi-Hachikuji-Bakemonogatari-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n368/",
+      "fetched_at": "2026-05-16T19:10:34.487Z",
+      "raw_id": "/nendoroid/details/n368/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.363Z",
+      "raw_id": "Nendoroid/0300-0399/368.json"
+    }
+  ]
+}

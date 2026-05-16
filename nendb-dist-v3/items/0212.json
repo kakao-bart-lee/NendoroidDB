@@ -1,0 +1,69 @@
+{
+  "num": "0212",
+  "name": {
+    "en": "Nendoroid Shuukan Hajimete no Hatsune Miku (ねんどろいど しゅうかんはじめてのはつねみく)",
+    "ja": "ねんどろいど 週刊はじめての初音ミク (ねんどろいど しゅうかんはじめてのはつねみく)",
+    "ko": "주간 시작의 하츠네 미쿠"
+  },
+  "series": {
+    "en": "Shuukan Hajimete no Hatsune Miku",
+    "ja": "週刊はじめての初音ミク",
+    "ko": "주간 시작의 하츠네 미쿠",
+    "code": "shuukan-hajimete-no-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3350,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KzF1E3a-07g/X4NLGqOSjRI/AAAAAAABlWA/xPo7JPofE4A7ArmyOG4jC0DN1-iPPChkACLcBGAsYHQ/s270/212-Hatsune-Miku-Shuukan-Hajimete-no-Miku-Hantsune-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KzF1E3a-07g/X4NLGqOSjRI/AAAAAAABlWA/xPo7JPofE4A7ArmyOG4jC0DN1-iPPChkACLcBGAsYHQ/s270/212-Hatsune-Miku-Shuukan-Hajimete-no-Miku-Hantsune-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3trrKyqk32o/X4dW7vEuTPI/AAAAAAAAqV4/d_k3-z2SxQMk3HwPr446RdW5CQpK44ERgCLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ne9wyHuwLxw/X4dW74iQVoI/AAAAAAAAqV8/87wu-1jOL48sHGMiFL0Sv7UJ0fAGdTo2QCLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HlGK5fsvCVU/X4dW8ABfEDI/AAAAAAAAqWA/iDAzDz2r7tsEJB6boWTmYhyum0lkmRQFwCLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SqSf3mvH4kg/X4dW8RBGPqI/AAAAAAAAqWE/J8dDgmrJegUdD9BHDtJiYniImwTCc8QzACLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HdL0LjBAY7s/X4dW8QJWrhI/AAAAAAAAqWI/o69drx5HBkc52ve7_0PefKJ1WuZPKiMpgCLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zi1FnMcQGWc/X4dW89KjbII/AAAAAAAAqWM/JiK89qXiQicgZ6zKi77YDTxWJqlMh-ICgCLcBGAsYHQ/s135/212-Hatsune-Miku-Shuukan-Hajimete-no-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n212/",
+      "fetched_at": "2026-05-16T19:10:33.856Z",
+      "raw_id": "/nendoroid/details/n212/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.321Z",
+      "raw_id": "Nendoroid/0200-0299/212.json"
+    }
+  ]
+}

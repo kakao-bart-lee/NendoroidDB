@@ -1,0 +1,68 @@
+{
+  "num": "0060",
+  "name": {
+    "en": "Nendoroid Rin Kokonoe (ここのえりん ねんどろいど)",
+    "ja": "ねんどろいど　九重りん (ここのえりん ねんどろいど)",
+    "ko": "코코노에 린"
+  },
+  "series": {
+    "en": "Kodomo no Jikan",
+    "ja": "こどものじかん",
+    "ko": "아이들의 시간",
+    "code": "kodomo-no-jikan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2241,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-c0iOQknw_vc/X4MSNAsx6MI/AAAAAAAApdI/6cU6w8d4JOA-1a2PNoiQne61IV7SUnIHwCLcBGAsYHQ/s270/60-Rin%2BKokonoe-Kodomo%2Bno%2BJikan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-c0iOQknw_vc/X4MSNAsx6MI/AAAAAAAApdI/6cU6w8d4JOA-1a2PNoiQne61IV7SUnIHwCLcBGAsYHQ/s270/60-Rin%2BKokonoe-Kodomo%2Bno%2BJikan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KPZpBg0iW7Q/X4Gwq2a53CI/AAAAAAAApHM/VFUmBdfQJbciHmIiH-erW5YDlnovVZHnQCLcBGAsYHQ/s135/060-Rin-Kokonoe-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JXcdIezLHS8/X4GwqwtudLI/AAAAAAAApHQ/QFQPHdDOnm4igD5dfclryxCELilXzuJ-gCLcBGAsYHQ/s135/060-Rin-Kokonoe-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9mvSeTBvKjM/X4GwrJxiF3I/AAAAAAAApHU/76vF8o8aNwobbuZGU0uvV33f2SDXqq3qQCLcBGAsYHQ/s135/060-Rin-Kokonoe-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-l5E0G9CiGHU/X4GwrcQKauI/AAAAAAAApHY/VK52M7rC0h8HVL2ansTv9lfPJsbcf4uyACLcBGAsYHQ/s135/060-Rin-Kokonoe-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xandRmxstaI/X4GwrcvDO4I/AAAAAAAApHc/o0y-obamp1YSGdJqPViTFXAiPQATAJ2ugCLcBGAsYHQ/s135/060-Rin-Kokonoe-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n060/",
+      "fetched_at": "2026-05-16T19:10:33.103Z",
+      "raw_id": "/nendoroid/details/n060/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.278Z",
+      "raw_id": "Nendoroid/0000-0099/060.json"
+    }
+  ]
+}

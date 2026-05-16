@@ -1,0 +1,68 @@
+{
+  "num": "0811",
+  "name": {
+    "en": "Nendoroid I-chan",
+    "ja": "ねんどろいど いーちゃん",
+    "ko": "이짱"
+  },
+  "series": {
+    "en": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "ja": "クビキリサイクル 青色サヴァンと戯言遣い",
+    "ko": "헛소리 시리즈",
+    "code": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6643,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dYZ-BG-lXXo/X4NdtPnn1iI/AAAAAAABmDU/LQhxbYx1q8s3ed3tVt-0B2nB9r2pdIcaQCLcBGAsYHQ/s270/811-I-Chan-Kunagisa-Beheading-Cycle-Savant-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dYZ-BG-lXXo/X4NdtPnn1iI/AAAAAAABmDU/LQhxbYx1q8s3ed3tVt-0B2nB9r2pdIcaQCLcBGAsYHQ/s270/811-I-Chan-Kunagisa-Beheading-Cycle-Savant-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RnJjtN8x8iQ/X4riJ5zCQII/AAAAAAABnDI/g6mTOgbKw4o9-UinBp82D4cy04QN6zC6QCLcBGAsYHQ/s135/811-I-Chan-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Tre6w0Tj4to/X4riKMNLFHI/AAAAAAABnDM/-AX7A7FUph4Hmuz2vmQFvYyYYyEXxPxjQCLcBGAsYHQ/s135/811-I-Chan-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9HnN9roxLFY/X4riKR4XuPI/AAAAAAABnDQ/M6RHwUVEcj0whUBkPJY6kjNS0Z5DGj0jACLcBGAsYHQ/s135/811-I-Chan-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A66u4K-ScgY/X4riKoyuNjI/AAAAAAABnDU/RcFSvJc6dTAJ0Yc_ytY1hybBq41WtiGDgCLcBGAsYHQ/s135/811-I-Chan-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ehIFYGJ20BY/X4riK52Zm-I/AAAAAAABnDY/3-y22oGbvjIVwc3A5ZpUXHnbm5f_-v2hgCLcBGAsYHQ/s135/811-I-Chan-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n811/",
+      "fetched_at": "2026-05-16T19:10:34.814Z",
+      "raw_id": "/nendoroid/details/n811/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.513Z",
+      "raw_id": "Nendoroid/0800-0899/811.json"
+    }
+  ]
+}

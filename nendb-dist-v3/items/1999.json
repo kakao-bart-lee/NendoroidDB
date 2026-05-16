@@ -1,0 +1,68 @@
+{
+  "num": "1999",
+  "name": {
+    "en": "Nendoroid Cat",
+    "ja": "ねんどろいど ネコ (ねんどろいど ねこ)",
+    "ko": "네코"
+  },
+  "series": {
+    "en": "The Battle Cats",
+    "ja": "にゃんこ大戦争",
+    "ko": "냥코 대전쟁",
+    "code": "the-battle-cats"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13580,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Sv91Izf99vo/Y45wVgLQe8I/AAAAAAAA7sU/CwdjtLQVMo4x6epnzrnidvRS9F0LAwBWACNcBGAsYHQ/s270/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Sv91Izf99vo/Y45wVgLQe8I/AAAAAAAA7sU/CwdjtLQVMo4x6epnzrnidvRS9F0LAwBWACNcBGAsYHQ/s270/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SAGVeTBSe8k/Y451zCW5aTI/AAAAAAAA75I/QJrNi4RZTEo9Fz96iaKzHnjElyXoop_gQCNcBGAsYHQ/s135/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SRH-QYZcoUc/Y451zVdZw4I/AAAAAAAA75M/7YTdNZCWm_EfkJRJGcN4njQIqtw5aCuPwCNcBGAsYHQ/s135/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JMK9EpKTPYo/Y451zsSdsJI/AAAAAAAA75Q/snIx1vlLy2czsMiUGUQ8X24pkoqikHhxgCNcBGAsYHQ/s135/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M7Q52IjMNhk/Y451z2HlQZI/AAAAAAAA75U/zMFwrLWe7FEbPfXn5w9F1zgB8zcjQkO0QCNcBGAsYHQ/s135/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_dk4vfh3CLM/Y4510BkQFuI/AAAAAAAA75Y/z3DGYDWnnlUtmNuhtlscjqCbWBpd9hCzgCNcBGAsYHQ/s135/1999-Cat-The-Battle-Cats-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1999/",
+      "fetched_at": "2026-05-16T19:10:33.776Z",
+      "raw_id": "/nendoroid/details/n1999/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.801Z",
+      "raw_id": "Nendoroid/1900-1999/1999.json"
+    }
+  ]
+}

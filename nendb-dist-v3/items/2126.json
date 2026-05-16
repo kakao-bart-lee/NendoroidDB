@@ -1,0 +1,68 @@
+{
+  "num": "2126",
+  "name": {
+    "en": "Nendoroid Director-kun",
+    "ja": "ねんどろいど カントクくん (ねんどろいど かんとくくん)",
+    "ko": "감독군"
+  },
+  "series": {
+    "en": "Insufficient Direction",
+    "ja": "監督不行届",
+    "ko": "감독 부적격",
+    "code": "insufficient-direction"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14315,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--Iwre9jPQc8/ZFqWbdOA8JI/AAAAAAAA9zk/Rp6n9uOQBfosAHiLoSj-Hy-5taqf_5TgwCNcBGAsYHQ/s270/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--Iwre9jPQc8/ZFqWbdOA8JI/AAAAAAAA9zk/Rp6n9uOQBfosAHiLoSj-Hy-5taqf_5TgwCNcBGAsYHQ/s270/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BlP8ZehWVM4/ZFqb7bdHx4I/AAAAAAAA98w/WTdFC_dvQ6gU44OBDLijbyKYXJR5n8c7wCNcBGAsYHQ/s135/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R1SH4GRH70g/ZFqb7UKeFmI/AAAAAAAA980/-HUhPSZJZjcvj6KLn6nO9bMpW6hRvi1rwCNcBGAsYHQ/s135/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qhbu72LIic0/ZFqb7TvibuI/AAAAAAAA984/9gLbapzTk4gzjQia4cZJ93y8cFceFk7pACNcBGAsYHQ/s135/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dp3nexSXkfE/ZFqb7rwzOsI/AAAAAAAA988/lWXVVWBQcc4RwEwP55rKrmLOBdejhbnQQCNcBGAsYHQ/s135/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5s_VvaByHFM/ZFqb7uEz28I/AAAAAAAA99A/yqtnHzsT1SM5rfjmnXj99Dg9EzQevkwXwCNcBGAsYHQ/s135/2126-Director-kun-Insufficient-Direction-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2126/",
+      "fetched_at": "2026-05-16T19:10:33.855Z",
+      "raw_id": "/nendoroid/details/n2126/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.833Z",
+      "raw_id": "Nendoroid/2100-2199/2126.json"
+    }
+  ]
+}

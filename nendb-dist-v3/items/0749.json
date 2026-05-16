@@ -1,0 +1,68 @@
+{
+  "num": "0749",
+  "name": {
+    "en": "Nendoroid Arisa Ichigaya",
+    "ja": "ねんどろいど 市ヶ谷有咲 (ねんどろいど いちがやありさ)",
+    "ko": "이치가야 아리사"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6319,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-odB2r-IkqmM/X4Nc-5XqIhI/AAAAAAABl-c/e1TRYouvo_0yqZ97pDyLMikTD_THQhxAgCLcBGAsYHQ/s270/749-Arisa%2BIchigaya-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-odB2r-IkqmM/X4Nc-5XqIhI/AAAAAAABl-c/e1TRYouvo_0yqZ97pDyLMikTD_THQhxAgCLcBGAsYHQ/s270/749-Arisa%2BIchigaya-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fIGvh7znf2U/X4i4whxnqxI/AAAAAAAAtYQ/2i1JGdAN8BEKconL1kW5EgJ5E6WJnPzsQCLcBGAsYHQ/s135/749-Arisa-Ichigaya-BanG-Dream-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pqcEf1JBcaY/X4i4w87nHDI/AAAAAAAAtYU/_aGh0SYiCGE7ZGBuMholDq1y37VPeFdtwCLcBGAsYHQ/s135/749-Arisa-Ichigaya-BanG-Dream-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IMX1vnYJoNg/X4i4xO1Hg8I/AAAAAAAAtYY/QIXjx1yzFKwaMOcCZHNumaimte485ztaQCLcBGAsYHQ/s135/749-Arisa-Ichigaya-BanG-Dream-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yaLucKxPExA/X4i4xTSuRdI/AAAAAAAAtYc/sjRPiEah0dU8wC6tXL18npmsgh8OVEtBgCLcBGAsYHQ/s135/749-Arisa-Ichigaya-BanG-Dream-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RxpT2nOxHS4/X4i4xj1g1cI/AAAAAAAAtYg/rHdgJqCzUlwDE2OhYDoc_be-6w8LHJvIQCLcBGAsYHQ/s135/749-Arisa-Ichigaya-BanG-Dream-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n749/",
+      "fetched_at": "2026-05-16T19:10:34.775Z",
+      "raw_id": "/nendoroid/details/n749/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.498Z",
+      "raw_id": "Nendoroid/0700-0799/749.json"
+    }
+  ]
+}

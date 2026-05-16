@@ -1,0 +1,68 @@
+{
+  "num": "1418",
+  "name": {
+    "en": "Nendoroid Gaku Yaotome",
+    "ja": "ねんどろいど 八乙女楽 (ねんどろいど やおとめがく)",
+    "ko": "야오토메 가쿠"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9815,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eC28Jwr0-A8/X4Nkc-_-IKI/AAAAAAABm5c/YTX4No2H87wbXTaEi7lPZplKyNJZBQAWACLcBGAsYHQ/s270/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eC28Jwr0-A8/X4Nkc-_-IKI/AAAAAAABm5c/YTX4No2H87wbXTaEi7lPZplKyNJZBQAWACLcBGAsYHQ/s270/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EJ7e6NEyyl8/X4tAM5nrLeI/AAAAAAABqyg/ZVCwcGbuWuE_DCv3v2-FSWdKJQ6eGVMrQCLcBGAsYHQ/s135/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zphSuCr9mSs/X4tANF5TsmI/AAAAAAABqyk/8EQNyhzY2ycUAF0DdVuTN0Z1bEcA5vQbQCLcBGAsYHQ/s135/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VIULs-Ha8ko/X4tANcmXLXI/AAAAAAABqyo/tNBphfq9KSIOCvKitQvY2EFeMYgA4b2_ACLcBGAsYHQ/s135/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_ytNI6OnSyk/X4tANpzTVyI/AAAAAAABqys/oHyplQA-VJ0eSWlAhvrQ2I8zNwVBvkJ3gCLcBGAsYHQ/s135/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HNlj5M9BBWE/X4tANzIx4CI/AAAAAAABqyw/mU5MVps9q7ofnjb-jW273Du-lT146gphgCLcBGAsYHQ/s135/1418-Gaku-Yaotome-IDOLiSH7-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1418/",
+      "fetched_at": "2026-05-16T19:10:33.418Z",
+      "raw_id": "/nendoroid/details/n1418/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.660Z",
+      "raw_id": "Nendoroid/1400-1499/1418.json"
+    }
+  ]
+}

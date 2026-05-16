@@ -1,0 +1,68 @@
+{
+  "num": "2093",
+  "name": {
+    "en": "Nendoroid Barbie",
+    "ja": "ねんどろいど Barbie (ねんどろいど ばーびー)",
+    "ko": "바비"
+  },
+  "series": {
+    "en": "Barbie",
+    "ja": "Barbie",
+    "ko": "바비",
+    "code": "barbie"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14084,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TuMUmH_BRbM/ZA3eE6qsbDI/AAAAAAAA9Lg/RuoIyv0V9ScwMwZiNcLLyQF68WtXhNB-gCNcBGAsYHQ/s270/2093-Barbie-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TuMUmH_BRbM/ZA3eE6qsbDI/AAAAAAAA9Lg/RuoIyv0V9ScwMwZiNcLLyQF68WtXhNB-gCNcBGAsYHQ/s270/2093-Barbie-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AggXqWSWXz4/ZA3dVX98f2I/AAAAAAAA9H0/709Q0PjtcBkG5XhYNx3BufQbmrA4IuRgwCNcBGAsYHQ/s135/2093-Barbie-Mascot-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C8O_-9Cb2Ws/ZA3dV0snFMI/AAAAAAAA9H4/XZTeDyXKSloIsw0EGfhL1jABBul_2_rhQCNcBGAsYHQ/s135/2093-Barbie-Mascot-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4ggWZA7KWQQ/ZA3dWR7l5HI/AAAAAAAA9H8/g9e6kZBPRBAI1NbXMRN9WfxUUbIaglymQCNcBGAsYHQ/s135/2093-Barbie-Mascot-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ELfhSztE3dg/ZA3dXJpjMpI/AAAAAAAA9IA/zTHMHXJozhY3T1XReFj3i7xkp_-HgHNQwCNcBGAsYHQ/s135/2093-Barbie-Mascot-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bNJtR9H8yGA/ZA3dXt7mfnI/AAAAAAAA9IE/E4Yk2_zh8MozrELIed1eppnJzpoNgbN9ACNcBGAsYHQ/s135/2093-Barbie-Mascot-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2093/",
+      "fetched_at": "2026-05-16T19:10:33.836Z",
+      "raw_id": "/nendoroid/details/n2093/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.824Z",
+      "raw_id": "Nendoroid/2000-2099/2093.json"
+    }
+  ]
+}

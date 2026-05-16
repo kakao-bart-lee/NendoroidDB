@@ -1,0 +1,70 @@
+{
+  "num": "2074",
+  "name": {
+    "en": "Nendoroid Osborn",
+    "ja": "ねんどろいど Osborn (ねんどろいど おずぼーん)",
+    "ko": "샤오이"
+  },
+  "series": {
+    "en": "Light and Night",
+    "ja": "光と夜の恋",
+    "ko": "광여야지연",
+    "code": "light-and-night"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14802,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Zd5RYW1ns1w/ZQoU1FZnGfI/AAAAAAABBio/mMVH1WIufG0YMtJcupmYg8pAkJ-WCIxlwCNcBGAsYHQ/s270/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Zd5RYW1ns1w/ZQoU1FZnGfI/AAAAAAABBio/mMVH1WIufG0YMtJcupmYg8pAkJ-WCIxlwCNcBGAsYHQ/s270/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5K6lr3anOjU/ZQsgSdekGII/AAAAAAABBmk/7aqMmHYOPvIMcYOqsu8mdy9_wSLy_758ACNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_5dkwkk8cus/ZQsgTJYOESI/AAAAAAABBmo/MLNqiDNr2mQcvsGb5o5nU6vW9LJV48JpACNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-huUJQV1hfns/ZQsgTao4fsI/AAAAAAABBms/lmEANQX_sG0SAqoEZdIgNczrF2v3BL5iACNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XTBhrMuPy7M/ZQsgULlU9uI/AAAAAAABBmw/60znYNZasf4HZty1ckdCEgbeMNO1UZAAACNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ybh4yGV3UIY/ZQsgUeIMchI/AAAAAAABBm0/9Y-7oDJvSCUXzMtAdaL-pJVOuosiGxWAACNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NU6hvP0Asms/ZQsgU-iirrI/AAAAAAABBm4/Ie1YYgMubfkVT1sE-0QIDjDa7N4-g3TbQCNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-OsHpgZeqzwo/ZQsgVYLkVWI/AAAAAAABBm8/Xtu60pZaZpsIrrvYGbIkeVOjdu9N8IUEwCNcBGAsYHQ/s135/2074-Osborne-Light-and-Night-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2074/",
+      "fetched_at": "2026-05-16T19:10:33.824Z",
+      "raw_id": "/nendoroid/details/n2074/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.820Z",
+      "raw_id": "Nendoroid/2000-2099/2074.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1680",
+  "name": {
+    "en": "Nendoroid Illyasviel von Einzbern",
+    "ja": "ねんどろいど イリヤスフィール・フォン・アインツベルン (ねんどろいど いりやすふぃーる・ふぉん・あいんつべるん)",
+    "ko": "이리야스필 폰 아인츠베른"
+  },
+  "series": {
+    "en": "Fate/kaleid liner Prisma☆Illya: Licht - The Nameless Girl",
+    "ja": "劇場版Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "ko": "페이트 시리즈",
+    "code": "fate-kaleid-liner-prisma-illya-licht-the-nameless-girl"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11488,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3jg2LCbX7BE/YS6Jt5EUSvI/AAAAAAAAz9Q/KDwrHMCfxvYfTvfVJIEG0X3TJJL0Sq1QQCLcBGAsYHQ/s270/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3jg2LCbX7BE/YS6Jt5EUSvI/AAAAAAAAz9Q/KDwrHMCfxvYfTvfVJIEG0X3TJJL0Sq1QQCLcBGAsYHQ/s270/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BFNwXRG49gA/YS6MkfyT2mI/AAAAAAAA0Gc/k02AZHkaaiUag1fu1T_C617146r9B-2fACLcBGAsYHQ/s135/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tV2M87vYUbc/YS6MkTZKFqI/AAAAAAAA0Gg/sYwpr0zsZcc0x5DUKEl5mO4fYlA7sgJOACLcBGAsYHQ/s135/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T9VQsYSxGQk/YS6MkrC6pOI/AAAAAAAA0Gk/NyryGSgNg8YF237K5T9u29GKI9QLaUmZACLcBGAsYHQ/s135/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6n1rOpK3ugA/YS6MktnEsqI/AAAAAAAA0Go/EsMv7xQL96caqZv-s0VtKbCKG5LlfViSwCLcBGAsYHQ/s135/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SI_CLsgGMkc/YS6Mk6Ewu-I/AAAAAAAA0Gs/mF4F3vhDfbw824Rko2dK2JA1s1IbTUOAQCLcBGAsYHQ/s135/1680-Illyasviel-von-Einzbern-Fate-kaleid-liner-Prisma-Illya-Licht-The-Nameless-Girl-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1680/",
+      "fetched_at": "2026-05-16T19:10:33.581Z",
+      "raw_id": "/nendoroid/details/n1680/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.725Z",
+      "raw_id": "Nendoroid/1600-1699/1680.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0487",
+  "name": {
+    "en": "Nendoroid Noiz (ねんどろいど のいず)",
+    "ja": "ねんどろいど ノイズ (ねんどろいど のいず)",
+    "ko": "노이즈"
+  },
+  "series": {
+    "en": "DRAMAtical Murder",
+    "ja": "DRAMAtical Murder",
+    "ko": "드라마티컬 머더",
+    "code": "dramatical-murder"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Q1F-yLTS4XM/X4NN-Tzlv6I/AAAAAAABlsA/fi77M5_xp4cRYVSO3wxiSnxzvnURVLtFQCLcBGAsYHQ/s270/487-Noiz-DRAMAtical-Murder-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Q1F-yLTS4XM/X4NN-Tzlv6I/AAAAAAABlsA/fi77M5_xp4cRYVSO3wxiSnxzvnURVLtFQCLcBGAsYHQ/s270/487-Noiz-DRAMAtical-Murder-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qAVkBdByrS4/X4dfRzz7WKI/AAAAAAAArzQ/lhuLNZAZbN0gJCbTjk3TuwLRHwkE22VpgCLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ObngRXe0CYQ/X4dfSJlHB9I/AAAAAAAArzM/fOCXFMWtD5MiDCeC3-q2dEA_5lBJW2M9gCLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_7pcu1BmkL8/X4dfSLPAp0I/AAAAAAAArzU/adqk1eO21VcZ9Y0f8QR9C5aSf1NjkFs7QCLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oUFSvdEXcDA/X4dfSiTNtyI/AAAAAAAArzY/NNJGulrLpKovpSClObwUnQvCY72acijTQCLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-K5Eoub0kneI/X4dfSwtTsmI/AAAAAAAArzc/ifo7cedcJ4w-fdU9qqBqBrBF3cbXhEWqwCLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2I25s8dP7Dg/X4dfTL03JMI/AAAAAAAArzg/SZhR5hbnGQMfd3-pa8rE_SIuZukG4xHcACLcBGAsYHQ/s135/487-Noiz-DRAMAtical-Murder-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n487/",
+      "fetched_at": "2026-05-16T19:10:34.556Z",
+      "raw_id": "/nendoroid/details/n487/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.392Z",
+      "raw_id": "Nendoroid/0400-0499/487.json"
+    }
+  ]
+}

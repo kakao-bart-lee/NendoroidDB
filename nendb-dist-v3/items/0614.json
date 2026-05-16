@@ -1,0 +1,67 @@
+{
+  "num": "0614",
+  "name": {
+    "en": "Nendoroid Mirana",
+    "ja": "ねんどろいど ミラーナ (ねんどろいど みらーな)",
+    "ko": "미라나"
+  },
+  "series": {
+    "en": "DOTA 2",
+    "ja": "Dota 2",
+    "ko": "도타2",
+    "code": "dota-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5786,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2OS18-xg0Zc/X4NPokf909I/AAAAAAABl1U/8P41iMir8GgeZiEvogaCSdgU_Yr4XaChACLcBGAsYHQ/s270/614-Mirana-Dota-2-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2OS18-xg0Zc/X4NPokf909I/AAAAAAABl1U/8P41iMir8GgeZiEvogaCSdgU_Yr4XaChACLcBGAsYHQ/s270/614-Mirana-Dota-2-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-06rS5dFC0EQ/X4iz0zB9kZI/AAAAAAAAsk4/Pe_4L-801_IKjgd9Ef_Gpw9QYGT5GDi_ACLcBGAsYHQ/s135/614-Mirana-DOTA-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5zpArcXClbM/X4iz1fjgbkI/AAAAAAAAsk8/lljxbxoA5HkkfJ7X_qHBI_O5J95TWjukgCLcBGAsYHQ/s135/614-Mirana-DOTA-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-q0PqTMMiYL8/X4iz1-oxz6I/AAAAAAAAslA/9wWGUuux7D8e-05QUCO4DuQHyP-iof1dACLcBGAsYHQ/s135/614-Mirana-DOTA-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BDSDS2rjxfI/X4iz2bJmv-I/AAAAAAAAslE/OpMqTUKlTQcGuTw54zt2GHjoxg9ioOCUwCLcBGAsYHQ/s135/614-Mirana-DOTA-2-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n614/",
+      "fetched_at": "2026-05-16T19:10:34.694Z",
+      "raw_id": "/nendoroid/details/n614/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.463Z",
+      "raw_id": "Nendoroid/0600-0699/614.json"
+    }
+  ]
+}

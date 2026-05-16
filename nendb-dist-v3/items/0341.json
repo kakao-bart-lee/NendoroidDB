@@ -1,0 +1,65 @@
+{
+  "num": "0341",
+  "name": {
+    "en": "Nendoroid Kagamine Len: FamilyMart 2013 Ver. (ねんどろいど かがみねれん ふぁみりーまーと 2013 Ver.)",
+    "ja": "ねんどろいど 鏡音レン FamilyMart 2013 Ver. (ねんどろいど かがみねれん ふぁみりーまーと 2013 Ver.)",
+    "ko": "카가미네 렌 패밀리마트 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja": "キャラクターボーカルシリーズ02 鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-kagamine-rin-len"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3986,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QgNo-h1ZNQw/X4NMxZW8ecI/AAAAAAABliA/o8zc1UONonc88B_l1DLJma4S48tCUVEwACLcBGAsYHQ/s270/341-Kagamine-Len-FamilyMart-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QgNo-h1ZNQw/X4NMxZW8ecI/AAAAAAABliA/o8zc1UONonc88B_l1DLJma4S48tCUVEwACLcBGAsYHQ/s270/341-Kagamine-Len-FamilyMart-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qrI2ltrmwVA/X4dapeh-gfI/AAAAAAAArAc/GLq-Rh0KKkIfRGYgYd_rVAiQYOh05BRvQCLcBGAsYHQ/s135/341-Kagamine-Len-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Mg89hoODAjg/X4dappJe2dI/AAAAAAAArAY/osa1CsbMVOMGB4lTCqOZnPsJEnjTecaNACLcBGAsYHQ/s135/341-Kagamine-Len-Vocaloid-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n341/",
+      "fetched_at": "2026-05-16T19:10:34.471Z",
+      "raw_id": "/nendoroid/details/n341/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.356Z",
+      "raw_id": "Nendoroid/0300-0399/341.json"
+    }
+  ]
+}

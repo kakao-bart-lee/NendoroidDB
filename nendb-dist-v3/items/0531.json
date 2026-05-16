@@ -1,0 +1,68 @@
+{
+  "num": "0531",
+  "name": {
+    "en": "Nendoroid Eclair Martinozzi (ねんどろいど えくれーる・まるてぃのっじ)",
+    "ja": "ねんどろいど エクレール・マルティノッジ (ねんどろいど えくれーる・まるてぃのっじ)",
+    "ko": "에크렐 마르티노지"
+  },
+  "series": {
+    "en": "DOGDAYS''",
+    "ja": "DOGDAYS´´",
+    "ko": "DOG DAYS",
+    "code": "dogdays"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5042,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kSpkhNBZPeg/X4NOccLu7jI/AAAAAAABlvU/OUSQvEBXJZ8SR1iL2zPvTuYKo5F3i-umACLcBGAsYHQ/s270/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kSpkhNBZPeg/X4NOccLu7jI/AAAAAAABlvU/OUSQvEBXJZ8SR1iL2zPvTuYKo5F3i-umACLcBGAsYHQ/s270/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sou8k5K0Q48/X4isTCJ0VDI/AAAAAAAAsFM/1qMVTd3EnqsgYtyAtyphPDzZFphwu3l5wCLcBGAsYHQ/s135/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v_N3xHJmh7U/X4isTTXYOSI/AAAAAAAAsFQ/jbHC6oktqzUav9zPVh-7mDo56AifFcrhgCLcBGAsYHQ/s135/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5-3rrRHs634/X4isT-rkftI/AAAAAAAAsFU/RanBFfaH5PYmmm78phjIXX7dJQuyzA8ygCLcBGAsYHQ/s135/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5_O2pOcltkk/X4isUP9G7vI/AAAAAAAAsFY/LzreUsHU3H8BlwnkUQDoQQ4d_TdWUZQPwCLcBGAsYHQ/s135/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oUlCacGr9dg/X4isUNLm6jI/AAAAAAAAsFc/MqZcl6y0q0E7X41BAZmZNTHOxZfeyosUwCLcBGAsYHQ/s135/531-Eclair-Martinozzi-DOGDAYS-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n531/",
+      "fetched_at": "2026-05-16T19:10:34.582Z",
+      "raw_id": "/nendoroid/details/n531/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.431Z",
+      "raw_id": "Nendoroid/0500-0599/531.json"
+    }
+  ]
+}

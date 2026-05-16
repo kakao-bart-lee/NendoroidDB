@@ -1,0 +1,69 @@
+{
+  "num": "1354",
+  "name": {
+    "en": "Nendoroid Neji Hyuga",
+    "ja": "ねんどろいど 日向ネジ (ねんどろいど ひゅうがねじ)",
+    "ko": "휴유가 네지"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9535,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-buWkShmBGPk/X4Njxf_SSWI/AAAAAAABm2I/ppThPKOeEWAa-nrOCzgOf08pisJrLY6JgCLcBGAsYHQ/s270/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-buWkShmBGPk/X4Njxf_SSWI/AAAAAAABm2I/ppThPKOeEWAa-nrOCzgOf08pisJrLY6JgCLcBGAsYHQ/s270/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NHkUsYcZEL8/X4s9lT8G9dI/AAAAAAABqhw/53yZht_YKAorB1KIvC3WiWM6y9u-jElOQCLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vwmsc7QZIXY/X4s9lnwlrnI/AAAAAAABqh0/JE08Dvrgs7EV_5D1YXh1_u-pjQBQG1cLACLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-akMsiS-ng6Q/X4s9lqdjPjI/AAAAAAABqh4/cxQhstfHsAA085gsyoZER-GrRbACbGqYgCLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nHrNrj_cCxU/X4s9mGOO48I/AAAAAAABqh8/UxXJq3B3IgwPhN4_xx1upuxjQuTZiNv6gCLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RqQMjey-8w0/X4s9mW7_UyI/AAAAAAABqiA/6GhJtfPTfHIt6vOUxQjABW0_Dtqge5T9ACLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-q2Zxb-PAmLM/X4s9mu_okBI/AAAAAAABqiE/uBWlNaB4jssm8ny2KCZalGX294JS8NDMQCLcBGAsYHQ/s135/1354-Neji-Hyuga-Naruto-Shippuden-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1354/",
+      "fetched_at": "2026-05-16T19:10:33.378Z",
+      "raw_id": "/nendoroid/details/n1354/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.646Z",
+      "raw_id": "Nendoroid/1300-1399/1354.json"
+    }
+  ]
+}

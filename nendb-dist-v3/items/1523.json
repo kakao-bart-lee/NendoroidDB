@@ -1,0 +1,69 @@
+{
+  "num": "1523",
+  "name": {
+    "en": "Nendoroid Yotsuba Nakano",
+    "ja": "ねんどろいど 中野四葉 (ねんどろいど なかのよつば)",
+    "ko": "나카노 요츠바"
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁",
+    "ko": "5등분의 신부",
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10496,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bp0FlCwu4ls/X9p0tYwKYAI/AAAAAAAAu_s/zWvXfyMSPgU18xyHIA7Td48ypVbzu3pNgCLcBGAsYHQ/s270/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bp0FlCwu4ls/X9p0tYwKYAI/AAAAAAAAu_s/zWvXfyMSPgU18xyHIA7Td48ypVbzu3pNgCLcBGAsYHQ/s270/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1h6OhqtljcY/X9p5EiMSAUI/AAAAAAAAvBU/CyLVKdy69Scmpjn7u3TWV0rNtKMWYYfNwCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3kyFeSIRFWg/X9p5E5YYQnI/AAAAAAAAvBY/r8x-tCpS-OAIVv4hp9dDM9AplSq9BjQogCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LJQ66noWlqg/X9p5FH8X46I/AAAAAAAAvBc/wjEpnj17Pq8mIbezy7MEcWNZmbwNEctvQCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3DYDmHOmzuM/X9p5FVrOGWI/AAAAAAAAvBg/uVplUakx870lvS53N5E1wl1jObAb0yBbwCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SmK23pHbTRg/X9p5FnfGzyI/AAAAAAAAvBk/0iiDuuY6QAAiJC2oeajI68L3wP8KBABGgCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2HbnJvsXl8U/X9p5F_U_pAI/AAAAAAAAvBo/YBN4WWhD_5c_Ps9i71FbRkE4QLlk6-W_wCLcBGAsYHQ/s135/1523-Yotsuba-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1523/",
+      "fetched_at": "2026-05-16T19:10:33.481Z",
+      "raw_id": "/nendoroid/details/n1523/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.687Z",
+      "raw_id": "Nendoroid/1500-1599/1523.json"
+    }
+  ]
+}

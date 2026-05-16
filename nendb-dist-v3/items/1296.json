@@ -1,0 +1,67 @@
+{
+  "num": "1296",
+  "name": {
+    "en": "Nendoroid Rider/Ozymandias",
+    "ja": "ねんどろいど ライダー/オジマンディアス (ねんどろいど らいだー/おじまんでぃあす)",
+    "ko": "라이더/오지만디아스"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9319,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yOJoZvcxgy4/X4NikDNWm-I/AAAAAAABmtE/iWaX7_IAMDkyWNybXrrIca6AwkFZJepwwCLcBGAsYHQ/s270/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yOJoZvcxgy4/X4NikDNWm-I/AAAAAAABmtE/iWaX7_IAMDkyWNybXrrIca6AwkFZJepwwCLcBGAsYHQ/s270/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jEeYzy4DfLA/X4r1Zf3lKvI/AAAAAAABqKs/cfp_hAvysAEYeNtTPopQ92TMqAmKxvrTwCLcBGAsYHQ/s135/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fUXKOKYj1nY/X4r1ZsU0cpI/AAAAAAABqKw/JW2jnDM30a8OXfHBB_F1Ui9Uzmwx2qZvgCLcBGAsYHQ/s135/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--9AAhZ09ljM/X4r1aOOkqzI/AAAAAAABqK0/VtIT7c7Hdes4XtEUU3o6rOdGPYPTawoGgCLcBGAsYHQ/s135/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9yMwcMhqXDg/X4r1aWTgOYI/AAAAAAABqK4/2CJiZyiZUjguhP6G5Xk8vRPle-rUphs0ACLcBGAsYHQ/s135/1296-Rider-Ozymandias-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1296/",
+      "fetched_at": "2026-05-16T19:10:33.341Z",
+      "raw_id": "/nendoroid/details/n1296/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.632Z",
+      "raw_id": "Nendoroid/1200-1299/1296.json"
+    }
+  ]
+}

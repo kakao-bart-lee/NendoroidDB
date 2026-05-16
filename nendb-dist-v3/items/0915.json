@@ -1,0 +1,69 @@
+{
+  "num": "0915",
+  "name": {
+    "en": "Nendoroid Atlas",
+    "ja": "ねんどろいど Atlas (ねんどろいど あとらす)",
+    "ko": "아틀라스"
+  },
+  "series": {
+    "en": "Portal 2",
+    "ja": "Portal2",
+    "ko": "포탈",
+    "code": "portal-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7200,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7gbstevUWh8/X4NefeJ7DnI/AAAAAAABmKk/w6wAFgma1g0gJhcCYcw8d59PRP6HLHo1QCLcBGAsYHQ/s270/915-Atlas-Portal-2-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7gbstevUWh8/X4NefeJ7DnI/AAAAAAABmKk/w6wAFgma1g0gJhcCYcw8d59PRP6HLHo1QCLcBGAsYHQ/s270/915-Atlas-Portal-2-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BZhKx8wF42M/X4rnnnyquQI/AAAAAAABns8/kDwHjEx6G9Uugg_YQdZbn62GX6A3c80mwCLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ck6oPCqkxZE/X4rnn459FmI/AAAAAAABntA/prNgZlj_CRsFOhCcrIikYLJ9phSJezTsgCLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AetDzZ4h0lQ/X4rnoGZYgsI/AAAAAAABntE/-Zu7zivraS4aJFP5C-79wqXnoSezlRWXwCLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VaL_5Zr9fP0/X4rnoVXDnOI/AAAAAAABntI/MD61NuL_1QQQELUTAbtQTA3UrX0UT6zzwCLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EtSnozPBN6A/X4rnopHzO0I/AAAAAAABntM/wNQw9HnJoREIJcAQV2ljPXRnb-BddgIVQCLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZvmQWwuHSsg/X4rno2kggOI/AAAAAAABntQ/8KTewm078lYeUKVZyN-NrUbKp5Cr7qeOACLcBGAsYHQ/s135/915-Atlas-Portal-2-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n915/",
+      "fetched_at": "2026-05-16T19:10:34.871Z",
+      "raw_id": "/nendoroid/details/n915/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.537Z",
+      "raw_id": "Nendoroid/0900-0999/915.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1632",
+  "name": {
+    "en": "Nendoroid Zhang Liang",
+    "ja": "ねんどろいど 張良 (ねんどろいど ちょうりょう)",
+    "ko": "장량"
+  },
+  "series": {
+    "en": "The Legend of Qin",
+    "ja": "秦時明月",
+    "ko": "진시명월",
+    "code": "the-legend-of-qin"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11268,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Pg0VdpjBfek/YL_Utah0FQI/AAAAAAAAyPc/b84Z1PJ5CPUgqjc5dYbNVfFKAwjFMv9CQCLcBGAsYHQ/s270/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Pg0VdpjBfek/YL_Utah0FQI/AAAAAAAAyPc/b84Z1PJ5CPUgqjc5dYbNVfFKAwjFMv9CQCLcBGAsYHQ/s270/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QPMV3Snyftw/YL_czyCncQI/AAAAAAAAyUU/BK9kRSHjZwAboy_AHApWjOOq6iqsq2eIwCLcBGAsYHQ/s135/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jtwHoa6eTaY/YL_c0TwU0bI/AAAAAAAAyUY/ETH-w6E3A0Qejf5Qa-_c9qHaA1-tl25MQCLcBGAsYHQ/s135/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9WFzsSEmW74/YL_c09IDDRI/AAAAAAAAyUc/K9vSEo8v9MYFduAnhnIxgdZDL1hHO8KJQCLcBGAsYHQ/s135/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ytP0mxuAG-0/YL_c1BbBxTI/AAAAAAAAyUg/hZ2PYUzPyUsqv4os_1_ASwkEnbTgBBcZwCLcBGAsYHQ/s135/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tgLsIODh17k/YL_c1BmjriI/AAAAAAAAyUk/JpMBqhK0PG8DnekQKEJYzr6QTpz4_IlvACLcBGAsYHQ/s135/1632-Zhang-Liang-The-Legend-of-Qin-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1632/",
+      "fetched_at": "2026-05-16T19:10:33.548Z",
+      "raw_id": "/nendoroid/details/n1632/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.713Z",
+      "raw_id": "Nendoroid/1600-1699/1632.json"
+    }
+  ]
+}

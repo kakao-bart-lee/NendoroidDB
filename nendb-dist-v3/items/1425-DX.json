@@ -1,0 +1,55 @@
+{
+  "num": "1425-DX",
+  "name": {
+    "en": "Nendoroid Doctor Strange: Endgame Ver. DX",
+    "ja": "ねんどろいど ドクター・ストレンジ エンドゲーム Ver. DX (ねんどろいど どくたー・すとれんじ えんどげーむ Ver. DX)",
+    "ko": "닥터 스트레인지 엔드게임 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9828,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200728/9828/72459/large/2d6885b4010e1b8c09bebdb04011f342.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.662Z",
+      "raw_id": "Nendoroid/1400-1499/1425-DX.json"
+    }
+  ]
+}

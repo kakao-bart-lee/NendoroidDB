@@ -1,0 +1,68 @@
+{
+  "num": "0698",
+  "name": {
+    "en": "Nendoroid Nathan Drake: Adventure Edition",
+    "ja": "ねんどろいど ネイサン・ドレイク アドベンチャー・エディション (ねんどろいど ねいさん・どれいく あどべんちゃー・えでぃしょん)",
+    "ko": "네이선 드레이크"
+  },
+  "series": {
+    "en": "Uncharted 4: A Thief's End",
+    "ja": "アンチャーテッド 海賊王と最後の秘宝",
+    "ko": "언차티드 시리즈",
+    "code": "uncharted-4-a-thief-s-end"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6081,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kyd_E0mK9EE/X4NQBsXM6GI/AAAAAAABl6k/-4hdy90B_XIL9XLF2zNzoUz7rB2A_YNZQCLcBGAsYHQ/s270/698-Nathan%2BDrake-Uncharted-4-A%2BThief%2527s%2BEnd-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kyd_E0mK9EE/X4NQBsXM6GI/AAAAAAABl6k/-4hdy90B_XIL9XLF2zNzoUz7rB2A_YNZQCLcBGAsYHQ/s270/698-Nathan%2BDrake-Uncharted-4-A%2BThief%2527s%2BEnd-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DC6itwpYZkA/X4i2J1AzteI/AAAAAAAAtDE/vt-i-_q6nF4aDnQs0gXHXzAm4YpBXZtgQCLcBGAsYHQ/s135/698-Nathan-Drake-Uncharted-4-A-Thiefs-End-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4pb6b4saseM/X4i2KD2weFI/AAAAAAAAtDI/Jp45b9gGwgAt3ox5wycTfBS7vha9Ws2LwCLcBGAsYHQ/s135/698-Nathan-Drake-Uncharted-4-A-Thiefs-End-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9bExyzJ3EqI/X4i2KSJB6gI/AAAAAAAAtDM/jGlh_x8cTUklCPBCHIFo9whM4bQywUFPACLcBGAsYHQ/s135/698-Nathan-Drake-Uncharted-4-A-Thiefs-End-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bJtUBEsLWUc/X4i2KzTql9I/AAAAAAAAtDQ/X38_aQUBfOQnpo9T6nsG-2SZ-YjugyAtQCLcBGAsYHQ/s135/698-Nathan-Drake-Uncharted-4-A-Thiefs-End-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_PL91VWfTH0/X4i2LVmERCI/AAAAAAAAtDU/PeeWRuLRnI8e7jA1xQyYv5h7FEiBGLrcgCLcBGAsYHQ/s135/698-Nathan-Drake-Uncharted-4-A-Thiefs-End-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n698/",
+      "fetched_at": "2026-05-16T19:10:34.748Z",
+      "raw_id": "/nendoroid/details/n698/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.486Z",
+      "raw_id": "Nendoroid/0600-0699/698.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2129",
+  "name": {
+    "en": "Nendoroid Uncle",
+    "ja": "ねんどろいど おじさん (ねんどろいど おじさん)",
+    "ko": "삼촌"
+  },
+  "series": {
+    "en": "Uncle from Another World",
+    "ja": "異世界おじさん",
+    "ko": "이세계 삼촌",
+    "code": "uncle-from-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14319,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EmVESMuydP0/ZFqWboQXWbI/AAAAAAAA9zo/Ad04OSwTjh0Ji66JujOhyIOlugycn9__gCNcBGAsYHQ/s270/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EmVESMuydP0/ZFqWboQXWbI/AAAAAAAA9zo/Ad04OSwTjh0Ji66JujOhyIOlugycn9__gCNcBGAsYHQ/s270/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HVnsT3mTneo/ZFqb7sL4DpI/AAAAAAAA99E/l25h3VybibwlgzjckKBNgvA63o5X6V2TACNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-n_EIdF6bxlM/ZFqb7x95OxI/AAAAAAAA99M/VDyaaq2RizMOW__tCN1puuJuY_oBb0l4ACNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UiKhLUuHtfY/ZFqb7yoIK5I/AAAAAAAA99I/j4BxuAV01GoKHGS5aZWDc9VkB4TUNzzYACNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HxkEaCeYebM/ZFqb8CsIiMI/AAAAAAAA99Q/6GUkkFJTNLwc-iKqzc4fGWZqFAqhSzRZQCNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L4MfC02qFdQ/ZFqb8W8yznI/AAAAAAAA99Y/QSobLkFhX6glSdl2Ws1c3tyG-cRNk2f2QCNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jqgenvjfltU/ZFqb9L2XLtI/AAAAAAAA99U/TwphsqsCxC4pBIXEZjEkmYCzTxvJ5KcIQCNcBGAsYHQ/s135/2129-Uncle-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2129/",
+      "fetched_at": "2026-05-16T19:10:33.856Z",
+      "raw_id": "/nendoroid/details/n2129/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.833Z",
+      "raw_id": "Nendoroid/2100-2199/2129.json"
+    }
+  ]
+}

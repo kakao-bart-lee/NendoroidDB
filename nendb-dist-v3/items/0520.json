@@ -1,0 +1,72 @@
+{
+  "num": "0520",
+  "name": {
+    "en": "Nendoroid Yamato (ねんどろいど やまと)",
+    "ja": "ねんどろいど 大和 (ねんどろいど やまと)",
+    "ko": "야마토"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7944,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jNuVr7OzaQY/X4NOZdcKNlI/AAAAAAABluo/dW7Q5UwBOoY_1PuqwKf6whMbFtI16Y7NACLcBGAsYHQ/s270/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jNuVr7OzaQY/X4NOZdcKNlI/AAAAAAABluo/dW7Q5UwBOoY_1PuqwKf6whMbFtI16Y7NACLcBGAsYHQ/s270/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hsi24MBAYcI/X4isCaA3FuI/AAAAAAAAsBE/idXcoSTLi5kGY3_3_D8cNsVMQK29_YOOwCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IxIQYOTqfKc/X4isCu5opMI/AAAAAAAAsBM/SjQeKG4V_LIs2SwhQxNs13VpNdepvVbjgCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qve2rKw0Tsk/X4isCiIPmdI/AAAAAAAAsBI/Wx2YRikv7VMRqADTfbPQxlqkOmJ8JJw7wCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QUsbR11vA4Y/X4isDCA8sJI/AAAAAAAAsBQ/MQbRxau0yXkUrJc6Y-FOtHEJUKZCHjcYgCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TCKJqnv4gdk/X4isDd4AutI/AAAAAAAAsBU/d0aEO67zuAk9qbI683YvD0GMKIXk93p8gCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qyaifxjpSlA/X4isDnxWR0I/AAAAAAAAsBY/NyuaZCtlqJEpDubX1JbIO4Ru198ns0gqACLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-9g6pD5Fst_Y/X4isD1kDYBI/AAAAAAAAsBc/zQi3BfEntDkiN5lWuARZAo9nYbsgwgYXACLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-InLBLWW_eMA/X4isCD1kB6I/AAAAAAAAsA8/IlcQ3RVGUOUcPmHu9NS3GXCPz8PxbFEIgCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-A3PMdnYn4fU/X4isCYswheI/AAAAAAAAsBA/Ez2Xq563ntMjizgxJi51DaZWC5UhvylowCLcBGAsYHQ/s135/520-Yamato-Kantai-Collection-Video-Games-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n520/",
+      "fetched_at": "2026-05-16T19:10:34.575Z",
+      "raw_id": "/nendoroid/details/n520/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.423Z",
+      "raw_id": "Nendoroid/0500-0599/520.json"
+    }
+  ]
+}

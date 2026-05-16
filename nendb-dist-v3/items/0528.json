@@ -1,0 +1,67 @@
+{
+  "num": "0528",
+  "name": {
+    "en": "Nendoroid Shoyo Hinata: Karasuno High School Volleyball Club's Jersey Ver. (ねんどろいど ひなたしょうよう からすのはいきゅうぶじゃーじVer.)",
+    "ja": "ねんどろいど 日向翔陽 烏野高校排球部ジャージVer. (ねんどろいど ひなたしょうよう からすのこうこうはいきゅうぶじゃーじVer.)",
+    "ko": "히나타 쇼요 카라스노 고등학교 배구부 저지 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3056,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5178,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t2ls80BaVZY/X4NOblzC61I/AAAAAAABlvI/qKOQDPZvMDQ-j9N4uAb_NAPPRkRA5pECgCLcBGAsYHQ/s270/528B-Shoyo-Hinata-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t2ls80BaVZY/X4NOblzC61I/AAAAAAABlvI/qKOQDPZvMDQ-j9N4uAb_NAPPRkRA5pECgCLcBGAsYHQ/s270/528B-Shoyo-Hinata-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pRbTqfwoLW0/X4isOx467pI/AAAAAAAAsD0/1jjDSgJLBwkh-8GUw1PG8eLFSP-oO0lRwCLcBGAsYHQ/s135/528-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oqLSLjoA-CU/X4isPIIen5I/AAAAAAAAsD4/a9qFzfoex7kY46rNxdhdQPX7AyNrbV0-QCLcBGAsYHQ/s135/528-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fSUN3OXrVr4/X4isPPZcLpI/AAAAAAAAsD8/33hjXTDEFRU0W2X8w29NrkjDDxr6xHjBQCLcBGAsYHQ/s135/528-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CrfpFxG0vPA/X4isPfLrpuI/AAAAAAAAsEA/i3MBbwyq8WUE7pTLtpp5piDzxPXa9DyAACLcBGAsYHQ/s135/528-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n528/",
+      "fetched_at": "2026-05-16T19:10:34.579Z",
+      "raw_id": "/nendoroid/details/n528/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.427Z",
+      "raw_id": "Nendoroid/0500-0599/528.json"
+    }
+  ]
+}

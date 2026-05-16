@@ -1,0 +1,67 @@
+{
+  "num": "1277",
+  "name": {
+    "en": "Nendoroid Thor: Endgame Ver.",
+    "ja": "ねんどろいど ソー エンドゲームVer. (ねんどろいど そー えんどげーむVer.)",
+    "ko": "토르 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9158,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2p9wlhluOKc/X4NieIcoCtI/AAAAAAABmrk/zWWrzMGhpbkBcJnrNTyYcDgof_jMxUKTgCLcBGAsYHQ/s270/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2p9wlhluOKc/X4NieIcoCtI/AAAAAAABmrk/zWWrzMGhpbkBcJnrNTyYcDgof_jMxUKTgCLcBGAsYHQ/s270/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hFI39dPXEPg/X4r0umZvPuI/AAAAAAABqBs/Wwj5cv3vSJIv9Kevg8cloeaAgYc3Tt-nQCLcBGAsYHQ/s135/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-u4xkxyDklsY/X4r0uwE2j9I/AAAAAAABqBw/pDixKti8w8AtpcHesuUbi5iXSWBwGRIcACLcBGAsYHQ/s135/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wdFpjAijr5E/X4r0vCnwaVI/AAAAAAABqB0/LukHnbXzkJs9-6q1jVzPNcOn3fE6IrRjwCLcBGAsYHQ/s135/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sjK6APqx1xc/X4r0vW9GjGI/AAAAAAABqB4/zIMsVX8N5Zgpi_Dirvj1iaKac4QpKEHHACLcBGAsYHQ/s135/1277-Thor-Avengers-Endgame-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1277/",
+      "fetched_at": "2026-05-16T19:10:33.329Z",
+      "raw_id": "/nendoroid/details/n1277/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.627Z",
+      "raw_id": "Nendoroid/1200-1299/1277.json"
+    }
+  ]
+}

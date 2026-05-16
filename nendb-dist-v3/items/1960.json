@@ -1,0 +1,69 @@
+{
+  "num": "1960",
+  "name": {
+    "en": "Nendoroid Yuko Ichihara",
+    "ja": "ねんどろいど 壱原侑子 (ねんどろいど いちはらゆうこ)",
+    "ko": "이치하라 유코"
+  },
+  "series": {
+    "en": "xxxHOLiC",
+    "ja": "xxxHOLiC",
+    "ko": "xxx홀릭",
+    "code": "xxxholic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13482,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KIs3LbRsseU/Y45wRaqyNEI/AAAAAAAA7rE/me_CLOQh3FIBPIm0Iny9vP60cuaEoRr5QCNcBGAsYHQ/s270/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KIs3LbRsseU/Y45wRaqyNEI/AAAAAAAA7rE/me_CLOQh3FIBPIm0Iny9vP60cuaEoRr5QCNcBGAsYHQ/s270/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6OqNLNh0fHU/Y451MSgo26I/AAAAAAAA7xM/LK9mND0f08QyRUW3Y3tFkVRG0nOhPwZsACNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iLny0PLEjME/Y451MfzBdiI/AAAAAAAA7xQ/Uw3zOsVZwewlq8PlkSDztaOm8rXv2dILQCNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z7N7U0BBeIQ/Y451MuUFtgI/AAAAAAAA7xU/CjQ2RvfQojYz1HT0IE7kh8B9sLtKSa8egCNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BTKrRxmbTfA/Y451MxpESyI/AAAAAAAA7xY/xkuI9aJIUI8qugIsgwi-g9uwXr9_l_-zACNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uR0SAoYV1Nw/Y451NOire_I/AAAAAAAA7xc/cTP_aZd3QgkUBCJNgQGHg5J-fOwMHmvzwCNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-OnfBeIQjI1k/Y451Ne8cdeI/AAAAAAAA7xg/Ki_VRePZx4Q2W3XxkltA6m3Obx3cwiGZwCNcBGAsYHQ/s135/1960-Yuko-Ichihara-xxxHolic-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1960/",
+      "fetched_at": "2026-05-16T19:10:33.754Z",
+      "raw_id": "/nendoroid/details/n1960/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.791Z",
+      "raw_id": "Nendoroid/1900-1999/1960.json"
+    }
+  ]
+}

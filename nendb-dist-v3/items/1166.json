@@ -1,0 +1,68 @@
+{
+  "num": "1166",
+  "name": {
+    "en": "Nendoroid Mo Xu",
+    "ja": "ねんどろいど シモン (ねんどろいど しもん)",
+    "ko": "허묵"
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8521,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3aioksRoet4/X4NgniDFxsI/AAAAAAABmc4/55nnoTRcw3AYzCITs6jT_fYwOv_dpT1hgCLcBGAsYHQ/s270/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3aioksRoet4/X4NgniDFxsI/AAAAAAABmc4/55nnoTRcw3AYzCITs6jT_fYwOv_dpT1hgCLcBGAsYHQ/s270/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JWygGx41b5g/X4rxEUnx7RI/AAAAAAABpUs/GspVhQ3n2r0GNlmAP_ogbXEpU4j2q-OGACLcBGAsYHQ/s135/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JFZT-wQpk6Q/X4rxEyHrYZI/AAAAAAABpUw/XE-PBtri4nkO601JR3I2oVaSCe-sT4JGQCLcBGAsYHQ/s135/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZHV8Fs1oXYE/X4rxFK_AEFI/AAAAAAABpU0/ierBm40evmckBtEmx_PAzjYiaHkz4EwWQCLcBGAsYHQ/s135/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1IsjYwBcACE/X4rxFZvt_lI/AAAAAAABpU4/2sjDAE1E5AEgy3dX4Baqwof62OUS0jn4wCLcBGAsYHQ/s135/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-l0LW20i_e08/X4rxFocYwSI/AAAAAAABpU8/QXHjp7icG4gVZjzz-TP3fD_Mnikmn1ZMQCLcBGAsYHQ/s135/1166-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1166/",
+      "fetched_at": "2026-05-16T19:10:33.262Z",
+      "raw_id": "/nendoroid/details/n1166/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.601Z",
+      "raw_id": "Nendoroid/1100-1199/1166.json"
+    }
+  ]
+}

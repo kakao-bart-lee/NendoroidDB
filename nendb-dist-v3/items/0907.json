@@ -1,0 +1,69 @@
+{
+  "num": "0907",
+  "name": {
+    "en": "Nendoroid Geralt",
+    "ja": "ねんどろいど ゲラルト (ねんどろいど げらると)",
+    "ko": "게롤트"
+  },
+  "series": {
+    "en": "The Witcher 3: Wild Hunt",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "ko": "위쳐 시리즈",
+    "code": "the-witcher-3-wild-hunt"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7197,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JSkYOeNsbfM/X4NebU84RxI/AAAAAAABmKE/mAHHhjJjv_YymWihOroRfhjoOkKge5LMwCLcBGAsYHQ/s270/907-Geralt-The-Witcher-3-Wild-Hunt-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JSkYOeNsbfM/X4NebU84RxI/AAAAAAABmKE/mAHHhjJjv_YymWihOroRfhjoOkKge5LMwCLcBGAsYHQ/s270/907-Geralt-The-Witcher-3-Wild-Hunt-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-K-fjwnJPE1Y/X4rnaROlOHI/AAAAAAABnp8/5yeIVnDI1GI_yoYdJJRT0PFtNs-LG1yYgCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hDErVLiDwC8/X4rnamaRwhI/AAAAAAABnqA/rg56pDORn2ckYnphvd0jeGwula92_l8swCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7ThaALObXQU/X4rna-jykFI/AAAAAAABnqE/iZylDgy7V_kXdykNtaYSUxVaiH6poyUZwCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--aMmK6Cq4Aw/X4rnbJTlVwI/AAAAAAABnqI/ig4laijElyQVdaZeJQiCUulTyanNiEyOgCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-P69JBb9HiFI/X4rnbV-thtI/AAAAAAABnqM/ya5tsD9aoKEOFyQJjXDrOr4wVKtYdMWnwCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kaYbDDpW4fM/X4rnbimUUOI/AAAAAAABnqQ/a5tj8eV7_dgqhkYLd0iQfAMz_MPADidtwCLcBGAsYHQ/s135/907-Geralt-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n907/",
+      "fetched_at": "2026-05-16T19:10:34.866Z",
+      "raw_id": "/nendoroid/details/n907/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.535Z",
+      "raw_id": "Nendoroid/0900-0999/907.json"
+    }
+  ]
+}

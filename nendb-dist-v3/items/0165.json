@@ -1,0 +1,70 @@
+{
+  "num": "0165",
+  "name": {
+    "en": "Nendoroid Mayuri Shiina (ねんどろいど しいなまゆり)",
+    "ja": "ねんどろいど 椎名まゆり (ねんどろいど しいなまゆり)",
+    "ko": "시이나 마유리"
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3149,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rgabsOlvT0U/X4NKC1CnD7I/AAAAAAABlSE/rDlRUXPhwM0zyZz9J5sK-0OnHf0iWXJdACLcBGAsYHQ/s270/165-Shiina-Mayuri-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rgabsOlvT0U/X4NKC1CnD7I/AAAAAAABlSE/rDlRUXPhwM0zyZz9J5sK-0OnHf0iWXJdACLcBGAsYHQ/s270/165-Shiina-Mayuri-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-arC_Rp9vvx0/X4dTcMlt1HI/AAAAAAAAqDM/5eZS1Np9nEgr8w9HjN3nfimDTWQAARwAACLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x1WAkZtkuJo/X4dTcXg8heI/AAAAAAAAqDQ/RbvB1F6XXfkuQ9zHSVIDSDs7ZiqUYSi-ACLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VLYwTW7Rfo0/X4dTclpZJjI/AAAAAAAAqDU/ptegkuE_IxIB6HKzU5EsPMAktRcyrNmMwCLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4Iojjjdeh5c/X4dTc28zTFI/AAAAAAAAqDY/CEx0JsqmLS4faWdX1VQ7aOSmdOZRHKY2wCLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xQIMdaxd4II/X4dTdObQ60I/AAAAAAAAqDc/Ha7NrcWwN6oOYdhlwkRmY8YWEI73gRGzQCLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-f2bP3Ibx9RA/X4dTdexjGCI/AAAAAAAAqDg/hQDfibyUh1Y3i8tE7-L2ZJlEomT06jXUQCLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-E1BcUnRC29A/X4dTdvPclAI/AAAAAAAAqDk/CPxrT5bhqCw7Sm0iPbTtqdbkQn-tX_OswCLcBGAsYHQ/s135/165-Shiina-Mayuri-Steins-Gate-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n165/",
+      "fetched_at": "2026-05-16T19:10:33.565Z",
+      "raw_id": "/nendoroid/details/n165/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.305Z",
+      "raw_id": "Nendoroid/0100-0199/165.json"
+    }
+  ]
+}

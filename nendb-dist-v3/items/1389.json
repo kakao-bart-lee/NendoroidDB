@@ -1,0 +1,69 @@
+{
+  "num": "1389",
+  "name": {
+    "en": "Nendoroid Max",
+    "ja": "ねんどろいど マックス (ねんどろいど まっくす)",
+    "ko": "맥스 구프"
+  },
+  "series": {
+    "en": "A Goofy Movie",
+    "ja": "グーフィー・ムービー ホリデーは最高!!",
+    "ko": "디즈니",
+    "code": "a-goofy-movie"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13442,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-weMdu7t4Jn4/Y45wPWA2oqI/AAAAAAAA7qs/R-VyUYfZaPQV-tveZuWeXO0eVrjCIV8lwCNcBGAsYHQ/s270/1389-Max-A-Goofy-Movie-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-weMdu7t4Jn4/Y45wPWA2oqI/AAAAAAAA7qs/R-VyUYfZaPQV-tveZuWeXO0eVrjCIV8lwCNcBGAsYHQ/s270/1389-Max-A-Goofy-Movie-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rVfaYaIxj5E/Y45005NWyhI/AAAAAAAA7tg/LfG-AKk2StM4lr0QFAgSsIoeY3A7az-TwCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0k70bDDMHcs/Y45000OdwbI/AAAAAAAA7tk/91prKr_BrUcLHHIiqu_MprLlgzPl3Db4QCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2L9QM3SmgP8/Y45003evmvI/AAAAAAAA7tc/FN2LQA81fO4GE3LJacfd-5_ZKdb77aYQQCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G19eJesimh4/Y4501uTtA5I/AAAAAAAA7to/1K4grF0JB14XfUgHbO_GdY5tsSHxYjaJQCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ukDfRd_Imzk/Y45019impxI/AAAAAAAA7ts/AxWY1jrYdOQDsHwF418jAMEaiEx3IBRnQCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Jl-yJgroimU/Y4502KS65fI/AAAAAAAA7tw/0jN5IEQaLjUEqV717SRAR_XtQgosDguMQCNcBGAsYHQ/s135/1389-Max-A-Goofy-Movie-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1389/",
+      "fetched_at": "2026-05-16T19:10:33.399Z",
+      "raw_id": "/nendoroid/details/n1389/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.654Z",
+      "raw_id": "Nendoroid/1300-1399/1389.json"
+    }
+  ]
+}

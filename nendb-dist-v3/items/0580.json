@@ -1,0 +1,67 @@
+{
+  "num": "0580",
+  "name": {
+    "en": "Nendoroid Eli Ayase: Training Outfit Ver.",
+    "ja": "ねんどろいど 絢瀬絵里 練習着Ver. (ねんどろいど あやせえり れんしゅうぎVer.)",
+    "ko": "아야세 에리 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5314,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GdcEd7Wi8Yc/X4NOpec-u_I/AAAAAAABlyk/uWfmAU0Dflsng6gyG7QZ2IXN_ZBvG3ysQCLcBGAsYHQ/s270/580-Eli-Ayase-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GdcEd7Wi8Yc/X4NOpec-u_I/AAAAAAABlyk/uWfmAU0Dflsng6gyG7QZ2IXN_ZBvG3ysQCLcBGAsYHQ/s270/580-Eli-Ayase-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jlXsrvRuKWA/X4itXgqARZI/AAAAAAAAsWo/Taax1o2AY2Uy16pP0glspBRPlaACWP5ugCLcBGAsYHQ/s135/580-Eli-Ayase-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hs3ILBfUuHU/X4itX7mN9GI/AAAAAAAAsWw/GzZblggKxX0mRVAmZd4g0og0gfn9yojugCLcBGAsYHQ/s135/580-Eli-Ayase-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XVpdz_YDg2o/X4itX06NCKI/AAAAAAAAsWs/TsQAyOUD2P8o_7pXxQ_kKai7o74XbkJBQCLcBGAsYHQ/s135/580-Eli-Ayase-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mK2aqn4gM0M/X4itYFxu7AI/AAAAAAAAsW0/9TFJrRs0fao2fNDf4k7XPjKduk0_WcJTACLcBGAsYHQ/s135/580-Eli-Ayase-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n580/",
+      "fetched_at": "2026-05-16T19:10:34.660Z",
+      "raw_id": "/nendoroid/details/n580/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.453Z",
+      "raw_id": "Nendoroid/0500-0599/580.json"
+    }
+  ]
+}

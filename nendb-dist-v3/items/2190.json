@@ -1,0 +1,95 @@
+{
+  "num": "2190",
+  "name": {
+    "en": "Nendoroid Lancer/Mélusine",
+    "ja": "ねんどろいど ランサー/メリュジーヌ (ねんどろいど らんさー/めりゅじーぬ)",
+    "ko": "랜서/ 멜뤼진"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트/그랜드 오더",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": "4580828665460",
+  "gsc_product_id": "12197",
+  "gsc_product_num": 14512,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12197",
+    "ja": "https://www.goodsmile.com/ja/product/12197"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230619/14512/116688/large/f1cddf8f97c6994914e664484cdadfb8.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6AVfej-remY/ZKXXRA4LsRI/AAAAAAAA-kw/C9I2KONp_lgRGQUCucaOcA4oou-3WYPiACNcBGAsYHQ/s270/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8MhOYu9d7u8/ZKXmfCZAt8I/AAAAAAAA_Ck/Q1piNA5RhEsxPh4d09UhcJKrqBaqwofigCNcBGAsYHQ/s135/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vhaeO9DLooA/ZKXmfxi89QI/AAAAAAAA_Co/4CqZFQHTxfg3Sqafh4p3obyqUn8-S42qACNcBGAsYHQ/s135/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NmOtdQz0Qyo/ZKXmgS_qoRI/AAAAAAAA_Cs/jNXi1vPTdgYxZof0BE2vNNuKm7GAYM37gCNcBGAsYHQ/s135/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bGuNZ2hQgw0/ZKXmg6dNcpI/AAAAAAAA_Cw/ysl0bEdQ_mgZ3eNw6ilHNhUspdXIrFREQCNcBGAsYHQ/s135/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TrPALR26ERA/ZKXmhfeYIUI/AAAAAAAA_C0/cPy8xTUGNH4jrYDKeJvhREOLOsGBA8tRACNcBGAsYHQ/s135/2190-Lancer-M%25C3%25A9lusine-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230619/14512/116694/large/c3fce51be7f71725fb11650f31d3c291.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230619/14512/116688/large/f1cddf8f97c6994914e664484cdadfb8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12197",
+      "price_local": 7200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:14:59.497Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12197",
+      "fetched_at": "2026-05-16T12:14:59.497Z",
+      "raw_id": "12197"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12197",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12197"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2190/",
+      "fetched_at": "2026-05-16T19:10:33.892Z",
+      "raw_id": "/nendoroid/details/n2190/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.850Z",
+      "raw_id": "Nendoroid/2100-2199/2190.json"
+    }
+  ]
+}

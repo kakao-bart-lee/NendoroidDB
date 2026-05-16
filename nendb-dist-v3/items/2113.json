@@ -1,0 +1,69 @@
+{
+  "num": "2113",
+  "name": {
+    "en": "Nendoroid Kaori Miyazono",
+    "ja": "ねんどろいど 宮園かをり (ねんどろいど みやぞのかをり)",
+    "ko": "미야조노 카오리"
+  },
+  "series": {
+    "en": "Your Lie in April",
+    "ja": "四月は君の嘘",
+    "ko": "4월은 너의 거짓말",
+    "code": "your-lie-in-april"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14321,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5iphPBHNNyc/ZFqWZEFZ_8I/AAAAAAAA9y4/-fxRc9pWNFM9K0qGvKsw9eH2ersdIVSYwCNcBGAsYHQ/s270/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5iphPBHNNyc/ZFqWZEFZ_8I/AAAAAAAA9y4/-fxRc9pWNFM9K0qGvKsw9eH2ersdIVSYwCNcBGAsYHQ/s270/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sDN37LZsl2M/ZFqbrDUabiI/AAAAAAAA94Y/T-W58n1EemIy77pu1WT0z9vn-IgXfko-gCNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tLJbkVEYo8M/ZFqbrmYxjwI/AAAAAAAA94U/Mf-kIW_5RWM7iH4zpyn0O7m5ArKRXU4VACNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TzdDKwZkqf4/ZFqbsBaLG_I/AAAAAAAA94g/SNFBt-a3jXUrn1xuBMXw0PksX1_3k3JTgCNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QmmOIXLWw2w/ZFqbsXfEIpI/AAAAAAAA94c/5xAvh3EbMc8-whr73v8whVF_3o2KpyPaQCNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OQuQDYQkI0U/ZFqbsfA5m6I/AAAAAAAA94k/79_6xstONsgPRGZLEU03Q3O6oVVntHucACNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-oS_51S2lmjE/ZFqbshPs58I/AAAAAAAA94o/JK0APYWVuTUDAScEbBl49oQN0fUkMCiOACNcBGAsYHQ/s135/2113-Kaori-Miyazono-Your-Lie-in-April-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2113/",
+      "fetched_at": "2026-05-16T19:10:33.847Z",
+      "raw_id": "/nendoroid/details/n2113/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.830Z",
+      "raw_id": "Nendoroid/2100-2199/2113.json"
+    }
+  ]
+}

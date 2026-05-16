@@ -1,0 +1,63 @@
+{
+  "num": "2279",
+  "name": {
+    "en": "Ib",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Ib",
+    "ja": null,
+    "ko": null,
+    "code": "ib"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-O6bgD2O-_QM/ZWZfkJ6kTfI/AAAAAAABCbY/eLGat3pD_Bk2FSeMyGOxBko9ngDvlgm7QCNcBGAsYHQ/s270/2279-Ib-Ib-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-O6bgD2O-_QM/ZWZfkJ6kTfI/AAAAAAABCbY/eLGat3pD_Bk2FSeMyGOxBko9ngDvlgm7QCNcBGAsYHQ/s270/2279-Ib-Ib-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VN4ynRZO-MU/ZWZoh89-uDI/AAAAAAABCgo/1R9pND8Mr2wtzm73JSz4N-gh_oc42tMaACNcBGAsYHQ/s135/2279-Ib-Ib-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hIlNadV1u4w/ZWZoinVUHmI/AAAAAAABCgw/-mZywWKy0d8xHkj7bIKxVBpLuO4--H4uwCNcBGAsYHQ/s135/2279-Ib-Ib-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XUsX_dAzTJY/ZWZoi61wCjI/AAAAAAABCg0/njLwK1dv1MsaYZg5DBKTyriQTlc3stCdgCNcBGAsYHQ/s135/2279-Ib-Ib-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GlrAY3Uj3JM/ZWZojmBOTHI/AAAAAAABCg4/oZUQ6NW15_QwyN5KOUCUlJp6GtRc4bAJwCNcBGAsYHQ/s135/2279-Ib-Ib-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RFv0eORILiQ/ZWZokEarweI/AAAAAAABCg8/HWadCWKNnBAGyOCMhuLsAHctmQatFRQUwCNcBGAsYHQ/s135/2279-Ib-Ib-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2279/",
+      "fetched_at": "2026-05-16T19:10:33.961Z",
+      "raw_id": "/nendoroid/details/n2279/"
+    }
+  ]
+}

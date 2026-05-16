@@ -1,0 +1,68 @@
+{
+  "num": "0917",
+  "name": {
+    "en": "Nendoroid Flash: Justice League Edition",
+    "ja": "ねんどろいど フラッシュ ジャスティス・リーグ・エディション (ねんどろいど ふらっしゅ じゃすてぃす・りーぐ・えでぃしょん)",
+    "ko": "플래시"
+  },
+  "series": {
+    "en": "Justice League",
+    "ja": "ジャスティス・リーグ",
+    "ko": "저스티스 리그",
+    "code": "justice-league"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7199,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yp9T1fMGPB8/X4NegTHBkfI/AAAAAAABmKs/ZYbeLEXsf38jVGHsYe2bICu1bfbo396EACLcBGAsYHQ/s270/917-Flash-Justice-League-Edition-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yp9T1fMGPB8/X4NegTHBkfI/AAAAAAABmKs/ZYbeLEXsf38jVGHsYe2bICu1bfbo396EACLcBGAsYHQ/s270/917-Flash-Justice-League-Edition-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4dSXQzQbse4/X4rnqbUa9UI/AAAAAAABnto/tco5acVuc2cDetxlHrJzKCI7aQ_wTVDQQCLcBGAsYHQ/s135/917-The-Flash-Justice-League-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1FaOWLxng-k/X4rnquiMKXI/AAAAAAABnts/t6vz8T0NWgcpTOLGffxcUYOf_-GtUohowCLcBGAsYHQ/s135/917-The-Flash-Justice-League-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WFGgGig0ad0/X4rnqyLD_xI/AAAAAAABntw/3oCg0p77wcggUpCwbbckg79qjxKzBvgqQCLcBGAsYHQ/s135/917-The-Flash-Justice-League-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oF4HgSLMGDE/X4rnrFFGcvI/AAAAAAABnt0/1ofewddv6bE19WFgXYjq_XNqVNduMrb6QCLcBGAsYHQ/s135/917-The-Flash-Justice-League-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vZ7T8DLf79w/X4rnrSXJ7nI/AAAAAAABnt4/A9FfEZLevwYxT0rcvZqEEdnHoUtOgnQzACLcBGAsYHQ/s135/917-The-Flash-Justice-League-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n917/",
+      "fetched_at": "2026-05-16T19:10:34.872Z",
+      "raw_id": "/nendoroid/details/n917/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.537Z",
+      "raw_id": "Nendoroid/0900-0999/917.json"
+    }
+  ]
+}

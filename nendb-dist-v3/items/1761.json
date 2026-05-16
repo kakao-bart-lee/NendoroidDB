@@ -1,0 +1,70 @@
+{
+  "num": "1761",
+  "name": {
+    "en": "Nendoroid Phoenix Wright",
+    "ja": "ねんどろいど 成歩堂龍一 (ねんどろいど なるほどうりゅういち)",
+    "ko": "나루호도 류이치"
+  },
+  "series": {
+    "en": "Phoenix Wright: Ace Attorney",
+    "ja": "逆転裁判",
+    "ko": "역전재판",
+    "code": "phoenix-wright-ace-attorney"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ga4cYEDDcF8/Ya-zLky3LTI/AAAAAAAA2EA/OQYTyL6xY-0rMSuKLzWP-Sz7tEaluxsAQCNcBGAsYHQ/s270/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ga4cYEDDcF8/Ya-zLky3LTI/AAAAAAAA2EA/OQYTyL6xY-0rMSuKLzWP-Sz7tEaluxsAQCNcBGAsYHQ/s270/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Jm5o6J05zVs/Ya-2TLQQGVI/AAAAAAAA2L8/cwUk1qaS6hc63Tr58BxsT3DNPKXSUV1RQCNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jEpemEh6csQ/Ya-2TV-w-TI/AAAAAAAA2MA/N3DAkgLl3fAo0PQhb8bNqTEPwHkpvvdpgCNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y17ZuJCd99w/Ya-2T7VZ4sI/AAAAAAAA2ME/-2PPh4s0N4k3Rux4kuhQX8whLtGiYePWACNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HbwSl5WnngM/Ya-2UOG_PNI/AAAAAAAA2MI/97bZ-o6K2ZkIs25M1qVcpuEny0LApLYbwCNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_JDyHY6oi9Y/Ya-2UGOILhI/AAAAAAAA2MM/mJE-fdO1xYAhPOwVw1g7afp-jQko1v35ACNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QouEwq1eRKY/Ya-2Ufv51KI/AAAAAAAA2MQ/eQoFCSMiseMW4A-ZxUq37LvFOuIIsFfGQCNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dWCsVCKaqqk/Ya-2URPLvlI/AAAAAAAA2MU/CBVulayUnYYllLDnnTLYzgDiL45bf6RRQCNcBGAsYHQ/s135/1761-Phoenix-Wright-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1761/",
+      "fetched_at": "2026-05-16T19:10:33.631Z",
+      "raw_id": "/nendoroid/details/n1761/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.745Z",
+      "raw_id": "Nendoroid/1700-1799/1761.json"
+    }
+  ]
+}

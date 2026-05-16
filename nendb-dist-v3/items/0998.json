@@ -1,0 +1,69 @@
+{
+  "num": "0998",
+  "name": {
+    "en": "Nendoroid Green",
+    "ja": "ねんどろいど グリーン (ねんどろいど ぐりーん)",
+    "ko": "그린"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7587,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h52cQCe9Ydo/X4Ne-5LKRBI/AAAAAAABmQM/uN6P4ZX23-oFQjN_IhFSdsdKNoiK8Z6CQCLcBGAsYHQ/s270/998-Green-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h52cQCe9Ydo/X4Ne-5LKRBI/AAAAAAABmQM/uN6P4ZX23-oFQjN_IhFSdsdKNoiK8Z6CQCLcBGAsYHQ/s270/998-Green-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0jbzCtz2HyM/X4rp8yB5flI/AAAAAAABoOY/Dr_QqFTjx68p75gPIXN4nl34TvL1psQNQCLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-beJFbHmexTQ/X4rp9C3i34I/AAAAAAABoOc/ZGBwubAKyUsqlZ25xiVIduNmwqpbUT0JACLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HGjESLotERk/X4rp9XY_W0I/AAAAAAABoOg/2tnip3Zxwqo1GTduhlJrnKjyadh-y_19ACLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Tk9RUia2xkE/X4rp9vd9VVI/AAAAAAABoOk/0oTfbJaeBVEskK1EzVYz1u-VufQYSDkOwCLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ycHMDr0h7XQ/X4rp95v6ftI/AAAAAAABoOo/zR4w48sItR4w-jsEyzuObq-FVflOWOVuwCLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Ygm6ED4cRk8/X4rp-B8oADI/AAAAAAABoOs/3jAl87WkInkgKW4z36z6fONWzeSkf5HnQCLcBGAsYHQ/s135/998-Green-Pok%25C3%25A9mon-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n998/",
+      "fetched_at": "2026-05-16T19:10:34.917Z",
+      "raw_id": "/nendoroid/details/n998/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.560Z",
+      "raw_id": "Nendoroid/0900-0999/998.json"
+    }
+  ]
+}

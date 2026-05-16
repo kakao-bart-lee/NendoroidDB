@@ -1,0 +1,55 @@
+{
+  "num": "1532-DX",
+  "name": {
+    "en": "Nendoroid Lancer/Altria Pendragon & Dun Stallion",
+    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン＆ドゥン・スタリオン (ねんどろいど らんさー/あるとりあ・ぺんどらごん＆どぅん・すたりおん)",
+    "ko": "랜서/아르토리아 펜드래건 & 던 스탈리온"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10515,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201208/10515/78435/large/e0e35b17f229c4ba856048fe3e232f13.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.689Z",
+      "raw_id": "Nendoroid/1500-1599/1532-DX.json"
+    }
+  ]
+}

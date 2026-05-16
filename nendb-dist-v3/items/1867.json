@@ -1,0 +1,69 @@
+{
+  "num": "1867",
+  "name": {
+    "en": "Nendoroid Aang",
+    "ja": "ねんどろいど アン (ねんどろいど あん)",
+    "ko": "아앙"
+  },
+  "series": {
+    "en": "Avatar: The Last Airbender",
+    "ja": "アバター 伝説の少年アン",
+    "ko": "아앙의 전설",
+    "code": "avatar-the-last-airbender"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zZXXe1ZhZJw/Yp4F37e84zI/AAAAAAAB6wo/F45wGNatTQkvKGg1X-EOqcqTFkhKRZWlgCNcBGAsYHQ/s270/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zZXXe1ZhZJw/Yp4F37e84zI/AAAAAAAB6wo/F45wGNatTQkvKGg1X-EOqcqTFkhKRZWlgCNcBGAsYHQ/s270/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HtQ0N-PDfxA/Yp4NM4xW_vI/AAAAAAAB600/RhTiyPcNStceOFMvY1D4Q5vjCtAovraFgCNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QhR1iyNbwnk/Yp4NNcXcViI/AAAAAAAB604/frD2OJqs7aIRpL-zN_AkDOdsdSHiuEf3ACNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uNFtJmFUiSs/Yp4NN9MChhI/AAAAAAAB608/7HhkRWcSOycnhj3Rb0oAG8msp8j50yrzgCNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dVacX6oHr4I/Yp4NOS7sm4I/AAAAAAAB61A/Er3u5T3LS1YLmfQcrlj77MkuR9Jp6q94gCNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rhcObhM7SPE/Yp4NO-f_lgI/AAAAAAAB61E/raOZulG2Kfg6fPLWUdtCYx0w7ATb___OgCNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PTjVmsTJUdI/Yp4NPe-At2I/AAAAAAAB61I/ZM6gWHlszoQQqEDGbgICkA8jXx6_ukFqwCNcBGAsYHQ/s135/1867-Aang-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1867/",
+      "fetched_at": "2026-05-16T19:10:33.698Z",
+      "raw_id": "/nendoroid/details/n1867/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.771Z",
+      "raw_id": "Nendoroid/1800-1899/1867.json"
+    }
+  ]
+}

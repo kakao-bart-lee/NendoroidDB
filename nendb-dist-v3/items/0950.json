@@ -1,0 +1,68 @@
+{
+  "num": "0950",
+  "name": {
+    "en": "Nendoroid Lancer/Elizabeth Bathory",
+    "ja": "ねんどろいど ランサー/エリザベート・バートリー (ねんどろいど らんさー/えりざべーと・ばーとりー)",
+    "ko": "랜서/엘리자베트 바토리"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7321,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tmjp4Da6xrY/X4NeqgEGRiI/AAAAAAABmM4/2M8ke6X7OmMy8UdZ-GarfPs1r58mmk5PQCLcBGAsYHQ/s270/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tmjp4Da6xrY/X4NeqgEGRiI/AAAAAAABmM4/2M8ke6X7OmMy8UdZ-GarfPs1r58mmk5PQCLcBGAsYHQ/s270/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UYsEXejOH9Q/X4rofNszcfI/AAAAAAABn6k/fYbkw7OU2goCPKJZsJZ3-081-KfOINh_gCLcBGAsYHQ/s135/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UVpPa8Qwu4w/X4rofXpK0PI/AAAAAAABn6o/-qvK8sl83RoA-iIyabxAO40FCxcgCABVgCLcBGAsYHQ/s135/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Zb_lbgKX8YI/X4rofpa3N4I/AAAAAAABn6s/l5v36_2yq-UnyxoYZpnxxZiA_J37YJIfACLcBGAsYHQ/s135/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9EmOXYWEflA/X4rof5mGLbI/AAAAAAABn6w/KyLOoqZB1fMx0ueYEBY3fmU9MgT_aVEhQCLcBGAsYHQ/s135/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hIGNueqM_pE/X4rogMiPw-I/AAAAAAABn60/i6Gww_lZTvojEYmTyWYCDG_t12kc6fLbQCLcBGAsYHQ/s135/950-Lancer-Elizabeth-Bathory-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n950/",
+      "fetched_at": "2026-05-16T19:10:34.890Z",
+      "raw_id": "/nendoroid/details/n950/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.546Z",
+      "raw_id": "Nendoroid/0900-0999/950.json"
+    }
+  ]
+}

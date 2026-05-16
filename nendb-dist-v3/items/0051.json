@@ -1,0 +1,64 @@
+{
+  "num": "0051",
+  "name": {
+    "en": "Yui",
+    "ja": "ねんどろいど ゆい DVDVer. (ねんどろいど ゆい DVDVer.)",
+    "ko": "유이 DVD Ver."
+  },
+  "series": {
+    "en": "Indian Summer",
+    "ja": "こはるびより",
+    "ko": "코하루비요리",
+    "code": "indian-summer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3369,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KiV5UwVsT70/X4MR96LTMVI/AAAAAAAApZo/PK6yBvBl19wbGm2k5sr03jvwHWg1d5kXgCLcBGAsYHQ/s270/051-Yui-Koharu%2BBiyori-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KiV5UwVsT70/X4MR96LTMVI/AAAAAAAApZo/PK6yBvBl19wbGm2k5sr03jvwHWg1d5kXgCLcBGAsYHQ/s270/051-Yui-Koharu%2BBiyori-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1fXQouwz4nU/X4GwjXLd8hI/AAAAAAAApE0/aeGVQBoB1B42Wbc8tiVqKgy_y2j_Rn1IwCLcBGAsYHQ/s135/051-Yui-Koharu-Biyori-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n051/",
+      "fetched_at": "2026-05-16T19:10:33.097Z",
+      "raw_id": "/nendoroid/details/n051/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.275Z",
+      "raw_id": "Nendoroid/0000-0099/051.json"
+    }
+  ]
+}

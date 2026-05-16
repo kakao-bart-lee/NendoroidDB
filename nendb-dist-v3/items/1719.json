@@ -1,0 +1,69 @@
+{
+  "num": "1719",
+  "name": {
+    "en": "Nendoroid Caster/Merlin (Prototype)",
+    "ja": "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
+    "ko": "멀린 프로토타입"
+  },
+  "series": {
+    "en": "Fate/Grand Order Arcade",
+    "ja": "Fate/Grand Order Arcade",
+    "ko": "Fate/Grand Order Arcade",
+    "code": "fate-grand-order-arcade"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11832,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_p1JCC_OPSk/YWSHfH2_oMI/AAAAAAAA0_k/fOc-7z8YkC4hsJcrPHfyrPmq2vAhcrKxwCLcBGAsYHQ/s270/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_p1JCC_OPSk/YWSHfH2_oMI/AAAAAAAA0_k/fOc-7z8YkC4hsJcrPHfyrPmq2vAhcrKxwCLcBGAsYHQ/s270/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4h8ocL-YkqM/YWSayW-ojlI/AAAAAAAA1IE/Sm566ii8B2w-_9xYSJYHseEW1Z0aR5VPwCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uWw-rL_P8LQ/YWSay1wZtZI/AAAAAAAA1II/SHOrufIr4P4IHd9K-iQ2Dcvcfv-jKp2KQCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yLSaM0Z9Odc/YWSazVZ-SWI/AAAAAAAA1IM/5lM-hBDsz0oAhGNYF4HyQ2IbV961MU5cQCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QPSmJ_MOE_Q/YWSa0Cq6rBI/AAAAAAAA1IQ/bnkegLPc6JITWW_oSvHp9xjKeixuX5OFwCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zvBgUwOGVnI/YWSa0lB0MqI/AAAAAAAA1IU/8xpq_vfzSH4I5Bd0yBAqLTup1QNUwT5QgCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ktWOEAsq9qk/YWSa1Odhb7I/AAAAAAAA1IY/fS-D8No3b8AXQ9jw-ypnX0qe9__-HFacQCLcBGAsYHQ/s135/1719-Caster-Merlin-Prototype-Fate-Grand-Order-Arcade-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1719/",
+      "fetched_at": "2026-05-16T19:10:33.605Z",
+      "raw_id": "/nendoroid/details/n1719/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.735Z",
+      "raw_id": "Nendoroid/1700-1799/1719.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1030",
+  "name": {
+    "en": "Nendoroid McCree: Classic Skin Edition",
+    "ja": "ねんどろいど マクリー クラシックスキン・エディション (ねんどろいど まくりー くらしっくすきん・えでぃしょん)",
+    "ko": "제시 맥크리"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7766,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6bsoDn37wC4/X4Nfns7gi5I/AAAAAAABmTA/VI4iS_2-KmwK9CFg2tJyMjppN3n8d0hKQCLcBGAsYHQ/s270/1030-McCree-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6bsoDn37wC4/X4Nfns7gi5I/AAAAAAABmTA/VI4iS_2-KmwK9CFg2tJyMjppN3n8d0hKQCLcBGAsYHQ/s270/1030-McCree-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xFLPu_fhcVQ/X4rru-krgmI/AAAAAAABocw/5Ju5vjkOzDMdMrghqrZceezi9yjDqEHUwCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zadhNz24L-Y/X4rrvHqy3HI/AAAAAAABoc0/gDVGONUJ16crnsEazJaEihG-FlSK8HI4gCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LHffC2M09WU/X4rrvVvXzyI/AAAAAAABoc4/YsXM6biz9ykIjn5JA5MoZNW5R_GA6IftgCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ehErT7LvHWc/X4rrvoD3yLI/AAAAAAABoc8/z8DAR8UaIVQfrBSlNZDo6nite_MPvR8PgCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hZ82Q_oWetc/X4rrvxKBd5I/AAAAAAABodA/uCA08bj8RpwiDnGg1NSzLGpOUuGLqG8pQCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Mu27DvonFmg/X4rrwHxuE-I/AAAAAAABodE/LDYHZarJhgkAHGs_IhKqiE1pSm91o75aQCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-iB7ioQ8b174/X4rrwRKOU4I/AAAAAAABodI/OAKYHWhi-6E-8nfzj74NaLEdRbSMHcDWgCLcBGAsYHQ/s135/1030-McCree-Overwatch-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1030/",
+      "fetched_at": "2026-05-16T19:10:33.152Z",
+      "raw_id": "/nendoroid/details/n1030/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.568Z",
+      "raw_id": "Nendoroid/1000-1099/1030.json"
+    }
+  ]
+}

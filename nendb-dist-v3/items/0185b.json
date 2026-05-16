@@ -1,0 +1,66 @@
+{
+  "num": "0185b",
+  "name": {
+    "en": "Aisaka Taiga",
+    "ja": "ねんどろいど 逢坂大河 セーラー服Ver. (ねんどろいど あいさかたいが せーらーふくver.)",
+    "ko": "아이사카 타이가 세라복 Ver."
+  },
+  "series": {
+    "en": "Toradora!",
+    "ja": "とらドラ！",
+    "ko": "토라도라!",
+    "code": "toradora"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2933,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3396,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SWIqlmsr02A/X4NKK9tIQEI/AAAAAAABlTo/1FugxQjWL-cQeeQbq3QHaRut2O30y4RWwCLcBGAsYHQ/s270/185B-Aisaka-Taiga-Sailor-Suit-Toradora%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SWIqlmsr02A/X4NKK9tIQEI/AAAAAAABlTo/1FugxQjWL-cQeeQbq3QHaRut2O30y4RWwCLcBGAsYHQ/s270/185B-Aisaka-Taiga-Sailor-Suit-Toradora%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8KgaxxiG60M/X4dUNT8O9RI/AAAAAAAAqLc/2A-OX-e6YHw_KfFBmIqmdbSPq1YJ1btZACLcBGAsYHQ/s135/185B-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U0y1qJ9X2hE/X4dUN6eATHI/AAAAAAAAqLg/W5pd3ca9LOgjTBpK7BEn6re2jU1NrIdEwCLcBGAsYHQ/s135/185B-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-W106e8Rjjtw/X4dUOcfmbUI/AAAAAAAAqLk/3Ivj5OlD_Yk2_9GspJK2L21u4z908cqsgCLcBGAsYHQ/s135/185B-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n185b/",
+      "fetched_at": "2026-05-16T19:10:33.692Z",
+      "raw_id": "/nendoroid/details/n185b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.313Z",
+      "raw_id": "Nendoroid/0100-0199/185b.json"
+    }
+  ]
+}

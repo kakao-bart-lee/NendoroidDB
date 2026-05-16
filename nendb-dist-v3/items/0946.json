@@ -1,0 +1,68 @@
+{
+  "num": "0946",
+  "name": {
+    "en": "Nendoroid Haise Sasaki",
+    "ja": "ねんどろいど 佐々木琲世 (ねんどろいど ささきはいせ)",
+    "ko": "사사키 하이세"
+  },
+  "series": {
+    "en": "Tokyo Ghoul:re",
+    "ja": "東京喰種トーキョーグール：re",
+    "ko": "도쿄 구울",
+    "code": "tokyo-ghoul-re"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7338,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ybzRj0_MrCU/X4Neo2_CdHI/AAAAAAABmMo/OOQ4_r2Z50c9ZO33IcjQlhFFQz5ksWR9gCLcBGAsYHQ/s270/946-Haise-Sasaki-Tokyo-Ghoul-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ybzRj0_MrCU/X4Neo2_CdHI/AAAAAAABmMo/OOQ4_r2Z50c9ZO33IcjQlhFFQz5ksWR9gCLcBGAsYHQ/s270/946-Haise-Sasaki-Tokyo-Ghoul-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jCQa-8aJeuQ/X4roZjH1yBI/AAAAAAABn5M/NPivirm4b4cvRDc3B5fQXQ29jVNdCXyMQCLcBGAsYHQ/s135/946-Haise-Sasaki-Tokyo-Ghoulre-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Bxwo78mCcg0/X4roZ7bTSaI/AAAAAAABn5Q/4ZGGEKvazQc7i7HwP0t1TY1OjN77m4DnQCLcBGAsYHQ/s135/946-Haise-Sasaki-Tokyo-Ghoulre-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y3j7JqeRtSw/X4roaDHfrrI/AAAAAAABn5U/q5fxTQ8mdGonGAMFDJFLMneYeR__sse7ACLcBGAsYHQ/s135/946-Haise-Sasaki-Tokyo-Ghoulre-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-StODESe4JHM/X4roaQK6TvI/AAAAAAABn5Y/XLqKfLYpJK8IgOqH9Ejx-wLPkC2VFyT2gCLcBGAsYHQ/s135/946-Haise-Sasaki-Tokyo-Ghoulre-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9cFnbOgXutc/X4roakcO24I/AAAAAAABn5c/eY_6ptYxZPEBAR26zBYM7YfDbntcMy8AgCLcBGAsYHQ/s135/946-Haise-Sasaki-Tokyo-Ghoulre-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n946/",
+      "fetched_at": "2026-05-16T19:10:34.888Z",
+      "raw_id": "/nendoroid/details/n946/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.545Z",
+      "raw_id": "Nendoroid/0900-0999/946.json"
+    }
+  ]
+}

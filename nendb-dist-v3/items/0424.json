@@ -1,0 +1,68 @@
+{
+  "num": "0424",
+  "name": {
+    "en": "Nendoroid Shinobu Oshino (ねんどろいど おしのしのぶ)",
+    "ja": "ねんどろいど 忍野忍 (ねんどろいど おしのしのぶ)",
+    "ko": "오시노 시노부"
+  },
+  "series": {
+    "en": "Nisemonogatari",
+    "ja": "偽物語",
+    "ko": "모노가타리 시리즈",
+    "code": "nisemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6578,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4417,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RAdRilCF9Mg/X4NNtFjcHCI/AAAAAAABloA/mfQGR50hcc8YHok8JLHiCIWEAUMsGZDwACLcBGAsYHQ/s270/424-Shinobu%2BOshino-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RAdRilCF9Mg/X4NNtFjcHCI/AAAAAAABloA/mfQGR50hcc8YHok8JLHiCIWEAUMsGZDwACLcBGAsYHQ/s270/424-Shinobu%2BOshino-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P89HUnMF6p8/X4ddsEXJoBI/AAAAAAAArd8/GK75IaU5x94-_fWDZPCzXNFrKwOGYA3mACLcBGAsYHQ/s135/424-Shinobu-Oshino-Bakemonogatari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_UF_IhxTLlg/X4ddsnBTVVI/AAAAAAAAreA/dRgIIv0K4sk8KlG7hSEaTaTsJZkYzvFXQCLcBGAsYHQ/s135/424-Shinobu-Oshino-Bakemonogatari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1c8F1sXH33w/X4ddtJ6NDlI/AAAAAAAAreE/seWHtagyCb4ieaCfg1Sy-2VKPFhVrYppACLcBGAsYHQ/s135/424-Shinobu-Oshino-Bakemonogatari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GzwGDuCm93s/X4ddtnFZCJI/AAAAAAAAreI/jmIM7o2pT9EzKgp-uEakFOw1TmLdHr2YQCLcBGAsYHQ/s135/424-Shinobu-Oshino-Bakemonogatari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-V0YzGjJwn5g/X4dduMhYfnI/AAAAAAAAreM/Yha6PGCttEAMU3buSJ-FPhymlBtZptDhwCLcBGAsYHQ/s135/424-Shinobu-Oshino-Bakemonogatari-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n424/",
+      "fetched_at": "2026-05-16T19:10:34.520Z",
+      "raw_id": "/nendoroid/details/n424/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.376Z",
+      "raw_id": "Nendoroid/0400-0499/424.json"
+    }
+  ]
+}

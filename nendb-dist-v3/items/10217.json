@@ -1,0 +1,55 @@
+{
+  "num": "10217",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Little Red Riding Hood)",
+    "ja": "ねんどろいどどーる おようふくセット 赤ずきんちゃん (ねんどろいどどーる おようふくせっと あかずきんちゃん)",
+    "ko": "빨간망토 로즈 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10217,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201012/10217/75608/large/39c4959835568143df1ba1d886570c43.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.914Z",
+      "raw_id": "NendoroidDoll/Clothes/10217.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1599",
+  "name": {
+    "en": "Nendoroid Mo Xu: Fox Spirit Ver.",
+    "ja": "ねんどろいど シモン 妖狐Ver. (ねんどろいど しもん ようこVer.)",
+    "ko": "허묵 요우코 Ver."
+  },
+  "series": {
+    "en": "Love&Producer",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "love-producer"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10988,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E79QMW2NYh8/YHSSW4VehMI/AAAAAAAAwpU/b0o0_rcPk_cttcyHIFKHwURp5-vFKqHoQCLcBGAsYHQ/s270/1599-Mo-Xu-Stranger-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E79QMW2NYh8/YHSSW4VehMI/AAAAAAAAwpU/b0o0_rcPk_cttcyHIFKHwURp5-vFKqHoQCLcBGAsYHQ/s270/1599-Mo-Xu-Stranger-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IG7cqV8RRl0/YHSW57eNo6I/AAAAAAAAws0/SUdPwB0kxLI5FQbMYHbatcMkue8t89CRwCLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nCasOd0eaoo/YHSW6KCGsUI/AAAAAAAAws8/Ff2aPvjabGQ8LUWPVew3Fa2NeDHOf6-hACLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wgLdJTLiUZc/YHSW6oox6_I/AAAAAAAAwtA/Y4TYboEN3l0RWD0a1R1BIfu9iH3By8uBgCLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9lG-rzhHLWc/YHSW6-W6oLI/AAAAAAAAwtI/jKB0BpxChZ0BezKpocn0ydBqN643qBjWwCLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tnhqmD96tTI/YHSW68dcYOI/AAAAAAAAwtE/kvLMujZw_fU38XLQFMVOVm5bfqtU5x3bwCLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xrVSifooc1A/YHSW7DxDv5I/AAAAAAAAwtM/tcH7aGwcEScYrvEYR9nzZrxOkW5K_-CXQCLcBGAsYHQ/s135/1599-Mo-Xu-Love-and-Producer-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1599/",
+      "fetched_at": "2026-05-16T19:10:33.527Z",
+      "raw_id": "/nendoroid/details/n1599/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.704Z",
+      "raw_id": "Nendoroid/1500-1599/1599.json"
+    }
+  ]
+}

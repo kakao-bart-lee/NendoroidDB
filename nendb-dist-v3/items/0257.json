@@ -1,0 +1,67 @@
+{
+  "num": "0257",
+  "name": {
+    "en": "Nendoroid Nyaruko (ねんどろいど にゃるこ)",
+    "ja": "ねんどろいど ニャル子 (ねんどろいど にゃるこ)",
+    "ko": "냐루코"
+  },
+  "series": {
+    "en": "Haiyore! Nyaruko-san",
+    "ja": "這いよれ！ニャル子さん",
+    "ko": "기어와라! 냐루코양",
+    "code": "haiyore-nyaruko-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3586,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NAOCQSapGFM/X4NLTWFiwNI/AAAAAAABlY0/aDOTnWG7aRATHUDPZi77e4lrB4fCT3ibACLcBGAsYHQ/s270/257-Nyaruko-Haiyore-Nyaruko-San-W-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NAOCQSapGFM/X4NLTWFiwNI/AAAAAAABlY0/aDOTnWG7aRATHUDPZi77e4lrB4fCT3ibACLcBGAsYHQ/s270/257-Nyaruko-Haiyore-Nyaruko-San-W-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iXEFVd3eZDc/X4dX2EI4jKI/AAAAAAAAqjk/SKUd8Hw-tIwKMZFk3Q_dKondDC-dpkO4gCLcBGAsYHQ/s135/257-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BsuIvXMkDjo/X4dX2AfLKtI/AAAAAAAAqjo/1hgs-cffv6Ez70ZLR7MAi1SZTQEzZtqqgCLcBGAsYHQ/s135/257-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LX-ERWWQYjY/X4dX2hw-dZI/AAAAAAAAqjs/0q_C3VoEj2IZsE3aHwodmBKs484NsM2XACLcBGAsYHQ/s135/257-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ddmcBzCcohM/X4dX20FOyOI/AAAAAAAAqjw/rID6qyAIEvYcrEA4YdsLfr9hC2O1_tsoACLcBGAsYHQ/s135/257-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n257/",
+      "fetched_at": "2026-05-16T19:10:34.147Z",
+      "raw_id": "/nendoroid/details/n257/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.334Z",
+      "raw_id": "Nendoroid/0200-0299/257.json"
+    }
+  ]
+}

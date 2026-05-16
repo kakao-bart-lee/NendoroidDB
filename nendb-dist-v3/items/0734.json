@@ -1,0 +1,67 @@
+{
+  "num": "0734",
+  "name": {
+    "en": "Nendoroid Queen of Pain",
+    "ja": "ねんどろいど クイーン・オブ・ペイン (ねんどろいど くいーん･おぶ･ぺいん)",
+    "ko": "고통의 여왕"
+  },
+  "series": {
+    "en": "DOTA 2",
+    "ja": "Dota 2",
+    "ko": "도타2",
+    "code": "dota-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6217,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-96gVO1woJZk/X4Nc6BjHhXI/AAAAAAABl9g/IDdnwEP7ZOAUtUQMQa9Z6gThtTufd6sAQCLcBGAsYHQ/s270/734-Queen-of-Pain-Dota-2-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-96gVO1woJZk/X4Nc6BjHhXI/AAAAAAABl9g/IDdnwEP7ZOAUtUQMQa9Z6gThtTufd6sAQCLcBGAsYHQ/s270/734-Queen-of-Pain-Dota-2-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XVYcURv-aEA/X4i4Yp5m8JI/AAAAAAAAtS4/8BsKsPl-tDEhRWL99bcb_7F076ioA315wCLcBGAsYHQ/s135/734-Queen-of-Pain-DOTA-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IbFq2hnOFfA/X4i4ZEauacI/AAAAAAAAtS8/lpQos0jdTgYyQv0iktRAxkTrVgzJcptNQCLcBGAsYHQ/s135/734-Queen-of-Pain-DOTA-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0yIJ9AyYv4g/X4i4ZlLlyXI/AAAAAAAAtTA/g9KCR0T8ktA6A5Oene74ZunOq2j8KLlkACLcBGAsYHQ/s135/734-Queen-of-Pain-DOTA-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OK-Qxhn-G08/X4i4abOvUmI/AAAAAAAAtTE/N1krKWoSqcglY0rmaoLT5kG319LC3WQswCLcBGAsYHQ/s135/734-Queen-of-Pain-DOTA-2-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n734/",
+      "fetched_at": "2026-05-16T19:10:34.767Z",
+      "raw_id": "/nendoroid/details/n734/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.495Z",
+      "raw_id": "Nendoroid/0700-0799/734.json"
+    }
+  ]
+}

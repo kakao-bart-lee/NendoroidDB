@@ -1,0 +1,69 @@
+{
+  "num": "1483",
+  "name": {
+    "en": "Nendoroid Rena Ryugu",
+    "ja": "ねんどろいど 竜宮レナ (ねんどろいど りゅうぐうれな)",
+    "ko": "류구 레나"
+  },
+  "series": {
+    "en": "Higurashi: When They Cry - GOU",
+    "ja": "ひぐらしのなく頃に 業",
+    "ko": "쓰르라미 울 적에",
+    "code": "higurashi-when-they-cry-gou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10245,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OdEi_gL7Rxo/X5FKG_SjASI/AAAAAAABrLM/Bb5CE7KFjz0GwqEIsmBuo69bTRWMsiXtACLcBGAsYHQ/s270/1483-Rena-Ryugu-Higurashi-When%2BThey%2BCry%2B-%2BGOU-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OdEi_gL7Rxo/X5FKG_SjASI/AAAAAAABrLM/Bb5CE7KFjz0GwqEIsmBuo69bTRWMsiXtACLcBGAsYHQ/s270/1483-Rena-Ryugu-Higurashi-When%2BThey%2BCry%2B-%2BGOU-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DzFfD9605lc/X5HXWmEwa_I/AAAAAAAAt4c/leyypQcpcGs4wgxVbyHqMvKkADnJOuflwCLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_l6F9NpGAzE/X5HXWmd1PYI/AAAAAAAAt4g/r_dhFU3cLGgCZqwkafyS5sE_u1WveucpwCLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HU7GnAdihQw/X5HXW66dqTI/AAAAAAAAt4k/OiUtpdMJ9gQWDi83YS2OrLXk9g09PHPlwCLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p0QtTLxHZuU/X5HXW-kuspI/AAAAAAAAt4o/CeC8ToO93RsRrYtGkuakAD1Jwi8sSeeAgCLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YcY2XF_YCfA/X5HXXGnqowI/AAAAAAAAt4s/DH0z7o_vZGsDz-KCE919BXX6x2ZLfEWrACLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-KmM48Htj91w/X5HXXZfZ9iI/AAAAAAAAt4w/kZSRSjQYXIE1FRM6c2_YB-o_C_d_jqxyQCLcBGAsYHQ/s135/1483-Rena-Ryugu-Higurashi-When-They-Cry-GOU-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1483/",
+      "fetched_at": "2026-05-16T19:10:33.458Z",
+      "raw_id": "/nendoroid/details/n1483/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.676Z",
+      "raw_id": "Nendoroid/1400-1499/1483.json"
+    }
+  ]
+}

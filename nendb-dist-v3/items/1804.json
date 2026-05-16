@@ -1,0 +1,70 @@
+{
+  "num": "1804",
+  "name": {
+    "en": "Nendoroid j-hope",
+    "ja": "ねんどろいど j-hope",
+    "ko": "제이홉"
+  },
+  "series": {
+    "en": "TinyTAN",
+    "ja": "TinyTAN",
+    "ko": "방탄소년단",
+    "code": "tinytan"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12185,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iktVbzVGWoQ/YhAE0ks_S_I/AAAAAAAA3lA/3TOI82GBj8cUkcEQQBARsoBi2RZQr9j3QCNcBGAsYHQ/s270/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iktVbzVGWoQ/YhAE0ks_S_I/AAAAAAAA3lA/3TOI82GBj8cUkcEQQBARsoBi2RZQr9j3QCNcBGAsYHQ/s270/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-.jpg",
+      "https://1.bp.blogspot.com/-fTnkcTCnpMs/YhAL_MwUX3I/AAAAAAAA3rg/JxV_VIoiAnkt-ZOaojNq1x3RT_DjXJRZwCNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-z8MLA_9vi7w/YhAL_cnD-iI/AAAAAAAA3rk/ExCoS-RslAsYRNkbekKD5Uin6Yn5cAosQCNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oulhhsBViW0/YhAL_tz6XoI/AAAAAAAA3ro/COosqJPOTd4kjhpQBhgZecRkizfOCNQgACNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ymi1wenWA1Q/YhAL_zd8dwI/AAAAAAAA3rs/OJBSS7o38VsZvjksi5nm0vpn-YmYigFJQCNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8QnwvzmrDnE/YhAMANOZAyI/AAAAAAAA3rw/EW34heZftAgqkDH1jr_APGFzsNsZreMRwCNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CVDsefMLyUI/YhAMAQieBOI/AAAAAAAA3r0/9OnTxXMh6Ooma9_5ZIlg-Hke3JLcdsFOQCNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rA4c621PyL0/YhAMAvdyoHI/AAAAAAAA3r4/Dg-O32YW70M1FH65aRBznKLjkdVacb9KACNcBGAsYHQ/s135/1804-j-hope-BTS-TinyTAN-Celebrity-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1804/",
+      "fetched_at": "2026-05-16T19:10:33.658Z",
+      "raw_id": "/nendoroid/details/n1804/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.755Z",
+      "raw_id": "Nendoroid/1800-1899/1804.json"
+    }
+  ]
+}

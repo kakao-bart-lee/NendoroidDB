@@ -1,0 +1,71 @@
+{
+  "num": "1770",
+  "name": {
+    "en": "Nendoroid Trey Clover",
+    "ja": "ねんどろいど トレイ・クローバー (ねんどろいど とれい・くろーばー)",
+    "ko": "트레이 클로버"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12002,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Yrd8jn7P074/Ya-zPAswFxI/AAAAAAAA2Ec/PfK2g5h7ST4vUqnNQRg0W1aKOxy0M1FwwCNcBGAsYHQ/s270/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Yrd8jn7P074/Ya-zPAswFxI/AAAAAAAA2Ec/PfK2g5h7ST4vUqnNQRg0W1aKOxy0M1FwwCNcBGAsYHQ/s270/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ldxCEKa24-U/Ya-2gE16zbI/AAAAAAAA2PE/zDT0naoWfrgYXEL6ROQVm8k4lk8T2CUFwCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WcDayHc3l_k/Ya-2gcWsjRI/AAAAAAAA2PI/UL0J_TNDU9siDHkSLT83zMezsd2zHe5mQCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BnWNWKC-ApU/Ya-2gciJEFI/AAAAAAAA2PM/0FlHY9lGD84jG0qfWBHf_OdHjs1FXLklwCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qIolHXZfqMw/Ya-2gTqjS3I/AAAAAAAA2PQ/NRUNBOURtSQF2q-Oc9JVXMRY3m2lvQ8wgCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OA8dv4Aocv4/Ya-2gnAUmNI/AAAAAAAA2PU/Oezxk0obvUIhQvet9ZNgcKxtvBniV1VrACNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qTwctwLVQ3Q/Ya-2hC9XUoI/AAAAAAAA2PY/veplTp00dpkR7TRvbKMJ8w2_nMspLehywCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MIPCvW_gXIA/Ya-2hTu6q_I/AAAAAAAA2Pc/srFyFGSBh0UswtOyWHr4qqA1P2RBcbg1QCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-IOKB7evtwNo/Ya-2f7MHzVI/AAAAAAAA2PA/ZmkA-x2ieag4BgwigWPhdlP7TH6FMCAugCNcBGAsYHQ/s135/1770-Trey-Clover-Twisted-Wonderlands-Disney-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1770/",
+      "fetched_at": "2026-05-16T19:10:33.637Z",
+      "raw_id": "/nendoroid/details/n1770/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.747Z",
+      "raw_id": "Nendoroid/1700-1799/1770.json"
+    }
+  ]
+}

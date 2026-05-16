@@ -1,0 +1,66 @@
+{
+  "num": "3000",
+  "name": {
+    "en": "Haruhi Suzumiya",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "The Melancholy Of Haruhi Suzumiya",
+    "ja": null,
+    "ko": null,
+    "code": "the-melancholy-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHfu33Dkw4NZx74fdrgLMCfTfW8g0VRD-GdFofy9V-U98VBxvkOhlJiRdOb-_GlmehyphenhyphenwpzhMoM0cONRp7ceYuf7_IT0VwUYVjOH8s9b6E-WLCIqiCFbbjhxG8-vSVzXhnnUftPU6VQjBEUGPeb7kR5vomtr7ZxJ2qLQgr8XLrEXPg_oSraeQLUdUpC-2P4/s270/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHfu33Dkw4NZx74fdrgLMCfTfW8g0VRD-GdFofy9V-U98VBxvkOhlJiRdOb-_GlmehyphenhyphenwpzhMoM0cONRp7ceYuf7_IT0VwUYVjOH8s9b6E-WLCIqiCFbbjhxG8-vSVzXhnnUftPU6VQjBEUGPeb7kR5vomtr7ZxJ2qLQgr8XLrEXPg_oSraeQLUdUpC-2P4/s270/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-ILTtX8124vaQKD2vJhlMiMy092GQaAlDypvxllmzp5iRSsckXAKcSOB76EvJgAb8FBlnYXZCJS9DKteb40juPm-yidGjp3CilXuQHaAjJCXagHpRsuwkTmDb2xQ4qpKaB_mX8iLw25h0ikd2NTB3rt-VXv0INUrbtt67OizSwaGOT0LM95s0IjpJOWj/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBE3Xm4HDokdQ-X2XvZLFELL1NTt-I0zJAshg1znVB1E4zWejkzwWX7N02hUd-FsQtVLN-vhHyeX_-D9nnV3itO_L4K0OIKklBezWM1YK4ZqTe919wtyBBM8b73Arc17vpqOPB3oMtRbTDhngs_n2_34KWfBJtIv81Lpp2It6g0uWB9WQVC-sdQOYcYSaO/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAcMnp7vkl2nJ-ArGbv-T3qDFDwWKuheot81LG1nD_eph9Z9FhRr7pJh-wwIA_F5_YWI8CVNd-Ku6LrqYC3kzc0Cm0PaMiiuq_NlRcz4d07ZU4R9KwjK5hy8yi-ZKzKpC55zN5MbegBnZj2XxhX-fLTLB_c2-gLEnMdJkF8xjwye4fd82c4eY-Kh55JKdO/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbKE26at8b3H_nsBLOghbnrJvOi-hDwr_-7qM53kZuRcmjWojuI2clUPXdN58EVwDqCJrnxProZRGQ2fgCQ9wVEKPsNP6sytbjnuzeLOJ-0PNhjWTosVZiKqgPZLYBYlPZ8UT0yYo4ebYQxHfkUxXXlVjYS_qGTiqJFHaRX5ZjsucccNhPjKCgzPJGK6t/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9eiSRil9kuT6nJ67gnB1SPPE6pPmCmxGagzepaqGQQxO-DhWZ8OFGn4nt4gLc-CnnJfQ4hyphenhyphenFfsddi_lYeGbPf087lADsyzEijhmZUqYXn9rql3HOmkUeltpUfVFHlH4lqj656rXY9jRtqWx4_12Y3YdkOQnPjtXBUz4ey9-sA7v-_E3LhFALDsRo5W3Xy/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuuBYJbeaKneqAEH1Kr6yBUn0gumH1pTqIIhvfdAWeN5eW48ppODECwJGeGPO4b8wYVzvdX0h6Iq4Bssa1ag6UrvKeArDIoiinVoBpWVDrnNFWUhqMyZqBSt2t7cdrXigsV2kuZHn2X2S08gjyoK5uEqKDKKpsDgZU_9rpOWlOxxRtaDatEUL-atDvFCWA/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlN0bt9tQCJQIKQVmnB3Lz8blu1vPIZ45QfFchua73PnnHBBqVr3BDh-5pItKMZGUIIZ4bEtMjd36n3OZJ5O-ngQMcLHneAvRB3t75hC5PSUj5LLNNYxHnIqIGUaCeIi-io5XXyN1THPoEUk0iWq40Tr-s_0dblLAVJu_CdhCuAopdcZGvwVEuhjxkdkIo/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt7Y9v7ndd0FSkuUx5obsWFXOkmvokW7LSGliSw6tUw0Aeio50WJjTvZXQaKKeF7i3DD_sEWda4rsDz4KgUP8ff_igbefcSyRf0VSZN9sRkDEh1S7c-ucOmnTmr2wyD48UFISZZhWLX54Z2-h_AeYi3P5d98IFcQNLwUNDmn9wTShA_ninxaYfE_sxoWrf/s135/3000-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3000/",
+      "fetched_at": "2026-05-16T19:10:34.424Z",
+      "raw_id": "/nendoroid/details/n3000/"
+    }
+  ]
+}

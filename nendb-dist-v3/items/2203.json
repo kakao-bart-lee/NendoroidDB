@@ -1,0 +1,70 @@
+{
+  "num": "2203",
+  "name": {
+    "en": "Nendoroid Nira-chan",
+    "ja": "ねんどろいど にらちゃん (ねんどろいど にらちゃん)",
+    "ko": "니라짱"
+  },
+  "series": {
+    "en": "Zutto Mayonaka De Iinoni",
+    "ja": "ずっと真夜中でいいのに。",
+    "ko": "계속 한밤중이면 좋을 텐데",
+    "code": "zutto-mayonaka-de-iinoni"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14568,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kTcdqq_05_0/ZM6yu5S6YwI/AAAAAAABA80/4viILIe1674OtSGg2kzehHgTic9CsSWwQCNcBGAsYHQ/s270/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kTcdqq_05_0/ZM6yu5S6YwI/AAAAAAABA80/4viILIe1674OtSGg2kzehHgTic9CsSWwQCNcBGAsYHQ/s270/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-10zRSvXjOXI/ZNAWBR-ONUI/AAAAAAABBCo/8WBrP7IsOVECQ3JG85aGskozgCYQXf21QCNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RY4et6ZRlok/ZNAWBtNY18I/AAAAAAABBCs/jMAVNguuZjI2MOH0fv_cRBPs5AHG-MM_ACNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xd72j4OkuQI/ZNAWB_KGnNI/AAAAAAABBCw/LA7g94t8ScQqMl1Gzi-7RDvOmJMEQlN0gCNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CzB2m_hTujE/ZNAWCBLjFMI/AAAAAAABBC0/-dw4Sg1tKQwSPpWmAgxrgNNsIUd-BMhWACNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7U_w03x847Y/ZNAWCTG5u2I/AAAAAAABBC4/FaZbv2Dk-igYxmnxnS05L-FE_dy1ohdrQCNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mXNvlxflim4/ZNAWCwUX46I/AAAAAAABBC8/GOz4afRdBtAtDmJBUKDgHQklFx7LqhaQwCNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-4v6XlAo-sP8/ZNAWDQEf-JI/AAAAAAABBDA/PQ1S1SALhBcTFWGuLxN22lXP8wD2ARa1gCNcBGAsYHQ/s135/2203-Nira-chan-Zutto-Mayonaka-De-Iinoni-Mascot-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2203/",
+      "fetched_at": "2026-05-16T19:10:33.909Z",
+      "raw_id": "/nendoroid/details/n2203/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.854Z",
+      "raw_id": "Nendoroid/2200-2299/2203.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0369",
+  "name": {
+    "en": "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ja": "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ko": "T.M.Revolution"
+  },
+  "series": {
+    "en": "T.M Revolution",
+    "ja": "T.M.Revolution",
+    "ko": "T.M.Revolution",
+    "code": "t-m-revolution"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5133,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4054,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QafmqG0zS0A/X4NM8pYlLXI/AAAAAAABlj0/dGOlDI0zX2gNcb0_Y0LBzYmZC5RRaGywwCLcBGAsYHQ/s270/369-TM-Revolution-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QafmqG0zS0A/X4NM8pYlLXI/AAAAAAABlj0/dGOlDI0zX2gNcb0_Y0LBzYmZC5RRaGywwCLcBGAsYHQ/s270/369-TM-Revolution-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XtUvtoppEtQ/X4dbN-hxioI/AAAAAAAArKA/r6m_cjoI8Do9AEcz1VB0kg5oCME579OTQCLcBGAsYHQ/s135/369-T.M.-Revolution-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wVQgnXEp8co/X4dbOOy1UVI/AAAAAAAArKE/4CIMw8ClQ_0m8k0F8XEw1hi_u55kphCLACLcBGAsYHQ/s135/369-T.M.-Revolution-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YbEr-Di51m0/X4dbOT5qeVI/AAAAAAAArKI/SR76vvZLRGUy1cYGM0IXVOzvkrBM7FuegCLcBGAsYHQ/s135/369-T.M.-Revolution-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6a0jdWuX_vk/X4dbOoTfWzI/AAAAAAAArKM/5MlDKr5j1E87ikANsElhmsWxjP7ZC0DsQCLcBGAsYHQ/s135/369-T.M.-Revolution-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v2ddliEBd8Q/X4dbOhqNFGI/AAAAAAAArKQ/sv3jKm4Qv80-OsPx7xZtvdshKwq9yTFKwCLcBGAsYHQ/s135/369-T.M.-Revolution-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n369/",
+      "fetched_at": "2026-05-16T19:10:34.488Z",
+      "raw_id": "/nendoroid/details/n369/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.363Z",
+      "raw_id": "Nendoroid/0300-0399/369.json"
+    }
+  ]
+}

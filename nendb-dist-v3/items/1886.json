@@ -1,0 +1,71 @@
+{
+  "num": "1886",
+  "name": {
+    "en": "Nendoroid Jade Leech",
+    "ja": "ねんどろいど ジェイド・リーチ (ねんどろいど じぇいど・りーち)",
+    "ko": "제이드 리치"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F3QHZ9AVoWc/Yw_WJ2EYgcI/AAAAAAAA6Yw/LBQPXYGqRZUsmQ-aeiaMWQBOoFwa5sFxwCNcBGAsYHQ/s270/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F3QHZ9AVoWc/Yw_WJ2EYgcI/AAAAAAAA6Yw/LBQPXYGqRZUsmQ-aeiaMWQBOoFwa5sFxwCNcBGAsYHQ/s270/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nbM6XLX-Das/YxEWar1uKxI/AAAAAAAA6f8/pDN5wMLUTh4YrzSMWgqzRDfwFobfLoHlQCNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aGE8Zig3PgI/YxEWbOJUR-I/AAAAAAAA6gA/_qxzjAniurse6fcBi9lN32edfLAFJ4afACNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A4gYgkT5ngg/YxEWbrj5S9I/AAAAAAAA6gE/X4IFa982BhQnHejRQPUdYCTyZwzX7zSWwCNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rwjA7fpLnoo/YxEWcYrjkZI/AAAAAAAA6gI/G43MW5NCTTws5su_E42lN7il4k_AuBmdwCNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cVJCYmxUySM/YxEWcljTyQI/AAAAAAAA6gM/mAYd0ORUfosh3movnFn39mORFfLX0SIBgCNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LpNk0FZZvk0/YxEWdPY2kyI/AAAAAAAA6gQ/BED8pLJVpx0gAVqz10F7HZ5b6hvYqJrJACNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ff5kWf8ktDE/YxEWdhnWjhI/AAAAAAAA6gU/0v4lk6LecEQRoaFTIrwZwQGqh23GOymeACNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-8hTqE3BF4lE/YxEWaFQ3_QI/AAAAAAAA6f4/F0IUe9TzAOs0a9M8_QEdv21g30HS6rz5ACNcBGAsYHQ/s135/1886-Jade-Leech-Twisted-Wonderlands-Disney-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1886/",
+      "fetched_at": "2026-05-16T19:10:33.710Z",
+      "raw_id": "/nendoroid/details/n1886/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.775Z",
+      "raw_id": "Nendoroid/1800-1899/1886.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0415",
+  "name": {
+    "en": "Nendoroid Minami Kurihashi (ねんどろいど くりはしみなみ)",
+    "ja": "ねんどろいど 栗橋みなみ (ねんどろいど くりはしみなみ)",
+    "ko": "쿠리하시 미나미"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4366,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mu18zqg4Kss/X4NNrF9MjrI/AAAAAAABlnc/2J76TnaZu30dPsFbeBFLyEvgP6aQzIQ0wCLcBGAsYHQ/s270/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mu18zqg4Kss/X4NNrF9MjrI/AAAAAAABlnc/2J76TnaZu30dPsFbeBFLyEvgP6aQzIQ0wCLcBGAsYHQ/s270/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wrUv2U6BOsw/X4ddhvYOskI/AAAAAAAArbQ/M6dDjYrnXXcM3PgzlfRO8Qic1Sl10-P-wCLcBGAsYHQ/s135/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-17-2F6bY9OY/X4ddhxDLJxI/AAAAAAAArbU/34w-KSH-tGY-5Ti_NS3SUi-_vjaWoVcVwCLcBGAsYHQ/s135/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NNBzLj1j8EU/X4ddh7TNYRI/AAAAAAAArbY/kxGiaqK2JsAFSNuRYO_Eq0Pj6pZZvmtXACLcBGAsYHQ/s135/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MeeXv8f2jwo/X4ddiD5Z--I/AAAAAAAArbc/vjqXEVOl3ncH0tVP5f71qd4hirvJK313gCLcBGAsYHQ/s135/415-Minami-Kurihashi-Tetsudou-Musume-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n415/",
+      "fetched_at": "2026-05-16T19:10:34.515Z",
+      "raw_id": "/nendoroid/details/n415/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.374Z",
+      "raw_id": "Nendoroid/0400-0499/415.json"
+    }
+  ]
+}

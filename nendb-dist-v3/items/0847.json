@@ -1,0 +1,71 @@
+{
+  "num": "0847",
+  "name": {
+    "en": "Nendoroid D.Va: Classic Skin Edition",
+    "ja": "ねんどろいど D.Va クラシックスキン・エディション (ねんどろいど でぃーば くらしっくすきん・えでぃしょん)",
+    "ko": "D.Va"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6893,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fGCrboMippU/X4Nd14xB9ZI/AAAAAAABmFo/gO9VdZ3Gik8-tWxH2zejYi6g1o9AcWbMQCLcBGAsYHQ/s270/847-D-Va-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fGCrboMippU/X4Nd14xB9ZI/AAAAAAABmFo/gO9VdZ3Gik8-tWxH2zejYi6g1o9AcWbMQCLcBGAsYHQ/s270/847-D-Va-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-M2VNhC2WK8Q/X4rjGCpHI2I/AAAAAAABnQ8/72oz7uU7rQ0gv3TSHi5p7yi1_ZGhsX_fACLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SsE12d7VYnc/X4rjGeWAx7I/AAAAAAABnRA/ReifPx6ILfETR-jvCppDQ7MmczeUhz5NwCLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TyHwkGH3vyc/X4rjG7EkxnI/AAAAAAABnRE/lt-ZTBiWMskrSSS_Twqdi1SBResePmSTQCLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rDIxk9xtux4/X4rjG30wsYI/AAAAAAABnRI/971rKAuLWTc0JkQtiUkwPYaSEArTpfLgACLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tkiqXHQB-cg/X4rjHIQSa2I/AAAAAAABnRM/SxlwtrkbuX8ZWj-F3za2dktRyK_v4WETgCLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-H2y3JYw4Dlo/X4rjHlilruI/AAAAAAABnRQ/yjWQWvQjccUXm24WFCX2GXfG3tzaAch1ACLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-reloAQt3mRM/X4rjH1TmOMI/AAAAAAABnRU/ZetUzUWLkT43MaDcYWAlmL6N5-fHMtQaQCLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-REM0bvsuFFs/X4rjGJ0W3SI/AAAAAAABnQ4/fOx8q5IIohkLzh9VeRXYg7zTGi0EmH06QCLcBGAsYHQ/s135/847-D.VA-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n847/",
+      "fetched_at": "2026-05-16T19:10:34.833Z",
+      "raw_id": "/nendoroid/details/n847/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.521Z",
+      "raw_id": "Nendoroid/0800-0899/847.json"
+    }
+  ]
+}

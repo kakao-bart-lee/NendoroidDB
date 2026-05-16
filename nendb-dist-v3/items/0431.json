@@ -1,0 +1,70 @@
+{
+  "num": "0431",
+  "name": {
+    "en": "Nendoroid Ooi (ねんどろいど おおい)",
+    "ja": "ねんどろいど 大井 (ねんどろいど おおい)",
+    "ko": "오오이"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4452,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--Ja7ewsBZXE/X4NNuyN49rI/AAAAAAABloc/Dzn5v2c8PhAC4oBhgCbZgdiWPEBJTa_OQCLcBGAsYHQ/s270/431-Ooi-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--Ja7ewsBZXE/X4NNuyN49rI/AAAAAAABloc/Dzn5v2c8PhAC4oBhgCbZgdiWPEBJTa_OQCLcBGAsYHQ/s270/431-Ooi-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GxFXQ0JWmlE/X4dd43lGaKI/AAAAAAAArgM/9pKoSFT2kXcYW2RJMZcs0d3gpRZVOfXYACLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jGSwFjXg5-A/X4dd5fKLq6I/AAAAAAAArgQ/7_MgsHvWs9w5oPQb3HJhE6BDIJvZk5C9gCLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lxzBwv7eVAg/X4dd50yUQoI/AAAAAAAArgU/07vyimCumG86V_wXB744lvr6gcfkMm_vwCLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-t34nkSdwbUM/X4dd6Ys7fcI/AAAAAAAArgY/iEwKBaOlpv0XbEsaGryvbHtFKzOIAsP5QCLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fieAjzZ3A20/X4dd6q3oqjI/AAAAAAAArgc/0u9GUk91B9gV68FJezhxxZnQ0oatossqwCLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NJcZWw4SEe8/X4dd6_Vk8rI/AAAAAAAArgg/ifHLACDcnCQMmtL9lLNMetHEnasBRIy9wCLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-JpjKC4RCGKU/X4dd7KhYuVI/AAAAAAAArgk/rm-R0jD9jFY9ltC_DIuMQDXrDVrEzRDmACLcBGAsYHQ/s135/431-Ooi-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n431/",
+      "fetched_at": "2026-05-16T19:10:34.525Z",
+      "raw_id": "/nendoroid/details/n431/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.378Z",
+      "raw_id": "Nendoroid/0400-0499/431.json"
+    }
+  ]
+}

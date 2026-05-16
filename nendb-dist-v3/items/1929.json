@@ -1,0 +1,68 @@
+{
+  "num": "1929",
+  "name": {
+    "en": "Nendoroid Shovel Knight",
+    "ja": "ねんどろいど ショベルナイト (ねんどろいど しょべるないと)",
+    "ko": "삽질 기사"
+  },
+  "series": {
+    "en": "Shovel Knight",
+    "ja": "ショベルナイト",
+    "ko": "삽질 기사",
+    "code": "shovel-knight"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13054,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nw640Bbh3w4/Yw_WZ6cwVJI/AAAAAAAA6bQ/xt6VU_md9kAIvLvuF6Kyx71eBVKvItq6gCNcBGAsYHQ/s270/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nw640Bbh3w4/Yw_WZ6cwVJI/AAAAAAAA6bQ/xt6VU_md9kAIvLvuF6Kyx71eBVKvItq6gCNcBGAsYHQ/s270/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VOdHEysmc3Y/YxEYH3SdYJI/AAAAAAAA6uo/w7-K_SWFyKseerO9VdtwYoXjNkgGipFuwCNcBGAsYHQ/s135/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eOzQ6--btDA/YxEYIck__tI/AAAAAAAA6us/GVzes-3KBtYH_y6is1nh592gQOKG4us8wCNcBGAsYHQ/s135/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IKB5VG6Nw0w/YxEYIz4h4EI/AAAAAAAA6uw/nZQ3lYuX9rspLE2Og8aqDaYef0IFz-3pQCNcBGAsYHQ/s135/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JfeYt9K6hyk/YxEYJU0pVhI/AAAAAAAA6u0/yLAsFC6jBswTEYxdx5ZLsbJREuQISxkmACNcBGAsYHQ/s135/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mX1RbdKlApw/YxEYJ03tS5I/AAAAAAAA6u4/6O_T9bflm2wd3FJC378kP2Oh-U5zNZXrgCNcBGAsYHQ/s135/1929-Shovel-Knight-Shovel-Knight-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1929/",
+      "fetched_at": "2026-05-16T19:10:33.735Z",
+      "raw_id": "/nendoroid/details/n1929/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.784Z",
+      "raw_id": "Nendoroid/1900-1999/1929.json"
+    }
+  ]
+}

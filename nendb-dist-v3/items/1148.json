@@ -1,0 +1,69 @@
+{
+  "num": "1148",
+  "name": {
+    "en": "Nendoroid The Trapper",
+    "ja": "ねんどろいど トラッパー (ねんどろいど とらっぱー)",
+    "ko": "트래퍼"
+  },
+  "series": {
+    "en": "Dead by Daylight",
+    "ja": "Dead By Daylight",
+    "ko": "DEAD BY DAYLIGHT",
+    "code": "dead-by-daylight"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-J7nXLEjoZeE/X4NgeLR7XjI/AAAAAAABmbk/hDuo5bS6UfcqZ0N0Khv-kl8Qyh_uXKZawCLcBGAsYHQ/s270/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-J7nXLEjoZeE/X4NgeLR7XjI/AAAAAAABmbk/hDuo5bS6UfcqZ0N0Khv-kl8Qyh_uXKZawCLcBGAsYHQ/s270/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8NG8g0VuF28/X4rwgi-7qKI/AAAAAAABpMk/YyMO2xYs--0I-spH5W-22y5msdkI3ulfgCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pdvUCsHHezg/X4rwhNf_oRI/AAAAAAABpMo/G_pd_ChYhuUW6EqRIU5NMtuaIMc9lkLcwCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wM3vtsVVKBA/X4rwhYjjCwI/AAAAAAABpMs/W0zSdqyk4gsXSIY5GSPHjQAVSVcmuWBzgCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rmfyJsY75Ho/X4rwhtPr_QI/AAAAAAABpMw/l_yKPe0UJDEtbPcB_gvAk8Cino5a1aNggCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Kf1BCoC0elk/X4rwh83ng6I/AAAAAAABpM0/NLp8kcU0LuQWxtvLlST-Ei4lvUYFFUO-wCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Rd1v0avQXRo/X4rwiLyqDnI/AAAAAAABpM4/UWjw2TrL6swrkyIJYBsj-MFHS0mPz6_7wCLcBGAsYHQ/s135/1148-The-Trapper-Dead-by-Daylight-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1148/",
+      "fetched_at": "2026-05-16T19:10:33.250Z",
+      "raw_id": "/nendoroid/details/n1148/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.596Z",
+      "raw_id": "Nendoroid/1100-1199/1148.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0476",
+  "name": {
+    "en": "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)",
+    "ja": "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
+    "ko": "황 링인"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4722,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pvMmi5MKC5I/X4NN6iWmVeI/AAAAAAABlrU/OFDSmeSTrLYxNLD8NBfuLAOipbXVsJTGgCLcBGAsYHQ/s270/476-Lingyin-Huang-IS-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pvMmi5MKC5I/X4NN6iWmVeI/AAAAAAABlrU/OFDSmeSTrLYxNLD8NBfuLAOipbXVsJTGgCLcBGAsYHQ/s270/476-Lingyin-Huang-IS-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tmjhV7YCaD4/X4dfBpXmpcI/AAAAAAAArvM/u3LyVxAyLrUh-v9PGeyA4ojfOtBg4i36QCLcBGAsYHQ/s135/476-Lingyin-Huang-Infinite-Stratos-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-o3RHewvnzlk/X4dfB8F_1-I/AAAAAAAArvQ/CTNWtsckK9cAzkr9PK8tOSH-8ioWsUQMACLcBGAsYHQ/s135/476-Lingyin-Huang-Infinite-Stratos-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h-GRAmRi6FM/X4dfCGLM6aI/AAAAAAAArvU/fQR2aJI3d_gxiorL6YunNQ06UiGHp1OwwCLcBGAsYHQ/s135/476-Lingyin-Huang-Infinite-Stratos-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TI0wyREETsk/X4dfCZSIvJI/AAAAAAAArvY/BYj-hAIGQxMI8MDoQYzvZsjaFXEuBpnOACLcBGAsYHQ/s135/476-Lingyin-Huang-Infinite-Stratos-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n476/",
+      "fetched_at": "2026-05-16T19:10:34.550Z",
+      "raw_id": "/nendoroid/details/n476/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.389Z",
+      "raw_id": "Nendoroid/0400-0499/476.json"
+    }
+  ]
+}

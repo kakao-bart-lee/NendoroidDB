@@ -1,0 +1,68 @@
+{
+  "num": "0831",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: 10th Anniversary Ver.",
+    "ja": "ねんどろいど 初音ミク 10th Anniversary Ver. (ねんどろいど はつねみく 10th あにばーさりー Ver.)",
+    "ko": "하츠네 미쿠 10th Anniversary Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6680,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kTYDvLNm874/X4Ndxm4T4BI/AAAAAAABmEk/8RihwRyJpbYicTeTrYsppQVjYWu_pFi1wCLcBGAsYHQ/s270/831-Hatsune-Miku-10th-Anniversary-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kTYDvLNm874/X4Ndxm4T4BI/AAAAAAABmEk/8RihwRyJpbYicTeTrYsppQVjYWu_pFi1wCLcBGAsYHQ/s270/831-Hatsune-Miku-10th-Anniversary-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WClCR8QzYAY/X4rioYwkPHI/AAAAAAABnKU/ZSG82_zmBMUQ74k4XzriwY9-QM8vsK6vwCLcBGAsYHQ/s135/831-Hatsune-Miku-3.jpg",
+      "https://1.bp.blogspot.com/-lmA9CdDIMiU/X4riojKHFCI/AAAAAAABnKY/a-WHIjAecTA5-CWPf89DoKjjhXVIoWHEgCLcBGAsYHQ/s135/831-Hatsune-Miku-4.jpg",
+      "https://1.bp.blogspot.com/-UOhqvXvNA8s/X4riovQ2esI/AAAAAAABnKc/qk8yDyUVq9061CPcvWSoSaoY3kK8C_5dQCLcBGAsYHQ/s135/831-Hatsune-Miku-5.jpg",
+      "https://1.bp.blogspot.com/-sYb_Q75gkTE/X4rio6ThmcI/AAAAAAABnKg/ZVXGTePsvRE51rzdiBLPM0wGrypxBghgwCLcBGAsYHQ/s135/831-Hatsune-Miku-6.jpg",
+      "https://1.bp.blogspot.com/-yQjkcqQIeq8/X4ripR6HadI/AAAAAAABnKk/bALBy3rS2BEG-iLsNna1JWvFtzjtLqSjgCLcBGAsYHQ/s135/831-Hatsune-Miku-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n831/",
+      "fetched_at": "2026-05-16T19:10:34.824Z",
+      "raw_id": "/nendoroid/details/n831/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.517Z",
+      "raw_id": "Nendoroid/0800-0899/831.json"
+    }
+  ]
+}

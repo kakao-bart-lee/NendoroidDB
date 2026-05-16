@@ -1,0 +1,70 @@
+{
+  "num": "1877",
+  "name": {
+    "en": "Nendoroid Maya Amano",
+    "ja": "ねんどろいど 天野舞耶 (ねんどろいど あまのまや)",
+    "ko": "아마노 마야"
+  },
+  "series": {
+    "en": "PERSONA2 Eternal Punishment.",
+    "ja": "ペルソナ2 罰",
+    "ko": "페르소나2",
+    "code": "persona2-eternal-punishment"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12680,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2xl_auyYinM/Yp4F59stezI/AAAAAAAB6xI/uJ2hjDBabu4QxjZZ8rLAfnB5lCdFhZG5gCNcBGAsYHQ/s270/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2xl_auyYinM/Yp4F59stezI/AAAAAAAB6xI/uJ2hjDBabu4QxjZZ8rLAfnB5lCdFhZG5gCNcBGAsYHQ/s270/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vt8FoW8Til4/Yp4NYMHbCvI/AAAAAAAB63E/dkVWqjfLZWUs2TcxYTlWJL8w8-SCZuDFwCNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zVDslOGPKPQ/Yp4NYWdz3xI/AAAAAAAB63I/nUt-9uedBgoIo49Bj184ByWNsdlBCaozwCNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0-W-pmJGzcs/Yp4NY1wSd0I/AAAAAAAB63Q/hlLQI-gtXL8NdheihnhQBDH2SnUrLY7VwCNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0WJ04XiNk6Q/Yp4NY90afaI/AAAAAAAB63M/EGeDTVuj35s7lN6NZaK8FhIsKeP91o0jACNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--jtYKX1AUzA/Yp4NZMMGpFI/AAAAAAAB63U/QfSvTzzE5Lcfvz36Cy6STKipSaxVrB5bgCNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FHYn7j0kNQ0/Yp4NZciK2XI/AAAAAAAB63c/6waCU1BDjlMirNW7Wu9ETt7g54_h5EQsACNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-M9duP81iA0s/Yp4NZbtsbaI/AAAAAAAB63Y/wpP60Oj5Vl0sCvlLSt_KdqeRoj6CbWL2ACNcBGAsYHQ/s135/1877-Maya-Amano-Persona-2-Innocent-Sin-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1877/",
+      "fetched_at": "2026-05-16T19:10:33.703Z",
+      "raw_id": "/nendoroid/details/n1877/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.773Z",
+      "raw_id": "Nendoroid/1800-1899/1877.json"
+    }
+  ]
+}

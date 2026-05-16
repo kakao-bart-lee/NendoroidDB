@@ -1,0 +1,69 @@
+{
+  "num": "0189",
+  "name": {
+    "en": "Nendoroid Rin Kagamine : Cheerful Ver. (ねんどろいど かがみねりん おうえんver.)",
+    "ja": "ねんどろいど 鏡音リン 応援Ver. (ねんどろいど かがみねりん おうえんver.)",
+    "ko": "카가미네 린 응원 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 02 : Rin/Len Kagamine",
+    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-rin-len-kagamine"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3243,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rbJlBioiWUw/X4NKMeM0XSI/AAAAAAABlT4/ly5APalJav0JFtAHCQty3e25T9TUvJZ3gCLcBGAsYHQ/s270/189-Kagamine-Rin-Support-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rbJlBioiWUw/X4NKMeM0XSI/AAAAAAABlT4/ly5APalJav0JFtAHCQty3e25T9TUvJZ3gCLcBGAsYHQ/s270/189-Kagamine-Rin-Support-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FsrsMXkDd-M/X4dUVH1-lXI/AAAAAAAAqMc/CRqwsJ9MJQY8-o4B_o0c4kb-isW4mRI1gCLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QQ5iBGHCOq4/X4dUWjkChRI/AAAAAAAAqMg/zMQZ1-s8eM0q3FGRtijza0y13q9KmBohgCLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nwm56Fonhzw/X4dUW2zffGI/AAAAAAAAqMk/MYXXeE3PesA7np5BDf2gQ1JHElr8ptHAACLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VMPfHWIm8WI/X4dUXXkVoOI/AAAAAAAAqMo/ecQ2aELucdgM1PP2QZc_ic01qyfhv2S_QCLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EZ32Gu9abkw/X4dUXomHqlI/AAAAAAAAqMs/43KBJpcHjTkSvdF2IXc7DTY8gOWGvhhggCLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-aX1KB_3n6jY/X4dUX5g_zZI/AAAAAAAAqMw/UtzovXBIW9I-GMb9hNOR_dqE4E3O_Fl-wCLcBGAsYHQ/s135/189-Kagamine-Rin-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n189/",
+      "fetched_at": "2026-05-16T19:10:33.717Z",
+      "raw_id": "/nendoroid/details/n189/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.315Z",
+      "raw_id": "Nendoroid/0100-0199/189.json"
+    }
+  ]
+}

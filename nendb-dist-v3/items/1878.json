@@ -1,0 +1,69 @@
+{
+  "num": "1878",
+  "name": {
+    "en": "Nendoroid Elaina",
+    "ja": "ねんどろいど イレイナ (ねんどろいど いれいな)",
+    "ko": "일레이나"
+  },
+  "series": {
+    "en": "Wandering Witch: The Journey of Elaina",
+    "ja": "魔女の旅々",
+    "ko": "마녀의 여행",
+    "code": "wandering-witch-the-journey-of-elaina"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12678,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4VnhK9moc6Q/Yp4F6FPlgxI/AAAAAAAB6xM/E_1etZjr9yAf9KviyG9QNQ_kAy0aOBGZwCNcBGAsYHQ/s270/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4VnhK9moc6Q/Yp4F6FPlgxI/AAAAAAAB6xM/E_1etZjr9yAf9KviyG9QNQ_kAy0aOBGZwCNcBGAsYHQ/s270/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-62fE9lQhhQ0/Yp4NZlRmYUI/AAAAAAAB63g/xuzv4gXUr9I2gszOQPgKgnxow1Wwuhn0QCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QX5KVAo_OhE/Yp4NZ6hZFTI/AAAAAAAB63k/FhbjbebgtBQbRNW_zAB3n6tTtSDfVNQIgCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FQV-R80CdHg/Yp4NZz91LlI/AAAAAAAB63o/LCIhyagaQWI_p89SrIh9rTPxnY0YALMOQCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_JCSiSCYnfM/Yp4NaHarmSI/AAAAAAAB63s/PinHzs2RgKIuUwKrnkkAam8wt9MI15XVQCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-taMhbaYjnYk/Yp4NaSrCfAI/AAAAAAAB63w/g_bJGPei1aMOu1qY85W5GCRa4yfKhRTYQCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ilGdiIzg9i0/Yp4NaR8hYYI/AAAAAAAB630/yH9d69Jo2988jB8pjYcIDjG58pHoHgtFwCNcBGAsYHQ/s135/1878-Elaina-Wandering-Witch-The-Journey-of-Elaina-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1878/",
+      "fetched_at": "2026-05-16T19:10:33.704Z",
+      "raw_id": "/nendoroid/details/n1878/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.773Z",
+      "raw_id": "Nendoroid/1800-1899/1878.json"
+    }
+  ]
+}

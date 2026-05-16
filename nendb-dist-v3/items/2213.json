@@ -1,0 +1,70 @@
+{
+  "num": "2213",
+  "name": {
+    "en": "Nendoroid Austria",
+    "ja": "ねんどろいど オーストリア (ねんどろいど おーすとりあ)",
+    "ko": "오스트레일리아"
+  },
+  "series": {
+    "en": "Hetalia World★Stars",
+    "ja": "アニメ「ヘタリア World★Stars」",
+    "ko": "헤타리아",
+    "code": "hetalia-world-stars"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14695,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7nBUrRypDz8/ZM6yxwa_jlI/AAAAAAABA9Y/6JzWMc-zERgLtlYpdXJEbBV22nTosGpxgCNcBGAsYHQ/s270/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7nBUrRypDz8/ZM6yxwa_jlI/AAAAAAABA9Y/6JzWMc-zERgLtlYpdXJEbBV22nTosGpxgCNcBGAsYHQ/s270/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r_wB-HY6uk8/ZNAWVFGXPPI/AAAAAAABBGg/-YlLH4-WWksZsB5Phrn9lnwGI8MadHgXACNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zpmouEcQC30/ZNAWVpYwQZI/AAAAAAABBGk/PqAF6j9-lUostpAbcYqo-PcZ7QmkWFTUQCNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-H45zy9TnDVE/ZNAWV6VdQDI/AAAAAAABBGo/5lHFJhWJf60OLogvtMGTk03Tjr8ltJ29wCNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6aTJRg1IUS4/ZNAWVx4DH6I/AAAAAAABBGs/t80HguYqUSE5PUtDHsWmvwaRNccXo13RgCNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cngcyTll8dw/ZNAWWWKrLiI/AAAAAAABBGw/LJ9Sz5vxfHYjUyMuN8Sp-Y0OzHu4OhqeACNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Tz3o1fsz1yA/ZNAWWlkC5YI/AAAAAAABBG0/_MKlAV2r_loi6IW9LVCI7t8wRflH6hY6QCNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-nMnrmmZjZtU/ZNAWWxEkC2I/AAAAAAABBG4/mUG8G6x-VBI4EGiAmliFrBJ-06DEtxv5ACNcBGAsYHQ/s135/2213-Austria-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2213/",
+      "fetched_at": "2026-05-16T19:10:33.919Z",
+      "raw_id": "/nendoroid/details/n2213/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.856Z",
+      "raw_id": "Nendoroid/2200-2299/2213.json"
+    }
+  ]
+}

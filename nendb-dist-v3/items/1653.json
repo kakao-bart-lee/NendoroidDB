@@ -1,0 +1,69 @@
+{
+  "num": "1653",
+  "name": {
+    "en": "Nendoroid Akai Haato",
+    "ja": "ねんどろいど 赤井はあと (ねんどろいど あかいはあと)",
+    "ko": "아카이 하아토"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11622,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-f4eBNOOm_yI/YS6JqAJQhBI/AAAAAAAAz8c/iqXJ30Y9R-cAotsM9u6YB0lngK05J-bQgCLcBGAsYHQ/s270/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-f4eBNOOm_yI/YS6JqAJQhBI/AAAAAAAAz8c/iqXJ30Y9R-cAotsM9u6YB0lngK05J-bQgCLcBGAsYHQ/s270/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IlkheGL0Yvw/YS6MMnsodZI/AAAAAAAA0BU/FkqdVJZDZsExn_bBmkRHqPyvcEShMZD9wCLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KbFyUDo1wQE/YS6MNNvEcnI/AAAAAAAA0BY/jXMJOIT1VJYP9ZvSnn0litED8RTjr6JtACLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZM8yiNcKMuw/YS6MNXXmh-I/AAAAAAAA0Bc/By7EIUUKVXIDt6HlSeisK2TwzMfGFx44ACLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xr5piWH4DA8/YS6MNapvSSI/AAAAAAAA0Bg/MAmDaLGTv0UFm3-OE3NooAu7WavrEeacACLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1C53ATB1jVI/YS6MOItqJQI/AAAAAAAA0Bk/mSob_-WkfvU751Rl0W6D2A1XAK9lZBwhQCLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XYaIEgqOKQ8/YS6MOVRZgaI/AAAAAAAA0Bo/1Q2V4IGt8r0axkZ_eC9kgmkbRlLcjxnWQCLcBGAsYHQ/s135/1653-Akai-Haato-hololive-production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1653/",
+      "fetched_at": "2026-05-16T19:10:33.561Z",
+      "raw_id": "/nendoroid/details/n1653/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.718Z",
+      "raw_id": "Nendoroid/1600-1699/1653.json"
+    }
+  ]
+}

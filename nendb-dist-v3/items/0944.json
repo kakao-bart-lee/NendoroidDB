@@ -1,0 +1,71 @@
+{
+  "num": "0944",
+  "name": {
+    "en": "Nendoroid Sombra: Classic Skin Edition",
+    "ja": "ねんどろいど ソンブラ クラシックスキン・エディション (ねんどろいど そんぶら くらしっくすきん・えでぃしょん)",
+    "ko": "솜브라"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7288,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jxCULF-lBBU/X4NeodrsAYI/AAAAAAABmMg/X3YwDEfWkxoaDCYLjMNaBJK7GgWTkkPpACLcBGAsYHQ/s270/944-Sombra-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jxCULF-lBBU/X4NeodrsAYI/AAAAAAABmMg/X3YwDEfWkxoaDCYLjMNaBJK7GgWTkkPpACLcBGAsYHQ/s270/944-Sombra-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MfpnIMCXx0w/X4roUuZ1DGI/AAAAAAABn4A/CWTXGVGcaW4c3usc0IMWfNujF_1iP3fZgCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-woSoLxeVago/X4roU7OZnOI/AAAAAAABn4E/O1A3r4H6O38FeUwi3DBdLvr3vkBWdSE5gCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8hMTnbflj2M/X4roVGpN-MI/AAAAAAABn4I/BPbOcj06S7AcmtMcobeqk8gb7oN6puOKgCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BmHzjPq5w_8/X4roVV_N8WI/AAAAAAABn4M/cdLIj7jZDncsIHZ_odMYBH6UDOQuvN2pQCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gx_lKADezC8/X4roVh4-JyI/AAAAAAABn4Q/MEQfUlg3M0sDZPQmzIcaghq87qeExcU6wCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-yPjogQYEMmU/X4roVzXaN3I/AAAAAAABn4U/MY-z082Rd248jk6blvUXknGRwXAfnXFGACLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-DFTgnkgVaTE/X4roWe1g-CI/AAAAAAABn4Y/EnCfJEsHA-EFoagvGPnL6kTcjh6S8rtZgCLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-C7EB7SQSd0k/X4roUdn3y1I/AAAAAAABn38/4PFRvPjl9DAp9t7cRxwkZRuCz1atLIr5ACLcBGAsYHQ/s135/944-Sombra-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n944/",
+      "fetched_at": "2026-05-16T19:10:34.887Z",
+      "raw_id": "/nendoroid/details/n944/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.545Z",
+      "raw_id": "Nendoroid/0900-0999/944.json"
+    }
+  ]
+}

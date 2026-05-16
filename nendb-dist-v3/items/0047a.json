@@ -1,0 +1,68 @@
+{
+  "num": "0047a",
+  "name": {
+    "en": "Nendoroid Shana: Burning Hair and Eyes Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)",
+    "ja": "ねんどろいど シャナ 炎髪灼眼 Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)",
+    "ko": "샤나 염발작안 Ver."
+  },
+  "series": {
+    "en": "Shakugan no Shana II",
+    "ja": "灼眼のシャナⅡ",
+    "ko": "작안의 샤나",
+    "code": "shakugan-no-shana-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 259,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-roB53i-MVdM/X4MR8rcNP5I/AAAAAAAApZU/bV2uL_cRqO8BOfwgT_xaPJsdd6ThbeH-wCLcBGAsYHQ/s270/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-roB53i-MVdM/X4MR8rcNP5I/AAAAAAAApZU/bV2uL_cRqO8BOfwgT_xaPJsdd6ThbeH-wCLcBGAsYHQ/s270/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RRypTHOYvwk/X4GwfJJsV7I/AAAAAAAApDk/VUAuuUk_bG8TbJcxP4CKtCNDcxtVt1r_ACLcBGAsYHQ/s135/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fA7hcpCUtbQ/X4GwfVfYYqI/AAAAAAAApDo/NlLcKcVCb-cVOrs5aaiDtfkRVsFGSWqrgCLcBGAsYHQ/s135/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kZZLWshUS3M/X4Gwf4Hxr-I/AAAAAAAApDs/2Q9xF6mSv8cbFyWbvFvLkpmhOfc7cXf1QCLcBGAsYHQ/s135/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p9nrnbaUWcA/X4GwgEhisbI/AAAAAAAApDw/nXkrjb8feIYauwWbu8D2rqJbsa1QB-CVwCLcBGAsYHQ/s135/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eSIpA_Fkt7w/X4GwgGM-iNI/AAAAAAAApD0/FKjnWd49WWgsFdZFurHjmlS7jsglRJrtACLcBGAsYHQ/s135/047A-Shana-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n047a/",
+      "fetched_at": "2026-05-16T19:10:33.093Z",
+      "raw_id": "/nendoroid/details/n047a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.274Z",
+      "raw_id": "Nendoroid/0000-0099/047a.json"
+    }
+  ]
+}

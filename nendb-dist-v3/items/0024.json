@@ -1,0 +1,64 @@
+{
+  "num": "0024",
+  "name": {
+    "en": "Nendoroid Nao (なお　ねんどろいど)",
+    "ja": "ねんどろいど ナオ (なお　ねんどろいど)",
+    "ko": "나오"
+  },
+  "series": {
+    "en": "マビノギ",
+    "ja": "マビノギ",
+    "ko": "마비노기",
+    "code": ""
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 637,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VEkMSo90baY/X4MRzxofuQI/AAAAAAAApXw/yDDFIKOFzDspom2MQN5LZUC09l_R7rdVACLcBGAsYHQ/s270/024-Nao-Mabinogi-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VEkMSo90baY/X4MRzxofuQI/AAAAAAAApXw/yDDFIKOFzDspom2MQN5LZUC09l_R7rdVACLcBGAsYHQ/s270/024-Nao-Mabinogi-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-diA3C0Dt3Ms/X4GwVmUaSwI/AAAAAAAApAw/x5aa8Skodac69fHkqGM6mSM4EiTlNAp3gCLcBGAsYHQ/s135/024-Nao-Mabinogi-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n024/",
+      "fetched_at": "2026-05-16T19:10:33.078Z",
+      "raw_id": "/nendoroid/details/n024/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.265Z",
+      "raw_id": "Nendoroid/0000-0099/024.json"
+    }
+  ]
+}

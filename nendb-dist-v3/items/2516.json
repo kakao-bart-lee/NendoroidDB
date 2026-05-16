@@ -1,0 +1,64 @@
+{
+  "num": "2516",
+  "name": {
+    "en": "Fuwa Minato",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xPwrRs0dHk0/Znsoi4cAfPI/AAAAAAABE4k/RrjIrqysRZ8rqIzwRmGPFMozpfzD4U6fgCNcBGAsYHQ/s270/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xPwrRs0dHk0/Znsoi4cAfPI/AAAAAAABE4k/RrjIrqysRZ8rqIzwRmGPFMozpfzD4U6fgCNcBGAsYHQ/s270/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NAoljQRDqIk/Zow84lXBP_I/AAAAAAABGIM/Voqq8oMqJZcmAcJi2QunoFNMjUdwgHhDQCNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MlFwBLIOQKY/Zow85IwYFTI/AAAAAAABGIQ/3S_ju7KjY3MD0bFkQrDg4-J1ad3hbalQgCNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LsGYqwQQWsw/Zow85u2uRHI/AAAAAAABGIU/9n4WzlqVZPQtjDvEHG2JQlaNIYCv_18AACNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-edzS7CocRIA/Zow86HF4yxI/AAAAAAABGIY/XImSu3czHCUx0b4ik6TAEMdvM0FAJN4twCNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7iWbza7hF7A/Zow862kgycI/AAAAAAABGIc/zK9xCvrm_cApjoyyeKiPeWkAuXPQ_qIbQCNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HIFp7Nf9wrM/Zow87dmN5fI/AAAAAAABGIg/dxufeBpXQdsG0Ky2l-o0zx5rMoruziojgCNcBGAsYHQ/s135/2516-Fuwa-Minato-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2516/",
+      "fetched_at": "2026-05-16T19:10:34.107Z",
+      "raw_id": "/nendoroid/details/n2516/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "num": "1218-DX",
+  "name": {
+    "en": "Nendoroid Captain America: Endgame Edition DX Ver.",
+    "ja": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん DX Ver.)",
+    "ko": "캡틴 아메리카 엔드게임 에디션 DX Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-04",
+      "status": "released"
+    },
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8882,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191007/8882/64396/large/1c66e9e7e9e261fcbdad7ca4eba407eb.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.612Z",
+      "raw_id": "Nendoroid/1200-1299/1218-DX.json"
+    }
+  ]
+}

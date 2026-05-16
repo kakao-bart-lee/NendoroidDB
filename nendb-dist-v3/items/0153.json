@@ -1,0 +1,69 @@
+{
+  "num": "0153",
+  "name": {
+    "en": "Nendoroid Kyon: Disappearance Ver. (ねんどろいど きょん しょうしつばーじょん)",
+    "ja": "ねんどろいど キョン 消失Ver. (ねんどろいど きょん しょうしつばーじょん)",
+    "ko": "쿈 소실 Ver."
+  },
+  "series": {
+    "en": "The Disappearance of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの消失",
+    "ko": "스즈미야 하루히의 소실",
+    "code": "the-disappearance-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3043,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kZd5raEJgTU/X4NKAIkDK-I/AAAAAAABlRU/EedYsNcReZYmGQZMlSNn64JRUbnNeIzpACLcBGAsYHQ/s270/153-Kyon-Dissapearance-Version-The-Dissapearance-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kZd5raEJgTU/X4NKAIkDK-I/AAAAAAABlRU/EedYsNcReZYmGQZMlSNn64JRUbnNeIzpACLcBGAsYHQ/s270/153-Kyon-Dissapearance-Version-The-Dissapearance-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e4qhiyLQq84/X4dTID6F6OI/AAAAAAAAp-o/Wwm-xqRp1eE5HNN-SRg5AjzTLY8d6l1rQCLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DEubU1XI1MA/X4dTIfhoJTI/AAAAAAAAp-s/PtG-cH7xnSskLPFeXMhHq8od5KMjuXUfwCLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bwg-xurMGfU/X4dTIpZb6eI/AAAAAAAAp-w/EE-01dE3FpgUea-bhLrqx3Q6lLffd6jagCLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lfslAOnAxgw/X4dTIzxZITI/AAAAAAAAp-0/kMIudht0JesvNF1c4LVQSVNQ530FVgeBACLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CkX5uPF6Rlo/X4dTJImTxyI/AAAAAAAAp-4/Z2itrhbFtQINfsc8p-1vc4-vBGl9NfTIQCLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0szhqZTI6QE/X4dTJd--UlI/AAAAAAAAp-8/Lwbx4NuGSP8vDCkrMraKYyW8Bdmw6rgaACLcBGAsYHQ/s135/153-Kyon-The-Disappearance-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n153/",
+      "fetched_at": "2026-05-16T19:10:33.491Z",
+      "raw_id": "/nendoroid/details/n153/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.302Z",
+      "raw_id": "Nendoroid/0100-0199/153.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1041",
+  "name": {
+    "en": "Nendoroid Yuki Hanzomon",
+    "ja": "ねんどろいど 半蔵門雪 (ねんどろいど はんぞうもんゆき)",
+    "ko": "한조몬 유키"
+  },
+  "series": {
+    "en": "RELEASE THE SPYCE",
+    "ja": "RELEASE THE SPYCE",
+    "ko": "릴리즈 더 스파이스",
+    "code": "release-the-spyce"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7844,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yLQLj2PNs_Y/X4NfqmBTvEI/AAAAAAABmTs/ZjmujtTQd6gWu_7iILKy6pA9yvxWW_taQCLcBGAsYHQ/s270/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yLQLj2PNs_Y/X4NfqmBTvEI/AAAAAAABmTs/ZjmujtTQd6gWu_7iILKy6pA9yvxWW_taQCLcBGAsYHQ/s270/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Lcc6OkvyEpg/X4rr-cAOKuI/AAAAAAABogk/XLAkBhWM7bcJkFBvChgike8ZevRVktIjACLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZyfDlfA9Qc4/X4rr-4pt4pI/AAAAAAABogo/x-bf-AiBkzc-viWuhXQyEx3NmOg6xRFWQCLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3dF2YH6Tt2w/X4rr-2epJpI/AAAAAAABohA/lU4cOvFTtOkETBC-PaTZ506HChFe1rXuQCLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OnQVipyWH7I/X4rr_ZUCArI/AAAAAAABogs/yc95epi_KxQtUewTLET1Y2WL-kRGFZuYQCLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YicFUO8GsV0/X4rr_jhnrYI/AAAAAAABogw/Rik_WMtOrwkHWtfxUFL3ZttwkWqsEVxoQCLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-M_an8LAJ1fo/X4rr_27F1bI/AAAAAAABog0/55QReDi7Ia8XhNkV1UOXYrtxod_rYgEBgCLcBGAsYHQ/s135/1041-Yuki-Hanzomon-Release-the-Spyce-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1041/",
+      "fetched_at": "2026-05-16T19:10:33.167Z",
+      "raw_id": "/nendoroid/details/n1041/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.571Z",
+      "raw_id": "Nendoroid/1000-1099/1041.json"
+    }
+  ]
+}

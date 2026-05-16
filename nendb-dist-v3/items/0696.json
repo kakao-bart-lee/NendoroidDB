@@ -1,0 +1,69 @@
+{
+  "num": "0696",
+  "name": {
+    "en": "Nendoroid Kiso",
+    "ja": "ねんどろいど 木曾 (ねんどろいど きそ)",
+    "ko": "키소"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6116,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qrou8hX5caM/X4NQBd7blXI/AAAAAAABl6c/hUDEP15bxH0OiSu2px_DHe2uInn0JoaEwCLcBGAsYHQ/s270/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qrou8hX5caM/X4NQBd7blXI/AAAAAAABl6c/hUDEP15bxH0OiSu2px_DHe2uInn0JoaEwCLcBGAsYHQ/s270/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JS_KgJH95Q8/X4i2HcFHcdI/AAAAAAAAtCY/3755xyGKnWshevkThIaHCsmmnrZjlPRwACLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8jf44bQv7zw/X4i2Hh9fxPI/AAAAAAAAtCc/cqyORsK-Rts4F7ForgdR9O_zLZvzVIEBQCLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pLJSHNCc10M/X4i2H9tSE7I/AAAAAAAAtCg/PKnSRMV8JqQwUfe_2XtduG7TXIuTkzOBQCLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fz6CiVM5Jq4/X4i2IID6DqI/AAAAAAAAtCk/MNqRlGfepZoKhuDVF_3DCHqxKAgVOaO0ACLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VvMDIE8LUzo/X4i2IaCbABI/AAAAAAAAtCo/yczFxdkv65sZzp5S-4T0vQSN_vbjucDNgCLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cYxW3fmL7As/X4i2Ik31b-I/AAAAAAAAtCs/QC4ZkIvIiKsQNQfNvZaE3jXqHBRBkcHtACLcBGAsYHQ/s135/696-Kiso-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n696/",
+      "fetched_at": "2026-05-16T19:10:34.747Z",
+      "raw_id": "/nendoroid/details/n696/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.485Z",
+      "raw_id": "Nendoroid/0600-0699/696.json"
+    }
+  ]
+}

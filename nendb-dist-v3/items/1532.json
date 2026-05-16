@@ -1,0 +1,67 @@
+{
+  "num": "1532",
+  "name": {
+    "en": "Nendoroid Lancer/Altria Pendragon",
+    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン (ねんどろいど らんさー/あるとりあ・ぺんどらごん)",
+    "ko": "랜서/아르토리아 펜드래건"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RSD-aqMQCn8/X9p0xUx_7jI/AAAAAAAAvAM/ShVB1eoDIfIcpeztHHghhkPdUA5X4p21ACLcBGAsYHQ/s270/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RSD-aqMQCn8/X9p0xUx_7jI/AAAAAAAAvAM/ShVB1eoDIfIcpeztHHghhkPdUA5X4p21ACLcBGAsYHQ/s270/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gxvM6YTNWvg/X9p5ThbQJiI/AAAAAAAAvE0/PKXw9_76o1sj3MJsSg0NZ2W6rPHTdz3jQCLcBGAsYHQ/s135/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Um7wTkuZX14/X9p5T4EspfI/AAAAAAAAvE4/w4rhhfGn9_IlZ3KHrsYR4cGPkjrs7RfVwCLcBGAsYHQ/s135/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xcBQivqGZDw/X9p5UT6fRGI/AAAAAAAAvE8/QKN2AjZwlx4rjulhnwkFyEndCFLXAObFgCLcBGAsYHQ/s135/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dOfsXSGI_wU/X9p5Uq6s5GI/AAAAAAAAvFA/8frx27lJ-3sHYwyGk2MYJGde9Xd-rVMmACLcBGAsYHQ/s135/1532-Lancer-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1532/",
+      "fetched_at": "2026-05-16T19:10:33.487Z",
+      "raw_id": "/nendoroid/details/n1532/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.689Z",
+      "raw_id": "Nendoroid/1500-1599/1532.json"
+    }
+  ]
+}

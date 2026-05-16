@@ -1,0 +1,67 @@
+{
+  "num": "0191",
+  "name": {
+    "en": "Nendoroid Golden Darkness (ねんどろいど こんじきのやみ)",
+    "ja": "ねんどろいど 金色の闇 (ねんどろいど こんじきのやみ)",
+    "ko": "금빛 어둠"
+  },
+  "series": {
+    "en": "ToLoveRU Darkness",
+    "ja": "To LOVEる－とらぶる－",
+    "ko": "투 러브 트러블",
+    "code": "toloveru-darkness"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VqMa3r3tRuY/X4NKM-leTSI/AAAAAAABlUA/rBcdkVcQAYIYA83Svs-v-ZqwHSUgxv24wCLcBGAsYHQ/s270/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VqMa3r3tRuY/X4NKM-leTSI/AAAAAAABlUA/rBcdkVcQAYIYA83Svs-v-ZqwHSUgxv24wCLcBGAsYHQ/s270/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-InTaJQyTiq0/X4dUcQS5LiI/AAAAAAAAqNM/H9eau3KG9HED5gtLFbdRGJxaVPDMOzodACLcBGAsYHQ/s135/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_bigCbACM9Q/X4dUcx6AJaI/AAAAAAAAqNQ/ibwxiAX4vTgOn0TUKwkUphgLpi-xLdTegCLcBGAsYHQ/s135/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mnyI4M4nLVU/X4dUdUnX02I/AAAAAAAAqNU/CQWI8My09uIOirzLdnLpnXsnMT-elTYBgCLcBGAsYHQ/s135/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9xALSCViTN4/X4dUd_5CzUI/AAAAAAAAqNY/hHSgJLdJNt4HcyhFJlx5pPsepjUIW6M2gCLcBGAsYHQ/s135/191-Golden-Darkness-ToLoveRu-Darkness-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n191/",
+      "fetched_at": "2026-05-16T19:10:33.731Z",
+      "raw_id": "/nendoroid/details/n191/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.316Z",
+      "raw_id": "Nendoroid/0100-0199/191.json"
+    }
+  ]
+}

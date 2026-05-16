@@ -1,0 +1,94 @@
+{
+  "num": "0214",
+  "name": {
+    "en": "Nendoroid Sonic the Hedgehog",
+    "ja": "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
+    "ko": "소닉 더 헤지혹"
+  },
+  "series": {
+    "en": "Sonic the Hedgehog",
+    "ja": "ソニック・ザ・ヘッジホッグ",
+    "ko": "소닉 더 헤지혹 시리즈",
+    "code": "sonic-the-hedgehog"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Fumitoshi Nakamura (GSC 3D Team)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": "4580828666504",
+  "gsc_product_id": "17267",
+  "gsc_product_num": 3397,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/17267",
+    "ja": "https://www.goodsmile.com/ja/product/17267"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/17267/BT5CAKugf1UbRSx23Vk6anpsvGj4DJmN.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2HqQHWarbF4/X4NLHeirUXI/AAAAAAABlWI/VskBM81db9I-WIMPCK10W2j6H0rOlYxRgCLcBGAsYHQ/s270/214-Sonic-the-Hedgehog-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-791DZVn1qxo/X4dW_9IV-II/AAAAAAAAqWk/ot3paQRE_7wBOfYqZx0HZLFrjqoPVkKBACLcBGAsYHQ/s135/214-Sonic-Sonic-the-Hedgehog-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--5v7UrwEQH8/X4dXAa8OWnI/AAAAAAAAqWo/CscUSAbfW58huE5Y8okDuYqUa17-l0P5gCLcBGAsYHQ/s135/214-Sonic-Sonic-the-Hedgehog-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o6Wa81Fy7Tk/X4dXAwrBT5I/AAAAAAAAqWs/xPbcltTFHM4Hx0s21YEk70umN8aCWNh5wCLcBGAsYHQ/s135/214-Sonic-Sonic-the-Hedgehog-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wIDVw25zgr4/X4dXBSs_0cI/AAAAAAAAqWw/v_YPp4AsxBIbnSnpITkMbvVuuw9Whjs1gCLcBGAsYHQ/s135/214-Sonic-Sonic-the-Hedgehog-Video-Games-Nendoroid-6.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/17267/xPpqcbTinhgtDs7RXwY09SG4v2A8VBdy.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/17267/BT5CAKugf1UbRSx23Vk6anpsvGj4DJmN.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/17267",
+      "price_local": 6300,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:14:50.131Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/17267",
+      "fetched_at": "2026-05-16T12:14:50.131Z",
+      "raw_id": "17267"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/17267",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "17267"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n214/",
+      "fetched_at": "2026-05-16T19:10:33.868Z",
+      "raw_id": "/nendoroid/details/n214/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.322Z",
+      "raw_id": "Nendoroid/0200-0299/214.json"
+    }
+  ]
+}

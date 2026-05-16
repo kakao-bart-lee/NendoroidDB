@@ -1,0 +1,59 @@
+{
+  "num": "8679",
+  "name": {
+    "en": "Nendoroid Doll archetype: Boy (Almond Milk)",
+    "ja": "ねんどろいどどーる archetype：Boy（almond milk） (ねんどろいどどーる あーきたいぷ：ぼーい（あーもんど みるく）)",
+    "ko": "남성(아몬드밀크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2037,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8679,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190809/8679/62800/large/1b7537a87b5dc2bab8fe07194f818ee7.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.909Z",
+      "raw_id": "NendoroidDoll/Body/8679.json"
+    }
+  ]
+}

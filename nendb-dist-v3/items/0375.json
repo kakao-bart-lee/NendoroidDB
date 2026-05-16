@@ -1,0 +1,69 @@
+{
+  "num": "0375",
+  "name": {
+    "en": "Nendoroid Eren Yeager",
+    "ja": "ねんどろいど エレン・イェーガー (ねんどろいど えれん・いぇーがー)",
+    "ko": "앨런 예거"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4095,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_V8aFKwJS2k/X4NM_h_mJoI/AAAAAAABlkM/aW-JLls-wcsWn_EtDa4hjifNoeV6pBzawCLcBGAsYHQ/s270/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_V8aFKwJS2k/X4NM_h_mJoI/AAAAAAABlkM/aW-JLls-wcsWn_EtDa4hjifNoeV6pBzawCLcBGAsYHQ/s270/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bs6mA4XE8l8/X4dbSjmJ1PI/AAAAAAAArLs/fDOu57hUN5MxFb0hlYHmUgMSKJI8O889ACLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jopOSYt5AaM/X4dbS4lHPNI/AAAAAAAArLw/wvgCu5EDKJM0s2LVD2HQrzmaWQrLxERyQCLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uQXoGPQfe_I/X4dbTJ4XRKI/AAAAAAAArL0/PU2dS0ct_i8wZT2TrLTavAFmWRYUmNpAwCLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-STwNEd5TOvw/X4dbTLQ7OsI/AAAAAAAArL4/6Qi8M5xzz5g2CyAbqipUlA7cYWoJjuOWgCLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1hZbtf8ntlI/X4dbTJ2Er_I/AAAAAAAArL8/GzBhsdPFJdsflyVnEi1WIfUAz2Cb-oBEQCLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AXCvbXWLVW4/X4dbTiTpd9I/AAAAAAAArMA/2hQip8CnIfAHWMycBhSR6wGez0YeZggCgCLcBGAsYHQ/s135/375-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n375/",
+      "fetched_at": "2026-05-16T19:10:34.492Z",
+      "raw_id": "/nendoroid/details/n375/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.364Z",
+      "raw_id": "Nendoroid/0300-0399/375.json"
+    }
+  ]
+}

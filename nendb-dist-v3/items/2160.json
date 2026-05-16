@@ -1,0 +1,68 @@
+{
+  "num": "2160",
+  "name": {
+    "en": "Nendoroid Mitama",
+    "ja": "ねんどろいど ミタマ (ねんどろいど みたま)",
+    "ko": "미타마"
+  },
+  "series": {
+    "en": "KamiKatsu: Working for God in a Godless World",
+    "ja": "神無き世界のカミサマ活動",
+    "ko": "신 없는 세계의 신 활동",
+    "code": "kamikatsu-working-for-god-in-a-godless-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14428,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fkicrqFAaho/ZIzT5p8g6lI/AAAAAAAA-P0/TajRf5MJ-vgBSBJZ6vMvEJxrmnBHdZqkQCNcBGAsYHQ/s270/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fkicrqFAaho/ZIzT5p8g6lI/AAAAAAAA-P0/TajRf5MJ-vgBSBJZ6vMvEJxrmnBHdZqkQCNcBGAsYHQ/s270/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wZ5WT1CJk9w/ZIzV-2muuEI/AAAAAAAA-WQ/ED8Dg1MlebY7ue-oe04IcWFbp1XPtIa7wCNcBGAsYHQ/s135/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NZEkj3lWBXA/ZIzV_MYUyyI/AAAAAAAA-WU/jS4_wMofSG01Q_ZTPzcciEFH58G6qwHdwCNcBGAsYHQ/s135/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6b0cWphXryc/ZIzV_iUNZjI/AAAAAAAA-WY/o9C11SWQnHQYnyJyZGyCHmaxxpxIiN5iwCNcBGAsYHQ/s135/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5cfC4uMz6N4/ZIzWANv4brI/AAAAAAAA-Wc/EmcqVQxRhVAX8HYB_YQjYcm9_Di6T2UIACNcBGAsYHQ/s135/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FupXnDK6bX0/ZIzWAhl_ojI/AAAAAAAA-Wg/sKT2cz6Em5MD8s2sDRaX-c3At5AxSRuOACNcBGAsYHQ/s135/2160-Mitama-KamiKatsu-Working-for-God-in-a-Godless-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2160/",
+      "fetched_at": "2026-05-16T19:10:33.874Z",
+      "raw_id": "/nendoroid/details/n2160/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.842Z",
+      "raw_id": "Nendoroid/2100-2199/2160.json"
+    }
+  ]
+}

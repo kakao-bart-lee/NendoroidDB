@@ -1,0 +1,58 @@
+{
+  "num": "1786",
+  "name": {
+    "en": "Crunchyroll Hime",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Crunchyroll",
+    "ja": null,
+    "ko": null,
+    "code": "crunchyroll"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDh1lymOnVWOpQrs5d7QIlRLPkCEsXM3z36DfqZalGtOqDXvIfh3nhCndEzbumY9n4jLlnljrNklHxOYNYvERI5VKam1G-K6-Xakk6y6jk7wXYBhgUnvZQi29SbJWqC6zGcEp0JQ5fhAuhN836olC1GbxWAYXRdKD0JYB_bBLA2oRQlw6FkDtmnZAVIrBD/s270/1786-Crunchyroll-Hime-Crunchyroll-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDh1lymOnVWOpQrs5d7QIlRLPkCEsXM3z36DfqZalGtOqDXvIfh3nhCndEzbumY9n4jLlnljrNklHxOYNYvERI5VKam1G-K6-Xakk6y6jk7wXYBhgUnvZQi29SbJWqC6zGcEp0JQ5fhAuhN836olC1GbxWAYXRdKD0JYB_bBLA2oRQlw6FkDtmnZAVIrBD/s270/1786-Crunchyroll-Hime-Crunchyroll-Mascot-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1786/",
+      "fetched_at": "2026-05-16T19:10:33.645Z",
+      "raw_id": "/nendoroid/details/n1786/"
+    }
+  ]
+}

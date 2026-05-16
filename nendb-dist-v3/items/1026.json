@@ -1,0 +1,68 @@
+{
+  "num": "1026",
+  "name": {
+    "en": "Nendoroid Kiana: Winter Princess Ver.",
+    "ja": "ねんどろいど キアナ 冬のお姫様Ver. (ねんどろいど きあな ふゆのおひめさまVer.)",
+    "ko": "키아나 겨울공주 Ver."
+  },
+  "series": {
+    "en": "Honkai Impact 3rd",
+    "ja": "崩壊3rd",
+    "ko": "붕괴 3rd",
+    "code": "honkai-impact-3rd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7791,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pNwLUDiGVto/X4NfmHNfTAI/AAAAAAABmSw/aXP3d2u6DEoXLjeFZr032NZmcLSLxJxowCLcBGAsYHQ/s270/1026-Kiana-Winter-Princess-Ver-Honkai-Impact-3rd-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pNwLUDiGVto/X4NfmHNfTAI/AAAAAAABmSw/aXP3d2u6DEoXLjeFZr032NZmcLSLxJxowCLcBGAsYHQ/s270/1026-Kiana-Winter-Princess-Ver-Honkai-Impact-3rd-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4mG3X52MQ-c/X4rrpzSLFCI/AAAAAAABobg/RfxvJhioZKIOe49NEXkvDkpdvE37hK6gACLcBGAsYHQ/s135/1026-Kiana-Honkai-Impact-3rd-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tAL18qNJ54k/X4rrqIsV4gI/AAAAAAABobk/lfki-knF9L42u1nXxqJft9s_FCSTqVJxgCLcBGAsYHQ/s135/1026-Kiana-Honkai-Impact-3rd-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HSDY7mHb6R8/X4rrqZpdmrI/AAAAAAABobo/hrvdR6lXaPssDI30FCOTCxNjdSs_QDtQwCLcBGAsYHQ/s135/1026-Kiana-Honkai-Impact-3rd-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LYwR5fXHIx0/X4rrqkxvnzI/AAAAAAABobs/1r2u5wA66jwcb0J0NC4rHfaRoCUNQdV-QCLcBGAsYHQ/s135/1026-Kiana-Honkai-Impact-3rd-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aXgqa8QM5aM/X4rrq1bpp4I/AAAAAAABobw/ZNGyj7yv7EgyeaEkHSWbSupN__0EazdiACLcBGAsYHQ/s135/1026-Kiana-Honkai-Impact-3rd-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1026/",
+      "fetched_at": "2026-05-16T19:10:33.147Z",
+      "raw_id": "/nendoroid/details/n1026/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.567Z",
+      "raw_id": "Nendoroid/1000-1099/1026.json"
+    }
+  ]
+}

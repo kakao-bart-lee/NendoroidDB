@@ -1,0 +1,70 @@
+{
+  "num": "1502",
+  "name": {
+    "en": "Nendoroid Joseph Joestar",
+    "ja": "ねんどろいど ジョセフ・ジョースター (ねんどろいど ジョセフ・ジョースター)",
+    "ko": "죠셉 죠스타"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10302,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OSVBSMZ9e7E/X58Yj4drV0I/AAAAAAAAuFg/tbohRp1V0E0emcIJOugz7I99BBb30x9PQCLcBGAsYHQ/s270/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OSVBSMZ9e7E/X58Yj4drV0I/AAAAAAAAuFg/tbohRp1V0E0emcIJOugz7I99BBb30x9PQCLcBGAsYHQ/s270/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ekSXFBknyRE/X58aBcta1pI/AAAAAAAAuJY/RRq4kgsUCe4qclv_uaQEoNAN2CML7AhSACLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xjo93ky8eLM/X58aBstHXuI/AAAAAAAAuJc/P9YJ7APcTk4EicAPsa7seePjoCymkBKggCLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Dmbx1u5Gx8Y/X58aBzgCKkI/AAAAAAAAuJg/JpiX3OoSFxQuBN2a_OOzCa1AaCN6PEXRQCLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hpBBjcyVE_8/X58aCWFi2RI/AAAAAAAAuJk/_7K2O0U28-QuPUGO9yTU7Ozlap0Jw_rAACLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iJtAHxLxUEw/X58aCi2IVtI/AAAAAAAAuJo/60nG3bQs6oQQDtiivo0JNmfSfP9NRv72QCLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Z2EANlTg8YM/X58aC32Y_3I/AAAAAAAAuJs/wiZr12RTVPcEULva9VqCvjVl6GABaTMAwCLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-q8xtJ2_sFFE/X58aDIHVLjI/AAAAAAAAuJw/ooX5EFgxhbItYjhM-bN6msqB1xCWZOTLQCLcBGAsYHQ/s135/1502-Joseph-Joestar-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1502/",
+      "fetched_at": "2026-05-16T19:10:33.469Z",
+      "raw_id": "/nendoroid/details/n1502/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.681Z",
+      "raw_id": "Nendoroid/1500-1599/1502.json"
+    }
+  ]
+}

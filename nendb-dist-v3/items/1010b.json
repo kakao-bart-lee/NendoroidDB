@@ -1,0 +1,68 @@
+{
+  "num": "1010b",
+  "name": {
+    "en": "Nendoroid Mickey Mouse: 1928 Ver. (Color)",
+    "ja": "ねんどろいど ミッキーマウス 1928 Ver.（カラー） (ねんどろいど みっきーまうす 1928 Ver.（からー）)",
+    "ko": "미키 마우스 1928 Ver.(컬러)"
+  },
+  "series": {
+    "en": "Steamboat Willie",
+    "ja": "蒸気船ウィリー",
+    "ko": "증기선 윌리",
+    "code": "steamboat-willie"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7652,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lHnRwp0inNI/X4Nfh7Ah-4I/AAAAAAABmRs/gAoafxKTRj4UzmX3K_77Y3ONCLKsuc_PQCLcBGAsYHQ/s270/1010B-Mickey-Mouse-Steamboat-Willie-Color-Disney-1928-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lHnRwp0inNI/X4Nfh7Ah-4I/AAAAAAABmRs/gAoafxKTRj4UzmX3K_77Y3ONCLKsuc_PQCLcBGAsYHQ/s270/1010B-Mickey-Mouse-Steamboat-Willie-Color-Disney-1928-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FlV8tKyhjSU/X4rrREwUPhI/AAAAAAABoVo/JvJicONvLUcvwqSikVyy_O4xoP5txc4SQCLcBGAsYHQ/s135/1010B-Mickey-Mouse-Steamboat-Willie-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1FDft6L-CiQ/X4rrRPwtMnI/AAAAAAABoVs/NWrhoMMCps8IXQnHjGLZSgUXFd0fFX_ewCLcBGAsYHQ/s135/1010B-Mickey-Mouse-Steamboat-Willie-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2tQEkuNIXXY/X4rrRdoqQ0I/AAAAAAABoVw/826-1Zk42d8N1SWyw9u5Yu0RCEKw2uu5wCLcBGAsYHQ/s135/1010B-Mickey-Mouse-Steamboat-Willie-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ty3qfakcfnk/X4rrRxuGNgI/AAAAAAABoV0/ihnu9ufHjdQm8rTonM8KPWaFh1QwaH0LgCLcBGAsYHQ/s135/1010B-Mickey-Mouse-Steamboat-Willie-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D8X9A9NJAx4/X4rrR6YRtCI/AAAAAAABoV4/UNuNCJA1oyI9tLA9pO-_X3UAo5cy0S1xACLcBGAsYHQ/s135/1010B-Mickey-Mouse-Steamboat-Willie-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1010b/",
+      "fetched_at": "2026-05-16T19:10:33.133Z",
+      "raw_id": "/nendoroid/details/n1010b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.563Z",
+      "raw_id": "Nendoroid/1000-1099/1010b.json"
+    }
+  ]
+}

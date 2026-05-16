@@ -1,0 +1,63 @@
+{
+  "num": "2354",
+  "name": {
+    "en": "Ruri Hoshino",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Martian Successor Nadesico",
+    "ja": null,
+    "ko": null,
+    "code": "martian-successor-nadesico"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ti-UvoI3Qjw/ZZcfG8kLqnI/AAAAAAABDJk/FpLu56ib0EUsC5pPVKXmugH7G0lS7D97wCNcBGAsYHQ/s270/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ti-UvoI3Qjw/ZZcfG8kLqnI/AAAAAAABDJk/FpLu56ib0EUsC5pPVKXmugH7G0lS7D97wCNcBGAsYHQ/s270/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0eUnN_AtuDQ/ZZSMsg4zBII/AAAAAAABDBI/_P1j26Fs8N4sw4P6JQ5QRPuONfu-cDBuQCNcBGAsYHQ/s135/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--R0C4-v1Nzw/ZZSMtUcc1NI/AAAAAAABDBM/rNXg6ziN_DYq_9hdhVoQ9sFkNkrufoORACNcBGAsYHQ/s135/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uDW0tUJjCfo/ZZSMtp4c3iI/AAAAAAABDBQ/38xdrE-kosoTqXNEg5QljEdFaMeTJkMHgCNcBGAsYHQ/s135/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WyuOQVI6wns/ZZSMuZycgcI/AAAAAAABDBU/mVw3lfua5HwcRsD6DIU_Cox4M7wdLJdeQCNcBGAsYHQ/s135/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oFpY8mNQB34/ZZSMu8-B2PI/AAAAAAABDBY/QzwrsqNoUr0vLBUdsOd02-mtXZCkj_ohACNcBGAsYHQ/s135/2354-Ruri-Hoshino-Martian-Successor-Nadesico-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2354/",
+      "fetched_at": "2026-05-16T19:10:34.006Z",
+      "raw_id": "/nendoroid/details/n2354/"
+    }
+  ]
+}

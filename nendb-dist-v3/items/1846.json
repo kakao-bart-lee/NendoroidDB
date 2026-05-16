@@ -1,0 +1,70 @@
+{
+  "num": "1846",
+  "name": {
+    "en": "Nendoroid Nagi Rokuya",
+    "ja": "ねんどろいど 六弥 ナギ (ねんどろいど ろくや なぎ)",
+    "ko": "로쿠야 나기"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12489,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fBTyXcM9t8Q/YliMlDy84fI/AAAAAAAA5MQ/jHotPhy8_gwDmNMb0Qi8KMIFCdoI50akQCNcBGAsYHQ/s270/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fBTyXcM9t8Q/YliMlDy84fI/AAAAAAAA5MQ/jHotPhy8_gwDmNMb0Qi8KMIFCdoI50akQCNcBGAsYHQ/s270/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-76z6jO2N55s/YliVvbcswEI/AAAAAAAA5XU/kTQy-hccGw07a-rRJc0Rl8GNBYtg0ufxQCNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4OjifwTfWaI/YliVvoRIo7I/AAAAAAAA5XY/1pknEoUNwkohr-DIcawFrt_E74sOLDLEACNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iyvK051Sx1M/YliVv_q1SqI/AAAAAAAA5Xc/xSOSo48hBWYIzc_ftEfXd5wZotwMlokDACNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W17-8oAE-ZY/YliVwDEge3I/AAAAAAAA5Xg/7297EdxXh0I_wup2lSACRwqcZmLWvKitgCNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NoVjBJm9EWc/YliVwasUNII/AAAAAAAA5Xk/K5IZ3REsddkAIqmwfcCiesdDPjNOdlXiACNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RIAudDPqByU/YliVw1cZn_I/AAAAAAAA5Xo/sXDq4lJuUBsaGi-IYdCJPzagsBBqYKiFACNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-TqtX2SO_Rmk/YliVxIKr25I/AAAAAAAA5Xs/WLG4FbTFNogTQ7MmzschKXN3C33lcxseACNcBGAsYHQ/s135/1846-Nagi-Rokuya-IDOLiSH7-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1846/",
+      "fetched_at": "2026-05-16T19:10:33.683Z",
+      "raw_id": "/nendoroid/details/n1846/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.766Z",
+      "raw_id": "Nendoroid/1800-1899/1846.json"
+    }
+  ]
+}

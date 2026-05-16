@@ -1,0 +1,68 @@
+{
+  "num": "0067",
+  "name": {
+    "en": "Nendoroid Professor Leonardo (れおなるどはかせ ねんどろいど)",
+    "ja": "ねんどろいど レオナルド博士 (れおなるどはかせ ねんどろいど)",
+    "ko": "레오나르도 박사"
+  },
+  "series": {
+    "en": "Eagle Talon",
+    "ja": "秘密結社 鷹の爪",
+    "ko": "비밀결사 매의발톱단",
+    "code": "eagle-talon"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2374,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--7KjDpycMqQ/X4MSCoA-OPI/AAAAAAAApas/pA1ZsPq7jcM8Z4B9nUrATCE2CKv8HPm9wCLcBGAsYHQ/s270/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--7KjDpycMqQ/X4MSCoA-OPI/AAAAAAAApas/pA1ZsPq7jcM8Z4B9nUrATCE2CKv8HPm9wCLcBGAsYHQ/s270/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EfN0RPK09xI/X4GwwsKKP4I/AAAAAAAApJQ/83L2HIUa90I7Bj8U5tScsVofadVRuLsCwCLcBGAsYHQ/s135/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dNXZ89VeSGM/X4Gww7lb_3I/AAAAAAAApJU/cysxTMxQk8EkwjJZwiqmL3YGD_ihcC0mgCLcBGAsYHQ/s135/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--zgjxHQSMYw/X4GwxLYQlCI/AAAAAAAApJY/YRtBkuxmMRw-zH_4U9gsz_yCnH5v_IqewCLcBGAsYHQ/s135/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aq-2e3ZWuWA/X4GwxKx7g7I/AAAAAAAApJc/TMEqo0Qf1zYk-IjEHCxawh09Qxix7gV0ACLcBGAsYHQ/s135/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ODEcC0e__q8/X4GwxZgfdDI/AAAAAAAApJg/U3LYvWJVW_QQy5jjEBuMODv_jtzo_ylXACLcBGAsYHQ/s135/067-Professor-Leonardo-Eagle-Talon-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n067/",
+      "fetched_at": "2026-05-16T19:10:33.107Z",
+      "raw_id": "/nendoroid/details/n067/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.279Z",
+      "raw_id": "Nendoroid/0000-0099/067.json"
+    }
+  ]
+}

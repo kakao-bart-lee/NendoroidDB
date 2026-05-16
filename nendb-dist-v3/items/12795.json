@@ -1,0 +1,55 @@
+{
+  "num": "12795",
+  "name": {
+    "en": "Nendoroid Doll Toy Soldier: Callion",
+    "ja": "ねんどろいどどーる おもちゃの兵隊：カリオン (ねんどろいどどーる おもちゃのへいたい：かりおん)",
+    "ko": "장난감 군인: 카리온"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12795,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220609/12795/99628/large/27a5156325556cb7dfce7b10f4bb832c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.960Z",
+      "raw_id": "NendoroidDoll/Doll/12795.json"
+    }
+  ]
+}

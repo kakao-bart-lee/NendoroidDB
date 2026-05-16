@@ -1,0 +1,70 @@
+{
+  "num": "2258",
+  "name": {
+    "en": "Nendoroid Nazuna Amemiya",
+    "ja": "ねんどろいど 飴宮なずな (ねんどろいど あめみやなずな)",
+    "ko": "아메미야 나즈나"
+  },
+  "series": {
+    "en": "VShojo",
+    "ja": "VShojo",
+    "ko": "VShojo",
+    "code": "vshojo"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14988,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OKOHTwmxpN0/ZRSXdtQubCI/AAAAAAABB3w/dLBli3fFX_o7e1gE2Yq1tVfTtVCXMPCGACNcBGAsYHQ/s270/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OKOHTwmxpN0/ZRSXdtQubCI/AAAAAAABB3w/dLBli3fFX_o7e1gE2Yq1tVfTtVCXMPCGACNcBGAsYHQ/s270/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oYjQbCiqRLA/ZRSb-u_tYGI/AAAAAAABB7I/b1nLP0WF2LA1vSpF3B97lkp_ptOldQzvQCNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OMzvkSqdBKo/ZRSb-7qBHXI/AAAAAAABB7M/E2Goec3NBh4Uripm8y_3tsisloUevLHEACNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T_JSauHqw_M/ZRSb_SMVCqI/AAAAAAABB7Q/iL13aIpDUH8A8MUXdfq2D3lgV7SytV_wQCNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6Ov4Ce0UVh8/ZRSb_vUA47I/AAAAAAABB7U/x6uPjbCXIXc9qs5epjOT2K1UG3hPCBvKACNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GSWGJqtwFC8/ZRSb_69SDPI/AAAAAAABB7Y/jEGZczEuyO4ARMwnBIHNn3ENhdojDErpQCNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2-r2P3Nv3k8/ZRScAIexkPI/AAAAAAABB7c/S_aPFfR3MgordXWaQQa47Y-Hl6VpnHp1gCNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-zd9qHRcVVwU/ZRScAc-nEmI/AAAAAAABB7g/ALKMQpsQ0rEmE60A4yl6u3GFowTtQC1cQCNcBGAsYHQ/s135/2258-Nazuna-Amemiya-Vshojo-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2258/",
+      "fetched_at": "2026-05-16T19:10:33.948Z",
+      "raw_id": "/nendoroid/details/n2258/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.867Z",
+      "raw_id": "Nendoroid/2200-2299/2258.json"
+    }
+  ]
+}

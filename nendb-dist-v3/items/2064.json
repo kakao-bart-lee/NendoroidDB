@@ -1,0 +1,68 @@
+{
+  "num": "2064",
+  "name": {
+    "en": "Nendoroid Mahiru Shiina",
+    "ja": "ねんどろいど 椎名真昼 (ねんどろいど しいなまひる)",
+    "ko": "시이나 마히루"
+  },
+  "series": {
+    "en": "The Angel Next Door Spoils Me Rotten",
+    "ja": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "ko": "옆집 천사님 때문에 어느샌가 인간적으로 타락한 사연",
+    "code": "the-angel-next-door-spoils-me-rotten"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13950,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PperNpt-Lhw/ZC3lqkbWCzI/AAAAAAAA9cU/Z6PBWXbPOJUkHfDWgwwdwfD-skteJ8PQQCNcBGAsYHQ/s270/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PperNpt-Lhw/ZC3lqkbWCzI/AAAAAAAA9cU/Z6PBWXbPOJUkHfDWgwwdwfD-skteJ8PQQCNcBGAsYHQ/s270/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UWIzoSs0ErA/ZA3c0GcLkgI/AAAAAAAA9Ao/2pNMMmX4lA0VkRCpG-NPKtNUpw16-NXDQCNcBGAsYHQ/s135/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GpPqo1cJi3U/ZA3c0eArTAI/AAAAAAAA9As/fr7EvcKff5AdJjHWG320EGnLjQ-14c36gCNcBGAsYHQ/s135/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M2gmGp9eo5s/ZA3c0sp3KCI/AAAAAAAA9Aw/y-P5-pvJatEiI0m2sXFNZI2bj1wXuvcdwCNcBGAsYHQ/s135/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6BrWRa4p87g/ZA3c0l-msEI/AAAAAAAA9A0/CG4gRS-9sdAfEY2gosqMKIU81LNxl7c0wCNcBGAsYHQ/s135/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2Zh02zuWfLY/ZA3c0uxdmRI/AAAAAAAA9A4/J5BSpTWNQ-4eeOoek_UMclfUjBmovuFugCNcBGAsYHQ/s135/2064-Mahiru-Shiina-The-Angel-Next-Door-Spoils-Me-Rotten-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2064/",
+      "fetched_at": "2026-05-16T19:10:33.819Z",
+      "raw_id": "/nendoroid/details/n2064/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.818Z",
+      "raw_id": "Nendoroid/2000-2099/2064.json"
+    }
+  ]
+}

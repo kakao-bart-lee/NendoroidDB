@@ -1,0 +1,68 @@
+{
+  "num": "0991",
+  "name": {
+    "en": "Nendoroid Ichigo Kurosaki",
+    "ja": "ねんどろいど 黒崎一護 (ねんどろいど くろさきいちご)",
+    "ko": "쿠로사키 이치고"
+  },
+  "series": {
+    "en": "BLEACH",
+    "ja": "BLEACH",
+    "ko": "블리치",
+    "code": "bleach"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7J62QVj5vg0/X4Ne64hMwzI/AAAAAAABmPs/Qpj4IFbu7eYSEI_XAu0sgbXDUaq2DNsZgCLcBGAsYHQ/s270/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7J62QVj5vg0/X4Ne64hMwzI/AAAAAAABmPs/Qpj4IFbu7eYSEI_XAu0sgbXDUaq2DNsZgCLcBGAsYHQ/s270/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s9wBa40PQaU/X4rpv9WH_3I/AAAAAAABoLc/8vUBnoUS3dwCIqMCmkRi7LD5QKEBF-fjQCLcBGAsYHQ/s135/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-L5dgJdyfz5A/X4rpwHXFhEI/AAAAAAABoLg/dzP8DWaGFi8Lh4xxU--pvkzEQFa4IizKgCLcBGAsYHQ/s135/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4s6lY-D2JSc/X4rpwV8XFaI/AAAAAAABoLk/7v8K5LSwKIIRzSv3UQfJWbJk3gq1avtoACLcBGAsYHQ/s135/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7j_oyV7_et4/X4rpwl3xU1I/AAAAAAABoLo/F_d7QiYg7_whzxP9mkqlEkaiGImQ5_KdACLcBGAsYHQ/s135/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-of-PeSG_IZs/X4rpw4JsgiI/AAAAAAABoLs/roUInLe_hFAKzSjxDOztMmuo2SE2YDQtQCLcBGAsYHQ/s135/991-Ichigo-Kurosaki-Bleach-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n991/",
+      "fetched_at": "2026-05-16T19:10:34.913Z",
+      "raw_id": "/nendoroid/details/n991/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.558Z",
+      "raw_id": "Nendoroid/0900-0999/991.json"
+    }
+  ]
+}

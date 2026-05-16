@@ -1,0 +1,68 @@
+{
+  "num": "0353",
+  "name": {
+    "en": "Nendoroid Tsukiko Tsutsukakushi (ねんどろいど つつかくしつきこ)",
+    "ja": "ねんどろいど 筒隠月子 (ねんどろいど つつかくしつきこ)",
+    "ko": "츠츠카쿠시 츠키코"
+  },
+  "series": {
+    "en": "Hentai Ouji to Warawanai Neko",
+    "ja": "変態王子と笑わない猫。",
+    "ko": "변태왕자와 웃지 않는 고양이",
+    "code": "hentai-ouji-to-warawanai-neko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3994,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MC3OO9U92oA/X4NM2bI9aoI/AAAAAAABli0/6BM2KkeNdQoW4zAhcQSabzhSzWUZyOgDACLcBGAsYHQ/s270/353-Tsutsukakushi-Tsukiko-The-Hentai-Prince-and-the-Stony-Cat-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MC3OO9U92oA/X4NM2bI9aoI/AAAAAAABli0/6BM2KkeNdQoW4zAhcQSabzhSzWUZyOgDACLcBGAsYHQ/s270/353-Tsutsukakushi-Tsukiko-The-Hentai-Prince-and-the-Stony-Cat-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LrYzwk560jQ/X4da5Zt01oI/AAAAAAAArEU/dHKn_rqGA7cVgmyaF-2a6YuJ8UTTB4EjwCLcBGAsYHQ/s135/353-Tsukiko-Tsutsukakushi-Hentai-Ouji-to-Warawanai-Neko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jNO9feTQiyc/X4da5jrkzBI/AAAAAAAArEY/atJhXbHtKIUvCH8UC4MOvwcA_j91K-9RwCLcBGAsYHQ/s135/353-Tsukiko-Tsutsukakushi-Hentai-Ouji-to-Warawanai-Neko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FMPRutWxEBo/X4da5-MO5OI/AAAAAAAArEc/qNN2lTONWgIEIi28rwt1b0sMRMEnM4LaQCLcBGAsYHQ/s135/353-Tsukiko-Tsutsukakushi-Hentai-Ouji-to-Warawanai-Neko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ri6EWOogS6s/X4da5zESAoI/AAAAAAAArEg/n59lhFaAfYEnRGecrFXuVGldXMhHbHb8ACLcBGAsYHQ/s135/353-Tsukiko-Tsutsukakushi-Hentai-Ouji-to-Warawanai-Neko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--QvvQLXzECs/X4da6YKsnEI/AAAAAAAArEk/UboStjSLZ8Ev50K9bikQRMkwT1DwVs5HwCLcBGAsYHQ/s135/353-Tsukiko-Tsutsukakushi-Hentai-Ouji-to-Warawanai-Neko-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n353/",
+      "fetched_at": "2026-05-16T19:10:34.478Z",
+      "raw_id": "/nendoroid/details/n353/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.359Z",
+      "raw_id": "Nendoroid/0300-0399/353.json"
+    }
+  ]
+}

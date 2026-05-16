@@ -1,0 +1,70 @@
+{
+  "num": "1773",
+  "name": {
+    "en": "Nendoroid Vanitas",
+    "ja": "ねんどろいど ヴァニタス (ねんどろいど ゔぁにたす)",
+    "ko": "바니타스"
+  },
+  "series": {
+    "en": "The Case Study of Vanitas",
+    "ja": "ヴァニタスの手記",
+    "ko": "바니타스의 수기",
+    "code": "the-case-study-of-vanitas"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12068,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zAMT4swOd_A/Ya-zQVU8q9I/AAAAAAAA2Eo/ytP7UytUSoUCYUnRWLFsbotV3JJV0CDrgCNcBGAsYHQ/s270/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zAMT4swOd_A/Ya-zQVU8q9I/AAAAAAAA2Eo/ytP7UytUSoUCYUnRWLFsbotV3JJV0CDrgCNcBGAsYHQ/s270/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nUvY53HgQCE/Ya-2jyJeegI/AAAAAAAA2QQ/56ZzbqltS_k2wYL8sMm7akW43by6FXiLACNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4ooLZ6TRfUg/Ya-2kmKMxCI/AAAAAAAA2QU/xJfOqPqj8I4MBIw4y3JyWhotlwJcbOluwCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-O4JcXlc0L1o/Ya-2kwhv9PI/AAAAAAAA2QY/kU2_ONBHdBc8TdU1KsLIB_MMu_sgdC_DwCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1oit4M-VaBE/Ya-2k8HlpUI/AAAAAAAA2Qc/fhom-IAc5Lgc7AR_dXSRioI0NgFVYH8wwCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v6FeY80LuAw/Ya-2lPizXkI/AAAAAAAA2Qg/h7NpSdmqmJIDR4QYyqTkqU8ZcM6rJpGRwCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JeRwy63S-bM/Ya-2lZkcT2I/AAAAAAAA2Qk/4cTgW-0ks8gx8jtN_0T6ZHs4iTjHCKzggCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-AfDsx4W-Q1w/Ya-2lqPN3jI/AAAAAAAA2Qo/rmLdf-lRRm8GgX_AU4j57nrRdCzd4obUQCNcBGAsYHQ/s135/1773-Vanitas-The-Case-Study-of-Vanitas-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1773/",
+      "fetched_at": "2026-05-16T19:10:33.638Z",
+      "raw_id": "/nendoroid/details/n1773/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.748Z",
+      "raw_id": "Nendoroid/1700-1799/1773.json"
+    }
+  ]
+}

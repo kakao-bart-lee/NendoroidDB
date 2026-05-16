@@ -1,0 +1,63 @@
+{
+  "num": "2451",
+  "name": {
+    "en": "Shoko Komi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Komi Can't Communicate",
+    "ja": null,
+    "ko": null,
+    "code": "komi-can-t-communicate"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NDCOEhyvhds/Ziq_BJ1cThI/AAAAAAABECM/cTA4ZeVrs6U0uhCQpo98UhrArmcbHJadQCNcBGAsYHQ/s270/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NDCOEhyvhds/Ziq_BJ1cThI/AAAAAAABECM/cTA4ZeVrs6U0uhCQpo98UhrArmcbHJadQCNcBGAsYHQ/s270/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-64SKjV22nCE/Zow3k9NxDFI/AAAAAAABFrU/zSZMfBmQNVI1_YWhqQOVMoOFDcdSY3kaACNcBGAsYHQ/s135/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-olWXD4Gao7o/Zow3lZ3wNuI/AAAAAAABFrY/0JQOVPfCuQYvdFGdbH1fbiN6gHFJUnJKQCNcBGAsYHQ/s135/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8OaV0foFGw4/Zow3lw1M8DI/AAAAAAABFrc/sfWhB5Tymrsh4KgNr2jzIE0r4z-AsA_9gCNcBGAsYHQ/s135/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-479yQQvXvYw/Zow3maOsnvI/AAAAAAABFrg/Nx-gVolE_98GT-0g0nbDvF1Y7OzPw-4ewCNcBGAsYHQ/s135/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-A1x86muWhp8/Zow3myIqwsI/AAAAAAABFrk/ck5wrvKThF0jdEHl1fBicw_ELLa4l_LcACNcBGAsYHQ/s135/2451-Shoko-Komi-Komi-Cant-Communicate-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2451/",
+      "fetched_at": "2026-05-16T19:10:34.067Z",
+      "raw_id": "/nendoroid/details/n2451/"
+    }
+  ]
+}

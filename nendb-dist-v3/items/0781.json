@@ -1,0 +1,71 @@
+{
+  "num": "0781",
+  "name": {
+    "en": "Nendoroid Spider-Man: Homecoming Edition",
+    "ja": "ねんどろいど スパイダーマン ホームカミング・エディション (ねんどろいど すぱいだーまん ほーむかみんぐ・えでぃしょん)",
+    "ko": "스파이더맨 홈커밍 에디션"
+  },
+  "series": {
+    "en": "Spider-Man: Homecoming",
+    "ja": "スパイダーマン:ホームカミング",
+    "ko": "스파이더맨 홈커밍",
+    "code": "spider-man-homecoming"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6486,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h7UIK627QaA/X4NdH87uhlI/AAAAAAABmAk/KqO87d3gXaAl3AcDTtenDELurRoEpDZuACLcBGAsYHQ/s270/781-Spider-Man-Homecoming-Edition-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h7UIK627QaA/X4NdH87uhlI/AAAAAAABmAk/KqO87d3gXaAl3AcDTtenDELurRoEpDZuACLcBGAsYHQ/s270/781-Spider-Man-Homecoming-Edition-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oXahp66Khvw/X4i5nyaQmeI/AAAAAAAAtjo/bJ8LqoObRj026NkJGTEJE0zf6xUzQT-kwCLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OqJldmossDs/X4i5oct8luI/AAAAAAAAtjs/3W3pT65TunA7XCwyt3dao_aL8azuPK2MgCLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ks6YExkkDv8/X4i5oweEKJI/AAAAAAAAtjw/oQXPfrvIemMiQvgLlkFkM03yIWqcLRvLgCLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fNlk-J85qiU/X4i5pBJahJI/AAAAAAAAtj0/LoxLNTccWiIA6o1RnJz3yEPS-pqVH331ACLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EyxHUROTU10/X4i5pgBa3kI/AAAAAAAAtj4/1KEsm7A5s58wIZFmBheUKUba9axOLQZAACLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4GDFFJWxSBk/X4i5qO_xUhI/AAAAAAAAtj8/_8_9UawKnFYlDtrK46Ti32GqMlgAuIRYACLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pAFg65JY4Lw/X4i5qX9fBgI/AAAAAAAAtkA/2nr9Q4Q3jYQQJ_KqUVfvOf9fNMviS6cYgCLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-KZoGvPu-rGc/X4i5nYx8QNI/AAAAAAAAtjk/km_vTLx4spogQEQuEf5S5oT2fi5otcqLwCLcBGAsYHQ/s135/781-Spider-Man-Spider-Man-Homecoming-Marvel-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n781/",
+      "fetched_at": "2026-05-16T19:10:34.796Z",
+      "raw_id": "/nendoroid/details/n781/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.506Z",
+      "raw_id": "Nendoroid/0700-0799/781.json"
+    }
+  ]
+}

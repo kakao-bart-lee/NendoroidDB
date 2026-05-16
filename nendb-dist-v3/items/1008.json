@@ -1,0 +1,68 @@
+{
+  "num": "1008",
+  "name": {
+    "en": "Nendoroid Tsunade",
+    "ja": "ねんどろいど 綱手 (ねんどろいど つなで)",
+    "ko": "츠나데"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-L6viAELZ-Gg/X4NfhOsxhtI/AAAAAAABmRg/jgCN0y7ZZckd9-GN1H706Iw8mi9k211aACLcBGAsYHQ/s270/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-L6viAELZ-Gg/X4NfhOsxhtI/AAAAAAABmRg/jgCN0y7ZZckd9-GN1H706Iw8mi9k211aACLcBGAsYHQ/s270/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UF1kqV2RcDU/X4rrMue2JGI/AAAAAAABoUs/dLPST5gFppMIPq1FZNNylk-BHMTGzIMCQCLcBGAsYHQ/s135/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OoTK3Y1QKZc/X4rrM1kC5iI/AAAAAAABoUw/wtE_HVHJEWYkVn0PffliG5zRyOWIPWwDgCLcBGAsYHQ/s135/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6-g0dhP4c9A/X4rrNApdryI/AAAAAAABoU0/hiDlIlaEe3kEiCv8ff0CArysJd1yLBh6gCLcBGAsYHQ/s135/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Cq1jG_h8PNw/X4rrNRLDxII/AAAAAAABoU4/mjf9pXB4ph8jUrKaCydWfNvHWjBylv44QCLcBGAsYHQ/s135/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2CAbzs1-CYY/X4rrNnnF2RI/AAAAAAABoU8/iGUPVBW7rW83ikfsm0JIGlvM1PBmA8-3wCLcBGAsYHQ/s135/1008-Tsunade-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1008/",
+      "fetched_at": "2026-05-16T19:10:33.131Z",
+      "raw_id": "/nendoroid/details/n1008/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.562Z",
+      "raw_id": "Nendoroid/1000-1099/1008.json"
+    }
+  ]
+}

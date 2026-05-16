@@ -1,0 +1,68 @@
+{
+  "num": "0859",
+  "name": {
+    "en": "Nendoroid Lotte Jansson",
+    "ja": "ねんどろいど ロッテ・ヤンソン (ねんどろいど ろって・やんそん)",
+    "ko": "롯테 얀손"
+  },
+  "series": {
+    "en": "Little Witch Academia",
+    "ja": "リトルウィッチアカデミア",
+    "ko": "리틀 위치 아카데미아",
+    "code": "little-witch-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6915,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rxPMAjrBJqM/X4Nd5tLSHGI/AAAAAAABmGY/TknOOPNiQnMCKwaXdygvc8FFH2eBbhsfgCLcBGAsYHQ/s270/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rxPMAjrBJqM/X4Nd5tLSHGI/AAAAAAABmGY/TknOOPNiQnMCKwaXdygvc8FFH2eBbhsfgCLcBGAsYHQ/s270/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-42g2qdJwO2c/X4rjXVg5-lI/AAAAAAABnU8/w9laUqIyxUUYXTLuvNTFOwSawKR9kyuXgCLcBGAsYHQ/s135/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7xM0QrWcmxk/X4rjXlF1r8I/AAAAAAABnVA/WJN-zFIWUgQ_u4wBjzwmaFMdHXWWv-BBgCLcBGAsYHQ/s135/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z8sCJdHiy1c/X4rjXls8zZI/AAAAAAABnVE/OsW-zugrjsE5FItGcJsCFtOWTaeR-JgLQCLcBGAsYHQ/s135/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WohVNZvsOxw/X4rjYPON4qI/AAAAAAABnVI/NsasB_ynYVYWko7jqLw6wzh0EZlD6gmlACLcBGAsYHQ/s135/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4LV3hrPzbok/X4rjYS9EW-I/AAAAAAABnVM/nZbcL01aVWwCblgwv22LNP6oTjpVoWhCwCLcBGAsYHQ/s135/859-Lotte-Yanson-Little-Witch-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n859/",
+      "fetched_at": "2026-05-16T19:10:34.839Z",
+      "raw_id": "/nendoroid/details/n859/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.524Z",
+      "raw_id": "Nendoroid/0800-0899/859.json"
+    }
+  ]
+}

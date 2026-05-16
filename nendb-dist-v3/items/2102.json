@@ -1,0 +1,96 @@
+{
+  "num": "2102",
+  "name": {
+    "en": "Nendoroid Pretender/Oberon",
+    "ja": "ねんどろいど プリテンダー/オベロン (ねんどろいど ぷりてんだー/おべろん)",
+    "ko": "프리텐더/오베론"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4571697188464",
+  "gsc_product_id": "11881",
+  "gsc_product_num": 14196,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11881",
+    "ja": "https://www.goodsmile.com/ja/product/11881"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230331/14196/113759/large/91eb4307cf44d0af4e949392da4d3daf.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r6xGDpoAOwU/ZFqWWoEp9VI/AAAAAAAA9yg/Dvw4aayZdmQljwuiazb25JnhtXdfqJ37gCNcBGAsYHQ/s270/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XOViCqj6lGE/ZFqbkVxUvTI/AAAAAAAA92A/GFkDGvdAHiEc8cK_98O9VXJCXSO9wfDvACNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ef1csj9q4J0/ZFqbkkGaDzI/AAAAAAAA92E/Eznwba78RaozHQdBLNPC6b1DbaEd_A5BACNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UqjviqvjPwk/ZFqbkwdMe0I/AAAAAAAA92I/a6wZNof1aCoSBYunT4WCYUIoG7rjk-7-gCNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eKSvWyVAPIw/ZFqblS1J4VI/AAAAAAAA92M/ikUOLJ03CwEzfSFzVcym0t4gdqmNsGEdACNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HO4x9tQ2sVg/ZFqbl9CegsI/AAAAAAAA92Q/ZzEU0BbzfjEWRFsBvtERjvru6I7XAnWvQCNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2meEoteKBi8/ZFqbmZtu06I/AAAAAAAA92U/Byfe3gvdDNEChWfjpazvulptIX7NuzRTQCNcBGAsYHQ/s135/2102-Pretender-Oberon-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230331/14196/113766/large/e2d652e94769edc9c05ab5e5216603e1.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230331/14196/113759/large/91eb4307cf44d0af4e949392da4d3daf.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11881",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:55:58.098Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11881",
+      "fetched_at": "2026-05-16T11:55:58.098Z",
+      "raw_id": "11881"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11881",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11881"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2102/",
+      "fetched_at": "2026-05-16T19:10:33.841Z",
+      "raw_id": "/nendoroid/details/n2102/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.826Z",
+      "raw_id": "Nendoroid/2100-2199/2102.json"
+    }
+  ]
+}

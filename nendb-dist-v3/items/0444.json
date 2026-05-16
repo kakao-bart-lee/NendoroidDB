@@ -1,0 +1,67 @@
+{
+  "num": "0444",
+  "name": {
+    "en": "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)",
+    "ja": "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
+    "ko": "야자와 니코"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4511,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-70KNZ9y7t0w/X4NNydrM71I/AAAAAAABlpQ/U_FsDMVyRqgFfHDXtd7Cr-DJ4zFjoaCXQCLcBGAsYHQ/s270/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-70KNZ9y7t0w/X4NNydrM71I/AAAAAAABlpQ/U_FsDMVyRqgFfHDXtd7Cr-DJ4zFjoaCXQCLcBGAsYHQ/s270/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-k1QcX63egow/X4deL3n8CsI/AAAAAAAArkY/4IUjwYRHBpYzkPhkC5pIOzyPDEDMSqC1wCLcBGAsYHQ/s135/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PQhMY39oBzc/X4deMBakCAI/AAAAAAAArkc/z8kYbvDnp1kh3uq9mLc-vIYI_kgabNNugCLcBGAsYHQ/s135/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9jGtYzKRZdc/X4deMYWgqdI/AAAAAAAArkg/qzuPK8g9c6QCmWi2uEfTlLnDJf8_Ne_2QCLcBGAsYHQ/s135/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Nh20zKIPtJw/X4deM9vx7HI/AAAAAAAArkk/Bd1RTD6miXwUxBf4Jw0v8WJF783_NpteACLcBGAsYHQ/s135/444-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n444/",
+      "fetched_at": "2026-05-16T19:10:34.533Z",
+      "raw_id": "/nendoroid/details/n444/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.381Z",
+      "raw_id": "Nendoroid/0400-0499/444.json"
+    }
+  ]
+}

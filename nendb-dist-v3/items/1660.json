@@ -1,0 +1,69 @@
+{
+  "num": "1660",
+  "name": {
+    "en": "Nendoroid Sally",
+    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko": "사리"
+  },
+  "series": {
+    "en": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "ko": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
+    "code": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11310,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-it1K_CACS1I/YONqQzvupaI/AAAAAAAAzEI/mUhG_laiXKYJZPH6ziU7nf0xaRTB5k7ZQCLcBGAsYHQ/s270/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-it1K_CACS1I/YONqQzvupaI/AAAAAAAAzEI/mUhG_laiXKYJZPH6ziU7nf0xaRTB5k7ZQCLcBGAsYHQ/s270/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-G48zDq0Z4vs/YONsJ5uD8sI/AAAAAAAAzIE/ylmDtwzf22M_mk7VlB8GeMmaHEc1r_eEwCLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-o2HIfZUFfH4/YONsKP-0gWI/AAAAAAAAzII/IJEOm0waNBgyj4oPypQr8l3wlvmmVButQCLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UBPqCG4irMQ/YONsKXQvC8I/AAAAAAAAzIM/4hHlYFsRxbAIahCWho7GqR01axyi2u2HACLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3DwiHkoHDmM/YONsKkBSsLI/AAAAAAAAzIQ/nMWlRPZZqA01F4L59fDgQPZORzszysgmwCLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--bC-oRkty34/YONsKsxXZCI/AAAAAAAAzIU/dwVba0au_-0fhIP1qbBEpjJRnnA02xZmACLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9nkgVDFnneo/YONsK2xtSsI/AAAAAAAAzIY/Uy1eBk3mDBgGAVD5vRlALugHfiVEmv3zwCLcBGAsYHQ/s135/1660-Sally-BOFURI-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1660/",
+      "fetched_at": "2026-05-16T19:10:33.566Z",
+      "raw_id": "/nendoroid/details/n1660/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.720Z",
+      "raw_id": "Nendoroid/1600-1699/1660.json"
+    }
+  ]
+}

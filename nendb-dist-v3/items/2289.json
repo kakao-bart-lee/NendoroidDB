@@ -1,0 +1,68 @@
+{
+  "num": "2289",
+  "name": {
+    "en": "Nendoroid Adjudicator",
+    "ja": "ねんどろいど Adjudicator (ねんどろいど あじゅでぃけーたー)",
+    "ko": "Adjudicator"
+  },
+  "series": {
+    "en": "Tears of Themis",
+    "ja": "未定事件簿",
+    "ko": "미해결사건부",
+    "code": "tears-of-themis"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 15002,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_D_K8k0EgpA/ZSHUrNEHgcI/AAAAAAABCAk/og1Goh4IDl8PG3PzshAtr6hR0VdMxvLogCNcBGAsYHQ/s270/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_D_K8k0EgpA/ZSHUrNEHgcI/AAAAAAABCAk/og1Goh4IDl8PG3PzshAtr6hR0VdMxvLogCNcBGAsYHQ/s270/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m4k5rJcU1vk/ZSHVvghhiMI/AAAAAAABCFQ/ouxqRY4hTNkOo_4xceyqOGI12foZ1VN0gCNcBGAsYHQ/s135/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cnqCod7d390/ZSHVvjW2pXI/AAAAAAABCFM/p763ME9c8-MSU09oG4m-WLSoQiNiLv8lwCNcBGAsYHQ/s135/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WELA6iNlAXg/ZSHVwU9ZC1I/AAAAAAABCFU/PcXiPCMyQ2sqmWg037FFbtE5m3qHvMEZwCNcBGAsYHQ/s135/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AMH4y8xxLSE/ZSHVwvN8euI/AAAAAAABCFY/UhS51d2qQygkbBUrxn7SmewL2o5GInwNQCNcBGAsYHQ/s135/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tz-aT0nfQsc/ZSHVw5kLDiI/AAAAAAABCFc/BU30dNl4GKYdL0o8lE7zm0BmsWrA9p2AQCNcBGAsYHQ/s135/2289-Adjudicator-Tears-of-Themis-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2289/",
+      "fetched_at": "2026-05-16T19:10:33.966Z",
+      "raw_id": "/nendoroid/details/n2289/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.870Z",
+      "raw_id": "Nendoroid/2200-2299/2289.json"
+    }
+  ]
+}

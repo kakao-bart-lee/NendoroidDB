@@ -1,0 +1,69 @@
+{
+  "num": "0887",
+  "name": {
+    "en": "Nendoroid Iroha Tamaki",
+    "ja": "ねんどろいど 環いろは (ねんどろいど たまきいろは)",
+    "ko": "타마키 이로하"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica Side Story: Magia Record",
+    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-side-story-magia-record"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7036,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mgpPBIgLnnY/X4NeCXbnv0I/AAAAAAABmII/TMGPxvyfaD8I2dk3bdSzq6AoMnFXIQCiQCLcBGAsYHQ/s270/887-Iroha-Tamaki-Puella-Magi-Side-Story-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mgpPBIgLnnY/X4NeCXbnv0I/AAAAAAABmII/TMGPxvyfaD8I2dk3bdSzq6AoMnFXIQCiQCLcBGAsYHQ/s270/887-Iroha-Tamaki-Puella-Magi-Side-Story-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-epvYYgOTiIc/X4rkINduyhI/AAAAAAABnfs/raLQjD9VmyMdsCML83AVSA3rdohktSyRwCLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6GRRhZNfClI/X4rkIegyyJI/AAAAAAABnf0/DhGJddD6feY-2IbswqsLu-C6tI44mAWFgCLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7Zz-cW7avrk/X4rkITIzEeI/AAAAAAABnfw/I8KTz5rJkhIDsmaad0U7MU0jtrHYAhWogCLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LRbIXh_h0ag/X4rkI3utDKI/AAAAAAABnf4/RLu-Yum3r2gesv0opmtT7QzyhmdJrx7yACLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lUfqmQTqqa8/X4rkJI0vqfI/AAAAAAABnf8/J0zgD5fVQt4POCeTiKtjDis7qq7dzzxzQCLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lOEgrvOPp-w/X4rkJc_bDII/AAAAAAABngA/zyesP2dU3tIBxqDNac0vQIXwIUd8MMSCQCLcBGAsYHQ/s135/887-Iroha-Tamaki-Puella-Magi-Madoka-Magica-Side-Story-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n887/",
+      "fetched_at": "2026-05-16T19:10:34.855Z",
+      "raw_id": "/nendoroid/details/n887/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.531Z",
+      "raw_id": "Nendoroid/0800-0899/887.json"
+    }
+  ]
+}

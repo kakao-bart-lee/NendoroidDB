@@ -1,0 +1,63 @@
+{
+  "num": "2471",
+  "name": {
+    "en": "Takumi Usui",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Maid-Sama!",
+    "ja": null,
+    "ko": null,
+    "code": "maid-sama"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ApIciDN9EIk/ZljX5phLy3I/AAAAAAABEgQ/GAh4ytooNtMVxVcteHLVi9M8QyaId_M2gCNcBGAsYHQ/s270/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ApIciDN9EIk/ZljX5phLy3I/AAAAAAABEgQ/GAh4ytooNtMVxVcteHLVi9M8QyaId_M2gCNcBGAsYHQ/s270/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AffIYTrkBVo/Zow476b0RWI/AAAAAAABFz4/IO6ykfJL-jMhLwxuLuVUZKi7SRZNXKv6wCNcBGAsYHQ/s135/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VAcUONaJovM/Zow48Q2LzkI/AAAAAAABFz8/exUC76GWQ30i0r3o7dSjnLGY73Js-_RNwCNcBGAsYHQ/s135/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rMmRiHOfup0/Zow48zZ-IgI/AAAAAAABF0A/WaUWwFkqxfA-RuBZrUX-epVswzmyGnvHwCNcBGAsYHQ/s135/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qQlZr1y1uTg/Zow49tnE_MI/AAAAAAABF0E/ntwoj6YixUY8ZwlPl21BYN6hZy_F2oTBQCNcBGAsYHQ/s135/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fgDRBrw7jvI/Zow49_Lj7EI/AAAAAAABF0I/kjzcK615tGUBO0JNTYOs5E1HdnVrdTv3wCNcBGAsYHQ/s135/2471-Takumi-Usui-Maid-Sama-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2471/",
+      "fetched_at": "2026-05-16T19:10:34.080Z",
+      "raw_id": "/nendoroid/details/n2471/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "2430",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Character Vocal Series",
+    "ja": null,
+    "ko": null,
+    "code": "character-vocal-series"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--aiCC8qVqF4/Ziq-4z126vI/AAAAAAABEBM/FaGYN3Zwx1AQL9kE_qCXPmNHkhSeKs7-QCNcBGAsYHQ/s270/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--aiCC8qVqF4/Ziq-4z126vI/AAAAAAABEBM/FaGYN3Zwx1AQL9kE_qCXPmNHkhSeKs7-QCNcBGAsYHQ/s270/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dsUpQnf1Jqc/Zow2nwvsuMI/AAAAAAABFj0/g3WUTlwgAsQZU2xww8DsRrOAiNsknUYzQCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yA2fQo9fK-U/Zow2n5fIN4I/AAAAAAABFj4/ueJonRoxL7sMMwwwAI4zw-F0Vu1E3xPfwCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HrV6KG1M5dw/Zow2n-zyTZI/AAAAAAABFjw/1PmhCGVM8lERJ562MfjRulHz99ymipLXwCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JNaK3-lZLAw/Zow2oeomWiI/AAAAAAABFj8/EAt8YF2CW78RAN4CUNnX_B-KySV0IPwjgCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hEGcufVyIAQ/Zow2oyKtrwI/AAAAAAABFkA/bnNyxF2srn4Cnl3u5HgdAhcUUVUogbjFgCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WPva4z7oNdc/Zow2pepyo0I/AAAAAAABFkE/k4Dd-9MtZ0kMazlfNuP5SHVZm54b9pdrQCNcBGAsYHQ/s135/2430-Hatsune-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2430/",
+      "fetched_at": "2026-05-16T19:10:34.053Z",
+      "raw_id": "/nendoroid/details/n2430/"
+    }
+  ]
+}

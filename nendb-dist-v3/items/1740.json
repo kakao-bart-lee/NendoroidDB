@@ -1,0 +1,94 @@
+{
+  "num": "1740",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Magical Mirai 2020 Winter Festival Ver.",
+    "ja": "ねんどろいど 初音ミク マジカルミライ 2020 Winter Festival Ver. (ねんどろいど はつねみく まじかるみらい 2020 うぃんたー ふぇすてぃばる Ver.)",
+    "ko": "하츠네 미쿠 매지컬 미라이 2020 Winter Festival Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4580590124608",
+  "gsc_product_id": "9450",
+  "gsc_product_num": 11761,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/9450",
+    "ja": "https://www.goodsmile.com/ja/product/9450"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210909/11761/90576/large/2aeadc44daccf05d6c67cf70d86b0232.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mDPQJT46-qQ/YWSHhVGK8cI/AAAAAAAA0_0/1xl6yvO2VrQLy5TQRbZoNcmg4S-H6oCdgCLcBGAsYHQ/s270/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c1HTJe85KY4/YWSa-bqiWXI/AAAAAAAA1Jo/EO73tWE1kDw3QhmzoIoZMEQlBxowwcEmACLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wtg1vXqeoAs/YWSa-kH0U7I/AAAAAAAA1Js/0YFjcWFaVW4UlynpayYvuK_cNiAbD4p4QCLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-U3h55U0l7-U/YWSa_OfMhNI/AAAAAAAA1Jw/jHcujOyGZwsrXoLybZKux_TtevKR7LmGgCLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-24uwmsIKsBc/YWSa_vMbjeI/AAAAAAAA1J0/LgZlOz9lLDgn4PyO_MCl2ccWLap1IIUWgCLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RyFCHfzhpqI/YWSbACBPqRI/AAAAAAAA1J4/UrL05mmcHhoJz_vST8HdidVq-NHv-w3IACLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-o_abJOXc8Gs/YWSbAos7zMI/AAAAAAAA1J8/pxSmVqLOFlMsLOMQnA5In0Ll4D6GAOzZwCLcBGAsYHQ/s135/1740-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210909/11761/90583/large/60d7cdf77c075ebd41c978f932be328e.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210909/11761/90576/large/2aeadc44daccf05d6c67cf70d86b0232.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9450",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:50:57.569Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9450",
+      "fetched_at": "2026-05-16T11:50:57.569Z",
+      "raw_id": "9450"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/9450",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "9450"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1740/",
+      "fetched_at": "2026-05-16T19:10:33.619Z",
+      "raw_id": "/nendoroid/details/n1740/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.740Z",
+      "raw_id": "Nendoroid/1700-1799/1740.json"
+    }
+  ]
+}

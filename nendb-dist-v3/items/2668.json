@@ -1,0 +1,66 @@
+{
+  "num": "2668",
+  "name": {
+    "en": "Xiao",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": null,
+    "ko": null,
+    "code": "genshin-impact"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmiWfjAuWzEIAAlFTNy2KNZd-2neIRPVJpaKj78ME8qgKfZUm9nE9Mgt69PsVAvBCJQUnjxhVOfPQw-ZsPG7B9VGQDtEtzMBPUcFXoT6RA9BB09U4GQoA9n_-S0iewJEOqKO33Evbk2jk3J7qiMn615iNTw5cNhU8FucwY53Z9mR_IJDqdP_ESc-hY_qg7/s270/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmiWfjAuWzEIAAlFTNy2KNZd-2neIRPVJpaKj78ME8qgKfZUm9nE9Mgt69PsVAvBCJQUnjxhVOfPQw-ZsPG7B9VGQDtEtzMBPUcFXoT6RA9BB09U4GQoA9n_-S0iewJEOqKO33Evbk2jk3J7qiMn615iNTw5cNhU8FucwY53Z9mR_IJDqdP_ESc-hY_qg7/s270/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9VAciGByDYEq4wWMQf107DuaKHV1M8sC1SSZWSoe2lTWeHxGUdU9XJ5kCIEvqBdbqVpQ1k1T4a7KFkYC5I8HSG1Wi8ALnbdb6XueOM9Q5SU2pPDsskLcD7B9u4Q024mfza0PON6OVS86iFdxH2oGEMtRANI2zlr0psrOxEEh-9A79gppXqmWRuIuXXhfD/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3_TgvsYGDvwwJ8RdtT7aWVkt_SMmAWHHYHBe7NtSoTV6TYlEYQFVdbu8Dh9JOkZ-DRH5gn5HdWwZDlPPAt_0Bka5V0h0IqkbE0Tz9N7weAIFG3L9AnUVFFnYSuLHLrrjVnNsBW_pTLg3haApA1VV6bgnnECkAufgPIzNyDoZzDOVWSN2jI0kxVGSptcS/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-YQEPn6afrtWGBda6nYJ_WeFms3ny3smBdAJKYVQ5q_TttjEkcI7an6OjyfXQkUUEFYDZ417gJnQv6s-T6cUMex9WP-gY7PcUM9n3Do125xqxA9m5crZyCa39jKDNY0N4LFfQ1BD-P68Umr0WUz7duGQXzLyvOh_EdIB9g06p08hb28Wq06DtOudtWUuR/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiC9-8YkhISZ0JXQNbldm0lepKURMks54GwhOL-azJLqmcYA4sg1tvADi3z8Lbn4uNploxAAJ1S9qoZWNWfY0qIj08H5n6fzwbWPBx8QwSgtc31xoDodquunTX6UkF1S6IDxU4SUiuDNJr6nZ-tMUijlDCV1LpV2XmXIHSO999vHqi2EtKExI9Kx9OHjCO/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLDBMO24aY-_vrb3SPKBG0m3HdisAUsqb9OxAvTJAa5wgs-kaFiliChSH7gvGQi7rso5CLKm8pmmrTKorXJsFY65bDmBckDepQa_gl6bAhvb4xEjYZzx__8IfKIxsq2pgSgJCiLPieCH-zZtlLqe5q7xdqWfGmclT33bvQSud6y4DM33CXgY427gS9lVUM/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2gDV90j4AcYo647McU_Jz7CGwfGr3kHAaiSB1eB4yJaYJ11JYKZTclc68gNYtQIkDLiXEOXEEjm1DFmXe5lmZxa33rIWl6SBTNe8NmWqQ0uiFuZX0Mmoljb1hu_S_wwvYnQcRvQ7aE975Lw6ppyC7PRy0j3oLKRjhyphenhyphenauHVrLEQTYU0cM6ljFy6TADnV76/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKkiA-GxeLATY_s5ZbbD5oWmNSLsx_zYcXli5lcKqLlhQ_JKl0XlbttQla1uZnY4jHhTx744TgvC8XksHQkmpwtO259Crg6DCUZjqojOgCsXuWNB8KEwhEz_D_OZrFioGwWVqZVmPmeNe2YJRXlaTA0S6EEL3hAeO_KDfgp-iqUw7O7cN9IV66mFXUu0KJ/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtyKZy3OEcHRf_0QiUQ2QImWRhvgj4ORUm9LA2ykU3Tzn8nFZh86YAqn0LTzQmJeYMKu_OkYizL9racGLm6RLlWxe9vo-y-GGM_m_mnSaPWhNe7UZ8QZoBuSLzAPHm_sJMyiYzEPvHDtVMPr6YZCdXUYxJWoeypAdJb7qELw5Je2lpVHM_8gV6NwoqmcYh/s135/2668-Xiao-Genshin-Impact-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2668/",
+      "fetched_at": "2026-05-16T19:10:34.200Z",
+      "raw_id": "/nendoroid/details/n2668/"
+    }
+  ]
+}

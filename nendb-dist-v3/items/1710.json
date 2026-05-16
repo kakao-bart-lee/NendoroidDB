@@ -1,0 +1,70 @@
+{
+  "num": "1710",
+  "name": {
+    "en": "Nendoroid Suiseiseki",
+    "ja": "ねんどろいど 翠星石 (ねんどろいど すいせいせき)",
+    "ko": "스이세이세키"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11766,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eyO-P_1QWIE/YWSHcCmn7lI/AAAAAAAA0_I/9GIlyqyM6G0oI96y8YbK415UT7iTOBEagCLcBGAsYHQ/s270/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eyO-P_1QWIE/YWSHcCmn7lI/AAAAAAAA0_I/9GIlyqyM6G0oI96y8YbK415UT7iTOBEagCLcBGAsYHQ/s270/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O1hG6JM_wVI/YWSaiYgNPvI/AAAAAAAA1FI/XscCiExB84Qd9C8mv6RPTSbu77f8UPsnQCLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XrQE1VO5qrY/YWSai_94AbI/AAAAAAAA1FM/Uxkky8jG0KEe-GCnVDkVuJ1mS9zaaG0lgCLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NaJs93CoXyY/YWSajabS_3I/AAAAAAAA1FQ/ytwPbC0SAW0-Fr3hpuEPXqtFTlpNg0SFwCLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-juElxh0yUr4/YWSaj6DDeqI/AAAAAAAA1FU/-qfj6Q1WKCs8neSohrfxMrw8BuEx6P3xQCLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3y-Kf04oYz4/YWSakTAlmRI/AAAAAAAA1FY/cQZi4K5MwZMPvb4KXaYtlnQUhsDvWzcjACLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Am-lxruyhDE/YWSakzl_VVI/AAAAAAAA1Fc/za99bAViPccfD2wOBaEvE1ijRk_nVtA7QCLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-A-k-WJvbIWA/YWSalTpXIKI/AAAAAAAA1Fg/1MPG3FQsXlUUPxMAAUL3qfM2Sep4Ed2zACLcBGAsYHQ/s135/1710-Suiseiseki-Rozen-Maiden-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1710/",
+      "fetched_at": "2026-05-16T19:10:33.600Z",
+      "raw_id": "/nendoroid/details/n1710/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.732Z",
+      "raw_id": "Nendoroid/1700-1799/1710.json"
+    }
+  ]
+}

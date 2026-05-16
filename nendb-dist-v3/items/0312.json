@@ -1,0 +1,67 @@
+{
+  "num": "0312",
+  "name": {
+    "en": "Nendoroid Haruka Minami (ねんどろいど みなみ はるか)",
+    "ja": "ねんどろいど 南 春香 (ねんどろいど みなみ はるか)",
+    "ko": "미나미 하루카"
+  },
+  "series": {
+    "en": "Minamike Tadaima",
+    "ja": "みなみけ ただいま",
+    "ko": "미나미가",
+    "code": "minamike-tadaima"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3840,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zMzEbW1Kix8/X4NMlkA_4mI/AAAAAAABlgI/ZGZTFH3D8wU9l7LBZ-cAKnF59wbTYkOUACLcBGAsYHQ/s270/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zMzEbW1Kix8/X4NMlkA_4mI/AAAAAAABlgI/ZGZTFH3D8wU9l7LBZ-cAKnF59wbTYkOUACLcBGAsYHQ/s270/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FsiZkiExUBc/X4daF_G21WI/AAAAAAAAq3M/UbU7nMyy4UMN0pTq1WK2E3pPn4_ar6jtwCLcBGAsYHQ/s135/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ToGde7US4g4/X4daF5CBivI/AAAAAAAAq3Q/DznXI3JmZwYmoDXWiiNGg2tRyoAs-FJcgCLcBGAsYHQ/s135/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tW5AbPJkk0o/X4daGKtIeeI/AAAAAAAAq3U/E9SXQ1TgZ8kGDUykP66LiB-aTLIDheHbgCLcBGAsYHQ/s135/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xg3wz8OIg5U/X4daGYCRVoI/AAAAAAAAq3Y/Xesl1ef7FkkBeWkeh4NdyEzTqnfR9Ea5gCLcBGAsYHQ/s135/312-Minami-Haruka-Minamike-Tadaima-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n312/",
+      "fetched_at": "2026-05-16T19:10:34.455Z",
+      "raw_id": "/nendoroid/details/n312/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.348Z",
+      "raw_id": "Nendoroid/0300-0399/312.json"
+    }
+  ]
+}

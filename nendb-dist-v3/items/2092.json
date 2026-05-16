@@ -1,0 +1,68 @@
+{
+  "num": "2092",
+  "name": {
+    "en": "Nendoroid Senjuro Rengoku",
+    "ja": "ねんどろいど 煉󠄁獄千寿郎 (ねんどろいど れんごくせんじゅろう)",
+    "ko": "렌고쿠 센쥬로"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14105,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S1LQnTinSRI/ZCnVZJJN08I/AAAAAAAA9UA/vewNU-X4FcYFRiW-6wkrKg3aeJz1qpVkQCNcBGAsYHQ/s270/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S1LQnTinSRI/ZCnVZJJN08I/AAAAAAAA9UA/vewNU-X4FcYFRiW-6wkrKg3aeJz1qpVkQCNcBGAsYHQ/s270/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L8sCV7PYFI8/ZCnZqsVOv2I/AAAAAAAA9Wc/VR7IqfsciVoHnYei9DhyFYEeE5oEwH6KwCNcBGAsYHQ/s135/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kfmatwAwtq4/ZCnZqq1QkBI/AAAAAAAA9Wk/jOsomeMpYN8AAxfA9EiwR-kcEuttCm2QQCNcBGAsYHQ/s135/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M0F-9f6O4SY/ZCnZq3CvIVI/AAAAAAAA9Wg/yDwXrbCmMZ0qRm7rTmRgLswcQcAQnw_egCNcBGAsYHQ/s135/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XgG_q8PxmUQ/ZCnZq_6eQkI/AAAAAAAA9Wo/Ip-vb_3RtOcPqNVVeWes54qZ4t6MyJyjgCNcBGAsYHQ/s135/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SyXiteqPF5Q/ZCnZrLrnbGI/AAAAAAAA9Ws/21rQJAm85Og3yI1_HdA2P0IwRug-GiiHgCNcBGAsYHQ/s135/2092-Senjuro-Rengoku-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2092/",
+      "fetched_at": "2026-05-16T19:10:33.835Z",
+      "raw_id": "/nendoroid/details/n2092/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.824Z",
+      "raw_id": "Nendoroid/2000-2099/2092.json"
+    }
+  ]
+}

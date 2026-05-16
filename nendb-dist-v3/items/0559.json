@@ -1,0 +1,67 @@
+{
+  "num": "0559",
+  "name": {
+    "en": "Nendoroid Hanayo Koizumi: Training Outfit Ver.",
+    "ja": "ねんどろいど 小泉花陽 練習着Ver. (ねんどろいど こいずみはなよ れんしゅうぎVer.)",
+    "ko": "코이즈미 하나요 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5217,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G3WbttRPskc/X4NOkDoPevI/AAAAAAABlxM/L4sU4BC6WjgP5onycFrs7Md5nfOSiVR4ACLcBGAsYHQ/s270/559-Hanayo-Koizumi-Training-Outfit-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G3WbttRPskc/X4NOkDoPevI/AAAAAAABlxM/L4sU4BC6WjgP5onycFrs7Md5nfOSiVR4ACLcBGAsYHQ/s270/559-Hanayo-Koizumi-Training-Outfit-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-apHX3dSncsc/X4is7GshnxI/AAAAAAAAsPU/Y1OiO275iewMLh6q9BRjy7D6gKIcIG7yACLcBGAsYHQ/s135/559-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GiifhE0Ufnw/X4is7mvwusI/AAAAAAAAsPY/9rHJde259Fwr2o6W0pd2NT4JJrrn9dQ-ACLcBGAsYHQ/s135/559-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KPuzsWVgKXs/X4is78sgzaI/AAAAAAAAsPc/TtCDB2c0cUoMlM2CGKVzhUSGAzpXbl63ACLcBGAsYHQ/s135/559-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xlXZ5qAsx0g/X4is75V5CaI/AAAAAAAAsPg/4akNiP9IV4kFW0FAaAnV7-MyfEJ4JoS5wCLcBGAsYHQ/s135/559-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n559/",
+      "fetched_at": "2026-05-16T19:10:34.599Z",
+      "raw_id": "/nendoroid/details/n559/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.445Z",
+      "raw_id": "Nendoroid/0500-0599/559.json"
+    }
+  ]
+}

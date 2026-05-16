@@ -1,0 +1,68 @@
+{
+  "num": "0602",
+  "name": {
+    "en": "Nendoroid Sybilla",
+    "ja": "ねんどろいど シビラ (ねんどろいど しびら)",
+    "ko": "시빌라"
+  },
+  "series": {
+    "en": "Millennium War Aigis",
+    "ja": "千年戦争アイギス",
+    "ko": "천년전쟁 아이기스",
+    "code": "millennium-war-aigis"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5440,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FQn_VmfvAfA/X4NPmMbmDlI/AAAAAAABl0o/f9hC9_akh3QtVirUKsFR_7oANpe0gWCDgCLcBGAsYHQ/s270/602-Sybilla-Millennium-Wars-Aigis-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FQn_VmfvAfA/X4NPmMbmDlI/AAAAAAABl0o/f9hC9_akh3QtVirUKsFR_7oANpe0gWCDgCLcBGAsYHQ/s270/602-Sybilla-Millennium-Wars-Aigis-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UFGqbezALGM/X4izdteyjhI/AAAAAAAAsg0/timXHvMEiqU8JfMk_mhClu42DMWK60VVwCLcBGAsYHQ/s135/602-Sybilla-Millennium-War-Aigis-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DK9IdSK3Nqs/X4izdxCG8VI/AAAAAAAAsg4/I_WXOfuyolEeC3A9o9dpuBjxF0Kydg9bQCLcBGAsYHQ/s135/602-Sybilla-Millennium-War-Aigis-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vhc1PCwcLPI/X4izeJoGq3I/AAAAAAAAsg8/oajVEouP2CotJrGX6ZAjilEhFWbndyAiwCLcBGAsYHQ/s135/602-Sybilla-Millennium-War-Aigis-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yGeO9Px96VQ/X4izeEMDf0I/AAAAAAAAshA/19zneaq3DAMxyexsQ2q08H6FCX6w_7feQCLcBGAsYHQ/s135/602-Sybilla-Millennium-War-Aigis-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-anGSDl2pdK0/X4izeTtb6eI/AAAAAAAAshE/0e8wLIG2NO8zJC3ssT4SaEqeqwjK1iUwgCLcBGAsYHQ/s135/602-Sybilla-Millennium-War-Aigis-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n602/",
+      "fetched_at": "2026-05-16T19:10:34.683Z",
+      "raw_id": "/nendoroid/details/n602/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.459Z",
+      "raw_id": "Nendoroid/0600-0699/602.json"
+    }
+  ]
+}

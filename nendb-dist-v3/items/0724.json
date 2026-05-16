@@ -1,0 +1,70 @@
+{
+  "num": "0724",
+  "name": {
+    "en": "Nendoroid Kakashi Hatake",
+    "ja": "ねんどろいど はたけカカシ (ねんどろいど はたけかかし)",
+    "ko": "하타케 카카시"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6174,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6AcRPq-EGgQ/X4Nc3nCjefI/AAAAAAABl80/K6P6zWpeGRcgMXbCLxdzClaBkjWTei7zACLcBGAsYHQ/s270/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6AcRPq-EGgQ/X4Nc3nCjefI/AAAAAAABl80/K6P6zWpeGRcgMXbCLxdzClaBkjWTei7zACLcBGAsYHQ/s270/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-x8ApRMihqVE/X4i39c9cl8I/AAAAAAAAtO0/O8KjUCpNgI0wviInGcFAeZ6YHhWbrjNJACLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fOWeHyJ5QZU/X4i39wtLUfI/AAAAAAAAtO4/99KPqmNPV7oyGCyFBy380_olGD5UogjqQCLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CUaR6VFsLKo/X4i3-IFgYOI/AAAAAAAAtO8/bDrPzBdYSRo01biABIGAYRyaZkyEAf1KwCLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-i6HxbsUEK60/X4i3-XZQzAI/AAAAAAAAtPA/E2mPesCeSwYv8RddX7dnY7sypmjpaXi6ACLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qygdldP4YLc/X4i3-g28Q8I/AAAAAAAAtPE/BXzX_t9s5og35NALF9ZeBmYE8TRmh9fegCLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1qbGct7T2uo/X4i3-0K3wiI/AAAAAAAAtPI/AsIHp7rwbLIW1wcGJ7uC1ZLlEViKO_Z1wCLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mg8ei0YRC2E/X4i3_BlZyjI/AAAAAAAAtPM/EOqllJcCzl47JzqK5gwonkG13VrBAyNJwCLcBGAsYHQ/s135/724-Kakashi-Hatake-Naruto-Shippuden-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n724/",
+      "fetched_at": "2026-05-16T19:10:34.762Z",
+      "raw_id": "/nendoroid/details/n724/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.492Z",
+      "raw_id": "Nendoroid/0700-0799/724.json"
+    }
+  ]
+}

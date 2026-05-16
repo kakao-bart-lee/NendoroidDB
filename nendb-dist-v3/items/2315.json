@@ -1,0 +1,63 @@
+{
+  "num": "2315",
+  "name": {
+    "en": "Rapi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Goddess Of Victory: Nikke",
+    "ja": null,
+    "ko": null,
+    "code": "goddess-of-victory-nikke"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-itkc_sHGXjw/ZWZfq6hTqRI/AAAAAAABCcs/Uh300Rio1psSDWDqXvvcdrCa_3qkhAiUQCNcBGAsYHQ/s270/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-itkc_sHGXjw/ZWZfq6hTqRI/AAAAAAABCcs/Uh300Rio1psSDWDqXvvcdrCa_3qkhAiUQCNcBGAsYHQ/s270/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Lai3ztFmQVw/ZWZpMX4d-6I/AAAAAAABCn0/2OnJU8dmWGEgVb8D-UyiTYkC9ZxWTUsJQCNcBGAsYHQ/s135/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-r_-dfxJcWVI/ZWZpNGdmh8I/AAAAAAABCn4/74D8WZiyvMknU6uKdYIZdACfQizE1BKDQCNcBGAsYHQ/s135/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Hv14HSbPJd8/ZWZpNVqjn4I/AAAAAAABCn8/-4Lt7iM3M9Qj5E20HrpGe_aN1l0wMNwBQCNcBGAsYHQ/s135/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Cii_rZ5HCns/ZWZpNuIg27I/AAAAAAABCoA/yPAo2DVGPWMX6ezzQHADO2YlrSSWUjtuACNcBGAsYHQ/s135/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Xfa4G2_red8/ZWZpN8nyTLI/AAAAAAABCoE/F-JHncOoPOopUZPoNfBIjjmx7mLmEJiEwCNcBGAsYHQ/s135/2315-Rapi-Goddess-of-Victory-Nikke-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2315/",
+      "fetched_at": "2026-05-16T19:10:33.982Z",
+      "raw_id": "/nendoroid/details/n2315/"
+    }
+  ]
+}

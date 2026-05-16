@@ -1,0 +1,70 @@
+{
+  "num": "0481",
+  "name": {
+    "en": "Nendoroid Kumano (ねんどろいど くまの)",
+    "ja": "ねんどろいど 熊野 (ねんどろいど くまの)",
+    "ko": "쿠마노"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4743,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-c0agd22cfZs/X4NN741VChI/AAAAAAABlro/BuMtwbpyiZIZBgmbhlWri-0QTb6AGAbEgCLcBGAsYHQ/s270/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-c0agd22cfZs/X4NN741VChI/AAAAAAABlro/BuMtwbpyiZIZBgmbhlWri-0QTb6AGAbEgCLcBGAsYHQ/s270/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-swCg14FvrQA/X4dfHxQhllI/AAAAAAAArw8/3Mi9d17DsuoE_GWSbqSjhbBNYKoXT6hZwCLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8nYd0P7fNHA/X4dfIHDkFvI/AAAAAAAArxA/zOFVRdK7A7Aj326tyaiP-wKF_xcqZhvoQCLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ExXfJ-VIFOA/X4dfIOdfttI/AAAAAAAArxE/QU2JhxS7FwYYZKj88v0DFOC8aX3-CtGrACLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5KW2L_4nFkM/X4dfIXmLIvI/AAAAAAAArxI/PG4nh9wE6UI76KiDh2ivWRtVmqleQPUdwCLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JseTyq79pos/X4dfIl5gK8I/AAAAAAAArxM/nMLHsV70eOYBuOSL4LNxXyKmT_-FzcuQACLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-c3pw6anvq10/X4dfIlzWBrI/AAAAAAAArxQ/dxYlcY1kt3M18qyA7lQ-57-33yPYIMoIQCLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mml3bUl0ppk/X4dfI_h8lXI/AAAAAAAArxU/r0sPiYW_P18lr5LpjcQiaylLxKX1QDt1wCLcBGAsYHQ/s135/481-Kumano-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n481/",
+      "fetched_at": "2026-05-16T19:10:34.552Z",
+      "raw_id": "/nendoroid/details/n481/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.390Z",
+      "raw_id": "Nendoroid/0400-0499/481.json"
+    }
+  ]
+}

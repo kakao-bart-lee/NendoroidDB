@@ -1,0 +1,70 @@
+{
+  "num": "1451",
+  "name": {
+    "en": "Nendoroid Rin Shima: Touring Ver.",
+    "ja": "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
+    "ko": "시마 린 투어링 Ver."
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fkToFK8D23c/X4NklS6leyI/AAAAAAABm7g/ITTU1x0s1Vg8vieEw_RkvgBFJzNHhQpMgCLcBGAsYHQ/s270/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fkToFK8D23c/X4NklS6leyI/AAAAAAABm7g/ITTU1x0s1Vg8vieEw_RkvgBFJzNHhQpMgCLcBGAsYHQ/s270/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5o59Kb2YWUE/X4tA8hcDPSI/AAAAAAABq-I/hAQ58JXfUEEs0RH2eztPQPo1Alw5Tch8gCLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0yV8gq7Oois/X4tA8_0HhZI/AAAAAAABq-M/Nrbg1FF_5i4r8Cqx0EFP95qy2DMSkSinACLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ccz_hMayHq4/X4tA9OyvcHI/AAAAAAABq-Q/a6oZdiXgnnk-Oovh5ME_3Tr71UKAPdn0wCLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QFMDev57hzg/X4tA9ewTQRI/AAAAAAABq-U/iXPhhQH-nycqXpMjjbv3LVMsd9lIYHMNQCLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8lW_9Zyw7AI/X4tA9o_BkbI/AAAAAAABq-Y/0WEjr6vTNksUxoEwYYYppG5Wr4RxhedmwCLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-P7DwU2grdpQ/X4tA9yIjhAI/AAAAAAABq-c/ZujQ-gpJIH05ZsnbmHJnGwcO7Gn-IaSLwCLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-LNsc584sS-s/X4tA-PzG-xI/AAAAAAABq-g/eU0cJ7VPe_oOmQuKyDffB_zjJAKJbU-AACLcBGAsYHQ/s135/1451-Rin-Shima-Laid-Back-Camp-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1451/",
+      "fetched_at": "2026-05-16T19:10:33.439Z",
+      "raw_id": "/nendoroid/details/n1451/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.668Z",
+      "raw_id": "Nendoroid/1400-1499/1451.json"
+    }
+  ]
+}

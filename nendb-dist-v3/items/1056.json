@@ -1,0 +1,69 @@
+{
+  "num": "1056",
+  "name": {
+    "en": "Nendoroid Archer/Arjuna",
+    "ja": "ねんどろいど アーチャー/アルジュナ (ねんどろいど あーちゃー/あるじゅな)",
+    "ko": "아처/아르주나"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7917,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CWBuDCyoej8/X4NfwjkeO1I/AAAAAAABmU0/h7m5Q7pnFWk9GBBwiGoGp8wvyjSzJNe9gCLcBGAsYHQ/s270/1056-Archer-Arjuna-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CWBuDCyoej8/X4NfwjkeO1I/AAAAAAABmU0/h7m5Q7pnFWk9GBBwiGoGp8wvyjSzJNe9gCLcBGAsYHQ/s270/1056-Archer-Arjuna-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-seBOwFoMUcU/X4rscxk866I/AAAAAAABomw/8YhgzcO1Trkh9AOYOD-fXslMn6wr6EGtACLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ScDJA1GRPd8/X4rsdIqGTeI/AAAAAAABom0/-LfyZyGJ9ZgTdb5C1m_xm7GPES8o6V2dwCLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-m_ct7aFfcYY/X4rsdRuI_lI/AAAAAAABom4/k0l2jym7XYMT4VqEdzoZ_XOaJMDI9g20ACLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6IZx77mpHw0/X4rsdr1_v_I/AAAAAAABom8/o50gOFsc3rol0kcGoWZVAsKqDhJnaaz6ACLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fVeWt790SIw/X4rsd7LgENI/AAAAAAABonA/PADgmZ_FRRgzFKGLkt-7p6yKp8nna8z5ACLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-At6Jea2XPoE/X4rseNXpmMI/AAAAAAABonE/ikMqMWV2VC4YnhEZ7cMlZTXKC8yUdExqwCLcBGAsYHQ/s135/1056-Archer-Arjuna-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1056/",
+      "fetched_at": "2026-05-16T19:10:33.182Z",
+      "raw_id": "/nendoroid/details/n1056/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.574Z",
+      "raw_id": "Nendoroid/1000-1099/1056.json"
+    }
+  ]
+}

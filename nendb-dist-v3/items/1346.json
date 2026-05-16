@@ -1,0 +1,68 @@
+{
+  "num": "1346",
+  "name": {
+    "en": "Nendoroid Ayu Tsukimiya",
+    "ja": "ねんどろいど 月宮あゆ (ねんどろいど つきみやあゆ)",
+    "ko": "츠키미야 야유"
+  },
+  "series": {
+    "en": "Kanon",
+    "ja": "Kanon",
+    "ko": "카논",
+    "code": "kanon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9508,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3RPgV3ctjWw/X4NjvdMLxMI/AAAAAAABm1o/ySVn703M4ocGqps-ZHTn3RYrphIABXL5ACLcBGAsYHQ/s270/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3RPgV3ctjWw/X4NjvdMLxMI/AAAAAAABm1o/ySVn703M4ocGqps-ZHTn3RYrphIABXL5ACLcBGAsYHQ/s270/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hm5idFVGcxw/X4s9Z3KqdjI/AAAAAAABqfM/7erZuKgTmBgdoBnsd4d0Q-mNjlZMSKPVQCLcBGAsYHQ/s135/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TKUQj55qRbk/X4s9aA_ZYzI/AAAAAAABqfQ/K67Y-AmjF6AS9lqlaytPTojfGgs3YoRNACLcBGAsYHQ/s135/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0Ff-c4HK2ZY/X4s9aS52yCI/AAAAAAABqfU/iA8S5yBKu58lApNiJUoeH-9GaDlA_UzmQCLcBGAsYHQ/s135/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G8BsC_tc6gk/X4s9a1anbPI/AAAAAAABqfY/1fOQOnPSKCowpKOwYZwjUBtkpKhCeA-LgCLcBGAsYHQ/s135/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hLBsJ8BrWQY/X4s9bJCQJsI/AAAAAAABqfc/dzkvN_ZHrXQp4fYyRewssy9N7x6fc4M4ACLcBGAsYHQ/s135/1346-Ayu-Tsukimiya-Kanon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1346/",
+      "fetched_at": "2026-05-16T19:10:33.373Z",
+      "raw_id": "/nendoroid/details/n1346/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.644Z",
+      "raw_id": "Nendoroid/1300-1399/1346.json"
+    }
+  ]
+}

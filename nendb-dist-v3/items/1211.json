@@ -1,0 +1,68 @@
+{
+  "num": "1211",
+  "name": {
+    "en": "Nendoroid Yue",
+    "ja": "ねんどろいど ユエ (ねんどろいど ゆえ)",
+    "ko": "유에"
+  },
+  "series": {
+    "en": "Arifureta: From Commonplace to World's Strongest",
+    "ja": "ありふれた職業で世界最強",
+    "ko": "흔해빠진 직업으로 세계최강",
+    "code": "arifureta-from-commonplace-to-world-s-strongest"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8791,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YMjMXHWjBd0/X4NiGDvKX8I/AAAAAAABmnY/51p4grh0zYQ4AU_2Y_rxcagCsxXui79qACLcBGAsYHQ/s270/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YMjMXHWjBd0/X4NiGDvKX8I/AAAAAAABmnY/51p4grh0zYQ4AU_2Y_rxcagCsxXui79qACLcBGAsYHQ/s270/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pzUts-5kfdA/X4rzG7yzG5I/AAAAAAABppc/WMAcClM0tHoJJ6TAhecZBkpdiCo2HkvOwCLcBGAsYHQ/s135/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cpL32AFU-go/X4rzHHHmS0I/AAAAAAABppg/nbUVSVdDE4ELx5-aSL6LglObIB-5kvqhgCLcBGAsYHQ/s135/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o9ekzNkK8W8/X4rzHDRDJ5I/AAAAAAABppk/HeUw4xLRPdERfNPdpDYQeLil2pspfh1ewCLcBGAsYHQ/s135/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KyL8UV505Xw/X4rzHSKukvI/AAAAAAABppo/466Z3EdCPh4wzlVwFo8DXHZo48sFHg7BQCLcBGAsYHQ/s135/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zUJQrcPl59Q/X4rzHsazRKI/AAAAAAABpps/pjrHuItQM5gzCaPfD7yWtehX2MvmBZllgCLcBGAsYHQ/s135/1211-Yue-Arifureta-From-Commonplace-to-Worlds-Strongest-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1211/",
+      "fetched_at": "2026-05-16T19:10:33.289Z",
+      "raw_id": "/nendoroid/details/n1211/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.611Z",
+      "raw_id": "Nendoroid/1200-1299/1211.json"
+    }
+  ]
+}

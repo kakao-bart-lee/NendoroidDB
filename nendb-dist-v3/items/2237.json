@@ -1,0 +1,69 @@
+{
+  "num": "2237",
+  "name": {
+    "en": "Nendoroid Souta Munakata",
+    "ja": "ねんどろいど 宗像草太 (ねんどろいど むなかたそうた)",
+    "ko": "무나카타 소타"
+  },
+  "series": {
+    "en": "Suzume",
+    "ja": "すずめの戸締まり",
+    "ko": "스즈메의 문단속",
+    "code": "suzume"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14908,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WL8GrXETzTs/ZQoU4qD_AEI/AAAAAAABBjc/FM_C5cOCdcEcKyw9rw-5KTZG61mpvl6zgCNcBGAsYHQ/s270/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WL8GrXETzTs/ZQoU4qD_AEI/AAAAAAABBjc/FM_C5cOCdcEcKyw9rw-5KTZG61mpvl6zgCNcBGAsYHQ/s270/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lgaKkRL9xaw/ZQsg1wt93HI/AAAAAAABBro/ly1W-prGskYHca7jUUJc0xTclIR2ZSyVwCNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uqpAYiLDNKU/ZQsg2SjXUvI/AAAAAAABBrs/6dFbV1xnfNEjwdYDc26L39tORf9rvG5AACNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T04yzLf50Hk/ZQsg3HTfM0I/AAAAAAABBrw/CgCMibryx2UcVMY8nDr-iihzB2e6mYBrwCNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kYXucPb3Kk0/ZQsg3vNxBNI/AAAAAAABBr0/UGeG8ycG7vwxjZnko_dcde2803EpQxVaACNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IkDuop7z63c/ZQsg4OJ2rEI/AAAAAAABBr4/PIli9qIgIqQK51Tu8JI9TARzBPUDsojsQCNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VLURARmMtbc/ZQsg4jR4aLI/AAAAAAABBr8/N2kkuHNfr9ITSu7vnM9fQ-4lzutSP8b8wCNcBGAsYHQ/s135/2237-Souta-Munakata-Suzume-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2237/",
+      "fetched_at": "2026-05-16T19:10:33.936Z",
+      "raw_id": "/nendoroid/details/n2237/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.862Z",
+      "raw_id": "Nendoroid/2200-2299/2237.json"
+    }
+  ]
+}

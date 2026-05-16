@@ -1,0 +1,69 @@
+{
+  "num": "1747",
+  "name": {
+    "en": "Nendoroid Foreigner/Yang Guifei",
+    "ja": "ねんどろいど フォーリナー/楊貴妃 (ふぉーりなー/ようきひ)",
+    "ko": "포리너 / 양귀비"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "Fate/Grand Order",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11982,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KSc0uT6MJ9E/Ya-zFB1AsiI/AAAAAAAA2DM/Th-Et8hFg2YmuKuAzgW7Cr9qv63x5fkowCNcBGAsYHQ/s270/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KSc0uT6MJ9E/Ya-zFB1AsiI/AAAAAAAA2DM/Th-Et8hFg2YmuKuAzgW7Cr9qv63x5fkowCNcBGAsYHQ/s270/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4M8c2nLSc_M/Ya-2B3mDjhI/AAAAAAAA2HQ/7-RT0ZWF3D87zguHYg6ePke0Dj36SxprwCNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mnAwR52EhiA/Ya-2CDHv7PI/AAAAAAAA2HU/iZeR3q51Gcw8YLEDX4K68oyvltfXXfnRgCNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-83mMyz4LiTI/Ya-2CL2j7kI/AAAAAAAA2HY/f2qfGp-bIpI-pRzkn3AUPcsFKICYtjFDQCNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BmDPwC931ys/Ya-2CeMTMRI/AAAAAAAA2Hc/Y_MeIqzSNVYLFMIwkBKjYxrXvFe8M26FgCNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3bV8msi9_d8/Ya-2Cs-t5LI/AAAAAAAA2Hg/QuRAGNeN0GgtkpWfAoFQDNY6jE6FGBJ1wCNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-n1D7okNuHrY/Ya-2C9adz5I/AAAAAAAA2Hk/o2uPekSPOu4FSY1TZzj7TviTMcOH4pKXACNcBGAsYHQ/s135/1747-Foreigner-Yang-Guifei-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1747/",
+      "fetched_at": "2026-05-16T19:10:33.623Z",
+      "raw_id": "/nendoroid/details/n1747/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.741Z",
+      "raw_id": "Nendoroid/1700-1799/1747.json"
+    }
+  ]
+}

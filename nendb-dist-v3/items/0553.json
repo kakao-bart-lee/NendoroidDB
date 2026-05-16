@@ -1,0 +1,97 @@
+{
+  "num": "0553",
+  "name": {
+    "en": "Nendoroid Link: Majora's Mask 3D Ver. (ねんどろいど りんく むじゅらのかめんVer.)",
+    "ja": "ねんどろいど リンク ムジュラの仮面3D Ver. (ねんどろいど りんく むじゅらのかめん3D Ver.)",
+    "ko": "링크 무쥬라의 가면 3D Ver."
+  },
+  "series": {
+    "en": "The Legend of Zelda: Majora's Mask 3D",
+    "ja": "ゼルダの伝説 ムジュラの仮面3D",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-majora-s-mask-3d"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted Plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": "4571697189041",
+  "gsc_product_id": "2952",
+  "gsc_product_num": 5181,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/2952",
+    "ja": "https://www.goodsmile.com/ja/product/2952"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150810/5181/35073/large/0c35eddc77a9bad1edcb5937c871b51e.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Z4jT4Gn617o/X4NOiWlKGhI/AAAAAAABlww/S6Q34ctSF8ME_Te9zpsrDFVv7S0RaNhTgCLcBGAsYHQ/s270/553-Link-Majoras-Mask-TLOZ-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bhATnZZ_VTs/X4isylR1XvI/AAAAAAAAsM0/MUVz1jgww9YIPNlsM5AvgYz07voTdq2NACLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1_E5PDLJL20/X4isyyuzqzI/AAAAAAAAsMw/DJA7roo5Np0C6oxbvHDi4MLBE_jJkkwqgCLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-79p3UOSsMxI/X4iszKcgeTI/AAAAAAAAsM4/-SLOfYXzKTY2FAWH9r9Qw4PZNukYJKFoACLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xvz5GO_Abk8/X4iszoCTLOI/AAAAAAAAsM8/WbYpyz5OFsQH6DbrqhGHByBPl-Y5l5rLQCLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7PkFbYenT8c/X4is0B7sr5I/AAAAAAAAsNA/pTTe_hRnarsSZsblDytJ4ayk7o1AFe-9QCLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PvWSZSVedok/X4is0U_M2VI/AAAAAAAAsNE/w9EFvStgTHs2ftUKxZvzbpjlmIguspB2wCLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-qAeV46Ls9fw/X4is0jJZV_I/AAAAAAAAsNI/Jo_WVkRbNqE5lC2JV5_hj7nYoiMErVM1gCLcBGAsYHQ/s135/553-Link-The-Legend-of-Zelda-Majoras-Mask-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150810/5181/35081/large/0f22f41945af47b538b2a644d328e5da.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150810/5181/35073/large/0c35eddc77a9bad1edcb5937c871b51e.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2952",
+      "price_local": 6400,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:01:21.784Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2952",
+      "fetched_at": "2026-05-16T12:01:21.784Z",
+      "raw_id": "2952"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/2952",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "2952"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n553/",
+      "fetched_at": "2026-05-16T19:10:34.595Z",
+      "raw_id": "/nendoroid/details/n553/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.442Z",
+      "raw_id": "Nendoroid/0500-0599/553.json"
+    }
+  ]
+}

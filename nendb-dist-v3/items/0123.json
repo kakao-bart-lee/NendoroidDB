@@ -1,0 +1,67 @@
+{
+  "num": "0123",
+  "name": {
+    "en": "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "ja": "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "ko": "나카토 유키 소실 Ver."
+  },
+  "series": {
+    "en": "The Disappearance of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの消失",
+    "ko": "스즈미야 하루히의 소실",
+    "code": "the-disappearance-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2909,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PzPyBTJNXPQ/X4NJ0Ddf0fI/AAAAAAABlPQ/yDvHVDe0cDM5wd0qi4VMXBr7yRlbiK7ywCLcBGAsYHQ/s270/123-Nagato-Yuki-Disappearance-Ver-The-Melancholy-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PzPyBTJNXPQ/X4NJ0Ddf0fI/AAAAAAABlPQ/yDvHVDe0cDM5wd0qi4VMXBr7yRlbiK7ywCLcBGAsYHQ/s270/123-Nagato-Yuki-Disappearance-Ver-The-Melancholy-of-Haruhi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_3qYcfXnfK8/X4dSV886j_I/AAAAAAAAp0A/5xv0PFDsxJ8i-rdDkRioSMCZvRdqdTdoQCLcBGAsYHQ/s135/123-Nagato-Yuki-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1NYnROwX3mo/X4dSWOn5qXI/AAAAAAAAp0E/w8fh6sjkTjItnN-riog3UgI1owDkKkrBQCLcBGAsYHQ/s135/123-Nagato-Yuki-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qbfPJm_L1tc/X4dSWbq9eeI/AAAAAAAAp0I/D5-_L11d3uoduoZK0zTE0pRoO-63JhAtgCLcBGAsYHQ/s135/123-Nagato-Yuki-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TLmfhPYJFNM/X4dSWj6ArpI/AAAAAAAAp0M/gaSj7oe0-YIIFLCPZ9SX9WeflCc37n8rACLcBGAsYHQ/s135/123-Nagato-Yuki-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n123/",
+      "fetched_at": "2026-05-16T19:10:33.306Z",
+      "raw_id": "/nendoroid/details/n123/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.294Z",
+      "raw_id": "Nendoroid/0100-0199/123.json"
+    }
+  ]
+}

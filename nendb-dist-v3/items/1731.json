@@ -1,0 +1,68 @@
+{
+  "num": "1731",
+  "name": {
+    "en": "Nendoroid Noa Himesaka",
+    "ja": "ねんどろいど 姫坂乃愛 (ねんどろいど ひめさかのあ)",
+    "ko": "히메사카 노아"
+  },
+  "series": {
+    "en": "Wataten!: An Angel Flew Down to Me",
+    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko": "나에게 천사가 내려왔다!",
+    "code": "wataten-an-angel-flew-down-to-me"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11847,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/---mHFrZpzE4/YYBKAfL2DyI/AAAAAAAA1i8/qKANZpik8-0qveRMtYylTiCXQXrUcw4UgCLcBGAsYHQ/s270/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/---mHFrZpzE4/YYBKAfL2DyI/AAAAAAAA1i8/qKANZpik8-0qveRMtYylTiCXQXrUcw4UgCLcBGAsYHQ/s270/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0FNpNFbPh-s/YYBOp31PEoI/AAAAAAAA1mA/jSYpXhMqh54RAD6ifC1-6zuYBmm3QSF_ACLcBGAsYHQ/s135/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gyT-t8MNp3A/YYBOqDH-YoI/AAAAAAAA1mE/VfYoh7KWIZAz5oYyvuqA_E3c8IOKON2-QCLcBGAsYHQ/s135/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NvfhbEYyJDY/YYBOqcKy08I/AAAAAAAA1mI/d9D5rxbukt83lmbzsdAW4VRwBWy2idyOgCLcBGAsYHQ/s135/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qPKd32-f60M/YYBOqifB6KI/AAAAAAAA1mM/6LIuLRduyWEur2QfuxSMmOKnzn_eozrywCLcBGAsYHQ/s135/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EmtzFHAFm9s/YYBOq_8sWOI/AAAAAAAA1mU/DiAsZRcrWmQUNMbYOK3Rbm2dQ-YBVeRFQCLcBGAsYHQ/s135/1731-Noa-Himesaka-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1731/",
+      "fetched_at": "2026-05-16T19:10:33.613Z",
+      "raw_id": "/nendoroid/details/n1731/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.738Z",
+      "raw_id": "Nendoroid/1700-1799/1731.json"
+    }
+  ]
+}

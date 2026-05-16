@@ -1,0 +1,68 @@
+{
+  "num": "1020",
+  "name": {
+    "en": "Nendoroid Yuzuru Kurenai",
+    "ja": "ねんどろいど 紅ゆずる (ねんどろいど くれないゆずる)",
+    "ko": "쿠레나이 유즈루"
+  },
+  "series": {
+    "en": "\"Amazing Star ☆ Killer Rouge\" by the Takarazuka Revue Star Troupe",
+    "ja": "宝塚歌劇星組公演『Killer Rouge／星秀☆煌紅』",
+    "ko": "다카라즈카 가극단",
+    "code": "amazing-star-killer-rouge-by-the-takarazuka-revue-star-troupe"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7695,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ysr6dq5VKeQ/X4NfkeXgxJI/AAAAAAABmSU/tLT5Nrw0u4gf8cGDHIOwUsF3l-o66GpggCLcBGAsYHQ/s270/1020-Yuzuru-Kurenai-Amazing-Star-Killer-Rouge-Celebrity-Artist-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ysr6dq5VKeQ/X4NfkeXgxJI/AAAAAAABmSU/tLT5Nrw0u4gf8cGDHIOwUsF3l-o66GpggCLcBGAsYHQ/s270/1020-Yuzuru-Kurenai-Amazing-Star-Killer-Rouge-Celebrity-Artist-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tfXqd1EFi4c/X4rrfYkXbdI/AAAAAAABoZA/PKHKpjxzpugw-rfCIrM_KYjWYJd-mGLcACLcBGAsYHQ/s135/1020-Yuzuru-Kurenai-Takarazuka-Revues-Star-Troupe-Amazing-Star-Killer-Rouge-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-flgBLWaDbUQ/X4rrfg5DK7I/AAAAAAABoZE/IsLiQDon6VQVDszmWRAZHQyy3q3krphTwCLcBGAsYHQ/s135/1020-Yuzuru-Kurenai-Takarazuka-Revues-Star-Troupe-Amazing-Star-Killer-Rouge-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QqaSGYlx6z0/X4rrf2cnZtI/AAAAAAABoZI/PGPMP5W7Vmof-j16J6W1eXJjC7xKZbjswCLcBGAsYHQ/s135/1020-Yuzuru-Kurenai-Takarazuka-Revues-Star-Troupe-Amazing-Star-Killer-Rouge-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fOdR6VBRMvw/X4rrgFn_rhI/AAAAAAABoZM/NZKoqJk9X48ooQmnvXHvBZWyvLUJ2wRFgCLcBGAsYHQ/s135/1020-Yuzuru-Kurenai-Takarazuka-Revues-Star-Troupe-Amazing-Star-Killer-Rouge-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IT4AFm1U7Uo/X4rrgSbgk4I/AAAAAAABoZQ/AjbV8b0KpQ4HsEYzPoRAa_RGCZ6neKM4ACLcBGAsYHQ/s135/1020-Yuzuru-Kurenai-Takarazuka-Revues-Star-Troupe-Amazing-Star-Killer-Rouge-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1020/",
+      "fetched_at": "2026-05-16T19:10:33.139Z",
+      "raw_id": "/nendoroid/details/n1020/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.566Z",
+      "raw_id": "Nendoroid/1000-1099/1020.json"
+    }
+  ]
+}

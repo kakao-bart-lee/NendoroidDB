@@ -1,0 +1,69 @@
+{
+  "num": "1768",
+  "name": {
+    "en": "Nendoroid Suguru Geto: Jujutsu Kaisen 0 Ver.",
+    "ja": "ねんどろいど 夏油傑 劇場版 呪術廻戦 0Ver. (ねんどろいど げとうすぐる げきじょうばん じゅじゅつかいせん 0Ver.)",
+    "ko": "게토 스구루 극장판 주술회전 0 Ver."
+  },
+  "series": {
+    "en": "Jujutsu Kaisen 0",
+    "ja": "劇場版 呪術廻戦 0",
+    "ko": "\r\n극장판 주술회전 0",
+    "code": "jujutsu-kaisen-0"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12046,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FXH-JEdmrBA/YhAExYUquKI/AAAAAAAA3kU/6s1o9TUMMWAclitoxNKUftpZW9cNjn3wACNcBGAsYHQ/s270/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FXH-JEdmrBA/YhAExYUquKI/AAAAAAAA3kU/6s1o9TUMMWAclitoxNKUftpZW9cNjn3wACNcBGAsYHQ/s270/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8A9qEW5Ezro/YhALtQMk7oI/AAAAAAAA3nM/9KMtA_p0WfINskrTTeBnnUqI-MbFKhMJgCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TRcZ--MU7r8/YhALt1_xJvI/AAAAAAAA3nU/WbDpG5ZJaCw9y8XSItHm1ygghucqfpbEgCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BM3dLTxnZNA/YhALuFY1-pI/AAAAAAAA3nQ/myIjlu_dVD8CAm1dhMmUwpFgig8aFeClQCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-63zeeQPotAg/YhALub9pk6I/AAAAAAAA3nY/5aUjCi7klBk2WshsUBTatQQ27AQHQ2OhgCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9bXJOIzg1w4/YhALu-0Q9eI/AAAAAAAA3nc/0arxVgBukm4Z_F_3tkfvoDLNOOorrWQ-QCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VrAnDQHgmME/YhALvJxf_SI/AAAAAAAA3ng/JQqU_Tt5W20G4RMYf2qDPNxlGLnobdK1QCNcBGAsYHQ/s135/1768-Suguru-Geto-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1768/",
+      "fetched_at": "2026-05-16T19:10:33.635Z",
+      "raw_id": "/nendoroid/details/n1768/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.746Z",
+      "raw_id": "Nendoroid/1700-1799/1768.json"
+    }
+  ]
+}

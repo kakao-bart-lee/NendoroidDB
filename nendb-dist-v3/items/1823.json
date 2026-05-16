@@ -1,0 +1,70 @@
+{
+  "num": "1823",
+  "name": {
+    "en": "Nendoroid Usada Pekora",
+    "ja": "ねんどろいど 兎田ぺこら (ねんどろいど うさだぺこら)",
+    "ko": "우사다 페코라"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12343,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NbJURbC7uwY/YhAE9MoOmFI/AAAAAAAA3mA/kMomRP3TQwwjY1gDBVQe_zfqpjx0PxywACNcBGAsYHQ/s270/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NbJURbC7uwY/YhAE9MoOmFI/AAAAAAAA3mA/kMomRP3TQwwjY1gDBVQe_zfqpjx0PxywACNcBGAsYHQ/s270/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t_7hSJSeDKc/YhAMiyRztiI/AAAAAAAA3zI/pKZRT2hPJM07XWRd49GqbxHF8-kgfoaywCNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FAhAyd-QuXk/YhAMjHCez9I/AAAAAAAA3zM/8fWhqOPxeLoOq8B2b7pP-rIUpXYVOc7qwCNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8XrjHDZgY_g/YhAMjdXtfqI/AAAAAAAA3zQ/MMJBvSi3o9Q21OloCmeT8K-FrfBvyCwIACNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IWYuvx3z7KY/YhAMjzcybkI/AAAAAAAA3zU/NFefP6QMQuwmgj5mp5cLPx4TzWYnck9agCNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SauP7l2XWOU/YhAMkJfkaaI/AAAAAAAA3zY/mm6_pz7W4IQIswMDgv4JMNnkhpB0UdOSACNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-buIB1r63Yrg/YhAMkBRN9gI/AAAAAAAA3zc/LdgaBaD-qdoxjkJkDcYL_J5lRPug5SiAgCNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-PdY80uSK_GI/YhAMkvbsKyI/AAAAAAAA3zg/RkXZy_D-LyslQTu3zqMUrl6bVvVGGkZ-gCNcBGAsYHQ/s135/1823-Usada-Pekora-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1823/",
+      "fetched_at": "2026-05-16T19:10:33.669Z",
+      "raw_id": "/nendoroid/details/n1823/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.760Z",
+      "raw_id": "Nendoroid/1800-1899/1823.json"
+    }
+  ]
+}

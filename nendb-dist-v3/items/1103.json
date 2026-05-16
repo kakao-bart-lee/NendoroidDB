@@ -1,0 +1,70 @@
+{
+  "num": "1103",
+  "name": {
+    "en": "Nendoroid Yusuke Kitagawa: Phantom Thief Ver.",
+    "ja": "ねんどろいど 喜多川祐介 怪盗服Ver. (ねんどろいど きたがわゆうすけ かいとうふくVer.)",
+    "ko": "키타가와 유스케 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8147,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lYzu_JC9Lsg/X4NgQ3RAiII/AAAAAAABmYg/foOYipC75bghLJDbAkvS0LG6DfpsTQrxQCLcBGAsYHQ/s270/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lYzu_JC9Lsg/X4NgQ3RAiII/AAAAAAABmYg/foOYipC75bghLJDbAkvS0LG6DfpsTQrxQCLcBGAsYHQ/s270/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nLS0-PVbqsA/X4rvZi0GTWI/AAAAAAABo7o/cjdu2bOYlgUknlRuPqhdd0yf0MVjv0BZgCLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TJS0Z7c2qUA/X4rvaIcQeLI/AAAAAAABo7s/Wbm7rmsYZ_8Tl4Zo-UyO7kBxzrOyM9GJwCLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rFwOTMnLkqQ/X4rvaXf6etI/AAAAAAABo7w/f_aAPE8sCLMYvebAjT-vT9mraxDosNUmwCLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Eiuqz40z_rc/X4rvatAzvoI/AAAAAAABo70/77aXrvGfQIYTtyG-x5j0OqD4TI2Sp6BuQCLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QgGgQJVnomA/X4rva_FoGVI/AAAAAAABo74/tyYem4KWqScS-XcuprivcSgOWzufqJVMACLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-e-R3BrCWt3Y/X4rvbOnGxLI/AAAAAAABo78/qVEO8bIeK_EZZJz80qF9w4TWed04nTFiACLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-LbP0JE3fLrg/X4rvbYdSq-I/AAAAAAABo8A/mBmC4uGk-JQZAh470nC3c6b8RR69A1zOwCLcBGAsYHQ/s135/1103-Yusuke-Kitagawa-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1103/",
+      "fetched_at": "2026-05-16T19:10:33.222Z",
+      "raw_id": "/nendoroid/details/n1103/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.585Z",
+      "raw_id": "Nendoroid/1100-1199/1103.json"
+    }
+  ]
+}

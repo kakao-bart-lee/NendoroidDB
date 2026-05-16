@@ -1,0 +1,68 @@
+{
+  "num": "1343",
+  "name": {
+    "en": "Nendoroid Asuna [Stacia, the Goddess of Creation]",
+    "ja": "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
+    "ko": "아스나 창세신 스테이시아 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online Alicization: War of Underworld",
+    "ja": "ソードアート・オンライン アリシゼーション War of Underworld",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-alicization-war-of-underworld"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8v8FAbPcjx0/X4NjuqTKc2I/AAAAAAABm1c/2-lMFykF9VkrCIVrM65c1EhT7QKoj23SgCLcBGAsYHQ/s270/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8v8FAbPcjx0/X4NjuqTKc2I/AAAAAAABm1c/2-lMFykF9VkrCIVrM65c1EhT7QKoj23SgCLcBGAsYHQ/s270/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZmS-ms1Lv8g/X4s9UVXh7fI/AAAAAAABqeE/Seq9Z-bUyyAIavhuOPpVeVDUwd86QciogCLcBGAsYHQ/s135/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oS06GIVlIqw/X4s9UoJ_PGI/AAAAAAABqeI/SN8ATlk2JvMhx5bMA0bXy_qsmPzaM6kwACLcBGAsYHQ/s135/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-41uO3sQnRh8/X4s9VT9j3NI/AAAAAAABqeM/cFHzaqw34d4Fxz9Lhk6iqVJ1AKNVRILbACLcBGAsYHQ/s135/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-N2hCyj63z6w/X4s9VoDRUjI/AAAAAAABqeQ/ld7IiC5901kwu0t0N3zlV_ZpiJvQmwJIwCLcBGAsYHQ/s135/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-W2bXBQQDmJw/X4s9Vg_u2XI/AAAAAAABqeU/51poFTmb898oZLljRbqmTbGnPxman8BMACLcBGAsYHQ/s135/1343-Asuna-Sword-Art-Online-Alicization-War-of-Underworld-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1343/",
+      "fetched_at": "2026-05-16T19:10:33.371Z",
+      "raw_id": "/nendoroid/details/n1343/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.643Z",
+      "raw_id": "Nendoroid/1300-1399/1343.json"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "num": "842-DX",
+  "name": {
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype): Ascension Ver.",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕　霊基再臨 Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕　れいきさいりん Ver.)",
+    "ko": "세이버/아서 펜드래건[프로토타입] 영기 재림 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018-05",
+      "status": "released"
+    },
+    {
+      "date": "2021-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6844,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20171102/6844/48560/large/1df67ff1c808ff26d7d55d056e82254f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.520Z",
+      "raw_id": "Nendoroid/0800-0899/842-DX.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1182",
+  "name": {
+    "en": "Nendoroid Lord El-Melloi II",
+    "ja": "ねんどろいど ロード・エルメロイⅡ世 (ねんどろいど ろーど・えるめろいⅡせい)",
+    "ko": "로드 엘멜로이 2세"
+  },
+  "series": {
+    "en": "Lord El-Melloi II's Case Files",
+    "ja": "ロード・エルメロイⅡ世の事件簿",
+    "ko": "페이트 시리즈",
+    "code": "lord-el-melloi-ii-s-case-files"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8649,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Be-3_93bnbk/X4NgsvGT0yI/AAAAAAABmd8/Non-CppRATMDZ2yshUoXeYi9jGPwUi4iwCLcBGAsYHQ/s270/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Be-3_93bnbk/X4NgsvGT0yI/AAAAAAABmd8/Non-CppRATMDZ2yshUoXeYi9jGPwUi4iwCLcBGAsYHQ/s270/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8QgDAzvsiUw/X4rxhm3JZyI/AAAAAAABpbY/Cl4yiNxpdSwKPFNgJ85o6lEiHwFbjA3HgCLcBGAsYHQ/s135/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lmT3jkU5yAc/X4rxhz5BNzI/AAAAAAABpbc/qLlUphAHRzkClh09DA4zdAUoYLWuUUwhgCLcBGAsYHQ/s135/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CQodilmIMjs/X4rxhxFmZNI/AAAAAAABpbg/nLzgq812Jp0C6UbEk95dauqZyZsGzg7GACLcBGAsYHQ/s135/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wwEdR1y3kGA/X4rxiBgUgfI/AAAAAAABpbk/Sc3JM8Z5QhAkt5KDhvvaYT_oMACBsbOYgCLcBGAsYHQ/s135/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ckqkk_kBYnY/X4rxis00y-I/AAAAAAABpbo/4eJa-oVdJncBgFdxnYpVEoRtKR2WKz68QCLcBGAsYHQ/s135/1182-Lord-El-Melloi-II-Lord-El-Melloi-IIs-Case-Files-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1182/",
+      "fetched_at": "2026-05-16T19:10:33.272Z",
+      "raw_id": "/nendoroid/details/n1182/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.605Z",
+      "raw_id": "Nendoroid/1100-1199/1182.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1752",
+  "name": {
+    "en": "Nendoroid Yue Qingshu",
+    "ja": "ねんどろいど 月清疏 (ねんどろいど げつせいそ)",
+    "ko": "월청소"
+  },
+  "series": {
+    "en": "Legend of Sword and Fairy 7",
+    "ja": "仙剣奇侠伝七",
+    "ko": "선검기협전7",
+    "code": "legend-of-sword-and-fairy-7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11996,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ecWRVFJGOZg/Ya-zHmmM6ZI/AAAAAAAA2Dg/1UhxZgwV9Agc_8LRizoVtYhexi7vswTQACNcBGAsYHQ/s270/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ecWRVFJGOZg/Ya-zHmmM6ZI/AAAAAAAA2Dg/1UhxZgwV9Agc_8LRizoVtYhexi7vswTQACNcBGAsYHQ/s270/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-01r9BrcR5RY/Ya-2JlNZMxI/AAAAAAAA2JE/B_3QqTPipZobbzG2dTwHR5ASsmBrM9n4wCNcBGAsYHQ/s135/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jbUiYcbXtUU/Ya-2J_coc9I/AAAAAAAA2JI/PPTM6Hk4AkIHgLQMNp3SNxQOOmqq2WiSgCNcBGAsYHQ/s135/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YPLcjN1csRI/Ya-2KCYaJdI/AAAAAAAA2JM/HVRND48gWswLBaa4MWn6B6UuUoLaCl4NgCNcBGAsYHQ/s135/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KEPkT7V9-dc/Ya-2KZ_dDJI/AAAAAAAA2JQ/AyL87ir4Li8jam0yq5MW72_NQdOBM29jACNcBGAsYHQ/s135/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-j78AMWrDhHc/Ya-2KbLzTAI/AAAAAAAA2JU/abL9WEGC87kBjlW4gxQ3eCCXBQNiYmUvwCNcBGAsYHQ/s135/1752-Yue-Qingshu-Chinese-Paladin-Sword-and-Fairy-7-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1752/",
+      "fetched_at": "2026-05-16T19:10:33.626Z",
+      "raw_id": "/nendoroid/details/n1752/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.742Z",
+      "raw_id": "Nendoroid/1700-1799/1752.json"
+    }
+  ]
+}

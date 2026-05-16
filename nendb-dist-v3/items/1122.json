@@ -1,0 +1,70 @@
+{
+  "num": "1122",
+  "name": {
+    "en": "Mo Yu",
+    "ja": "ねんどろいど 莫雨 (ねんどろいど まくう)",
+    "ko": "막우"
+  },
+  "series": {
+    "en": "Jian Wang",
+    "ja": "剣網3大IP",
+    "ko": "검망3 : 손끝강호",
+    "code": "jian-wang"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8455,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vhGEE9RBDz8/X4NgXIl33uI/AAAAAAABmZ4/Rt9NhUMUPgEZFPAn0WKd2wCwwA26om3RgCLcBGAsYHQ/s270/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vhGEE9RBDz8/X4NgXIl33uI/AAAAAAABmZ4/Rt9NhUMUPgEZFPAn0WKd2wCwwA26om3RgCLcBGAsYHQ/s270/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s7JoWAqaOOs/X4rv31Fr0pI/AAAAAAABpCo/E-PmR-ECxEgCBsCVJlZkmQ_m8tqxxeV_QCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Zr9h-3UbJcA/X4rv4PziomI/AAAAAAABpCs/AhE9YV0HVMMgFEQKyzYhbS35zGdmu9PigCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_pbGZBFS6pk/X4rv4STMeYI/AAAAAAABpCw/1RI9If3W-uwc7LGc_ePXvCnLCkgoi6qJwCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pxaJawvkrck/X4rv4naGHGI/AAAAAAABpC0/mpzyASjRHq81i1VKGPiZmzGBx9RTw7P6wCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SimCs5x9uT8/X4rv4wB5lgI/AAAAAAABpC4/ww0-vh2O-REthyr5ZqDYWPPasia68Og_wCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VkK1pFTFt7A/X4rv5CMD_4I/AAAAAAABpC8/39MKZXocUg4TsWeCF_6gpMqBPPiFtJsIQCLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7lzXLqyk_Zk/X4rv5eONfFI/AAAAAAABpDA/GVbeSk-e-tESIuxd98PidzeMKkpTZiRnACLcBGAsYHQ/s135/1122-Mo-Yu-Jian-Wang-3-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1122/",
+      "fetched_at": "2026-05-16T19:10:33.234Z",
+      "raw_id": "/nendoroid/details/n1122/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.590Z",
+      "raw_id": "Nendoroid/1100-1199/1122.json"
+    }
+  ]
+}

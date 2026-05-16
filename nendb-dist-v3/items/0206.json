@@ -1,0 +1,68 @@
+{
+  "num": "0206",
+  "name": {
+    "en": "Nendoroid Ayase Aragaki (ねんどろいど あらがきあやせ)",
+    "ja": "ねんどろいど 新垣あやせ (ねんどろいど あらがきあやせ)",
+    "ko": "아라가키 아야세"
+  },
+  "series": {
+    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja": "俺の妹がこんなに可愛いわけがない",
+    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
+    "code": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3336,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wLAevt4FfQw/X4NLFQJgOjI/AAAAAAABlVo/c6iZpK2aCrsk3o9-jfYcf1DMD0-ixOzdACLcBGAsYHQ/s270/206-Aragaki-Ayase-Oreino-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wLAevt4FfQw/X4NLFQJgOjI/AAAAAAABlVo/c6iZpK2aCrsk3o9-jfYcf1DMD0-ixOzdACLcBGAsYHQ/s270/206-Aragaki-Ayase-Oreino-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7NUwvAgu6Uk/X4dW0OIWddI/AAAAAAAAqUA/PeYMiRLvTWUPNjpXPDnak9AGH3kZXJ4OgCLcBGAsYHQ/s135/206-Aragaki-Ayase-Oreimo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ysdOXG9N62Q/X4dW0v1deQI/AAAAAAAAqUE/ESpYrnWK7lE-ELvUaEjHdXu-rNlxKlMMACLcBGAsYHQ/s135/206-Aragaki-Ayase-Oreimo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UQkQWDepOxk/X4dW0y-iwaI/AAAAAAAAqUI/o3siCETOBIcrrvC6Q4W66CigIMOKAWTXACLcBGAsYHQ/s135/206-Aragaki-Ayase-Oreimo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sYQCE8pEaYk/X4dW1dlm4xI/AAAAAAAAqUM/MwMXBDwzzsUqm_UsxrQcsjsT6KQVksAHgCLcBGAsYHQ/s135/206-Aragaki-Ayase-Oreimo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bfp-8fJgt1A/X4dW1eyoi8I/AAAAAAAAqUQ/Cj9ss6P2AQotsRyw4Ti-7D366iyLIYnGQCLcBGAsYHQ/s135/206-Aragaki-Ayase-Oreimo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n206/",
+      "fetched_at": "2026-05-16T19:10:33.822Z",
+      "raw_id": "/nendoroid/details/n206/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.320Z",
+      "raw_id": "Nendoroid/0200-0299/206.json"
+    }
+  ]
+}

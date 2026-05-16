@@ -1,0 +1,96 @@
+{
+  "num": "0676",
+  "name": {
+    "en": "Nendoroid Chuya Nakahara",
+    "ja": "ねんどろいど 中原中也 (ねんどろいど なかはらちゅうや)",
+    "ko": "나카하라 츄야"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4580828675896",
+  "gsc_product_id": "3691",
+  "gsc_product_num": 5948,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/3691",
+    "ja": "https://www.goodsmile.com/ja/product/3691"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20160913/5948/41309/large/0bf6e1356a190c181ca43ed6c2ce3ddd.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3mHSlki6oDs/X4NP8HM6d6I/AAAAAAABl5M/OWyfnkM8aGwO8V2wZgHdxzPYO1XEovTtwCLcBGAsYHQ/s270/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8KUzr8EBuek/X4i1oDpwA1I/AAAAAAAAs7Y/dM86f76XTjcS3qAOecHvvyI4Z4XZUinrwCLcBGAsYHQ/s135/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Av44oN6WTb4/X4i1ohv0XRI/AAAAAAAAs7c/vvOdnk_kXTgN0v-dNNQ6WegV51_OL5zLACLcBGAsYHQ/s135/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bh5NFKz8LAE/X4i1pPXGAMI/AAAAAAAAs7g/EcdjeBIdRXAQGpxNBT1vSz8bbj4lCFzZQCLcBGAsYHQ/s135/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IAMfywSq0FA/X4i1pS3eViI/AAAAAAAAs7k/KOe8LTrMNRoFPEMtlQV6I2EWX73sHY6bwCLcBGAsYHQ/s135/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5O_HFcohHjw/X4i1pumxWOI/AAAAAAAAs7o/qJzEm0dKo6k4VInqLXQ1jzk7OlbrYPxDwCLcBGAsYHQ/s135/676-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/3691/4568390985911368c70d32eede8f0cee.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20160913/5948/41309/large/0bf6e1356a190c181ca43ed6c2ce3ddd.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3691",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:24:26.320Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3691",
+      "fetched_at": "2026-05-16T12:24:26.320Z",
+      "raw_id": "3691"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/3691",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "3691"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n676/",
+      "fetched_at": "2026-05-16T19:10:34.737Z",
+      "raw_id": "/nendoroid/details/n676/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.481Z",
+      "raw_id": "Nendoroid/0600-0699/676.json"
+    }
+  ]
+}

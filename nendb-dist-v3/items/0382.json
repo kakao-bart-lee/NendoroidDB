@@ -1,0 +1,67 @@
+{
+  "num": "0382",
+  "name": {
+    "en": "Nendoroid Asuna: Titania Ver. (ねんどろいど あすな てぃたーにあVer.)",
+    "ja": "ねんどろいど アスナ ティターニアVer. (ねんどろいど あすな てぃたーにあVer.)",
+    "ko": "아스나 티타니아 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online",
+    "ja": "ソードアート・オンライン",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4629,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4233,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NsD45_AIGeI/X4NNCmQpI4I/AAAAAAABlks/6ZQdMGJ0Dv0T8VRAdcBvY0E9yhXryB0rgCLcBGAsYHQ/s270/382-Asuna-Titania-Sword-Art-Online-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NsD45_AIGeI/X4NNCmQpI4I/AAAAAAABlks/6ZQdMGJ0Dv0T8VRAdcBvY0E9yhXryB0rgCLcBGAsYHQ/s270/382-Asuna-Titania-Sword-Art-Online-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ez6IL1WDyuw/X4dbdz4cFGI/AAAAAAAArOY/ouohYoIr2rs6vlOzGnDsfNJ8ZOjSOl6SACLcBGAsYHQ/s135/382-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Cy26x04uFps/X4dbdzm3xlI/AAAAAAAArOc/ZGqcS9kWexwmk1YBHG0yMhFCnetXyXAsACLcBGAsYHQ/s135/382-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PlehmATd8Lc/X4dbeB7v15I/AAAAAAAArOg/6Fwe-RQOmBMMInFMCMVH2L42WDzd8Lr_gCLcBGAsYHQ/s135/382-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-D563DxnUaPs/X4dbeLdfgeI/AAAAAAAArOk/UbdwQiE02wAPX-6ALI1Yd5K_nttYyBh-wCLcBGAsYHQ/s135/382-Asuna-Sword-Art-Online-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n382/",
+      "fetched_at": "2026-05-16T19:10:34.497Z",
+      "raw_id": "/nendoroid/details/n382/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.367Z",
+      "raw_id": "Nendoroid/0300-0399/382.json"
+    }
+  ]
+}

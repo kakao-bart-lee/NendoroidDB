@@ -1,0 +1,67 @@
+{
+  "num": "0082",
+  "name": {
+    "en": "Nendoroid Mio Akiyama (あきやま みお ねんどろいどあきやま みお ねんどろいど)",
+    "ja": "ねんどろいど 秋山 澪 (ねんどろいど　あきやまみお)",
+    "ko": "아키야마 미오"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2558,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7KcwzgQDSrk/X4MSF1WQWRI/AAAAAAAApbw/w0ueTgzU-pkFtD40m405lKcM2MD9QuyDQCLcBGAsYHQ/s270/082-Akiyama-Mio-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7KcwzgQDSrk/X4MSF1WQWRI/AAAAAAAApbw/w0ueTgzU-pkFtD40m405lKcM2MD9QuyDQCLcBGAsYHQ/s270/082-Akiyama-Mio-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-totenAKzhpc/X4GxA-wc0SI/AAAAAAAApNo/knR3lMygn5cL61USom8d_ND0pj_E_OO3gCLcBGAsYHQ/s135/082-Akiyama-Mio-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kxkaOSELc4E/X4GxBMPBL7I/AAAAAAAApNs/0NYMvwNSoE464fLkeOM-fHDl0Y2FxOqgQCLcBGAsYHQ/s135/082-Akiyama-Mio-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8Iw-8o7ZWck/X4GxBl9R3UI/AAAAAAAApNw/GGwzJXvVmsQajd7GaWXoI3ntr49CwA3vwCLcBGAsYHQ/s135/082-Akiyama-Mio-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M3y8YOhYReI/X4GxB52wIhI/AAAAAAAApN0/fyNHhNMtJA4XAJEIQGnxrNsC0Krni4SVgCLcBGAsYHQ/s135/082-Akiyama-Mio-K-ON-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n082/",
+      "fetched_at": "2026-05-16T19:10:33.116Z",
+      "raw_id": "/nendoroid/details/n082/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.283Z",
+      "raw_id": "Nendoroid/0000-0099/082.json"
+    }
+  ]
+}

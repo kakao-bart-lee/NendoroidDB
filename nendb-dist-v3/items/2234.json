@@ -1,0 +1,69 @@
+{
+  "num": "2234",
+  "name": {
+    "en": "Nendoroid Miyo Saimori",
+    "ja": "ねんどろいど 斎森美世 (ねんどろいど さいもりみよ)",
+    "ko": "사이모리 미요"
+  },
+  "series": {
+    "en": "My Happy Marriage",
+    "ja": "わたしの幸せな結婚",
+    "ko": "나의 행복한 결혼",
+    "code": "my-happy-marriage"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14850,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cncNnwonKRk/ZQoU3tIZGwI/AAAAAAABBjQ/wO7nzYj-6QUUge1cPukzXr7nVEavvJVlQCNcBGAsYHQ/s270/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cncNnwonKRk/ZQoU3tIZGwI/AAAAAAABBjQ/wO7nzYj-6QUUge1cPukzXr7nVEavvJVlQCNcBGAsYHQ/s270/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-f_svIcLx-WU/ZQsgvVjDJdI/AAAAAAABBqc/Lra35OUjmhgo_bbX_YyGfKxJQjxuIbIhgCNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Fc08KTxDRGE/ZQsgv62iGUI/AAAAAAABBqg/jytXyMM4Zt8OYIqEIx_hAN2S8YsvdXjvgCNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ztOHlE-a53o/ZQsgwS3NGLI/AAAAAAABBqk/vps4LRoaS-An9tSYE0H2cKI9dkId7ygwACNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-K7hdpmnzZlY/ZQsgwj6-IMI/AAAAAAABBqo/xHWMYQWuMqk2wyZFD9iSIjO1E5NWt7h4wCNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WpIG3yJMlqk/ZQsgw4UfBrI/AAAAAAABBqs/CIl_ewp0da8DStuGtmqNk6XXHNcRPZQUACNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Q1tiAD06gxg/ZQsgxHIoBbI/AAAAAAABBqw/7qZlstRliOACebs2POqCJbH8Ndbnx9aqQCNcBGAsYHQ/s135/2234-Miyo-Saimori-My-Happy-Marriage-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2234/",
+      "fetched_at": "2026-05-16T19:10:33.934Z",
+      "raw_id": "/nendoroid/details/n2234/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.861Z",
+      "raw_id": "Nendoroid/2200-2299/2234.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "1618-DX",
+  "name": {
+    "en": "Nendoroid Captain America (Sam Wilson) DX",
+    "ja": "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) DX (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん) DX)",
+    "ko": "팔콘 DX"
+  },
+  "series": {
+    "en": "The Falcon and The Winter Soldier",
+    "ja": "ファルコン&ウィンター・ソルジャー",
+    "ko": "팔콘과 윈터솔져",
+    "code": "the-falcon-and-the-winter-soldier"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11127,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11127/89520/large/5e3cbf016dec4da094000ff720571147.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.709Z",
+      "raw_id": "Nendoroid/1600-1699/1618-DX.json"
+    }
+  ]
+}

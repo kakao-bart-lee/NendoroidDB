@@ -1,0 +1,58 @@
+{
+  "num": "2331a",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Sakura Miku",
+    "ja": null,
+    "ko": null,
+    "code": "sakura-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKChVyVdX2hKsX2VlCXhFbqCVs2T2SDfls7oieoovHOFeVUfuGF4GXJwajWrcUuRqGSERpXMO5eY96j8Cb22O_MpkKgJhOB7P3RUyWVeCoNOFgiJvy28uQbxtllepsiEJtEnvcOJEMldKaWQpO7xDl9F1rfuzAtBUSyHN4-y72w0EB1zbPOTa8rxk5tCsD/s270/2331a-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKChVyVdX2hKsX2VlCXhFbqCVs2T2SDfls7oieoovHOFeVUfuGF4GXJwajWrcUuRqGSERpXMO5eY96j8Cb22O_MpkKgJhOB7P3RUyWVeCoNOFgiJvy28uQbxtllepsiEJtEnvcOJEMldKaWQpO7xDl9F1rfuzAtBUSyHN4-y72w0EB1zbPOTa8rxk5tCsD/s270/2331a-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2331a/",
+      "fetched_at": "2026-05-16T19:10:33.992Z",
+      "raw_id": "/nendoroid/details/n2331a/"
+    }
+  ]
+}

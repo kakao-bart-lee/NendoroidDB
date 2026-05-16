@@ -1,0 +1,70 @@
+{
+  "num": "1327",
+  "name": {
+    "en": "Nendoroid Miyuki Shirogane",
+    "ja": "ねんどろいど 白銀御行 (ねんどろいど しろがねみゆき)",
+    "ko": "시로가네 미유키"
+  },
+  "series": {
+    "en": "Kaguya-sama: Love is War",
+    "ja": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "ko": "카구야 님은 고백받고 싶어",
+    "code": "kaguya-sama-love-is-war"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5610,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9468,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bo5DmN4cB2U/X4NjrInZ3oI/AAAAAAABm0k/nxJIB2igFE4fhBs5pU4f0ziXX30qXsMZACLcBGAsYHQ/s270/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bo5DmN4cB2U/X4NjrInZ3oI/AAAAAAABm0k/nxJIB2igFE4fhBs5pU4f0ziXX30qXsMZACLcBGAsYHQ/s270/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZKcmaT9Afec/X4s9CpSUikI/AAAAAAABqZs/AhaJc1YH-RUYT_xhsSU6zCvvGB6b410LwCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8j3qxyyl6_o/X4s9C1jaRSI/AAAAAAABqZw/L4sRQCoumgMVY8CinbF1DMVw5MCt7pxRwCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dBt_srgpYyI/X4s9CyvlC3I/AAAAAAABqZ0/x9r6Y5zZ3rAkLMYvDBFIfQJoOJ240scNwCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Gyg2fvapORk/X4s9DRigRbI/AAAAAAABqZ4/3KdosReiM3If6H5PfhhKtXK_RsCDqcDdQCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q1nafiC7Nug/X4s9DuUykBI/AAAAAAABqZ8/agfpxZQIzNAa58C6WaIOi8-fRB70NGo_wCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LLGJFQbXSzM/X4s9D1oVvJI/AAAAAAABqaA/guKMTfa4i3g_tPdYXaDz_O8bXA835FHqwCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dkkPw61ampc/X4s9EDQE1NI/AAAAAAABqaE/6CpZmKkuOkIgCqBukLaAIkrq_XZeMeD8gCLcBGAsYHQ/s135/1327-Miyuki-Shirogane-Kaguya-sama-Love-is-War-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1327/",
+      "fetched_at": "2026-05-16T19:10:33.360Z",
+      "raw_id": "/nendoroid/details/n1327/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.640Z",
+      "raw_id": "Nendoroid/1300-1399/1327.json"
+    }
+  ]
+}

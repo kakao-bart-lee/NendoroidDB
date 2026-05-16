@@ -1,0 +1,69 @@
+{
+  "num": "1540",
+  "name": {
+    "en": "Nendoroid Aqua: Winter Ver.",
+    "ja": "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
+    "ko": "아쿠아 Winter Ver."
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja": "この素晴らしい世界に祝福を！",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10691,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gTWK9hGA92M/YA2BL3gxW_I/AAAAAAAAvc8/7891JSpJLn0gEC5kxFYKJ8MP6o4zJNSGACLcBGAsYHQ/s270/1540-Aqua-Winter-Ver-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gTWK9hGA92M/YA2BL3gxW_I/AAAAAAAAvc8/7891JSpJLn0gEC5kxFYKJ8MP6o4zJNSGACLcBGAsYHQ/s270/1540-Aqua-Winter-Ver-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zd_WPEbEBEc/YA2EdxuD-UI/AAAAAAAAvg8/6Ot6GR9Mf7EDg3UM7B148XZ1zwKPGp0RQCLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nfrmjClg-pM/YA2EeMnx0LI/AAAAAAAAvhA/oVUGt-SVIhEmGSgbeCl2_SLCH9NsKTZ_gCLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-glEUoqvC8tc/YA2EeZo2paI/AAAAAAAAvhE/UvcBMQhOvic6NgminCzdqFybZeRy85DawCLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mAYK6N99ewo/YA2EepRSruI/AAAAAAAAvhI/dxFMAo6pvV8bZlCm-gihzjhifkr8uxu6wCLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2Nih68VXZXM/YA2Ee6lMuXI/AAAAAAAAvhM/X7nU8KKZySEGh35fCHH01KIb2L3jNrfXwCLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-3NFv43ZQtHo/YA2EfLSgtRI/AAAAAAAAvhQ/CQc7bVM07fEi761MuG9dCuKVknRi7w2BACLcBGAsYHQ/s135/1540-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1540/",
+      "fetched_at": "2026-05-16T19:10:33.492Z",
+      "raw_id": "/nendoroid/details/n1540/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.691Z",
+      "raw_id": "Nendoroid/1500-1599/1540.json"
+    }
+  ]
+}

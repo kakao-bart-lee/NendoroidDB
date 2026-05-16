@@ -1,0 +1,64 @@
+{
+  "num": "0009",
+  "name": {
+    "en": "Nendoroid Haruhi Suzumiya (すずみやはるひ ねんどろいど)",
+    "ja": "ねんどろいど 涼宮ハルヒ (すずみやはるひ ねんどろいど)",
+    "ko": "스즈미야 하루히"
+  },
+  "series": {
+    "en": "The Melancholy of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの憂鬱",
+    "ko": "스즈미야 하루히의 우울",
+    "code": "the-melancholy-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 390,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S1dKKTD6YFw/X4MRw-sWBrI/AAAAAAAApW0/_3WGEFoBWLUxh6Ogjhz-eILPZqxIs9dfgCLcBGAsYHQ/s270/009-Haruhi%2BSuzumiya-The%2BMelancholy%2Bof%2BHaruhi%2BSuzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S1dKKTD6YFw/X4MRw-sWBrI/AAAAAAAApW0/_3WGEFoBWLUxh6Ogjhz-eILPZqxIs9dfgCLcBGAsYHQ/s270/009-Haruhi%2BSuzumiya-The%2BMelancholy%2Bof%2BHaruhi%2BSuzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-myzp0ofnV8U/X4GwN-73J-I/AAAAAAAAo-s/irH5wVUFo30xaA1JLzwfU85LXwzY-RPqQCLcBGAsYHQ/s135/009-Haruhi-Suzumiya-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n009/",
+      "fetched_at": "2026-05-16T19:10:33.068Z",
+      "raw_id": "/nendoroid/details/n009/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.259Z",
+      "raw_id": "Nendoroid/0000-0099/009.json"
+    }
+  ]
+}

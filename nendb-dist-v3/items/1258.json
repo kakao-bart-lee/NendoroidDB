@@ -1,0 +1,69 @@
+{
+  "num": "1258",
+  "name": {
+    "en": "Nendoroid LILROO",
+    "ja": "ねんどろいど リルル (ねんどろいど りるる)",
+    "ko": "리루루"
+  },
+  "series": {
+    "en": "High School Prodigies Have It Easy Even In Another World",
+    "ja": "超人高校生たちは異世界でも余裕で生き抜くようです！",
+    "ko": "초인 고교생들은 이세계에서도 여유롭게 살아가나 봅니다!",
+    "code": "high-school-prodigies-have-it-easy-even-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9093,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iX6Khmi64gI/X4NiYRSknnI/AAAAAAABmqU/jg5DaeUCL3Mq3k-GoPpHzb-Dmwop5oo4ACLcBGAsYHQ/s270/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iX6Khmi64gI/X4NiYRSknnI/AAAAAAABmqU/jg5DaeUCL3Mq3k-GoPpHzb-Dmwop5oo4ACLcBGAsYHQ/s270/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XW4jgF8QO_o/X4r0NpVdY1I/AAAAAAABp6c/1Clnh-7W1OwdPWJBWHYFthNFiCA7n7mBwCLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xQsfgL9-uwo/X4r0ONCP1XI/AAAAAAABp6g/mL1qRuYzElU8U4ml8Susopg-yhGfwvdegCLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Yqv69WuSTlQ/X4r0OKoR_gI/AAAAAAABp6k/tcKsjgkw1hkric6Z3b3v3eT0gud-t0u9wCLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x1AdlYLwRiY/X4r0OVgQuRI/AAAAAAABp6o/ANsPjJwh-Kcw7AS5PtOriR_lMHZImi7agCLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i_2HIq8LEA0/X4r0OXLG9WI/AAAAAAABp6s/EFXZdyaOQRIrIpPVW5XH1H2NBzIKyuErQCLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uLCvmGTgHxM/X4r0Oqi_eLI/AAAAAAABp6w/vMFXJbCEWUQ_HF1K0FZ97HT97uShaHGPACLcBGAsYHQ/s135/1258-LILROO-High-School-Prodigies-Have-It-Easy-Even-In-Another-World-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1258/",
+      "fetched_at": "2026-05-16T19:10:33.317Z",
+      "raw_id": "/nendoroid/details/n1258/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.623Z",
+      "raw_id": "Nendoroid/1200-1299/1258.json"
+    }
+  ]
+}

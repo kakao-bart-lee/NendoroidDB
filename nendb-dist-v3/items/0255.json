@@ -1,0 +1,69 @@
+{
+  "num": "0255",
+  "name": {
+    "en": "Nendoroid Marika Kato (ねんどろいど かとうまりか)",
+    "ja": "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
+    "ko": "카토 마리카"
+  },
+  "series": {
+    "en": "Bodacious Space Pirates",
+    "ja": "モーレツ宇宙海賊（パイレーツ）",
+    "ko": "미니스커트 우주해적",
+    "code": "bodacious-space-pirates"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3580,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gW2B7N4BNHY/X4NLSwb8OHI/AAAAAAABlYs/qCfAlqYorlcM6AqnGcq1R1ORKpU6rZ8bQCLcBGAsYHQ/s270/255-Kato-Marika-Bodacious-Space-Pirates-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gW2B7N4BNHY/X4NLSwb8OHI/AAAAAAABlYs/qCfAlqYorlcM6AqnGcq1R1ORKpU6rZ8bQCLcBGAsYHQ/s270/255-Kato-Marika-Bodacious-Space-Pirates-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KLMhq-90ink/X4dXzPXPgUI/AAAAAAAAqi4/jtPb_brmmsUJBvHUnHqiXojkdy822Li1wCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pRp0cv9SX_s/X4dXzhVidpI/AAAAAAAAqi8/ekXYDct3vu0iSdAjT0o2ErAZKxWxitsugCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DaYTMLIkJoU/X4dXzys2GpI/AAAAAAAAqjA/U4XUxPN3bfsrmLoIzdcHvRYu2xcGKwSggCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RMYtpGvqTIw/X4dX0pJFw3I/AAAAAAAAqjE/PLUIt7mUChsb0lh2LwjvO77AHf8t-LWZwCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kmVX5aYHYIM/X4dX00FeQcI/AAAAAAAAqjI/nmHexUZbvXMqZPN5we9AfG7oWubrnGj8wCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LDMytADSW5o/X4dX02N2D6I/AAAAAAAAqjM/xCEon5_Q9Tsb12SclUlJApLOTEsVPpjHQCLcBGAsYHQ/s135/255-Kato-Marika-Bodacious-Space-Pirates-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n255/",
+      "fetched_at": "2026-05-16T19:10:34.134Z",
+      "raw_id": "/nendoroid/details/n255/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.334Z",
+      "raw_id": "Nendoroid/0200-0299/255.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "9896",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Sailor Boy - Mint Chocolate)",
+    "ja": "ねんどろいどどーる おようふくセット Sailor Boy（Chocomint） (ねんどろいどどーる おようふくせっと せーらー ぼーい（ちょこみんと）)",
+    "ko": "세일러 보이(민트초코)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9896,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200804/9896/72905/large/d657e12fd14b6c617bda4ec8883c0091.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.945Z",
+      "raw_id": "NendoroidDoll/Clothes/9896.json"
+    }
+  ]
+}

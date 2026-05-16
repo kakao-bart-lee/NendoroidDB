@@ -1,0 +1,68 @@
+{
+  "num": "2016",
+  "name": {
+    "en": "Nendoroid Roboco",
+    "ja": "ねんどろいど ロボコ (ねんどろいど ろぼこ)",
+    "ko": "로보코"
+  },
+  "series": {
+    "en": "Me & Roboco",
+    "ja": "TVアニメ「僕とロボコ」",
+    "ko": "나와 로보코",
+    "code": "me-roboco"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13723,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yqfCWLnCj9k/Y69BNBaDt5I/AAAAAAAA8Pc/D49pp-gwJJQ0Q3NROzbah8kvJQ14nebmQCNcBGAsYHQ/s270/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yqfCWLnCj9k/Y69BNBaDt5I/AAAAAAAA8Pc/D49pp-gwJJQ0Q3NROzbah8kvJQ14nebmQCNcBGAsYHQ/s270/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y4H50NGHPmk/Y684iB9O6dI/AAAAAAAA8Ic/K5HYaaMt74g-O2cpLCA5TMB_FGF_3GDJACNcBGAsYHQ/s135/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iN48Wh_uffY/Y684iWChfEI/AAAAAAAA8Ig/B2f2JjDW_wUXy7SOzFjJqME7bbAp8jqQACNcBGAsYHQ/s135/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VAtHuhFuE3Y/Y684ivFfBXI/AAAAAAAA8Ik/IEK9grYEgJECWNl747D4pvj8kTNwMThhACNcBGAsYHQ/s135/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nz_qfFyuoWo/Y684jElhkeI/AAAAAAAA8Io/-rwKCUJSvloGpK47xMnL8xEbp5IH0f3WgCNcBGAsYHQ/s135/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vRGzepYwABQ/Y684jNvQTCI/AAAAAAAA8Is/vYxqVSp3sl4zVNfRHEsRcg31yzI53ODpgCNcBGAsYHQ/s135/2016-Roboco-Me-and-Roboco-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2016/",
+      "fetched_at": "2026-05-16T19:10:33.787Z",
+      "raw_id": "/nendoroid/details/n2016/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.806Z",
+      "raw_id": "Nendoroid/2000-2099/2016.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1635",
+  "name": {
+    "en": "Nendoroid Kal'tsit",
+    "ja": "ねんどろいど ケルシー (ねんどろいど けるしー)",
+    "ko": "켈시"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11144,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-H4_W8fTO_io/YONqPng5mBI/AAAAAAAAzDs/LFjNdabGx8E5_8ObL3hK2Fj9f3EVeTt-ACLcBGAsYHQ/s270/1635-Kaltsit-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-H4_W8fTO_io/YONqPng5mBI/AAAAAAAAzDs/LFjNdabGx8E5_8ObL3hK2Fj9f3EVeTt-ACLcBGAsYHQ/s270/1635-Kaltsit-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BplYArW_hvU/YONsDXNj3MI/AAAAAAAAzFw/GU4spxYQU8YEO7gVbdH-YqOCaLHkixR3ACLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lIu_bu_Zra0/YONsDSwjFdI/AAAAAAAAzF0/X64DKZorwu080GdX9FFnOgU6pret7CRFACLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CnXaip9gqTg/YONsDo-j7gI/AAAAAAAAzF4/D0cDHB4eSJk8EdsDpvdLGcn2Zct8OXGkQCLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-L31GIF0DgYA/YONsDwOM75I/AAAAAAAAzF8/PzFgYPyE37A-l6mp8NSAeYo_rnIL3D2bgCLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-W_cvQVFFofY/YONsDzzbmLI/AAAAAAAAzGA/ZZHt_CxmUukP0NNzp_Uml-M6EsXrOhPnACLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cSLdAMrMOY0/YONsEKOyjcI/AAAAAAAAzGE/A8EvrcY6oNEgapVIhQwD2xKHYMvUO1L1ACLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MjKzz4TcB_o/YONsEKo04wI/AAAAAAAAzGI/_Td4__uYqqo_j3VIK05vG0FINhPaEgx9ACLcBGAsYHQ/s135/1635-Kaltsit-Arknights-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1635/",
+      "fetched_at": "2026-05-16T19:10:33.549Z",
+      "raw_id": "/nendoroid/details/n1635/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.713Z",
+      "raw_id": "Nendoroid/1600-1699/1635.json"
+    }
+  ]
+}

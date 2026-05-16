@@ -1,0 +1,68 @@
+{
+  "num": "0331",
+  "name": {
+    "en": "Nendoroid Nyaruko: Maid Ver. (ねんどろいど にゃるこ めいどVer.)",
+    "ja": "ねんどろいど ニャル子 冥土Ver. (ねんどろいど にゃるこ めいどVer.)",
+    "ko": "냐루코 메이드 Ver."
+  },
+  "series": {
+    "en": "Haiyore! Nyaruko-san W",
+    "ja": "這いよれ！ニャル子さんW",
+    "ko": "기어와라! 냐루코양",
+    "code": "haiyore-nyaruko-san-w"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3948,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rpBUYtDFrYQ/X4NMssFJZ2I/AAAAAAABlhU/3_wBpYrjNMIbYjH3Ve0Ba11Li1RRfwr7gCLcBGAsYHQ/s270/331-Nyaruko-Maid-Version-Haiyore-Nyaruko-San-W-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rpBUYtDFrYQ/X4NMssFJZ2I/AAAAAAABlhU/3_wBpYrjNMIbYjH3Ve0Ba11Li1RRfwr7gCLcBGAsYHQ/s270/331-Nyaruko-Maid-Version-Haiyore-Nyaruko-San-W-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ybif3h1Xfmo/X4dadiAxU9I/AAAAAAAAq9c/MnZtB5yAZqsruU2zAq0efQw2PWkwZ_WPwCLcBGAsYHQ/s135/331-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uw7VPJNVt4k/X4dadz88vXI/AAAAAAAAq9g/Q852ezxKVYsuw8ZpOSsHB1qSbUt8W6AuACLcBGAsYHQ/s135/331-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nf7bDLRlqVA/X4dad1Uk6DI/AAAAAAAAq9k/13z8nPXuFGQBJMEIJus0slSH-nQ-dKl8QCLcBGAsYHQ/s135/331-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JbihOGtEmRQ/X4daeIN5RnI/AAAAAAAAq9o/HwjJYoKIVZEi87DJBJ1PSNkcbGs5rnpCQCLcBGAsYHQ/s135/331-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-n7pdMqLzoec/X4daeUyCwuI/AAAAAAAAq9s/piW1Ay4pNn4Qm8lV35kx9E2eKGO3SLdRwCLcBGAsYHQ/s135/331-Nyaruko-Haiyore-Nyaruko-san-W-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n331/",
+      "fetched_at": "2026-05-16T19:10:34.465Z",
+      "raw_id": "/nendoroid/details/n331/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.353Z",
+      "raw_id": "Nendoroid/0300-0399/331.json"
+    }
+  ]
+}

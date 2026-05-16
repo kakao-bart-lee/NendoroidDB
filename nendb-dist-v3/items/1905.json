@@ -1,0 +1,69 @@
+{
+  "num": "1905",
+  "name": {
+    "en": "Nendoroid Uta",
+    "ja": "ねんどろいど ウタ (ねんどろいど うた)",
+    "ko": "우타"
+  },
+  "series": {
+    "en": "Bubble",
+    "ja": "バブル",
+    "ko": "버블",
+    "code": "bubble"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4RXQuW60Tos/Yw_WN6FEr1I/AAAAAAAA6Zw/VMTJ_sPyqb4gH_XIBjhW6-Tpurm0Yd1GgCNcBGAsYHQ/s270/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4RXQuW60Tos/Yw_WN6FEr1I/AAAAAAAA6Zw/VMTJ_sPyqb4gH_XIBjhW6-Tpurm0Yd1GgCNcBGAsYHQ/s270/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m6RLP9h00bc/YxEXBUyAPMI/AAAAAAAA6l4/zG_ONpMBb-4P627z_q4933npRVFU54cogCNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-B6CpvcQiSsI/YxEXB68VHJI/AAAAAAAA6l8/GaElX7voX0sCAKXE8B5N32-io7n9bmLdQCNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lCMWp_K_Im8/YxEXCc-pYBI/AAAAAAAA6mA/c8a7LjuoiX8o1p4TExwGztCyQ0xVhcSmwCNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-t1Cmi0_UeE4/YxEXC-HxFHI/AAAAAAAA6mE/vJjULPIdqJwtOEaWLcNxmjKfmEUveVjwgCNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8SC1ORrwT0I/YxEXDar8f1I/AAAAAAAA6mI/PvfHTGBilZgl4FKeNVHlYx5WRaCVwSN6gCNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PaAF5fVpy94/YxEXD8_PHxI/AAAAAAAA6mM/w6k-U17jleAGXEFL1XJ_VXLcA54B6Ny4ACNcBGAsYHQ/s135/1905-Uta-Bubble-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1905/",
+      "fetched_at": "2026-05-16T19:10:33.721Z",
+      "raw_id": "/nendoroid/details/n1905/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.779Z",
+      "raw_id": "Nendoroid/1900-1999/1905.json"
+    }
+  ]
+}

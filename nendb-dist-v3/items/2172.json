@@ -1,0 +1,69 @@
+{
+  "num": "2172",
+  "name": {
+    "en": "Nendoroid Shizuku Kuroe",
+    "ja": "ねんどろいど 黒江雫 (ねんどろいど くろえしずく)",
+    "ko": "쿠로에 시즈쿠"
+  },
+  "series": {
+    "en": "My Dress-Up Darling",
+    "ja": "TVアニメ「その着せ替え人形（ビスク・ドール）は恋をする」",
+    "ko": "그 비스크 돌은 사랑을 한다",
+    "code": "my-dress-up-darling"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14690,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AoIXcl5dY44/ZM6ytcmxyHI/AAAAAAABA8s/aDBEJSILVGIZcocldU_a85Kuj3NmRNangCNcBGAsYHQ/s270/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AoIXcl5dY44/ZM6ytcmxyHI/AAAAAAABA8s/aDBEJSILVGIZcocldU_a85Kuj3NmRNangCNcBGAsYHQ/s270/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TlqiudKJtRA/ZNAV-RtpEFI/AAAAAAABBB4/K_s0TcZto945MWngf40mtj8OCtaSn4yGQCNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3EiHMjDs4xk/ZNAV-iz_4dI/AAAAAAABBB8/Qh67pA82hXUAmkXKaiCna0CNf4kLhSL2QCNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qyd5EPnPEYE/ZNAV-0k-1fI/AAAAAAABBCA/NJTG6HBR240_JVEJVda4thxEJJE-KIVXACNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lQif_9g1tkY/ZNAV_F2_ZOI/AAAAAAABBCE/KylezEohPpUiAtpp_zdojw9vuezYW9gmgCNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-54wsaXYMLcs/ZNAV_UUAd4I/AAAAAAABBCI/o1N3r8aT060kwslUtBA0MArabu_xE12cQCNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-s8FpQ3lGU-U/ZNAV_o5oG8I/AAAAAAABBCM/UwinbfNitFol7ywDqcdt09hKbLcvkZ2EwCNcBGAsYHQ/s135/2172-Shizuku-Kuroe-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2172/",
+      "fetched_at": "2026-05-16T19:10:33.881Z",
+      "raw_id": "/nendoroid/details/n2172/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.845Z",
+      "raw_id": "Nendoroid/2100-2199/2172.json"
+    }
+  ]
+}

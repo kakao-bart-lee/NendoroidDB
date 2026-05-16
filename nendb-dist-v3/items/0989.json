@@ -1,0 +1,70 @@
+{
+  "num": "0989",
+  "name": {
+    "en": "Nendoroid Joker",
+    "ja": "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
+    "ko": "주인공"
+  },
+  "series": {
+    "en": "Persona5",
+    "ja": "ペルソナ５",
+    "ko": "페르소나5",
+    "code": "persona5"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7563,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--JL1He6pgEY/X4Ne5Q0tiOI/AAAAAAABmPg/qR91nHmMe2E03FpFbffVzO6O7b2flIlEwCLcBGAsYHQ/s270/989-Joker-Persona-5-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--JL1He6pgEY/X4Ne5Q0tiOI/AAAAAAABmPg/qR91nHmMe2E03FpFbffVzO6O7b2flIlEwCLcBGAsYHQ/s270/989-Joker-Persona-5-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sYh_N18mX6k/X4rpqA80AyI/AAAAAAABoKQ/tpzm5WaXQPo1Q1wpIwWAWxVGeguOZZqFwCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LsI5vtRcCHo/X4rpqZ8xZHI/AAAAAAABoKU/wl9xaXZBqOAsAcB-PdRkAvce7Ghl2eFzwCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I-5hOag7t7c/X4rpqlTY6sI/AAAAAAABoKY/59IJx1ucmLUEmBtLBgEsHPVIWBMjh8ETQCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-obchq5lGkiw/X4rpqwl4irI/AAAAAAABoKc/l57e_aYkbv8ztEXchuqdYz3Vy-_Dj9y7wCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WA0fQ-oNbE4/X4rprC3Bb9I/AAAAAAABoKg/_ltNSzajIMob_FGoKIVv2OJLMm9adI-_ACLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-d_gt-8eTZMY/X4rprbacmcI/AAAAAAABoKk/Ru_9sxBSaIUtWqljqG1upYCMdNIejb2NQCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6poGxwXgV10/X4rprrC41mI/AAAAAAABoKo/jErgtEUyuTsqxIUjPkU31I_DYlSPs8arwCLcBGAsYHQ/s135/989-Joker-Persona-Persona-5-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n989/",
+      "fetched_at": "2026-05-16T19:10:34.912Z",
+      "raw_id": "/nendoroid/details/n989/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.558Z",
+      "raw_id": "Nendoroid/0900-0999/989.json"
+    }
+  ]
+}

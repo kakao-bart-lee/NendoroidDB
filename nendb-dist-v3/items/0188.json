@@ -1,0 +1,68 @@
+{
+  "num": "0188",
+  "name": {
+    "en": "Nendoroid Millhiore F. Biscotti (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ja": "ねんどろいど ミルヒオーレ・F・ ビスコッティ (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ko": "밀피오레 F. 비스코티"
+  },
+  "series": {
+    "en": "DOG DAYS",
+    "ja": "DOG DAYS",
+    "ko": "DOG DAYS",
+    "code": "dog-days"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3246,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cQ7FbNr3eDk/X4NKMeeXoHI/AAAAAAABlT0/9Y56R4ynLZ8ib9LHH1nkB619CpXkCvxTgCLcBGAsYHQ/s270/188-Millhiore-F-Biscotti-Dog-Dags-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cQ7FbNr3eDk/X4NKMeeXoHI/AAAAAAABlT0/9Y56R4ynLZ8ib9LHH1nkB619CpXkCvxTgCLcBGAsYHQ/s270/188-Millhiore-F-Biscotti-Dog-Dags-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Yrukbna2YEc/X4dUS4ok_sI/AAAAAAAAqMI/GWqcyqFuE38p5dYUM25NYYkh1Jh6Pw7IQCLcBGAsYHQ/s135/188-Millhiore-F.-Biscotti-Dog-Days-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4e1fJXcAmVY/X4dUTVReCsI/AAAAAAAAqMM/Mk8EaoOl_BkjU_DFMbHn31oAQR3P4ZaVgCLcBGAsYHQ/s135/188-Millhiore-F.-Biscotti-Dog-Days-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-W-3i2ukla_U/X4dUTwONPKI/AAAAAAAAqMQ/PIYPeh8RBdAftPN1KlpXMXD1b92b4nJUwCLcBGAsYHQ/s135/188-Millhiore-F.-Biscotti-Dog-Days-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-D7H83vPgLWA/X4dUUfbDPrI/AAAAAAAAqMU/FLdeWSkDUgwp9zpzzn_xF4YVSsGUt-USACLcBGAsYHQ/s135/188-Millhiore-F.-Biscotti-Dog-Days-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k6-6OnQ8WQA/X4dUUvv_GmI/AAAAAAAAqMY/6po9x6sP_Age8AUf5jLFTAnMY6nMbdepwCLcBGAsYHQ/s135/188-Millhiore-F.-Biscotti-Dog-Days-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n188/",
+      "fetched_at": "2026-05-16T19:10:33.712Z",
+      "raw_id": "/nendoroid/details/n188/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.315Z",
+      "raw_id": "Nendoroid/0100-0199/188.json"
+    }
+  ]
+}

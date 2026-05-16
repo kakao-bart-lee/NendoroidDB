@@ -1,0 +1,70 @@
+{
+  "num": "1358",
+  "name": {
+    "en": "Nendoroid Ran Mōri",
+    "ja": "ねんどろいど 毛利蘭 (ねんどろいど もうりらん)",
+    "ko": "모리 란"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9625,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--Ds4rYvfmEg/X4NjyWwiSrI/AAAAAAABm2Y/7Y1AbUlSjm0Hsm9FY-MddWJfhqrq0RGygCLcBGAsYHQ/s270/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--Ds4rYvfmEg/X4NjyWwiSrI/AAAAAAABm2Y/7Y1AbUlSjm0Hsm9FY-MddWJfhqrq0RGygCLcBGAsYHQ/s270/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DxyYhFDn-_s/X4s9r-bR8yI/AAAAAAABqjU/SMYoe2IJvPgBs_uu8X_8piJxKFWXdWsbACLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ulLU3MXiXdA/X4s9sH8M43I/AAAAAAABqjY/-Y9ENhrgLJAjn3hRIIWWxRseNOTz_TGEQCLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ixUuQ9kaR3A/X4s9sKG_gcI/AAAAAAABqjc/4dCacEREO8wmYeZAziDFXm9JcotI0ftagCLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-q7AtESWYiRQ/X4s9sZFRllI/AAAAAAABqjg/zqIXfaELYVQUqeCVuVSsfVj7-JDtjBQuACLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8mQQ-EUVCnc/X4s9sw--u_I/AAAAAAABqjk/fnq5kD5qSuMcClXIfj8oZiJ92FATE57pACLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FXGteEJ2YEQ/X4s9tCA4gpI/AAAAAAABqjo/LwSaTBAFRIg1Ac-W4SRi8SBoYa2OtihZwCLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-fZDp3qfJxxo/X4s9tVXVsVI/AAAAAAABqjs/YMjdBA8Eu-QmXkxNWAdrV6pB2YOuQSJigCLcBGAsYHQ/s135/1358-Ran-Mouri-Detective-Conan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1358/",
+      "fetched_at": "2026-05-16T19:10:33.380Z",
+      "raw_id": "/nendoroid/details/n1358/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.647Z",
+      "raw_id": "Nendoroid/1300-1399/1358.json"
+    }
+  ]
+}

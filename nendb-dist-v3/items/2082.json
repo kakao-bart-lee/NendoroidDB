@@ -1,0 +1,69 @@
+{
+  "num": "2082",
+  "name": {
+    "en": "Nendoroid Yukikaze",
+    "ja": "ねんどろいど 雪風 (ねんどろいど ゆきかぜ)",
+    "ko": "유키카제"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14044,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zCc3X5Pv2yE/ZA3eD0hOfQI/AAAAAAAA9LI/A29v8K0VI7cY6S4S-fuj-W2UfI-dfTTfQCNcBGAsYHQ/s270/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zCc3X5Pv2yE/ZA3eD0hOfQI/AAAAAAAA9LI/A29v8K0VI7cY6S4S-fuj-W2UfI-dfTTfQCNcBGAsYHQ/s270/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eJjGau5kjiU/ZA3dMhUjscI/AAAAAAAA9Fs/1VnRjkkx8lUbN_gFm3_AlAvk85oI8iYZwCNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CAPD7rEtFj8/ZA3dM-rxwYI/AAAAAAAA9F0/pcW4EtUL_GQm69XQU5ETpMOcBZxeDcicQCNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BcYCbDcEYQg/ZA3dNGH6GkI/AAAAAAAA9F4/pkv3Ly5OZeoGCuqBIQ1UGrYHFuzAKwoFwCNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OSxJCVFXaaI/ZA3dNZPn-dI/AAAAAAAA9F8/VQmrVH-_zXkk9MHDrCreKqo7m82sCFk-QCNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oF39B7wXQy4/ZA3dNZ4xZ7I/AAAAAAAA9GE/kjQjefDkP8M9vq_9drM_Q5MgfYOuZOiSwCNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QR_0vSwf20k/ZA3dNrpTuzI/AAAAAAAA9GA/U7dNU0D2XRAZjzWX0sKxBsUKx_V_qkj1ACNcBGAsYHQ/s135/2082-Yukikaze-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2082/",
+      "fetched_at": "2026-05-16T19:10:33.829Z",
+      "raw_id": "/nendoroid/details/n2082/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.822Z",
+      "raw_id": "Nendoroid/2000-2099/2082.json"
+    }
+  ]
+}

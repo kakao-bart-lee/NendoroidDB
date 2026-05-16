@@ -1,0 +1,68 @@
+{
+  "num": "1901",
+  "name": {
+    "en": "Nendoroid Loid Forger",
+    "ja": "ねんどろいど ロイド・フォージャー (ねんどろいど ろいど・ふぉーじゃー)",
+    "ko": "로이드 포저"
+  },
+  "series": {
+    "en": "SPY x FAMILY",
+    "ja": "SPY×FAMILY",
+    "ko": "스파이 패밀리",
+    "code": "spy-x-family"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12800,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-95U3P3kB4f8/Yw_WNLCbsYI/AAAAAAAA6Zo/E7q0xaejQJE2j4a8Rwt5pIuXIkWZe5w3gCNcBGAsYHQ/s270/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-95U3P3kB4f8/Yw_WNLCbsYI/AAAAAAAA6Zo/E7q0xaejQJE2j4a8Rwt5pIuXIkWZe5w3gCNcBGAsYHQ/s270/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LnRaaIGwI5g/YxEW8h-tRcI/AAAAAAAA6k4/xo7FzaLOP6w6M3SHNna0RP7ooz5ZYg41ACNcBGAsYHQ/s135/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tP1VkJi2auA/YxEW8w9PkdI/AAAAAAAA6k8/kAe3BKZa2qMqR6uGNHwkEGYKO6-BVnsCwCNcBGAsYHQ/s135/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yf1MQCFjHfQ/YxEW9KxTZrI/AAAAAAAA6lA/SJBwhvlepSIEPLlT7Pt6RXa48He2pQZ4gCNcBGAsYHQ/s135/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9WIAI2Y6IqY/YxEW9VuFTJI/AAAAAAAA6lE/d5l7Woski0MUAsvxGEI5cl2NO4dKZkRLACNcBGAsYHQ/s135/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SvCAzzPjgDg/YxEW9mzOm2I/AAAAAAAA6lI/QEPK95zaBvI7BZeVkMZ_Niqrye6IJOwsQCNcBGAsYHQ/s135/1901-Loid-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1901/",
+      "fetched_at": "2026-05-16T19:10:33.718Z",
+      "raw_id": "/nendoroid/details/n1901/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.778Z",
+      "raw_id": "Nendoroid/1900-1999/1901.json"
+    }
+  ]
+}

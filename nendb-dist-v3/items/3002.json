@@ -1,0 +1,64 @@
+{
+  "num": "3002",
+  "name": {
+    "en": "Dusk",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": null,
+    "ko": null,
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat-GRaChxrHlHUBvntAouUzf2z6ZObBlrpI5Im699FuV7vyA8n8YQMqbQFjD9SDcf7Ffvvd4d1QVQzozI_L9bmLUMb3P7QSI4qtPv11BLyV9hu1fFyHL7YRKCO-5R4GP32ru5YbG7twOLP8zdhA4Ai3COl__UH3YC8IotwGoSG7nFXOEOh7O1zxJJ8UUW/s270/3002-Dusk-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat-GRaChxrHlHUBvntAouUzf2z6ZObBlrpI5Im699FuV7vyA8n8YQMqbQFjD9SDcf7Ffvvd4d1QVQzozI_L9bmLUMb3P7QSI4qtPv11BLyV9hu1fFyHL7YRKCO-5R4GP32ru5YbG7twOLP8zdhA4Ai3COl__UH3YC8IotwGoSG7nFXOEOh7O1zxJJ8UUW/s270/3002-Dusk-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVwqPo9GtKyOYxVClZXYJ-kwuUs1X6QmS2TWuB-z92X_TQhDufjmYbOk5rj0EHwjJVcqqTtEobupFpkYO1w7b1agswHH4Zs1hRvDx2qZZjJ5b6nooVGUqADxniDCfzXQvqgHYwQ0H28UC-e_cmJnaJQkrVN2c9se32YHde9Dqvdwi93M0_Uu-TI3tygLNB/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXB4aZRepty8BXnrcz28ntD5vDPZiFMnCGXJWl8E1QwVzz7HIcvhzaW2yhAUlfeW-LnnDULOagmehZSz4DETvAv4PJf-Gu8E3BAbObNancaGz1QAmPHCga2KkrFuMewnjwmuVxt8qMpogxvNQ07oLxMBtve0m0j88VKrbsOB9rERaEAsCSjW2m-DKpQtPh/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMxot9FYk2I9ZR04M5bdz2i6vctX0tCLi8b1Nnp_JlyBGote6931ZfZaue8ac1S5KQIftHZdogWe90Og_NqQ8wf4VbrN9HVcavC8jt2BAsKdDcdIcWfBSSvAqI8wmop4V3bm1UfkThUbf3uVoPjnqFWublZ8S2mtoSb86O1j71o1C0J2epTz1wUiz7z79/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyak6rv8hK0Lma2kL_BPnUR5R8mTSnH25MZ-XvU_gK0IySZutWuWCNuYSpmGFbnu9vQfgnj-aOToZ2ItRVuQwjt4ijD13yWGe5Fo8H40Fnr53PSas33uvoBC_tbaTvoIZhlHjwn7orO6htNMMI_kRqvuqLc_Rf_sdG8Xp4i5IrY333qT51L2dW1c2qiCs/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8PX36HrGG-qEJd0P4VwGuGozYj8ekNYNArAN3Goc4nWzOIDj-MEmUM9xEnb-oX7uCmycxZx1gWalVKsXltxe0F7OE7_uxbnMm5i0MPBpm-qT6iGE6JilF4tyaAvF7h_YQhzgQ7OpaKiietULtSnJxd0GqHh20_tHuPZXR0D2Z545YnGx2_IvQeJpq58h5/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbgtZnlYB8Lg9byDB4wpEMnD0B09wsoaoX16KDk_I7YJxtsatzpsGlvi_fjhRF4qiYPscCisTsPBybvJTJ6zlUnRCOYChtNnQO_RTypWhwPp68FOXP8vOhhloOuAMO4U_k-R7tYoHP0YBqI_-jNZ8JBCYtQu4iEVS3Vi3dG2Nk7hnSOxYEYf-wfEvNka7e/s135/3002-Dusk-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3002/",
+      "fetched_at": "2026-05-16T19:10:34.425Z",
+      "raw_id": "/nendoroid/details/n3002/"
+    }
+  ]
+}

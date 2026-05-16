@@ -1,0 +1,69 @@
+{
+  "num": "1961",
+  "name": {
+    "en": "Nendoroid Kimihiro Watanuki",
+    "ja": "ねんどろいど 四月一日君尋 (ねんどろいど わたぬききみひろ)",
+    "ko": "와타누키 키미히로"
+  },
+  "series": {
+    "en": "xxxHOLiC",
+    "ja": "xxxHOLiC",
+    "ko": "xxx홀릭",
+    "code": "xxxholic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13233,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Kx4iz3nknG4/Y02wDehtjQI/AAAAAAAA6_s/7kapGuBesSYZrmvKVeUB2Wach1KZFwURQCNcBGAsYHQ/s270/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Kx4iz3nknG4/Y02wDehtjQI/AAAAAAAA6_s/7kapGuBesSYZrmvKVeUB2Wach1KZFwURQCNcBGAsYHQ/s270/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-21hupDZz3BY/Y027yJiGyJI/AAAAAAAA7UA/_Stv0RAReyURXDFl2OwUoy2nm_2trdm_wCNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ksEDlqFpELQ/Y027yvOg10I/AAAAAAAA7UE/LiVLpF84kxgAH4Now-8ONxnDF1iE97NEwCNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5Y3YKk-8dCY/Y027zMl4QsI/AAAAAAAA7UI/o-HanOpVQ9EXV_6R3kJ69QWas2wRoQgTwCNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BHwP3z1mn9E/Y027zoH_kUI/AAAAAAAA7UM/7IuJLOKb3rAPP9LFv1RShSRO9vrwf-M6wCNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bZ7V7hfGo6I/Y0270J7FSEI/AAAAAAAA7UQ/w3x2u9DOseQn9fOzm-nqq7deDGmJD0n7QCNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-p8Dx2ob22Mo/Y0270hinNsI/AAAAAAAA7UU/wmXCn25AC0oqtmqjYeTiRbmSfkefMqKyACNcBGAsYHQ/s135/1961-Kimihiro-Watanuki-xxxHolic-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1961/",
+      "fetched_at": "2026-05-16T19:10:33.754Z",
+      "raw_id": "/nendoroid/details/n1961/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.792Z",
+      "raw_id": "Nendoroid/1900-1999/1961.json"
+    }
+  ]
+}

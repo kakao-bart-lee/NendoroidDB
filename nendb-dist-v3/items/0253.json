@@ -1,0 +1,67 @@
+{
+  "num": "0253",
+  "name": {
+    "en": "Nendoroid Insane Black Rock Shooter",
+    "ja": "ねんどろいど インセイン・ブラック★ロックシューター (ねんどろいど いんせいん・ぶらっく★ろっくしゅーたー)",
+    "ko": "인세인 블랙★록 슈터"
+  },
+  "series": {
+    "en": "TV ANIMATION BLACKROCK SHOOTER",
+    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "tv-animation-blackrock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3583,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Fzv8AOnJO-I/X4NLSTdQkzI/AAAAAAABlYk/9XqcSQwgs_Mxxdp8yoPtXLxuii9QIs4jACLcBGAsYHQ/s270/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Fzv8AOnJO-I/X4NLSTdQkzI/AAAAAAABlYk/9XqcSQwgs_Mxxdp8yoPtXLxuii9QIs4jACLcBGAsYHQ/s270/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0mZEUdJON5k/X4dXxKWpE9I/AAAAAAAAqiQ/X7rLn8G4nJwcpNSSTdevqjbqL_OWF9MKwCLcBGAsYHQ/s135/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-soidMc140eM/X4dXxtglawI/AAAAAAAAqiU/GolDrQ8m2AcF4tVvOdWi719RchKm7vybQCLcBGAsYHQ/s135/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eJfukWjNRxs/X4dXxru9iVI/AAAAAAAAqiY/rRcTmkSvpRskSFyLIktH5VYCT1z3hR_LgCLcBGAsYHQ/s135/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TXqMnmCwbbE/X4dXxwlvhTI/AAAAAAAAqic/XL8FJjTpNw8BLuuY2FqK_PsZ1hzkw1lrACLcBGAsYHQ/s135/253-Insane-Black-Rock-Shooter-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n253/",
+      "fetched_at": "2026-05-16T19:10:34.122Z",
+      "raw_id": "/nendoroid/details/n253/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.333Z",
+      "raw_id": "Nendoroid/0200-0299/253.json"
+    }
+  ]
+}

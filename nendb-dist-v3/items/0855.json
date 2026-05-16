@@ -1,0 +1,69 @@
+{
+  "num": "0855",
+  "name": {
+    "en": "Nendoroid Masaki Amamiya",
+    "ja": "ねんどろいど 雨宮雅貴 (ねんどろいど あまみやまさき)",
+    "ko": "아마미야 마사키"
+  },
+  "series": {
+    "en": "HIGH&LOW g-sword",
+    "ja": "HiGH＆LOW g-sword",
+    "ko": "HIGH&LOW g-sword",
+    "code": "high-low-g-sword"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6904,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JJHyz-06JlI/X4Nd3vkL3rI/AAAAAAABmGI/CNqEFry6IoQQYgCVGlp5bQSqcpZQnw8twCLcBGAsYHQ/s270/855-Masaki-Amamiya-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JJHyz-06JlI/X4Nd3vkL3rI/AAAAAAABmGI/CNqEFry6IoQQYgCVGlp5bQSqcpZQnw8twCLcBGAsYHQ/s270/855-Masaki-Amamiya-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AIH7BJYR6mU/X4rjSO4ZtII/AAAAAAABnTs/QGKqRlWkWr8iUPG08VApw09wYkq_2YiFwCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Tt2iOSF8Ui8/X4rjSdZsxBI/AAAAAAABnTw/jMaWxamwVVU9JyGnZjJWoBf7YHvdkgacwCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yo_JU5B80CM/X4rjSu0xMvI/AAAAAAABnT0/9tqGhLtHemwivw4AX4gsaH-aolAXHQ2ewCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sV0pybyryUA/X4rjS_Ncv-I/AAAAAAABnT4/QlMvot56tj0IG9ZDB6d459YUhI_MWW3cwCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dNytfMOk_vY/X4rjTIC4hPI/AAAAAAABnT8/vmmpM4tlA5EaJWSlfmB2TYlEu2rslDebgCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sCfMpNBcMC0/X4rjTRezQII/AAAAAAABnUA/WIO_IbbSOGUrnqUlSHekjb7WYU-UeoAUgCLcBGAsYHQ/s135/855-Masaki-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n855/",
+      "fetched_at": "2026-05-16T19:10:34.838Z",
+      "raw_id": "/nendoroid/details/n855/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.523Z",
+      "raw_id": "Nendoroid/0800-0899/855.json"
+    }
+  ]
+}

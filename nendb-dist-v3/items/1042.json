@@ -1,0 +1,69 @@
+{
+  "num": "1042",
+  "name": {
+    "en": "Nendoroid Goblin Slayer",
+    "ja": "ねんどろいど ゴブリンスレイヤー (ねんどろいど ごぶりんすれいやー)",
+    "ko": "고블린 슬레이어"
+  },
+  "series": {
+    "en": "GOBLIN SLAYER",
+    "ja": "ゴブリンスレイヤー",
+    "ko": "고블린 슬레이어",
+    "code": "goblin-slayer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7834,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ACvpz3xD4Lk/X4NfrLScDjI/AAAAAAABmTw/u-5391mZqP434cI-ILzz0CiF_wAv03WnwCLcBGAsYHQ/s270/1042-Goblin-Slayer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ACvpz3xD4Lk/X4NfrLScDjI/AAAAAAABmTw/u-5391mZqP434cI-ILzz0CiF_wAv03WnwCLcBGAsYHQ/s270/1042-Goblin-Slayer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uTUDBqpaH10/X4rsAEVxZfI/AAAAAAABog4/v3RErdGbE1o_cf3XGvXs8cd8GbGXEKFdQCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eu7f_NSwRT0/X4rsAih8oDI/AAAAAAABog8/TsgQ_XozcjQQYtcxTjl7wig8or0TfOlSgCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2CdTBoffevA/X4rsA7z4s_I/AAAAAAABohE/alF01PVYnOEbhGcu3MRAxISaff4_mI6JgCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AnxuJ6b56p8/X4rsBn4WlnI/AAAAAAABohI/pSO7oRHmWFIoy254XrZE_HFzU6-zcrOmwCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jNVvZqALCKw/X4rsEmtMdAI/AAAAAAABohM/PI60LMhtV3A17P2egt9mcbKrws_fhwyWwCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GyCRtj1QgWo/X4rsFNn9UiI/AAAAAAABohQ/83Jz4vc7qukiH16en3AX9XpaVFJsx7FiwCLcBGAsYHQ/s135/1042-Goblin-Slayer-GOBLIN-SLAYER-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1042/",
+      "fetched_at": "2026-05-16T19:10:33.168Z",
+      "raw_id": "/nendoroid/details/n1042/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.571Z",
+      "raw_id": "Nendoroid/1000-1099/1042.json"
+    }
+  ]
+}

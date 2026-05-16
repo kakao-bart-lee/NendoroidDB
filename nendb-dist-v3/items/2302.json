@@ -1,0 +1,65 @@
+{
+  "num": "2302",
+  "name": {
+    "en": "Kevin",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Minions",
+    "ja": null,
+    "ko": null,
+    "code": "minions"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k4qW_xqfTGE/ZcqenubOYkI/AAAAAAABDXw/pXOmn3N0wH4GhshGrGjBUJe1D17xu0d6wCNcBGAsYHQ/s270/2302-Kevin-Minions-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k4qW_xqfTGE/ZcqenubOYkI/AAAAAAABDXw/pXOmn3N0wH4GhshGrGjBUJe1D17xu0d6wCNcBGAsYHQ/s270/2302-Kevin-Minions-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JwDcJRf4u_M/ZowzISSt_mI/AAAAAAABFHw/OSX1WHG_eao7Mp_8HxIFsX4zLQ1YhSu3wCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-94pyZYLTXMs/ZowzIyuX7UI/AAAAAAABFH0/oJ4c4UATP84nQo2KhbgYF5U5ecrr_hBeQCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jerBURu8fJA/ZowzI6kCXbI/AAAAAAABFH4/iSn7MP-hVHAbAIm3xC_05KE71ux0jQhLgCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4WDmNUrAbFs/ZowzJeJD6fI/AAAAAAABFH8/So5hIZH6_NARmDXfJWuxVZ6b-I0OSLxCwCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-P8Z19TVhDUY/ZowzJl5OfEI/AAAAAAABFIE/Gnn_nVVeEzIdwOFCb36FW5E_JeWU7FalwCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qvAgRPStGCI/ZowzJk8IdtI/AAAAAAABFIA/YBUoJj23R1w_S4DrD4QcMVSc5qy2cT2xwCNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-gd6isxItWds/ZowzJxtIwlI/AAAAAAABFII/7o4K6HmqwhY89lXFIkSjK2NXvdIp4rA6ACNcBGAsYHQ/s135/2302-Kevin-Minions-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2302/",
+      "fetched_at": "2026-05-16T19:10:33.974Z",
+      "raw_id": "/nendoroid/details/n2302/"
+    }
+  ]
+}

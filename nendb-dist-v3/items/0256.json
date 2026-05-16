@@ -1,0 +1,68 @@
+{
+  "num": "0256",
+  "name": {
+    "en": "Nendoroid Kuma (ねんどろいど くま)",
+    "ja": "ねんどろいど クマ (ねんどろいど くま)",
+    "ko": "곰"
+  },
+  "series": {
+    "en": "Persona 4 TV Series",
+    "ja": "TVアニメ「ペルソナ4」",
+    "ko": "페르소나",
+    "code": "persona-4-tv-series"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3578,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-x-fTekV4wgA/X4NLTIM9KZI/AAAAAAABlYw/7PrRbG1Zhe0iIceXxqwwq2wcjM42zk-vgCLcBGAsYHQ/s270/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-x-fTekV4wgA/X4NLTIM9KZI/AAAAAAABlYw/7PrRbG1Zhe0iIceXxqwwq2wcjM42zk-vgCLcBGAsYHQ/s270/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xrnmdonzCRA/X4dX1ITxFbI/AAAAAAAAqjQ/31WZhsZnLecZBDudD3EyhMr62T2-SqsYwCLcBGAsYHQ/s135/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oJmd00NAusU/X4dX1aCdCTI/AAAAAAAAqjU/PlxHnuEA6Ughcr__iX0MMNr3hkXZ-EayQCLcBGAsYHQ/s135/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-En6oBMaEBx0/X4dX1qTbTgI/AAAAAAAAqjY/FuWDJsSp6Fgfnd5dvU2lIvQjvSFGARudgCLcBGAsYHQ/s135/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ys0Lgz6eHfc/X4dX1l0Ch_I/AAAAAAAAqjc/fPnpK7JZoOAmsImm0dhF2KJv36592RFqwCLcBGAsYHQ/s135/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yCIqyueNy7w/X4dX14vayII/AAAAAAAAqjg/Ok-ZeWAa9uwK8DPihKjHydMUXY_rG89UwCLcBGAsYHQ/s135/256-Kuma-Persona-4-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n256/",
+      "fetched_at": "2026-05-16T19:10:34.140Z",
+      "raw_id": "/nendoroid/details/n256/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.334Z",
+      "raw_id": "Nendoroid/0200-0299/256.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "1165",
+  "name": {
+    "en": "Nendoroid Assassin/Okada Izo",
+    "ja": "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
+    "ko": "어쌔신/오카다 이조"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8526,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EFcY_VewbJg/X4NgmuRP5CI/AAAAAAABmcw/Wab1mNa4HbEyBVLmlO1SAlpZQnWaC4NCACLcBGAsYHQ/s270/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EFcY_VewbJg/X4NgmuRP5CI/AAAAAAABmcw/Wab1mNa4HbEyBVLmlO1SAlpZQnWaC4NCACLcBGAsYHQ/s270/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pT6klCPesFg/X4rxBlpm07I/AAAAAAABpUA/Wn1mo4yXXNsEqQJfogAPRrGCg7ROJ7J-gCLcBGAsYHQ/s135/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EoPZLfZC8wE/X4rxB02st_I/AAAAAAABpUE/oI-AargyZWUUR6oOQPsjjAygU6hyOBX0gCLcBGAsYHQ/s135/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zA-To0IYWVA/X4rxCCRQvDI/AAAAAAABpUI/tx-_cc7c5V4CxkZeeP_2ajRENUaRH4PVACLcBGAsYHQ/s135/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-77Xq6bq87kg/X4rxCYEKbOI/AAAAAAABpUM/XDtcGE3ce0kOy4cCFtPcyDn8eE-UVyh0QCLcBGAsYHQ/s135/1165-Assassin-Okada-Izo-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1165/",
+      "fetched_at": "2026-05-16T19:10:33.261Z",
+      "raw_id": "/nendoroid/details/n1165/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.601Z",
+      "raw_id": "Nendoroid/1100-1199/1165.json"
+    }
+  ]
+}

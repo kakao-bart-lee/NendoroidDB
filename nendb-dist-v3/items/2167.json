@@ -1,0 +1,97 @@
+{
+  "num": "2167",
+  "name": {
+    "en": "Nendoroid Chiikawa",
+    "ja": "ねんどろいど ちいかわ (ねんどろいど ちいかわ)",
+    "ko": "치이카와"
+  },
+  "series": {
+    "en": "Chiikawa",
+    "ja": "ちいかわ",
+    "ko": "치이카와",
+    "code": "chiikawa"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Max Factory",
+  "sculptor": "Max Factory (Yamaki)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Magnets used in some areas. Approximately 70mm in height (to top of head).",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・他素材：磁石・全高：約70mm（頭頂高）",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": "4545784014974",
+  "gsc_product_id": "12137",
+  "gsc_product_num": 14452,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12137",
+    "ja": "https://www.goodsmile.com/ja/product/12137"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230602/14452/116034/large/2a093446166d86853155c779469dfe40.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MCS1faQjaCQ/ZKXXNaN04sI/AAAAAAAA-j8/otZ-vHv3WJAMYJY0oENy0jpmBT_BZpHJQCNcBGAsYHQ/s270/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4n2rVFUfYK4/ZKXl9JG1t6I/AAAAAAAA-9o/EXTViNx_yYEcTNvKk1laVlLMim9H_wY1ACNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d6lC5dx-YHY/ZKXl9Gr74BI/AAAAAAAA-9w/VPMLzIzlRz4RUfcc56VxMKa9ZCjRuTg_QCNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XsynuYI5LiU/ZKXl9DPMr-I/AAAAAAAA-9s/CUAaaXkp4dkO5l-WmLnteaKWLjpkU5pAwCNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-O8z_03fgEjo/ZKXl-DuIB8I/AAAAAAAA-90/cMsw310JLeIKS72MhD-m6amxXX4DuqTmwCNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GxXGw2Ryg7k/ZKXl-ZqyhAI/AAAAAAAA-94/ZGTkU6YzuS4-Lsf4sCacHKwshw1F9yWRwCNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wzWNMYuzK-Q/ZKXl-3KTe0I/AAAAAAAA-98/gR2TKMctJdgA6E7GBjjY1aeUml4BRKqEwCNcBGAsYHQ/s135/2167-Chiikawa-Chiikawa-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230602/14452/116032/large/88209bd0e2716cb1bd585af29f863b7b.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230602/14452/116034/large/2a093446166d86853155c779469dfe40.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12137",
+      "price_local": 5800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:05:37.168Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12137",
+      "fetched_at": "2026-05-16T12:05:37.168Z",
+      "raw_id": "12137"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12137",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12137"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2167/",
+      "fetched_at": "2026-05-16T19:10:33.878Z",
+      "raw_id": "/nendoroid/details/n2167/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.843Z",
+      "raw_id": "Nendoroid/2100-2199/2167.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "0044",
+  "name": {
+    "en": "Nendoroid Ryoko Asakura and Extra Parts Set (あさくらりょうこ ねんどろいど)",
+    "ja": "ねんどろいど 朝倉涼子＆拡張パーツセット (あさくらりょうこ ねんどろいど)",
+    "ko": "아사쿠라 료코+환장 파츠 세트"
+  },
+  "series": {
+    "en": "The Melancholy of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの憂鬱",
+    "ko": "스즈미야 하루히의 우울",
+    "code": "the-melancholy-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5238,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 333,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SSVY1HyTSLU/X4MR7cNyvEI/AAAAAAAApZE/6g1AFA4zbps3O4OGz8UEPTOStksW905KQCLcBGAsYHQ/s270/044-Ryoko-Asakura-Expansion-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SSVY1HyTSLU/X4MR7cNyvEI/AAAAAAAApZE/6g1AFA4zbps3O4OGz8UEPTOStksW905KQCLcBGAsYHQ/s270/044-Ryoko-Asakura-Expansion-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iBWh6JRZ580/X4Gwc6i1-bI/AAAAAAAApC4/DRxbhbuygc0pSE56BLWPMfiLgZwkwjI3QCLcBGAsYHQ/s135/044-Ryoko-Asakura-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n044/",
+      "fetched_at": "2026-05-16T19:10:33.092Z",
+      "raw_id": "/nendoroid/details/n044/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.273Z",
+      "raw_id": "Nendoroid/0000-0099/044.json"
+    }
+  ]
+}

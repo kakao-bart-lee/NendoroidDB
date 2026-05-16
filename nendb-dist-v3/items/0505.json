@@ -1,0 +1,68 @@
+{
+  "num": "0505",
+  "name": {
+    "en": "Nendoroid Kotori Itsuka (ねんどろいど いつかことり)",
+    "ja": "ねんどろいど 五河琴里 (ねんどろいど いつかことり)",
+    "ko": "이츠카 코토리"
+  },
+  "series": {
+    "en": "Date A Live II",
+    "ja": "デート・ア・ライブⅡ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4871,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_Z4iSZTy7jg/X4NOT9TTfzI/AAAAAAABltk/5gMUM_ZrJEomRt-241QHAUHaQ0tz40C2ACLcBGAsYHQ/s270/505-Kotori-Itsuka-Date-a-Live-II-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_Z4iSZTy7jg/X4NOT9TTfzI/AAAAAAABltk/5gMUM_ZrJEomRt-241QHAUHaQ0tz40C2ACLcBGAsYHQ/s270/505-Kotori-Itsuka-Date-a-Live-II-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--2CvhnzUAcY/X4irvLxCw3I/AAAAAAAAr8M/W0WmSvjjKXcHHN3ihOnt9bSkiRtjqNZJgCLcBGAsYHQ/s135/505-Kotori-Itsuka-Date-A-Live-II-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZSxHFzVKMW8/X4irvTvGtuI/AAAAAAAAr8Q/IUwzXmOJ8KYDJszQUGIjEvxXCxKDBhekgCLcBGAsYHQ/s135/505-Kotori-Itsuka-Date-A-Live-II-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-80pz-Af82cM/X4irvjfNKLI/AAAAAAAAr8U/fD-yu_xBl4svr18ppoHZCaGYF68KwTl1ACLcBGAsYHQ/s135/505-Kotori-Itsuka-Date-A-Live-II-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-evJOFam74Mg/X4irvpIBwaI/AAAAAAAAr8Y/gEGZWdTdR6knuw3__Zwps6T_Ohu1hvM-QCLcBGAsYHQ/s135/505-Kotori-Itsuka-Date-A-Live-II-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NntH3h091o4/X4irv7uayII/AAAAAAAAr8c/NY3kD4rpXRMx_LOczzxCr39S7XScOXKJwCLcBGAsYHQ/s135/505-Kotori-Itsuka-Date-A-Live-II-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n505/",
+      "fetched_at": "2026-05-16T19:10:34.567Z",
+      "raw_id": "/nendoroid/details/n505/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.401Z",
+      "raw_id": "Nendoroid/0500-0599/505.json"
+    }
+  ]
+}

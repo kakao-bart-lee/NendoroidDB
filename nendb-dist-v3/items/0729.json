@@ -1,0 +1,70 @@
+{
+  "num": "0729",
+  "name": {
+    "en": "Nendoroid Pola",
+    "ja": "ねんどろいど Pola（ポーラ） (ねんどろいど ぽーら)",
+    "ko": "폴라"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6193,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HxqteeEIeHQ/X4Nc48gtZ3I/AAAAAAABl9I/ARmYAOF8wwsQz5kTY2TNpkviZbXNrHRpACLcBGAsYHQ/s270/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HxqteeEIeHQ/X4Nc48gtZ3I/AAAAAAABl9I/ARmYAOF8wwsQz5kTY2TNpkviZbXNrHRpACLcBGAsYHQ/s270/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ud4m6niKtKk/X4i4GXt_8vI/AAAAAAAAtQg/iZv6IhuucdQ4wV4iL0JBgi7VXSw30VO3wCLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J44nYXkcBrU/X4i4HAAyDpI/AAAAAAAAtQk/dPKK6oC4sKUdEApdjmoOPk2j3IqoBu3bgCLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MzQk6JJlR6U/X4i4HW2V3nI/AAAAAAAAtQo/PNlOo1dGl4kxTbTeiXuAFhuALtGVnxj5wCLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DZ2CwAigZnU/X4i4H5H2ctI/AAAAAAAAtQs/H8QCcc6QiVghgkXUZqeeXgf7PxGl-bCzgCLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YCKtt6-6b3s/X4i4Idp1qcI/AAAAAAAAtQw/N769Qlaedn4oXJcWQQsFPrEXGZEPMq3sACLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6dKFL2BKrOU/X4i4JKxoszI/AAAAAAAAtQ0/anD6S35RqRcHRKRtdhrd8vdjKQPPoLFtACLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-5iHpBTv9xug/X4i4JqzavNI/AAAAAAAAtQ4/GdbGtk4QeBoLmlAY9nGwjJukVW_rXsOWACLcBGAsYHQ/s135/729-Pola-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n729/",
+      "fetched_at": "2026-05-16T19:10:34.765Z",
+      "raw_id": "/nendoroid/details/n729/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.493Z",
+      "raw_id": "Nendoroid/0700-0799/729.json"
+    }
+  ]
+}

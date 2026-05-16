@@ -1,0 +1,69 @@
+{
+  "num": "2059",
+  "name": {
+    "en": "Nendoroid Octane",
+    "ja": "ねんどろいど オクタン (ねんどろいど おくたん)",
+    "ko": "옥테인"
+  },
+  "series": {
+    "en": "Apex Legends",
+    "ja": "エーペックスレジェンズ",
+    "ko": "에이펙스 레전드",
+    "code": "apex-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13906,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DigLIazusZk/ZA3eAHM3TbI/AAAAAAAA9KA/hxK7ClVjTskxvJETHRmNmEKsm0Iy1iyCgCNcBGAsYHQ/s270/2059-Octane-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DigLIazusZk/ZA3eAHM3TbI/AAAAAAAA9KA/hxK7ClVjTskxvJETHRmNmEKsm0Iy1iyCgCNcBGAsYHQ/s270/2059-Octane-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MUmzpYjZJmk/ZA3cuV8blPI/AAAAAAAA8_E/T0JEzDYoe9cHpDKcNr_fjqjfkDZMCQRfQCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bBoo3PKugsk/ZA3cuoRx2EI/AAAAAAAA8_I/yuctFLCO8MEXqU03vPcC6nGs1EP6CcAUwCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qD4whGFfdmk/ZA3cu2CSZII/AAAAAAAA8_Q/LRTOphTCXGElLdR3X3Whm3TeqyIUpz_wgCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BqKcZkM3--o/ZA3cu8lCR5I/AAAAAAAA8_M/iUSmzRK4j7oTmZ45Mw5q9_CYutxMOpZcQCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KyXxWYsrE6c/ZA3cu7wO2fI/AAAAAAAA8_U/WeWHbvDpynUoE6YtaZp21_RfmpZ0519ogCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZAkoSzyrZg8/ZA3cve1DS5I/AAAAAAAA8_Y/k38GMjjtXooU7xB2XtIi6qw9E1SCWQ8rwCNcBGAsYHQ/s135/2059-Octane-Apex-Legends-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2059/",
+      "fetched_at": "2026-05-16T19:10:33.814Z",
+      "raw_id": "/nendoroid/details/n2059/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.817Z",
+      "raw_id": "Nendoroid/2000-2099/2059.json"
+    }
+  ]
+}

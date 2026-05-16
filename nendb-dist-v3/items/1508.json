@@ -1,0 +1,97 @@
+{
+  "num": "1508",
+  "name": {
+    "en": "Nendoroid Wuxian",
+    "ja": "ねんどろいど ムゲン (ねんどろいど むげん)",
+    "ko": "무겐"
+  },
+  "series": {
+    "en": "The Legend of Hei",
+    "ja": "羅小黒戦記",
+    "ko": "나소흑전기",
+    "code": "the-legend-of-hei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Arts Shanghai",
+  "sculptor": "Mi Lijun",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": "preorder",
+  "price_jpy": 6700,
+  "gtin": "4580828661646",
+  "gsc_product_id": "41691",
+  "gsc_product_num": 10406,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/41691",
+    "ja": "https://www.goodsmile.com/ja/product/41691"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/41691/UFvgS5hc6eEdWm19pr38XVjqRkzw0TPt.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Wl_EYRoCqqE/X8AK8hBPauI/AAAAAAAAuuw/UJcFkctxOcEiPIsd1_2G04qIlFCQ8JARACLcBGAsYHQ/s270/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WPqhvoQ7xC0/X8AN5teWiVI/AAAAAAAAuwA/aW7eMDoCqhUR6uM--WyL1cQJ5UjZnBt0ACLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KfVOwJ5KiAo/X8AN55M54OI/AAAAAAAAuwE/tkmOOlKqdo0uixsq0KwCYzNDCIKzr01MgCLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--Ji0400j6oE/X8AN6I_5dQI/AAAAAAAAuwI/TVhtm53n2uoCSiuSWoS-Fx_f_yebrAtRACLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aKicmWhCNIY/X8AN6YXAlZI/AAAAAAAAuwM/Rr569cWfcgc7trfAuqvhsLd2rGrjZVthQCLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UO4KQDKMAb4/X8AN6kbI7rI/AAAAAAAAuwQ/rZ32H9LmvnsM2aU-NatWF4TiB7tSSe6igCLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ase6KDlBfNs/X8AN62W4_OI/AAAAAAAAuwU/9to-G10Xavg0L86Mfpl13QYX62I2CJLtgCLcBGAsYHQ/s135/1508-Wuxian-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/41691/NHJmMEbSsxWT4h2qXKu7QCYVg15Pw6GR.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/41691/UFvgS5hc6eEdWm19pr38XVjqRkzw0TPt.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Second Preorder Period",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/41691",
+      "price_local": 6700,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:17:17.014Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/41691",
+      "fetched_at": "2026-05-16T12:17:17.014Z",
+      "raw_id": "41691"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/41691",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "41691"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1508/",
+      "fetched_at": "2026-05-16T19:10:33.473Z",
+      "raw_id": "/nendoroid/details/n1508/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.683Z",
+      "raw_id": "Nendoroid/1500-1599/1508.json"
+    }
+  ]
+}

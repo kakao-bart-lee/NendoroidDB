@@ -1,0 +1,68 @@
+{
+  "num": "1983",
+  "name": {
+    "en": "Nendoroid Iruru",
+    "ja": "ねんどろいど イルル (ねんどろいど いるる)",
+    "ko": "이루루"
+  },
+  "series": {
+    "en": "Miss Kobayashi's Dragon Maid",
+    "ja": "小林さんちのメイドラゴン",
+    "ko": "코바야시네 메이드래곤",
+    "code": "miss-kobayashi-s-dragon-maid"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13249,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CL5RJAvqjAM/Y45wTGhzFII/AAAAAAAA7rk/iBgF9z8RFv8Qx4iC6STmxBuFsBDplbccwCNcBGAsYHQ/s270/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CL5RJAvqjAM/Y45wTGhzFII/AAAAAAAA7rk/iBgF9z8RFv8Qx4iC6STmxBuFsBDplbccwCNcBGAsYHQ/s270/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7mmKKQqXpws/Y451bBlYivI/AAAAAAAA70Y/7tuSD-Gf35kUfhf7Zi3GXbZYDtRBwZ2GQCNcBGAsYHQ/s135/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LXhnPrO6SSc/Y451bswq_5I/AAAAAAAA70c/MmU-hH-kBRodKFtT5Ddbcl2WKZbyUevXgCNcBGAsYHQ/s135/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TdiAkBbWKEQ/Y451cEa_1rI/AAAAAAAA70g/dQMfARnw5x0eNUQLuSOCcSAcB11KjQYoACNcBGAsYHQ/s135/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qgebpPlwV2M/Y451cupAhfI/AAAAAAAA70k/tapcuF0FJ1s1aInDLTSBPzcUuFj7XlKiACNcBGAsYHQ/s135/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cYzCKf5247Q/Y451dVOUrbI/AAAAAAAA70o/OXVuoc1PaeA0Hnso_2udKEPfdXOugrXcACNcBGAsYHQ/s135/1983-Iruru-Miss-Kobayashis-Dragon-Maid-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1983/",
+      "fetched_at": "2026-05-16T19:10:33.767Z",
+      "raw_id": "/nendoroid/details/n1983/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.797Z",
+      "raw_id": "Nendoroid/1900-1999/1983.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1808",
+  "name": {
+    "en": "Nendoroid Bojji & Kage",
+    "ja": "ねんどろいど ボッジ＆カゲ (ねんどろいど ぼっじ＆かげ)",
+    "ko": "봇지 & 카게"
+  },
+  "series": {
+    "en": "Ranking of Kings",
+    "ja": "王様ランキング",
+    "ko": "임금님 랭킹",
+    "code": "ranking-of-kings"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SKhcD1kjOWo/YhALYAVFdPI/AAAAAAAA3ms/U8HoXRXpWlkoSGcsDSjP0OH8Z7Q1_qMsQCNcBGAsYHQ/s270/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SKhcD1kjOWo/YhALYAVFdPI/AAAAAAAA3ms/U8HoXRXpWlkoSGcsDSjP0OH8Z7Q1_qMsQCNcBGAsYHQ/s270/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZVA4xEe2gfM/YhAMGAvXu2I/AAAAAAAA3tQ/dlSnX6xMrjUVOVIt5purp_RP66PO3oDTQCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-odH7PcNH9F4/YhAMGe7TpiI/AAAAAAAA3tU/AOGJ6et9rxkxKqiPHAriWhT_c6-4kzJmwCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EJV2LxQMdlQ/YhAMGiE7unI/AAAAAAAA3tY/XTQNIsz8vrgsYj-7GoY1WjuG8e2EcMLJgCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-R-9Odam00gQ/YhAMG6MZthI/AAAAAAAA3tc/sk6ZuPGO3Z4o8aLZ2oaYD-Zex2fjXPxIACNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oUwU9nPZBoc/YhAMHGb--xI/AAAAAAAA3tg/Ef6LFUKIEZAtaKQx_1sbSIwQ0GPWZqAywCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JQkogHaGptE/YhAMHd57LOI/AAAAAAAA3tk/c-M22UvLhgEzkGzQ8S-ngaO-QyYN6TiZQCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-CIlv2kqo7nI/YhAMHkNveLI/AAAAAAAA3to/QblIuOKIaLIt74aY13Y_CIEqHhb8tf96gCNcBGAsYHQ/s135/1808-Bojji-and-Kage-Ranking-of-Kings-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1808/",
+      "fetched_at": "2026-05-16T19:10:33.659Z",
+      "raw_id": "/nendoroid/details/n1808/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.756Z",
+      "raw_id": "Nendoroid/1800-1899/1808.json"
+    }
+  ]
+}

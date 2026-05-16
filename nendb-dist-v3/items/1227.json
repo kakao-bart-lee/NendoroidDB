@@ -1,0 +1,68 @@
+{
+  "num": "1227",
+  "name": {
+    "en": "Nendoroid Ootengu",
+    "ja": "ねんどろいど 大天狗 (ねんどろいど おおてんぐ)",
+    "ko": "다이텐구"
+  },
+  "series": {
+    "en": "Onmyoji",
+    "ja": "陰陽師",
+    "ko": "음양사",
+    "code": "onmyoji"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8907,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-J6UmhP5m0TI/X4NiMvlOAZI/AAAAAAABmoY/7QJNXLo8g_QNQqygMNlrGxxqpVuxHkEEACLcBGAsYHQ/s270/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-J6UmhP5m0TI/X4NiMvlOAZI/AAAAAAABmoY/7QJNXLo8g_QNQqygMNlrGxxqpVuxHkEEACLcBGAsYHQ/s270/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7R4N1QmAOPQ/X4rzfr9Df_I/AAAAAAABpvQ/OPo8ifF1bsA0eUjOLe5svt32MfaA4vKIQCLcBGAsYHQ/s135/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--Ne2r8EI8sA/X4rzf6kiAWI/AAAAAAABpvU/1n-UWP4XiEo1WYEAGc5uXGd9rpBXsb8_wCLcBGAsYHQ/s135/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nJVY3jMlBR4/X4rzgCyncQI/AAAAAAABpvY/nJr-c8YmO30r9KeGuLWE8NZe3nux5p3aQCLcBGAsYHQ/s135/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YYu9HuyupJ0/X4rzgMCleCI/AAAAAAABpvc/iEESTCaYD8wL4yvIQx2NVWx-o6fBgiMDwCLcBGAsYHQ/s135/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-79dhhOpof_E/X4rzggkJrsI/AAAAAAABpvg/ZBnjYIap87seginavmRuLep3xuF40rCqQCLcBGAsYHQ/s135/1227-Ootengu-Onmyoji-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1227/",
+      "fetched_at": "2026-05-16T19:10:33.298Z",
+      "raw_id": "/nendoroid/details/n1227/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.615Z",
+      "raw_id": "Nendoroid/1200-1299/1227.json"
+    }
+  ]
+}

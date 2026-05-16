@@ -1,0 +1,97 @@
+{
+  "num": "1064",
+  "name": {
+    "en": "Nendoroid Yotsuba Koiwai",
+    "ja": "ねんどろいど 小岩井よつば (ねんどろいど こいわいよつば)",
+    "ko": "코이와이 요츠바"
+  },
+  "series": {
+    "en": "YOTSUBA&!",
+    "ja": "よつばと！",
+    "ko": "요츠바랑!",
+    "code": "yotsuba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shinya Iguchi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4580828660748",
+  "gsc_product_id": "5681",
+  "gsc_product_num": 7973,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/5681",
+    "ja": "https://www.goodsmile.com/ja/product/5681"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190111/7973/57286/large/b3adec320cd385cfdedd77f4475e2a1c.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PMlhHWtHFq4/X4Nf0RJOqyI/AAAAAAABmVY/cT6i4mGRZEAL7A0QZqHj_VuGSiKmHUtwQCLcBGAsYHQ/s270/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5T57fczUrVs/X4rsrgrANII/AAAAAAABoqI/nKqVgFTXH3c4HlGJuyOLi5b2w5fSMal_gCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MBr4DP3KawA/X4rsr1znCWI/AAAAAAABoqM/QAEIVns221QjDU4Bbr7gf9kEoXerjgcDQCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YhH9pRAqNLY/X4rsrx8c_lI/AAAAAAABoqQ/aAeQMHnnA3owN5LCJJXQ69B3-kokt-JtgCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ifz7RL74adE/X4rssH4kK3I/AAAAAAABoqU/M_bvoZlZJAoFQOb7p1vhq4zRe8CfC6dYQCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s26pOUx2UD0/X4rsshT0_ZI/AAAAAAABoqY/UpcNjAVELq4jPZU746TY4nnvhGtodRbTwCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Nw-lLOMQ7Qs/X4rss7rgC3I/AAAAAAABoqc/-Xtd4pIv4bAqyMHnoa-q16222N76x8oRwCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-iQX9g5ZuhhI/X4rstIh5ryI/AAAAAAABoqg/UQL-gVqZaocIYAnhZKH0ghfssF7UcaJIgCLcBGAsYHQ/s135/1064-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190111/7973/57293/large/8393120134eee48d07785b8a14f2f5e8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190111/7973/57286/large/b3adec320cd385cfdedd77f4475e2a1c.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5681",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:02:10.354Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5681",
+      "fetched_at": "2026-05-16T12:02:10.354Z",
+      "raw_id": "5681"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/5681",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "5681"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1064/",
+      "fetched_at": "2026-05-16T19:10:33.192Z",
+      "raw_id": "/nendoroid/details/n1064/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.576Z",
+      "raw_id": "Nendoroid/1000-1099/1064.json"
+    }
+  ]
+}

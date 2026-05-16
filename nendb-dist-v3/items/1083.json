@@ -1,0 +1,69 @@
+{
+  "num": "1083",
+  "name": {
+    "en": "Nendoroid Hatsune Miku",
+    "ja": "ねんどろいど 発音ミク (ねんどろいど はつねみく)",
+    "ko": "하츠네 미쿠 신칸센변형로보 신카리온 Ver."
+  },
+  "series": {
+    "en": "Shinkansen Henkei Robo Shinkalion",
+    "ja": "新幹線変形ロボ シンカリオン",
+    "ko": "하츠네미쿠",
+    "code": "shinkansen-henkei-robo-shinkalion"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8045,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZtXlBTVbjxY/X4Nf5aFnzZI/AAAAAAABmWs/WBpQwiZM0BoOq9AXzLjI0LfBITD-EJGGACLcBGAsYHQ/s270/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZtXlBTVbjxY/X4Nf5aFnzZI/AAAAAAABmWs/WBpQwiZM0BoOq9AXzLjI0LfBITD-EJGGACLcBGAsYHQ/s270/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uCfQy-k3zIU/X4rtNGMeoKI/AAAAAAABoxo/49rB2gfUH3M-ma2IBbjIbanHbaGeSBl5ACLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_9YTWCQ64n8/X4rtNXzj2MI/AAAAAAABoxs/e3i6TL5IvRcYJclzdsbRq4w961Sq_p0tQCLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xwq4rEwP0ko/X4rtNeffDmI/AAAAAAABoxw/e92yRUnb_CkVLIOEVgbZT787Kx6dFcSWQCLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zIN7z5kqLJU/X4rtNji7loI/AAAAAAABox0/1MWvJ3-ySNg-rr8ZqqHF7qpJh1gOwCJYwCLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8bFFPWNs1FE/X4rtNz_j_bI/AAAAAAABox4/jEMTmjRoPpMN1sTEHOAVVXXaJgA5PAydQCLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-n2tIWnkVGTc/X4rtOaASy3I/AAAAAAABox8/nsW1gF03SR4UwlSLh8IOkavupHHSRKLfgCLcBGAsYHQ/s135/1083-Hatsune-Miku-Shinkansen-Henkei-Robo-Shinkalion-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1083/",
+      "fetched_at": "2026-05-16T19:10:33.209Z",
+      "raw_id": "/nendoroid/details/n1083/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.580Z",
+      "raw_id": "Nendoroid/1000-1099/1083.json"
+    }
+  ]
+}

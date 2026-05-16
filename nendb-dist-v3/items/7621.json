@@ -1,0 +1,59 @@
+{
+  "num": "7621",
+  "name": {
+    "en": "Nendoroid Doll White Rabbit",
+    "ja": "ねんどろいどどーる ホワイトラビット (ねんどろいどどーる ほわいとらびっと)",
+    "ko": "화이트래빗"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-04",
+      "status": "released"
+    },
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7621,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180919/7621/54583/large/7d94b91fd71cab2430702b8e04ec9cc3.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.965Z",
+      "raw_id": "NendoroidDoll/Doll/7621.json"
+    }
+  ]
+}

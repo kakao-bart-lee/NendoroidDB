@@ -1,0 +1,96 @@
+{
+  "num": "0707",
+  "name": {
+    "en": "Nendoroid Sasuke Uchiha",
+    "ja": "ねんどろいど うちはサスケ (ねんどろいど うちはさすけ)",
+    "ko": "우치하 사스케"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "jarepeno",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": "4580828665255",
+  "gsc_product_id": "3844",
+  "gsc_product_num": 6106,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/3844",
+    "ja": "https://www.goodsmile.com/ja/product/3844"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161201/6106/42713/large/641ad41e7170aa1d4c0fc3ce38ba9b69.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X9w_DdpLTuQ/X4NczQqgEoI/AAAAAAABl7w/ZK2ez1kY3sI8zNDHii-tfpStSBvQW9qUACLcBGAsYHQ/s270/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Awx0bZVAYrc/X4i3bL-0VJI/AAAAAAAAtI0/EbFNuPe4rNQYojp3X9sEm9aHLCP0UwTTgCLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rar-sFtdMHY/X4i3bUqdIxI/AAAAAAAAtI4/AA67am-PCmADuMTKBKGoQQnrM-IsY_tlgCLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rfwtcgivsTU/X4i3bUpocII/AAAAAAAAtI8/HIxU21dTKtMb2L7orRgLOJ9jLX2cd8pEQCLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RA6_pInWz0A/X4i3buyPUpI/AAAAAAAAtJA/rqbxZgEB8PEZ5F4AvmPdV_CC3y82ylQiACLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DeCK7xGyZUU/X4i3b0kkBVI/AAAAAAAAtJE/aAmjwCIGUjMZzEaqvkUOXdWSJbB_gsUUgCLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1PByTORMDxQ/X4i3cGEle2I/AAAAAAAAtJI/z5XMcojRqWsjvGWlkYKFCQcS7WVSLgeTgCLcBGAsYHQ/s135/707-Sasuke-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161201/6106/42712/large/f528bfe7d67015eabfb2a47788ffb308.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161201/6106/42713/large/641ad41e7170aa1d4c0fc3ce38ba9b69.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3844",
+      "price_local": 5600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:17:45.618Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3844",
+      "fetched_at": "2026-05-16T12:17:45.618Z",
+      "raw_id": "3844"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/3844",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "3844"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n707/",
+      "fetched_at": "2026-05-16T19:10:34.753Z",
+      "raw_id": "/nendoroid/details/n707/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.488Z",
+      "raw_id": "Nendoroid/0700-0799/707.json"
+    }
+  ]
+}

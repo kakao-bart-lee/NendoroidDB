@@ -1,0 +1,64 @@
+{
+  "num": "2421",
+  "name": {
+    "en": "Yue",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": null,
+    "ko": null,
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AfQ-PCMOAr8/Ziq-2DojXmI/AAAAAAABEAs/vGWy6VTopWQOqudpeamly1vsNatKdlffACNcBGAsYHQ/s270/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AfQ-PCMOAr8/Ziq-2DojXmI/AAAAAAABEAs/vGWy6VTopWQOqudpeamly1vsNatKdlffACNcBGAsYHQ/s270/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fk9B-1qL6xE/Zow2CqQ8VZI/AAAAAAABFfM/rZ-00DxUmkUDl-sNPzlFwZM5kMCnkNvWgCNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-D2VmCnMYIRI/Zow2DPpCNII/AAAAAAABFfU/MC_-iS221AUIYtzxlRG98EQ8hok_IcVcwCNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vDgBYXkxxUc/Zow2DZE4ENI/AAAAAAABFfg/FgMhBV0RQDM7NJQVY13xGK-HHv8ZUp--ACNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-X5BJUvAxdjA/Zow2DGhXeZI/AAAAAAABFfc/UyPl27t5IeYkVcTyVjF_tITm2bvQf08TACNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LXcykRM_ZaQ/Zow2DX3LfHI/AAAAAAABFfk/FZtP4ZUYXdEdSWDUEQdOfFb7RKKdDbf0wCNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nJTtc79FQZQ/Zow2EPEM3SI/AAAAAAABFfo/9SmE64okV0gpfCkp8LuzINMPrJFeZV2tACNcBGAsYHQ/s135/2421-Yue-Cardcaptor-Sakura-Clear-Card-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2421/",
+      "fetched_at": "2026-05-16T19:10:34.047Z",
+      "raw_id": "/nendoroid/details/n2421/"
+    }
+  ]
+}

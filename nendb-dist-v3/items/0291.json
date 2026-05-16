@@ -1,0 +1,69 @@
+{
+  "num": "0291",
+  "name": {
+    "en": "Nendoroid Akiho Senomiya (ねんどろいど せのみやあきほ)",
+    "ja": "ねんどろいど 瀬乃宮あき穂 (ねんどろいど せのみやあきほ)",
+    "ko": "세노미야 아키호"
+  },
+  "series": {
+    "en": "ROBOTICS;NOTES",
+    "ja": "ロボティクス・ノーツ",
+    "ko": "로보틱스 노츠",
+    "code": "robotics-notes"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3759,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6lCyAElnfeI/X4NLb2mcotI/AAAAAAABlbA/E604mzlgV1Mg7a4cJBDFD8z6ifmRuUsvQCLcBGAsYHQ/s270/291-Senomiya-Akiho-Robotic-Notes-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6lCyAElnfeI/X4NLb2mcotI/AAAAAAABlbA/E604mzlgV1Mg7a4cJBDFD8z6ifmRuUsvQCLcBGAsYHQ/s270/291-Senomiya-Akiho-Robotic-Notes-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Qs70iplwR9Q/X4dYdQTI7BI/AAAAAAAAqtg/YPmIzJvRwRI4NXZ6sIS1W1y-za24RvVDgCLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Sqst81FrYhQ/X4dYdpOJvaI/AAAAAAAAqtk/GMtrs4wAhRYbIlhXyqzwt6ykVLEiWo4DwCLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1lGb2bJhWec/X4dYdnAHg2I/AAAAAAAAqto/ZUwQbZk-3pgqKyu_A9TFXPrI-C7Use2VACLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B_e35cmUdgA/X4dYd-Nm2HI/AAAAAAAAqts/dI5tdBL8wnIrdSTJVNPk75lKbzC6fR2LwCLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-j0VgQbnhSuc/X4dYeeO12xI/AAAAAAAAqtw/z6V0nOSZfCAhiNJNguwzeSoqOdPtc3svwCLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ztGlQK2Udf4/X4dYeoIqCAI/AAAAAAAAqt4/U7kydU6UiT8i5Zz7g0a1ll31T_5qhkKaQCLcBGAsYHQ/s135/291-Senomiya-Akiho-Robotics%253BNotes-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n291/",
+      "fetched_at": "2026-05-16T19:10:34.388Z",
+      "raw_id": "/nendoroid/details/n291/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.343Z",
+      "raw_id": "Nendoroid/0200-0299/291.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1876",
+  "name": {
+    "en": "Nendoroid Tatsuya Suou",
+    "ja": "ねんどろいど 周防達哉 (ねんどろいど すおうたつや)",
+    "ko": "스오우 타츠야"
+  },
+  "series": {
+    "en": "PERSONA2 Innocent Sin.",
+    "ja": "ペルソナ2 罪",
+    "ko": "페르소나2",
+    "code": "persona2-innocent-sin"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12679,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yZOd7Wc7460/Yp4F59JT_dI/AAAAAAAB6xE/PY7vSkB46LU6XlVuGZAGV-nf2oOgZHlcACNcBGAsYHQ/s270/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yZOd7Wc7460/Yp4F59JT_dI/AAAAAAAB6xE/PY7vSkB46LU6XlVuGZAGV-nf2oOgZHlcACNcBGAsYHQ/s270/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uBkCmxuG-yU/Yp4NVvkXKPI/AAAAAAAB62o/VBHiSIgllCUMzCT5aatBbAQEtK5YmnqFQCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-26JEQtITxLQ/Yp4NWPp6MEI/AAAAAAAB62s/2WLqqT1CPSAhe3osynR2fngtsqKZkpRVACNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pKiJOs9b0jA/Yp4NWjY3_qI/AAAAAAAB62w/dGV3C-sZv-Yb9XdXgTkXzz6sOcrFe7SVgCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Bz7qxBikAQ4/Yp4NXCxpXNI/AAAAAAAB620/ttIuQQu3MM81FxLDvf0CT0Iqfkq_70JjwCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YXlnXxqXUWQ/Yp4NXtBv5NI/AAAAAAAB624/su5Bv4bujIgzArVdtxh232OJZC_Md3OWwCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jbe20F-b4zo/Yp4NYMr4g3I/AAAAAAAB628/RctL_l7O-ks0_CF3JemfS731v7QqYbMYgCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-y7RBFNAiMJs/Yp4NYHFwWnI/AAAAAAAB63A/SewlIDGnVOIfTDHO7vxLNBZKc4eMNn4JgCNcBGAsYHQ/s135/1876-Tatsuya-Suou-Persona-2-Innocent-Sin-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1876/",
+      "fetched_at": "2026-05-16T19:10:33.703Z",
+      "raw_id": "/nendoroid/details/n1876/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.773Z",
+      "raw_id": "Nendoroid/1800-1899/1876.json"
+    }
+  ]
+}

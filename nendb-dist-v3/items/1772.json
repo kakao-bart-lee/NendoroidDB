@@ -1,0 +1,69 @@
+{
+  "num": "1772",
+  "name": {
+    "en": "Nendoroid Melty",
+    "ja": "ねんどろいど メルティ (ねんどろいど めるてぃ)",
+    "ko": "메르티 메르로마르크"
+  },
+  "series": {
+    "en": "The Rising of the Shield Hero Season 2",
+    "ja": "盾の勇者の成り上がり Season2",
+    "ko": "방패 용사 성공담",
+    "code": "the-rising-of-the-shield-hero-season-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12067,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1Y7m2_AB19M/Ya-zQF8HzWI/AAAAAAAA2Ek/xq8EMjySIJcjHhObZrV8KJtc2MfNy60xACNcBGAsYHQ/s270/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1Y7m2_AB19M/Ya-zQF8HzWI/AAAAAAAA2Ek/xq8EMjySIJcjHhObZrV8KJtc2MfNy60xACNcBGAsYHQ/s270/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SoWoyNANA5Q/Ya-2itZpCrI/AAAAAAAA2P4/SfkwYJpwY2cLNvVGRsse29ZLmJ_eQAnNgCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hScwhV6ROJw/Ya-2is9zqdI/AAAAAAAA2P8/K55D-YjTtVIDrduos7DQFFV-7TYDO0XHgCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GLTYFKlb7-I/Ya-2i7pBvQI/AAAAAAAA2QA/a14ovv1WY4sKX8FHe2jZYCh_6dQY_bN5gCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZjoJhbfwGA4/Ya-2jesnMsI/AAAAAAAA2QE/-mdLIyrBkHQEC_NtHvMjGsRk25BRMG_mQCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8WuV5hY0Jys/Ya-2jgCEGpI/AAAAAAAA2QI/P1lSi5MczUMqGslFtjFwpxikYWFMwleswCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IyBwXZEDZ8o/Ya-2j-RWtAI/AAAAAAAA2QM/hYInoFRZdMUrLARsT5yNoumgIr-TIX6qwCNcBGAsYHQ/s135/1772-Melty-The-Rising-of-the-Shield-Hero-Season-2-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1772/",
+      "fetched_at": "2026-05-16T19:10:33.638Z",
+      "raw_id": "/nendoroid/details/n1772/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.747Z",
+      "raw_id": "Nendoroid/1700-1799/1772.json"
+    }
+  ]
+}

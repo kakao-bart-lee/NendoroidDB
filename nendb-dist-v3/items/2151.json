@@ -1,0 +1,68 @@
+{
+  "num": "2151",
+  "name": {
+    "en": "Nendoroid Rice Shower",
+    "ja": "ねんどろいど ライスシャワー (ねんどろいど らいすしゃわー)",
+    "ko": "라이스샤워"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14370,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8IdpaHCI6pk/ZIzT3htVjVI/AAAAAAAA-Pg/2BfdclEZa7g15Or_Rx335hQHoIuixWZYgCNcBGAsYHQ/s270/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8IdpaHCI6pk/ZIzT3htVjVI/AAAAAAAA-Pg/2BfdclEZa7g15Or_Rx335hQHoIuixWZYgCNcBGAsYHQ/s270/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ia28CZV9DuA/ZIzVz6iVz9I/AAAAAAAA-Uk/FLR4Twn5FM80cp0lLR9j1uiKFU8D2XGewCNcBGAsYHQ/s135/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-A4Otc_-IJa4/ZIzV0V0aOlI/AAAAAAAA-Uo/IG0gK7MeVyobeBbDn2zCwA3GfY-WncbfACNcBGAsYHQ/s135/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BRiiOJ1YZNE/ZIzV0jWiT6I/AAAAAAAA-Us/1f3cC8QL7PcJsMdiCPdxD5I6IlfQh7ZHgCNcBGAsYHQ/s135/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MRipNao5TPE/ZIzV1UQz-gI/AAAAAAAA-Uw/KX3kPPWtb4c2-QKuBiHShF5Z0FKQzljrgCNcBGAsYHQ/s135/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uJbjWqVdE0Q/ZIzV1-1zG2I/AAAAAAAA-U0/71vQMEWc43EMxzftA0DSjUuYoTuG2noCACNcBGAsYHQ/s135/2151-Rice-Shower-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2151/",
+      "fetched_at": "2026-05-16T19:10:33.869Z",
+      "raw_id": "/nendoroid/details/n2151/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.839Z",
+      "raw_id": "Nendoroid/2100-2199/2151.json"
+    }
+  ]
+}

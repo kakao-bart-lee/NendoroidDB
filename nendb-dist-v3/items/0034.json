@@ -1,0 +1,65 @@
+{
+  "num": "0034",
+  "name": {
+    "en": "Konata & Kagami",
+    "ja": "ねんどろいど らき☆すた Fateコスプレセット (らき☆すた ふぇいとこすぷれせっと)",
+    "ko": "럭키스타☆Fate 코스프레 세트"
+  },
+  "series": {
+    "en": "Lucky Star",
+    "ja": "ＴＶアニメ らき☆すた",
+    "ko": "럭키스타",
+    "code": "lucky-star"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5238,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3414,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HUDZMWC8X5k/X4MR4I0FnyI/AAAAAAAApYo/2UGnHyJkRkADATUdc9NRKAo7D3riqJ9aQCLcBGAsYHQ/s270/034-Konata-Kagami-Fate-Cosplay-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HUDZMWC8X5k/X4MR4I0FnyI/AAAAAAAApYo/2UGnHyJkRkADATUdc9NRKAo7D3riqJ9aQCLcBGAsYHQ/s270/034-Konata-Kagami-Fate-Cosplay-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lXYDaWCCSIk/X4GwZ1wrueI/AAAAAAAApB8/ejWmQ7bLnIAbz320XMAiUGFcwYqKClotACLcBGAsYHQ/s135/034-Konata-and-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T6LE3sYG6YU/X4GwaSlvUII/AAAAAAAApCA/eNtduX3Ws0McfRptVjBdbFOlMjO4QdHQwCLcBGAsYHQ/s135/034-Konata-and-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n034/",
+      "fetched_at": "2026-05-16T19:10:33.086Z",
+      "raw_id": "/nendoroid/details/n034/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.270Z",
+      "raw_id": "Nendoroid/0000-0099/034.json"
+    }
+  ]
+}

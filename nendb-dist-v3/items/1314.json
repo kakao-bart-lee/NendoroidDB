@@ -1,0 +1,68 @@
+{
+  "num": "1314",
+  "name": {
+    "en": "Nendoroid Lio Fotia",
+    "ja": "ねんどろいど リオ・フォーティア (ねんどろいど りお・ふぉーてぃあ)",
+    "ko": "리오 포티아"
+  },
+  "series": {
+    "en": "PROMARE",
+    "ja": "プロメア",
+    "ko": "프로메어",
+    "code": "promare"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KxqoFBH59Ek/YeXGi8N_61I/AAAAAAAA3E4/rbUdo8gm80cqgWScnDO5mLYHm6sf5VuoACNcBGAsYHQ/s270/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KxqoFBH59Ek/YeXGi8N_61I/AAAAAAAA3E4/rbUdo8gm80cqgWScnDO5mLYHm6sf5VuoACNcBGAsYHQ/s270/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e3ew8teiWVc/X4s8r0OrhZI/AAAAAAABqUY/m75aJR0C0HcBYxGzPIqUWJy-0pWoIyxdwCLcBGAsYHQ/s135/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0wdGR5t8XsM/X4s8sAQXsWI/AAAAAAABqUc/S6o0p-O_NrwKWAyQjzV3Ynse3dYE301FwCLcBGAsYHQ/s135/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eso9VoEZTak/X4s8sagr5FI/AAAAAAABqUg/jc8vhC-ZXxoPo8recSmIcBBAd0EYNqPfwCLcBGAsYHQ/s135/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-u_89aCwX4kI/X4s8svhx4MI/AAAAAAABqUk/4_dIeYgdMEsoK--q9y1jxEeN-MbrvEpdACLcBGAsYHQ/s135/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FlRuFXhKLYk/X4s8s6m4oPI/AAAAAAABqUo/6RYoZGITFU0pAglOlvCieQdNIr5xWEEwACLcBGAsYHQ/s135/1314-Lio-Fotia-PROMARE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1314/",
+      "fetched_at": "2026-05-16T19:10:33.352Z",
+      "raw_id": "/nendoroid/details/n1314/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.636Z",
+      "raw_id": "Nendoroid/1300-1399/1314.json"
+    }
+  ]
+}

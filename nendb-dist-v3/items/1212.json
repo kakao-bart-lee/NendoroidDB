@@ -1,0 +1,70 @@
+{
+  "num": "1212",
+  "name": {
+    "en": "Nendoroid Zelda: Breath of the Wild Ver.",
+    "ja": "ねんどろいど ゼルダ ブレス オブ ザ ワイルドVer. (ねんどろいど ぜるだ ぶれす おぶ ざ わいるどVer.)",
+    "ko": "젤다"
+  },
+  "series": {
+    "en": "The Legend of Zelda: Breath of the Wild",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko": "젤다의 전설",
+    "code": "the-legend-of-zelda-breath-of-the-wild"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8819,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ffxoLrA4htI/X4NiGu5sG_I/AAAAAAABmnc/HTtqS47JlWEXI9XULl9JQzW5Kf1uy7oQACLcBGAsYHQ/s270/1212-Zelda-Breath-of-the-Wild-TLOZ-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ffxoLrA4htI/X4NiGu5sG_I/AAAAAAABmnc/HTtqS47JlWEXI9XULl9JQzW5Kf1uy7oQACLcBGAsYHQ/s270/1212-Zelda-Breath-of-the-Wild-TLOZ-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JEdJ0oq1baw/X4rzIAiQJyI/AAAAAAABppw/TfiSjjgRdvkP2rK-ad1pQ-HmjaEhQBJhQCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-p7OTCdSpp-4/X4rzIpZUJGI/AAAAAAABpp0/FSK3CaTsfrwtX_cv4qqA_7aIdZ9UZ835gCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Dn5leRM84G8/X4rzI3rsrWI/AAAAAAABpp4/7Br6p8kmxUQNkH89xIgoJvK0X4F0iJEkQCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-30QnlYE6sbI/X4rzJKmXjtI/AAAAAAABpp8/bBl-228e3bIzMP-aNqcQYgynuP98IAEPQCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Yz5FXrlAT4w/X4rzJPdTB3I/AAAAAAABpqA/TwOdFKLUORsN7I4fJch0ocHWhz__sXiHQCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JHbSOm1ekQI/X4rzJWRBPzI/AAAAAAABpqE/9yZpcU8bt2snaWrncpAL-yIukeYHWS3gQCLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-sQwqGooViKE/X4rzJxV1qwI/AAAAAAABpqI/BxQB5BTQf9gzJnHhokZueDUvY_ugJ9yAACLcBGAsYHQ/s135/1212-Zelda-The-Legend-of-Zelda-Breath-of-the-Wild-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1212/",
+      "fetched_at": "2026-05-16T19:10:33.290Z",
+      "raw_id": "/nendoroid/details/n1212/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.611Z",
+      "raw_id": "Nendoroid/1200-1299/1212.json"
+    }
+  ]
+}

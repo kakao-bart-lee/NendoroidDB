@@ -1,0 +1,70 @@
+{
+  "num": "1564",
+  "name": {
+    "en": "Nendoroid Iroha Isshiki",
+    "ja": "ねんどろいど 一色いろは (ねんどろいど いっしきいろは)",
+    "ko": "잇시키 이로하"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10787,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MrvFQijNXts/YFXx-HHPukI/AAAAAAAAwLg/42KEbsC083cS08vMOTZycpesmKFKsZB0ACLcBGAsYHQ/s270/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MrvFQijNXts/YFXx-HHPukI/AAAAAAAAwLg/42KEbsC083cS08vMOTZycpesmKFKsZB0ACLcBGAsYHQ/s270/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s6wrwyJZhc4/YD1fqBxSg6I/AAAAAAAAv7E/qfczo-wETzsLsGlRQ6h0w_ZyzPDxOm75wCLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d2QZ876JGvA/YD1fqjgWYoI/AAAAAAAAv7I/pUC78u-yrhI7u2jOLmMJ-JGeNuV-X8wJACLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-49ozcUd4N6M/YD1frY-jxhI/AAAAAAAAv7M/rhU40h5ERLwnjaMEMLrP2Po-VuhBautcwCLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XTY_vPHkp0A/YD1fr56uwGI/AAAAAAAAv7Q/HO80FU279VQijAtWE3DplbTWZaRLm3ADQCLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nwW5_PXLEUc/YD1fsJWN-MI/AAAAAAAAv7U/yvnBJjS8XcQlsQWSmQaoxgqC7Gh_6LKcACLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xhB1hF84O2o/YD1fsjEAZQI/AAAAAAAAv7Y/-PJNksawJ948h3ihEgM_RKuXVWan7S45QCLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-j2Q-F_szPcM/YD1fsx1oUnI/AAAAAAAAv7c/eu-eaLR4JREPz4kW2-duaTNzbyoYk8_kgCLcBGAsYHQ/s135/1564-Iroha-Isshiki-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1564/",
+      "fetched_at": "2026-05-16T19:10:33.507Z",
+      "raw_id": "/nendoroid/details/n1564/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.696Z",
+      "raw_id": "Nendoroid/1500-1599/1564.json"
+    }
+  ]
+}

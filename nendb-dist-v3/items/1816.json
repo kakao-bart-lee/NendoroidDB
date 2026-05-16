@@ -1,0 +1,68 @@
+{
+  "num": "1816",
+  "name": {
+    "en": "Nendoroid Gen Asagiri",
+    "ja": "ねんどろいど あさぎりゲン (ねんどろいど あさぎりげん)",
+    "ko": "아사기리 겐"
+  },
+  "series": {
+    "en": "Dr. STONE",
+    "ja": "Dr.STONE",
+    "ko": "닥터 스톤",
+    "code": "dr-stone"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12320,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ut5X8scpqsw/YhAE4Vl517I/AAAAAAAA3ls/4v41QNhzOusgbHZusQ6_Kt6pmpnxvhdlwCNcBGAsYHQ/s270/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ut5X8scpqsw/YhAE4Vl517I/AAAAAAAA3ls/4v41QNhzOusgbHZusQ6_Kt6pmpnxvhdlwCNcBGAsYHQ/s270/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--dK-YA7cSJA/YhAMUaj5tuI/AAAAAAAA3wY/MhwLl6_7z-Qc21nx4VmpOOlj02LklLyWACNcBGAsYHQ/s135/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GbOdR4Boka8/YhAMUjgwqeI/AAAAAAAA3wc/NIfcMDOGFYE6psgCt6geEOAWQu4KiHejwCNcBGAsYHQ/s135/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pHeedperRrg/YhAMUxGorNI/AAAAAAAA3wg/mDjJwooe3x8emaSUQMG8HlrPli1XjO8lQCNcBGAsYHQ/s135/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Hs1CwOvSG68/YhAMVIfr76I/AAAAAAAA3wk/1MNOH3WdLtoQMJsibJIs3o7qStEwddANQCNcBGAsYHQ/s135/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_k5oiVoBzXI/YhAMVaZboxI/AAAAAAAA3wo/ZPMmM06Gv7UnI3QHUkIZq3QzHisP_CDKQCNcBGAsYHQ/s135/1816-Gen-Asagiri-Dr.-STONE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1816/",
+      "fetched_at": "2026-05-16T19:10:33.665Z",
+      "raw_id": "/nendoroid/details/n1816/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.758Z",
+      "raw_id": "Nendoroid/1800-1899/1816.json"
+    }
+  ]
+}

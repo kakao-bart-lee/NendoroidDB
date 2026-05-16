@@ -1,0 +1,96 @@
+{
+  "num": "1194",
+  "name": {
+    "en": "Nendoroid Nezuko Kamado",
+    "ja": "ねんどろいど 竈門禰豆子 (ねんどろいど かまどねずこ)",
+    "ko": "카마도 네즈코"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828663213",
+  "gsc_product_id": "6433",
+  "gsc_product_num": 8726,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/6433",
+    "ja": "https://www.goodsmile.com/ja/product/6433"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/6433/c6cbdee008e5d4b3baa0f38a861235ab.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1oolbPRSrHk/X4NgvjqvGvI/AAAAAAABmes/82F9k4G5QPUEAVlO6u4o0k2PxLOXEmkPgCLcBGAsYHQ/s270/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-it1uVpv0zPE/X4rx1XMRI4I/AAAAAAABpfs/jyzqeh3ck8cSkM06Bg0JXKj_QTlQhCM7QCLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yopSs8u8pMo/X4rx1jYNbJI/AAAAAAABpfw/PykLn6IIAx4VhJDxQFfnocJxp-z5aVWewCLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-W_RUL8pQfJM/X4rx19jbrqI/AAAAAAABpf0/h2gwY3k-ktAzF6CvzFFjBoNnpy4osgfDgCLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-t_I2ANQHdyc/X4rx2IDSfWI/AAAAAAABpf4/-nNGmreT1EA1z7lJOBq1kopuA1p0YC4-wCLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-98lxvGO4_M0/X4rx2RaAidI/AAAAAAABpf8/yyLkC7RYV1wIfk9pIytISRQLuDlIiRzwwCLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wKSS8r3bWTI/X4rx2qyuceI/AAAAAAABpgA/PZF6nC6cxQIXdEpParPIBkcZP7j1u1FSACLcBGAsYHQ/s135/1194-Nezuko-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190823/8726/63216/large/3680bc7a33285fd5039443272c4ab396.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/6433/c6cbdee008e5d4b3baa0f38a861235ab.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6433",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:08:24.181Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6433",
+      "fetched_at": "2026-05-16T12:08:24.181Z",
+      "raw_id": "6433"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/6433",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "6433"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1194/",
+      "fetched_at": "2026-05-16T19:10:33.279Z",
+      "raw_id": "/nendoroid/details/n1194/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.607Z",
+      "raw_id": "Nendoroid/1100-1199/1194.json"
+    }
+  ]
+}

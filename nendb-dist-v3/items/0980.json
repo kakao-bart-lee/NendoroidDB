@@ -1,0 +1,69 @@
+{
+  "num": "0980",
+  "name": {
+    "en": "Nendoroid Jashin-chan",
+    "ja": "ねんどろいど 邪神ちゃん (ねんどろいど じゃしんちゃん)",
+    "ko": "사신짱"
+  },
+  "series": {
+    "en": "Dropkick on my Devil!",
+    "ja": "邪神ちゃんドロップキック",
+    "ko": "사신짱 드롭킥",
+    "code": "dropkick-on-my-devil"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7540,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OGa_i7uocbo/X4Nez4T1NCI/AAAAAAABmO0/TKAII_jkbdwUPOIIjg29aheGdaqhiwDRQCLcBGAsYHQ/s270/980-Jashin-Chan-Dropkick-on-my-devil-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OGa_i7uocbo/X4Nez4T1NCI/AAAAAAABmO0/TKAII_jkbdwUPOIIjg29aheGdaqhiwDRQCLcBGAsYHQ/s270/980-Jashin-Chan-Dropkick-on-my-devil-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1gPQrUlqQ1s/X4rpR8j8UXI/AAAAAAABoGI/HEf0Q0BGZisIgGSjwJYw3gTXyMzFkayZQCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S6yeh6gki54/X4rpSWxuAtI/AAAAAAABoGM/JZI1-cY8Eoki-pW8NPcaTPI_JW9RfUtQQCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UaAiOXdj2sw/X4rpS7DVscI/AAAAAAABoGQ/M3uwuo276CAEet9xYPFu9rYTOYP6-JW2wCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5NG-21oqNcE/X4rpTUN33eI/AAAAAAABoGU/ZMx5wR6KdtwQGjrYbyM2cxdwwr-0al9nQCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5WLofg2cSxU/X4rpTw8NYlI/AAAAAAABoGY/b1C1kJEGrzkkfZQfBxPFppwiUKR74ExWgCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0EfTH9KEXCQ/X4rpUa3SDDI/AAAAAAABoGc/J-TBwTRAfrgowBS9zAeIoa_EES7ckgywwCLcBGAsYHQ/s135/980-Jashin-Chan-Dropkick-on-my-Devil-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n980/",
+      "fetched_at": "2026-05-16T19:10:34.907Z",
+      "raw_id": "/nendoroid/details/n980/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.555Z",
+      "raw_id": "Nendoroid/0900-0999/980.json"
+    }
+  ]
+}

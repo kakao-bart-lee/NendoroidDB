@@ -1,0 +1,71 @@
+{
+  "num": "1911",
+  "name": {
+    "en": "Nendoroid Klonoa",
+    "ja": "ねんどろいど クロノア (ねんどろいど くろのあ)",
+    "ko": "크로노아"
+  },
+  "series": {
+    "en": "Klonoa: Door to Phantomile",
+    "ja": "風のクロノア door to phantomile",
+    "ko": "바람의 크로노아 : 환영의 문",
+    "code": "klonoa-door-to-phantomile"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13263,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eWgnDF-WEqY/ZQoU0J-WgSI/AAAAAAABBic/Ka9gafjQnNgsPc1Kd5j6mA_AosGjMbKEgCNcBGAsYHQ/s270/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eWgnDF-WEqY/ZQoU0J-WgSI/AAAAAAABBic/Ka9gafjQnNgsPc1Kd5j6mA_AosGjMbKEgCNcBGAsYHQ/s270/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-clDkOcQFftA/ZQsgMHE1OkI/AAAAAAABBlY/z1tKw6RfEjM6_4bEelP3LhAlLi38E5TSQCNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cMaWCwEQkyQ/ZQsgMe888RI/AAAAAAABBlc/tf__3mHjiCkpMRZjimeKZ_eV06FHTag5ACNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cfuTPtMlU7A/ZQsgMkLV9qI/AAAAAAABBlg/i1f2fbtA_fkQ7PqKglo360Cqj8Bu_aEBQCNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e17tF1ypq3I/ZQsgM1SR3UI/AAAAAAABBlk/3WSSUl09djse7otjiCetv6lAeyhPj03wgCNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kSC3JAsd0EI/ZQsgNI-Y8zI/AAAAAAABBlo/-pYVS_UfQ2szwXrZ172k6GcLkgRX7N2vACNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BuBHRxlgjeI/ZQsgNZGNPsI/AAAAAAABBls/c0J2q7mYghI5W6XkTYIdC_f_K86kbEmDACNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-GkyXV5OalNs/ZQsgNo-dgqI/AAAAAAABBlw/EYvHCjlwuUoTwoXQLZ7Dc8XiPRDVI2QJACNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-EhsIAhw1zhc/ZQsgL68XYOI/AAAAAAABBlU/lYZYJxR7hfUlprXCkNIRdKp830ziIgIWgCNcBGAsYHQ/s135/1911-Klonoa-Klonoa-Door-to-Phantomile-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1911/",
+      "fetched_at": "2026-05-16T19:10:33.725Z",
+      "raw_id": "/nendoroid/details/n1911/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.780Z",
+      "raw_id": "Nendoroid/1900-1999/1911.json"
+    }
+  ]
+}

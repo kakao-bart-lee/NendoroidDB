@@ -1,0 +1,68 @@
+{
+  "num": "1359",
+  "name": {
+    "en": "Nendoroid Nikki",
+    "ja": "ねんどろいど ニキ (ねんどろいど にき)",
+    "ko": "니키"
+  },
+  "series": {
+    "en": "Shining Nikki",
+    "ja": "シャイニングニキ（閃耀暖暖）",
+    "ko": "샤이닝니키",
+    "code": "shining-nikki"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9843,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G7gyKfiMN4k/X4NjysXIY0I/AAAAAAABm2c/Uxr7MD5h5aI_e61zQoHPzpWRwIHPBHrmACLcBGAsYHQ/s270/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G7gyKfiMN4k/X4NjysXIY0I/AAAAAAABm2c/Uxr7MD5h5aI_e61zQoHPzpWRwIHPBHrmACLcBGAsYHQ/s270/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Gqis7nAQpFA/X4s9tmVbulI/AAAAAAABqjw/JUZIzjS9eSsMcWZwFNb9X_gXhVfFN6NsACLcBGAsYHQ/s135/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_MuubQK7Ae4/X4s9t_pwVCI/AAAAAAABqj0/JIQD1iBxgoUVH_8sfSMv9UANF1H4x4jfwCLcBGAsYHQ/s135/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mVTUQY3wclQ/X4s9uFoebuI/AAAAAAABqj4/pu0LDt0dY_siq5X6GJZsXpiLX-0MUIuYQCLcBGAsYHQ/s135/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0uoMp4f2EKk/X4s9uc0r8wI/AAAAAAABqj8/dIKULBz-dvkR9cDzvIXgnMUCIS409szlgCLcBGAsYHQ/s135/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--P0WZXOLsgc/X4s9urtF4kI/AAAAAAABqkA/hSjt_hw1_B8gcY9IgbS8jhBgpWqyY2xkwCLcBGAsYHQ/s135/1359-Nikki-Shining-Nikki-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1359/",
+      "fetched_at": "2026-05-16T19:10:33.380Z",
+      "raw_id": "/nendoroid/details/n1359/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.647Z",
+      "raw_id": "Nendoroid/1300-1399/1359.json"
+    }
+  ]
+}

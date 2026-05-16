@@ -1,0 +1,67 @@
+{
+  "num": "0180",
+  "name": {
+    "en": "Nendoroid Puchitto Rock Shooter Cheerful Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)",
+    "ja": "ねんどろいど ぷちっと★ロックシューター 応援Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)",
+    "ko": "푸칫토★ROCK SHOOTER 응원 Ver"
+  },
+  "series": {
+    "en": "Puchitto Rock Shooter",
+    "ja": "ぷちっと★ロックシューター",
+    "ko": "푸칫토★ROCK SHOOTER",
+    "code": "puchitto-rock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3190,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0_F-7ZdiP1c/X4NKI9pJ34I/AAAAAAABlTQ/gWeX8bVEzzsgGePCOswx9T8x0E1Ie70XwCLcBGAsYHQ/s270/180-Puchitto%2BRock%2BShooter-Cheerful-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0_F-7ZdiP1c/X4NKI9pJ34I/AAAAAAABlTQ/gWeX8bVEzzsgGePCOswx9T8x0E1Ie70XwCLcBGAsYHQ/s270/180-Puchitto%2BRock%2BShooter-Cheerful-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VAWyAUju9PE/X4dT-EDRW5I/AAAAAAAAqJk/A8GAzbN6rvcddtKAnOokWWlSDGwhE4DuwCLcBGAsYHQ/s135/180-Puchitto-Rock-Shooter-Puchitto-Rock-Shooter-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9qWzlSlaZsM/X4dT-3ZQcZI/AAAAAAAAqJo/Hvh8ORM6C-MXnGQFgC8bdr3zGKGD3msPQCLcBGAsYHQ/s135/180-Puchitto-Rock-Shooter-Puchitto-Rock-Shooter-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Bar068GNi90/X4dT_DOmhHI/AAAAAAAAqJs/OlH_tqiWDQA00nLkq9tBdZX985lXCTD4gCLcBGAsYHQ/s135/180-Puchitto-Rock-Shooter-Puchitto-Rock-Shooter-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KsB1DZo_PQo/X4dT_3TrXZI/AAAAAAAAqJw/Wvp5vRtx7MYpqnKkHR5SulY76q6K59ELgCLcBGAsYHQ/s135/180-Puchitto-Rock-Shooter-Puchitto-Rock-Shooter-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n180/",
+      "fetched_at": "2026-05-16T19:10:33.661Z",
+      "raw_id": "/nendoroid/details/n180/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.311Z",
+      "raw_id": "Nendoroid/0100-0199/180.json"
+    }
+  ]
+}

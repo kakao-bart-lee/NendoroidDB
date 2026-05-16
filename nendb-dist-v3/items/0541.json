@@ -1,0 +1,67 @@
+{
+  "num": "0541",
+  "name": {
+    "en": "Nendoroid Honoka Kosaka: Training Outfit Ver.",
+    "ja": "ねんどろいど 高坂穂乃果 練習着Ver. (ねんどろいど こうさかほのか れんしゅうぎVer.)",
+    "ko": "코사카 호노카 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5097,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2hHGSadLh48/X4NOfSfva0I/AAAAAAABlwA/7AdtVJ7LxhMD5kTeAs1QDV5gzQYkokC0ACLcBGAsYHQ/s270/541-Honoka-Kousaka-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2hHGSadLh48/X4NOfSfva0I/AAAAAAABlwA/7AdtVJ7LxhMD5kTeAs1QDV5gzQYkokC0ACLcBGAsYHQ/s270/541-Honoka-Kousaka-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wYSyjWv6DVQ/X4iskTEko8I/AAAAAAAAsIs/1w5Yin4Wpes7P_UjQSV_M-NWIMt7psGLwCLcBGAsYHQ/s135/541-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R54fn99kd4Y/X4iskkWeG2I/AAAAAAAAsIw/NxUsizNqPsYfHquDY4_600emCFJg_rKKgCLcBGAsYHQ/s135/541-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YsVWXJ1vWT8/X4isk_96oNI/AAAAAAAAsI0/0dHTCsnRngIH5F9K5KBXas04NqhFtr2QgCLcBGAsYHQ/s135/541-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--BXtb5pKcm0/X4islKn-KYI/AAAAAAAAsI4/P5oXmAznFw4kpVpd_E4X2lxcSZXI86DIgCLcBGAsYHQ/s135/541-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n541/",
+      "fetched_at": "2026-05-16T19:10:34.588Z",
+      "raw_id": "/nendoroid/details/n541/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.437Z",
+      "raw_id": "Nendoroid/0500-0599/541.json"
+    }
+  ]
+}

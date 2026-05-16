@@ -1,0 +1,71 @@
+{
+  "num": "2008",
+  "name": {
+    "en": "Nendoroid Shirogane Noel",
+    "ja": "ねんどろいど 白銀ノエル (ねんどろいど しろがねのえる)",
+    "ko": "시로가네 노엘"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-72Iv3tu6ZWk/Y45wWbBngiI/AAAAAAAA7sk/9n6XJVR-HsM3Qxd1Sab_3M5C-SxQ7EkXACNcBGAsYHQ/s270/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-72Iv3tu6ZWk/Y45wWbBngiI/AAAAAAAA7sk/9n6XJVR-HsM3Qxd1Sab_3M5C-SxQ7EkXACNcBGAsYHQ/s270/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iLTgnlF-sao/Y4515ry5B6I/AAAAAAAA76g/d5jGOVQFgjsyGNwm6IKwmivI9HDE8CE5QCNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7gfsiKrTqB4/Y4516E8a81I/AAAAAAAA76k/F3wzLEmOFoE_2LwoLwmEHHGH4s8LjD2NgCNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MMLqE5aIh5U/Y4516eJK5yI/AAAAAAAA76o/pe8GmFW20QMfbt0k-4xTDfHCHRoOcggMACNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ivxi_iFhIw0/Y4516vKzWRI/AAAAAAAA76s/i1osKH5tbqsos8ogLtD_Ra1WQNXznOD3wCNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FG_0N9ptBZ4/Y451634kL3I/AAAAAAAA76w/q2zvrdzkVkwymU5lLrHAlMBZeoud9Ib_gCNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hK9gVYz-QrI/Y4517GBd9dI/AAAAAAAA760/2YyZhsWqaeYGS-TTyJIweyacv8JnscQzACNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8NY96dyQVRc/Y4517Iu26hI/AAAAAAAA764/5XpDwtZqH1EnyEFl31t5YcotCeiNAuAyACNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-5qrn5pLX0no/Y4515MdGNeI/AAAAAAAA76c/8Po33Cww3UIV7dVgh5MCmsUl_jem07rwQCNcBGAsYHQ/s135/2008-Shirogane-Noel-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2008/",
+      "fetched_at": "2026-05-16T19:10:33.782Z",
+      "raw_id": "/nendoroid/details/n2008/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.804Z",
+      "raw_id": "Nendoroid/2000-2099/2008.json"
+    }
+  ]
+}

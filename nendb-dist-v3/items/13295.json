@@ -1,0 +1,55 @@
+{
+  "num": "13295",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいどどーる おようふくセット マイキー（佐野万次郎） (ねんどろいどどーる おようふくせっと まいきー（さのまんじろう）)",
+    "ko": "마이키(사노 만지로) 의상"
+  },
+  "series": {
+    "en": null,
+    "ja": "東京リベンジャーズ",
+    "ko": "도쿄 리벤저스",
+    "code": null
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13295,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220926/13295/104807/large/e206e3768ece3e61563f0e3c3306deef.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.931Z",
+      "raw_id": "NendoroidDoll/Clothes/13295.json"
+    }
+  ]
+}

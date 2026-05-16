@@ -1,0 +1,69 @@
+{
+  "num": "2128",
+  "name": {
+    "en": "Nendoroid Di Gi Charat",
+    "ja": "ねんどろいど デ・ジ・キャラット (ねんどろいど で・じ・きゃらっと)",
+    "ko": "디지캐럿"
+  },
+  "series": {
+    "en": "Reiwa no Di Gi Charat",
+    "ja": "令和のデ・ジ・キャラット",
+    "ko": "디지캐럿",
+    "code": "reiwa-no-di-gi-charat"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14247,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aunJKiKNEC0/ZIzT1uXdLGI/AAAAAAAA-PI/D802ROEZZ3ItD7i5MtXT6TS12onqKNYuACNcBGAsYHQ/s270/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aunJKiKNEC0/ZIzT1uXdLGI/AAAAAAAA-PI/D802ROEZZ3ItD7i5MtXT6TS12onqKNYuACNcBGAsYHQ/s270/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_OJK2lmX9E8/ZIzVoqycfkI/AAAAAAAA-Sc/ArW1wueq8skLnxx0fRNLfBHApS4ZhGbfQCNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tFBvxQ4LXIs/ZIzVo1lVF8I/AAAAAAAA-Sg/1AU4V5nxNU8abY46X23sZj7J2kN_cn5GgCNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2ZYRyUoVrZQ/ZIzVo6HF6pI/AAAAAAAA-Sk/9eG7gXwMwrA_bqXhVWg_uJu3jF1K5ZyOgCNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1Iyih89IIgI/ZIzVpUKi8VI/AAAAAAAA-So/ZChmIUVtB84eEo-KWpTsJTO_MxhP2x-iQCNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v1sPNCSLYhY/ZIzVpsAhR3I/AAAAAAAA-Ss/mTHWgdanZNI3IigeXzh7XN1Phf44g_SogCNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uD2IkU7GVps/ZIzVp_1Pb6I/AAAAAAAA-Sw/4zy2fHqT7Rgac5F9niAs-g2Z7JQLt8yCACNcBGAsYHQ/s135/2128-Di-Gi-Charat-Reiwa-no-Di-Gi-Charat-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2128/",
+      "fetched_at": "2026-05-16T19:10:33.856Z",
+      "raw_id": "/nendoroid/details/n2128/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.833Z",
+      "raw_id": "Nendoroid/2100-2199/2128.json"
+    }
+  ]
+}

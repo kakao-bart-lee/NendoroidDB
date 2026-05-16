@@ -1,0 +1,70 @@
+{
+  "num": "2118",
+  "name": {
+    "en": "Nendoroid Mori Calliope",
+    "ja": "ねんどろいど 森カリオペ (ねんどろいど もりかりおぺ)",
+    "ko": "모리 칼리오페"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14285,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-T27Vp7SJe_8/ZFqWZSiDB2I/AAAAAAAA9zI/HyqGHu3_Y7AvNzXMizPqgY2DHvc6q735wCNcBGAsYHQ/s270/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-T27Vp7SJe_8/ZFqWZSiDB2I/AAAAAAAA9zI/HyqGHu3_Y7AvNzXMizPqgY2DHvc6q735wCNcBGAsYHQ/s270/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_J498k3zcDU/ZFqby3y0hUI/AAAAAAAA96k/iQdnrkIiF6sUJmtM52UXYSKUDm9WRAvwgCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3CNTOHggEGk/ZFqbzYUQHiI/AAAAAAAA96o/b9jY7znOiHwymrZG8PvwRptsaJqbZekzwCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bOSZEvu2W90/ZFqbz_P6nAI/AAAAAAAA96s/9t7xgcoIA7AVMcHlYBz26mhyQaQd6k6vQCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aMsChW961EI/ZFqb0aOimFI/AAAAAAAA96w/Dibxg7Gu9k86vMVM_SdKUvZSSwjINyh2QCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KCX4ye1TOeg/ZFqb09H8hNI/AAAAAAAA964/2xpXjLnczqEByfKJw-_wdgiKHMVFGYAxwCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Xjzsq8O9RnQ/ZFqb1Ue5EII/AAAAAAAA960/ewzo5VlaF0EoqPOB44OdRfr_KgDIENbJwCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-9h8hZ-xRTIk/ZFqb14VpTOI/AAAAAAAA97E/Q6r5N5VLEhsaFT3KgRvL5f3aYYbmkp2rQCNcBGAsYHQ/s135/2118-Mori-Calliope-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2118/",
+      "fetched_at": "2026-05-16T19:10:33.850Z",
+      "raw_id": "/nendoroid/details/n2118/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.831Z",
+      "raw_id": "Nendoroid/2100-2199/2118.json"
+    }
+  ]
+}

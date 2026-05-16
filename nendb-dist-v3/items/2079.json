@@ -1,0 +1,69 @@
+{
+  "num": "2079",
+  "name": {
+    "en": "Nendoroid Himuro-kun",
+    "ja": "ねんどろいど 氷室くん (ねんどろいど ひむろくん)",
+    "ko": "히무로군"
+  },
+  "series": {
+    "en": "The Ice Guy and His Cool Female Colleague",
+    "ja": "氷属性男子とクールな同僚女子",
+    "ko": "빙속성 남자와 쿨한 동료 여자",
+    "code": "the-ice-guy-and-his-cool-female-colleague"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14015,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1nuRmh-CUqw/ZA3eDiABBnI/AAAAAAAA9K8/vvALZX54xLgICPYkCGFw3jwezyG-way3ACNcBGAsYHQ/s270/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1nuRmh-CUqw/ZA3eDiABBnI/AAAAAAAA9K8/vvALZX54xLgICPYkCGFw3jwezyG-way3ACNcBGAsYHQ/s270/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ofiS5wiFhXM/ZA3dGYEAotI/AAAAAAAA9Eo/wWGw893a-3sBK1O0zi-wseLIvvxQJ8diQCNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sGBeff5irMA/ZA3dHCOu64I/AAAAAAAA9Es/YdyU7iUjsyMafk6WR2WiKBPnEx2Iji5fACNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nPHtrg9F4Z8/ZA3dHos2V1I/AAAAAAAA9Ew/orvalTFLXGoQmE33FtYUbkntF3YmNCkWgCNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vVqq5PR1H4A/ZA3dINwoAyI/AAAAAAAA9E0/KEMKIBEz7DYNsgZpEUXb1IRfGPB1Dki3gCNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8cp8q0I9gXo/ZA3dIobvTkI/AAAAAAAA9E4/CjOPcfr_X7M-HvE5GItkN-oZmo4aGy8xwCNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mZog3-05qaY/ZA3dJM_TKfI/AAAAAAAA9E8/BJTuJaop9rAEi4zNafxwgwwWhE2uTNYPgCNcBGAsYHQ/s135/2079-Himuro-kun-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2079/",
+      "fetched_at": "2026-05-16T19:10:33.827Z",
+      "raw_id": "/nendoroid/details/n2079/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.821Z",
+      "raw_id": "Nendoroid/2000-2099/2079.json"
+    }
+  ]
+}

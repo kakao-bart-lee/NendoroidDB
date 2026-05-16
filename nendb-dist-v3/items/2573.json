@@ -1,0 +1,90 @@
+{
+  "num": "2573",
+  "name": {
+    "en": "Tokoyami Towa",
+    "ja": "ねんどろいど 常闇トワ",
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": "ホロライブプロダクション",
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "other",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Max Factory",
+  "sculptor": "Max Factory (Chida)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": "4545784069622",
+  "gsc_product_id": "46676",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/46676",
+    "ja": "https://www.goodsmile.com/ja/product/46676"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46676/Etn02LxwfKFP3rs6iA7chBXaYv9GZqM1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVmfCeSVvhW_hyphenhyphenxggJAnzNev6AQbSC3TwGKWGZflS4d_aJ9ty70ZFsZIyC6mtFoxNmnrGm0OX7cx_sDsrLubSnzps5YM4-ZHFvnCd_ronD8m3yephzh2QL8G09uN-Aoc8yj-5fHhwquIGf4N5MwXqXftjonlqLBnlngu5pcDvV09yFVjd_SdvUrbuBR-9G/s270/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj89Ltc-QCeUwKHRf3d0c9DwBqBZPrNBh2y3Z4pWnRDDNxJuyFHs9J0r8Dan0Rxgtfu4TJgQ0_ZkQ184x9yDfivtWvwfDAjnWjavUnXGIyRz1FHQ3JgwfeUPlkajswOXOqkAH1Y1lytk712XHKs09hK3-bZpq6HRu9StpMsV2OWXBk-AGhWCfU0arQ4GPzC/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-rr5lX6PvR6rnfJ5E7LqQMNnA1fiQvpbONfhqL3eFiOdytryfIxI7MYRYufbTMw37Z68KYQZAor523CSyIuM415O2dYem7DRQdhtURiCHfzv3pc7XE3phoTY9fhkl8JNQ3XvIPntCYpq4dmkWdAugljvg2tCz18lnE_rD8Xy3Z23qHhbhuPPs-N422roU/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpE6e6FWFoxsn41z0S93pGwNOhgJgM29CpygKkFN7GFx9D5505_NjivY0ucET0HS3Cnq6j0xDMtv8n0Gxkzso33xqzri3JtjDJj92ZttVqWHxeQFw1xmhHXMjTHdvOX8-qZ0WmcNAzxHAAi_n7tUqkq6LQYwWsl1itnd2zlLS1NJflcAtFhyJT96O51jfv/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1aASTybfr9d4wgXExt8lYfkOc_rT3xsNtKyWhLoqrkiZrAO7mrgMJ3t7eATqZRJXXxnMhhCrGy1NjvFrjLDGzfgzDNcdBRpWdqAYCDcWHICRa76Z2GLI457pxxK2gTIW8h532F3OSbsaBpLPLDMW-RMbors2lLp7NKSEH_heq2wNCXIf8Ib9e374igvb6/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3K1eHUOKflET9M-ZJiICqD-2V4U2Qk7sjQagpE9eJr8WrGKSxs8iV8G_Q0VAVmb95TpimTzp89DzOzvZZMkAF5OonDwcGzxPpX_UnFZ20qnf2DtSa41K3quwfc9leSDqOQWCNqZedNsoLRrCVK2k1DGVTGQbz62RHudimbonfkujmFmWarCiTLCT7C_8E/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Gb-_81h3ocsVvh0nRVHxqtBmCO3ao0m1ZZ9iM4oceTXnQZQSsAEcL0BsxGdTn4yspQ3a_-cTbG0F_3uxJPOa7uAoLpQxew7R1PdcchmEsu96vmdD6Vye0X9RSeLbanTDmklGr4FuEejZ9somLsvo3KYdpsaD36nXYZGNW8u5BVWaJJ6AlY6Ppi-Y-WYR/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ6e0_swngPLBEi64c17UHtqtcqPVKgS2338xArXp9z_fvgEd1poJNqWblFMwe1sTzUMLwHe3mypZpmgzWrqzS1zOCmZ4wbtxXU9tMM-YhCO0D0xymUBicNPmf7_Hy0FDWnQ1QRRezbLySDaBV2rFNXMJ5K95i4wU-rMaRAdp_ZIg1imFZ4FMu4YiMmNOX/s135/2573-Tokoyami-Towa-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46676/5fQK8yxCU43hpvcSrzgm1wNZdTkjWBXP.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46676/Etn02LxwfKFP3rs6iA7chBXaYv9GZqM1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/46676",
+      "price_local": 7900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:52:47.471Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/46676",
+      "fetched_at": "2026-05-16T11:52:47.471Z",
+      "raw_id": "46676"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/46676",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "46676"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2573/",
+      "fetched_at": "2026-05-16T19:10:34.142Z",
+      "raw_id": "/nendoroid/details/n2573/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1888",
+  "name": {
+    "en": "Nendoroid Prushka",
+    "ja": "ねんどろいど プルシュカ (ねんどろいど ぷるしゅか)",
+    "ko": "푸르슈카"
+  },
+  "series": {
+    "en": "Made in Abyss: The Golden City of the Scorching Sun",
+    "ja": "メイドインアビス 烈日の黄金郷",
+    "ko": "메이드 인 어비스: 열일의 황금향",
+    "code": "made-in-abyss-the-golden-city-of-the-scorching-sun"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12783,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VGzw08sJrLg/Yw_WKCBhZ2I/AAAAAAAA6Y4/pEa1yiaOKB8wtSzrYUN8jOpGA7KdLjYtgCNcBGAsYHQ/s270/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VGzw08sJrLg/Yw_WKCBhZ2I/AAAAAAAA6Y4/pEa1yiaOKB8wtSzrYUN8jOpGA7KdLjYtgCNcBGAsYHQ/s270/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-T3EKX4hFRXY/YxEWhxmYe4I/AAAAAAAA6g0/5UuD1jekPdA_8CrauHMCm9YYOjfqQ-RwgCNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WPzx5Jq9NdY/YxEWiXJ9UmI/AAAAAAAA6g4/S6pauvss-FYNBuoc61vlqwS97iEArY-KQCNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WiLTWdZdG04/YxEWiepjPQI/AAAAAAAA6g8/3h-UFCI9DjYvNKb-6Ly14pS0pddvZRDQgCNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kjXhihQayWs/YxEWi1k8alI/AAAAAAAA6hA/9-n9xi_seFkfsb0FZ1gViEETkMOgSbW2ACNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2zzstmWv-gA/YxEWjOUQ7mI/AAAAAAAA6hE/P1IaZbW_Q8Ib8rxRUVN4X9z6WsGfW3_4ACNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uNMyaycuzAo/YxEWjlGvSuI/AAAAAAAA6hI/HUkLh4HmYZookYxr2Yi2zYtfBZsI7Qa1QCNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-zMOBYqSEg4A/YxEWj0wfeUI/AAAAAAAA6hM/gOSzAjfRQscHzH8hNOT3LXqd2wGpLerQgCNcBGAsYHQ/s135/1888-Prushka-Made-in-Abyss-The-Golden-City-of-the-Scorching-Sun-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1888/",
+      "fetched_at": "2026-05-16T19:10:33.711Z",
+      "raw_id": "/nendoroid/details/n1888/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.775Z",
+      "raw_id": "Nendoroid/1800-1899/1888.json"
+    }
+  ]
+}

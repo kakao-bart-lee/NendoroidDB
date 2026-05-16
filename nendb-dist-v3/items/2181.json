@@ -1,0 +1,70 @@
+{
+  "num": "2181",
+  "name": {
+    "en": "Nendoroid Matsuri Kazamaki",
+    "ja": "ねんどろいど 風巻祭里 (ねんどろいど かざまきまつり)",
+    "ko": "카자마키 마츠리"
+  },
+  "series": {
+    "en": "Ayakashi Triangle",
+    "ja": "あやかしトライアングル",
+    "ko": "아야카시 트라이앵글",
+    "code": "ayakashi-triangle"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14539,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-idVSzSG2Ejw/ZKXXOpASXNI/AAAAAAAA-kM/sfCEDSLA3Z0Se0Eb0pUiV-g4cZ85WTNpwCNcBGAsYHQ/s270/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-idVSzSG2Ejw/ZKXXOpASXNI/AAAAAAAA-kM/sfCEDSLA3Z0Se0Eb0pUiV-g4cZ85WTNpwCNcBGAsYHQ/s270/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_pZ_9le8DDU/ZKXmFWJ2-7I/AAAAAAAA-_E/a8wdFtuFQx0z2xol3eQ61O5CGdNB2q5tgCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Hlh-9A7bfV4/ZKXmFrDrjHI/AAAAAAAA-_I/T5gMgtZlRdUEGd2XKANA0ApLXVzGMjofgCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h02lCCljkjE/ZKXmGINcJhI/AAAAAAAA-_M/xfJMNBI73xYx_P_E3GkCvSAq5ejFIx4zwCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Nv5MKow9wFc/ZKXmG7VDMbI/AAAAAAAA-_Q/qPOS8WAYB28ovcAkl9H5qNQyUIEz-QF3gCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--LG5pCHzjXY/ZKXmHNNdd1I/AAAAAAAA-_U/jKME4PTCbikkqQXChxqsa5ZIs1NdkQJHQCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FDfMHsBsgAw/ZKXmH9AwfGI/AAAAAAAA-_Y/l01kmmIaMJY3rq-5W3b4n3Eff-4Pz4zbwCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/--s2CfWO5kgw/ZKXmIOfAESI/AAAAAAAA-_c/q7jLjKk_IksJZb4BkZLBhAHom4dc79qCQCNcBGAsYHQ/s135/2181-Matsuri-Kazamaki-Ayakashi-Triangle-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2181/",
+      "fetched_at": "2026-05-16T19:10:33.887Z",
+      "raw_id": "/nendoroid/details/n2181/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.849Z",
+      "raw_id": "Nendoroid/2100-2199/2181.json"
+    }
+  ]
+}

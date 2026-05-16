@@ -1,0 +1,69 @@
+{
+  "num": "0467",
+  "name": {
+    "en": "Nendoroid Rei Ayanami: EVANGELION RACING Ver. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ja": "ねんどろいど 綾波レイ エヴァンゲリオンレーシングVer. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ko": "아야나미 레이 에반게리온 레이싱 Ver."
+  },
+  "series": {
+    "en": "EVANGELION RACING",
+    "ja": "エヴァンゲリオンレーシング",
+    "ko": "에반게리온",
+    "code": "evangelion-racing"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4690,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NR2H2sDlF_k/X4NN4DuYMOI/AAAAAAABlqw/_8sjk7JoUSgoMnKIXHRFsbWUpw_Olu_AwCLcBGAsYHQ/s270/467-Rei-Ayanami-Evangelion-Racing-Version-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NR2H2sDlF_k/X4NN4DuYMOI/AAAAAAABlqw/_8sjk7JoUSgoMnKIXHRFsbWUpw_Olu_AwCLcBGAsYHQ/s270/467-Rei-Ayanami-Evangelion-Racing-Version-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1ZgMoJrzRUM/X4dexRvTWpI/AAAAAAAArr8/v1g7qHqO9-Mg1XHN58HIQjHnrcMFh_B9ACLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XGZSTt_J6oM/X4dexdjtQII/AAAAAAAArsA/qrOpJXV7AUc-GOuG6xOzoDQHHXJcnjXYgCLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9GebBTkyZIA/X4dexjpEzJI/AAAAAAAArsE/YD7mIVy9734WXEi_Lgt6eJ0SFTvgPCF-gCLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YEPgoV011EU/X4dexrIIzrI/AAAAAAAArsI/ycgwhLdSiVI4aYXVAvho6lvD0YOjXd6vQCLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5cQnfjPtov8/X4dex6QcISI/AAAAAAAArsM/tudNRaa39p8cKWPNLfP8kMTRFGqznxn7ACLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-c6ONdv0cKig/X4dex1V_irI/AAAAAAAArsQ/lKRwQAqWfL4U0PZ0BVcjM6jPaFHTEdczgCLcBGAsYHQ/s135/467-Rei-Ayanami-Evangelion-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n467/",
+      "fetched_at": "2026-05-16T19:10:34.545Z",
+      "raw_id": "/nendoroid/details/n467/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.386Z",
+      "raw_id": "Nendoroid/0400-0499/467.json"
+    }
+  ]
+}

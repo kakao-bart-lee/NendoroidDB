@@ -1,0 +1,59 @@
+{
+  "num": "0075a",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Racing Miku",
+    "ja": null,
+    "ko": null,
+    "code": "racing-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-j7h_jo21HrQ/X4MSEFNOaiI/AAAAAAAApbM/2JP3BjdKNTMSbK_QCAPU7RSJ2Z934wBBQCLcBGAsYHQ/s270/075A-Hatsune-Miku-Queen-Racer-White-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-j7h_jo21HrQ/X4MSEFNOaiI/AAAAAAAApbM/2JP3BjdKNTMSbK_QCAPU7RSJ2Z934wBBQCLcBGAsYHQ/s270/075A-Hatsune-Miku-Queen-Racer-White-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R_qET_ngpvw/X4Gw4syYfTI/AAAAAAAApLM/PlCY98R45w4Tpo3jk2Pf3Aecv81MTAOAgCLcBGAsYHQ/s135/075A-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n075a/",
+      "fetched_at": "2026-05-16T19:10:33.110Z",
+      "raw_id": "/nendoroid/details/n075a/"
+    }
+  ]
+}

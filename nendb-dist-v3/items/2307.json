@@ -1,0 +1,64 @@
+{
+  "num": "2307",
+  "name": {
+    "en": "Seika Ijichi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Bocchi The Rock!",
+    "ja": null,
+    "ko": null,
+    "code": "bocchi-the-rock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AudbvSHYees/ZcqeoMvxO-I/AAAAAAABDX0/YswOimBeuaUb3j30_sYNEOoh_0h-5Eo1wCNcBGAsYHQ/s270/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AudbvSHYees/ZcqeoMvxO-I/AAAAAAABDX0/YswOimBeuaUb3j30_sYNEOoh_0h-5Eo1wCNcBGAsYHQ/s270/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Fj0MOZ8YbhI/ZowzMHv7WyI/AAAAAAABFIk/nNxCQkqhUjwBAwuqqL2-BSQzI_bkREEcgCNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VT4S3Zk5nIQ/ZowzM7EHvdI/AAAAAAABFIo/Yigss7boWY4EvDBh_A4ayUCb8-DF6f4wwCNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T6PmjVXp4Ow/ZowzNswTNbI/AAAAAAABFIs/y_hLS6BRXsUW-yO_6rgyIcp0MHkFbI17wCNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GQAaVennFFo/ZowzOFKeqqI/AAAAAAABFI0/QmQetkDQ3zYxNjYkA3hdJX2vRtQSkBsXgCNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ylo7N3Pit78/ZowzN1-A5cI/AAAAAAABFIw/WnCGrf8h2EYCBlPDQwp1ntennwt_9EqwwCNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SR9cOrz7MtI/ZowzOWumyQI/AAAAAAABFI4/91GAeztYBVwh7hKgsACK0t3fxrElaJR_ACNcBGAsYHQ/s135/2307-Seika-Ijichi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2307/",
+      "fetched_at": "2026-05-16T19:10:33.977Z",
+      "raw_id": "/nendoroid/details/n2307/"
+    }
+  ]
+}

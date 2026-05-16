@@ -1,0 +1,68 @@
+{
+  "num": "1108",
+  "name": {
+    "en": "Nendoroid Ciri",
+    "ja": "ねんどろいど シリ (ねんどろいど しり)",
+    "ko": "시리"
+  },
+  "series": {
+    "en": "The Witcher 3: Wild Hunt",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "ko": "위쳐 시리즈",
+    "code": "the-witcher-3-wild-hunt"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8199,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-T9VqFRU6M7Y/X4NgTfBVFVI/AAAAAAABmZA/5HhEXnJtj_M6xykkNiazmqPb9cv-ZhqlACLcBGAsYHQ/s270/1108-Ciri-Witcher-Wild-Hunt-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-T9VqFRU6M7Y/X4NgTfBVFVI/AAAAAAABmZA/5HhEXnJtj_M6xykkNiazmqPb9cv-ZhqlACLcBGAsYHQ/s270/1108-Ciri-Witcher-Wild-Hunt-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nQomR6g4dA4/X4rvhNfKLzI/AAAAAAABo9c/3G2ecxEZqxUNqvooZFSjMVndKEcksXfmgCLcBGAsYHQ/s135/1108-Ciri-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XUJQOsz1GDY/X4rvhS48PSI/AAAAAAABo9g/8yFyvGD2pikY6JODpSG71nC7w2FUXo0TgCLcBGAsYHQ/s135/1108-Ciri-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kSc2RAIjZyw/X4rvhujIFtI/AAAAAAABo9k/UvkRMDzcE7Yzpbsf2-HrkqUp9Fo8VMhzACLcBGAsYHQ/s135/1108-Ciri-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VIL7ICFxdPQ/X4rvhzfNxPI/AAAAAAABo9o/gdB_YOztkr4MHq7545jZ1GTIdoAi8pBsgCLcBGAsYHQ/s135/1108-Ciri-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gmcc9iyzKOg/X4rviKAhuFI/AAAAAAABo9s/RfcY_RJCKvghUtNTrgAA2aKQ2-vJgoKywCLcBGAsYHQ/s135/1108-Ciri-The-Witcher-Wild-Hunt-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1108/",
+      "fetched_at": "2026-05-16T19:10:33.225Z",
+      "raw_id": "/nendoroid/details/n1108/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.586Z",
+      "raw_id": "Nendoroid/1100-1199/1108.json"
+    }
+  ]
+}

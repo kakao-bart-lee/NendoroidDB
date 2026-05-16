@@ -1,0 +1,70 @@
+{
+  "num": "1247",
+  "name": {
+    "en": "Nendoroid Thanos: Endgame Ver.",
+    "ja": "ねんどろいど サノス エンドゲームVer. (ねんどろいど さのす えんどげーむVer.)",
+    "ko": "타노스 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XpFjIhTrtdM/X4NiS-8hxlI/AAAAAAABmpo/LNU2BHk8KDgOWsEmeg2VwA_IrLDGhMX-QCLcBGAsYHQ/s270/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XpFjIhTrtdM/X4NiS-8hxlI/AAAAAAABmpo/LNU2BHk8KDgOWsEmeg2VwA_IrLDGhMX-QCLcBGAsYHQ/s270/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OX5lrvIvtGg/X4rz8zeUGGI/AAAAAAABp2U/MBFmLu7YrKQt24P9OGbHsjAkPx65OceVQCLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-y4NEEyhJpbg/X4rz9Nla0bI/AAAAAAABp2c/sbYvu-inMJojegrHPkrZee4SmbAfsMRJQCLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aclFY-c3ecE/X4rz9JFCv5I/AAAAAAABp2Y/PK41EZ0FtC8YEiQuuNXuSsGQwLa1krpIACLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qfcw7uVXqeI/X4rz9qwoDgI/AAAAAAABp2g/J_gDGVB2o9At_Xp9mXmL_9sS8HHnFq6IACLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JCNp5yfgBSc/X4rz91FN78I/AAAAAAABp2k/5zcvMmgPH88BQqb7L1IGERvgmIZBbunjQCLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SqypVw9ZI4g/X4rz-FhvmYI/AAAAAAABp2o/8d8wC3P3m-knBFroR-Y9k2J7NZD7zle2wCLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-oT1oVRXif8M/X4rz-U7zxtI/AAAAAAABp2s/iYA8RYb6jbsC1l_FYqt89gGLN-RlDzRpACLcBGAsYHQ/s135/1247-Thanos-Avengers-Endgame-Marvel-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1247/",
+      "fetched_at": "2026-05-16T19:10:33.310Z",
+      "raw_id": "/nendoroid/details/n1247/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.620Z",
+      "raw_id": "Nendoroid/1200-1299/1247.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0579",
+  "name": {
+    "en": "Nendoroid Perrine Clostermann",
+    "ja": "ねんどろいど ペリーヌ・クロステルマン (ねんどろいど ぺりーぬ・くろすてるまん)",
+    "ko": "페리느 H. 끌로스떼르망"
+  },
+  "series": {
+    "en": "Strike Witches 2",
+    "ja": "ストライクウィッチーズ2",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5407,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qxgSa793r7w/X4NOpFqCr7I/AAAAAAABlyg/36bN-Nt2GHQRATcnxYKDJFcvTYGbaHqmwCLcBGAsYHQ/s270/579-Perrine-Closermann-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qxgSa793r7w/X4NOpFqCr7I/AAAAAAABlyg/36bN-Nt2GHQRATcnxYKDJFcvTYGbaHqmwCLcBGAsYHQ/s270/579-Perrine-Closermann-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vDQrIdPIDJI/X4itVpHQedI/AAAAAAAAsWU/4wmbZUWD9902iCU2YYzd8X3T_5tHOFoQwCLcBGAsYHQ/s135/579-Perrine-Clostermann-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UoKCjt0cMU0/X4itVgoEXoI/AAAAAAAAsWY/J0oo3rm5zAMMy3gcm9xF45E_iWo4ARiAwCLcBGAsYHQ/s135/579-Perrine-Clostermann-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FMyULJ7o7Rs/X4itV0JKGwI/AAAAAAAAsWc/UrolG86qviEyv2vdeTWBDlS397bqZAb-ACLcBGAsYHQ/s135/579-Perrine-Clostermann-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-R7FOpypDjrI/X4itWjBUdrI/AAAAAAAAsWg/0pVj1bliNvgto9oMwOCpSE3tCNm5jSzRwCLcBGAsYHQ/s135/579-Perrine-Clostermann-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xXdzzWCCS14/X4itXG8JAUI/AAAAAAAAsWk/vaEQej_4ktgpMAudfcdDjzL3pp7fs6z-ACLcBGAsYHQ/s135/579-Perrine-Clostermann-Strike-Witches-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n579/",
+      "fetched_at": "2026-05-16T19:10:34.659Z",
+      "raw_id": "/nendoroid/details/n579/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.453Z",
+      "raw_id": "Nendoroid/0500-0599/579.json"
+    }
+  ]
+}

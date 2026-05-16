@@ -1,0 +1,67 @@
+{
+  "num": "0146",
+  "name": {
+    "en": "Nendoroid Haru-chan (ねんどろいど はるちゃん)",
+    "ja": "ねんどろいど 春ちゃん (ねんどろいど はるちゃん)",
+    "ko": "하루짱"
+  },
+  "series": {
+    "en": "Haru-chan's Weather Trivia",
+    "ja": "春ちゃんの気象豆知識",
+    "ko": "NHK 기상예보",
+    "code": "haru-chan-s-weather-trivia"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3027,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dc5LbfmlTWY/X4NJ-EJVaaI/AAAAAAABlQ4/V84PuP1IWc8t3GbcbeJ5VQoj4ZsIz1ZhACLcBGAsYHQ/s270/146-Haru-Chan-Weather-Tips-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dc5LbfmlTWY/X4NJ-EJVaaI/AAAAAAABlQ4/V84PuP1IWc8t3GbcbeJ5VQoj4ZsIz1ZhACLcBGAsYHQ/s270/146-Haru-Chan-Weather-Tips-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-a5DqFIng5G8/X4dS-_hVUfI/AAAAAAAAp8c/98e0HclYMfYnEr2I_4V5NOj-SSoFbPo9ACLcBGAsYHQ/s135/146-Haru-Chan-Haru-chans-Weather-Tips-Mascots-and-Celebrities-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d3bylB_oVVg/X4dS_VmIOoI/AAAAAAAAp8k/sd8l0qFJIiETMH1xSK1n8laBU7x1-S9wACLcBGAsYHQ/s135/146-Haru-Chan-Haru-chans-Weather-Tips-Mascots-and-Celebrities-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5QM5nlPlPEQ/X4dS_s7kERI/AAAAAAAAp8o/3j4WIib5hYoWNyKFUHKmCwmz4t-gUICHwCLcBGAsYHQ/s135/146-Haru-Chan-Haru-chans-Weather-Tips-Mascots-and-Celebrities-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-h_iFFdHdqng/X4dS_15K7_I/AAAAAAAAp8s/7q5BzotLy14M-et1NWqPYrX2Ct15QC3HwCLcBGAsYHQ/s135/146-Haru-Chan-Haru-chans-Weather-Tips-Mascots-and-Celebrities-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n146/",
+      "fetched_at": "2026-05-16T19:10:33.450Z",
+      "raw_id": "/nendoroid/details/n146/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.300Z",
+      "raw_id": "Nendoroid/0100-0199/146.json"
+    }
+  ]
+}

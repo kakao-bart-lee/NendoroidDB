@@ -1,0 +1,55 @@
+{
+  "num": "8339",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Sailor Girl)",
+    "ja": "ねんどろいどどーる おようふくセット(Sailor Girl) (ねんどろいどどーる おようふくせっと(せーらーがーる))",
+    "ko": "세일러 걸 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8339,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190517/8339/60240/large/a3dcca1341c8f01281a9e2198a42c383.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.937Z",
+      "raw_id": "NendoroidDoll/Clothes/8339.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "2406",
+  "name": {
+    "en": "Nashiko Jippensha",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Pon No Michi",
+    "ja": null,
+    "ko": null,
+    "code": "pon-no-michi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t_PLG3uei_8/Ziq-xYaFFNI/AAAAAAABD_0/hNkzxaEPmlkMXBc2wJo5aJ6xSM3OCObjQCNcBGAsYHQ/s270/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t_PLG3uei_8/Ziq-xYaFFNI/AAAAAAABD_0/hNkzxaEPmlkMXBc2wJo5aJ6xSM3OCObjQCNcBGAsYHQ/s270/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KI1btjC_L_E/Zow1X0DhDVI/AAAAAAABFZc/q72Gfx4P7SUVFsALZyq_gW-A7tCAf_miACNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x9wjL0hUfeU/Zow1YHvMkOI/AAAAAAABFZg/PgjObkd10JcsHasxNiHG04M_9dZveXWXACNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FbRFSNKhUtY/Zow1YymAE0I/AAAAAAABFZk/sQtwb7g6L8QwhP1syM5iEfL0D30D0JdBwCNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eOwUWrFS1PU/Zow1ZeVHHTI/AAAAAAABFZo/WORO59PVtwsl1SHMUNl1vsP0k1zn-3uhwCNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6te2sMHl-nc/Zow1aAxR7DI/AAAAAAABFZs/xD8xy8Bxr1kpjCFBOAgP8uXYJCFjecXFgCNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rxdVAx3IBrA/Zow1al8cD6I/AAAAAAABFZw/bofyMWVdmf4dNG9GgwUBkoSwa4-Nq-yHACNcBGAsYHQ/s135/2406-Nashiko-Jippensha-Pon-no-Michi-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2406/",
+      "fetched_at": "2026-05-16T19:10:34.038Z",
+      "raw_id": "/nendoroid/details/n2406/"
+    }
+  ]
+}

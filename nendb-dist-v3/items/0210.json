@@ -1,0 +1,68 @@
+{
+  "num": "0210",
+  "name": {
+    "en": "Nendoroid Yukimura Sanada (ねんどろいど さなだゆきむら)",
+    "ja": "ねんどろいど 真田幸村 (ねんどろいど さなだゆきむら)",
+    "ko": "사나다 유키무라"
+  },
+  "series": {
+    "en": "Sengoku Basara",
+    "ja": "戦国BASARA",
+    "ko": "전국 바사라",
+    "code": "sengoku-basara"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3344,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r_Mk7D2hx_w/X4NLGdzGdUI/AAAAAAABlV4/CQ_hvpFB-zApJnrb74dorOMkhSCdEUkCwCLcBGAsYHQ/s270/210-Yukimura-Sanada-Sengoku-Basara-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r_Mk7D2hx_w/X4NLGdzGdUI/AAAAAAABlV4/CQ_hvpFB-zApJnrb74dorOMkhSCdEUkCwCLcBGAsYHQ/s270/210-Yukimura-Sanada-Sengoku-Basara-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_H8f4-8panY/X4dW5z0YGSI/AAAAAAAAqVU/K5iQcoNILOw0ioUWwkL_HejFGa-OH9JbwCLcBGAsYHQ/s135/210-Yukimura-Sanada-Sengoku-BASARA-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-97x8RFWuD2U/X4dW6GcyvVI/AAAAAAAAqVY/mhWB-0dmK3Mdw9A_TTNHqNOQmGJaF8MvgCLcBGAsYHQ/s135/210-Yukimura-Sanada-Sengoku-BASARA-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0JGqPE6EX5o/X4dW6YQdVDI/AAAAAAAAqVc/9YVk936uWT4ccrBwftVYXxxpLAhgHYhjQCLcBGAsYHQ/s135/210-Yukimura-Sanada-Sengoku-BASARA-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-um_JUF2DPnc/X4dW6pSg6EI/AAAAAAAAqVg/ZrOEyLu_Qf8de3RnCFpdQqAjWUo2xXlIwCLcBGAsYHQ/s135/210-Yukimura-Sanada-Sengoku-BASARA-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3fRyhv0UBwo/X4dW67ikYrI/AAAAAAAAqVk/wAUP5cJ3XNotr4j0KSwGykRbQebjDb28gCLcBGAsYHQ/s135/210-Yukimura-Sanada-Sengoku-BASARA-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n210/",
+      "fetched_at": "2026-05-16T19:10:33.845Z",
+      "raw_id": "/nendoroid/details/n210/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.321Z",
+      "raw_id": "Nendoroid/0200-0299/210.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0400",
+  "name": {
+    "en": "Nendoroid Sakura Kinomoto (ねんどろいど きのもとさくら)",
+    "ja": "ねんどろいど 木之本桜 (ねんどろいど きのもとさくら)",
+    "ko": "키노모토 사쿠라"
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": "カードキャプターさくら",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4400,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0aZhCGmwX8c/X4NNJCtfXxI/AAAAAAABll0/jdS-plct8-YyD5Q6gWK-nkpqd5zXvwc1ACLcBGAsYHQ/s270/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0aZhCGmwX8c/X4NNJCtfXxI/AAAAAAABll0/jdS-plct8-YyD5Q6gWK-nkpqd5zXvwc1ACLcBGAsYHQ/s270/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RPAMHFYHlR8/X4db00FSqiI/AAAAAAAArT4/bUD59kvi36cv5P5ysDddYneaI6IJdWnmgCLcBGAsYHQ/s135/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jT2nvm3ZtuU/X4db0-MS1zI/AAAAAAAArUA/zRBbMpzB4BMdCLx6yO3VSlj8AmtXzCy0ACLcBGAsYHQ/s135/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gQ4dzC6tQtg/X4db0_bZUiI/AAAAAAAArT8/TJ4S4OpvJJgyXf4f4onI8-s7fv2zBfhhgCLcBGAsYHQ/s135/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LvEdZvD9tWg/X4db1DgSG7I/AAAAAAAArUE/F90YI20jTBQ9e3B9N2Y7S0M3CpPCzfNCgCLcBGAsYHQ/s135/400-Sakura-Kinomoto-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n400/",
+      "fetched_at": "2026-05-16T19:10:34.507Z",
+      "raw_id": "/nendoroid/details/n400/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.371Z",
+      "raw_id": "Nendoroid/0400-0499/400.json"
+    }
+  ]
+}

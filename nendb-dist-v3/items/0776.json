@@ -1,0 +1,68 @@
+{
+  "num": "0776",
+  "name": {
+    "en": "Nendoroid Luna Sakurakouji",
+    "ja": "ねんどろいど 桜小路ルナ (ねんどろいど さくらこうじるな)",
+    "ko": "사쿠라코우지 루나"
+  },
+  "series": {
+    "en": "Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~",
+    "ja": "月に寄りそう乙女の作法 ～ひだまりの日々～",
+    "ko": "달에 다가가는 소녀의 작법",
+    "code": "tsuki-ni-yorisou-otome-no-sahou-hidamari-no-hibi"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6451,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OzuKbjr3tDM/X4NdGhw2YLI/AAAAAAABmAQ/ehWD_RT3grodZJMVkW-v5hzpuE_PkYcFACLcBGAsYHQ/s270/776-Luna%2BSakurakouji-Hidamari%2Bno%2BHibi-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OzuKbjr3tDM/X4NdGhw2YLI/AAAAAAABmAQ/ehWD_RT3grodZJMVkW-v5hzpuE_PkYcFACLcBGAsYHQ/s270/776-Luna%2BSakurakouji-Hidamari%2Bno%2BHibi-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9tSjsoL43ig/X4i5hLqC7gI/AAAAAAAAtiA/-Ux4oUfjtVohLLCk5w8QV0tEpalLii8zQCLcBGAsYHQ/s135/776-Luna-Sakurakouji-Tsuki-ni-Yorisou-Otome-no-Sahou-Hidamari-no-Hibi-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FUEDQHYwMGo/X4i5hL_509I/AAAAAAAAtiE/fRG7amKthhsS8cekR-vOpF8Tx0dleUPpQCLcBGAsYHQ/s135/776-Luna-Sakurakouji-Tsuki-ni-Yorisou-Otome-no-Sahou-Hidamari-no-Hibi-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ews_sRlradQ/X4i5hZTX1FI/AAAAAAAAtiI/tyt0lKukIAw6clHkF4KJwyicD_bGM61UgCLcBGAsYHQ/s135/776-Luna-Sakurakouji-Tsuki-ni-Yorisou-Otome-no-Sahou-Hidamari-no-Hibi-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2AUPmKc70jo/X4i5hX4IaBI/AAAAAAAAtiM/Nv-6KKuowwcyObGTuFlz6oDM6m8kjW1xgCLcBGAsYHQ/s135/776-Luna-Sakurakouji-Tsuki-ni-Yorisou-Otome-no-Sahou-Hidamari-no-Hibi-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3JefUR2jyhk/X4i5hpJvDMI/AAAAAAAAtiQ/cjN3QbxiqNIliamn_4KmvEi5k01Vv3XlACLcBGAsYHQ/s135/776-Luna-Sakurakouji-Tsuki-ni-Yorisou-Otome-no-Sahou-Hidamari-no-Hibi-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n776/",
+      "fetched_at": "2026-05-16T19:10:34.791Z",
+      "raw_id": "/nendoroid/details/n776/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.505Z",
+      "raw_id": "Nendoroid/0700-0799/776.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "0648",
+  "name": {
+    "en": "Nendoroid Jyushimatsu Matsuno",
+    "ja": "ねんどろいど 松野十四松 (ねんどろいど まつのじゅうしまつ)",
+    "ko": "마츠노 쥬시마츠"
+  },
+  "series": {
+    "en": "Osomatsu-san",
+    "ja": "おそ松さん",
+    "ko": "오소마츠 상",
+    "code": "osomatsu-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5771,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VN8ji-OUEZ4/X4NPycFeX2I/AAAAAAABl3c/VPEtIb51hgEKoKwZI8TxGfuENULqPq9rgCLcBGAsYHQ/s270/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VN8ji-OUEZ4/X4NPycFeX2I/AAAAAAABl3c/VPEtIb51hgEKoKwZI8TxGfuENULqPq9rgCLcBGAsYHQ/s270/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-70VO4ZlJjQo/X4i0w1JD5WI/AAAAAAAAsxI/yjowOYJgMrwIK-4XV4AsurwvTOSW-E1QwCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k9eJj_cJqqY/X4i0xXWu6yI/AAAAAAAAsxM/NO3zAIGlcu0hk4xDfISlnMPm7GexlFpTQCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TkY9NdB9og4/X4i0x7vdUII/AAAAAAAAsxQ/0ASkXFufxfUWXFNWQlezWoBZ79t8oKrYACLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SBNejRtatSs/X4i0yZcG67I/AAAAAAAAsxU/248Hl7X8EsAkpfRwpumgffzK6sVilkX2wCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-F_9x25pV4JI/X4i0y7gdEHI/AAAAAAAAsxY/45BWeoxwKhs0VFO4-smBwC1zTyQyP3nVQCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lAQG7W27jcE/X4i0zVTgTHI/AAAAAAAAsxc/aCmGacb-LwIsomVlN93K5iynwNeuaGgIQCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bZO9_pokpWA/X4i0z3bdBxI/AAAAAAAAsxg/hNfHYQvmaowUecZz1tV8s4_p5XNizyQIQCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-ibTPo4perFI/X4i0wQDXdWI/AAAAAAAAsxE/by2GOFbI-aMOq1lmS03kDSxAzOPGSQukwCLcBGAsYHQ/s135/648-Jyushimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n648/",
+      "fetched_at": "2026-05-16T19:10:34.720Z",
+      "raw_id": "/nendoroid/details/n648/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.473Z",
+      "raw_id": "Nendoroid/0600-0699/648.json"
+    }
+  ]
+}

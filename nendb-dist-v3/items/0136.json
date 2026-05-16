@@ -1,0 +1,69 @@
+{
+  "num": "0136",
+  "name": {
+    "en": "Nendoroid Flandre Scarlet (ねんどろいど　ふらんどーる・すかーれっと)",
+    "ja": "ねんどろいど フランドール・スカーレット (ねんどろいど　ふらんどーる・すかーれっと)",
+    "ko": "플랑드르 스칼렛"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2973,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VcS6D7T6JgM/X4NJ45njpeI/AAAAAAABlQM/4E7i9WoBhAYcHFpPDeeKovCCk1Xf66X5gCLcBGAsYHQ/s270/136-Flandre-Scarlet-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VcS6D7T6JgM/X4NJ45njpeI/AAAAAAABlQM/4E7i9WoBhAYcHFpPDeeKovCCk1Xf66X5gCLcBGAsYHQ/s270/136-Flandre-Scarlet-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-x5xQP2mRVN0/X4dSrMxqbqI/AAAAAAAAp4c/xMrmu-r5PxgsSezPAPt92KFyRoBMFjIAgCLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-diloVzTV-mQ/X4dSrHwjlHI/AAAAAAAAp4g/-UinTo6f2VAk2LkiM2VjOwl33-3WRE60QCLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KzwwqhAKq0s/X4dSrXd0MXI/AAAAAAAAp4k/fibw0GTA9N47vFii9w6WBd9RAVyAo6whACLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-72rBFY3OnlY/X4dSrvIVP7I/AAAAAAAAp4o/0_h7wUtyydQQhYeqBN1n7HxzMH6YEje1wCLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KdtZBhdM37w/X4dSsGRXlII/AAAAAAAAp4s/mkfILbatSIk3gN-hqrDFk50lMNz4Wv8nACLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AGfiQpT-LbY/X4dSsdA7YuI/AAAAAAAAp4w/Fysl7kRKPPgrebWfPqZjh5M4t3nJktD4gCLcBGAsYHQ/s135/136-Flandre-Scarlet-Touhou-Project-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n136/",
+      "fetched_at": "2026-05-16T19:10:33.387Z",
+      "raw_id": "/nendoroid/details/n136/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.298Z",
+      "raw_id": "Nendoroid/0100-0199/136.json"
+    }
+  ]
+}

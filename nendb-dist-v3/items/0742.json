@@ -1,0 +1,70 @@
+{
+  "num": "0742",
+  "name": {
+    "en": "Nendoroid Leonardo Watch",
+    "ja": "ねんどろいど レオナルド・ウォッチ (ねんどろいど れおなるど・うぉっち)",
+    "ko": "레오나르도 워치"
+  },
+  "series": {
+    "en": "Blood Blockade Battlefront & Beyond",
+    "ja": "血界戦線 ＆ BEYOND",
+    "ko": "혈계전선",
+    "code": "blood-blockade-battlefront-beyond"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6301,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NDbGheK1WSs/X4Nc9EwSZVI/AAAAAAABl-A/o7qU3q9Rg6so7cVHRxSP5hFBL4q8klxowCLcBGAsYHQ/s270/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NDbGheK1WSs/X4Nc9EwSZVI/AAAAAAABl-A/o7qU3q9Rg6so7cVHRxSP5hFBL4q8klxowCLcBGAsYHQ/s270/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5SB_whEsbZA/X4i4l5dzzRI/AAAAAAAAtVk/J7Nycj2lq-U2Iwt0a5VswkmHDGRoF7zkgCLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vbBwO7Ux1Xs/X4i4mBxEbPI/AAAAAAAAtVo/ztKzOhlTuxULSlLrfDRgi_kauMfmcVDygCLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zj3pjf-R7Wg/X4i4mdDI5dI/AAAAAAAAtVs/gYHAXasQmVstAwxQu29j6gfdoUHPPA-dQCLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kFuweMZlzbU/X4i4mjb_hyI/AAAAAAAAtVw/ZK_gx18gwjYR7OECEHSFk4a2m_7qI8g4ACLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dxCkWzJSAEg/X4i4m78Ss6I/AAAAAAAAtV0/SobkE9bKwSUqATjiVdYOa-4JUL_8scj1ACLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Zei0K9_i6Oo/X4i4nLwDA4I/AAAAAAAAtV4/so9-cfPrBmkkapvUidDoxRylOrJ47Xd0QCLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-eVG8npFCec0/X4i4nRTe2dI/AAAAAAAAtV8/-XaRxfZDMwcGiOtd5teui72djUVYLGoPgCLcBGAsYHQ/s135/742-Leonardo-Watch-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n742/",
+      "fetched_at": "2026-05-16T19:10:34.772Z",
+      "raw_id": "/nendoroid/details/n742/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.497Z",
+      "raw_id": "Nendoroid/0700-0799/742.json"
+    }
+  ]
+}

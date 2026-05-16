@@ -1,0 +1,70 @@
+{
+  "num": "2157",
+  "name": {
+    "en": "Nendoroid Hansuke Doi",
+    "ja": "ねんどろいど 土井半助 (ねんどろいど どいはんすけ)",
+    "ko": "도이 한스케"
+  },
+  "series": {
+    "en": "Nintama Rantaro",
+    "ja": "忍たま乱太郎",
+    "ko": "닌자보이 란타",
+    "code": "nintama-rantaro"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14393,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l0i353te71o/ZIzT5eSsMKI/AAAAAAAA-Ps/wR2Gaw8IU7cXWht-ba5f2xAFmRHQVUAlgCNcBGAsYHQ/s270/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l0i353te71o/ZIzT5eSsMKI/AAAAAAAA-Ps/wR2Gaw8IU7cXWht-ba5f2xAFmRHQVUAlgCNcBGAsYHQ/s270/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L-oyY0hW-EU/ZIzV6aDTdaI/AAAAAAAA-Vg/jDQ6mZe2rMgvmmzsMjJLtx_TFui7LFJ4ACNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Bw3zf9Av3IE/ZIzV6n0KtYI/AAAAAAAA-Vk/nsqeFwKC4VcpwRM8Xt4qASmYPMv7oUMtgCNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-L6RSj8_m_TE/ZIzV6w3uDJI/AAAAAAAA-Vo/sHnNMJVhicwQYu9XGX3TjwOoVJivV9M_gCNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-miwkfEuUVmg/ZIzV7MpaVLI/AAAAAAAA-Vs/iqb9tQkb--U2Uc7z9IuNg-qkeo5CGc_XwCNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-C9RGoereT14/ZIzV7oNumxI/AAAAAAAA-Vw/opOfkYh7a_cJ5-N5HNmCXx_YzsBHYyHIwCNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1S_OhY0mTXg/ZIzV8AjfOsI/AAAAAAAA-V0/atvViQmHOwEQLR-NkiGQJRsipS9o5jqqACNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Ib2pVm27qEo/ZIzV8m1To-I/AAAAAAAA-V4/yaJrWD-CVVY_Ck4sK6lz4jT2vqTIGHbugCNcBGAsYHQ/s135/2157-Hansuke-Doi-Nintama-Rantaro-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2157/",
+      "fetched_at": "2026-05-16T19:10:33.872Z",
+      "raw_id": "/nendoroid/details/n2157/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.841Z",
+      "raw_id": "Nendoroid/2100-2199/2157.json"
+    }
+  ]
+}

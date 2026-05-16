@@ -1,0 +1,68 @@
+{
+  "num": "1614",
+  "name": {
+    "en": "Nendoroid Allen Walker",
+    "ja": "ねんどろいど アレン・ウォーカー (ねんどろいど あれん・うぉーかー)",
+    "ko": "알렌 워커"
+  },
+  "series": {
+    "en": "D.Gray-man",
+    "ja": "D.Gray-man",
+    "ko": "디그레이맨",
+    "code": "d-gray-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11097,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4k8-Par68F0/YJK31NpxbrI/AAAAAAAAxug/UaF0j-icHFM2hd_IlpnLwxXDwUx9gkj9wCLcBGAsYHQ/s270/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4k8-Par68F0/YJK31NpxbrI/AAAAAAAAxug/UaF0j-icHFM2hd_IlpnLwxXDwUx9gkj9wCLcBGAsYHQ/s270/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZtjcwgnnLfE/YJK7uXapbTI/AAAAAAAAxyM/oaoByDf4u_s3MGXPWnhZA8_KtX-QRCzbgCLcBGAsYHQ/s135/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zV7YIRp5bNY/YJK7umFEsUI/AAAAAAAAxyQ/hP8Wz7dWi2AqxIA_0O0PM9JWmtDfESKDACLcBGAsYHQ/s135/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-62uAYdydWpc/YJK7u3G2LoI/AAAAAAAAxyU/_DZtp0d7bqA_4iB4BlsNETQmp7JYRLcVgCLcBGAsYHQ/s135/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2CKTln3Eerw/YJK7u7ib7EI/AAAAAAAAxyY/jBYcnqno2ScZMXRs081u3h826230A7ATQCLcBGAsYHQ/s135/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EUyiSw6wBf0/YJK7vTya_4I/AAAAAAAAxyc/UHgoeNYluWoJ-xldGTaP7da_vG4h8kQ4gCLcBGAsYHQ/s135/1614-Allen-Walker-D.Gray-man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1614/",
+      "fetched_at": "2026-05-16T19:10:33.536Z",
+      "raw_id": "/nendoroid/details/n1614/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.708Z",
+      "raw_id": "Nendoroid/1600-1699/1614.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0999",
+  "name": {
+    "en": "Nendoroid Harry Potter",
+    "ja": "ねんどろいど ハリー・ポッター (ねんどろいど はりー・ぽったー)",
+    "ko": "해리 포터"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7629,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pfFdaaNUz6A/X4Ne_VS_zUI/AAAAAAABmQQ/xjhmZ4FINTYM-IHK-YERyYko6INhiCwagCLcBGAsYHQ/s270/999-Harry-Potter-Harry-Potter-Movies-and-TV-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pfFdaaNUz6A/X4Ne_VS_zUI/AAAAAAABmQQ/xjhmZ4FINTYM-IHK-YERyYko6INhiCwagCLcBGAsYHQ/s270/999-Harry-Potter-Harry-Potter-Movies-and-TV-1.jpg",
+      "https://1.bp.blogspot.com/-5qhZ-S5vMy4/X4rp-cHmMoI/AAAAAAABoOw/T-mLt1Ps3YUu1t9j_QfGu9o2fWjibWLyACLcBGAsYHQ/s135/999-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3j5zP3004sI/X4rp-sAHPrI/AAAAAAABoO0/j3bTcIiEDlkSJjr0_m2-G_SHMbT7JHPhACLcBGAsYHQ/s135/999-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dV4-AO2Ak3A/X4rp-_6P4BI/AAAAAAABoO4/GVXOwtuLSbIIien0XZEzACpwp5bg3UZHACLcBGAsYHQ/s135/999-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VGpxFa33sEk/X4rp_Iugd1I/AAAAAAABoO8/U23wGdj8n4MQ6hG-89MjKUiUIi_G7wb4gCLcBGAsYHQ/s135/999-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iKYwhzDJsTQ/X4rp_amA8tI/AAAAAAABoPA/11JAQDeFtfw7GVl90IgIV6ujGBpQv3UBgCLcBGAsYHQ/s135/999-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n999/",
+      "fetched_at": "2026-05-16T19:10:34.917Z",
+      "raw_id": "/nendoroid/details/n999/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.560Z",
+      "raw_id": "Nendoroid/0900-0999/999.json"
+    }
+  ]
+}

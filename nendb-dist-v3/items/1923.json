@@ -1,0 +1,68 @@
+{
+  "num": "1923",
+  "name": {
+    "en": "Nendoroid Laffey",
+    "ja": "ねんどろいど ラフィー (ねんどろいど らふぃー)",
+    "ko": "라피"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12983,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ynXgrEdlngQ/Yw_WW2oyRBI/AAAAAAAA6a4/DAbTCQZxPLkvRZe-7OLpAWOUgCA268xUgCNcBGAsYHQ/s270/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ynXgrEdlngQ/Yw_WW2oyRBI/AAAAAAAA6a4/DAbTCQZxPLkvRZe-7OLpAWOUgCA268xUgCNcBGAsYHQ/s270/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jyGxFdRGaao/YxEX1NKMNBI/AAAAAAAA6sU/W8vOd04_A4o2XAC7e5F1TMtivmluK86-ACNcBGAsYHQ/s135/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xjfmC-XjSZk/YxEX1gPAeDI/AAAAAAAA6sY/T8MMiPyhudsTY7CuX_v8Zk6L7i55S6g5wCNcBGAsYHQ/s135/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--UY7HRI1Rj8/YxEX2AOb6QI/AAAAAAAA6sc/UwkwrOUBXl8oGhe3bfqGWDEIiueIT1I7gCNcBGAsYHQ/s135/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-h4kOEeWc8Zk/YxEX2k4Z6-I/AAAAAAAA6sg/y-7MExpP1LkhCmzL2k-31ywkp4JfGax7gCNcBGAsYHQ/s135/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fSIyUXxlo-k/YxEX3IveujI/AAAAAAAA6sk/Jf0j_reoMwwck9SgnZq7L4Spyjm8hqSAACNcBGAsYHQ/s135/1923-Laffey-Azur-Lane-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1923/",
+      "fetched_at": "2026-05-16T19:10:33.733Z",
+      "raw_id": "/nendoroid/details/n1923/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.783Z",
+      "raw_id": "Nendoroid/1900-1999/1923.json"
+    }
+  ]
+}

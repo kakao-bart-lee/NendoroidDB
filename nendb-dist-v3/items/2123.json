@@ -1,0 +1,68 @@
+{
+  "num": "2123",
+  "name": {
+    "en": "Nendoroid Toriel",
+    "ja": "ねんどろいど トリエル (ねんどろいど とりえる)",
+    "ko": "토리엘"
+  },
+  "series": {
+    "en": "UNDERTALE",
+    "ja": "UNDERTALE",
+    "ko": "언더테일",
+    "code": "undertale"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14270,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SinJhoIdIzM/ZFqWawhsiBI/AAAAAAAA9zU/8x87D6TjCbUs26qRsE_OjuOqtv7WPDA_QCNcBGAsYHQ/s270/2123-Toriel-Undertale-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SinJhoIdIzM/ZFqWawhsiBI/AAAAAAAA9zU/8x87D6TjCbUs26qRsE_OjuOqtv7WPDA_QCNcBGAsYHQ/s270/2123-Toriel-Undertale-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qFdF9xybvsY/ZFqb3PaEnQI/AAAAAAAA97s/tKyg_nQJo9UI7ZvIOADNiXLUtGj2OMGyACNcBGAsYHQ/s135/2123-Toriel-Undertale-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bGgiVXguQOg/ZFqb3QPTLkI/AAAAAAAA97w/fkQgRBV0Sh0X8iNh4kZjpH7aLYK8gVbggCNcBGAsYHQ/s135/2123-Toriel-Undertale-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MlgBGuIrH-Y/ZFqb3-0b1oI/AAAAAAAA970/mvt3aUeszG8oBVqoBOvG7enVwROVgKe3gCNcBGAsYHQ/s135/2123-Toriel-Undertale-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ENNhqbMkpGs/ZFqb4R09rbI/AAAAAAAA974/odcA6eWktKUTD0-iMjEldorgvHaQbEkdQCNcBGAsYHQ/s135/2123-Toriel-Undertale-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eQSKgDgLJVw/ZFqb43S7iMI/AAAAAAAA978/inqhA7sf2AUwmS8Jb0yQaQaLK_g_NvpfgCNcBGAsYHQ/s135/2123-Toriel-Undertale-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2123/",
+      "fetched_at": "2026-05-16T19:10:33.853Z",
+      "raw_id": "/nendoroid/details/n2123/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.832Z",
+      "raw_id": "Nendoroid/2100-2199/2123.json"
+    }
+  ]
+}

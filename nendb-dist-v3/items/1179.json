@@ -1,0 +1,68 @@
+{
+  "num": "1179",
+  "name": {
+    "en": "Nendoroid Nero Claudius: Racing Ver.",
+    "ja": "ねんどろいど ネロ・クラウディウス レーシングVer. (ねんどろいど せいばー/ねろ・くらうでぃうす れーしんぐVer.)",
+    "ko": "네로 클라우디우스 레이싱 Ver."
+  },
+  "series": {
+    "en": "GOODSMILE RACING & TYPE-MOON RACING",
+    "ja": "GOODSMILE RACING ＆ TYPE-MOON RACING",
+    "ko": "페이트 시리즈",
+    "code": "goodsmile-racing-type-moon-racing"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8534,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-W9jCQn-MMak/X4Ngrx2do3I/AAAAAAABmdw/2PCGP2PFZQYMyV6Pjy5sCCOlqZz1_-xCgCLcBGAsYHQ/s270/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-W9jCQn-MMak/X4Ngrx2do3I/AAAAAAABmdw/2PCGP2PFZQYMyV6Pjy5sCCOlqZz1_-xCgCLcBGAsYHQ/s270/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EmBs9jc_6c0/X4rxbaYogqI/AAAAAAABpZ4/mf09He_rFggz7YH-IzycuVFlEKPqKhXTQCLcBGAsYHQ/s135/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OCkwZdcaJ8w/X4rxbiaa6UI/AAAAAAABpZ8/LO1Byzcqddsj9d-DoPIOVVf6Ll8oh3TMACLcBGAsYHQ/s135/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-C9EK0o2wDCs/X4rxb8FLN9I/AAAAAAABpaA/QbkO2NOOrKwFsseo8qsxP8PEjhD5xfxyQCLcBGAsYHQ/s135/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZA0mNfEkis0/X4rxcH8YJUI/AAAAAAABpaE/utNO8elKhh475edKR2kSbCmbXpbTLUEsgCLcBGAsYHQ/s135/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-teukqhsM4Qw/X4rxcaP-TqI/AAAAAAABpaI/Xou71pJMjpsOXA-lFG9TPHvFbVpzVcsDwCLcBGAsYHQ/s135/1179-Saber-Nero-Claudius-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1179/",
+      "fetched_at": "2026-05-16T19:10:33.270Z",
+      "raw_id": "/nendoroid/details/n1179/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.604Z",
+      "raw_id": "Nendoroid/1100-1199/1179.json"
+    }
+  ]
+}

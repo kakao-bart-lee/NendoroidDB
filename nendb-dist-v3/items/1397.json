@@ -1,0 +1,68 @@
+{
+  "num": "1397",
+  "name": {
+    "en": "Nendoroid Kokona Aoba",
+    "ja": "ねんどろいど 青羽ここな (ねんどろいど あおばここな)",
+    "ko": "아오바 코코나"
+  },
+  "series": {
+    "en": "Encouragement of Climb: Next Summit",
+    "ja": "ヤマノススメ Next Summit",
+    "ko": "야마노스스메",
+    "code": "encouragement-of-climb-next-summit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lJfF3KWfJHM/Yw_WI2uKvvI/AAAAAAAA6Yg/ntuH6Dybc-gB9MwmuMx0503pXj093-KLACNcBGAsYHQ/s270/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lJfF3KWfJHM/Yw_WI2uKvvI/AAAAAAAA6Yg/ntuH6Dybc-gB9MwmuMx0503pXj093-KLACNcBGAsYHQ/s270/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-smSFXXvy1Iw/YxEWSw4sDfI/AAAAAAAA6eU/MogMmLN3ibo2IfYSuBpwn9awxDdXJHiFgCNcBGAsYHQ/s135/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QqLVRDjd1-U/YxEWTBAE0zI/AAAAAAAA6eY/CM5zAu4GSbYvtGkxmFJQXvjwqK-G_tO0QCNcBGAsYHQ/s135/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FkVVcIoOGds/YxEWTbqyGFI/AAAAAAAA6ec/Cm0HJrTWGc8F0PC2uLbouqFeaU0VO-nQQCNcBGAsYHQ/s135/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-24OCBk0kSJ8/YxEWTZ04nGI/AAAAAAAA6eg/leePVAUemuUAmK8-_U9QZyHLxmFsvCovgCNcBGAsYHQ/s135/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Rx84EwGGfrc/YxEWTrRCX7I/AAAAAAAA6ek/Hdtu47F8W8wnSa0eRwE5u9zkJZWMq1m4gCNcBGAsYHQ/s135/1397-Kokona-Aoba-Encouragement-of-Climb-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1397/",
+      "fetched_at": "2026-05-16T19:10:33.406Z",
+      "raw_id": "/nendoroid/details/n1397/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.655Z",
+      "raw_id": "Nendoroid/1300-1399/1397.json"
+    }
+  ]
+}

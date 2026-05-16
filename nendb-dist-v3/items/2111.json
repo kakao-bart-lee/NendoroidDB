@@ -1,0 +1,68 @@
+{
+  "num": "2111",
+  "name": {
+    "en": "Nendoroid Yotsuba Koiwai: Winter Clothes Ver.",
+    "ja": "ねんどろいど 小岩井よつば 冬服Ver. (ねんどろいど こいわいよつば ふゆふくVer.)",
+    "ko": "코이와이 요츠바 동복 Ver."
+  },
+  "series": {
+    "en": "Yotsuba&!",
+    "ja": "よつばと！",
+    "ko": "요츠바랑!",
+    "code": "yotsuba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14194,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vllQdFpKXRE/ZIzT0XKuGVI/AAAAAAAA-O8/x_DQqdSJ-7EZLyfdzbtl8DO8yAU0RE62wCNcBGAsYHQ/s270/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vllQdFpKXRE/ZIzT0XKuGVI/AAAAAAAA-O8/x_DQqdSJ-7EZLyfdzbtl8DO8yAU0RE62wCNcBGAsYHQ/s270/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-z26j_-LTaX4/ZIzVluFeGOI/AAAAAAAA-Rw/AbuZndfqE10z1Tex9JtQWvH4V_syf2aQgCNcBGAsYHQ/s135/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pQihnfeon70/ZIzVmFzUHrI/AAAAAAAA-R0/SkYMlUB8q84OgNHDE8eO_dFKbmldJTlXQCNcBGAsYHQ/s135/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7epCTcCwRj4/ZIzVmTQPHdI/AAAAAAAA-R4/giZSU5nEPSYDfmFvc7QAk9yRCA1fEqeHACNcBGAsYHQ/s135/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ivAWAOvfZoI/ZIzVmoHgwTI/AAAAAAAA-R8/r1PxEssB-bcNWZvLRpTdRUZFygQ651vSgCNcBGAsYHQ/s135/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YphWehny9DE/ZIzVmphu6iI/AAAAAAAA-SA/CZJjZHlwkdgqb__1jgyGmkXpf2rYgN5jQCNcBGAsYHQ/s135/2111-Yotsuba-Koiwai-YOTSUBA-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2111/",
+      "fetched_at": "2026-05-16T19:10:33.846Z",
+      "raw_id": "/nendoroid/details/n2111/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.829Z",
+      "raw_id": "Nendoroid/2100-2199/2111.json"
+    }
+  ]
+}

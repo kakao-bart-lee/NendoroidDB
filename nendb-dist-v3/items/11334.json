@@ -1,0 +1,55 @@
+{
+  "num": "11334",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Rain Poncho - White)",
+    "ja": "ねんどろいどどーる おようふくセット レインポンチョ（ホワイト） (ねんどろいどどーる おようふくせっと れいんぽんちょ（ほわいと）)",
+    "ko": "우비 세트(흰색)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11334,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210610/11334/85742/large/98666f7b210b078b49e57e133b899e8e.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.917Z",
+      "raw_id": "NendoroidDoll/Clothes/11334.json"
+    }
+  ]
+}

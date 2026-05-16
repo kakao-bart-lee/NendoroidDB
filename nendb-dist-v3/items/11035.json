@@ -1,0 +1,55 @@
+{
+  "num": "11035",
+  "name": {
+    "en": "Nendoroid Doll: Kigurumi Pajamas (Rabbit - Purple)",
+    "ja": "ねんどろいどどーる きぐるみパジャマ うさぎ（むらさき） (ねんどろいどどーる きぐるみぱじゃま うさぎ（むらさき）)",
+    "ko": "키구루미 잠옷(보라색 토끼)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11035,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210406/11035/83173/large/f8b1bcd037d52822ec2d4f92ff91bb78.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.917Z",
+      "raw_id": "NendoroidDoll/Clothes/11035.json"
+    }
+  ]
+}

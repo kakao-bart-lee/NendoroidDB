@@ -1,0 +1,69 @@
+{
+  "num": "2130",
+  "name": {
+    "en": "Nendoroid Elf",
+    "ja": "ねんどろいど エルフ (ねんどろいど えるふ)",
+    "ko": "엘프"
+  },
+  "series": {
+    "en": "Uncle from Another World",
+    "ja": "異世界おじさん",
+    "ko": "이세계 삼촌",
+    "code": "uncle-from-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14320,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eqrNWJTilWo/ZFqWb5HHXTI/AAAAAAAA9zs/a9788Fpf1voS5mWBQtfdrg85dhZ7d854wCNcBGAsYHQ/s270/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eqrNWJTilWo/ZFqWb5HHXTI/AAAAAAAA9zs/a9788Fpf1voS5mWBQtfdrg85dhZ7d854wCNcBGAsYHQ/s270/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0ZJ-T4CyrDc/ZFqb9d382hI/AAAAAAAA99c/Kl4o_FsDfwE-OdE3dqwulyABnbIpgsP3gCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IFq-OtZruAI/ZFqb9g_6m5I/AAAAAAAA99k/fpWwYx0ymFwcc-NgSAgzIG1G4f_efSVwQCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M38nPgI1xjw/ZFqb9vRvTvI/AAAAAAAA99g/CVe6yKL80RcFe83JitJMSW3f28OI5PioQCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-r6NlcL_QSo4/ZFqb94WQJtI/AAAAAAAA99o/h-iVs5_3oXQ2ssBdc2SdeNOrlM7-t2UOwCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LF5Oc4il93Q/ZFqb96_ibkI/AAAAAAAA99s/cx-xIs_tzgYRukiqda5L8PdTeatqLVuWQCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0GwTiEH0tz4/ZFqb9z9ry8I/AAAAAAAA990/A7pvzyOR5RMr8v4-FdpqzrgezBxsuCQ1gCNcBGAsYHQ/s135/2130-Elf-Uncle-from-Another-World-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2130/",
+      "fetched_at": "2026-05-16T19:10:33.857Z",
+      "raw_id": "/nendoroid/details/n2130/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.833Z",
+      "raw_id": "Nendoroid/2100-2199/2130.json"
+    }
+  ]
+}

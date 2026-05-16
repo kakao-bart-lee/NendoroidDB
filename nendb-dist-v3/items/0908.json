@@ -1,0 +1,68 @@
+{
+  "num": "0908",
+  "name": {
+    "en": "Nendoroid Sakura Yae: Heretic Miko Ver.",
+    "ja": "ねんどろいど 八重桜 逆神の巫女Ver. (ねんどろいど やえさくら ぎゃくしんのみこVer.)",
+    "ko": "야에 사쿠라 역신의 무녀 Ver."
+  },
+  "series": {
+    "en": "Houkai 3rd",
+    "ja": "崩壊3rd",
+    "ko": "붕괴 3rd",
+    "code": "houkai-3rd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7153,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YsUu6uGcBeE/X4Neb4ArikI/AAAAAAABmKI/3_8homQHhhcXlKhbaHctZUHrDKLlnpWwgCLcBGAsYHQ/s270/908-Sakura-Yae-Heretic-Miko-Ver-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YsUu6uGcBeE/X4Neb4ArikI/AAAAAAABmKI/3_8homQHhhcXlKhbaHctZUHrDKLlnpWwgCLcBGAsYHQ/s270/908-Sakura-Yae-Heretic-Miko-Ver-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ds-VAu4lkJk/X4rnb0S5pvI/AAAAAAABnqU/30C0GFoYMZwvkyxAijZmR14yNB2gSSBtQCLcBGAsYHQ/s135/908-Sakura-Yae-Honkai-Impact-3rd-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T6iFPbAkY64/X4rncMdLiFI/AAAAAAABnqY/L6RLBcpay0cxfodmrZjAvb-Zg_xQ1NmuACLcBGAsYHQ/s135/908-Sakura-Yae-Honkai-Impact-3rd-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3bId3IrqPUE/X4rncTFzOtI/AAAAAAABnqc/8XV2VQU29LYr2_cun74iXxr-Ab3ixnCmACLcBGAsYHQ/s135/908-Sakura-Yae-Honkai-Impact-3rd-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3HTeIaz-hSU/X4rncj5O4vI/AAAAAAABnqg/ANg6tM1zOoYBCmfV6ggHMS46195lJ3BbgCLcBGAsYHQ/s135/908-Sakura-Yae-Honkai-Impact-3rd-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AB6e1YeUrMI/X4rnczgluqI/AAAAAAABnqk/CWz8UDGLOlcxo1zvFHatRcSLmXvQXdBkQCLcBGAsYHQ/s135/908-Sakura-Yae-Honkai-Impact-3rd-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n908/",
+      "fetched_at": "2026-05-16T19:10:34.867Z",
+      "raw_id": "/nendoroid/details/n908/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.535Z",
+      "raw_id": "Nendoroid/0900-0999/908.json"
+    }
+  ]
+}

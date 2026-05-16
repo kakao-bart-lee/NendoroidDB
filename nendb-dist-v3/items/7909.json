@@ -1,0 +1,63 @@
+{
+  "num": "7909",
+  "name": {
+    "en": "Nendoroid Doll archetype: Boy (Cream)",
+    "ja": "ねんどろいどどーる archetype：Boy（cream） (ねんどろいどどーる あーきたいぷ：ぼーい（くりーむ）)",
+    "ko": "남성(크림)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2019-12",
+      "status": "released"
+    },
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2037,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7909,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181214/7909/56837/large/d5d9bcb9c15602e5f74611b577f42000.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.909Z",
+      "raw_id": "NendoroidDoll/Body/7909.json"
+    }
+  ]
+}

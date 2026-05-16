@@ -1,0 +1,65 @@
+{
+  "num": "2204",
+  "name": {
+    "en": "Amane Kanata",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YXVOR7loreI/ZWZfhhTOHaI/AAAAAAABCa8/8zE_gmKNDaQbYWDEjesParzw01zS2KoLQCNcBGAsYHQ/s270/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YXVOR7loreI/ZWZfhhTOHaI/AAAAAAABCa8/8zE_gmKNDaQbYWDEjesParzw01zS2KoLQCNcBGAsYHQ/s270/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MNqaitp1eIo/ZWZoPwdHfrI/AAAAAAABCeI/ch3Yl85dC986OOKxJkPrKtZzT9_enA8ygCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7JxkHTmSPpQ/ZWZoP3zQbqI/AAAAAAABCeM/f_7XguvekRMMYM15t0CZmuz4OGC7oUd6QCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xnmEtABGkS8/ZWZoP8QDxVI/AAAAAAABCeE/1WuRz_p8OjwY-4_oIdlsyNjZ7nGwqzvlwCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-I4spCplm51s/ZWZoQ8Af8QI/AAAAAAABCeQ/FTW0Lv_ZU9w8J1AMRl54diMtIbdm-NHTgCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-le1TeRZVocA/ZWZoRUytHFI/AAAAAAABCeU/oeCjm8O-Aq8PfP2_ceD_S7tvxdO6hv4PgCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lhorMmOpYQQ/ZWZoR0II1GI/AAAAAAABCeY/i9jjNmZ7csAzHl4sw4ZEIzsOyGFfuAzswCNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rHq7X47b8R4/ZWZoSMKFloI/AAAAAAABCec/E7bXsdTnGpwfOWNXwiiPT6QiG-QIDN7RACNcBGAsYHQ/s135/2204-Amane-Kanata-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2204/",
+      "fetched_at": "2026-05-16T19:10:33.909Z",
+      "raw_id": "/nendoroid/details/n2204/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0832",
+  "name": {
+    "en": "Nendoroid Nana Ebina",
+    "ja": "ねんどろいど 海老名菜々 (ねんどろいど えびななな)",
+    "ko": "에비나 나나"
+  },
+  "series": {
+    "en": "Himouto Umaru-chan R",
+    "ja": "干物妹！うまるちゃんR",
+    "ko": "건어물 여동생! 우마루짱",
+    "code": "himouto-umaru-chan-r"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6800,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-a8B1XmYXzk4/X4Ndx7itSRI/AAAAAAABmEo/150c40aqAhYUEFcOXz6Ka96svTCK4f4wQCLcBGAsYHQ/s270/832-Nana-Ebina-Himouto%2521-Umaru-Chan-R-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-a8B1XmYXzk4/X4Ndx7itSRI/AAAAAAABmEo/150c40aqAhYUEFcOXz6Ka96svTCK4f4wQCLcBGAsYHQ/s270/832-Nana-Ebina-Himouto%2521-Umaru-Chan-R-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-noa7YQlWSWI/X4ripipnn3I/AAAAAAABnKo/h4dtw1u_6O4KeNVly684IScPSoRRCz8tgCLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-O_GKtthXU58/X4rip8mOklI/AAAAAAABnKs/P8OkBezx5akP_9eI6hCVdQI1EtevRBq-QCLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LlF9vIgragU/X4riqCG6y0I/AAAAAAABnKw/j-oLh2NFdEsuxeCNt602myAsAlEByJr8gCLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KpcsVeCqaAg/X4riqe2VL6I/AAAAAAABnK0/Pud58rw6lEcltTIzGr7EEQiGTjHrWxdIgCLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rmRx4wJexC4/X4riqowh7GI/AAAAAAABnK4/qHzZMgW3lOoe4SAuJlDo-UqyGV7tbhyVgCLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CJ0VI8kCUjY/X4riqp9dyFI/AAAAAAABnK8/MGT9AVkbssQuow8d6y0JoynGKS5zEfOZACLcBGAsYHQ/s135/832-Nana-Ebina-Himouto-Umaru-chan-R-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n832/",
+      "fetched_at": "2026-05-16T19:10:34.825Z",
+      "raw_id": "/nendoroid/details/n832/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.517Z",
+      "raw_id": "Nendoroid/0800-0899/832.json"
+    }
+  ]
+}

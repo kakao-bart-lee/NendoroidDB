@@ -1,0 +1,68 @@
+{
+  "num": "1552",
+  "name": {
+    "en": "Nendoroid Johnny Silverhand",
+    "ja": "ねんどろいど ジョニー・シルヴァーハンド (ねんどろいど じょにー・しるゔぁーはんど)",
+    "ko": "조니 실버핸드"
+  },
+  "series": {
+    "en": "Cyberpunk 2077",
+    "ja": "サイバーパンク2077",
+    "ko": "사이버펑크 2077",
+    "code": "cyberpunk-2077"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10667,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bgbCevVe0IM/YA2BOyDTZCI/AAAAAAAAvdU/8LXff1uBnsYEvfH_quvpU-eRJ5qpJVXHACLcBGAsYHQ/s270/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bgbCevVe0IM/YA2BOyDTZCI/AAAAAAAAvdU/8LXff1uBnsYEvfH_quvpU-eRJ5qpJVXHACLcBGAsYHQ/s270/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fprdUW73YIE/YA2EmG-kcJI/AAAAAAAAvjg/tEqIg3Qqx-Ij4gFfrVwEoRxsKG2d7ab9QCLcBGAsYHQ/s135/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6x9yX8MmeXg/YA2EmVUn9vI/AAAAAAAAvjk/j7RhWxFOJFsun7XOQQgzuw9NkrOUscXrwCLcBGAsYHQ/s135/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UqnNUSm0_oE/YA2EmoRSidI/AAAAAAAAvjo/CrLwyN3w3VwxPM3a8Q4Zl3-j3qola6j_gCLcBGAsYHQ/s135/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-om-k3YtiTJE/YA2Em32cbaI/AAAAAAAAvjs/Yg0KMXk0PVAkYziYqKXbJDrwBS_u77PdQCLcBGAsYHQ/s135/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9MXlKu0vo-A/YA2EnRK3W3I/AAAAAAAAvjw/2JFd5-faIoc8v5b-jLMWqfWdM8MrkiHPwCLcBGAsYHQ/s135/1552-Johnny-Silverhand-Cyberpunk-2077-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1552/",
+      "fetched_at": "2026-05-16T19:10:33.499Z",
+      "raw_id": "/nendoroid/details/n1552/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.693Z",
+      "raw_id": "Nendoroid/1500-1599/1552.json"
+    }
+  ]
+}

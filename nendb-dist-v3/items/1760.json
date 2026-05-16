@@ -1,0 +1,68 @@
+{
+  "num": "1760",
+  "name": {
+    "en": "Nendoroid Futaba Igarashi",
+    "ja": "ねんどろいど 五十嵐 双葉 (ねんどろいど いがらし ふたば)",
+    "ko": "이가라시 후타바"
+  },
+  "series": {
+    "en": "My Senpai Is Annoying",
+    "ja": "先輩がうざい後輩の話",
+    "ko": "선배가 짜증나는 후배이야기",
+    "code": "my-senpai-is-annoying"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12017,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iXzWr7ggKHU/Ya-zLIPOTaI/AAAAAAAA2D8/ZmhQTeU2eJIIJoGJNjQQSQy2Zw55zRzAQCNcBGAsYHQ/s270/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iXzWr7ggKHU/Ya-zLIPOTaI/AAAAAAAA2D8/ZmhQTeU2eJIIJoGJNjQQSQy2Zw55zRzAQCNcBGAsYHQ/s270/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7OcMDP9WgF0/Ya-2SIv-CpI/AAAAAAAA2Lo/Y0XFWOyv3-ENl4QE7LUrAqBLGID6DgQXQCNcBGAsYHQ/s135/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/---DuuzQ_ZD4/Ya-2SpjxXvI/AAAAAAAA2Ls/o89t6iBSoIIirbVo3t_AZbxXNddPA-h2wCNcBGAsYHQ/s135/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ifkbq3rZOYg/Ya-2Sj4OBYI/AAAAAAAA2Lw/UOeW0mXPzzUgqWB_u4IL0rEvUv4PSsIygCNcBGAsYHQ/s135/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CQZFW2aksM4/Ya-2ShrnsyI/AAAAAAAA2L0/NZT7yzaKsH0SsCI3kAWSsEs2aO8dl6-qwCNcBGAsYHQ/s135/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mPhsB3VV2LM/Ya-2TBghsmI/AAAAAAAA2L4/x4c57LLdRxQ-jsSLJ2MQ8zxdPxpstNE7ACNcBGAsYHQ/s135/1760-Futaba-Igarashi-My-Senpai-Is-Annoying-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1760/",
+      "fetched_at": "2026-05-16T19:10:33.631Z",
+      "raw_id": "/nendoroid/details/n1760/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.744Z",
+      "raw_id": "Nendoroid/1700-1799/1760.json"
+    }
+  ]
+}

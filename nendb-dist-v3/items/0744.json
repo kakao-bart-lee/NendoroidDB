@@ -1,0 +1,70 @@
+{
+  "num": "0744",
+  "name": {
+    "en": "Nendoroid Izuminokami Kanesada",
+    "ja": "ねんどろいど 和泉守兼定 (ねんどろいど いずみのかみかねさだ)",
+    "ko": "이즈미노카미 카네사다"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6294,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BMFCThVbvhE/X4Nc9WhGbyI/AAAAAAABl-I/PWYm0_w_Fec4tW2r8gXpuUeLrnpcJU3kgCLcBGAsYHQ/s270/744-Izumino-Kanesada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BMFCThVbvhE/X4Nc9WhGbyI/AAAAAAABl-I/PWYm0_w_Fec4tW2r8gXpuUeLrnpcJU3kgCLcBGAsYHQ/s270/744-Izumino-Kanesada-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fimlMYNtMLE/X4i4pDwi08I/AAAAAAAAtWU/yNGs0Ql4i5A-YyuzwJGjpxqU1YiBkRRNQCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-36hVrheeqWA/X4i4pYwjhPI/AAAAAAAAtWY/DsWGIwfWL-MBZKJd63u1GjVBELL2IlZ7wCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Hyxs2W3WB9I/X4i4pWdi1CI/AAAAAAAAtWc/ifIVRSRqpUw0RcHiwp7CnYdPnWn5VFPrgCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TgmhsuFtpj8/X4i4prWIpCI/AAAAAAAAtWg/nyqe05-yNe4ez0PoBdwGGNNfkdl02q3SgCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J8MLXBPoGgQ/X4i4p9AnWvI/AAAAAAAAtWk/n6l5lhkw-vQcnvTxh0-fwsEBUGW9XPC8ACLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uLqjsIvt4Ns/X4i4qeSbxzI/AAAAAAAAtWo/UyuXFws89Wo_z6TvIv8RQlNK8m4tDZyPgCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-J4y56hzxzrA/X4i4q3n5hMI/AAAAAAAAtWs/dAEOrZzX2LwF4KjfkRGGYWWkpkQoVP2eQCLcBGAsYHQ/s135/744-Izuminokami-Kanesada-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n744/",
+      "fetched_at": "2026-05-16T19:10:34.773Z",
+      "raw_id": "/nendoroid/details/n744/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.497Z",
+      "raw_id": "Nendoroid/0700-0799/744.json"
+    }
+  ]
+}

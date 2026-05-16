@@ -1,0 +1,69 @@
+{
+  "num": "0070",
+  "name": {
+    "en": "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)",
+    "ja": "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
+    "ko": "키구루미on쨩"
+  },
+  "series": {
+    "en": "HTB Mascot Character",
+    "ja": "HTBマスコットキャラクター",
+    "ko": "HTB마스코트 캐릭터",
+    "code": "htb-mascot-character"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2408,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oi_UuVzQlwU/X4MSDHFh2lI/AAAAAAAApa4/A5LRWl_IgGo78dyRmLv4u-c01OybCdzxwCLcBGAsYHQ/s270/070-On-Chan-HTB-Mascot-Celeberity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oi_UuVzQlwU/X4MSDHFh2lI/AAAAAAAApa4/A5LRWl_IgGo78dyRmLv4u-c01OybCdzxwCLcBGAsYHQ/s270/070-On-Chan-HTB-Mascot-Celeberity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5iBOAbflJ18/X4GwzCdj1GI/AAAAAAAApKE/hz0OHkaxGUo8xzD7iUpC1hKyTUCqf384ACLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3-rorHcEN2Q/X4GwzTWI3RI/AAAAAAAApKI/y6zUPysjgsUfDTa40SGnH4qHSlbPHJ93QCLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7YkABZwUEb8/X4GwzhCA44I/AAAAAAAApKM/HpwwwlN0sXAZ2zq8ChaebNZXDTHGCBBYwCLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HvsCpaj6sNE/X4GwzlfWcZI/AAAAAAAApKQ/ykf_keB-cMA_qtASMahaF4ySkKmoOOS6gCLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g9wjdulbMaY/X4Gwz0-6K9I/AAAAAAAApKU/Y3BRq39w4cgC3G5hOMa9STtQW9joq5aMwCLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HmowddCSp84/X4Gw0G-hgXI/AAAAAAAApKY/0uDVs1nOmlEtJY9wn7MFJ7IQdY0VvTSWwCLcBGAsYHQ/s135/070-On-Chan-HTB-Mascot-Character-Mascots-and-Celebrities-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n070/",
+      "fetched_at": "2026-05-16T19:10:33.108Z",
+      "raw_id": "/nendoroid/details/n070/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.280Z",
+      "raw_id": "Nendoroid/0000-0099/070.json"
+    }
+  ]
+}

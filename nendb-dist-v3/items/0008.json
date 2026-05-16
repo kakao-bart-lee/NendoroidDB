@@ -1,0 +1,64 @@
+{
+  "num": "0008",
+  "name": {
+    "en": "Ouka-chan",
+    "ja": "ねんどろいど オウカちゃん攻撃型武装完了Ver. (ねんどろいど おうかちゃんこうげきがたぶそうかんりょうVer.)",
+    "ko": "오우카쨩 공격형무장 완료 Ver."
+  },
+  "series": {
+    "en": "Nitroplus",
+    "ja": "ニトロウォーズ",
+    "ko": "니트로 플러스",
+    "code": "nitroplus"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3354,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kbv5E68tkQk/X4MRw6K7t3I/AAAAAAAApWw/tOu7YoF5zJ0Sa_8q1DD6EviFQxJPQ0BuACLcBGAsYHQ/s270/008-Ouka-Chan-Attack-Model-Nitroplus-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kbv5E68tkQk/X4MRw6K7t3I/AAAAAAAApWw/tOu7YoF5zJ0Sa_8q1DD6EviFQxJPQ0BuACLcBGAsYHQ/s270/008-Ouka-Chan-Attack-Model-Nitroplus-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TzH1T1C4eIw/X4GwN8STqkI/AAAAAAAAo-o/1Yk-cOEu1AAIf-dPh1QHBWxxeWTAK8fMgCLcBGAsYHQ/s135/008-Ouka-Chan-Nitroplus-Mascots-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n008/",
+      "fetched_at": "2026-05-16T19:10:33.068Z",
+      "raw_id": "/nendoroid/details/n008/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.259Z",
+      "raw_id": "Nendoroid/0000-0099/008.json"
+    }
+  ]
+}

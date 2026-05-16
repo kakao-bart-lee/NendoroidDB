@@ -1,0 +1,58 @@
+{
+  "num": "2775b",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf5DQ3s57LW0D6yvKP3Lyt1vhw-gDFtIdCdwuAtYZwmAuhESqn6JFX1hHYdyb3Km8XlPd2lKBymRv8OJuxrQy2X9UU9t9OipJBZOtBR2eM3_FfeWvqWGpfLJCFWgrxjarri7Koez_Mlxv-Nr8-hlaiWG6HCt98byCPQf20EUXQpmHY73MSnH6Btmg7eZQw/s270/2775-b-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf5DQ3s57LW0D6yvKP3Lyt1vhw-gDFtIdCdwuAtYZwmAuhESqn6JFX1hHYdyb3Km8XlPd2lKBymRv8OJuxrQy2X9UU9t9OipJBZOtBR2eM3_FfeWvqWGpfLJCFWgrxjarri7Koez_Mlxv-Nr8-hlaiWG6HCt98byCPQf20EUXQpmHY73MSnH6Btmg7eZQw/s270/2775-b-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2775b/",
+      "fetched_at": "2026-05-16T19:10:34.302Z",
+      "raw_id": "/nendoroid/details/n2775b/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1537",
+  "name": {
+    "en": "Nendoroid Kikyo",
+    "ja": "ねんどろいど 桔梗 (ねんどろいど ききょう)",
+    "ko": "금강"
+  },
+  "series": {
+    "en": "Inuyasha",
+    "ja": "犬夜叉",
+    "ko": "이누야샤",
+    "code": "inuyasha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10598,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ltd5N6bnO6I/X_N-rIabwXI/AAAAAAAAvNA/AYNJqFSuzeIPLEPm3LYShMvLeN_s44U0ACLcBGAsYHQ/s270/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ltd5N6bnO6I/X_N-rIabwXI/AAAAAAAAvNA/AYNJqFSuzeIPLEPm3LYShMvLeN_s44U0ACLcBGAsYHQ/s270/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y9hT827WwzI/X_OBcUqeq8I/AAAAAAAAvPI/A9IE19g8M6kal4yoCFZb-DUd1TNL2wmJgCLcBGAsYHQ/s135/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mvH0jfbP90k/X_OBcqluJkI/AAAAAAAAvPM/BFufW41SU9gokryx2_vaHCHfGcaMJKcQwCLcBGAsYHQ/s135/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-l3p4oTK8Cv0/X_OBczwWumI/AAAAAAAAvPQ/lvP128YCMv0xUkBFRoQLJO2CpDr2rW5EQCLcBGAsYHQ/s135/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--O1P7fK6f_0/X_OBdAn8Z4I/AAAAAAAAvPU/mhs09d33kKs8mFrWey4EgCwBzVmgomV_ACLcBGAsYHQ/s135/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_4aIBtqnia0/X_OBdTHIHaI/AAAAAAAAvPY/MnVUXGnT9cEpf4Pgp1zKJWKIfxGqxTsIwCLcBGAsYHQ/s135/1537-Kikyo-Inuyasha-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1537/",
+      "fetched_at": "2026-05-16T19:10:33.489Z",
+      "raw_id": "/nendoroid/details/n1537/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.690Z",
+      "raw_id": "Nendoroid/1500-1599/1537.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0792",
+  "name": {
+    "en": "Nendoroid Uguisumaru",
+    "ja": "ねんどろいど 鶯丸 (ねんどろいど うぐいすまる)",
+    "ko": "우구이스마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6562,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E9YJhia1YEM/X4NdK-WwmPI/AAAAAAABmBU/YGfNO7ra8V0hr0VAHgwPJtbEDZmp7lacACLcBGAsYHQ/s270/792-Uguisumaru-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E9YJhia1YEM/X4NdK-WwmPI/AAAAAAABmBU/YGfNO7ra8V0hr0VAHgwPJtbEDZmp7lacACLcBGAsYHQ/s270/792-Uguisumaru-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--r-ujGG4jI4/X4i58O4PVAI/AAAAAAAAtoo/oU13Ng-cUCccgmjrfB6NFsFmS9M0qQlmQCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XhARmAtxxo0/X4i58T3nO9I/AAAAAAAAtos/rDiAFVLBEfAwHUoKMdtIrQq9cvqeDBGrQCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VeyFeOgAoIw/X4i58u4zU4I/AAAAAAAAtow/r9qUDum5CFkX2biTDAH3d-HSXyO--AaWQCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9CtVroljetI/X4i588fsLpI/AAAAAAAAto0/ezcnAEvp8SYyKxW3HYzKcql8cfdoqG-eQCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7pnGJ95Vq6c/X4i59CtXMAI/AAAAAAAAto4/MjGu1Vynh9UuBf31FsNyHy7CxQMbNuMigCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WVKYw50MJSI/X4i59fdj2KI/AAAAAAAAto8/UG_EXAE3GbM3Si56CRShw-KccGUpsdvpgCLcBGAsYHQ/s135/792-Uguisumaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n792/",
+      "fetched_at": "2026-05-16T19:10:34.802Z",
+      "raw_id": "/nendoroid/details/n792/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.509Z",
+      "raw_id": "Nendoroid/0700-0799/792.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1098",
+  "name": {
+    "en": "Nendoroid Doremi Harukaze",
+    "ja": "ねんどろいど 春風どれみ (ねんどろいど はるかぜどれみ)",
+    "ko": "하루카제 도레미"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오자마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8137,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zLBoBtKyWjE/X4Nf9yJEo_I/AAAAAAABmXo/4F2OAn0s0BMJae5cfLAPTZXC5S7DCAj4wCLcBGAsYHQ/s270/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zLBoBtKyWjE/X4Nf9yJEo_I/AAAAAAABmXo/4F2OAn0s0BMJae5cfLAPTZXC5S7DCAj4wCLcBGAsYHQ/s270/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YwrW26o8ksM/X4rtlFhjOtI/AAAAAAABo3M/eSFiVCC6gK86Jj8vZmW-47Db7cscil9UwCLcBGAsYHQ/s135/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oZ7ZygxBEw4/X4rtlu5EMyI/AAAAAAABo3Q/sl4_B6-OGR4-0bsiua0EE39xZORVlgJZQCLcBGAsYHQ/s135/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-krfCgdOM3PI/X4rtl29bqaI/AAAAAAABo3U/BLqdag1eGrwsGmh8HpDWLx-MOV-IDkbIgCLcBGAsYHQ/s135/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bpUiH_G9wsE/X4rtmNv54PI/AAAAAAABo3Y/SKVO6uo-cgQXCPnpW5VO_aVV6WJOvRINQCLcBGAsYHQ/s135/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-r0Ue-VafM8k/X4rtmSsL4gI/AAAAAAABo3c/4x--0TCc17Ikmt5mJgA398L1wBadKjgEgCLcBGAsYHQ/s135/1098-Doremi-Harukaze-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1098/",
+      "fetched_at": "2026-05-16T19:10:33.219Z",
+      "raw_id": "/nendoroid/details/n1098/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.584Z",
+      "raw_id": "Nendoroid/1000-1099/1098.json"
+    }
+  ]
+}

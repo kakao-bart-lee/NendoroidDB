@@ -1,0 +1,55 @@
+{
+  "num": "1068-DX",
+  "name": {
+    "en": "Nendoroid Wei Wuxian DX",
+    "ja": "ねんどろいど 魏無羨 DX (ねんどろいど ぎむせん DX)",
+    "ko": "위무선 DX"
+  },
+  "series": {
+    "en": "The Master of Diabolism",
+    "ja": "アニメ「魔道祖師」",
+    "ko": "마도조사",
+    "code": "the-master-of-diabolism"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11631,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210806/11631/88556/large/799a0262cde450310cffc079a68961fd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.577Z",
+      "raw_id": "Nendoroid/1000-1099/1068-DX.json"
+    }
+  ]
+}

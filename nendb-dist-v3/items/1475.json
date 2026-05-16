@@ -1,0 +1,71 @@
+{
+  "num": "1475",
+  "name": {
+    "en": "Nendoroid NieR:Automata 2B (YoRHa No.2 Type B)",
+    "ja": "ねんどろいど NieR:Automata 2B（ヨルハ二号B型） (ねんどろいど にーあ:おーとまた とぅーびー（よるはにごうびーがた）)",
+    "ko": "YoRHa No.2 Type B(Battler)"
+  },
+  "series": {
+    "en": "NieR:Automata",
+    "ja": "NieR:Automata",
+    "ko": "니어 오토마타",
+    "code": "nier-automata"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10131,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--_AY7Uc0KlE/X4Nkq4oZE-I/AAAAAAABm8k/gIG6uCGFLIEOn-vfSlmxU4ZmksHHI-mngCLcBGAsYHQ/s270/1475-2B-NieRAutomata-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--_AY7Uc0KlE/X4Nkq4oZE-I/AAAAAAABm8k/gIG6uCGFLIEOn-vfSlmxU4ZmksHHI-mngCLcBGAsYHQ/s270/1475-2B-NieRAutomata-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5Wj_86W1C1g/X4tBZ2opvfI/AAAAAAABrEk/1j4NWMYFJf8XeKVP-2r2EQkYM-KVEscSACLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--neeUi5U-Ls/X4tBaIABRPI/AAAAAAABrEo/dUdmvCtpq_Y3satSbC1tUNCyeLITyXUwACLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z8kA4TeS6IQ/X4tBaV-pNbI/AAAAAAABrEs/ZfEvcrUM-98IbHYZcdQ9Cu3qwQJZ2DB4QCLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KP0u0hSJoAA/X4tBa3Oh1eI/AAAAAAABrEw/2lR9XUNkABEECaMEUOIqLfMFMSQRx2glwCLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nDfoZcb43xo/X4tBbHRdmFI/AAAAAAABrE0/mgaKwwyTjKUQ1hDdI8gart35kF47WUe0QCLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3Mver7hPiRA/X4tBbNEKmII/AAAAAAABrE4/BiRtb-05t_MbH7nPJOOU5jseceqj9qO1wCLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-_1-94nHca2I/X4tBbRE0SEI/AAAAAAABrE8/SJ0muq4QTOoM2AoZxVB3HyURTCWV1j-9ACLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-KKw-dbmKaI4/X4tBZkUQu9I/AAAAAAABrEg/oLpRDxX-K-IiROm9lvwUjVam9EKnTQukwCLcBGAsYHQ/s135/1475-2B-NieRAutomata-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1475/",
+      "fetched_at": "2026-05-16T19:10:33.454Z",
+      "raw_id": "/nendoroid/details/n1475/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.674Z",
+      "raw_id": "Nendoroid/1400-1499/1475.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "11352",
+  "name": {
+    "en": "Nendoroid Doll Inventor: Kanou",
+    "ja": "ねんどろいどどーる 発明家：カノウ (ねんどろいどどーる はつめいか：かのう)",
+    "ko": "발명가 카노와"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11352,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210615/11352/85908/large/cf43b5620839826ac343b04b7d586b8d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.953Z",
+      "raw_id": "NendoroidDoll/Doll/11352.json"
+    }
+  ]
+}

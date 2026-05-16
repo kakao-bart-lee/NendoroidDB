@@ -1,0 +1,70 @@
+{
+  "num": "1750",
+  "name": {
+    "en": "Nendoroid Toge Inumaki",
+    "ja": "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
+    "ko": "이누마키 토게"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11978,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TzY6O-7v6pk/Ya-zGhbh4fI/AAAAAAAA2DY/hW-X1qun7QQu3YCwmMPGq2AKSQ_nIFDMgCNcBGAsYHQ/s270/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TzY6O-7v6pk/Ya-zGhbh4fI/AAAAAAAA2DY/hW-X1qun7QQu3YCwmMPGq2AKSQ_nIFDMgCNcBGAsYHQ/s270/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PteslcKxtjQ/Ya-2G5YCCSI/AAAAAAAA2IU/euhhsCIErfgNPzSob2Q4TAFHsmfI_M4NgCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wxiDgkqTc6M/Ya-2HW5TJnI/AAAAAAAA2IY/p0JazTLrXNwbMNBl6jdL7Lg4y1ItQiRDACNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mkwe7qeh2W0/Ya-2H3AO8LI/AAAAAAAA2Ic/cDOvhAg3XbUSq3Prrp5CYHmtcKk0Pg_9gCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-njLGbBJ91hw/Ya-2IN9Ls5I/AAAAAAAA2Ig/rRCyj830t2M1WxUTLHtE7IuLE9xeHgLNgCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MWPamlF1pBI/Ya-2Ia_wOTI/AAAAAAAA2Ik/Pw8yUKPyXN4QT6j-U0Py6Q51XZwBW0l_wCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-yDQVEVEqWeo/Ya-2IX5ee5I/AAAAAAAA2Io/UkD0ewwyVmwRSvmjfs-oQ6V8_bjjpJEjgCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-1RPUuXW8z-o/Ya-2IQfvy-I/AAAAAAAA2Is/h3XveEY90mI1rZXOJepgRvW2lP-kL0nYgCNcBGAsYHQ/s135/1750-Toge-Inumaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1750/",
+      "fetched_at": "2026-05-16T19:10:33.625Z",
+      "raw_id": "/nendoroid/details/n1750/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.741Z",
+      "raw_id": "Nendoroid/1700-1799/1750.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0568",
+  "name": {
+    "en": "Nendoroid Hajime Ichinose (ねんどろいど いちのせはじめ)",
+    "ja": "ねんどろいど 一ノ瀬はじめ (ねんどろいど いちのせはじめ)",
+    "ko": "이치노세 하지메"
+  },
+  "series": {
+    "en": "Gatchaman Crowds",
+    "ja": "ガッチャマンクラウズ",
+    "ko": "갓챠맨",
+    "code": "gatchaman-crowds"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4620,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5264,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-O9RG2Lu32xU/X4NOmeKgVoI/AAAAAAABlxw/ofN65doGmdchZm4nw0Jela-cvyA-vBbbACLcBGAsYHQ/s270/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-O9RG2Lu32xU/X4NOmeKgVoI/AAAAAAABlxw/ofN65doGmdchZm4nw0Jela-cvyA-vBbbACLcBGAsYHQ/s270/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QwHh1HZDADw/X4itGNNPZFI/AAAAAAAAsSU/w0jj9ckp1-QfcyfWShc-qAROH6caKjKNACLcBGAsYHQ/s135/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TsNDw9YQ7yw/X4itGcSfaEI/AAAAAAAAsSY/mNgaS3OxIJULdZMPWHPGiXU5R0y-gSMwgCLcBGAsYHQ/s135/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VBY7zxTZCkA/X4itGn8tO0I/AAAAAAAAsSc/-sIszKllo8oMf_eEoTsQ83Xi43HGtkFcwCLcBGAsYHQ/s135/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2wDTflkmYGM/X4itG_notBI/AAAAAAAAsSg/WLtfNc_UzxoyXQsz7PENhicQQ9C85TlmQCLcBGAsYHQ/s135/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Bm8iEIUZ58w/X4itHNp6v4I/AAAAAAAAsSk/1LYTOTomzHAFOquLM27kaciFxZ_JKQIugCLcBGAsYHQ/s135/568-Hajime-Ichinose-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n568/",
+      "fetched_at": "2026-05-16T19:10:34.611Z",
+      "raw_id": "/nendoroid/details/n568/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.448Z",
+      "raw_id": "Nendoroid/0500-0599/568.json"
+    }
+  ]
+}

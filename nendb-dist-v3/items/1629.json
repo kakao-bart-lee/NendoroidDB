@@ -1,0 +1,69 @@
+{
+  "num": "1629",
+  "name": {
+    "en": "Nendoroid Qiluo Zhou: Shade Ver.",
+    "ja": "ねんどろいど キラ 暗殺者Ver. (ねんどろいど きら あんさつしゃVer.)",
+    "ko": "주기락 암살자 Ver."
+  },
+  "series": {
+    "en": "Love&Producer",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "love-producer"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11165,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bKS3-zZlbN4/YL_Ur3Vvz0I/AAAAAAAAyPM/4U3Bo72L_08mndS5HhY-b7s6nKdttCKxACLcBGAsYHQ/s270/1629-Qiluo-Zhou-Shade-Ver-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bKS3-zZlbN4/YL_Ur3Vvz0I/AAAAAAAAyPM/4U3Bo72L_08mndS5HhY-b7s6nKdttCKxACLcBGAsYHQ/s270/1629-Qiluo-Zhou-Shade-Ver-Love-and-Producer-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eedtfBKd4BA/YL_cv4zNwSI/AAAAAAAAyTU/5rQGxicysP442mOQjlqKnN7Go_Mw9IVpwCLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0_ifkec2Ygw/YL_cwLsslEI/AAAAAAAAyTY/5ucIYv1pQs8PNakFocAoNInGcYcPM7thwCLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lK0jKF_WGZs/YL_cwuUphXI/AAAAAAAAyTc/UgX6uCm_2p44NQ3B8KxOrUfTxKD_69cQACLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-q2eSwuhmGRg/YL_cw3UIMiI/AAAAAAAAyTg/66pTboL8PJwsTlQhO50ggkJ12AUpYgDnwCLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QqaPIwGUWmk/YL_cw7Uqg9I/AAAAAAAAyTk/DqLt6iKwA3spYV6DOPVDm7rXCD0kw7VZwCLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-l0SyiyqotB4/YL_cxH1tOCI/AAAAAAAAyTo/9B73g7hjCYs5rXPxeffkKgn7oK84VhIyQCLcBGAsYHQ/s135/1629-Qiluo-Zhou-Love-and-Producer-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1629/",
+      "fetched_at": "2026-05-16T19:10:33.545Z",
+      "raw_id": "/nendoroid/details/n1629/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.712Z",
+      "raw_id": "Nendoroid/1600-1699/1629.json"
+    }
+  ]
+}

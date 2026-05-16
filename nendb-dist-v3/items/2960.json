@@ -1,0 +1,65 @@
+{
+  "num": "2960",
+  "name": {
+    "en": "Minkuru",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Toei Bus",
+    "ja": null,
+    "ko": null,
+    "code": "toei-bus"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiraPnI5rxoRX0oGZTr0Qw1gOCeUq6oUdfDFDAF3ItCTmDyr-3GThw5cmYmn6e0qS1gt1wSK0qwvJhqgLyFalSclHlJ2wHwwWLS2kV2ZuQ-mil-YUQbNHKaWcrMcbsFIxBhncYE6Y8TFgqLZGdZWUUWCBnbsoJO_kXri_SsLDfnEIfbuHNRCBGjOMFVBy/s270/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiraPnI5rxoRX0oGZTr0Qw1gOCeUq6oUdfDFDAF3ItCTmDyr-3GThw5cmYmn6e0qS1gt1wSK0qwvJhqgLyFalSclHlJ2wHwwWLS2kV2ZuQ-mil-YUQbNHKaWcrMcbsFIxBhncYE6Y8TFgqLZGdZWUUWCBnbsoJO_kXri_SsLDfnEIfbuHNRCBGjOMFVBy/s270/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ1PIwnyJTphidi-CHvC0aw3ll1IsAOR81ILrE5xyIawE_29_TApZZALh4EDIsoGX8i9SFFVvvQk9ezpUIIAry34VtxXyN5-U7yGeLPoUJ7AIy0Q4n90TCCUfd6tkRlxqSvyquIs4UrzV736doYhQaQ-8DtNW-Jt5vq6QToKa8dhzB2sNlJjJVrrmovfg/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwG43U6H4nQkDPRcFC77KuFVfzLahYdq4wHx0pYJOSAzQHA8ehwoUBLB0vyb4akehyc8oTXvXMc82Aip45GSl3haK3VwJrud4ZD54i_5moBQhbRPJ15cmiLAeNyQoK91dspy3dX9c5H86swfPwfKmtictl7H3FBHx67d4SiuDv3VpSHPf6bif9U-1agmaN/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIixt7MIrR_oOkUfzkO3B0TcudTT-X6Ox3sV12HFg45B4tkaz4AKEDtoPksEgbT9mp7pJ3Rj-d9DkP1FOjx5JF9xpPDaDybiLd9_fxAozthVhbxPQ93NUs40X9C40QMFCex6IUfJeTxH3aBvhoLdmGqspa2qFUk8uQ0a4e1BVwCJnuFQpLDv9LwV8HYxnx/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2AmL1qMct2JT9k0uztuvLkvyJiWzJsjd3KnHLJ5v58pw556HKzdc2C2OrzOIoRaiXoICkgqRfIZ5js52df4SpVn31uTsaEfgdy2HzSVURvje0ykSLaLR9r9O2e_OP8TFfrABe4mq9ZG29rp_pWxi2R59FcP_3lLVVyIZOY266DXiO7IFofygogYALHL9u/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfBrM6lDcLjoh1VlUlkAzl2n1f6BGPZZ6wgjTYdr4iCQbxTXPEkyR_OyXoLK54nno0c80LLMAZ69OoFzRqWIhsW9l5MtkgzISUBetMmRP7dVzpKPaWO6K4VhhvkASJQqzUtbrkS_d_ulVuein-WSGnEN__gCRPbsoAkeu_oLCh7GjlDlvLKcDmAC05mEOC/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh21fwr_qQi8Ob2-cG57IMt3vdSC5rHpPX5r8gP2S7AMadhNirz3H94LG8i49fPtrXUx3GseC6ieeN1mXazDM3msU5pUxUPJrJaFLrOGX7dgYe8hV_LeE3L8AZJewNTY7qhvv9oNLztHpD6S3iYUSU2ssThpvRp9Wt2Yu1H0EfnvsaGaQdobIY73lKe7SlF/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh44rA7VwG8LdOzqm0ngFj4yJNzg4-2Ssxzxie4kcRdILsaKfDW9r3f_XIFK_HtEh17wTIaeDURCeVeiZOiyHdXLPI6XE7EAfqVzb_nArGa9pBAz5SFNsP2oU3D9lR_DM737_LT6L9Dz5HKq4eKVMxIptUDtH0NteM8reaVMQXVVwZlXgnl9fq-KTYoCoDX/s135/2960-Minkuru-Toei-Bus-Mascot-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2960/",
+      "fetched_at": "2026-05-16T19:10:34.406Z",
+      "raw_id": "/nendoroid/details/n2960/"
+    }
+  ]
+}

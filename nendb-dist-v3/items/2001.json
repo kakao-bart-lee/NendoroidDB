@@ -1,0 +1,67 @@
+{
+  "num": "2001",
+  "name": {
+    "en": "Nendoroid Mikasa Ackerman: The Final Season Ver.",
+    "ja": "ねんどろいど ミカサ・アッカーマン The Final Season Ver. (ねんどろいど みかさ・あっかーまん ざ ふぁいなる しーずん Ver.)",
+    "ko": "미카사 아커만 파이널 시즌 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13065,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sdNDH-xy3o0/Yw_Wh0uEJRI/AAAAAAAA6cQ/-RzqORgdBrwnSBxdDx6YpMfIblOlyOumwCNcBGAsYHQ/s270/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sdNDH-xy3o0/Yw_Wh0uEJRI/AAAAAAAA6cQ/-RzqORgdBrwnSBxdDx6YpMfIblOlyOumwCNcBGAsYHQ/s270/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FDFRz1gg1Js/YxEYvi3IZwI/AAAAAAAA61k/eG3nN6aSEbATJDJCdjVF3a5FhpN6gJBqgCNcBGAsYHQ/s135/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pSe1TiCqVMg/YxEYwBWIGEI/AAAAAAAA61o/b208lH5fJiMmxZWPNAhWFIMwcw1zgbcFACNcBGAsYHQ/s135/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iX-CBLAqntg/YxEYwX2FeSI/AAAAAAAA61s/B-AUcdKJ1-4WcMLsWhS6RVPL6nrLnTGjwCNcBGAsYHQ/s135/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_z_q_ztQ8t4/YxEYwkJrYpI/AAAAAAAA61w/quVMpUP9wJ8Q4AlQITRfGGseULvbG4B0gCNcBGAsYHQ/s135/2001-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2001/",
+      "fetched_at": "2026-05-16T19:10:33.778Z",
+      "raw_id": "/nendoroid/details/n2001/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.802Z",
+      "raw_id": "Nendoroid/2000-2099/2001.json"
+    }
+  ]
+}

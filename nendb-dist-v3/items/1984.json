@@ -1,0 +1,69 @@
+{
+  "num": "1984",
+  "name": {
+    "en": "Nendoroid Donatello",
+    "ja": "ねんどろいど ドナテロ (ねんどろいど どなてろ)",
+    "ko": "도나텔로"
+  },
+  "series": {
+    "en": "Teenage Mutant Ninja Turtles",
+    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko": "닌자 거북이",
+    "code": "teenage-mutant-ninja-turtles"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13348,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4EnNQvGCxvQ/Y9mJ4dReOtI/AAAAAAAA8eA/oQQH2xqDJDIEEN4A2oSyp9baJEvlXhQtACNcBGAsYHQ/s270/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4EnNQvGCxvQ/Y9mJ4dReOtI/AAAAAAAA8eA/oQQH2xqDJDIEEN4A2oSyp9baJEvlXhQtACNcBGAsYHQ/s270/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SVGWcVEqPg0/Y451dwxF7aI/AAAAAAAA70s/ZB23eh3uBtczaKIOjHI6fvAiu3NLNJ6AQCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DncVJmRpxKE/Y9mOr4Az7II/AAAAAAAA8gs/onjo67a6bb0orAGjTFH_piEuhUP09O0lQCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CRx6h7_it_Y/Y9mOsEo5J1I/AAAAAAAA8gw/Zb6p31KksKQVE3VibZ7cowI3q8Jho7u3wCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_ANarE8-2jg/Y9mOsXDwteI/AAAAAAAA8g0/4h5PGyB4Jzw2bGDfpSZvvNLk4z1WXJjKQCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EjJ2rcluEBA/Y9mOsRGE3TI/AAAAAAAA8g4/EIVTTqsW3NsGfnsVV3ONJVpRiAD8Ur_owCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wx1NsipTTB0/Y9mOs7pRbxI/AAAAAAAA8g8/WiQ1RcyQewcLKPoaIlVOeI-cy2qi3GMdQCNcBGAsYHQ/s135/1984-Donatello-Teenage-Mutant-Ninja-Turtles-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1984/",
+      "fetched_at": "2026-05-16T19:10:33.768Z",
+      "raw_id": "/nendoroid/details/n1984/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.798Z",
+      "raw_id": "Nendoroid/1900-1999/1984.json"
+    }
+  ]
+}

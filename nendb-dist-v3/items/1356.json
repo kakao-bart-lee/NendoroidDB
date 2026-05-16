@@ -1,0 +1,69 @@
+{
+  "num": "1356",
+  "name": {
+    "en": "Nendoroid Guido Mista",
+    "ja": "ねんどろいど グイード・ミスタ (ねんどろいど ぐいーど・みすた)",
+    "ko": "귀도 미스타"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9594,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-irrHGzDaEFk/X4Njxwq7gjI/AAAAAAABm2Q/YeSQRizSVL8b1FO6CqXVixk-M-V57RItwCLcBGAsYHQ/s270/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-irrHGzDaEFk/X4Njxwq7gjI/AAAAAAABm2Q/YeSQRizSVL8b1FO6CqXVixk-M-V57RItwCLcBGAsYHQ/s270/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yazxFROSaGM/X4s9oasN1rI/AAAAAAABqig/fmMo8V4Z58Ik96V2gVL9yRuosw3YTnSlgCLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XxwKS6z2fRM/X4s9o1CZiaI/AAAAAAABqik/sikCiymmG4soPu_kP4KZr7ZXAc72dPfvACLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iYHf1Zxn7bA/X4s9pNk-FuI/AAAAAAABqio/v6AmWCn2X_UQXSop0DBDbWIb-kiHRbg-ACLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nv5cbwWbw78/X4s9pakNVTI/AAAAAAABqis/f4uQ8tlNPgwrt1sjd6iC2bQIVf9A2Y6GgCLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ut_A_rl4zjM/X4s9pg9I9KI/AAAAAAABqiw/ecKL8_YC-skpMxGVDRZkY-vVIvOmKzJWwCLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZNTyE39yW-k/X4s9pyO9MVI/AAAAAAABqi0/1tnQqwjBECcmhMEfQahTpVPnCP0JeB-wACLcBGAsYHQ/s135/1356-Guido-Mista-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1356/",
+      "fetched_at": "2026-05-16T19:10:33.379Z",
+      "raw_id": "/nendoroid/details/n1356/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.647Z",
+      "raw_id": "Nendoroid/1300-1399/1356.json"
+    }
+  ]
+}

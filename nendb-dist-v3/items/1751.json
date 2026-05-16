@@ -1,0 +1,68 @@
+{
+  "num": "1751",
+  "name": {
+    "en": "Nendoroid Siesta",
+    "ja": "ねんどろいど シエスタ (ねんどろいど しえすた)",
+    "ko": "시에스타"
+  },
+  "series": {
+    "en": "The Detective is Already Dead",
+    "ja": "探偵はもう、死んでいる。",
+    "ko": "탐정은 이미 죽었다",
+    "code": "the-detective-is-already-dead"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12016,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zo_KfvYCxGU/Ya-zHO77OhI/AAAAAAAA2Dc/t-YH7Fc-Ii8EOKobHo0u7uuc3X36qfdAgCNcBGAsYHQ/s270/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zo_KfvYCxGU/Ya-zHO77OhI/AAAAAAAA2Dc/t-YH7Fc-Ii8EOKobHo0u7uuc3X36qfdAgCNcBGAsYHQ/s270/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2zefMgDDezQ/Ya-2IysSRXI/AAAAAAAA2I0/xkcd8plaaxQsb_Y0OosAq4J5OPgSdbUjgCNcBGAsYHQ/s135/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Yb0awSSrG0Y/Ya-2I68qfMI/AAAAAAAA2Iw/d32sswaZkpoLTTTSLvIILnbtHAD-KCn7QCNcBGAsYHQ/s135/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0KZf7Nit3Oo/Ya-2JIyD2UI/AAAAAAAA2I4/ST0Tie2a3y0mAoGr8J0K4MV49ibsi5WRgCNcBGAsYHQ/s135/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W_XRCm9CX1w/Ya-2Jd0o7EI/AAAAAAAA2I8/c39xITBvjvcBrl6M52gtb_DtYYDimul0gCNcBGAsYHQ/s135/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nMT_FWAt4jA/Ya-2JdlXT0I/AAAAAAAA2JA/lTUXi4pExHoo-pe7l6Nmcuz5_OwGgvx4wCNcBGAsYHQ/s135/1751-Siesta-The-Detective-is-Already-Dead-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1751/",
+      "fetched_at": "2026-05-16T19:10:33.625Z",
+      "raw_id": "/nendoroid/details/n1751/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.742Z",
+      "raw_id": "Nendoroid/1700-1799/1751.json"
+    }
+  ]
+}

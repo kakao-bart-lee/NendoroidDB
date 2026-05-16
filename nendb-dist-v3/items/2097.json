@@ -1,0 +1,68 @@
+{
+  "num": "2097",
+  "name": {
+    "en": "Nendoroid The Human",
+    "ja": "ねんどろいど ニンゲン (ねんどろいど にんげん)",
+    "ko": "인간"
+  },
+  "series": {
+    "en": "UNDERTALE",
+    "ja": "UNDERTALE",
+    "ko": "언더테일",
+    "code": "undertale"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14158,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OYazZ8SKDv4/ZCnVbObMW7I/AAAAAAAA9UQ/aN_JWr87OZQNLFvqP1nghM0GFXMikp3iQCNcBGAsYHQ/s270/2097-The-Human-Undertale-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OYazZ8SKDv4/ZCnVbObMW7I/AAAAAAAA9UQ/aN_JWr87OZQNLFvqP1nghM0GFXMikp3iQCNcBGAsYHQ/s270/2097-The-Human-Undertale-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R25wHS_TB38/ZCnZ2xCH31I/AAAAAAAA9YQ/Thi4H3zhXHUMFG8CCTh9u3XVWhtIhoItwCNcBGAsYHQ/s135/2097-The-Human-Undertale-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wz6R9ADdMoo/ZCnZ3coMznI/AAAAAAAA9YU/fwGcWGmYOEAglArTftnor4-2usvuWWr_wCNcBGAsYHQ/s135/2097-The-Human-Undertale-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-D2y2D_oiuGI/ZCnZ3xPfp8I/AAAAAAAA9YY/Ze-niHMmVPwzG2hXbtrnwy7e7732TH9AACNcBGAsYHQ/s135/2097-The-Human-Undertale-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wMW7ZzI11aY/ZCnZ4dm3O_I/AAAAAAAA9Yc/aCB-b97nSRgPkTSdI0T99wLPPzKD53prACNcBGAsYHQ/s135/2097-The-Human-Undertale-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gaLTd4ZXFs4/ZCnZ45GFw_I/AAAAAAAA9Yg/dYR39sxtvhoas9FhZgyBoUfYGKvAjT8swCNcBGAsYHQ/s135/2097-The-Human-Undertale-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "?",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2097/",
+      "fetched_at": "2026-05-16T19:10:33.838Z",
+      "raw_id": "/nendoroid/details/n2097/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.825Z",
+      "raw_id": "Nendoroid/2000-2099/2097.json"
+    }
+  ]
+}

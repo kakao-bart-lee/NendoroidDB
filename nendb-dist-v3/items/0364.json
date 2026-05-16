@@ -1,0 +1,69 @@
+{
+  "num": "0364",
+  "name": {
+    "en": "Nendoroid Shinku: Rozen Maiden Set",
+    "ja": "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
+    "ko": "신쿠 장미소녀 세트"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4049,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2xyPZmrTCEA/X4NM7Oj-8hI/AAAAAAABljg/J_iLpJ_TOT8l79JeHu8GLhZX9iNF_oM7ACLcBGAsYHQ/s270/364-Shinku-Rozen%2BMaiden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2xyPZmrTCEA/X4NM7Oj-8hI/AAAAAAABljg/J_iLpJ_TOT8l79JeHu8GLhZX9iNF_oM7ACLcBGAsYHQ/s270/364-Shinku-Rozen%2BMaiden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1PtXnfGm9MQ/X4dbH7piaxI/AAAAAAAArII/m7I8PAa9mSMgWYfHGLXyqsa5pSfQgm75wCLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KNOg2lSQCTc/X4dbIBeE9uI/AAAAAAAArIM/kqMIxH6moMcAE7pHK2EvsvBlQXjSObpeACLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8-jD8haQLwA/X4dbIAJOWKI/AAAAAAAArIQ/liYmOjydLhIwjHYjSe2OzXgX_r9rZi50wCLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Om-aY0ySvak/X4dbIRbxgEI/AAAAAAAArIU/SFs1YK67Z6wm9woN-MQcEPDyeWUo570GgCLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kIs1bDwXd6o/X4dbIoTDqOI/AAAAAAAArIc/HCG-o2gbWXUEZiLGDTsL5Yrs3T0Tls6vQCLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-aNj-qk8BTbM/X4dbIofd1NI/AAAAAAAArIY/EIwmCI9sDtYjiFJvZz9PBiqEyBJGKTcJACLcBGAsYHQ/s135/364-Shinku-Rozen-Maiden-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n364/",
+      "fetched_at": "2026-05-16T19:10:34.485Z",
+      "raw_id": "/nendoroid/details/n364/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.362Z",
+      "raw_id": "Nendoroid/0300-0399/364.json"
+    }
+  ]
+}

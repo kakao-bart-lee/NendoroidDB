@@ -1,0 +1,69 @@
+{
+  "num": "0271",
+  "name": {
+    "en": "Nendoroid Mirai Suenaga (ねんどろいど すえながみらい)",
+    "ja": "ねんどろいど 末永みらい (ねんどろいど すえながみらい)",
+    "ko": "스에나가 미라이"
+  },
+  "series": {
+    "en": "Culture Japan",
+    "ja": "カルチャージャパン",
+    "ko": "컬처 재팬",
+    "code": "culture-japan"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3645,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Lq-voalWLoc/X4NLW3zsUrI/AAAAAAABlZw/7XKJ9dn0lC0NA8p2eBifmrM2fNAE0H8nwCLcBGAsYHQ/s270/271-Mirai-Suenaga--Mirai-Millenium-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Lq-voalWLoc/X4NLW3zsUrI/AAAAAAABlZw/7XKJ9dn0lC0NA8p2eBifmrM2fNAE0H8nwCLcBGAsYHQ/s270/271-Mirai-Suenaga--Mirai-Millenium-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tyQDAZQYA6U/X4dYG6Vjk7I/AAAAAAAAqno/NghGm_QdViEwDaZygEUOzq6EggSqRQdSACLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gaMfNBEPNbE/X4dYG2mFYiI/AAAAAAAAqns/1dydR5_JlaAdAvacKgshNHw59Rgm-fMVACLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d1KZ93t8gNQ/X4dYHEm63fI/AAAAAAAAqnw/3uo4q6oeHYsAcXf3OJHDdn6FDBhPEvXBwCLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-H2QKp1YjGks/X4dYHpUutTI/AAAAAAAAqn0/4fVNUg7ur3Er4VqBV4a2WmZ4dJYbAaIjgCLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mSz3opAhza4/X4dYIKva6CI/AAAAAAAAqn4/HIZNx_0EFlczke0cgb0eB006WHdRgeBxACLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ieBouhVm_jg/X4dYItw-AkI/AAAAAAAAqn8/kNDlvmtpNP0pi8NWOtowTfpApEWsyvXvQCLcBGAsYHQ/s135/271-Mirai-Suenaga-Mirai-Millennium-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n271/",
+      "fetched_at": "2026-05-16T19:10:34.247Z",
+      "raw_id": "/nendoroid/details/n271/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.337Z",
+      "raw_id": "Nendoroid/0200-0299/271.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "0039",
+  "name": {
+    "en": "Nendoroid Kagamine Rin (かがみねりん ねんどろいど)",
+    "ja": "ねんどろいど 鏡音リン (かがみねりん ねんどろいど)",
+    "ko": "카가미네 린"
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Rin/Len Kagamine",
+    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-rin-len-kagamine"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 262,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kyPmkL_TMaA/X4MR5y021hI/AAAAAAAApY4/Zs_87FesNlcu6LR_of70jr6YLTzKhOsGgCLcBGAsYHQ/s270/039-Kagamine-Rin-Vocal-Series-02-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kyPmkL_TMaA/X4MR5y021hI/AAAAAAAApY4/Zs_87FesNlcu6LR_of70jr6YLTzKhOsGgCLcBGAsYHQ/s270/039-Kagamine-Rin-Vocal-Series-02-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AFdRrkogi3w/X4GwbHiAl-I/AAAAAAAApCU/Lbse13PmjJ4Y_Eho-HKIjsFO3ccV5jZugCLcBGAsYHQ/s135/039-Kagamine-Rin-Character-Vocal-Series-02-Vocaloid-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n039/",
+      "fetched_at": "2026-05-16T19:10:33.089Z",
+      "raw_id": "/nendoroid/details/n039/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.271Z",
+      "raw_id": "Nendoroid/0000-0099/039.json"
+    }
+  ]
+}

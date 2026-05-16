@@ -1,0 +1,69 @@
+{
+  "num": "0525",
+  "name": {
+    "en": "Nendoroid Kogitsunemaru (ねんどろいど こぎつねまる)",
+    "ja": "ねんどろいど 小狐丸 (ねんどろいど こぎつねまる)",
+    "ko": "코기츠네마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5028,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dLP3RtaS_f8/X4NOa-MeUvI/AAAAAAABlu8/htfixAeJl1cKFNFh36w_jwewZSxwF7MXgCLcBGAsYHQ/s270/525-Kogitsunemaru-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dLP3RtaS_f8/X4NOa-MeUvI/AAAAAAABlu8/htfixAeJl1cKFNFh36w_jwewZSxwF7MXgCLcBGAsYHQ/s270/525-Kogitsunemaru-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m5b1r23z2-o/X4isJXLyt2I/AAAAAAAAsC4/aLBU4XpM23IPvzPZLxIwdkuCa-85PfoLwCLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cv7dmeMeuyY/X4isKIgWbVI/AAAAAAAAsC8/CAD62xOxqvoUw3EyxMORcxtyFroFvPYFwCLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xZyNcofcE1I/X4isKRPcPZI/AAAAAAAAsDA/3-0zEFEl5x8xQxZUofF9r5Skns3_L9TwACLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lHkeiXokl8g/X4isKa7OF-I/AAAAAAAAsDE/YWsmTzGI77QwSpFlIHcsWH-npcPqIKl5wCLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8issr_XkTlM/X4isKoKB3PI/AAAAAAAAsDI/4fXXzlUm4DgP5GyBklm-724fnFHNA2qRQCLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3sz9nZzME54/X4isLIVGBPI/AAAAAAAAsDM/0-QRhOWhwDIr1ipmJux1hx6Z98FJcUUMQCLcBGAsYHQ/s135/525-Kogitsunemaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n525/",
+      "fetched_at": "2026-05-16T19:10:34.577Z",
+      "raw_id": "/nendoroid/details/n525/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.426Z",
+      "raw_id": "Nendoroid/0500-0599/525.json"
+    }
+  ]
+}

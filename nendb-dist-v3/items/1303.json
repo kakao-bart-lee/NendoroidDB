@@ -1,0 +1,68 @@
+{
+  "num": "1303",
+  "name": {
+    "en": "Nendoroid Rock Lee",
+    "ja": "ねんどろいど ロック・リー (ねんどろいど ろっく・りー)",
+    "ko": "록리"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9331,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7APahrh-ZDY/X4NjgS1jMGI/AAAAAAABmzA/GnFZhFVhQLkKu6ros1ZdjjiP-dCyQy5SACLcBGAsYHQ/s270/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7APahrh-ZDY/X4NjgS1jMGI/AAAAAAABmzA/GnFZhFVhQLkKu6ros1ZdjjiP-dCyQy5SACLcBGAsYHQ/s270/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gg4QoEjns9Q/X4s8bxyQQ5I/AAAAAAABqQs/CUgWhxzvcVUimA8h5RUd3y0Oz0dMa3rpwCLcBGAsYHQ/s135/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mjyF9o2ty1c/X4s8cMHBwyI/AAAAAAABqQw/rR1hNYkMkQ0d3VqgOCR5soad4ZHAQt3HwCLcBGAsYHQ/s135/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9HfUEfyzEzU/X4s8ceD8JhI/AAAAAAABqQ0/Jtbqyz1TEbU2wxAAB_KMZWmxz6-YbbduQCLcBGAsYHQ/s135/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-em6Gs_KZ9GU/X4s8cozaaTI/AAAAAAABqQ4/k5XKCJyGVQ46K0Dn3jwkx6VBc4Q3kOongCLcBGAsYHQ/s135/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-N6UI8XyUTME/X4s8dM8cqiI/AAAAAAABqQ8/Llnddk3qvMw2VW6QUOOUG1JVjAwtitB6wCLcBGAsYHQ/s135/1303-Rock-Lee-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1303/",
+      "fetched_at": "2026-05-16T19:10:33.345Z",
+      "raw_id": "/nendoroid/details/n1303/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.634Z",
+      "raw_id": "Nendoroid/1300-1399/1303.json"
+    }
+  ]
+}

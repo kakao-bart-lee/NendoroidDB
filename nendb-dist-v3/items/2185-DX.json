@@ -1,0 +1,55 @@
+{
+  "num": "2185-DX",
+  "name": {
+    "en": "Nendoroid Yamada Asaemon Sagiri DX",
+    "ja": "ねんどろいど 山田浅ェ門 佐切 DX (ねんどろいど やまだあさえもん さぎり DX)",
+    "ko": "야마다 아사에몬 사기리 DX"
+  },
+  "series": {
+    "en": "Hell's Paradise: Jigokuraku",
+    "ja": "地獄楽",
+    "ko": "지옥락",
+    "code": "hell-s-paradise-jigokuraku"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14507,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230616/14507/116646/large/00f080d9116384de9e093bed4743bc1b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.849Z",
+      "raw_id": "Nendoroid/2100-2199/2185-DX.json"
+    }
+  ]
+}

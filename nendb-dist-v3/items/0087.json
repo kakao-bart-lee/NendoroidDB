@@ -1,0 +1,68 @@
+{
+  "num": "0087",
+  "name": {
+    "en": "Nendoroid Canaan (かなん ねんどろいど)",
+    "ja": "ねんどろいど カナン (かなん ねんどろいど)",
+    "ko": "카난"
+  },
+  "series": {
+    "en": "CANAAN",
+    "ja": "CANAAN",
+    "ko": "카난",
+    "code": "canaan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2623,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WzJocy6a6N4/X4MSHzofLaI/AAAAAAAApcA/e9b0mzhT4L8NdpNc7zZT3kdw1cKDK1gqwCLcBGAsYHQ/s270/087-Canaan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WzJocy6a6N4/X4MSHzofLaI/AAAAAAAApcA/e9b0mzhT4L8NdpNc7zZT3kdw1cKDK1gqwCLcBGAsYHQ/s270/087-Canaan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zAcrxWtYf6w/X4GxGdc_tXI/AAAAAAAApPI/EN9T-Aj3N60bDwCiQfiZFb-ryum6EVWSwCLcBGAsYHQ/s135/087-Canaan-Canaan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1P2XCtxAHno/X4GxGTOzrtI/AAAAAAAApPM/NjiwsKnzz9UwfveeYeNEblYjz-N02YESgCLcBGAsYHQ/s135/087-Canaan-Canaan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cFtjkAOFOxc/X4GxGjEUNgI/AAAAAAAApPQ/ilrVqLUU6nY5k2T72g18xq9RCF2dqKwPwCLcBGAsYHQ/s135/087-Canaan-Canaan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dES4HDMrGKA/X4GxG7R2b1I/AAAAAAAApPY/i96N2RrllHslv9vF00bFWIfXESyhAiPTACLcBGAsYHQ/s135/087-Canaan-Canaan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yDrfkx0Essc/X4GxG5peqlI/AAAAAAAApPU/7ngubLbZLhEHI4QknuMm5kth2Z8ps4gvACLcBGAsYHQ/s135/087-Canaan-Canaan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n087/",
+      "fetched_at": "2026-05-16T19:10:33.119Z",
+      "raw_id": "/nendoroid/details/n087/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.284Z",
+      "raw_id": "Nendoroid/0000-0099/087.json"
+    }
+  ]
+}

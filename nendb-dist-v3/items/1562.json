@@ -1,0 +1,68 @@
+{
+  "num": "1562",
+  "name": {
+    "en": "Nendoroid Dizzy",
+    "ja": "ねんどろいど ディズィー (ねんどろいど でぃずぃー)",
+    "ko": "디지"
+  },
+  "series": {
+    "en": "GUILTY GEAR Xrd REV 2",
+    "ja": "GUILTY GEAR Xrd REV 2",
+    "ko": "길티기어",
+    "code": "guilty-gear-xrd-rev-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10807,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IHat7rHtfeg/YFXx9AGN0SI/AAAAAAAAwLY/R7hDaVAbjOYG6s3bmOiZmpjjj1SVZuRPwCLcBGAsYHQ/s270/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IHat7rHtfeg/YFXx9AGN0SI/AAAAAAAAwLY/R7hDaVAbjOYG6s3bmOiZmpjjj1SVZuRPwCLcBGAsYHQ/s270/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ywMWs-MJYpM/YD1fnefay-I/AAAAAAAAv6U/5NEt-3AdigIRbGv7PPm-PzTCAXOMjpg8ACLcBGAsYHQ/s135/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DoP3PDhhiVU/YD1fnsN-L0I/AAAAAAAAv6Y/ZfUhwnXBRaQJ-80Liz0Ua5mEY5MS-dbLgCLcBGAsYHQ/s135/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5Dmv1WflVP0/YD1foD9v3MI/AAAAAAAAv6c/9O0er97T3EAAmU-JRFBJisTfukG76g0zwCLcBGAsYHQ/s135/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wdJrgIvviOg/YD1focVBbyI/AAAAAAAAv6g/ASOh6AUp70c00BbeKnNNQrFnTjfxdTy_wCLcBGAsYHQ/s135/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hNa9VSFYMd8/YD1foUXkD8I/AAAAAAAAv6k/LpL2Y-eBLfkgdgXvb9kOo-VhZrbt2OPbACLcBGAsYHQ/s135/1562-Dizzy-Guilty-Gear-Xrd-REV-2-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1562/",
+      "fetched_at": "2026-05-16T19:10:33.506Z",
+      "raw_id": "/nendoroid/details/n1562/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.696Z",
+      "raw_id": "Nendoroid/1500-1599/1562.json"
+    }
+  ]
+}

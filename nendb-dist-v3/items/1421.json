@@ -1,0 +1,67 @@
+{
+  "num": "1421",
+  "name": {
+    "en": "Nendoroid Hunter: Male Zinogre Alpha Armor Ver.",
+    "ja": "ねんどろいど ハンター♂ ジンオウα Ver. (ねんどろいど はんたー♂ じんおうα Ver.)",
+    "ko": "헌터♂ 진오우α Ver."
+  },
+  "series": {
+    "en": "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world-iceborne"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9814,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XWUbHVRGvnQ/X4NkeD6_LrI/AAAAAAABm5s/OTuWr0REmDEIHmmN-MHFfcPWv30dH951gCLcBGAsYHQ/s270/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XWUbHVRGvnQ/X4NkeD6_LrI/AAAAAAABm5s/OTuWr0REmDEIHmmN-MHFfcPWv30dH951gCLcBGAsYHQ/s270/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JedWA1G2pN4/X4tAS7M-B_I/AAAAAAABq0A/-HPA_qt6DQcsH-GHOTg1EqeS5fMmsH0oACLcBGAsYHQ/s135/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R1RrxGBSoZU/X4tATNsbLZI/AAAAAAABq0E/se36eG4s8d4zQ6uh50PhJIplsID4w62DACLcBGAsYHQ/s135/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Tlsy8DmTRB8/X4tATRdAtlI/AAAAAAABq0I/zQioJOxb8vI--W2ehB2JT_PMI-3qSfHggCLcBGAsYHQ/s135/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EtIfCvha2CA/X4tATrfCMPI/AAAAAAABq0M/k65SOEEJUCwWID_jLql29fgm3l3EvWKKACLcBGAsYHQ/s135/1421-Hunter-Male-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1421/",
+      "fetched_at": "2026-05-16T19:10:33.420Z",
+      "raw_id": "/nendoroid/details/n1421/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.661Z",
+      "raw_id": "Nendoroid/1400-1499/1421.json"
+    }
+  ]
+}

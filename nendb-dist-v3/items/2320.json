@@ -1,0 +1,64 @@
+{
+  "num": "2320",
+  "name": {
+    "en": "Patrick Star",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "SpongeBob SquarePants",
+    "ja": null,
+    "ko": null,
+    "code": "spongebob-squarepants"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wUxa9_Wyn8A/ZWZfs7LnzDI/AAAAAAABCc4/mBC17su1cvQRGKqG0XjZ1uGHDarGEGjRQCNcBGAsYHQ/s270/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wUxa9_Wyn8A/ZWZfs7LnzDI/AAAAAAABCc4/mBC17su1cvQRGKqG0XjZ1uGHDarGEGjRQCNcBGAsYHQ/s270/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EMMqvQ9XtIg/ZWZpRswvMOI/AAAAAAABCo0/ooRRIvetqogqYB3miiAVr_l6JWXoYyBZgCNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-soRsXp8H65I/ZWZpSMo4DXI/AAAAAAABCo4/7fQjtAPReuM6-_DPSV7NmqhKgeLr6rfJACNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mfPJIIRw1SY/ZWZpaAxg0dI/AAAAAAABCp4/ugB6zzV6JsAyzUEhhW48P-GsFWrLfUs8ACNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5KeD3-aaP9w/ZWZpTOXQQsI/AAAAAAABCo8/jU5ulRICvR8VofgUtzMF8_Fd5ITKMqiBACNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Zs9f4krgqO4/ZWZpTsEGE5I/AAAAAAABCpE/Wgui3JYE3HQVuWrvRF4zrymw8IoIzPjXACNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vq0n5bfgOi8/ZWZpTp68cLI/AAAAAAABCpA/NOi1ufXD8kQiJr4_bagwIQcFXLmxQLlRACNcBGAsYHQ/s135/2320-Patrick-Star-SpongeBob-SquarePants-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2320/",
+      "fetched_at": "2026-05-16T19:10:33.985Z",
+      "raw_id": "/nendoroid/details/n2320/"
+    }
+  ]
+}

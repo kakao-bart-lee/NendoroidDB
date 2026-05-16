@@ -1,0 +1,68 @@
+{
+  "num": "0536b",
+  "name": {
+    "en": "Nendoroid Akira Oono: TV Animation Ver.",
+    "ja": "ねんどろいど 大野晶 TV Animation Ver. (ねんどろいど おおのあきら TV Animation Ver.)",
+    "ko": "오오노 아키라 TV Animation Ver."
+  },
+  "series": {
+    "en": "HIGH SCORE GIRL",
+    "ja": "ハイスコアガール",
+    "ko": "하이스코어 걸",
+    "code": "high-score-girl"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7474,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-u7vk7fprCpQ/X4NOeI7071I/AAAAAAABlvs/ZMViT-SJ0rkhN4DnTunDxPlcqlNn9iVigCLcBGAsYHQ/s270/536b-Akira-Oono-TV-Animation-Ver-High-Score-Girl-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-u7vk7fprCpQ/X4NOeI7071I/AAAAAAABlvs/ZMViT-SJ0rkhN4DnTunDxPlcqlNn9iVigCLcBGAsYHQ/s270/536b-Akira-Oono-TV-Animation-Ver-High-Score-Girl-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_i6tPYH5CTM/X4iscdQoX5I/AAAAAAAAsHI/J_xf2f-jm_8-ap0XuqLZZtPp20EuEtYxQCLcBGAsYHQ/s135/536B-Oona-Akira-High-Score-Girl-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_McBS-AllzE/X4isdE1RtLI/AAAAAAAAsHM/jAmSai2XvFwXc8yPdW8agm-5JxzmjMBfQCLcBGAsYHQ/s135/536B-Oona-Akira-High-Score-Girl-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7qRi8zPeilw/X4isdrnvi4I/AAAAAAAAsHQ/WCcQBLNpkoIyWho3JHGs1T6mqX3YsdWNACLcBGAsYHQ/s135/536B-Oona-Akira-High-Score-Girl-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nHgE3of8F6E/X4iseJAEeuI/AAAAAAAAsHU/WbZf8Pm7AnIo9_t4fgP5T9OV3-7tQM1kgCLcBGAsYHQ/s135/536B-Oona-Akira-High-Score-Girl-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GjJKirgph9Q/X4isengi4yI/AAAAAAAAsHY/Fl9ce1fcnsUsx3hEkGZEZatEBIjxgwL5QCLcBGAsYHQ/s135/536B-Oona-Akira-High-Score-Girl-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n536b/",
+      "fetched_at": "2026-05-16T19:10:34.585Z",
+      "raw_id": "/nendoroid/details/n536b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.434Z",
+      "raw_id": "Nendoroid/0500-0599/536b.json"
+    }
+  ]
+}

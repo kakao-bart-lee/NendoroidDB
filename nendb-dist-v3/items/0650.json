@@ -1,0 +1,67 @@
+{
+  "num": "0650",
+  "name": {
+    "en": "Nendoroid Ruler/Jeanne d'Arc",
+    "ja": "ねんどろいど ルーラー/ジャンヌ・ダルク (ねんどろいど るーらー/じゃんぬ・だるく)",
+    "ko": "룰러/잔 다르크"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5766,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gLuyjTbJKaA/X4NPyj3964I/AAAAAAABl3k/_mZPp8I6Jd07VK8PJfWUtFC6kCHuQMvgACLcBGAsYHQ/s270/650-Ruler-Jeanne-d-Arc-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gLuyjTbJKaA/X4NPyj3964I/AAAAAAABl3k/_mZPp8I6Jd07VK8PJfWUtFC6kCHuQMvgACLcBGAsYHQ/s270/650-Ruler-Jeanne-d-Arc-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lkYq7YofPrg/X4i02UwPyEI/AAAAAAAAsyE/kJizExx4gSonAipIuFsnOppRvkBb7DXxACLcBGAsYHQ/s135/650-Ruler-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mLAlLByTkwU/X4i02wVR8AI/AAAAAAAAsyI/r2EDXkgQIqIzAEeM34yFBi3yLSfItnvSACLcBGAsYHQ/s135/650-Ruler-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PB4zY-7Dbis/X4i03VSlwjI/AAAAAAAAsyM/SN6jq3STwt8suDQcEh-0GUAFMrdFmuiyQCLcBGAsYHQ/s135/650-Ruler-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-INrfBg6rmdw/X4i04OVBKxI/AAAAAAAAsyQ/f2vnjCDR4e8cNMdZWz23NyJlHFYrgK1-ACLcBGAsYHQ/s135/650-Ruler-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n650/",
+      "fetched_at": "2026-05-16T19:10:34.721Z",
+      "raw_id": "/nendoroid/details/n650/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.474Z",
+      "raw_id": "Nendoroid/0600-0699/650.json"
+    }
+  ]
+}

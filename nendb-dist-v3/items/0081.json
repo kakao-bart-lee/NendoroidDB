@@ -1,0 +1,70 @@
+{
+  "num": "0081",
+  "name": {
+    "en": "Nendoroid Drössel (どろっせる ねんどろいど)",
+    "ja": "ねんどろいど ドロッセル (どろっせる ねんどろいど)",
+    "ko": "드롯셀"
+  },
+  "series": {
+    "en": "Fireball",
+    "ja": "ファイアボール",
+    "ko": "파이어볼",
+    "code": "fireball"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2541,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-77xV4TBzc2A/X4MSF927_-I/AAAAAAAApbs/khhqXdiMvbceayxs84SIoh3Einhj3xSoACLcBGAsYHQ/s270/081-Drossel-Fireball-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-77xV4TBzc2A/X4MSF927_-I/AAAAAAAApbs/khhqXdiMvbceayxs84SIoh3Einhj3xSoACLcBGAsYHQ/s270/081-Drossel-Fireball-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DaFL-FtcKjs/X4Gw_1AWWII/AAAAAAAApNM/qDEPOcZ2gCgVLf99BDbApw6aSj9KDqIjACLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iDp2MXPhqws/X4Gw_6v7coI/AAAAAAAApNU/7csA3fyJR44XtVWH3lqQi_rvknhTP_0JwCLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pcdETAROJKc/X4Gw_yiLWOI/AAAAAAAApNQ/BKGb0c4NbWElA698KS4XyGbo5mcOzeIoQCLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y9kxfTEJ9r8/X4GxAbRgejI/AAAAAAAApNY/vGf_oKtONiQ3HY1IBaG4MljKYZmbLjJkACLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fs4BxjoSOt0/X4GxASoYlfI/AAAAAAAApNc/TXKPOhm7S5c-DTYkw9m937ZefvBlwH2EACLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bVVFU4OHg_g/X4GxAnmtFQI/AAAAAAAApNg/IhkYVoaoRE007Ak2D-IFh2er9QA_dMgmwCLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bL_S5AunuIM/X4GxA93jIGI/AAAAAAAApNk/Awj8e8caMooHHeiZ95B-xUDJ--1in6PdwCLcBGAsYHQ/s135/081-Dr%25C3%25B6ssel-Fireball-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n081/",
+      "fetched_at": "2026-05-16T19:10:33.115Z",
+      "raw_id": "/nendoroid/details/n081/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.283Z",
+      "raw_id": "Nendoroid/0000-0099/081.json"
+    }
+  ]
+}

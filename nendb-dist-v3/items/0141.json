@@ -1,0 +1,67 @@
+{
+  "num": "0141",
+  "name": {
+    "en": "Nendoroid Youmu Konpaku (ねんどろいど こんぱくようむ)",
+    "ja": "ねんどろいど 魂魄妖夢 (ねんどろいど こんぱくようむ)",
+    "ko": "콘파쿠 요우무"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JsbIY218ypM/X4NJ66Ds3-I/AAAAAAABlQg/cGgAWNGZgjMsd52vpR-UAUZDf5nmINu6QCLcBGAsYHQ/s270/141-Konpaku-Youmu-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JsbIY218ypM/X4NJ66Ds3-I/AAAAAAABlQg/cGgAWNGZgjMsd52vpR-UAUZDf5nmINu6QCLcBGAsYHQ/s270/141-Konpaku-Youmu-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-W-7tSc2dOck/X4dS1p6EXrI/AAAAAAAAp6w/dG2QGVQsSpAzTHuh6MJD6KpIgY8bfoYYQCLcBGAsYHQ/s135/141-Konpaku-Youmu-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Uol4YLq-6Lc/X4dS1uQGp-I/AAAAAAAAp60/g1WCEXwM0WUx2iJCYoMCOA-KlXoxVqbbACLcBGAsYHQ/s135/141-Konpaku-Youmu-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VnST3DEe3J0/X4dS2AuhwYI/AAAAAAAAp64/Q1dfJXHKw2c2bDJR69iLiIbz-bnMoFr5gCLcBGAsYHQ/s135/141-Konpaku-Youmu-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PBhPOlgoL1k/X4dS2ZhlbpI/AAAAAAAAp68/STdpEEKUmA0zKz7ZZWTYgUkOnLfLrdj3QCLcBGAsYHQ/s135/141-Konpaku-Youmu-Touhou-Project-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n141/",
+      "fetched_at": "2026-05-16T19:10:33.419Z",
+      "raw_id": "/nendoroid/details/n141/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.299Z",
+      "raw_id": "Nendoroid/0100-0199/141.json"
+    }
+  ]
+}

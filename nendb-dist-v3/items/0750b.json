@@ -1,0 +1,69 @@
+{
+  "num": "0750b",
+  "name": {
+    "en": "Nendoroid Kirito: Ordinal Scale Ver.",
+    "ja": "ねんどろいど キリト オーディナル・スケール Ver. (ねんどろいど きりと おーでぃなる・すけーる Ver.)",
+    "ko": "키리토 오디널 스케일 Ver."
+  },
+  "series": {
+    "en": "Sword Art Online The Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-the-movie-ordinal-scale"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dHQ1P1UXFno/X4Nc_P-Mf0I/AAAAAAABl-k/ClVmHqKA9SAcTxYk1BdXim2BOhgo0ZNrQCLcBGAsYHQ/s270/750b-Kirito-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dHQ1P1UXFno/X4Nc_P-Mf0I/AAAAAAABl-k/ClVmHqKA9SAcTxYk1BdXim2BOhgo0ZNrQCLcBGAsYHQ/s270/750b-Kirito-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qM1ZlNUTMmU/X4i4zsGGmeI/AAAAAAAAtZA/GcQ48AaoGb48xPmi9KRHgSOzkqh-P668QCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Gn4IlLhI7qM/X4i4z18_hDI/AAAAAAAAtZE/lY-f4cb3Q4QG12Int_6Mxvr68cFLGrFggCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mIOnURioq5g/X4i4z50lfQI/AAAAAAAAtZI/RznKE8myNC47j_3RG4auSuXSEAUID7-6QCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dc2K4KPK_wU/X4i40UYyvEI/AAAAAAAAtZM/dYHASD1IBugd2OrRzXMQOPNlTGooWQA4wCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SSvEb0YyO34/X4i40bk8KGI/AAAAAAAAtZQ/Td4GOq_53rAwUp4We9RVWJ9uQJrdvG9XQCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ybpRuTgIoUM/X4i40nGLStI/AAAAAAAAtZU/Roz7WWT1dmA2ZKa626Yqo8BQwA-xMWJRwCLcBGAsYHQ/s135/750B-Kirito-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n750b/",
+      "fetched_at": "2026-05-16T19:10:34.776Z",
+      "raw_id": "/nendoroid/details/n750b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.499Z",
+      "raw_id": "Nendoroid/0700-0799/750b.json"
+    }
+  ]
+}

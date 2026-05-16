@@ -1,0 +1,71 @@
+{
+  "num": "0668",
+  "name": {
+    "en": "Nendoroid Tora",
+    "ja": "ねんどろいど とら",
+    "ko": "토라"
+  },
+  "series": {
+    "en": "Ushio and Tora",
+    "ja": "うしおととら",
+    "ko": "요괴소년 호야",
+    "code": "ushio-and-tora"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7590,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5899,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-K8r6XFJUTlU/X4NP6OMFkHI/AAAAAAABl4s/5rFA8_zgMissUMWswHINyuFs-DCb4my2ACLcBGAsYHQ/s270/668-Tora-Ushio%2Band%2BTora-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-K8r6XFJUTlU/X4NP6OMFkHI/AAAAAAABl4s/5rFA8_zgMissUMWswHINyuFs-DCb4my2ACLcBGAsYHQ/s270/668-Tora-Ushio%2Band%2BTora-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6BCEe2B8yXc/X4i1dpOUMrI/AAAAAAAAs4k/BYQw8p3NEzcfp-yAq8ZOlk-46HLMEfd9gCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3vonoxHTszM/X4i1eNNUF2I/AAAAAAAAs4o/e9HkV3RFflgMfCaQFvHSv4FaHF-MbeTpgCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_pLFDvTLvnM/X4i1ehhvQGI/AAAAAAAAs4s/TwE6wjwevJgMHo4rEFtMN7Wad6-QHnPmACLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hk_KuIk_4HQ/X4i1fGnONxI/AAAAAAAAs4w/YlyThVb7D7QgY53C6Fd-7D0p2dzX1Z81gCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wmNzR5f3_K4/X4i1fgkKxwI/AAAAAAAAs40/QcZLMHLCaisc_nx8NnfR5oEDNqEAcP3LACLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-MoaTNWcC-U8/X4i1f_6OLpI/AAAAAAAAs44/5GNLNZNC8xs9F-zjyjIxcfqtsqzT4OVLwCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-c8p_go0soCs/X4i1gKV3JdI/AAAAAAAAs48/ZOkQHshZQPE6Hcruwuzb3-sWSsx5VdZsgCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-OIxaiL6Mlnw/X4i1dGKI-iI/AAAAAAAAs4g/mvYNDgYKIfcsVhqlGJKLBTKfJOeSb3cUQCLcBGAsYHQ/s135/668-Tora-Ushio-and-Tora-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n668/",
+      "fetched_at": "2026-05-16T19:10:34.732Z",
+      "raw_id": "/nendoroid/details/n668/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.479Z",
+      "raw_id": "Nendoroid/0600-0699/668.json"
+    }
+  ]
+}

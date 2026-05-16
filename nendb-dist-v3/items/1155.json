@@ -1,0 +1,69 @@
+{
+  "num": "1155",
+  "name": {
+    "en": "Nendoroid Giorno Giovanna",
+    "ja": "ねんどろいど ジョルノ・ジョバァーナ (ねんどろいど じょるの・じょばぁーな)",
+    "ko": "죠르노 죠바나"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "ja": "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-golden-wind"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8432,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LBoeL_GhxhA/X4NghJiAMtI/AAAAAAABmcE/KMY1QwXMi7EerbcHbYveH2rHOGCwD805QCLcBGAsYHQ/s270/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LBoeL_GhxhA/X4NghJiAMtI/AAAAAAABmcE/KMY1QwXMi7EerbcHbYveH2rHOGCwD805QCLcBGAsYHQ/s270/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rOQPtg1akDI/X4rwvDZmc_I/AAAAAAABpQI/-_5duyy3pmAjv0QxaMGwuaNGKgByvAyhwCLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R2Il14_OIb8/X4rwvTwLv1I/AAAAAAABpQM/U9XW3MavRdctseN80PAFc5g_XHwqEF5AgCLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dyB_gL6BAdo/X4rwvo-lwXI/AAAAAAABpQQ/de2f5GN_zzwbYczVr9QaECOV-TSL46FJACLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-30T9eVtmZAA/X4rwv2Ydt0I/AAAAAAABpQU/LR1Zh8vfqgUfQYOfpnjOsRMNIg0Vb1s8gCLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OzfS0qNPiJI/X4rwwXzmqtI/AAAAAAABpQY/cNrBF0ExRQQsMBUmWAK0ZjRXyUkbvXsLgCLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7u79TVfDxJw/X4rww_CBaiI/AAAAAAABpQc/SrES1GPbe3wJZWaN5eJI5YrCpkNPWCjiQCLcBGAsYHQ/s135/1155-Giorno-Giovanna-JoJos-Bizarre-Adventure-Golden-Wind-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1155/",
+      "fetched_at": "2026-05-16T19:10:33.256Z",
+      "raw_id": "/nendoroid/details/n1155/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.598Z",
+      "raw_id": "Nendoroid/1100-1199/1155.json"
+    }
+  ]
+}

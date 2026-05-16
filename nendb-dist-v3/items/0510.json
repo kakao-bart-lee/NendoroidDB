@@ -1,0 +1,67 @@
+{
+  "num": "0510",
+  "name": {
+    "en": "Nendoroid Umi Sonoda (ねんどろいど そのだうみ)",
+    "ja": "ねんどろいど 園田海未 (ねんどろいど そのだうみ)",
+    "ko": "소노다 우미"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4886,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oGoeq7w7Zww/X4NOVze_GPI/AAAAAAABlt4/k-4sOGFwqGQt9vcpFZhaz8N42kGfeN78wCLcBGAsYHQ/s270/510-Sonoda-Umi-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oGoeq7w7Zww/X4NOVze_GPI/AAAAAAABlt4/k-4sOGFwqGQt9vcpFZhaz8N42kGfeN78wCLcBGAsYHQ/s270/510-Sonoda-Umi-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pJBzzRk1dJw/X4ir09jsgsI/AAAAAAAAr9s/W1QYsIhFbtkNTf95w1wmD3hOojclr4PXACLcBGAsYHQ/s135/510-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ByLoooIsPNA/X4ir03qQtZI/AAAAAAAAr9w/Ow48VybUhq8sF0iQe-RhWUVLebqVa08HQCLcBGAsYHQ/s135/510-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BLL4vrCQ80M/X4ir02Wo_kI/AAAAAAAAr90/OR94jGH0IacqnYKC_ewiCcKgDu1E-pBvQCLcBGAsYHQ/s135/510-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q2RZ2gOz_tI/X4ir1mBl_HI/AAAAAAAAr94/DlhZPBQWQ-Mzdn2Z-ATP7L7aTWheeXLfwCLcBGAsYHQ/s135/510-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n510/",
+      "fetched_at": "2026-05-16T19:10:34.569Z",
+      "raw_id": "/nendoroid/details/n510/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.416Z",
+      "raw_id": "Nendoroid/0500-0599/510.json"
+    }
+  ]
+}

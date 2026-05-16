@@ -1,0 +1,55 @@
+{
+  "num": "0600",
+  "name": {
+    "en": "Nendoroid Saber/Altria Pendragon",
+    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン (ねんどろいど せいばー/あるとりあ・ぺんどらごん)",
+    "ko": "세이버/알트리아 펜드래곤"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5721,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20160607/5721/39463/large/2902ca2dd9351546729b6941a1fa5cd2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.459Z",
+      "raw_id": "Nendoroid/0600-0699/600.json"
+    }
+  ]
+}

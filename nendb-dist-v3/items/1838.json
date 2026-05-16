@@ -1,0 +1,71 @@
+{
+  "num": "1838",
+  "name": {
+    "en": "Nendoroid Starscream",
+    "ja": "ねんどろいど スタースクリーム (ねんどろいど すたーすくりーむ)",
+    "ko": "스타스크림"
+  },
+  "series": {
+    "en": "Transformers",
+    "ja": "トランスフォーマー",
+    "ko": "트랜스포머",
+    "code": "transformers"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12421,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ValjBN0jcO4/YliMjC2T2aI/AAAAAAAA5Lw/8h9-Yl1pn_0Nj88HYIPjs1FVkzRLM2f1gCNcBGAsYHQ/s270/1838-Starscream-Transformers-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ValjBN0jcO4/YliMjC2T2aI/AAAAAAAA5Lw/8h9-Yl1pn_0Nj88HYIPjs1FVkzRLM2f1gCNcBGAsYHQ/s270/1838-Starscream-Transformers-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XoaOJkoiqJA/YliVc1mY8YI/AAAAAAAA5UI/p0Zd3Q8U5Bopr65a3aXIXMqBaNyLJEM5QCNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RmemOW7XCAk/YliVdcSk-GI/AAAAAAAA5UM/IG23qYTWQjo-GAtKyveB-Jmjp2eUPyCOACNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N5HAeuZVRjI/YliVd5GK65I/AAAAAAAA5UQ/fLv6jp45bxI_in2V_HIu_mq4-mmx3fArQCNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1lFMRVoIdt4/YliVeaUVxNI/AAAAAAAA5UU/E6saetw6508yEgVv6BMhlF33IMOFQbo_QCNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MV61Jgko5Cs/YliVekY4viI/AAAAAAAA5UY/dii9tOSbL40dnqrGy3N31NzCJs8rWgTiACNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DsXgzSbVjiE/YliVew1CMXI/AAAAAAAA5Uc/pbrlHnf_YNwZmg8NCVQtNqNTwyd-mPp3wCNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-0sB1QZEuhTU/YliVfIdCc7I/AAAAAAAA5Ug/2ZySnSiKicE6z1ImmC44mM-3wyu6FVUAACNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-LVh9SFYBwI8/YliVcUkb9mI/AAAAAAAA5UE/URzVfzygCLkJeS-8U48tvaccgC-q9eDtwCNcBGAsYHQ/s135/1838-Starscream-Transformers-Others-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1838/",
+      "fetched_at": "2026-05-16T19:10:33.679Z",
+      "raw_id": "/nendoroid/details/n1838/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.764Z",
+      "raw_id": "Nendoroid/1800-1899/1838.json"
+    }
+  ]
+}

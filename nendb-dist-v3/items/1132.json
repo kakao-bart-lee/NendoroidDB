@@ -1,0 +1,68 @@
+{
+  "num": "1132",
+  "name": {
+    "en": "Nendoroid Hazuki Fujiwara",
+    "ja": "ねんどろいど 藤原はづき (ねんどろいど ふじわらはづき)",
+    "ko": "후지와라 하즈키"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오자마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8310,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-d-uTscNbbsw/X4NgZaHvMyI/AAAAAAABmag/q39AYn1uTI4ZTp_1QKvIJer_u_NdvJEKgCLcBGAsYHQ/s270/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-d-uTscNbbsw/X4NgZaHvMyI/AAAAAAABmag/q39AYn1uTI4ZTp_1QKvIJer_u_NdvJEKgCLcBGAsYHQ/s270/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RniiLuIlQww/X4rwIFsN5BI/AAAAAAABpGs/IgdirPHbK507AK8cTB3DWTLeiBhjn8KkACLcBGAsYHQ/s135/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rRTzFrncS8Q/X4rwIXwO0yI/AAAAAAABpGw/wEKp-GoqxnoEVXAPt36Jzi6cs7xTZHBSwCLcBGAsYHQ/s135/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--ME6BULdlOQ/X4rwIn5XuII/AAAAAAABpG0/41Fv_LYb3ZQ2aJL9h0ATwXDEQoQlq-J9QCLcBGAsYHQ/s135/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aQRjbpXaEy8/X4rwI5FLKHI/AAAAAAABpG4/GG-KvbceSPw1CCiiPaXiHfoWFsgh8cRhACLcBGAsYHQ/s135/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-63Kw4Hpeu7c/X4rwJIAs2XI/AAAAAAABpG8/62GmGT__4o4uVijzmDtY-YgTMdDcj2KzwCLcBGAsYHQ/s135/1132-Hazuki-Fujiwara-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1132/",
+      "fetched_at": "2026-05-16T19:10:33.241Z",
+      "raw_id": "/nendoroid/details/n1132/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.592Z",
+      "raw_id": "Nendoroid/1100-1199/1132.json"
+    }
+  ]
+}

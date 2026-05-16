@@ -1,0 +1,68 @@
+{
+  "num": "1725",
+  "name": {
+    "en": "Nendoroid Liscia Elfrieden",
+    "ja": "ねんどろいど リーシア・エルフリーデン (ねんどろいど りーしあ・えるふりーでん)",
+    "ko": "리시아 엘프리덴"
+  },
+  "series": {
+    "en": "How a Realist Hero Rebuilt the Kingdom",
+    "ja": "現実主義勇者の王国再建記",
+    "ko": "현실주의 용사의 왕국 재건기",
+    "code": "how-a-realist-hero-rebuilt-the-kingdom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11723,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ABTZRV1r9kE/YWSHg_YjVzI/AAAAAAAA0_w/zsfZaN-PxR4_o46TpGAQqla3gEFts5pgwCLcBGAsYHQ/s270/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ABTZRV1r9kE/YWSHg_YjVzI/AAAAAAAA0_w/zsfZaN-PxR4_o46TpGAQqla3gEFts5pgwCLcBGAsYHQ/s270/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ya_7M9TLSsA/YWSa8iLB1PI/AAAAAAAA1JU/bjZy1eocjz4RhTywT0a8mjkcdOI7m8yhQCLcBGAsYHQ/s135/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FJOVf4QRlcs/YWSa9FDybWI/AAAAAAAA1JY/N6HcTgOBNKEhp762ND23ohSwq0x2XDzEgCLcBGAsYHQ/s135/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aMe1YkHHAYc/YWSa9i2fLRI/AAAAAAAA1Jc/BeV5T2GJV-4m8cQ2QBfQ_lOodM13UExgACLcBGAsYHQ/s135/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-r4tkkTZEz_I/YWSa-C7q8qI/AAAAAAAA1Jg/_MXSlJebShkXi-LUlwymoZfBYcxPHMPtACLcBGAsYHQ/s135/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_4wq86fKoiE/YWSa-aVDD7I/AAAAAAAA1Jk/vQM9zLtFMpUHcOaYl1nPVwPxWX3R7v-RACLcBGAsYHQ/s135/1725-Liscia-Elfrieden-How-a-Realist-Hero-Rebuilt-the-Kingdom-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1725/",
+      "fetched_at": "2026-05-16T19:10:33.609Z",
+      "raw_id": "/nendoroid/details/n1725/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.736Z",
+      "raw_id": "Nendoroid/1700-1799/1725.json"
+    }
+  ]
+}

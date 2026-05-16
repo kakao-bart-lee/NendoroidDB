@@ -1,0 +1,59 @@
+{
+  "num": "8659",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Café - Boy)",
+    "ja": "ねんどろいどどーる おようふくセット（カフェ：Boy） (ねんどろいどどーる おようふくせっと（かふぇ：ぼーい）)",
+    "ko": "카페 보이 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8659,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190806/8659/62677/large/a01f26332cd2b10cefd1b1dde892639b.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.939Z",
+      "raw_id": "NendoroidDoll/Clothes/8659.json"
+    }
+  ]
+}

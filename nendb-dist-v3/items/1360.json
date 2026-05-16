@@ -1,0 +1,68 @@
+{
+  "num": "1360",
+  "name": {
+    "en": "Nendoroid Sakura Amamiya",
+    "ja": "ねんどろいど 天宮さくら (ねんどろいど あまみやさくら)",
+    "ko": "아마미야 사쿠라"
+  },
+  "series": {
+    "en": "Sakura Wars",
+    "ja": "新サクラ大戦",
+    "ko": "신 사쿠라 대전",
+    "code": "sakura-wars"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9618,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-i4On6fKnqgo/X4Njy5VCOKI/AAAAAAABm2g/zcGEbo3OYF8LnbFUI_djbBq9iuRPZxo6wCLcBGAsYHQ/s270/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i4On6fKnqgo/X4Njy5VCOKI/AAAAAAABm2g/zcGEbo3OYF8LnbFUI_djbBq9iuRPZxo6wCLcBGAsYHQ/s270/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8HFmjuZSL4E/X4s9u53DQCI/AAAAAAABqkE/5PTlbAlHrbMrxAuWltgfxR9fcVIj_FnrgCLcBGAsYHQ/s135/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ks808bvdRZo/X4s9vC2WH_I/AAAAAAABqkI/zO0lkPiWDBUasp3UoHHpx13pqzmkCsQYwCLcBGAsYHQ/s135/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SdZJVdFCaOE/X4s9vRwKu3I/AAAAAAABqkM/Gf9QwTKWtbQNQ84qZvxTi8gpsasGMX3bwCLcBGAsYHQ/s135/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T_J-MPoaVRA/X4s9vg0zvWI/AAAAAAABqkQ/o_rbFsTOj7QnVDJsQCqsXl-txC_fDSp1wCLcBGAsYHQ/s135/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EeKm0mzyFCs/X4s9v9dLuMI/AAAAAAABqkU/bifP4tuV5ogye7gy5rWE5n9mcsf2GMUQwCLcBGAsYHQ/s135/1360-Sakura-Amamiya-Sakura-Wars-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1360/",
+      "fetched_at": "2026-05-16T19:10:33.381Z",
+      "raw_id": "/nendoroid/details/n1360/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.647Z",
+      "raw_id": "Nendoroid/1300-1399/1360.json"
+    }
+  ]
+}

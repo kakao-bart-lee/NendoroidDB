@@ -1,0 +1,69 @@
+{
+  "num": "2607",
+  "name": {
+    "en": "Blade",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Honkai: Star Rail",
+    "ja": null,
+    "ko": null,
+    "code": "honkai-star-rail"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRjTZIWEn2Hs9X2rAzP_370cfi6g9uD4uFouBkGD0WBEvqdHTIsOKnJ60J9ElYZfkz2Yp6ii7ffHzoTYfxLTxhxn0vq0CLKV3Ml-4zo_k3f45KVzPRtES2KucJFKdEzq6KrbQToEYCqfQgq3FUpl9g75J-5PYAhQ0S83CKQg0VE4-Gq0qx0u20osIc2PT/s270/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRjTZIWEn2Hs9X2rAzP_370cfi6g9uD4uFouBkGD0WBEvqdHTIsOKnJ60J9ElYZfkz2Yp6ii7ffHzoTYfxLTxhxn0vq0CLKV3Ml-4zo_k3f45KVzPRtES2KucJFKdEzq6KrbQToEYCqfQgq3FUpl9g75J-5PYAhQ0S83CKQg0VE4-Gq0qx0u20osIc2PT/s270/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj__wxsTbTBd6jCXU6bBFAIdEDk9kqo5pVLJhHGGDV5cnUwrDdUEoL2gQKx9fNa89f40ZqtmDtcj97G5TXgc5gpYik6BN6im_LWSCQymk3qOr5mcj-3qiw5XTSKHsUPXctDZk8Xx9BJTkbOjWiRlBlNX2GObNqB1c8-7d2MNBvF9a_Uvq1U1VlN1jBDRIB6/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgns0ZZB1rmZN_-dlD3vJhzp0iD19MaeAayR7tiIREf4k68aJ0M7fd2Cev5CyESALtL_2GUppq88IGlhzjl4xkaVPmH_nIDqRmECjZL0T5bcwCsMokSPI8R7JzcIqgkaKS_t5bzVz0KDhVulQ_Uu0nXsf8GaPjH8BSzo26tugSjG8WbQO66Y5zofj63-LbW/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAEKouS7gQXWsHGqXPz6BX3cWZauaAbmkI9W1rh6Ihds5tyGjdD9Kx5Cgm8v8R1qRasQu-Ig78SjXVpp9_waaBnxxhSxgYLomp0IxpLTeLjLGcse-Pyz1gwnCSWv6jshdeRBVLUaqvi9OQBXNVXlcZyd3cn2uCnvFSjp1GpUu11LH_lkU3uALLVH_d1Nk9/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg87yvztxDWFmSrVVKbTCFrAIyA5SPgl1UNxNGnfN92Za3f4c_QXb9zzqoBPQ7LzEtBZjuJY9OmQnejejar5yvS44xrhWArn3q5XX3vHET9ZJe2kQTpmnqwlAtmcxAeVHUfD0lFBRz7Pyos9PI_EPCuynN_6NFPsEIuVcWraQQip0nPsoKYPRskpee-X67s/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKbgxgWL-KgZGbgsmPynzXr1qwqbnEVRX-RlenKK67vj4P6BAkY6IB7vwq0yu5u6UaVKs854uW_qGEcp3wANh8Rx-OMOk9ME7KwIdPP_pL7fMsqjJSr3mn3tMgvOZnH3AVBfrczLoYa1SM16DOY5TMM426f9g1xiomj30z_05Dp8vQKO-Z7oKSGicRXY2-/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho5QR9EMKvi91lO207DIVeLeYv1WuhdFJ9laAKsvAV68LPFHKH11sQCm8yzMIn7vCQ2fdlT53EvjI5HsI2uR-BGCHIRAZ3z6iYjoJsQY1idIUwpgK49EEUdQOikbmrYj36Vls14Hh24hk2EqVWtm_M3GUy4g60aDnuDHsl-hkA79naWoD86nsUj2ACcXeQ/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIYnZmR4VcOIwRmm4ewG-nJeAWHxRK7leN62z9_LtzOxtpy6ss2f0U9KTy3MJu1eiAE1dgePQDZAMGl7k1IconAeabA-JIydTTyc914_ZIG_I7G9KCdtvRf6nzfD5YdnXHzHDRmYpceFsK51UIe7kx2_hk_zDcg9-wDy-oqjuWo3sdIHrLBIhsJlBNKJP/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBpV3EYvW-pcEzJkzP-RMbC2Jr2Li2zZBOdkoEaJSdd7tab8uqh7dUMGmwcj9tf0VGoJgGhsYx_TYPKznnc2UeFYm-B4xr-kAr3BNVBulL_UDBlzHiZsoQGbaOX6d6Fb-xYRLcHAzE2T6AK9tDQVw8YZvTLAFhia7loQHBtxWxg12EdLlQW0GkRbhLMlBM/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHYymgHox8RZfm05j0_bfGz7PK8aFdKHWrrHn8PNRUq4xTzofvAqqxaHcuSiuz_SvpOHV-ax8UXj7QiXLc9rc3FdB5Ol2zDeR3deO_Z_FLPjhsdZFueIL4QjkFHQ0fR8xKrHvEYImOKBbDfCHkCoYH0LV5LhDO-aD3q3msamxuS2infUn9LJEu9-GUnmz/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQGR3iznmkEzeCAFfx5n-fkLbXQGUUuRP8Wg0DJoo3OKzZ5DpX_TpyccuFv4cnkvl5t26PQv3ffXH8pQlYoRjf2McKo4va1oUt1r9Bz_Ivv3KL7_zcl0ebKYKmbmvKfZwD8uaIqnBXYmExB1dw_l_yilIoboVH3dvTq-nw1wIEymFN5YZeMvxq-RtlIXV4/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-12.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRUyizZMmDgEeQBAJD1253cCD1Qp9eXARYFFMsP-sV7dDnEy2bPzjrF6vFpX0Dvh2pwgaHNo7_m3sjIEbmIsuTVkNa8zDUubrIA9memFSAlTX7gt5YEDUuxwuPEjSi45L4fYFOwJBAo34XidAczTRcExLJzh1Z8aVkoIvPk7N5heBKUbcoJmELTG25YYn9/s135/2607-Blade-Honkai-Star-Rail-Video-Games-Nendoroid-13.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2607/",
+      "fetched_at": "2026-05-16T19:10:34.163Z",
+      "raw_id": "/nendoroid/details/n2607/"
+    }
+  ]
+}

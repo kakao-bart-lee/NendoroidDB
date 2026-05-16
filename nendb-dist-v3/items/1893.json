@@ -1,0 +1,68 @@
+{
+  "num": "1893",
+  "name": {
+    "en": "Nendoroid Reiner Braun",
+    "ja": "ねんどろいど ライナー・ブラウン (ねんどろいど らいなー・ぶらうん)",
+    "ko": "라이너 브라운"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CvSaamvgsE4/Yw_WLSxQecI/AAAAAAAA6ZM/DWgAKIH8X_oYx7groCxXALAyPxhAVrBVQCNcBGAsYHQ/s270/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CvSaamvgsE4/Yw_WLSxQecI/AAAAAAAA6ZM/DWgAKIH8X_oYx7groCxXALAyPxhAVrBVQCNcBGAsYHQ/s270/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dyIjC5vOouo/YxEWuX6dW7I/AAAAAAAA6i4/xF2dIJvI6pI588eVFpE1ow0uVNaULTUngCNcBGAsYHQ/s135/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_cfiW_yTg4g/YxEWu-IbCMI/AAAAAAAA6i8/sWpGpX-gR5MFMTLA5FZWw8EDOyRHcfdTwCNcBGAsYHQ/s135/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KrgpIFgQSqQ/YxEWvX9UQOI/AAAAAAAA6jA/NRJD0BROvWA5u7n_3lBxIwQUnQwToA02gCNcBGAsYHQ/s135/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iWBGi5SE8RE/YxEWv_US4fI/AAAAAAAA6jE/y4slXxndmK4JPyWgRW2aosqibxVru1k3ACNcBGAsYHQ/s135/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JGi5IlXNTbI/YxEWwVPmCWI/AAAAAAAA6jI/L6lsdoAlR9wGFdiqGGpNmQ0u3E6FwDRiQCNcBGAsYHQ/s135/1893-Reiner-Braun-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1893/",
+      "fetched_at": "2026-05-16T19:10:33.714Z",
+      "raw_id": "/nendoroid/details/n1893/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.776Z",
+      "raw_id": "Nendoroid/1800-1899/1893.json"
+    }
+  ]
+}

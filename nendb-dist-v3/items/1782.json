@@ -1,0 +1,68 @@
+{
+  "num": "1782",
+  "name": {
+    "en": "Nendoroid Snowmage",
+    "ja": "ねんどろいど 雪だるまメイジちゃん (ねんどろいど ゆきだるまめいじちゃん)",
+    "ko": "눈사람 마법사"
+  },
+  "series": {
+    "en": "Dungeon Fighter Online",
+    "ja": "アラド戦記",
+    "ko": "던전 앤 파이터",
+    "code": "dungeon-fighter-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12082,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-N-ibVBnEJ8w/YdGwRaRVhEI/AAAAAAAA2eI/sJXwk5jR34QeX5uUtxrwbgwYBhu_a6epwCNcBGAsYHQ/s270/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-N-ibVBnEJ8w/YdGwRaRVhEI/AAAAAAAA2eI/sJXwk5jR34QeX5uUtxrwbgwYBhu_a6epwCNcBGAsYHQ/s270/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sgCU2UrSAl0/YdGzYKG0N6I/AAAAAAAA2iE/1XrMQwShJ0I6ye3kSC7W0Bc5EHcqgKg_gCNcBGAsYHQ/s135/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uOJ0kuT3AeE/YdGzYfnTO4I/AAAAAAAA2iI/YDcIZkJ52MUgQQoBI4xruuWYf5mJFoi5gCNcBGAsYHQ/s135/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9p-R-K8Ihmg/YdGzYSi1ERI/AAAAAAAA2iM/LCURqVIl0PMYOw6nWhJ-mzCVRnS4RIS-wCNcBGAsYHQ/s135/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qFLmDRC2hHE/YdGzYtH8U_I/AAAAAAAA2iQ/pacEPcQu_OcbYmTQXYWPafxKLOiDJbx9ACNcBGAsYHQ/s135/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YbL60G7zgik/YdGzY-NOSlI/AAAAAAAA2iU/eo6MNBTSySgnotIgvGyHOSAX33AsX6vwgCNcBGAsYHQ/s135/1782-Snowmage-Dungeon-Fighter-Online-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1782/",
+      "fetched_at": "2026-05-16T19:10:33.644Z",
+      "raw_id": "/nendoroid/details/n1782/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.749Z",
+      "raw_id": "Nendoroid/1700-1799/1782.json"
+    }
+  ]
+}

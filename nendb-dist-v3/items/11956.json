@@ -1,0 +1,55 @@
+{
+  "num": "11956",
+  "name": {
+    "en": "Nendoroid Doll Lucien: If Time Flows Back Ver.",
+    "ja": "ねんどろいどどーる シモン 似水年華Ver. (ねんどろいどどーる しもん しすいねんかVer.)",
+    "ko": "허묵"
+  },
+  "series": {
+    "en": "Mr Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11956,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211101/11956/91625/large/4f1458193bb1285a51d3b52791da26ab.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.956Z",
+      "raw_id": "NendoroidDoll/Doll/11956.json"
+    }
+  ]
+}

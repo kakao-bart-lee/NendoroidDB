@@ -1,0 +1,97 @@
+{
+  "num": "1935",
+  "name": {
+    "en": "Nendoroid Marin Kitagawa",
+    "ja": "ねんどろいど 喜多川海夢 (ねんどろいど きたがわまりん)",
+    "ko": "키타가와 마린"
+  },
+  "series": {
+    "en": "My Dress-Up Darling",
+    "ja": "その着せ替え人形（ビスク・ドール）は恋をする",
+    "ko": "그 비스크 돌은 사랑을 한다",
+    "code": "my-dress-up-darling"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580828663015",
+  "gsc_product_id": "10754",
+  "gsc_product_num": 13069,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/10754",
+    "ja": "https://www.goodsmile.com/ja/product/10754"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/10754/edf6ef0c3a0093d651b2fbc1d1d45a78.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Auz-rNveSGg/Yw_Wb8Ng39I/AAAAAAAA6bg/cA55AHcL9jI6AXd_VoSOZzhv5IGlHwYuACNcBGAsYHQ/s270/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sko34RKVAtg/YxEYRerMoRI/AAAAAAAA6v8/c_tmw6pBcMsSicaXTnGyQ4_LgpLr45O6QCNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-riX8oAqMiXE/YxEYRtA4jsI/AAAAAAAA6wA/BT2E7Mh28SwVLWt1CoiqWEHPY9m4s-CEgCNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-paCmHNbEdVQ/YxEYRynPzHI/AAAAAAAA6wE/VvfIpy7fH8EWK74rQFXo29Gs6YbR83jmACNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8dRFcVpcw9M/YxEYSbI_YhI/AAAAAAAA6wI/xXpM8kg8oGgAGmZH87zSvJgmDjUixCi-wCNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_Ula8AbuLLs/YxEYSwp5SDI/AAAAAAAA6wM/PIJZSpp7I-44o_CfyYZyoCegiKKzpuQqgCNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-69LAlG9OSK8/YxEYTYI23hI/AAAAAAAA6wQ/d81M4HGJQO4xhfiKchm5w7qPkx7B1Z1yQCNcBGAsYHQ/s135/1935-Marin-Kitagawa-My-Dress-Up-Darling-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220803/13069/102513/large/905d652f69b812b75726fd7a7c90fcc4.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/10754/edf6ef0c3a0093d651b2fbc1d1d45a78.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10754",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:10:23.834Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10754",
+      "fetched_at": "2026-05-16T12:10:23.834Z",
+      "raw_id": "10754"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/10754",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "10754"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1935/",
+      "fetched_at": "2026-05-16T19:10:33.739Z",
+      "raw_id": "/nendoroid/details/n1935/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.785Z",
+      "raw_id": "Nendoroid/1900-1999/1935.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0281",
+  "name": {
+    "en": "Nendoroid Wakana Sakai (ねんどろいど さかいわかな)",
+    "ja": "ねんどろいど 坂井和奏 (ねんどろいど さかいわかな)",
+    "ko": "사카이 와카나"
+  },
+  "series": {
+    "en": "TARI TARI",
+    "ja": "TARI TARI",
+    "ko": "TARI TARI",
+    "code": "tari-tari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3698,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-InK__vpnXWk/X4NLZWpT9bI/AAAAAAABlaY/7tbbmHJ619MuZHtKkbNZIo__pNz4mUu-wCLcBGAsYHQ/s270/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-InK__vpnXWk/X4NLZWpT9bI/AAAAAAABlaY/7tbbmHJ619MuZHtKkbNZIo__pNz4mUu-wCLcBGAsYHQ/s270/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DUBJR7Yg3oc/X4dYSMGQqII/AAAAAAAAqqo/asTaWs0xo2gV7ZEZoJqQaRxNecLq1nZ5wCLcBGAsYHQ/s135/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KdWPVvC5qYA/X4dYSWW1QrI/AAAAAAAAqqs/ajS_mhBNMtkB18HdKDsJE7bW38sBsJoPwCLcBGAsYHQ/s135/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NkqWi94i1k4/X4dYSZSaubI/AAAAAAAAqqw/wCDMA7u1S0IX9kyv5h6DLNDRcyjtL878QCLcBGAsYHQ/s135/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7JDUrE5jydA/X4dYSnFQegI/AAAAAAAAqq0/t-dsUVkIhKMitYst1HZrQqDlipdtNolpwCLcBGAsYHQ/s135/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0SyUvFnpow0/X4dYS1HdPOI/AAAAAAAAqq4/6SKLrUFSfJw-ZMrMYFIVD56VVETj_fXygCLcBGAsYHQ/s135/281-Sakai-Wakana-Tari-Tari-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n281/",
+      "fetched_at": "2026-05-16T19:10:34.330Z",
+      "raw_id": "/nendoroid/details/n281/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.341Z",
+      "raw_id": "Nendoroid/0200-0299/281.json"
+    }
+  ]
+}

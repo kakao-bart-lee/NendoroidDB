@@ -1,0 +1,68 @@
+{
+  "num": "1996",
+  "name": {
+    "en": "Nendoroid Chiho Sasaki",
+    "ja": "ねんどろいど 佐々木千穂 (ねんどろいど ささきちほ)",
+    "ko": "사사키 치호"
+  },
+  "series": {
+    "en": "The Devil Is a Part-Timer!",
+    "ja": "はたらく魔王さま！！",
+    "ko": "알바 뛰는 마왕님!",
+    "code": "the-devil-is-a-part-timer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13585,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2B7qKXeYvZ0/Y45wVI8soiI/AAAAAAAA7sI/skAX5g9Y9E8_AzGRHRlyPHRVJcRdOHpEACNcBGAsYHQ/s270/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2B7qKXeYvZ0/Y45wVI8soiI/AAAAAAAA7sI/skAX5g9Y9E8_AzGRHRlyPHRVJcRdOHpEACNcBGAsYHQ/s270/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zDsvq_98qeY/Y451ujnUKzI/AAAAAAAA74A/ckMF0rJwf_4gmB5uk3RZjBibnMTBdR4CQCNcBGAsYHQ/s135/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LADJWKBTBKU/Y451u38W3AI/AAAAAAAA74E/S5B1dBgvpVQRYE9i6Ru-x6WyjyQL-jRdgCNcBGAsYHQ/s135/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-avwfskmHHHk/Y451vG989II/AAAAAAAA74I/Zq5zjh-aIogZ9hgG95I8E0IWaK3cv6YAACNcBGAsYHQ/s135/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cuUfaZgYJpY/Y451vYEc1rI/AAAAAAAA74M/Em7GTfNLtEENhuv8yYUsq7IvT6eSx0RmwCNcBGAsYHQ/s135/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QGP4xzeHgv8/Y451vlr6AEI/AAAAAAAA74Q/BaG3VETZtAQJx_ekzmuFd938JNqj4H6rQCNcBGAsYHQ/s135/1996-Chiho-Sasaki-The-Devil-Is-a-Part-Timer-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1996/",
+      "fetched_at": "2026-05-16T19:10:33.775Z",
+      "raw_id": "/nendoroid/details/n1996/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.801Z",
+      "raw_id": "Nendoroid/1900-1999/1996.json"
+    }
+  ]
+}

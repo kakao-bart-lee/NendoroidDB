@@ -1,0 +1,68 @@
+{
+  "num": "0943",
+  "name": {
+    "en": "Nendoroid Shunso Hishida",
+    "ja": "ねんどろいど 菱田春草 (ねんどろいど ひしだしゅんそう)",
+    "ko": "히시다 슌소"
+  },
+  "series": {
+    "en": "Meiji Tokyo Renka",
+    "ja": "明治東亰恋伽",
+    "ko": "메이지 도쿄 연가",
+    "code": "meiji-tokyo-renka"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7470,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LnR1spd58cs/X4NeoIcys_I/AAAAAAABmMc/gLSlboIARXY-eTom96xzIEIu7oQ8vlm1gCLcBGAsYHQ/s270/943-Shunso-Hishida-Meji-Tokyo-Renka-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LnR1spd58cs/X4NeoIcys_I/AAAAAAABmMc/gLSlboIARXY-eTom96xzIEIu7oQ8vlm1gCLcBGAsYHQ/s270/943-Shunso-Hishida-Meji-Tokyo-Renka-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2C_5rc5Pdl0/X4roTD_18BI/AAAAAAABn3o/_Oa1Uk5pXEUU2nywvRGvzFyiuwhKOgsCwCLcBGAsYHQ/s135/943-Shunso-Hishida-Meiji-Tokyo-Renka-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-63Wz1WCR5EQ/X4roTazdXSI/AAAAAAABn3s/Mi-RzICPJ_I3BaJM5oMUgmHXCrM3nVIigCLcBGAsYHQ/s135/943-Shunso-Hishida-Meiji-Tokyo-Renka-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9uhCFVM1Rqo/X4roTtPoBMI/AAAAAAABn3w/pW1oDKGgIXcOE72bXZ9k_Arl2EJIwLMWQCLcBGAsYHQ/s135/943-Shunso-Hishida-Meiji-Tokyo-Renka-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BDWIzw17zJQ/X4roT-9hqGI/AAAAAAABn30/OzatOKvU-ZYKU5T3gUzc_tEivcC5e1BFACLcBGAsYHQ/s135/943-Shunso-Hishida-Meiji-Tokyo-Renka-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-F2YruvJe4Kw/X4roUFRA5AI/AAAAAAABn34/AEleCOdS87gjjbJcjB57vzUvIgIRStGWACLcBGAsYHQ/s135/943-Shunso-Hishida-Meiji-Tokyo-Renka-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n943/",
+      "fetched_at": "2026-05-16T19:10:34.886Z",
+      "raw_id": "/nendoroid/details/n943/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.544Z",
+      "raw_id": "Nendoroid/0900-0999/943.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0871",
+  "name": {
+    "en": "Nendoroid Maika Sakuranomiya",
+    "ja": "ねんどろいど 桜ノ宮苺香 (ねんどろいど さくらのみやまいか)",
+    "ko": "사쿠라노미야 마이카"
+  },
+  "series": {
+    "en": "Blend S",
+    "ja": "ブレンド・S",
+    "ko": "블렌드·S",
+    "code": "blend-s"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6974,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vFiSZoUxC9s/X4Nd9hzsE8I/AAAAAAABmHI/HxsEqYICBH4_yZkLG_WaKLhimAetonNNgCLcBGAsYHQ/s270/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vFiSZoUxC9s/X4Nd9hzsE8I/AAAAAAABmHI/HxsEqYICBH4_yZkLG_WaKLhimAetonNNgCLcBGAsYHQ/s270/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-f212EGFfdhw/X4rjvjhzlKI/AAAAAAABnac/0Rm9LUY5S-kutBCGf9XKUm9YtfSrD-keQCLcBGAsYHQ/s135/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pIHxjrPHHlA/X4rjv_9XwyI/AAAAAAABnag/a-10D-ZvFTQ-kgvOvwPUjklMI_XrVAiFgCLcBGAsYHQ/s135/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DaL2dxaEuFo/X4rjwI1SRiI/AAAAAAABnak/DP5s96fXPxMLOOxFS0_bb2H6nKO3rBaxwCLcBGAsYHQ/s135/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1z7jx4TfY2g/X4rjwGFGxxI/AAAAAAABnao/WXmMqilPSJoeadGmODH8Odaek59stXWcgCLcBGAsYHQ/s135/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9vuRpoftP2g/X4rjwrGG_LI/AAAAAAABnas/1iWDUJAZCiA6bgCEVI8144tTdNJLWUWOACLcBGAsYHQ/s135/871-Maika-Sakuranomiya-Blend-S-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n871/",
+      "fetched_at": "2026-05-16T19:10:34.846Z",
+      "raw_id": "/nendoroid/details/n871/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.527Z",
+      "raw_id": "Nendoroid/0800-0899/871.json"
+    }
+  ]
+}

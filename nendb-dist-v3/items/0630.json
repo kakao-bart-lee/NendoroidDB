@@ -1,0 +1,68 @@
+{
+  "num": "0630",
+  "name": {
+    "en": "Nendoroid Aqua",
+    "ja": "ねんどろいど アクア (ねんどろいど あくあ)",
+    "ko": "아쿠아"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja": "この素晴らしい世界に祝福を！",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5675,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BNDiQVh6fqU/X4NPstZHAuI/AAAAAAABl2U/w4gndlTtwB09A8yB-36GaqH6_wK_-YpdACLcBGAsYHQ/s270/630-Aqua-Sekai-Ni-Syukufuku-Wo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BNDiQVh6fqU/X4NPstZHAuI/AAAAAAABl2U/w4gndlTtwB09A8yB-36GaqH6_wK_-YpdACLcBGAsYHQ/s270/630-Aqua-Sekai-Ni-Syukufuku-Wo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cGJgoo1ucns/X4i0RSizkkI/AAAAAAAAsqg/UYnBwX74ycEZJD0dfHQF-BUhCSN2VtbHQCLcBGAsYHQ/s135/630-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ThzdoOmK6T8/X4i0R9Jq0uI/AAAAAAAAsqk/4fdTljDmm4cGg1t3yiTB3Kb2t07_ZSLugCLcBGAsYHQ/s135/630-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-S3EtGescTm4/X4i0SYiL_5I/AAAAAAAAsqo/FAnA7xLclBoLbHCzH-NIYExcdfnWzqWmwCLcBGAsYHQ/s135/630-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aMrzy1AJ3rU/X4i0SxGYJ7I/AAAAAAAAsqs/Ckdn2kEMeJMV6ASZ8_MLBRmnF0U8-kulACLcBGAsYHQ/s135/630-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BhZncXKoPuM/X4i0TScRo6I/AAAAAAAAsqw/nWucheZZkPUEBrTgS1U8Qg8nUaJebLEKQCLcBGAsYHQ/s135/630-Aqua-Kono-Subarashii-Sekai-ni-Syukufuku-wo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n630/",
+      "fetched_at": "2026-05-16T19:10:34.709Z",
+      "raw_id": "/nendoroid/details/n630/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.468Z",
+      "raw_id": "Nendoroid/0600-0699/630.json"
+    }
+  ]
+}

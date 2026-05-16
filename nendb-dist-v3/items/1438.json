@@ -1,0 +1,68 @@
+{
+  "num": "1438",
+  "name": {
+    "en": "Nendoroid Harley Quinn: Birds of Prey Ver.",
+    "ja": "ねんどろいど ハーレイ・クイン バーズ・オブ・プレイVer. (ねんどろいど はーれい・くいん ばーず・おぶ・ぷれいVer.)",
+    "ko": "할리 퀸"
+  },
+  "series": {
+    "en": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "ja": "ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY",
+    "ko": "버즈 오브 프레이",
+    "code": "birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9934,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nRO3_2Dq_gA/X4Nki4WkZ_I/AAAAAAABm64/57bBJqaIkVsJQiGgHq7RZ6oFKcEYUNe_wCLcBGAsYHQ/s270/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nRO3_2Dq_gA/X4Nki4WkZ_I/AAAAAAABm64/57bBJqaIkVsJQiGgHq7RZ6oFKcEYUNe_wCLcBGAsYHQ/s270/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eY8TyMnGTBo/X4tAtmEX4uI/AAAAAAABq6k/-W2rnk7pqusWfOYLVfUv88MZ-LlsNYAswCLcBGAsYHQ/s135/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sLfLOHqWWLQ/X4tAt8uJi1I/AAAAAAABq6o/1jsXoQhrSL4kwCq5dlgxw0FAt_3z2ZtqwCLcBGAsYHQ/s135/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-j6AioWcCHiw/X4tAuKsYiEI/AAAAAAABq6s/0L6Ippf4_-cN3POEEc6VHCIiofKlhq8hACLcBGAsYHQ/s135/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cU0-Vzb6500/X4tAudP4VdI/AAAAAAABq6w/9PG9qsxH0Tc0BcNSkcQ1yYsVoARKLbzNQCLcBGAsYHQ/s135/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iIsrBJq9H60/X4tAuueMBUI/AAAAAAABq60/qHmqjTYCXs8lgIR3ZYEYvuh5wq_cgfKHwCLcBGAsYHQ/s135/1438-Harley-Quinn-Birds-of-Prey-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1438/",
+      "fetched_at": "2026-05-16T19:10:33.430Z",
+      "raw_id": "/nendoroid/details/n1438/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.666Z",
+      "raw_id": "Nendoroid/1400-1499/1438.json"
+    }
+  ]
+}

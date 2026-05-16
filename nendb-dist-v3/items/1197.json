@@ -1,0 +1,68 @@
+{
+  "num": "1197",
+  "name": {
+    "en": "Nendoroid Rei Ayanami",
+    "ja": "ねんどろいど 綾波レイ (ねんどろいど あやなみれい)",
+    "ko": "아야나미 레이"
+  },
+  "series": {
+    "en": "Rebuild of Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "ko": "에반게리온",
+    "code": "rebuild-of-evangelion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8727,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FBMrPAt-Bhk/X4Ngw28tRbI/AAAAAAABme4/D59gOGuXRek3rJkpEepmLQLkJEgQhJV-wCLcBGAsYHQ/s270/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FBMrPAt-Bhk/X4Ngw28tRbI/AAAAAAABme4/D59gOGuXRek3rJkpEepmLQLkJEgQhJV-wCLcBGAsYHQ/s270/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Xx74w5GdSC8/X4rx5-GgUMI/AAAAAAABpgw/Z9fuYJZV7LkyVyX_hqzKIhY8tPaidkHbQCLcBGAsYHQ/s135/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-66ts5RuiHvo/X4rx6CPN3FI/AAAAAAABpg0/aQsuqGdK_qwDjrsYb-Lzn-n01AIswaTiACLcBGAsYHQ/s135/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-e5qRbLCSfQQ/X4rx6YhibjI/AAAAAAABpg4/Ps7IGK3B1dQyU5J5yNuCRvAHyckGjGZCgCLcBGAsYHQ/s135/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-P-AMpJyJh5c/X4rx6hdl01I/AAAAAAABpg8/-G2t7WM4UlcjUVcIbAQbo4TQRIBFZEB_gCLcBGAsYHQ/s135/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xGi9bqsJfgk/X4rx64nNMRI/AAAAAAABphA/JStHgle-evkBy8y4OZthELl_KHkD4l8cQCLcBGAsYHQ/s135/1197-Rei-Ayanami-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1197/",
+      "fetched_at": "2026-05-16T19:10:33.280Z",
+      "raw_id": "/nendoroid/details/n1197/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.608Z",
+      "raw_id": "Nendoroid/1100-1199/1197.json"
+    }
+  ]
+}

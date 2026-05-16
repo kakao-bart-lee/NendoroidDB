@@ -1,0 +1,68 @@
+{
+  "num": "1667",
+  "name": {
+    "en": "Nendoroid Yousa Ling",
+    "ja": "ねんどろいど 泠鳶yousa (ねんどろいど りーんゆえんようさ)",
+    "ko": "링유엔 yousa"
+  },
+  "series": {
+    "en": "Yousa Ling",
+    "ja": "泠鳶yousa",
+    "ko": "링유엔 yousa",
+    "code": "yousa-ling"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11408,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6U2JlHMloNU/YONqRlYErMI/AAAAAAAAzEg/tkR_i41xcF0EEjC7tmBu4O3yMPz8sv8RwCLcBGAsYHQ/s270/1667-Yousa-Ling-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6U2JlHMloNU/YONqRlYErMI/AAAAAAAAzEg/tkR_i41xcF0EEjC7tmBu4O3yMPz8sv8RwCLcBGAsYHQ/s270/1667-Yousa-Ling-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QP4k7IjDIkM/YONsRpeoN1I/AAAAAAAAzKM/BfdFHpqzUYAUOINMRLOT41hxa0DgE_N2wCLcBGAsYHQ/s135/1667-Yousa-Ling-Yousa-Ling-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HGIUg-u3Oko/YONsR7RguAI/AAAAAAAAzKU/OVxTvtv1OjoYqJanpBTF4qg6A-xOh2SmgCLcBGAsYHQ/s135/1667-Yousa-Ling-Yousa-Ling-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lAIIHcTwpbk/YONsSA8BR4I/AAAAAAAAzKY/Jt3uxz9cXrkWI7NNUjSkcPGrskOjJ26gwCLcBGAsYHQ/s135/1667-Yousa-Ling-Yousa-Ling-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y6RnkLJTcvA/YONsSQiAjkI/AAAAAAAAzKc/_zvK9MtY6MczmNwuSuXys6h2cvbQCbrrwCLcBGAsYHQ/s135/1667-Yousa-Ling-Yousa-Ling-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GXbvbA7my60/YONsSur3PNI/AAAAAAAAzKg/UULt7tVG-3ECU-2WL6vLsB2qjqe4MgiqwCLcBGAsYHQ/s135/1667-Yousa-Ling-Yousa-Ling-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1667/",
+      "fetched_at": "2026-05-16T19:10:33.570Z",
+      "raw_id": "/nendoroid/details/n1667/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.721Z",
+      "raw_id": "Nendoroid/1600-1699/1667.json"
+    }
+  ]
+}

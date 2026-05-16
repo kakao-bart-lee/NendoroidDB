@@ -1,0 +1,69 @@
+{
+  "num": "0588",
+  "name": {
+    "en": "Nendoroid Utsu-tsu",
+    "ja": "ねんどろいど うつつ",
+    "ko": "우츠츠"
+  },
+  "series": {
+    "en": "Gatchaman Crowds",
+    "ja": "ガッチャマンクラウズ",
+    "ko": "갓챠맨",
+    "code": "gatchaman-crowds"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4620,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5354,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8SPkdQJ9xeo/X4NOrcBA-HI/AAAAAAABlzE/CZWOd0rTamU6q9SAscs-1y-JcjhGQ9DRACLcBGAsYHQ/s270/588-Utsu-tsu-Gatchaman%2BCrowds-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8SPkdQJ9xeo/X4NOrcBA-HI/AAAAAAABlzE/CZWOd0rTamU6q9SAscs-1y-JcjhGQ9DRACLcBGAsYHQ/s270/588-Utsu-tsu-Gatchaman%2BCrowds-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Xybk0bsihbc/X4itge1g14I/AAAAAAAAsZE/Q_-Iv3ql4UoRGgeTKPTua-Unl8MaSWJ3ACLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FGvg5Brn-0M/X4itgV_029I/AAAAAAAAsZI/mcZsI4U152YkFt39MXskab-_OAoOx9pfwCLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1f48FeY2PEo/X4itgqSgfwI/AAAAAAAAsZM/GfQAUMoR4GosBIcPzALoTvZqldfphHakQCLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4QE859BsVjs/X4itg-4UjfI/AAAAAAAAsZQ/Wa2d-V0j920W6VAt2M4Giom2753rgwtSgCLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Qz_LAKrkJlM/X4ithENvO3I/AAAAAAAAsZU/L7vpcg5xL-gJS0CVpk2nflPfbduS0tAaQCLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-t4xjLblMNUs/X4ithL6etLI/AAAAAAAAsZY/fUI39vOncHoSOs2HxvQDbmqNTc2CFvv4ACLcBGAsYHQ/s135/588-Utsu-tsu-Gatchaman-Crowds-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n588/",
+      "fetched_at": "2026-05-16T19:10:34.669Z",
+      "raw_id": "/nendoroid/details/n588/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.456Z",
+      "raw_id": "Nendoroid/0500-0599/588.json"
+    }
+  ]
+}

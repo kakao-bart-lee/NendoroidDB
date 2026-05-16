@@ -1,0 +1,68 @@
+{
+  "num": "1495",
+  "name": {
+    "en": "Nendoroid Ichika Nakano",
+    "ja": "ねんどろいど 中野一花 (ねんどろいど なかのいちか)",
+    "ko": "나카노 이치카"
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁",
+    "ko": "5등분의 신부",
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10285,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-s1J-9RYaaAc/X5nTfpHAHgI/AAAAAAAAuAo/tRrKK-bTruoEHfWy-s2JtzMrBnPg_FlUACLcBGAsYHQ/s270/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-s1J-9RYaaAc/X5nTfpHAHgI/AAAAAAAAuAo/tRrKK-bTruoEHfWy-s2JtzMrBnPg_FlUACLcBGAsYHQ/s270/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OnqUjkH-jCM/X5nVrNejKaI/AAAAAAAAuCc/CHTVP5YG3LEPEJlaNfgN-d38e9DD_I1igCLcBGAsYHQ/s135/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BlpshlLDfhI/X5nVrlRQKnI/AAAAAAAAuCg/2PjWDRDLi2oIyKt3HY6TZ-zAJARBHOIfQCLcBGAsYHQ/s135/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iW1ZpMvRPNk/X5nVsLXE9GI/AAAAAAAAuCk/ZOWUccJ3GR4wtyTG7B1dHFkOkxS_3HUKwCLcBGAsYHQ/s135/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M4ErB2sgt_A/X5nVs1tmx-I/AAAAAAAAuCo/98AytGGZl-4xLGMv3OqMrOzzGGXfPLb3gCLcBGAsYHQ/s135/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D0cBVet3tLU/X5nVtMNVcrI/AAAAAAAAuCs/zOiw23gaQjEIuHAVs_ZKx7NhX_7Tp50nQCLcBGAsYHQ/s135/1495-Ichika-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1495/",
+      "fetched_at": "2026-05-16T19:10:33.465Z",
+      "raw_id": "/nendoroid/details/n1495/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.679Z",
+      "raw_id": "Nendoroid/1400-1499/1495.json"
+    }
+  ]
+}

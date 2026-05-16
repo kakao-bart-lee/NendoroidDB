@@ -1,0 +1,68 @@
+{
+  "num": "1018",
+  "name": {
+    "en": "Nendoroid Mega Man X",
+    "ja": "ねんどろいど エックス (ねんどろいど えっくす)",
+    "ko": "엑스"
+  },
+  "series": {
+    "en": "Mega Man X",
+    "ja": "ロックマンX シリーズ",
+    "ko": "록맨 시리즈",
+    "code": "mega-man-x"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7743,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ge8ADmuke_c/X4Nfj05m3jI/AAAAAAABmSM/NfOcNfVQJbwvUt3ovG4gBcsXK1tGZwfFQCLcBGAsYHQ/s270/1018-Megaman-X-Mega-Man-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ge8ADmuke_c/X4Nfj05m3jI/AAAAAAABmSM/NfOcNfVQJbwvUt3ovG4gBcsXK1tGZwfFQCLcBGAsYHQ/s270/1018-Megaman-X-Mega-Man-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WcTDq0MFTsc/X4rrctPPhWI/AAAAAAABoYY/dUgYsCJjlRE5fvpWsz-srnuCDXnmbtXkQCLcBGAsYHQ/s135/1018-Mega-Man-X-Mega-Man-Mega-Man-X-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TTJvd6wyVQI/X4rrc2q5dcI/AAAAAAABoYc/SLAaB06Ek0I39WtVcldH-ZWA7Ts4vaSXQCLcBGAsYHQ/s135/1018-Mega-Man-X-Mega-Man-Mega-Man-X-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jGg0JY6wqSI/X4rrdJD9S7I/AAAAAAABoYg/ulJm511oRrAOiQCu3iMWCtuvUENjLWyfgCLcBGAsYHQ/s135/1018-Mega-Man-X-Mega-Man-Mega-Man-X-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZbPuRUulK8M/X4rrdbSG1aI/AAAAAAABoYk/Swt1zy_v14EuC-UnFuxFoC_mHa0p4ih8gCLcBGAsYHQ/s135/1018-Mega-Man-X-Mega-Man-Mega-Man-X-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EAzHgE03yow/X4rrdmkboBI/AAAAAAABoYo/VCKuy4cU4NYaHTfwqSLCTxY-1GWOPugDgCLcBGAsYHQ/s135/1018-Mega-Man-X-Mega-Man-Mega-Man-X-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1018/",
+      "fetched_at": "2026-05-16T19:10:33.137Z",
+      "raw_id": "/nendoroid/details/n1018/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.566Z",
+      "raw_id": "Nendoroid/1000-1099/1018.json"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "num": "1507",
+  "name": {
+    "en": "Nendoroid Eleven",
+    "ja": "ねんどろいど イレブン (ねんどろいど いれぶん)",
+    "ko": "일레븐"
+  },
+  "series": {
+    "en": "Stranger Things",
+    "ja": "ストレンジャー・シングス 未知の世界",
+    "ko": "기묘한 이야기",
+    "code": "stranger-things"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10322,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-91um1lTQZ1I/X6l_dSIz_2I/AAAAAAAAuYY/hII8Qgu_b6EHPdiqknduAoj27VZRJZqegCLcBGAsYHQ/s270/1507-Eleven-Stranger-Things-Movies-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-91um1lTQZ1I/X6l_dSIz_2I/AAAAAAAAuYY/hII8Qgu_b6EHPdiqknduAoj27VZRJZqegCLcBGAsYHQ/s270/1507-Eleven-Stranger-Things-Movies-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9FHQrGEv3WM/X6l_xK7_AZI/AAAAAAAAuZQ/ED4Saq4AhP4y-EohoQBZ2W4Z4fua3ovuACLcBGAsYHQ/s135/1507-Eleven-Stranger-Things-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yqAr5UGlosI/X6l_xbeo0MI/AAAAAAAAuZU/El15Iq56Mh4ze_EkJhX7aV-w-wG_m7rFQCLcBGAsYHQ/s135/1507-Eleven-Stranger-Things-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1M7M5eUVLyo/X6l_xpi2l-I/AAAAAAAAuZY/r5UA0zkKOxg__CUSRpjhq8jUs3bziWUFQCLcBGAsYHQ/s135/1507-Eleven-Stranger-Things-Movies-and-TV-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1507/",
+      "fetched_at": "2026-05-16T19:10:33.472Z",
+      "raw_id": "/nendoroid/details/n1507/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.683Z",
+      "raw_id": "Nendoroid/1500-1599/1507.json"
+    }
+  ]
+}

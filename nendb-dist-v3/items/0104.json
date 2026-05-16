@@ -1,0 +1,68 @@
+{
+  "num": "0104",
+  "name": {
+    "en": "Nendoroid Azusa Nakano (ねんどろいど なかの あずさ)",
+    "ja": "ねんどろいど 中野 梓 (ねんどろいど なかの あずさ)",
+    "ko": "나카노 아즈사"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2798,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sahdVslFsmU/X4NJrKWYqSI/AAAAAAABlN8/uJdxiNDPU5EpqKszlddAGmtHBaS5VhSWgCLcBGAsYHQ/s270/104-Nakano-Azusa-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sahdVslFsmU/X4NJrKWYqSI/AAAAAAABlN8/uJdxiNDPU5EpqKszlddAGmtHBaS5VhSWgCLcBGAsYHQ/s270/104-Nakano-Azusa-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lPcRJ6-QdK8/X4dR9qVsIfI/AAAAAAAApuM/GB1qfyLHK0kFIrnlXfhNZOj3OG3nxPq3wCLcBGAsYHQ/s135/104-Nakano-Azusa-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-M-Jw6K6srDA/X4dR9yxANbI/AAAAAAAApuQ/p92I4jCwT3gjvmMbNhQpVDPBLi4wq3ORwCLcBGAsYHQ/s135/104-Nakano-Azusa-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6JM1Y4bPoIk/X4dR-VzHxSI/AAAAAAAApuU/SLuv1srWEJMido6HRTN3PG_VfchtmAyQwCLcBGAsYHQ/s135/104-Nakano-Azusa-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AcYoBmpnuEY/X4dR-j80qPI/AAAAAAAApuY/uTPnbAIyT8wfgZ3k5Rc0K37O_gy8NDh_wCLcBGAsYHQ/s135/104-Nakano-Azusa-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5bhveEbFmU0/X4dR-rZMIvI/AAAAAAAApuc/_OAgUMrvklsOKuL3A1RgT38PPtypRWRfACLcBGAsYHQ/s135/104-Nakano-Azusa-K-ON-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n104/",
+      "fetched_at": "2026-05-16T19:10:33.175Z",
+      "raw_id": "/nendoroid/details/n104/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.289Z",
+      "raw_id": "Nendoroid/0100-0199/104.json"
+    }
+  ]
+}

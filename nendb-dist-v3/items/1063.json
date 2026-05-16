@@ -1,0 +1,69 @@
+{
+  "num": "1063",
+  "name": {
+    "en": "Nendoroid Mukuro Rokudo",
+    "ja": "ねんどろいど 六道骸 (ねんどろいど ろくどうむくろ)",
+    "ko": "로쿠도 무크로"
+  },
+  "series": {
+    "en": "Reborn!",
+    "ja": "家庭教師ヒットマンREBORN!",
+    "ko": "가정교사 히트맨 REBORN!",
+    "code": "reborn"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4950,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7963,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9BQvXhKqa-c/X4Nf0NpKbrI/AAAAAAABmVU/dX2pStNBz2wYYWGLHvIVqVy-tQZqwpH7gCLcBGAsYHQ/s270/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9BQvXhKqa-c/X4Nf0NpKbrI/AAAAAAABmVU/dX2pStNBz2wYYWGLHvIVqVy-tQZqwpH7gCLcBGAsYHQ/s270/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IVFVVI8rrV4/X4rsptbeG2I/AAAAAAABopw/U9CrZdLyuCwIf6NAchGRrT5n9kuNeHpMgCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sjVEtXMOj3w/X4rsqG7XhpI/AAAAAAABop0/_-sqtHVtVnAID-RNhWJljddE86JhVaptgCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-84ezkL1uUf4/X4rsqY7JQrI/AAAAAAABop4/PNHgcPz1o5UppDXlHz_A4LWei6hYOzF7QCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vH90Hjksfvc/X4rsqd3CVnI/AAAAAAABop8/UYhcn8BG1SIK4ir9KTkXUiuK2_NANrC7wCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-y0uoY8oooqo/X4rsq0XDakI/AAAAAAABoqA/C8kRxo89ztEFqZCOpZzNQEmHBgtOFm-QwCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-eTDz21fsrP8/X4rsrCZHusI/AAAAAAABoqE/QfSU6TS4S9YR2FNX0BzrKj4VcVVwCqIZQCLcBGAsYHQ/s135/1063-Mukuro-Rokudo-REBORN-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1063/",
+      "fetched_at": "2026-05-16T19:10:33.192Z",
+      "raw_id": "/nendoroid/details/n1063/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.576Z",
+      "raw_id": "Nendoroid/1000-1099/1063.json"
+    }
+  ]
+}

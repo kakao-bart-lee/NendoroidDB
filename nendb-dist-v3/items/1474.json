@@ -1,0 +1,68 @@
+{
+  "num": "1474",
+  "name": {
+    "en": "Nendoroid Moca Aoba: Stage Outfit Ver.",
+    "ja": "ねんどろいど 青葉モカ ステージ衣装Ver. (ねんどろいど あおばもか すてーじいしょうVer.)",
+    "ko": "아오바 모카 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10132,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IOeexYPh1K8/X4Nkqdjx9iI/AAAAAAABm8g/miaozefHrjgXCcLeylyI6hCgMXTlVY9CgCLcBGAsYHQ/s270/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IOeexYPh1K8/X4Nkqdjx9iI/AAAAAAABm8g/miaozefHrjgXCcLeylyI6hCgMXTlVY9CgCLcBGAsYHQ/s270/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lLPmO0MSxK0/X4tBYWCag6I/AAAAAAABrEM/lZV6Aq6SS4kmMz9cT-JHqXiZDk6jOK8uACLcBGAsYHQ/s135/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xlobwecRqXE/X4tBY7F9nXI/AAAAAAABrEQ/5_Uhx0Mjw50qlskPT9zadCiaRdwhDB5AwCLcBGAsYHQ/s135/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HS1F8Kex95Y/X4tBY7QzgHI/AAAAAAABrEU/fpQO8Fd2B9gpTyHhHUh7ap3K7sX3EmjowCLcBGAsYHQ/s135/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ESkvGwneBKg/X4tBZakku-I/AAAAAAABrEY/nBkvZLWr8KAosTK8C8jQlK-Rh7s7crlsACLcBGAsYHQ/s135/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OolpXehvI94/X4tBZsyj0QI/AAAAAAABrEc/ejnJ-NnTC7Q24w65N6gKaeKyb9KUeom3QCLcBGAsYHQ/s135/1474-Moca-Aoba-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1474/",
+      "fetched_at": "2026-05-16T19:10:33.453Z",
+      "raw_id": "/nendoroid/details/n1474/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.674Z",
+      "raw_id": "Nendoroid/1400-1499/1474.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "2224",
+  "name": {
+    "en": "Nendoroid Noah Volstaire Wynknight",
+    "ja": "ねんどろいど ノアボルステア・ウィンナイト (ねんどろいど のあぼるすてあ・うぃんないと)",
+    "ko": "노아 벌스테어 윈나이트"
+  },
+  "series": {
+    "en": "Why Raeliana Ended Up at the Duke's Mansion",
+    "ja": "彼女が公爵邸に行った理由",
+    "ko": "그녀가 공작저로 가야 했던 사정",
+    "code": "why-raeliana-ended-up-at-the-duke-s-mansion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14747,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Je_U_7xYR40/ZM6y0kpl8XI/AAAAAAABA94/aNRoQmMXBXI85Cn7QOfXNHCVp0VxmcuXACNcBGAsYHQ/s270/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Je_U_7xYR40/ZM6y0kpl8XI/AAAAAAABA94/aNRoQmMXBXI85Cn7QOfXNHCVp0VxmcuXACNcBGAsYHQ/s270/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QcvPJuiadkI/ZNAWkq2in7I/AAAAAAABBJg/T65azISh7eoZqCdKFIPhoAQqITjjFWlHgCNcBGAsYHQ/s135/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HIMEWl_iEk8/ZNAWlStdDaI/AAAAAAABBJk/CeZ48gKueTQfaSkjh7dh8bgfXuVJ7V5qgCNcBGAsYHQ/s135/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rdOOx9_rVds/ZNAWl1ZsFPI/AAAAAAABBJo/55gKrI3YXVw8b2QBPE9xUqO66d2lUyEAgCNcBGAsYHQ/s135/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W4QFEyipLtY/ZNAWmLXElCI/AAAAAAABBJs/Ydw77UyAz70rUnQvMcIjOvKiMRJQrHVZACNcBGAsYHQ/s135/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_efjZ_VTf5Q/ZNAWmkdINYI/AAAAAAABBJw/ro2H8mYZIsA49J50PlbdPHxijtd0z1ABgCNcBGAsYHQ/s135/2224-Noah-Volstaire-Wynknight-Why-Raeliana-Ended-Up-at-the-Dukes-Mansion-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2224/",
+      "fetched_at": "2026-05-16T19:10:33.928Z",
+      "raw_id": "/nendoroid/details/n2224/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.859Z",
+      "raw_id": "Nendoroid/2200-2299/2224.json"
+    }
+  ]
+}

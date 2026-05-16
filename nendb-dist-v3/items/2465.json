@@ -1,0 +1,63 @@
+{
+  "num": "2465",
+  "name": {
+    "en": "Marika Yamagata",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "HinaBitter",
+    "ja": null,
+    "ko": null,
+    "code": "hinabitter"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k7qKsDLhBgY/Zj_isec2S9I/AAAAAAABEZQ/6MT6JnnTcCkOS30JmkAVuJnQ4NovlsvUACNcBGAsYHQ/s270/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k7qKsDLhBgY/Zj_isec2S9I/AAAAAAABEZQ/6MT6JnnTcCkOS30JmkAVuJnQ4NovlsvUACNcBGAsYHQ/s270/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e1XOE7KL4-A/Zow4rLnRmFI/AAAAAAABFxk/tl4kkfIp3cI-yYV1tBkG-eCeEnOFK0PCACNcBGAsYHQ/s135/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jCw3JrVx9AM/Zow4rXdndLI/AAAAAAABFxo/pfY0eg2gLWAJ5ThAbn_ANHi1nimWmy1fQCNcBGAsYHQ/s135/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jVPFD-o6R50/Zow4r27WeSI/AAAAAAABFxs/VEH-a2WOKicb8EC9tJ5vQmE-CyOoCosFQCNcBGAsYHQ/s135/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mv2KXJRS1Q4/Zow4sjCOJ0I/AAAAAAABFxw/DiL1Dxl-d8gx5oROT8Mkt7OWI_JmWfziwCNcBGAsYHQ/s135/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gPUjVzEy_UM/Zow4tOtv4YI/AAAAAAABFx0/JKbU0UdWPPMsxuUaLaRq1KlxSwt8_8fngCNcBGAsYHQ/s135/2465-Marika-Yamagata-HinaBitter-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2465/",
+      "fetched_at": "2026-05-16T19:10:34.076Z",
+      "raw_id": "/nendoroid/details/n2465/"
+    }
+  ]
+}

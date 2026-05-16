@@ -1,0 +1,68 @@
+{
+  "num": "0393",
+  "name": {
+    "en": "Nendoroid Luigi (ねんどろいど るいーじ)",
+    "ja": "ねんどろいど ルイージ (ねんどろいど るいーじ)",
+    "ko": "루이지"
+  },
+  "series": {
+    "en": "Super Mario",
+    "ja": "スーパーマリオ",
+    "ko": "슈퍼 마리오",
+    "code": "super-mario"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4173,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ycqjYINSMN0/X4NNHPOT42I/AAAAAAABllY/XRBXT7PDx-klWYOzdalIfthdq6tfqiIQgCLcBGAsYHQ/s270/393-Luigi-Super-Mario-Nintendo-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ycqjYINSMN0/X4NNHPOT42I/AAAAAAABllY/XRBXT7PDx-klWYOzdalIfthdq6tfqiIQgCLcBGAsYHQ/s270/393-Luigi-Super-Mario-Nintendo-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FY1DdhyPTfA/X4dbr5TwomI/AAAAAAAArRw/08fjBIVmg_wQFUvrXS2t02srVF-9APC4wCLcBGAsYHQ/s135/393-Luigi-Super-Mario-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l0wnp5E5yuA/X4dbsV3_GyI/AAAAAAAArR0/JS7ay0vH2E8qJ2HEn17TH_1Osi_1Vp1RACLcBGAsYHQ/s135/393-Luigi-Super-Mario-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M3dE-eG8wSE/X4dbs0g17oI/AAAAAAAArR4/k869s9KZ-2g9u3NPzMCpkl-2jF-GtacUQCLcBGAsYHQ/s135/393-Luigi-Super-Mario-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cjwC2UaguQA/X4dbtUR6wSI/AAAAAAAArR8/akJBOZWMhAEvuGM7dTlH90DqzSNLZhSGwCLcBGAsYHQ/s135/393-Luigi-Super-Mario-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-r6HzbD6YzJM/X4dbthS97YI/AAAAAAAArSA/3qgG1KJWIB8TqmZC4sjP7gC7GcrIkmpyACLcBGAsYHQ/s135/393-Luigi-Super-Mario-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n393/",
+      "fetched_at": "2026-05-16T19:10:34.502Z",
+      "raw_id": "/nendoroid/details/n393/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.369Z",
+      "raw_id": "Nendoroid/0300-0399/393.json"
+    }
+  ]
+}

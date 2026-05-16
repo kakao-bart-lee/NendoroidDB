@@ -1,0 +1,68 @@
+{
+  "num": "1432",
+  "name": {
+    "en": "Nendoroid Tatsuya Shiba",
+    "ja": "ねんどろいど 司波達也 (ねんどろいど しばたつや)",
+    "ko": "시바 타츠야"
+  },
+  "series": {
+    "en": "The Irregular at Magic High School: Visitor Arc",
+    "ja": "魔法科高校の劣等生 来訪者編",
+    "ko": "마법과 고교의 열등생",
+    "code": "the-irregular-at-magic-high-school-visitor-arc"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9921,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Tt1oonQTx1U/X4NkhcSrbGI/AAAAAAABm6g/2NZio4vRd4woTN1i21BfFsoyTnR28NTLwCLcBGAsYHQ/s270/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Tt1oonQTx1U/X4NkhcSrbGI/AAAAAAABm6g/2NZio4vRd4woTN1i21BfFsoyTnR28NTLwCLcBGAsYHQ/s270/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tXJS1YJ_VTk/X4tAlEwHT1I/AAAAAAABq4c/nAI9xApIXkot3z3PZUklkVLg53fldkfVwCLcBGAsYHQ/s135/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Hwbrg01k2sM/X4tAlRHPYgI/AAAAAAABq4g/W1RsJnCd3vg0ypcWVppteup_VJ_Yhy35wCLcBGAsYHQ/s135/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LOTVCb02490/X4tAllZMfsI/AAAAAAABq4k/C9NbUOWSElEaa1UqCp3D6zwy-6J9lT_gACLcBGAsYHQ/s135/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eZ0oigzTFIs/X4tAl5hCHbI/AAAAAAABq4o/j4gjSVru2HsF7S1uJDtXvNZqsgT61tA2wCLcBGAsYHQ/s135/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g5c5gninGww/X4tAmGa6kpI/AAAAAAABq4s/1kEcX0dyPns8PFWDxrvBTi9eRXnj3fMZgCLcBGAsYHQ/s135/1432-Tatsuya-Shiba-The-Irregular-at-Magic-High-School-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1432/",
+      "fetched_at": "2026-05-16T19:10:33.427Z",
+      "raw_id": "/nendoroid/details/n1432/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.664Z",
+      "raw_id": "Nendoroid/1400-1499/1432.json"
+    }
+  ]
+}

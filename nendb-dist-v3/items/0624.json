@@ -1,0 +1,70 @@
+{
+  "num": "0624",
+  "name": {
+    "en": "Nendoroid Karamatsu Matsuno",
+    "ja": "ねんどろいど 松野カラ松 (ねんどろいど まつのからまつ)",
+    "ko": "마차노 카라마츠"
+  },
+  "series": {
+    "en": "Osomatsu-san",
+    "ja": "おそ松さん",
+    "ko": "오소마츠 상",
+    "code": "osomatsu-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5625,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-giznw0JtFq8/X4NPraHlSyI/AAAAAAABl18/iJjF6F0_XR0zQ53dhNPip0scXAy9s5RHwCLcBGAsYHQ/s270/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-giznw0JtFq8/X4NPraHlSyI/AAAAAAABl18/iJjF6F0_XR0zQ53dhNPip0scXAy9s5RHwCLcBGAsYHQ/s270/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LM5x45W5bao/X4i0E0k5UJI/AAAAAAAAsoc/peZIK957Qu83UEno9aMuJQlzNVT1Y8GZQCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CmWg3-Chn58/X4i0FMiEhkI/AAAAAAAAsog/vxUeWqteYhkVwW4V2JLcqVg3WE4QCpDfgCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QHqrQVjaN5c/X4i0Fn9S6dI/AAAAAAAAsok/pnh28tBpxgEs9Dgn0VrBp6UBSkIeHcbPACLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BWeytLZ2_LU/X4i0GN-qYMI/AAAAAAAAsoo/WQmvl9tkiCcGqIbigPIpY9obCVOwnU2WQCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IqwjU9EuQSk/X4i0GsA-qYI/AAAAAAAAsos/yFGSlJ9zjyMglOWeTklD1q3alkYepcDKQCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QZpRFiYMk6Y/X4i0HDGEGvI/AAAAAAAAsow/rGTEa7q2NqUpKUXx2HgesqBhLqrFxgc-gCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ui9h4SLKrGg/X4i0Hix6OLI/AAAAAAAAso0/32TptNYVLtIwfr7tMOfgTa_9KhK-GggHwCLcBGAsYHQ/s135/624-Karamatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n624/",
+      "fetched_at": "2026-05-16T19:10:34.704Z",
+      "raw_id": "/nendoroid/details/n624/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.466Z",
+      "raw_id": "Nendoroid/0600-0699/624.json"
+    }
+  ]
+}

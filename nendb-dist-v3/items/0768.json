@@ -1,0 +1,68 @@
+{
+  "num": "0768",
+  "name": {
+    "en": "Nendoroid Kagamine Rin: Harvest Moon Ver.",
+    "ja": "ねんどろいど 鏡音リン 中秋明月Ver. (ねんどろいど かがみねりん ちゅうしゅうめいげつVer.)",
+    "ko": "카가미네 린 중추명월 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja": "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-kagamine-rin-len"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6414,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JiHxddipdZQ/X4NdEppfHQI/AAAAAAABl_w/HKsR50spAZ4_sr9ER5E5Hl3rT_YtrVFvQCLcBGAsYHQ/s270/768-Kagamine-Rin-Harvest-Moon-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JiHxddipdZQ/X4NdEppfHQI/AAAAAAABl_w/HKsR50spAZ4_sr9ER5E5Hl3rT_YtrVFvQCLcBGAsYHQ/s270/768-Kagamine-Rin-Harvest-Moon-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cUQDgFL0zLI/X4i5STHQ8yI/AAAAAAAAtfY/ydbI1hxqBfIdOAlT96sOfpqFb2GGpadZgCLcBGAsYHQ/s135/768-Kagamine-Rin-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-asYT3aIS_mQ/X4i5StXvlwI/AAAAAAAAtfc/zqLzxve2WoMhcNHyMyqnvkFH1sjT5u-IQCLcBGAsYHQ/s135/768-Kagamine-Rin-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UoWlHf6qvO8/X4i5S0HzYaI/AAAAAAAAtfg/hButUUOWIN4wGYKWCmPq3crr5XRUmgz6gCLcBGAsYHQ/s135/768-Kagamine-Rin-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tp6kP5J_7ww/X4i5TeQ4gKI/AAAAAAAAtfk/ZFXrR_xoZAs507iw_AUTY9-1CF5oyycCgCLcBGAsYHQ/s135/768-Kagamine-Rin-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TvapW4UHN0c/X4i5T1bERCI/AAAAAAAAtfo/bUjjriYSyHw2PuCu93rN8imzxPOKF2IOwCLcBGAsYHQ/s135/768-Kagamine-Rin-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n768/",
+      "fetched_at": "2026-05-16T19:10:34.787Z",
+      "raw_id": "/nendoroid/details/n768/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.503Z",
+      "raw_id": "Nendoroid/0700-0799/768.json"
+    }
+  ]
+}

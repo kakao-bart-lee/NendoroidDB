@@ -1,0 +1,67 @@
+{
+  "num": "0218",
+  "name": {
+    "en": "Nendoroid Sana Inui (ねんどろいど いぬいさな)",
+    "ja": "ねんどろいど 乾紗凪 (ねんどろいど いぬいさな)",
+    "ko": "이누이 사나"
+  },
+  "series": {
+    "en": "Mashiroiro Symphony",
+    "ja": "ましろ色シンフォニー",
+    "ko": "마시로색 심포니",
+    "code": "mashiroiro-symphony"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3421,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DH5E8QNBOq0/X4NLIRf-PEI/AAAAAAABlWY/1hgg4hv3rK8cDOFRaQPlY9acN3wXivWbQCLcBGAsYHQ/s270/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DH5E8QNBOq0/X4NLIRf-PEI/AAAAAAABlWY/1hgg4hv3rK8cDOFRaQPlY9acN3wXivWbQCLcBGAsYHQ/s270/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vRpPUL4YV3g/X4dXFSfAVlI/AAAAAAAAqXs/R9PRk6xXdQcakmD0gQqIZEBnPunrSdabgCLcBGAsYHQ/s135/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uaokvxXF0qg/X4dXF3zfm-I/AAAAAAAAqXw/3VhWufH7UVgUif3JU4RGuVUgQHFjJqDZQCLcBGAsYHQ/s135/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qwmm4C9V_JU/X4dXGcnyJBI/AAAAAAAAqX0/ieMqsEgAH8EJCZJhH9ZNDonLZOy4mV-uQCLcBGAsYHQ/s135/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gbHH1sskYPU/X4dXG5o9-7I/AAAAAAAAqX4/mrbBm-mXQZolRAHn_Ehy7XBfUqiqmpjrACLcBGAsYHQ/s135/218-Sana-Inui-Mashiroiro-Symphony-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n218/",
+      "fetched_at": "2026-05-16T19:10:33.892Z",
+      "raw_id": "/nendoroid/details/n218/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.323Z",
+      "raw_id": "Nendoroid/0200-0299/218.json"
+    }
+  ]
+}

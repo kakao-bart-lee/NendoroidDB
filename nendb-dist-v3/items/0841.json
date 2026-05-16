@@ -1,0 +1,97 @@
+{
+  "num": "0841",
+  "name": {
+    "en": "Nendoroid Higekiri",
+    "ja": "ねんどろいど 髭切 (ねんどろいど ひげきり)",
+    "ko": "히게키리"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Katanashi (toytec D.T.C)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": "4580416904490",
+  "gsc_product_id": "4553",
+  "gsc_product_num": 6826,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/4553",
+    "ja": "https://www.goodsmile.com/ja/product/4553"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171026/6826/48395/large/e8a05b9cc6ab2a874177870a4515b1fe.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kC5wXPlLnHc/X4Nd0Kx_B9I/AAAAAAABmFM/DtDW9KlR9LoGSyCooLWoWre48KrMNjh-gCLcBGAsYHQ/s270/841-Higekiri-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R3yZ73-1w6Y/X4ri41C461I/AAAAAAABnOQ/-FCgKYbrqb4JJ3DjFf_-2hhdspkpmseNwCLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1Zlvs0BJVcc/X4ri5H9AlUI/AAAAAAABnOU/RykCW6WElx0R5uYGQIRi_4bZbfgqpza5QCLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KFiZ1wgbG08/X4ri5fHnt_I/AAAAAAABnOY/8h0Zq1MWPGUEX-HT3AbPXcFBF2gup1jxACLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LBafBV_UEGI/X4ri5gsBGzI/AAAAAAABnOc/mkWDCLB-LY0NqeQj-yp8ua9Pta0KQyt-wCLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SEsHk7ysdrw/X4ri5wvrQrI/AAAAAAABnOg/psyz0-pSE14ZRyle81n0WIHQ395unTd2ACLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-TGmszXbyVEo/X4ri6NOFCBI/AAAAAAABnOk/urK5U_6rePQ370ygsPlOTV0evouNaAGLACLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-glnu6IUs_48/X4ri6eBmezI/AAAAAAABnOo/nrgGRVNQinEQh9DTqdQqv4uCMT-7nrB_ACLcBGAsYHQ/s135/841-Higekiri-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171026/6826/48402/large/3415f3796ccaab9ce958bda8460d3071.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171026/6826/48395/large/e8a05b9cc6ab2a874177870a4515b1fe.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4553",
+      "price_local": 4685,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:39.528Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4553",
+      "fetched_at": "2026-05-16T11:49:39.528Z",
+      "raw_id": "4553"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/4553",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "4553"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n841/",
+      "fetched_at": "2026-05-16T19:10:34.830Z",
+      "raw_id": "/nendoroid/details/n841/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.519Z",
+      "raw_id": "Nendoroid/0800-0899/841.json"
+    }
+  ]
+}

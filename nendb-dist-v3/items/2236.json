@@ -1,0 +1,70 @@
+{
+  "num": "2236",
+  "name": {
+    "en": "Nendoroid Suzume Iwato",
+    "ja": "ねんどろいど 岩戸鈴芽 (ねんどろいど いわとすずめ)",
+    "ko": "이와토 스즈메"
+  },
+  "series": {
+    "en": "Suzume",
+    "ja": "すずめの戸締まり",
+    "ko": "스즈메의 문단속",
+    "code": "suzume"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14907,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aU7Hyy6Ohew/ZQoU4ILqNAI/AAAAAAABBjY/3X-VPI65qWknWaIl6xilLV3O3CgxJuh1wCNcBGAsYHQ/s270/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aU7Hyy6Ohew/ZQoU4ILqNAI/AAAAAAABBjY/3X-VPI65qWknWaIl6xilLV3O3CgxJuh1wCNcBGAsYHQ/s270/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wXSUnHxNWhc/ZQsgy0faAjI/AAAAAAABBrM/_B0Ed0tCDG4Vfxwa_A7w2IiID4D1Uy7LgCNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2_7Fmn4sceo/ZQsgzI1khqI/AAAAAAABBrQ/ZjaOXTaYGQ8ex3hRKzlc-_rBqaxcxESCACNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3O0FW1Dk6E8/ZQsgzVMSCjI/AAAAAAABBrU/E6Ly1zBA_BMSx949b4Nb6ocFxV_WeiziACNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z6zcHlt2JV0/ZQsgz1jio0I/AAAAAAABBrY/6aPSMbO8VuEFp7hmU8LmwmkAlSFLomqmgCNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-E9YX0a4HuvM/ZQsg0q2cMFI/AAAAAAABBrc/8WtN-a_V7PEv4bjyN-ADue6HlcyStXDPwCNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hOsEvYlWRYw/ZQsg01og5bI/AAAAAAABBrg/wgosTuM6RDcJWh0_MZMlMSB7YeLdQX6MwCNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-yzx_L1zv7JE/ZQsg1d2t1JI/AAAAAAABBrk/oONmdh0aiMIvZ01Q7An4RfUrAv7dmpSIgCNcBGAsYHQ/s135/2236-Suzume-Iwato-Suzume-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2236/",
+      "fetched_at": "2026-05-16T19:10:33.935Z",
+      "raw_id": "/nendoroid/details/n2236/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.862Z",
+      "raw_id": "Nendoroid/2200-2299/2236.json"
+    }
+  ]
+}

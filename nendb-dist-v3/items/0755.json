@@ -1,0 +1,68 @@
+{
+  "num": "0755",
+  "name": {
+    "en": "Nendoroid Belle",
+    "ja": "ねんどろいど ベル (ねんどろいど べる)",
+    "ko": "벨"
+  },
+  "series": {
+    "en": "Beauty and the Beast",
+    "ja": "美女と野獣",
+    "ko": "미녀와 야수",
+    "code": "beauty-and-the-beast"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6364,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BOCOZKhJJnE/X4NdAzXADRI/AAAAAAABl-8/KmY8lG89XNUBCZ3eN4mSN4G-pFW1DJzugCLcBGAsYHQ/s270/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BOCOZKhJJnE/X4NdAzXADRI/AAAAAAABl-8/KmY8lG89XNUBCZ3eN4mSN4G-pFW1DJzugCLcBGAsYHQ/s270/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e3h6YaYvsbU/X4i47VWdKbI/AAAAAAAAtbA/09Yx8XrEYfAmMcAOgJ4kLUBdJt59Sy-_gCLcBGAsYHQ/s135/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Bi-5ZSleYjo/X4i47x4xRyI/AAAAAAAAtbE/kVD5B5C2jS4lJ2zRP1wc5qXHz05uElELwCLcBGAsYHQ/s135/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eoKqhHJ2xTw/X4i4713RtJI/AAAAAAAAtbI/UF0oyYXD70U_dSSxlGGw64lCOARvWn8iwCLcBGAsYHQ/s135/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-blRbcbPibDA/X4i48GR4S_I/AAAAAAAAtbM/7JiB3DLNtgA-8gSN_F4_II6bZS9XTzNeQCLcBGAsYHQ/s135/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k3GB31HeObA/X4i48XW1CqI/AAAAAAAAtbQ/qlqx_KlxnuUYT8jLhJC1xiZEJWCMdJqUwCLcBGAsYHQ/s135/755-Belle-Beauty-and-the-Beast-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n755/",
+      "fetched_at": "2026-05-16T19:10:34.779Z",
+      "raw_id": "/nendoroid/details/n755/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.500Z",
+      "raw_id": "Nendoroid/0700-0799/755.json"
+    }
+  ]
+}

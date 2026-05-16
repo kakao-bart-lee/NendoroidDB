@@ -1,0 +1,69 @@
+{
+  "num": "1279",
+  "name": {
+    "en": "Nendoroid Hunter",
+    "ja": "ねんどろいど 狩人 (ねんどろいど はんたー)",
+    "ko": "주인공 사냥꾼"
+  },
+  "series": {
+    "en": "Bloodborne",
+    "ja": "Bloodborne",
+    "ko": "블러드본",
+    "code": "bloodborne"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9276,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vQMD6ctbJIM/X4Niec_l7FI/AAAAAAABmrs/pxKG3ZKGHBsSYgeefgmG2aphkHvTAdlEQCLcBGAsYHQ/s270/1279-Hunter-Bloodborne-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vQMD6ctbJIM/X4Niec_l7FI/AAAAAAABmrs/pxKG3ZKGHBsSYgeefgmG2aphkHvTAdlEQCLcBGAsYHQ/s270/1279-Hunter-Bloodborne-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zbDqEuATYkw/X4r0w-s0UAI/AAAAAAABqCU/8AZ_36SUUncyUT75XOTQKHQFdgDkn-woQCLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VA9WHRUJ9w4/X4r0w729MaI/AAAAAAABqCQ/TRXyfDJWxMwX9xLuaKlWbyKBlM9bD6BDACLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7SKFd2LvPrc/X4r0xSWAfOI/AAAAAAABqCY/14m5hftq7J4BtWL-YcK1ImTm2eKB_wZCwCLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A_inginHNqE/X4r0xl6j6nI/AAAAAAABqCc/qtH0sE_51AEAPiQpNS5u3qwqi8V0iNCxwCLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UZSLVatyn6o/X4r0x1s7PxI/AAAAAAABqCg/MEjITkm0p9wJkvjH92IeGfzqXpHNsH8OQCLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-aFWZaAYxKAs/X4r0yDbeX0I/AAAAAAABqCk/Re1kFAcyPBoHLmQ-fPlo4ZDFN1-fSu2hQCLcBGAsYHQ/s135/1279-Hunter-Bloodborne-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1279/",
+      "fetched_at": "2026-05-16T19:10:33.330Z",
+      "raw_id": "/nendoroid/details/n1279/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.627Z",
+      "raw_id": "Nendoroid/1200-1299/1279.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1836",
+  "name": {
+    "en": "Nendoroid Kenma Kozume: Second Uniform Ver.",
+    "ja": "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
+    "ko": "코즈메 켄마 세컨드 유니폼 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12389,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WbejKDNueFc/YliMizaDCTI/AAAAAAAA5Lo/LZRu0gcSScEnz5YH1tHPxBvmtttFAOQGwCNcBGAsYHQ/s270/1836-Kenma-Kozume-Second-Uniform-Ver-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WbejKDNueFc/YliMizaDCTI/AAAAAAAA5Lo/LZRu0gcSScEnz5YH1tHPxBvmtttFAOQGwCNcBGAsYHQ/s270/1836-Kenma-Kozume-Second-Uniform-Ver-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bOUz1n2OR-w/YliVYUDyktI/AAAAAAAA5TM/TUQ0IZoLWYo1SBtGPiXAnbBgL92VlFR4wCNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WdmRK_xV0bw/YliVYgaeZLI/AAAAAAAA5TQ/ydz1vGrQvtAC54DFknctsPTv1LuQ4pLZQCNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9cSegVFOJJ0/YliVY0JOdII/AAAAAAAA5TU/VuY0YaPFCxcZm2a5bN6RMzT2Sss2zDUagCNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e6jWkMqaP54/YliVZKWjAyI/AAAAAAAA5TY/iN37b3opZj4Wxy_hJZcNNWJYDYc7u9EEACNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uKlmxyURpxU/YliVZaQoJWI/AAAAAAAA5Tc/dwRBpmgDgKIiztzWrzDfN3gX8cn5FtCWACNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0QTTb_8AuFs/YliVZiH2c6I/AAAAAAAA5Tg/Nprp0RLpb-4doXbfR2Q6mh0AW5gkYQsWACNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dMPfJs_XmIg/YliVZ7ceVEI/AAAAAAAA5Tk/akH9MAsNQLAgCoDiif_2_bwlqKbq5YImwCNcBGAsYHQ/s135/1836-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1836/",
+      "fetched_at": "2026-05-16T19:10:33.677Z",
+      "raw_id": "/nendoroid/details/n1836/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.763Z",
+      "raw_id": "Nendoroid/1800-1899/1836.json"
+    }
+  ]
+}

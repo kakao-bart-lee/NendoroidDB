@@ -1,0 +1,68 @@
+{
+  "num": "0266",
+  "name": {
+    "en": "Nendoroid Hunter: Male Swordsman - Lagia X Edition (ねんどろいど はんたー♂ けんし らぎあX・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♂ 剣士 ラギアX・エディション (ねんどろいど はんたー♂ けんし らぎあX・えでぃしょん)",
+    "ko": "헌터♂ 검사 라기아X 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter Tri G",
+    "ja": "モンスターハンター3（トライ）G",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-tri-g"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3621,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dN9GZ_lQlss/X4NLVdG3AOI/AAAAAAABlZY/c21_OF90UDsBXBqsDg-6z46PkM-9tYVpACLcBGAsYHQ/s270/266-Hunter-Male-Swordsman-Lagia-X-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dN9GZ_lQlss/X4NLVdG3AOI/AAAAAAABlZY/c21_OF90UDsBXBqsDg-6z46PkM-9tYVpACLcBGAsYHQ/s270/266-Hunter-Male-Swordsman-Lagia-X-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4OWKwf9l06o/X4dX-8C7yOI/AAAAAAAAqmI/fb_JoXGiuqo8k3U4xTEqvgS2iFjgTKKygCLcBGAsYHQ/s135/266-Male-Swordsman-Monster-Hunter-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y50E5Tj5_xk/X4dX_MrHdaI/AAAAAAAAqmM/HfShbgw27vgMtXd5qfDCboKHoJndGAdjQCLcBGAsYHQ/s135/266-Male-Swordsman-Monster-Hunter-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xQdqHlVk5LM/X4dX_Y7JUkI/AAAAAAAAqmQ/fO1O6JyYnFMEOr_u5rgIL8RHq4sjJgZAQCLcBGAsYHQ/s135/266-Male-Swordsman-Monster-Hunter-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2S8RwYwLvoI/X4dX_Yi1NyI/AAAAAAAAqmU/Q2afrsCUPr4MImawGac4_qU_DLsUfN22wCLcBGAsYHQ/s135/266-Male-Swordsman-Monster-Hunter-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uYBeZeeA0Os/X4dX_vRJhTI/AAAAAAAAqmY/QK5WsR8QcpEzT-hQTGjh7mrGFbWMIhRygCLcBGAsYHQ/s135/266-Male-Swordsman-Monster-Hunter-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n266/",
+      "fetched_at": "2026-05-16T19:10:34.200Z",
+      "raw_id": "/nendoroid/details/n266/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.336Z",
+      "raw_id": "Nendoroid/0200-0299/266.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "0035",
+  "name": {
+    "en": "Joy Max",
+    "ja": "ねんどろいど ジョイまっくす (ねんどろいど じょいまっくす)",
+    "ko": "죠이맥스 최광홍보"
+  },
+  "series": {
+    "en": "Nitroplus",
+    "ja": "Nitro＋",
+    "ko": "니트로 플러스",
+    "code": "nitroplus"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3363,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VkNxP6P1cnE/X4MR4Q9KkrI/AAAAAAAApYs/5EBaYQHX8dg7lNCxsv3kYkLu85ZdUxODACLcBGAsYHQ/s270/035-Joy-Max-Nitroplus-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VkNxP6P1cnE/X4MR4Q9KkrI/AAAAAAAApYs/5EBaYQHX8dg7lNCxsv3kYkLu85ZdUxODACLcBGAsYHQ/s270/035-Joy-Max-Nitroplus-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sNu262VKNdE/X4GwaUlx7aI/AAAAAAAApCE/ULJlJ9fJ9RMA046vR1JOga-JOTH3UimLQCLcBGAsYHQ/s135/035-Jox-Max-Nitroplus-Mascot-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n035/",
+      "fetched_at": "2026-05-16T19:10:33.086Z",
+      "raw_id": "/nendoroid/details/n035/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.270Z",
+      "raw_id": "Nendoroid/0000-0099/035.json"
+    }
+  ]
+}

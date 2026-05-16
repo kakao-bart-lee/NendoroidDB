@@ -1,0 +1,68 @@
+{
+  "num": "0052",
+  "name": {
+    "en": "Nendoroid Kyouka Midarezaki (みだれざき きょうか)",
+    "ja": "ねんどろいど 乱崎凶華 (みだれざき きょうか)",
+    "ko": "미다레자키 쿄우카"
+  },
+  "series": {
+    "en": "Kyouran Kazoku Nikki (Diary of a Crazed Family)",
+    "ja": "狂乱家族日記",
+    "ko": "광란가족일기",
+    "code": "kyouran-kazoku-nikki-diary-of-a-crazed-family"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7-FQecItHxA/X4MR9x2aM9I/AAAAAAAApZs/xs-ZAgYTZXk39bbdV4IfoOurtDZb-ZA3gCLcBGAsYHQ/s270/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7-FQecItHxA/X4MR9x2aM9I/AAAAAAAApZs/xs-ZAgYTZXk39bbdV4IfoOurtDZb-ZA3gCLcBGAsYHQ/s270/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t9UKcyI0VME/X4GwjXZRRrI/AAAAAAAApE4/zqAj_qVDfDM-EITeAIqq5I_X0SxF1CKHACLcBGAsYHQ/s135/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N9akKPFKQBA/X4Gwjrt1VoI/AAAAAAAApE8/gBziFiCyabYYKU86PFoF9nJA7JUToW87QCLcBGAsYHQ/s135/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kNdXAQjhDk4/X4GwjoRE5kI/AAAAAAAApFA/gy-jEtlS7xMkRgQxEcMp0DGrFDPD0DvpQCLcBGAsYHQ/s135/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BBcf0aNeHcs/X4Gwj_NUcXI/AAAAAAAApFE/Bf1eHOy0IDAVEZx6GZfmzo3Qjp3fqN2QACLcBGAsYHQ/s135/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Q5lXkv4vO14/X4GwkTvlNQI/AAAAAAAApFI/e1QW4rI-S-YXtWV3Qoakjb16p2brESnagCLcBGAsYHQ/s135/052-Kyouka-Midarezaki-Kyouran-Kazoku-Nikki-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n052/",
+      "fetched_at": "2026-05-16T19:10:33.097Z",
+      "raw_id": "/nendoroid/details/n052/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.275Z",
+      "raw_id": "Nendoroid/0000-0099/052.json"
+    }
+  ]
+}

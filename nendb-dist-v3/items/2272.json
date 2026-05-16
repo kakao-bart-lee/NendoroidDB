@@ -1,0 +1,70 @@
+{
+  "num": "2272",
+  "name": {
+    "en": "Nendoroid Kurumi",
+    "ja": "ねんどろいど クルミ (ねんどろいど くるみ)",
+    "ko": "쿠루미"
+  },
+  "series": {
+    "en": "Lycoris Recoil",
+    "ja": "リコリス・リコイル",
+    "ko": "리코리스 리코일",
+    "code": "lycoris-recoil"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14875,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Cpi4JvQ6yJY/ZQoU87XrmhI/AAAAAAABBkU/1N7e9Hy1lO8eCLOBEkNberKCQIK2qmVogCNcBGAsYHQ/s270/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Cpi4JvQ6yJY/ZQoU87XrmhI/AAAAAAABBkU/1N7e9Hy1lO8eCLOBEkNberKCQIK2qmVogCNcBGAsYHQ/s270/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-G70hYQxPu9g/ZQshYR3LnII/AAAAAAABBw0/B4MT_T4O04oFbvZ4X1kY__ZN95MUlgNCwCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-am28IKy9FQ0/ZQshY1CDi4I/AAAAAAABBw4/SD__xbmrr40Abf7Z-bphNjmC0WobBf7bQCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-V1iMSCtZ2eI/ZQshZf1L_FI/AAAAAAABBw8/okEx69JJu-ofw0g7Wz_qvRKBVeC1WbeKwCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jSMMf0j-ODk/ZQshaE8AtGI/AAAAAAABBxA/RYOJvJID0ioVyMgR7d23h0PQIuwIUtbFQCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ylGKgO5OSco/ZQshaSwLYBI/AAAAAAABBxE/P76YJnS5NQIpLpDRMShi78PjOtOxxxykQCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mQXoe4G6c4E/ZQsha7SrGRI/AAAAAAABBxI/x5Fyi4pJFD8Nf6XmV-PHoFZgwweOmlNHgCNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wllsHRd-1kw/ZQshbom4daI/AAAAAAABBxM/JomW2K-fIqgVzCTxqwDFx2Hh0Zgk1aQFACNcBGAsYHQ/s135/2272-Kurumi-Lycoris-Recoil-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2272/",
+      "fetched_at": "2026-05-16T19:10:33.957Z",
+      "raw_id": "/nendoroid/details/n2272/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.869Z",
+      "raw_id": "Nendoroid/2200-2299/2272.json"
+    }
+  ]
+}

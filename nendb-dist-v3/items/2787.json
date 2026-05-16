@@ -1,0 +1,95 @@
+{
+  "num": "2787",
+  "name": {
+    "en": "Kafka",
+    "ja": "ねんどろいど カフカ",
+    "ko": null
+  },
+  "series": {
+    "en": "Honkai: Star Rail",
+    "ja": "崩壊：スターレイル",
+    "ko": null,
+    "code": "honkai-star-rail"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "ISC",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": "4571697185722",
+  "gsc_product_id": "1136789",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1136789",
+    "ja": "https://www.goodsmile.com/ja/product/1136789"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136789/nX3y1bAhTCdPsquGi9EcUztSxVMNaJrZ.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVtt0CWLItDUDpLRu0pZ8VXU7t5pn6zwn4muJ3I8UmwPpXfs1w4ecM1cj6NqMd2Mh4uxvdMiqqDtIVTbg8LgVRFZgPmTNfGPIrQDKTc4DeVi507l4mKtgtFkUN2g2BGJqsdcw1HdN-bR8jPvs-8GOOUeI6bPxh1k8mzU2_UTAAhIjldQ73Zf-pjKUHQaO/s270/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6dxOQAAwpr7qRPMRcJ_Jkfnz8f0G7GZiCDUZPfxztjnIDPheDm7i-VTPpgzGh61TnzYlfeWivFPtKS4T26JOjUR4Z9-jDAIAm2BW5jpd2mk5GV85p0z12yBOtxRcrLJj3QoNdq4VW-NI05ZUemtxcSD0IIo9Vto0cLc3iqMPmGCZ0ihuuVOk3Nd3htD5e/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGOnQ-WeF7mlMqioKZTUP0Z9wJbZow1I8Jmoi1_X1vdG4PknhV3_hfsqWlTdA-0ahcJ37TyK8rGZKR7-icuKZXhaTSyLhoDe09QOhVB26MLK1gkVUoNJAIGCAQL9ZJCP0-7oqGSISJkhj9hkzpQeX3AF3ZEC9BV30psDXgtkwoGTx8FL5dfbu49leme0N9/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjszUDVcbCUi98X6u1YIMIzgHju_B6l-iqP3uD463KtAyxFAUlCjjY-gesFlAVf0Mouj56coYhdHd9cQXosvCSkVPziNBuObFaNMOwH2lKUpV3TnSuVCmlKO2m2tiKsBTadrNw8JUwETmLhjbuBcfgP81rX3jG9h1TsaYBkuVjekOTRs_D9QMaK3DF-2Lvm/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6q6CecKyudLw9vEowuWQCfWrKlfvCYXPao0enMLbKQ2tOfulBuSjq7x57sRGnFdzHp2X3NILnuBIqQ89dMbdrvX6HSIRa2ilVnlsQr5igGTRgF0MyH-DBQkIQHUT2gNQzwp5EwvQJGboplgKqANmgehQAVv-lqgrFalKVIU0mFers91AlJO45XaHj_tCt/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIFv6tLViGg6hB0UddYw2bMua6h4fHjB3zZ5slkPkCdPmxs1FkSkbn-Uh_uRgvI20e7vh-NRkXW0y1srMUR9QlDr8zBenBSDnuw40XRRjzM_Dr_7X1GxPqdgq8ZIYCSEfL3uZBlXOyNESY5Uq0s6Eyw8HMi694MwL0isP0t7bmbO4y1q05PqXf9yZ8qzGs/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsabuESabkWX_TS1gj7U5aXJnHitPxY_fGX177jaZL0CU_ICd64ulugjsB7I19wHoNXPTyvoz8QmBlBa1fwOWDOZYVMBFFLNiC-1S-2UO2kMqbYWhXBR7nDZOMFoY68SsCEYv65FSZICN5PpwKKT7_-nynWXnc_1et2tx7b8UxrHBoqmqBbXNdUFBChpzJ/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD0YSSl0MnOFZD7TAtt2wP87gnCgvLKU2AzdiOXKy0sXbnLpgSwBxuzLSiJYSg7J1SUEiWm4IsDahFgpvecBEtmwMIYMx0Jv4W3L0SmQRVAOhYMjlSwsSbBp3tb_istluwqpjuf38TeCSOyZKaTwALkJAcPKhiiA30pIkR6X8rqMcn-BOt1AY4sq-o1If-/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBrfrWttb154Se7RWZi0E1MK7qXCJvKKen1rkLv0X0h15LFkLKjtw7MBDzD_sFGuq5T8SmpcOfMtNw86AQK_bQQDphxJ0V7CMMwGuI6lzUtTfxKtNuWTGPXd0cpV4Sfcr8alVDkjRbmsETZAabzXV80mlUdeHE-Md8ZRetlwELoqt9KcAHyBWx9F7zyTU/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW3k_9I9cbzXNCgBiV1TFW6lSt6PAfIgGmdKST4hjSbOk_SOj9YuCs21rQENhRRyxshn0yhgoGgILAqrRKTJhIti7eIDFmIoKyOHMI41ATMfZeO1qz9CPvc1iM85zW6DY-sF7ACCx2Qmd30cSuhUNADkcvxpkazwceNlpW1rcC8teouT8d8lupl4Zl7jZs/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwTRHsXDLAmUMIRx9lt-XVUztcAC0gmgIONEDqhm-ZB6EdwvmMlbVkKK25BDcLkyHXrJF8UH8rO3RPqxqZhEArbdnWqVvOvgyHhWAn5gb8bltes1N5gqw3uMgBqTCF8mFlbqRNov7wiBs7iNIdUyinM7bDvkpg5biP4NI_Gh4KTguQQwgK7NB2k4U2ZYSV/s135/2787-Kafka-Honkai-Star-Rail-Video-Games-Nendoroid-12.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136789/8bXCj4v96UKpS3yET5LZQVuNJBshMzed.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136789/nX3y1bAhTCdPsquGi9EcUztSxVMNaJrZ.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136789",
+      "price_local": 7500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:16:39.251Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136789",
+      "fetched_at": "2026-05-16T12:16:39.251Z",
+      "raw_id": "1136789"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1136789",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1136789"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2787/",
+      "fetched_at": "2026-05-16T19:10:34.310Z",
+      "raw_id": "/nendoroid/details/n2787/"
+    }
+  ]
+}

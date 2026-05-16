@@ -1,0 +1,94 @@
+{
+  "num": "1293",
+  "name": {
+    "en": "Nendoroid Racing Miku 2020 Ver.",
+    "ja": "ねんどろいど レーシングミク 2020Ver. (ねんどろいど れーしんぐみく 2020Ver.)",
+    "ko": "레이싱 미쿠 2020 Ver."
+  },
+  "series": {
+    "en": "Hatsune Miku GT Project",
+    "ja": "初音ミク GTプロジェクト",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "hatsune-miku-gt-project"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "GOODSMILE RACING",
+  "sculptor": "Kataharaitashi, toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": "4580590120495",
+  "gsc_product_id": "7017",
+  "gsc_product_num": 9310,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/7017",
+    "ja": "https://www.goodsmile.com/ja/product/7017"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200226/9310/67965/large/7035fa90bf2e46e8af9ae67b050243dc.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XeKeucAkDKc/X4NiiwsULZI/AAAAAAABms0/BphKaSHvkJUcOuKtN0SyFlQfacl0liglwCLcBGAsYHQ/s270/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j2FTrQm111A/X4r1SZq1NeI/AAAAAAABqJM/TOTPJj2cKnU8w6TxZiO0yX3Z8_4cy_FogCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vZQMqsDgmLU/X4r1SjuZBiI/AAAAAAABqJQ/zDxFGVdbzYQvwGEWobyotOv4Sh5myXnDwCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nWKZkuYYzLo/X4r1S0kQOMI/AAAAAAABqJU/vCXdb9ACXEMZJIKjAic3ieRmze1iDYtOwCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iTspF2IBMQk/X4r1TJ6GKgI/AAAAAAABqJY/KF-k9W3kpaApqSZTPfXIAE2vo8XfBQiDQCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jmdDcTj3KAw/X4r1TT0PFFI/AAAAAAABqJc/P7tFAxSiAb89hvbSEDWVFYtyXsMiCWCHwCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AiqKtR5Zd0s/X4r1Ttm2e4I/AAAAAAABqJg/XYY_G2GeGqoI-S-x2ES0Wc1vm6HPFmn7gCLcBGAsYHQ/s135/1293-Racing-Miku-GT-Project-Vocaloid-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200226/9310/67972/large/7251e9aed20843df7a1a2070475064e0.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20200226/9310/67965/large/7035fa90bf2e46e8af9ae67b050243dc.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7017",
+      "price_local": 6600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:50:32.029Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/7017",
+      "fetched_at": "2026-05-16T11:50:32.029Z",
+      "raw_id": "7017"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/7017",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "7017"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1293/",
+      "fetched_at": "2026-05-16T19:10:33.339Z",
+      "raw_id": "/nendoroid/details/n1293/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.631Z",
+      "raw_id": "Nendoroid/1200-1299/1293.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0846",
+  "name": {
+    "en": "Nendoroid Banri Settsu",
+    "ja": "ねんどろいど 摂津万里 (ねんどろいど せっつばんり)",
+    "ko": "셋츠 반리"
+  },
+  "series": {
+    "en": "A3!",
+    "ja": "A3!",
+    "ko": "A3!",
+    "code": "a3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6854,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FLOj5rgV1iM/X4Nd1p_eWkI/AAAAAAABmFk/oUiHT3_Gfd87bwnVUDOQMI_n6hibLNf2ACLcBGAsYHQ/s270/846-Banri-Settsu-A3-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FLOj5rgV1iM/X4Nd1p_eWkI/AAAAAAABmFk/oUiHT3_Gfd87bwnVUDOQMI_n6hibLNf2ACLcBGAsYHQ/s270/846-Banri-Settsu-A3-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oqLlRVyOsoA/X4rjENtY3LI/AAAAAAABnQk/wso5bFgC0XoYI5dQvaH3ytnXB9f7NTJoACLcBGAsYHQ/s135/846-Banri-Settsu-A3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cH6pfo7IbbU/X4rjEl9v5TI/AAAAAAABnQo/c-W9zFzrfx0W4WQ1sOEAB0A-ewOLJLrnwCLcBGAsYHQ/s135/846-Banri-Settsu-A3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y2kgKmGo2TY/X4rjFPqNMSI/AAAAAAABnQs/oowe47lirRciOag2ksZ0vPk0rdoEEfGsACLcBGAsYHQ/s135/846-Banri-Settsu-A3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ap3G3saZccc/X4rjFnjbcsI/AAAAAAABnQw/xvEKnuIOe4cjfphRW9UHBA1HBxBbbygVQCLcBGAsYHQ/s135/846-Banri-Settsu-A3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oMfF7ImqVJ8/X4rjF6JN6tI/AAAAAAABnQ0/_L3jbgAhBVcqahwF3R3coRcZgLYZt6fqACLcBGAsYHQ/s135/846-Banri-Settsu-A3-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n846/",
+      "fetched_at": "2026-05-16T19:10:34.833Z",
+      "raw_id": "/nendoroid/details/n846/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.521Z",
+      "raw_id": "Nendoroid/0800-0899/846.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0719",
+  "name": {
+    "en": "Nendoroid Kotaro Bokuto",
+    "ja": "ねんどろいど 木兎光太郎 (ねんどろいど ぼくとこうたろう)",
+    "ko": "보쿠토 코타로"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6162,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tjJFgmF0FJI/X4Nc2eEN9MI/AAAAAAABl8c/p__8jtwfG-0BvAOHujszkU0elENMycpNACLcBGAsYHQ/s270/719-Kotaro%2BBokuto-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tjJFgmF0FJI/X4Nc2eEN9MI/AAAAAAABl8c/p__8jtwfG-0BvAOHujszkU0elENMycpNACLcBGAsYHQ/s270/719-Kotaro%2BBokuto-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OAHzGzrP208/X4i3xUosgPI/AAAAAAAAtNA/CjNBOLhlTF8B_UD31zoN0FPTP9eKGX4gQCLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LSgvxk4-hGM/X4i3xtJFQRI/AAAAAAAAtNE/GqPVdQ5RKeUaLp_rfExtBnbMSZV8BcTEwCLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HQbkDUV9rK4/X4i3x66oW1I/AAAAAAAAtNI/zKJdHma10qwi_a8wPaPzpCWJLSiaUMCrQCLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1jL37VgKY78/X4i3yIewi9I/AAAAAAAAtNM/QXLkbgE8-CQcS6T_Zbk0uxHs-H19nhhvACLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QYjN2r5ROLM/X4i3yWIV3CI/AAAAAAAAtNQ/Yvm1UPyLf-0tOwxR01FdY4ess61lZoMBQCLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AI-zpm1XJk4/X4i3ySibWDI/AAAAAAAAtNU/f7hyTyA0oeYnX67dC3skUxc-ey9yPb2ZACLcBGAsYHQ/s135/719-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n719/",
+      "fetched_at": "2026-05-16T19:10:34.760Z",
+      "raw_id": "/nendoroid/details/n719/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.491Z",
+      "raw_id": "Nendoroid/0700-0799/719.json"
+    }
+  ]
+}

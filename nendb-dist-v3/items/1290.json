@@ -1,0 +1,67 @@
+{
+  "num": "1290",
+  "name": {
+    "en": "Nendoroid Hawkeye: Endgame Ver.",
+    "ja": "ねんどろいど ホークアイ エンドゲームVer. (ねんどろいど ほーくあい えんどげーむVer.)",
+    "ko": "호크아이 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OLtRdK0KQg8/X4NiibLpZRI/AAAAAAABmso/8OWdBqqnCsQneUL1S_oCMKGCgMG--mdeACLcBGAsYHQ/s270/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OLtRdK0KQg8/X4NiibLpZRI/AAAAAAABmso/8OWdBqqnCsQneUL1S_oCMKGCgMG--mdeACLcBGAsYHQ/s270/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HD_eoO5A20s/X4r1Om6ScVI/AAAAAAABqIU/1k7Y3RYyIf0YZgJJSgaNrJ7Hy9D5EMsggCLcBGAsYHQ/s135/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-erTCzPyyd40/X4r1O14eW3I/AAAAAAABqIY/DG6mf65fa2c11zcD3_Fp_UhsrzePk56zACLcBGAsYHQ/s135/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i53-f-lVrAM/X4r1PDfTcuI/AAAAAAABqIc/eKalHQVFKP0_dxDkBqbIhYf1iaH-8jYhACLcBGAsYHQ/s135/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RnuWxD399bc/X4r1PTh-00I/AAAAAAABqIg/4TMhXjNFnpgffkXu2llPXogoKVZhf2LbgCLcBGAsYHQ/s135/1290-Hawkeye-Avengers-Endgame-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1290/",
+      "fetched_at": "2026-05-16T19:10:33.338Z",
+      "raw_id": "/nendoroid/details/n1290/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.631Z",
+      "raw_id": "Nendoroid/1200-1299/1290.json"
+    }
+  ]
+}

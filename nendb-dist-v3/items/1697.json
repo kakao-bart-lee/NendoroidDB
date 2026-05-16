@@ -1,0 +1,71 @@
+{
+  "num": "1697",
+  "name": {
+    "en": "Nendoroid Shiranui",
+    "ja": "ねんどろいど 白野威 (ねんどろいど しらぬい)",
+    "ko": "시라누이"
+  },
+  "series": {
+    "en": "Okami",
+    "ja": "大神",
+    "ko": "오오카미",
+    "code": "okami"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11627,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cum2HTsvkxo/YS6JyiwaALI/AAAAAAAAz-Y/WIlsiXxmhq4wGZCtwcdaHQ3SFfRtbCilQCLcBGAsYHQ/s270/1697-Shiranui-Okami-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cum2HTsvkxo/YS6JyiwaALI/AAAAAAAAz-Y/WIlsiXxmhq4wGZCtwcdaHQ3SFfRtbCilQCLcBGAsYHQ/s270/1697-Shiranui-Okami-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QGxqJb7uCsU/YS6NIdehASI/AAAAAAAA0OY/-W_sGNmT5IgUgRNlO7qbHRQAV9_FwsH4ACLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RsDa1aqb-PY/YS6NIsATryI/AAAAAAAA0Oc/eS3hZ7MhMeY4VyCLrGMUWw2UfJB43dg8ACLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5uNIRDzSO2E/YS6NIy8yM0I/AAAAAAAA0Og/Vy6wm9k-lQ0v8ELjYrSTtAWxOI8Tex3mgCLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8hVIsob5bUk/YS6NI8RDsfI/AAAAAAAA0Ok/Yo4Y2QNj1bYLUZp67zBK1GmfI0iMIqjvQCLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oJUL2458myw/YS6NJZTb04I/AAAAAAAA0Os/6mOJX0zBC0oQeugGPancrJp6sskyWmW6ACLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CaD4eY57r9Q/YS6NJhRW1WI/AAAAAAAA0Oo/Eb5WeFK3yx0-kW2myW9NRfLBo1owKF-BgCLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-KQfVZ04wD0g/YS6NJijMU3I/AAAAAAAA0O0/P93bL061UfQs9cHtXG0ZhhzdL_vB7LkEgCLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-mm8hpJx39vk/YS6NIPciZTI/AAAAAAAA0OU/l3ZH4gYr7xo5plGWY0-dcHC2PBJIoeHMQCLcBGAsYHQ/s135/1697-Shiranui-Okami-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1697/",
+      "fetched_at": "2026-05-16T19:10:33.591Z",
+      "raw_id": "/nendoroid/details/n1697/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.729Z",
+      "raw_id": "Nendoroid/1600-1699/1697.json"
+    }
+  ]
+}

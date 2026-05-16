@@ -1,0 +1,55 @@
+{
+  "num": "11278",
+  "name": {
+    "en": "Nendoroid Doll Kashuu Kiyomitsu",
+    "ja": "ねんどろいどどーる 加州清光 (ねんどろいどどーる かしゅうきよみつ)",
+    "ko": "카슈 키요미츠"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLIINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11278,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210527/11278/85425/large/096d83d59a23ae1a8c3f5925841e2f99.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.953Z",
+      "raw_id": "NendoroidDoll/Doll/11278.json"
+    }
+  ]
+}

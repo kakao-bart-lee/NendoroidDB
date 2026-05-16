@@ -1,0 +1,69 @@
+{
+  "num": "2000",
+  "name": {
+    "en": "Nendoroid Eren Yeager: The Final Season Ver.",
+    "ja": "ねんどろいど エレン・イェーガー The Final Season Ver. (ねんどろいど えれん・いぇーがー ざ ふぁいなる しーずん Ver.)",
+    "ko": "에렌 예거: 파이널 시즌 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12955,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KfwlO9-SQO8/Yw_WhcRjxzI/AAAAAAAA6cM/1tJbAWJK_h4SVlAxMqegOgyQHG4fi84CACNcBGAsYHQ/s270/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KfwlO9-SQO8/Yw_WhcRjxzI/AAAAAAAA6cM/1tJbAWJK_h4SVlAxMqegOgyQHG4fi84CACNcBGAsYHQ/s270/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oBLb_5b9kSU/YxEYtmp_nKI/AAAAAAAA61M/dUaK-HQ7OuMc7ol_NK3ayLoo1zyOU5dZgCNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6rVW_2zcOik/YxEYtmq02SI/AAAAAAAA61Q/QaACOqp8aBIfwxSxQCD0qa9h6yxHMaPNgCNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mcGb18DnC2I/YxEYt3_RFMI/AAAAAAAA61U/HeIhuBaYb-c5d2XRBcjfGGx-nOU5lP97wCNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yg24lFQ8UQ8/YxEYuCl6KpI/AAAAAAAA61Y/f61WK82H4A8_HFCptSw8L_o5ybkaF-SigCNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_Mo8COJLoWY/YxEYuhVKEkI/AAAAAAAA61c/ej3IVsfOp20YbfVr2QPgJjCbBEVNTesbwCNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CquzAgm89s8/YxEYvGRxk4I/AAAAAAAA61g/fO317zgU_zkmafENSwCKDNFXwzOYqA5OACNcBGAsYHQ/s135/2000-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2000/",
+      "fetched_at": "2026-05-16T19:10:33.777Z",
+      "raw_id": "/nendoroid/details/n2000/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.802Z",
+      "raw_id": "Nendoroid/2000-2099/2000.json"
+    }
+  ]
+}

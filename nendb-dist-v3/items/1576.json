@@ -1,0 +1,70 @@
+{
+  "num": "1576",
+  "name": {
+    "en": "Nendoroid NieR:Automata 9S (YoRHa No. 9 Type S)",
+    "ja": "ねんどろいど NieR:Automata 9S（ヨルハ九号S型） (ねんどろいど にーあ:おーとまた ないんえす（よるはきゅうごうえすがた）)",
+    "ko": "요르하 9호 S형"
+  },
+  "series": {
+    "en": "NieR:Automata",
+    "ja": "NieR:Automata",
+    "ko": "니어 오토마타",
+    "code": "nier-automata"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10853,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iQEItCX1cS0/YFXyCRwQqJI/AAAAAAAAwMA/J5QNVarzcEcYi_M4eP31kK00V7BOCeDqgCLcBGAsYHQ/s270/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iQEItCX1cS0/YFXyCRwQqJI/AAAAAAAAwMA/J5QNVarzcEcYi_M4eP31kK00V7BOCeDqgCLcBGAsYHQ/s270/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eNnsSaNaTew/YD1f3Bg-QRI/AAAAAAAAv98/IddmJBSjemkGZvNSZqCH4JTGD_-mkX57gCLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5f91SSKwcoY/YD1f3JJlXbI/AAAAAAAAv94/unNUDolF34cGipz8l-FajQSbSkFPRB_qQCLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-umZ1r5IpFuY/YD1f3FYRx6I/AAAAAAAAv-A/X1Zn0SGUEGoEaqXft1XZbRxUHnQ3CeeBACLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-U7BVG7N7UCA/YD1f3vexhzI/AAAAAAAAv-E/gXF9diF0dA8fib0Ja1O2sNLg2oaldV2JwCLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2n_AaDYe1Qo/YD1f4ADXPSI/AAAAAAAAv-I/M2f43Ao9Yy09R52bv2z2BrdiyP2ITR2mQCLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zVwSI9Hx42M/YD1f4hTBamI/AAAAAAAAv-M/MeMJhPIBS48spDuIEH5PaXOniB0insytQCLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BhH_k6sMTVI/YD1f5QwmfAI/AAAAAAAAv-Q/CxVWRsUX0O4Ct1aDKJoNd9beB1iBh6AzACLcBGAsYHQ/s135/1576-YoRHa-No.9-Type-S-NieRAutomata-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1576/",
+      "fetched_at": "2026-05-16T19:10:33.514Z",
+      "raw_id": "/nendoroid/details/n1576/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.699Z",
+      "raw_id": "Nendoroid/1500-1599/1576.json"
+    }
+  ]
+}

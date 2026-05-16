@@ -1,0 +1,68 @@
+{
+  "num": "1513",
+  "name": {
+    "en": "Nendoroid Riri Hitotsuyanagi",
+    "ja": "ねんどろいど 一柳梨璃 (ねんどろいど ひとつやなぎりり)",
+    "ko": "히토츠야나기 리리"
+  },
+  "series": {
+    "en": "Assault Lily BOUQUET",
+    "ja": "アサルトリリィ BOUQUET",
+    "ko": "어설트 릴리 BOUQUET",
+    "code": "assault-lily-bouquet"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10399,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wrSnNNhbpL8/X67o2RxvnHI/AAAAAAAAukM/QsspxGcvxesasLvlOIa1Yjbxx_z7Qdr2ACLcBGAsYHQ/s270/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wrSnNNhbpL8/X67o2RxvnHI/AAAAAAAAukM/QsspxGcvxesasLvlOIa1Yjbxx_z7Qdr2ACLcBGAsYHQ/s270/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9CmopvCK7FE/X67pIFmJeJI/AAAAAAAAuks/p8JuMlXTw7knThuPZmjdoG5GTw5iG0TLgCLcBGAsYHQ/s135/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cONt9H3i8Gs/X67pIl1JZCI/AAAAAAAAukw/7CgxVXJds_Iit6PS1Jubpzt0KV7Qff1CQCLcBGAsYHQ/s135/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DdowqBvFgn8/X67pJH2CaXI/AAAAAAAAuk0/BUoow3Tv-8Ygzym_-pytG_o0Tsez9PXpQCLcBGAsYHQ/s135/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-h2B10rxYfps/X67pJknpKqI/AAAAAAAAuk4/8Y4qVrBYsKYzTQVbIoQnKV1UfMi79jySgCLcBGAsYHQ/s135/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lC9wH3XpC-o/X67pKL7mVQI/AAAAAAAAuk8/5VsrSBgg2n8Eyx7snDM4TDI5sunM2Qu6QCLcBGAsYHQ/s135/1513-Riri-Hitotsuyanagi-Assault-Lily-BOUQUET-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1513/",
+      "fetched_at": "2026-05-16T19:10:33.476Z",
+      "raw_id": "/nendoroid/details/n1513/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.684Z",
+      "raw_id": "Nendoroid/1500-1599/1513.json"
+    }
+  ]
+}

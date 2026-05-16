@@ -1,0 +1,68 @@
+{
+  "num": "1087",
+  "name": {
+    "en": "Nendoroid Springfield",
+    "ja": "ねんどろいど スプリングフィールド (ねんどろいど すぷりんぐふぃーるど)",
+    "ko": "스프링필드"
+  },
+  "series": {
+    "en": "Girls' Frontline",
+    "ja": "ドールズフロントライン",
+    "ko": "소녀전선",
+    "code": "girls-frontline"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8068,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DkExYAq4EmE/X4Nf6cUAz7I/AAAAAAABmW4/NRh_7R-Sar8Y3sLdECE6FzG9hp8GIyG1wCLcBGAsYHQ/s270/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DkExYAq4EmE/X4Nf6cUAz7I/AAAAAAABmW4/NRh_7R-Sar8Y3sLdECE6FzG9hp8GIyG1wCLcBGAsYHQ/s270/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RK2U413DzmI/X4rtTMrK7MI/AAAAAAABozI/EntXeSJDkNovbSu4bomMpio8eSVcAw5dwCLcBGAsYHQ/s135/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-50IFBbA4AW0/X4rtTZ2g2tI/AAAAAAABozM/4H6gpH0fsFk_tdoKnyFvsC930pEftQ8ogCLcBGAsYHQ/s135/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JJxeSMt0l9s/X4rtTrTm2FI/AAAAAAABozQ/OTO0rkxNPcQsJDRMLqR5o49FIZXSUNCgACLcBGAsYHQ/s135/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JcPpZrdNpxE/X4rtTzKyzZI/AAAAAAABozU/oPscdE2aCtEOncUpxQ_osZuHnI6iUp8sgCLcBGAsYHQ/s135/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5lImlxhfMfk/X4rtTybDgLI/AAAAAAABozY/qE59lnMpszoX5zwhAd7t6OeEGijCE4zgQCLcBGAsYHQ/s135/1087-Springfield-Girls-Frontline-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1087/",
+      "fetched_at": "2026-05-16T19:10:33.211Z",
+      "raw_id": "/nendoroid/details/n1087/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.581Z",
+      "raw_id": "Nendoroid/1000-1099/1087.json"
+    }
+  ]
+}

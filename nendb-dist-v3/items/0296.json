@@ -1,0 +1,67 @@
+{
+  "num": "0296",
+  "name": {
+    "en": "Nendoroid Alice (ねんどろいど ありす)",
+    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
+    "ko": "아리스"
+  },
+  "series": {
+    "en": "Momoiro Taisen Pairon",
+    "ja": "桃色大戦ぱいろん",
+    "ko": "도색대전 파이론",
+    "code": "momoiro-taisen-pairon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3786,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MlmxVcrEmTI/X4NLcnaOJMI/AAAAAAABlbU/kTyU08pJh7ojGBtmwDmHuy4_yHrC7nINgCLcBGAsYHQ/s270/296-Alice-Momoiro%2BTaisen%2BPairon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MlmxVcrEmTI/X4NLcnaOJMI/AAAAAAABlbU/kTyU08pJh7ojGBtmwDmHuy4_yHrC7nINgCLcBGAsYHQ/s270/296-Alice-Momoiro%2BTaisen%2BPairon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-p6UvKxKiqTA/X4dYkG3-YQI/AAAAAAAAqvQ/HwfwrEF_F7wHS-E4ci4-dOmQR9ceUlj8gCLcBGAsYHQ/s135/296-Alice-Momoiro-Taisen-Pairon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OZIlDf2aM4I/X4dYkV8ifMI/AAAAAAAAqvY/l_7zROL74mMym8rTC__M4x4DllxW4D3-ACLcBGAsYHQ/s135/296-Alice-Momoiro-Taisen-Pairon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XXgdnt1I6qg/X4dYkfsjnQI/AAAAAAAAqvU/M6Lff-SAZFY8cBQ5vwwoHAZeAuB6HhltQCLcBGAsYHQ/s135/296-Alice-Momoiro-Taisen-Pairon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-V2Yv7noV1JQ/X4dYkvDTXtI/AAAAAAAAqvc/SKCivpAA2LAHoNTwmRrYdoY9CtA_M0l6gCLcBGAsYHQ/s135/296-Alice-Momoiro-Taisen-Pairon-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n296/",
+      "fetched_at": "2026-05-16T19:10:34.409Z",
+      "raw_id": "/nendoroid/details/n296/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.344Z",
+      "raw_id": "Nendoroid/0200-0299/296.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1036",
+  "name": {
+    "en": "Nendoroid Platelet",
+    "ja": "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
+    "ko": "혈소판"
+  },
+  "series": {
+    "en": "Cells at Work!",
+    "ja": "はたらく細胞",
+    "ko": "일하는 세포",
+    "code": "cells-at-work"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7831,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bgUmvYK4Mjk/X4NfozzzEBI/AAAAAAABmTY/cwiUlmU_U0YMBX5FDoiXUWqqMo87kW2zACLcBGAsYHQ/s270/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bgUmvYK4Mjk/X4NfozzzEBI/AAAAAAABmTY/cwiUlmU_U0YMBX5FDoiXUWqqMo87kW2zACLcBGAsYHQ/s270/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dT4Z5_-JrqU/X4rr3vkxouI/AAAAAAABoe8/TcR-LB6ZoMgWdCAJiwN8LEL92x4ltRqAgCLcBGAsYHQ/s135/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U-tBtboBuNs/X4rr4OSJeRI/AAAAAAABofA/EpKUlwm3X7MlhNg3_1Wkz1ni4_WZZSPpACLcBGAsYHQ/s135/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yiILpebA6Lg/X4rr4Vw5U7I/AAAAAAABofI/E1piCABTr_o3haC3aYPGz22Ru-6YPwifQCLcBGAsYHQ/s135/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KZy01Zaafhs/X4rr4d58DCI/AAAAAAABofE/RYoZD5I3MGANydQp1rAGiiuJZuMZQrOiwCLcBGAsYHQ/s135/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bpWMAwuYCN0/X4rr4gtszzI/AAAAAAABofM/2ktMImeHgsI2vKTLkn2YMic4cIVLjbm-gCLcBGAsYHQ/s135/1036-Platelet-Cells-at-Work-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1036/",
+      "fetched_at": "2026-05-16T19:10:33.161Z",
+      "raw_id": "/nendoroid/details/n1036/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.569Z",
+      "raw_id": "Nendoroid/1000-1099/1036.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0080",
+  "name": {
+    "en": "Nendoroid Yume Asakura (あさくらゆめ ねんどろいど)",
+    "ja": "ねんどろいど 朝倉由夢 (あさくらゆめ ねんどろいど)",
+    "ko": "아사쿠라 유메"
+  },
+  "series": {
+    "en": "D.C. II ~Da Capo II~",
+    "ja": "D.C.Ⅱ～ダ・カーポⅡ～",
+    "ko": "다카포",
+    "code": "d-c-ii-da-capo-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2540,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G_LLy3pX6Hs/X4MSFbnIlwI/AAAAAAAApbk/CPGGhp-dWhM-96UkcmNpj-qxcitGUJEVgCLcBGAsYHQ/s270/080-Yume%2BAsakura-D.C.%2BDa.Capo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G_LLy3pX6Hs/X4MSFbnIlwI/AAAAAAAApbk/CPGGhp-dWhM-96UkcmNpj-qxcitGUJEVgCLcBGAsYHQ/s270/080-Yume%2BAsakura-D.C.%2BDa.Capo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AmjdrL-4kgk/X4Gw-NEreRI/AAAAAAAApM4/WcdK_XSXDYUxBFOON1FPuwLVXWuFf34bQCLcBGAsYHQ/s135/080-Yume-Asakura-D.C.-Da.Capo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hjD-rl6iF5g/X4Gw-XSVR1I/AAAAAAAApM8/7S35QU8ROrIksqxk8bUnzHQfMvycFZLiACLcBGAsYHQ/s135/080-Yume-Asakura-D.C.-Da.Capo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Nz5jFrmSeYc/X4Gw-5mlZhI/AAAAAAAApNA/dchQJD4ONhcvEjXuzDn1_lNs1a8uyZq9wCLcBGAsYHQ/s135/080-Yume-Asakura-D.C.-Da.Capo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wsP6ozfJodM/X4Gw_KNA09I/AAAAAAAApNE/B4nRt75ATbEGcns1fAfklBCtejNBrlSOgCLcBGAsYHQ/s135/080-Yume-Asakura-D.C.-Da.Capo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BW74Q9gDJQU/X4Gw_oovceI/AAAAAAAApNI/i6nuu1I7U1oq9kOdeINgGQHB2VLGWazVACLcBGAsYHQ/s135/080-Yume-Asakura-D.C.-Da.Capo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n080/",
+      "fetched_at": "2026-05-16T19:10:33.115Z",
+      "raw_id": "/nendoroid/details/n080/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.283Z",
+      "raw_id": "Nendoroid/0000-0099/080.json"
+    }
+  ]
+}

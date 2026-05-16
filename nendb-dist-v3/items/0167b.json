@@ -1,0 +1,68 @@
+{
+  "num": "0167b",
+  "name": {
+    "en": "Nendoroid Suntanned Cirno",
+    "ja": "ねんどろいど 日焼けしたチルノ (ねんどろいど ひやけしたちるの)",
+    "ko": "그을린 치르노"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6483,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_e1HPB2mGMg/X4NKDq6sQvI/AAAAAAABlSQ/W-2F0bG86fklXrUvbdBpgGCpE60aBA0JwCLcBGAsYHQ/s270/167B-Cirno-Suntanned-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_e1HPB2mGMg/X4NKDq6sQvI/AAAAAAABlSQ/W-2F0bG86fklXrUvbdBpgGCpE60aBA0JwCLcBGAsYHQ/s270/167B-Cirno-Suntanned-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KlhY2FChXVk/X4dTgXejbYI/AAAAAAAAqEQ/HNnWG2QZ4akDp0fOT-eNf4zs66eZINbrgCLcBGAsYHQ/s135/167B-Cirno-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v3XYS_X91zM/X4dTgtqJdgI/AAAAAAAAqEU/5tAKRgFeV-AOLVgbv8m7KN3RiIW9Q_2hwCLcBGAsYHQ/s135/167B-Cirno-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JBssbcff77U/X4dTgzq3u7I/AAAAAAAAqEY/Wd63H-YmoNwmp_Y7ac-wmBvRbzR8aZRzQCLcBGAsYHQ/s135/167B-Cirno-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Tnq0Z7wHC1U/X4dThMRQTII/AAAAAAAAqEc/iuH32sfP8iQ5XeO2ALpA25KSfaPV6QaXgCLcBGAsYHQ/s135/167B-Cirno-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Yw8Lqju2CfE/X4dThd9N59I/AAAAAAAAqEg/G7A6bm9bsMsNeNRBz4h-rArngW84fw6PgCLcBGAsYHQ/s135/167B-Cirno-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n167b/",
+      "fetched_at": "2026-05-16T19:10:33.580Z",
+      "raw_id": "/nendoroid/details/n167b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.306Z",
+      "raw_id": "Nendoroid/0100-0199/167b.json"
+    }
+  ]
+}

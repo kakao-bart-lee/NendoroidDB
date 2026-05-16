@@ -1,0 +1,68 @@
+{
+  "num": "0671",
+  "name": {
+    "en": "Nendoroid Joker: Suicide Edition",
+    "ja": "ねんどろいど ジョーカー スーサイド・エディション (ねんどろいど じょーかー すーさいど・えでぃしょん)",
+    "ko": "조커 수어사이드 에디션"
+  },
+  "series": {
+    "en": "Suicide Squad",
+    "ja": "スーサイド・スクワッド",
+    "ko": "수어사이드 스쿼드",
+    "code": "suicide-squad"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5910,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NhSPlpxLeeE/X4NP611S9yI/AAAAAAABl44/d-GPZSibV3YUSIHeeEHXtetEAo1m6UYpQCLcBGAsYHQ/s270/671-Joker-Suicide-Edition-Suicide-Squad-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NhSPlpxLeeE/X4NP611S9yI/AAAAAAABl44/d-GPZSibV3YUSIHeeEHXtetEAo1m6UYpQCLcBGAsYHQ/s270/671-Joker-Suicide-Edition-Suicide-Squad-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GSTOhhqLlWc/X4i1iecOEQI/AAAAAAAAs5w/n5YzKx6qbLkG5LLFzEAU0y-DKJzTq85hwCLcBGAsYHQ/s135/671-Joker-Suicide-Squad-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UZmBzyu8cjM/X4i1iXk4BVI/AAAAAAAAs50/RJtAyuQ5BcIqhmcN-O2QzVKngGbZFRRkQCLcBGAsYHQ/s135/671-Joker-Suicide-Squad-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oXTZB1I7r04/X4i1ii-v7GI/AAAAAAAAs54/TqjfitRFyrcxhwZ5VvUtdr4Qu9dHJv_3wCLcBGAsYHQ/s135/671-Joker-Suicide-Squad-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xt8VNpZCVEM/X4i1iuWgNCI/AAAAAAAAs58/zQYaDI4mUFk8pIF4MMOeO-kM8I89UFJewCLcBGAsYHQ/s135/671-Joker-Suicide-Squad-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8Ngld7vD9-0/X4i1i-3ImlI/AAAAAAAAs6A/pvYezI3jNsEXEVlp0lF0LM6vu8mqje8oACLcBGAsYHQ/s135/671-Joker-Suicide-Squad-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n671/",
+      "fetched_at": "2026-05-16T19:10:34.734Z",
+      "raw_id": "/nendoroid/details/n671/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.480Z",
+      "raw_id": "Nendoroid/0600-0699/671.json"
+    }
+  ]
+}

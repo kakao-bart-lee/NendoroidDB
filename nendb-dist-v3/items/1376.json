@@ -1,0 +1,68 @@
+{
+  "num": "1376",
+  "name": {
+    "en": "Nendoroid Vivian",
+    "ja": "ねんどろいど ヴィヴィアン (ねんどろいど ゔぃゔぃあん)",
+    "ko": "비비안"
+  },
+  "series": {
+    "en": "Journal of the Mysterious Creatures",
+    "ja": "異常生物見聞録",
+    "ko": "이상생물견문록",
+    "code": "journal-of-the-mysterious-creatures"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9680,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2JPFhg4UgrU/X4Nj2qrWWoI/AAAAAAABm3g/zlSm4TP5LGs9RhBIk1r4qRixr4UzyfFHQCLcBGAsYHQ/s270/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2JPFhg4UgrU/X4Nj2qrWWoI/AAAAAAABm3g/zlSm4TP5LGs9RhBIk1r4qRixr4UzyfFHQCLcBGAsYHQ/s270/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ff18Kcl7478/X4s-FUZeAmI/AAAAAAABqps/o3iPQjpHxAwnPFg-EJJnCVbvTAOEN9GVQCLcBGAsYHQ/s135/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vyam3ujrEh0/X4s-Fjjqx8I/AAAAAAABqpw/VLn6LwyjbLM_yRwjFH1woo45wJK-vhmaQCLcBGAsYHQ/s135/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WwrplrA2RS4/X4s-FoH13RI/AAAAAAABqp0/ojKUGu7nvXYtDZtIF3fOMGqjZP2hdD-bQCLcBGAsYHQ/s135/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-a4_vcu-TTV8/X4s-GD1CFkI/AAAAAAABqp4/0qSk_o_F184YIMPvR4cTIPZUzDfxbm4UQCLcBGAsYHQ/s135/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6Qk8S6gOnDw/X4s-GTOOPjI/AAAAAAABqp8/3aHttyMc6nEB4DVaqqcFcU9YnuNOiU7SACLcBGAsYHQ/s135/1376-Vivian-Journal-of-the-Mysterious-Creatures-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1376/",
+      "fetched_at": "2026-05-16T19:10:33.391Z",
+      "raw_id": "/nendoroid/details/n1376/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.651Z",
+      "raw_id": "Nendoroid/1300-1399/1376.json"
+    }
+  ]
+}

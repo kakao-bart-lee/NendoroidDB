@@ -1,0 +1,67 @@
+{
+  "num": "0056b",
+  "name": {
+    "en": "Nendoroid Pixel Maritan: Mission Complete! Battle Preparations Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)",
+    "ja": "ねんどろいど　ぴくせる☆まりたん　完了！戦闘準備Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)",
+    "ko": "픽셀☆마리땅 강습전투 Ver."
+  },
+  "series": {
+    "en": "Magical Marine Pixel Maritan",
+    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko": "마법의 해병대원 픽셀☆마리땅",
+    "code": "magical-marine-pixel-maritan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2179,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PE2SVMN8SSM/X4MR_aUM6hI/AAAAAAAApaE/XBjigbPJavsUVUV9MH7GuiA6JkM-atXzwCLcBGAsYHQ/s270/056B-Pixel-Maritan-Mission-Complete-Magical-Marina-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PE2SVMN8SSM/X4MR_aUM6hI/AAAAAAAApaE/XBjigbPJavsUVUV9MH7GuiA6JkM-atXzwCLcBGAsYHQ/s270/056B-Pixel-Maritan-Mission-Complete-Magical-Marina-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rHFvapwGAkQ/X4GwnYwDoXI/AAAAAAAApGI/rENhfcHEscMXCEhwmJx369mPnS7PkyfnACLcBGAsYHQ/s135/056B-Pixel-Maritan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EjDgaMSkVZI/X4GwnmP2oBI/AAAAAAAApGM/1T8Bg85SQvIvOyDgDEhggGO_MVEWog-SgCLcBGAsYHQ/s135/056B-Pixel-Maritan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-54r5SsG0pog/X4Gwn_D3IhI/AAAAAAAApGQ/w6jYr49r94ELPPposc6B8h20O9H04zSUwCLcBGAsYHQ/s135/056B-Pixel-Maritan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--fiWs04rlx4/X4Gwn_qlfSI/AAAAAAAApGU/siNZVP99YFkVF5O-ybBbRE0DRxzUy8ELgCLcBGAsYHQ/s135/056B-Pixel-Maritan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n056b/",
+      "fetched_at": "2026-05-16T19:10:33.101Z",
+      "raw_id": "/nendoroid/details/n056b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.277Z",
+      "raw_id": "Nendoroid/0000-0099/056b.json"
+    }
+  ]
+}

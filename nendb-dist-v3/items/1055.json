@@ -1,0 +1,68 @@
+{
+  "num": "1055",
+  "name": {
+    "en": "Nendoroid Beam Kirby",
+    "ja": "ねんどろいど ビームカービィ (ねんどろいど びーむかーびぃ)",
+    "ko": "빔 커비"
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": "星のカービィ",
+    "ko": "별의 커비",
+    "code": "kirby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7916,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gEvCZt1LE-g/X4NfwAxjliI/AAAAAAABmUw/qSsjNXK106YznxhXdUM4RXBNX7YZeIGDQCLcBGAsYHQ/s270/1055-Beam-Kirby-Kirby-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gEvCZt1LE-g/X4NfwAxjliI/AAAAAAABmUw/qSsjNXK106YznxhXdUM4RXBNX7YZeIGDQCLcBGAsYHQ/s270/1055-Beam-Kirby-Kirby-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m67P71MtFRA/X4rsbTfdL3I/AAAAAAABomc/j7LbJjK5K38BrjdTMD2huQNvDlFqZoibQCLcBGAsYHQ/s135/1055-Beam-Kirby-Kirby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gg-O4WFUDHE/X4rsb_DcdTI/AAAAAAABomg/j1yUiKC0pZIr3hTk1srGo8Os9scgE8yjQCLcBGAsYHQ/s135/1055-Beam-Kirby-Kirby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FksC9P8M5kk/X4rscMEXWKI/AAAAAAABomk/5lMuNC4fLio6iJzCMlFbOcWQRRolUejkgCLcBGAsYHQ/s135/1055-Beam-Kirby-Kirby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6BL7GnTjuR0/X4rscctkxeI/AAAAAAABomo/Cx7UHbpNRcskEsHcDx8TFJKTpOrd37N1gCLcBGAsYHQ/s135/1055-Beam-Kirby-Kirby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OijLZHjCt5Q/X4rsclWMUuI/AAAAAAABoms/DvdciIaQrB4_sR5s_Qz9TWFI3IsVfyQUgCLcBGAsYHQ/s135/1055-Beam-Kirby-Kirby-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1055/",
+      "fetched_at": "2026-05-16T19:10:33.181Z",
+      "raw_id": "/nendoroid/details/n1055/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.574Z",
+      "raw_id": "Nendoroid/1000-1099/1055.json"
+    }
+  ]
+}

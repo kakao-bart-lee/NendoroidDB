@@ -1,0 +1,64 @@
+{
+  "num": "2701",
+  "name": {
+    "en": "Momo",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Dandadan",
+    "ja": null,
+    "ko": null,
+    "code": "dandadan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLZj5g5R22_yuesq19YR2-TTK3bLn0Xe7bELv2iJvKO_eyt-X7F0qtbzeO5XsO-Q9gslWSyaTOvLLtSS-euB5x2tmgkHHnDsi2VddMl7DIYQCL8o4Jel6ahPIbCYi6ZTI_P05axcPzNIYMdIIH6wNV7QtOGi-ht9YGRsKNKIOsYWaSPRrYawBIO9CRxUbo/s270/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLZj5g5R22_yuesq19YR2-TTK3bLn0Xe7bELv2iJvKO_eyt-X7F0qtbzeO5XsO-Q9gslWSyaTOvLLtSS-euB5x2tmgkHHnDsi2VddMl7DIYQCL8o4Jel6ahPIbCYi6ZTI_P05axcPzNIYMdIIH6wNV7QtOGi-ht9YGRsKNKIOsYWaSPRrYawBIO9CRxUbo/s270/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTJ2k6Bowkl4kuszQwiiZV1yN4TV5LBr8SPAt7TXhHyjFTvNsmEe-7wYL0Xiv4yEl6XdtJCiECzBD12ND5Q-GxBbLRcZOh2RESfuxEtps5q3pU1UBgoM2d-HUHt76J9tkDlNME4fyfmT1xG51lTCjMLkYucQNudzjxnrpVCf3ZE4fYU9LTWhnrW_d198p/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuyHQK6q0xL7_53H56bB9V677PpFj3DUm8GF1rRbJq2H0Y5_2B3iUrH9jzm1d2n3tA0O9sOEy64RKCC9LwlJAVc-_-w9rfs-dDUlkgv8LJ155sHafcfm1oXlYZa3VjBeWk3tVTnEpOsLqmODUGLMfjKG2LoEQN8eQMXU1VOxGr_7WHfFUaMvnm7IS2C0Kc/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifOnFfjOa-bVKgfKOC5ZcmjopavfvfJvUFsGoHEB5ut550PJLH1UaLZViHyZWMfrIrI6cqoOzWSvM51eJKjimcOA4XHOYyxXIF82rrLehw0d0LiIS1zUPak2HPH157-WcdvoF97Ot-Gahir71kJIuwqi0O9dZ2UxJlyQTGhs-kR9FdOZ08LDYCwTEUGr7W/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRr8tzuEIKpUlb4xuCTWQFhXt4deWf4gugxgMExTWg_46FJ5aPXw5irhkks3cWxkW1ajK-9DnmbuHTSzAcAYAo2MiUiBxkTU7QTELAFFFN5S51A5OFB_O6YL2uyv25Rp6780FFtfA8BFB845JWIms1dQBoNvbOudNnc43ZjULpaNPkn12sGptdHxusBmeG/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn5FeZZPIAjSpplxi9dLQgjrE_6pYddV3azeBgNfQGYgB1KbBdmBFTwJV1nsKiv_UbKnbYiK8LhIiT9etlvccOkrScHDzquhv0Uz9rXjDa5Un680CUC8Vu3R-MfFpdI3Gj8yHlxMcyUgVxW5XJmNrBFX_6Jdgj3Px1kjBRIIR6S5kF0NKG6W6l2Arwt_mp/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4g2f9szRnKMled3r51RT0ULAA2e0oojeV44mI6NSru694w2251F0FRLDDxd-Okde776bdQBbG4MWk8HBr6ZtUfrjUVhWfHwM2bwlhdcxxgFYruhQY4jPbSg96K5aknMFBQieWADpWGqFaHRxs_VkRckBlGGDBadwzky01Ivqlc9pdiDg_TZR2HaZX09wt/s135/2701-Momo-Dandadan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2701/",
+      "fetched_at": "2026-05-16T19:10:34.234Z",
+      "raw_id": "/nendoroid/details/n2701/"
+    }
+  ]
+}

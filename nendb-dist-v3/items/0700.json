@@ -1,0 +1,68 @@
+{
+  "num": "0700",
+  "name": {
+    "en": "Nendoroid Reimu Hakurei 2.0",
+    "ja": "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
+    "ko": "하쿠레이 레이무 2.0"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6474,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-17oCW9fOLJE/X4NQCNDBk8I/AAAAAAABl6s/sQ9CdjjStZQQ7gCF2zApsRkj0uDNq54fACLcBGAsYHQ/s270/700-Reimu-Hakurei-2-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-17oCW9fOLJE/X4NQCNDBk8I/AAAAAAABl6s/sQ9CdjjStZQQ7gCF2zApsRkj0uDNq54fACLcBGAsYHQ/s270/700-Reimu-Hakurei-2-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-o2YTEp4d8K8/X4i2Oz923FI/AAAAAAAAtDw/6Vf799bOkTIxVDPFuOEL7Z1PSkJKaiPGgCLcBGAsYHQ/s135/700-Reimu-Hakurei-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JZQJAS3Uhdg/X4i2PbUD7fI/AAAAAAAAtD0/R6IAypbwAAo59OE3UL31pPww6L_H6vivgCLcBGAsYHQ/s135/700-Reimu-Hakurei-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pPpkaibbYFg/X4i2PmU4leI/AAAAAAAAtD4/G8ok6A7IedE2KNgxsW5SYjoZFNeT7lv3wCLcBGAsYHQ/s135/700-Reimu-Hakurei-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YtVLhqGOfxU/X4i2P7wtVzI/AAAAAAAAtD8/8PGBDOMpMmorOQiIJxGK0L5py59JJPbxgCLcBGAsYHQ/s135/700-Reimu-Hakurei-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-u-pJnUyBdhM/X4i2QNlPFGI/AAAAAAAAtEA/QCS25FKnoNUV5N_vhpMS9sGIkxSFvLm2QCLcBGAsYHQ/s135/700-Reimu-Hakurei-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n700/",
+      "fetched_at": "2026-05-16T19:10:34.750Z",
+      "raw_id": "/nendoroid/details/n700/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.487Z",
+      "raw_id": "Nendoroid/0700-0799/700.json"
+    }
+  ]
+}

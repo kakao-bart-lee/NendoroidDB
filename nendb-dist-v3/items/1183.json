@@ -1,0 +1,68 @@
+{
+  "num": "1183",
+  "name": {
+    "en": "Nendoroid Gon Freecss",
+    "ja": "ねんどろいど ゴン＝フリークス (ねんどろいど ごん＝ふりーくす)",
+    "ko": "곤 프릭스"
+  },
+  "series": {
+    "en": "HUNTER x HUNTER",
+    "ja": "HUNTER×HUNTER",
+    "ko": "헌터X헌터",
+    "code": "hunter-x-hunter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8650,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0upCNPjpmio/X4NgsyAk1yI/AAAAAAABmeA/JKbgrpJpIG8XMwSFQ6eM1LjX6zF31GjHwCLcBGAsYHQ/s270/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0upCNPjpmio/X4NgsyAk1yI/AAAAAAABmeA/JKbgrpJpIG8XMwSFQ6eM1LjX6zF31GjHwCLcBGAsYHQ/s270/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5WsTFCBuxDI/X4rxiyPqWYI/AAAAAAABpbs/pgiULT5dT6ATXDLmtWdKTzDoLb_qx_YrQCLcBGAsYHQ/s135/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--Rip30Bx-rQ/X4rxjIF0cPI/AAAAAAABpbw/_2FB_1wYrBoC4ytPWZldGT1GK2HZHlrxgCLcBGAsYHQ/s135/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-J0TIMt4xTk4/X4rxjWsfYsI/AAAAAAABpb0/0YQS92A0zzk1Ia7W15tOuuPlcZs7lga6QCLcBGAsYHQ/s135/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hEdVtRCsM3s/X4rxjnDfD1I/AAAAAAABpb4/7ghrzc1sagUAZOSCtIqNoaFy-ife-k-iACLcBGAsYHQ/s135/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dn7S50S3USE/X4rxj-T3HOI/AAAAAAABpb8/3EjABHvbp_k0r8YwzRXe_50GE5ZAjsSugCLcBGAsYHQ/s135/1183-Gon-Freecss-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1183/",
+      "fetched_at": "2026-05-16T19:10:33.272Z",
+      "raw_id": "/nendoroid/details/n1183/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.605Z",
+      "raw_id": "Nendoroid/1100-1199/1183.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0512",
+  "name": {
+    "en": "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)",
+    "ja": "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
+    "ko": "시부야 린"
+  },
+  "series": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "code": "the-idolm-ster-cinderella-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3769,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4924,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kWrLCBvqMNE/X4NOWiQFr6I/AAAAAAABluA/ItXq3QWdCH8NHNNnsBvlHASt26jND_YGgCLcBGAsYHQ/s270/512-Rin-Shibuya-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kWrLCBvqMNE/X4NOWiQFr6I/AAAAAAABluA/ItXq3QWdCH8NHNNnsBvlHASt26jND_YGgCLcBGAsYHQ/s270/512-Rin-Shibuya-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IShxnIKjA-Y/X4ir3zC3aCI/AAAAAAAAr-U/U2GUxbbO0hIU1sw9GQGKY9vooK5rVOZ2QCLcBGAsYHQ/s135/512-Rin-Shibuya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Eipgf7CQMdE/X4ir30BEbII/AAAAAAAAr-Y/hA9S3WT1XOMOtcvEQH14QJIjlXOawbnqACLcBGAsYHQ/s135/512-Rin-Shibuya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T64PXjgcY18/X4ir4IuWrxI/AAAAAAAAr-c/awCrTfJpRVoLAQlmeCsrvtDhYzNQvqAngCLcBGAsYHQ/s135/512-Rin-Shibuya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YNsEh35lspw/X4ir4WyPasI/AAAAAAAAr-g/-bo6757wI-QWcEky6-ZVNHg8bYBs2NUqQCLcBGAsYHQ/s135/512-Rin-Shibuya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-A69qt8nSsOI/X4ir4nF-1NI/AAAAAAAAr-k/NwWveii3YG4ZTgArgRU8Vwnup2NFD05xgCLcBGAsYHQ/s135/512-Rin-Shibuya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n512/",
+      "fetched_at": "2026-05-16T19:10:34.571Z",
+      "raw_id": "/nendoroid/details/n512/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.417Z",
+      "raw_id": "Nendoroid/0500-0599/512.json"
+    }
+  ]
+}

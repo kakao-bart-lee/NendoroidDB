@@ -1,0 +1,70 @@
+{
+  "num": "1742",
+  "name": {
+    "en": "Nendoroid Kars",
+    "ja": "ねんどろいど カーズ (ねんどろいど かーず)",
+    "ko": "카즈"
+  },
+  "series": {
+    "en": "JoJo’s Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11905,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cDaNZL1ekdU/YYBKDW-NOqI/AAAAAAAA1jc/suEZ9cc0ssUW6Yufuju9GaCsEb1LHXV-wCLcBGAsYHQ/s270/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cDaNZL1ekdU/YYBKDW-NOqI/AAAAAAAA1jc/suEZ9cc0ssUW6Yufuju9GaCsEb1LHXV-wCLcBGAsYHQ/s270/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dwTSkiX1psw/YYBO0w7nDZI/AAAAAAAA1pA/8QwlhnutW58XFqwCGZosm3wxA-x0cOlkQCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Vzfv3kRwp8Q/YYBO1GgfmyI/AAAAAAAA1pE/whEyqX3yfJ8ljlvo1wt3kedEsPmT8tbMgCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7XLJx94Dx6w/YYBO1AwhnlI/AAAAAAAA1pI/m7LUmLrbhVIOEHRJdMbc_yYz3Oa5L1B_wCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-h3va1t2GxKA/YYBO1e0YxYI/AAAAAAAA1pM/Y-i4lgkq0x0eX5UpzJYzUnwqWfMJ2hLWQCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MQNo8WeR3Yw/YYBO1kaGGOI/AAAAAAAA1pQ/ZML28dvY4kgmI-363ZiVrJbvnWOIKNMuQCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4pTby-Z8h6k/YYBO17w2wxI/AAAAAAAA1pU/JwGMlT943nAQ_-m680Brftas4c72nBUlACLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pt57y4seoAE/YYBO2BjibBI/AAAAAAAA1pY/UQ66Uu5W5o4_dZMybvqms0TKoOQHKtODgCLcBGAsYHQ/s135/1742-Kars-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1742/",
+      "fetched_at": "2026-05-16T19:10:33.620Z",
+      "raw_id": "/nendoroid/details/n1742/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.740Z",
+      "raw_id": "Nendoroid/1700-1799/1742.json"
+    }
+  ]
+}

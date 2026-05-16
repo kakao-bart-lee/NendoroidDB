@@ -1,0 +1,98 @@
+{
+  "num": "1538",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Symphony 5th Anniversary Ver.",
+    "ja": "ねんどろいど 初音ミクシンフォニー 5th Anniversary Ver.",
+    "ko": "하츠네 미쿠 심포니 5th Anniversary Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Figure: Approximately 100mm in height/Stand: Approximately W95mm x D95mm x H65mm",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm・台座：縦 約95mm×横 約95mm×高さ 約65mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9200,
+  "gtin": "4580828663367",
+  "gsc_product_id": "8255",
+  "gsc_product_num": 10561,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/8255",
+    "ja": "https://www.goodsmile.com/ja/product/8255"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20201215/10561/78772/large/ffbb10a606ee9eb885a725f5bf43c0f9.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5b5uGYSqpyQ/X_N-ruIyhDI/AAAAAAAAvNE/fpTlHRjJt5ISlkY2yU8j_7Ia5lTDvgcvQCLcBGAsYHQ/s270/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cUylQW_H380/X_OBdhgkQBI/AAAAAAAAvPc/cn3ypyg1IDMyr5uMp7l0or48QCU4it0qwCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GskL0jYifls/X_OBd8hrX_I/AAAAAAAAvPg/GH-IA6T86nAF-oPNJFJUcwUXLjPEgCOcQCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Rt6P2c6PDv8/X_OBeNu8YBI/AAAAAAAAvPk/s9OrNP4TUU0eaG9Ej5OLK4FtCWtV6Hp4wCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WMKP5Y_MSlE/X_OBefVquEI/AAAAAAAAvPo/17UA-SMkoSIk8Lgm3RxcZt_e8f44NiO5wCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YJ_N55EDKqE/X_OBehRaXGI/AAAAAAAAvPs/j2zxcgzEPVYTxo-sOR4-12UeUg5km2hVQCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0L9yahEi5v8/X_OBe3iog-I/AAAAAAAAvPw/4raUzy3gnCsQxyA9gfI8kMEli_ViQAaOgCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-UH6_qP75RlY/X_OBfOjc7JI/AAAAAAAAvP0/pdFJhNzpTp4O7l-eYmh7QFp_UQlEmO0lgCLcBGAsYHQ/s135/1538-Hatsune-Miku-Hatsune-Miku-Symphony-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20201215/10561/78771/large/9f3e415430c2450384390449874a87c5.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20201215/10561/78772/large/ffbb10a606ee9eb885a725f5bf43c0f9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8255",
+      "price_local": 9200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:11:47.021Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8255",
+      "fetched_at": "2026-05-16T12:11:47.021Z",
+      "raw_id": "8255"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/8255",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "8255"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1538/",
+      "fetched_at": "2026-05-16T19:10:33.490Z",
+      "raw_id": "/nendoroid/details/n1538/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.691Z",
+      "raw_id": "Nendoroid/1500-1599/1538.json"
+    }
+  ]
+}

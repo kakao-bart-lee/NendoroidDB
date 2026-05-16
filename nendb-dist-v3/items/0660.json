@@ -1,0 +1,69 @@
+{
+  "num": "0660",
+  "name": {
+    "en": "Nendoroid Mumei",
+    "ja": "ねんどろいど 無名 (ねんどろいど むめい)",
+    "ko": "무메이"
+  },
+  "series": {
+    "en": "Kabaneri of the Iron Fortress",
+    "ja": "甲鉄城のカバネリ",
+    "ko": "갑철성의 카바네리",
+    "code": "kabaneri-of-the-iron-fortress"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5825,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nei3HexNtIs/X4NP2X5cEWI/AAAAAAABl4M/2P5eXTkJqDwwNIJyn0r_d-wZ0fHYGhqOwCLcBGAsYHQ/s270/660-Mumei-Kabaneri%2Bof%2Bthe%2BIron%2BFortress-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nei3HexNtIs/X4NP2X5cEWI/AAAAAAABl4M/2P5eXTkJqDwwNIJyn0r_d-wZ0fHYGhqOwCLcBGAsYHQ/s270/660-Mumei-Kabaneri%2Bof%2Bthe%2BIron%2BFortress-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cCi6yAsKx58/X4i1IqSyqoI/AAAAAAAAs1k/lApY1M-lu6MM3C7QbH2aithKWCDCyVGnACLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-McSrBNuqmto/X4i1IpFc5CI/AAAAAAAAs1o/F67Enz1F6KMkLJ2YwXz8pw46FaGtTlLJACLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HqEzcHIIZFE/X4i1I2RQDLI/AAAAAAAAs1s/-jjcEQW7PtM8bR-xBzdaC9ycLSuBIFYPwCLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xcAnVfC-jBE/X4i1JEU8BzI/AAAAAAAAs1w/y5hhKLuviX8Ydko10cBYT7sCkCsTGrpCgCLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--53OGQdCkUo/X4i1Jch15PI/AAAAAAAAs10/AwN7uluhd704a7cSSOtSZ0xgQ77PMH_qgCLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3ZJgfNxRQAY/X4i1JcsW9RI/AAAAAAAAs14/mKP5gyfbxV8RnzDHpdb4PbAXf3KPX5uagCLcBGAsYHQ/s135/660-Mumei-Kabaneri-of-the-Iron-Fortress-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n660/",
+      "fetched_at": "2026-05-16T19:10:34.727Z",
+      "raw_id": "/nendoroid/details/n660/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.476Z",
+      "raw_id": "Nendoroid/0600-0699/660.json"
+    }
+  ]
+}

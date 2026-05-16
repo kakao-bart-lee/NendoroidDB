@@ -1,0 +1,69 @@
+{
+  "num": "0540",
+  "name": {
+    "en": "Nendoroid Tsurumaru Kuninaga",
+    "ja": "ねんどろいど 鶴丸国永 (ねんどろいど つるまるくになが)",
+    "ko": "츠루마루 쿠니나가"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5100,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_AfvNyGrjkM/X4NOfLbe5tI/AAAAAAABlv8/TJNk0KZXNMA_-G9fZmtuZ66ZYqJoRXQ7ACLcBGAsYHQ/s270/540-Tsurumaru-Kuninaga-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_AfvNyGrjkM/X4NOfLbe5tI/AAAAAAABlv8/TJNk0KZXNMA_-G9fZmtuZ66ZYqJoRXQ7ACLcBGAsYHQ/s270/540-Tsurumaru-Kuninaga-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cY5GG9viHlw/X4isjQ2LAcI/AAAAAAAAsIU/LCZLf1wHvEYF7K0rsWx9eJh6PFYn3PKvgCLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-44KiDCzyxrs/X4isjmqBc2I/AAAAAAAAsIY/l8l72AK80bsB5ceMFbQLkyiZ7CnqeOc8ACLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-V8TxXsAitw4/X4isj4_HMEI/AAAAAAAAsIc/RDRvHavjsp4FhBmFtpyghA2lp4pYo3xpQCLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nBq8etuarOI/X4isj2PYorI/AAAAAAAAsIg/-ul2K1hdMYMJVgWPW7c9YRivEoT-mH5PgCLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RBEbzId6Gn8/X4iskHT__CI/AAAAAAAAsIk/cLrEXT763KIPOMZiiGl1AHFZj_2gZeIUACLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Ed0TWMV8ozY/X4iskVemrTI/AAAAAAAAsIo/mkSDzHjXVD0FrrhaqMcUcynnrLMl-8Z6wCLcBGAsYHQ/s135/540-Tsurumaru-Kuninaga-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n540/",
+      "fetched_at": "2026-05-16T19:10:34.587Z",
+      "raw_id": "/nendoroid/details/n540/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.436Z",
+      "raw_id": "Nendoroid/0500-0599/540.json"
+    }
+  ]
+}

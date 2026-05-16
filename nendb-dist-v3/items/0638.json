@@ -1,0 +1,70 @@
+{
+  "num": "0638",
+  "name": {
+    "en": "Nendoroid Ichimatsu Matsuno",
+    "ja": "ねんどろいど 松野一松 (ねんどろいど まつのいちまつ)",
+    "ko": "마츠노 이치마츠"
+  },
+  "series": {
+    "en": "Osomatsu-san",
+    "ja": "おそ松さん",
+    "ko": "오소마츠 상",
+    "code": "osomatsu-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5704,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-f3e7O765Rs0/X4NPugKNIHI/AAAAAAABl20/AeYW2AA34-cxLUGr2LYcVPMiFTjyRabawCLcBGAsYHQ/s270/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-f3e7O765Rs0/X4NPugKNIHI/AAAAAAABl20/AeYW2AA34-cxLUGr2LYcVPMiFTjyRabawCLcBGAsYHQ/s270/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Jyh6O4I6Yjg/X4i0fZyySpI/AAAAAAAAstg/HjQfevJApH8In18oMGc8f5TJ4f5VZyNCwCLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JHSLteIEtdU/X4i0fZIfXhI/AAAAAAAAstk/YvMIl9wZRyAnewlqushDwelVK-ClHmhjQCLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BEnvzsDqXyE/X4i0fvwRU9I/AAAAAAAAsto/i23rw184664owaQ8AqDkZ3q4BaTVAGrHQCLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_SfXmkQva5Q/X4i0fhWdrKI/AAAAAAAAsts/nLdznLYYWpI4oh_Jz_IAwxxEkknXZq43ACLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eCluFtUZB-M/X4i0f21APoI/AAAAAAAAstw/X1WI8WNnzHoy42J2fLcSZAtPGFzmmUnjwCLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-G-dtOzaExOM/X4i0f-NoUDI/AAAAAAAAst0/WhFektX-d-Qx4BQ_8u6eaeYWLYpm7qkuACLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8GumvjbvQ4g/X4i0gHjvFBI/AAAAAAAAst4/LttJ8-FPCmoUW_RXecmb5zBnUenAUk1UgCLcBGAsYHQ/s135/638-Ichimatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n638/",
+      "fetched_at": "2026-05-16T19:10:34.714Z",
+      "raw_id": "/nendoroid/details/n638/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.471Z",
+      "raw_id": "Nendoroid/0600-0699/638.json"
+    }
+  ]
+}

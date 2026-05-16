@@ -1,0 +1,68 @@
+{
+  "num": "1433",
+  "name": {
+    "en": "Nendoroid Otakemaru",
+    "ja": "ねんどろいど 大嶽丸 (ねんどろいど おおたけまる)",
+    "ko": "오오타케마루"
+  },
+  "series": {
+    "en": "Onmyoji",
+    "ja": "陰陽師",
+    "ko": "음양사",
+    "code": "onmyoji"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10470,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YBW_YSc0flU/X8507j5TGPI/AAAAAAAAu4A/xr2_2oVT43A9NCgIbRbrELOXJlPXsFOGQCLcBGAsYHQ/s270/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YBW_YSc0flU/X8507j5TGPI/AAAAAAAAu4A/xr2_2oVT43A9NCgIbRbrELOXJlPXsFOGQCLcBGAsYHQ/s270/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bxeCfTqKwhs/X86KgcFzacI/AAAAAAAAu5E/wfeBavujoNIuvadEBV7w3UxPVNr8qR1yACLcBGAsYHQ/s135/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6h-3dSrS8fI/X86KgTLQRBI/AAAAAAAAu5A/zZrIzVHjFNcyBo0Kx-V_6xw-OKjryvOEgCLcBGAsYHQ/s135/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EBFCAxi37_w/X86KgR9MDVI/AAAAAAAAu48/NbmMTE1O-Fs2yHX-X9GlilwKzT4bnsxyACLcBGAsYHQ/s135/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B8yKE88NHGE/X86KhHOovBI/AAAAAAAAu5I/5H3gJay0Om4gYDa_QL5i0hJ3tjSqVBT6ACLcBGAsYHQ/s135/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6iCvT-M0tdk/X86KhVRn-AI/AAAAAAAAu5M/j8G7IXqWWiQoL5CjspWHTCAGfgD9T5CBACLcBGAsYHQ/s135/1433-Otakemaru-Onmyoji-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1433/",
+      "fetched_at": "2026-05-16T19:10:33.428Z",
+      "raw_id": "/nendoroid/details/n1433/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.664Z",
+      "raw_id": "Nendoroid/1400-1499/1433.json"
+    }
+  ]
+}

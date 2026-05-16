@@ -1,0 +1,68 @@
+{
+  "num": "1863",
+  "name": {
+    "en": "Nendoroid Yami Bakura",
+    "ja": "ねんどろいど 闇バクラ (ねんどろいど やみばくら)",
+    "ko": "어둠의 바쿠라"
+  },
+  "series": {
+    "en": "Yu-Gi-Oh!",
+    "ja": "遊☆戯☆王デュエルモンスターズ",
+    "ko": "유희왕",
+    "code": "yu-gi-oh"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12270,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w0feVRQnBZg/YliMpAyBX2I/AAAAAAAA5NE/slJsNJxhCdQcdpepPkLSbQ-nJxXRwX8UwCNcBGAsYHQ/s270/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w0feVRQnBZg/YliMpAyBX2I/AAAAAAAA5NE/slJsNJxhCdQcdpepPkLSbQ-nJxXRwX8UwCNcBGAsYHQ/s270/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t2uuv4cf4ZM/YliWMFob48I/AAAAAAAA5cg/X3Rk-q9LWukUNZwXhS9HxYCpa9VsmEVDwCNcBGAsYHQ/s135/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AvrwJnIznv8/YliWMhNCWwI/AAAAAAAA5ck/0fg4Q2I3TEU-NiIZICOGooyBYXZwaFrrQCNcBGAsYHQ/s135/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ulaTG-o-Nm8/YliWM15TX4I/AAAAAAAA5co/fvpWU0ioFyAU0TSl9DfkXwuM6zcdw75eACNcBGAsYHQ/s135/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-r1CgLL_yw18/YliWNS22XFI/AAAAAAAA5cs/4_F-bx4XGY8DZcot2iLgluYlG4acmomRgCNcBGAsYHQ/s135/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aGmMEGB3Gi8/YliWNTNeQBI/AAAAAAAA5cw/OhzJug8fgRYea4bgwzQNC1R2tNwVhyf2QCNcBGAsYHQ/s135/1863-Yami-Bakura-Yu-Gi-Oh-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1863/",
+      "fetched_at": "2026-05-16T19:10:33.695Z",
+      "raw_id": "/nendoroid/details/n1863/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.770Z",
+      "raw_id": "Nendoroid/1800-1899/1863.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "8411",
+  "name": {
+    "en": "Nendoroid Doll Higekiri",
+    "ja": "ねんどろいどどーる 髭切 (ねんどろいどどーる ひげきり)",
+    "ko": "히게키리"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLIINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8411,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190611/8411/60869/large/0bb4689305224f7dbb888d3a4cd139cd.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.966Z",
+      "raw_id": "NendoroidDoll/Doll/8411.json"
+    }
+  ]
+}

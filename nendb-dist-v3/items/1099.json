@@ -1,0 +1,68 @@
+{
+  "num": "1099",
+  "name": {
+    "en": "Nendoroid Techies",
+    "ja": "ねんどろいど テキーズ (ねんどろいど てきーず)",
+    "ko": "기술단"
+  },
+  "series": {
+    "en": "DOTA 2",
+    "ja": "DOTA2",
+    "ko": "도타2",
+    "code": "dota-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6722,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8206,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dhGGy1vIEJw/X4Nf-T78kwI/AAAAAAABmXs/qpo_DtyQAnQ5wSuxmmlpm4PjiA44VeugwCLcBGAsYHQ/s270/1099-Techies-DOTA-2-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dhGGy1vIEJw/X4Nf-T78kwI/AAAAAAABmXs/qpo_DtyQAnQ5wSuxmmlpm4PjiA44VeugwCLcBGAsYHQ/s270/1099-Techies-DOTA-2-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PnUoO4GAbF0/X4rtmfZ2DcI/AAAAAAABo3g/neq7k-k1sR4LJvVnlQfgKfkLFY9VhrQUgCLcBGAsYHQ/s135/1099-Techies-DOTA-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yqvYqMbDIeM/X4rtm5fFxQI/AAAAAAABo3k/JQpCmFaL9TMKxSMA2su1WrFV9l2iANRJACLcBGAsYHQ/s135/1099-Techies-DOTA-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6XpnI5rpTQw/X4rtnAupiOI/AAAAAAABo3o/k5lGbOsLNe4Loy_GGd3Ze1ek9bKcgcvIACLcBGAsYHQ/s135/1099-Techies-DOTA-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ulLTbe9G1jw/X4rtnedylLI/AAAAAAABo3s/MdZDQvCImvgBMFTODiohnT5KII_zB1ebACLcBGAsYHQ/s135/1099-Techies-DOTA-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eG8spN2_IjY/X4rtnmkMsSI/AAAAAAABo3w/lpVrWWnkQ3k49LqQ6rZX-Rz23xTJIU0ZgCLcBGAsYHQ/s135/1099-Techies-DOTA-2-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1099/",
+      "fetched_at": "2026-05-16T19:10:33.219Z",
+      "raw_id": "/nendoroid/details/n1099/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.584Z",
+      "raw_id": "Nendoroid/1000-1099/1099.json"
+    }
+  ]
+}

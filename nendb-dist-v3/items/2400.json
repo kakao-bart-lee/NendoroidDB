@@ -1,0 +1,63 @@
+{
+  "num": "2400",
+  "name": {
+    "en": "Wada Don",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Taiko No Tatsujin",
+    "ja": null,
+    "ko": null,
+    "code": "taiko-no-tatsujin"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OpDnFakTQoQ/Ziq-vhupl1I/AAAAAAABD_c/79wACEUjRUgiB_g43KGXp0oNR4X0K9eEQCNcBGAsYHQ/s270/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OpDnFakTQoQ/Ziq-vhupl1I/AAAAAAABD_c/79wACEUjRUgiB_g43KGXp0oNR4X0K9eEQCNcBGAsYHQ/s270/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-txHza3FDjSE/Zow1OIeSHwI/AAAAAAABFXY/t0U2W8d8VKE9wdpgh1GAzWN2eCdxSA7AgCNcBGAsYHQ/s135/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YCKI115VOAk/Zow1O1vIEJI/AAAAAAABFXc/o32Fuy31BIMQaGzTx3inbT6W_wV2_mAewCNcBGAsYHQ/s135/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3EQnABJGW80/Zow1OxiV5AI/AAAAAAABFXg/yUsBj55NyhkfA6KTkN8RUzvzlMn5xceLQCNcBGAsYHQ/s135/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wNyt7Q5LnPA/Zow1O_UQjxI/AAAAAAABFXk/G-fRmIOjLsU6MTy9PlzwWTEMCkXiEzTrgCNcBGAsYHQ/s135/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S7XNzbcsHvo/Zow1PX-ov2I/AAAAAAABFXo/EucnXF1_XY0X0pxD-ESlC7v1p9mjfQAEQCNcBGAsYHQ/s135/2400-Wada-Don-Taiko-no-Tatsujin-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2400/",
+      "fetched_at": "2026-05-16T19:10:34.034Z",
+      "raw_id": "/nendoroid/details/n2400/"
+    }
+  ]
+}

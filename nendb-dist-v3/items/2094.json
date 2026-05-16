@@ -1,0 +1,70 @@
+{
+  "num": "2094",
+  "name": {
+    "en": "Nendoroid Sebek Zigvolt",
+    "ja": "ねんどろいど セベク・ジグボルト (ねんどろいど せべく・じぐぼると)",
+    "ko": "세벡 지그볼트"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YTQKZElk8VQ/ZCnVZmOY2DI/AAAAAAAA9UE/clYewWaEz2YsstofQtHint4NU8kUc8DrwCNcBGAsYHQ/s270/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YTQKZElk8VQ/ZCnVZmOY2DI/AAAAAAAA9UE/clYewWaEz2YsstofQtHint4NU8kUc8DrwCNcBGAsYHQ/s270/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Vj0KvnpnTQg/ZCnZrVd4q5I/AAAAAAAA9Ww/uaHvlYk0_gczl9lrRCYFIAYBnynqzer3wCNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lT96bCd4GKE/ZCnZrTJThlI/AAAAAAAA9W0/LZ6cLA6pIjI--EF8X-4Mw2qMeuC9VeA5QCNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DQzEWNEpejQ/ZCnZrvdWPnI/AAAAAAAA9W4/qyaO7NpQiDYep2Elp_sR1erqA9C4xrRAQCNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iNPprb1B2hc/ZCnZsMP5fPI/AAAAAAAA9W8/FSptLJQiFJc9zOjVUyPLD8NYVlnjsRaVQCNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2VGK95c4UiI/ZCnZsl9XkhI/AAAAAAAA9XA/HcOibHsXxkgIm5lVBLHJ_UEBkxPQAH4GACNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_S42GKeHLpQ/ZCnZtCYnvII/AAAAAAAA9XE/h_E3tsVIG9Uo8ZClZYAzDOwofvBW_L8xgCNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bCwbQpRYk9M/ZCnZtiJfBXI/AAAAAAAA9XI/gu9MHYMtCsoi0ojm9_OrscJ5ffwfTiFMACNcBGAsYHQ/s135/2094-Sebek-Zigvolt-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2094/",
+      "fetched_at": "2026-05-16T19:10:33.837Z",
+      "raw_id": "/nendoroid/details/n2094/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.825Z",
+      "raw_id": "Nendoroid/2000-2099/2094.json"
+    }
+  ]
+}

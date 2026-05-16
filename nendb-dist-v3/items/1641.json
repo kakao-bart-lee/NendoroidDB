@@ -1,0 +1,69 @@
+{
+  "num": "1641",
+  "name": {
+    "en": "Nendoroid Wu Xie",
+    "ja": "ねんどろいど 呉邪 (ねんどろいど ごじゃ)",
+    "ko": "오사"
+  },
+  "series": {
+    "en": "TIME RAIDERS",
+    "ja": "盗墓筆記",
+    "ko": "도묘필기",
+    "code": "time-raiders"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11287,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6ib9HyShmek/YL_UwWxtQNI/AAAAAAAAyP0/zX7_iTm6TYoW1inzdXMSMv7_tazLjlSewCLcBGAsYHQ/s270/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6ib9HyShmek/YL_UwWxtQNI/AAAAAAAAyP0/zX7_iTm6TYoW1inzdXMSMv7_tazLjlSewCLcBGAsYHQ/s270/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vgZjIDciwH4/YL_c9D2LErI/AAAAAAAAyW4/is3UgvpeEkI52bRBnbanhgFPvO_0AS4aQCLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GtIBX_zNnGc/YL_c9RKesOI/AAAAAAAAyW8/-1hp4a_xy_EoIuH8bWRX5jZ08sTcXUl8gCLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8_exQ7hJRO0/YL_c9b59mmI/AAAAAAAAyXA/Ms5v1Dp6kL8lFJa4-TpGVb_f5kR6Xv-3gCLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yVFp-U64kfo/YL_c9zkRpLI/AAAAAAAAyXE/ge-M49TuY2sIMDnQc0uvgAXWF_HXpRnewCLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HZLx5CO4Dos/YL_c97hgMhI/AAAAAAAAyXI/Tc8opMbMTlscpwYib1y7S0_wi9CuvEA1ACLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xp03lUeGKT8/YL_c927FZxI/AAAAAAAAyXM/9sQ-vH1Iqocn9VYzUGQcTIHj0P-6Tkl5wCLcBGAsYHQ/s135/1641-Wu-Xie-TIME-RAIDERS-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1641/",
+      "fetched_at": "2026-05-16T19:10:33.553Z",
+      "raw_id": "/nendoroid/details/n1641/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.716Z",
+      "raw_id": "Nendoroid/1600-1699/1641.json"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "num": "3001",
+  "name": {
+    "en": "Homura Akemi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": null,
+    "ko": null,
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJgPyKjA0mbu08MrvJwcGbtWNvKsFJNMd6h-1Gg3YaaeSzKRpzyhIKHJ1_UzK2T2oT8um6zGkyxwgkS-4s2WAAHy_7B6nSZBhjlFmbvNbNdfzLK9Etdm0Qqte2RmiNOnq_cZCNu4jSqF1IdpMGW0nvd0PBhxRq7bCVtYPLrhn38CBz5doNiyS_Axeils-l/s270/3001-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJgPyKjA0mbu08MrvJwcGbtWNvKsFJNMd6h-1Gg3YaaeSzKRpzyhIKHJ1_UzK2T2oT8um6zGkyxwgkS-4s2WAAHy_7B6nSZBhjlFmbvNbNdfzLK9Etdm0Qqte2RmiNOnq_cZCNu4jSqF1IdpMGW0nvd0PBhxRq7bCVtYPLrhn38CBz5doNiyS_Axeils-l/s270/3001-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFE8LW1zsEuxCFehxt8xHL-XEFh2RpzABujQIWzjDa3v6jxdjQx5b88Q7i4409LGCRkwHUgejrXse_VmymHjlMOdmReWjzfxA5cfgDq0SXhZuoux8QCgiN8dE655FYiYji4QI1KYnbdgdcMsGputn3HSOHo2HXB3pnGsrMDISMsET9QkPx90k-G2oZjsnS/s135/3001-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEk96cYD22MfD7QdnVNBhnohPk_7YvEnULy6em_-ok_BrXztrgJ9ucsk-cGu2CFeEZXSfGbdsRgDY_T-ZJAPrMBVwDnfNQEhKNENJtg3nuFhUt6crF_8Xz_5uYbkaGj_W_RzdxudtRTnp24j_BIKLWHCebNlfeKI50fMWd-ZGoegWcft4UYYzVvnxIN88r/s135/3001-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOgl72WOnhQDXvt2PSPuZisXGgaOmGuEM0namiMowQc8cHuIXSNtUP8H1yc8o3tDBjrYHE6ZM3w3cheqF6gOreOkGAZIOo2mMfcXRJtVcD7_O3uCHReZrY9Zlm3r0UpnJZYTJn42f_SDvkv5dBolHlrqH0jBZMt9mX6L1r-sp8yeqh9mNf0FdbQj_Tdvx/s135/3001-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3001/",
+      "fetched_at": "2026-05-16T19:10:34.425Z",
+      "raw_id": "/nendoroid/details/n3001/"
+    }
+  ]
+}

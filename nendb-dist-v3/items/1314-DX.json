@@ -1,0 +1,55 @@
+{
+  "num": "1314-DX",
+  "name": {
+    "en": "Nendoroid Lio Fotia: Complete Combustion Ver.",
+    "ja": "ねんどろいど リオ・フォーティア 完全燃焼Ver. (ねんどろいど りお・ふぉーてぃあ かんぜんねんしょうVer.)",
+    "ko": "리어 포티아 완전연소 Ver."
+  },
+  "series": {
+    "en": "PROMARE",
+    "ja": "プロメア",
+    "ko": "프로메어",
+    "code": "promare"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9366,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200319/9366/68586/large/4ad48207f4a66332f3e4406a3a5ba6b6.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.636Z",
+      "raw_id": "Nendoroid/1300-1399/1314-DX.json"
+    }
+  ]
+}

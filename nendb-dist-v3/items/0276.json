@@ -1,0 +1,67 @@
+{
+  "num": "0276",
+  "name": {
+    "en": "Nendoroid GUMI (ねんどろいど ぐみ)",
+    "ja": "ねんどろいど GUMI (ねんどろいど ぐみ)",
+    "ko": "GUMI"
+  },
+  "series": {
+    "en": "Virtual Vocalist Megpoid",
+    "ja": "バーチャルボーカリスト Megpoid",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "virtual-vocalist-megpoid"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3689,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l_IDVDp3ynU/X4NLYfy34NI/AAAAAAABlaE/T_BymNbtd-MdL0riQLCjCOJ2UeBvQmRDwCLcBGAsYHQ/s270/276-Gumi-Vocaloid-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l_IDVDp3ynU/X4NLYfy34NI/AAAAAAABlaE/T_BymNbtd-MdL0riQLCjCOJ2UeBvQmRDwCLcBGAsYHQ/s270/276-Gumi-Vocaloid-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SdgpwgP2dqE/X4dYM5ps49I/AAAAAAAAqpI/LGVAciahgE0c7FM8d6q0qS37OO8dB3ouACLcBGAsYHQ/s135/276-Gumi-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KJxSvQt8Ypw/X4dYMyl-X_I/AAAAAAAAqpM/iJDzgq_le6QWmX0_OBmUF1QfThu6VDGSgCLcBGAsYHQ/s135/276-Gumi-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_elOHTCiHNg/X4dYNq0NFPI/AAAAAAAAqpQ/ZxrEcP2jfW0z5L1S4hiPjCFFt6EmVa2eQCLcBGAsYHQ/s135/276-Gumi-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xgZ56VAPoHQ/X4dYN9dZBSI/AAAAAAAAqpU/i7r8ivfP3sMaQ6oaYrvxURsn7R8fpiwlQCLcBGAsYHQ/s135/276-Gumi-Virtual-Vocalist-Megpoid-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n276/",
+      "fetched_at": "2026-05-16T19:10:34.283Z",
+      "raw_id": "/nendoroid/details/n276/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.339Z",
+      "raw_id": "Nendoroid/0200-0299/276.json"
+    }
+  ]
+}

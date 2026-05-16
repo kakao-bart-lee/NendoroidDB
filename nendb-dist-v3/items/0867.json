@@ -1,0 +1,70 @@
+{
+  "num": "0867",
+  "name": {
+    "en": "Nendoroid Abukuma Kai-II",
+    "ja": "ねんどろいど 阿武隈改二 (ねんどろいど あぶくまかいに)",
+    "ko": "아부쿠마 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6957,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-a5O_XMgpLl8/X4Nd8jvhsDI/AAAAAAABmG4/_drHOTy5e9s3k1EP57cfTmyVPy4J5h9MwCLcBGAsYHQ/s270/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-a5O_XMgpLl8/X4Nd8jvhsDI/AAAAAAABmG4/_drHOTy5e9s3k1EP57cfTmyVPy4J5h9MwCLcBGAsYHQ/s270/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nQm5j1SyXew/X4rjpvrVlKI/AAAAAAABnY8/djw1UyQtnkUzufukCA7u88P27O1nccn9QCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RwBgr0TPkiM/X4rjqCIRg7I/AAAAAAABnZA/96-l1sjO5I4RVF8oXCorw9jLNYICL4jvQCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lJ0_rBjpLZw/X4rjqD9JmlI/AAAAAAABnZE/rgNtTS-f3CgZSlhqODpHipZzs82Pr1jggCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zvmr7UjuA8Y/X4rjqXGUiKI/AAAAAAABnZI/x-sz9d6s4O8luT1iNWze2DBq1swXREhEgCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lKrV26frYNQ/X4rjqr79HXI/AAAAAAABnZM/zNMECxbDnWM8jLJK5_O8Ex9CgNwgsgZjgCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BO7-L8AACcc/X4rjrKCnIrI/AAAAAAABnZQ/WLc-gnEpJ6gZlT4sNQIXS5is2fl8FtxugCLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rHmM9VF5cG8/X4rjrFkO0lI/AAAAAAABnZU/WfkjYZDay_kCOQutGvQRWriaCaTisg14ACLcBGAsYHQ/s135/867-Abukuma-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n867/",
+      "fetched_at": "2026-05-16T19:10:34.844Z",
+      "raw_id": "/nendoroid/details/n867/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.526Z",
+      "raw_id": "Nendoroid/0800-0899/867.json"
+    }
+  ]
+}

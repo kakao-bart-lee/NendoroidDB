@@ -1,0 +1,58 @@
+{
+  "num": "2076",
+  "name": {
+    "en": "Jesse",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Light And Night",
+    "ja": null,
+    "ko": null,
+    "code": "light-and-night"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO-6c6ZwQFs46RH2xne3UCX2H0H4SAk-eQyQ1099-Ikcjzh8QRa7w3TB6DbZlhzrBQyizjRXk4CJSvDwRl2iUkixPdC7NFz0iPV22u17U66Bffjh2hwm2KOr2Ia94EBJFrgJCIpH5NsS6VnpTWUTOFJ9_REKlVX1wi8PTwIL9wAyW2aqqP0JGVCGGFVubv/s270/2076-Jesse-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO-6c6ZwQFs46RH2xne3UCX2H0H4SAk-eQyQ1099-Ikcjzh8QRa7w3TB6DbZlhzrBQyizjRXk4CJSvDwRl2iUkixPdC7NFz0iPV22u17U66Bffjh2hwm2KOr2Ia94EBJFrgJCIpH5NsS6VnpTWUTOFJ9_REKlVX1wi8PTwIL9wAyW2aqqP0JGVCGGFVubv/s270/2076-Jesse-Light-and-Night-Video-Games-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2076/",
+      "fetched_at": "2026-05-16T19:10:33.826Z",
+      "raw_id": "/nendoroid/details/n2076/"
+    }
+  ]
+}

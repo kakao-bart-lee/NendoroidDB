@@ -1,0 +1,70 @@
+{
+  "num": "1441",
+  "name": {
+    "en": "Nendoroid Elsa: Travel Dress Ver.",
+    "ja": "ねんどろいど エルサ Travel Dress Ver. (ねんどろいど えるさ Travel Dress Ver.)",
+    "ko": "엘사 Blue dress Ver."
+  },
+  "series": {
+    "en": "Frozen 2",
+    "ja": "アナと雪の女王２",
+    "ko": "겨울왕국",
+    "code": "frozen-2"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9987,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B6wPENhfHtU/X4NkjkHEh5I/AAAAAAABm7E/U_jkmtoRx7IrpINk3F7Eo1RNml4Vdz51gCLcBGAsYHQ/s270/1441-Elsa-Frozen-II-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B6wPENhfHtU/X4NkjkHEh5I/AAAAAAABm7E/U_jkmtoRx7IrpINk3F7Eo1RNml4Vdz51gCLcBGAsYHQ/s270/1441-Elsa-Frozen-II-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MlU3-r2rVI0/X4tAxqMFf5I/AAAAAAABq7g/lF-GH5UmziMFEB47U9HEIHKd0Y4w_zx9gCLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-u3iRYG7TzOU/X4tAxrjJ3zI/AAAAAAABq7k/2boMbEHzhCAY_6hFS98kFyKpbjsw7yP7wCLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NVloex8bFiE/X4tAx_kpI5I/AAAAAAABq7o/MYrk1-3cEP8iTBuN_4uAfQCvkdInmWFGgCLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LJegDTYPvUI/X4tAyfApFAI/AAAAAAABq7s/0Yg87D97ULUtwBcCc-hjB5eync96xrvyQCLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tw6iZdzKx9g/X4tAyURE9mI/AAAAAAABq7w/PBGQSHCmdSMgeGsDDi2FS6reZAUlOmWKACLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9OiadsJlm50/X4tAyiin4mI/AAAAAAABq70/m-NqBtdStQApmI1wGB53B6TUHFT6EABTACLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MDJZSCNUem8/X4tAzJr67NI/AAAAAAABq74/fjJpXeLEgxgEXTIDEbNUoLKcqpiHWrZWwCLcBGAsYHQ/s135/1441-Elsa-Frozen-II-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1441/",
+      "fetched_at": "2026-05-16T19:10:33.433Z",
+      "raw_id": "/nendoroid/details/n1441/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.666Z",
+      "raw_id": "Nendoroid/1400-1499/1441.json"
+    }
+  ]
+}

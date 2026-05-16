@@ -1,0 +1,68 @@
+{
+  "num": "0836",
+  "name": {
+    "en": "Nendoroid Ariel",
+    "ja": "ねんどろいど アリエル (ねんどろいど ありえる)",
+    "ko": "에리얼"
+  },
+  "series": {
+    "en": "The Little Mermaid",
+    "ja": "リトル・マーメイド",
+    "ko": "인어공주",
+    "code": "the-little-mermaid"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6801,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fMJwOi5z3LY/X4Ndy2aFHnI/AAAAAAABmE4/WsmwDgxsJKkCU6BlqgnY6UNr2-yWH1WvACLcBGAsYHQ/s270/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fMJwOi5z3LY/X4Ndy2aFHnI/AAAAAAABmE4/WsmwDgxsJKkCU6BlqgnY6UNr2-yWH1WvACLcBGAsYHQ/s270/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-p9B1Vm6OPw4/X4rivY12ZpI/AAAAAAABnME/7dvi3U2XInIPdrqHEZj-yDjkRgVIYzF-ACLcBGAsYHQ/s135/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7ttZuV8zstA/X4rivrJvUiI/AAAAAAABnMI/DBAwMWK9cfAIrsCPIBpQQ2ZTzlOTWq4zACLcBGAsYHQ/s135/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XvVJPgu2T4s/X4riv3e-hoI/AAAAAAABnMM/O6DT7gW0o38CQIk86m4Isl20ast2yPuoQCLcBGAsYHQ/s135/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UajN6ns-5-Y/X4riwEIayBI/AAAAAAABnMQ/IPsiuJh6nusz6AbPi6v9P9oMHcnpbFjYwCLcBGAsYHQ/s135/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8_j45lyDQtg/X4riweUViUI/AAAAAAABnMU/1E_wQhVQ6tYijCo0GItIwmJJ8En7OZDhgCLcBGAsYHQ/s135/836-Ariel-The-Little-Mermaid-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n836/",
+      "fetched_at": "2026-05-16T19:10:34.828Z",
+      "raw_id": "/nendoroid/details/n836/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.518Z",
+      "raw_id": "Nendoroid/0800-0899/836.json"
+    }
+  ]
+}

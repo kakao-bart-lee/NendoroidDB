@@ -1,0 +1,68 @@
+{
+  "num": "1595",
+  "name": {
+    "en": "Nendoroid Katsuki Bakugo: Winter Costume Ver.",
+    "ja": "ねんどろいど 爆豪勝己 防寒コスチュームVer. (ねんどろいど ばくごうかつき ぼうかんこすちゅーむVer.)",
+    "ko": "바쿠고 카츠키 방한 코스튬 Ver."
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10950,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VD2l7mR8bEI/YHSSV9ld1JI/AAAAAAAAwpI/pme968tju_wH3BcERAp0KaWQJHDwEzpUgCLcBGAsYHQ/s270/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VD2l7mR8bEI/YHSSV9ld1JI/AAAAAAAAwpI/pme968tju_wH3BcERAp0KaWQJHDwEzpUgCLcBGAsYHQ/s270/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jlc9DXwceKI/YHSWzXp2UMI/AAAAAAAAwr4/YQCJcpNbNm4oS2Mc1azWP2AN3VtEzXA0ACLcBGAsYHQ/s135/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ygFuRmuT294/YHSWz5rtwMI/AAAAAAAAwr8/KlJ8DwOqJdoqOd-Cq1LUtTP1iPoVL53OACLcBGAsYHQ/s135/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JiS93hui1EE/YHSW0vzJyvI/AAAAAAAAwsA/EmmdSfOrJDg1ySw7X36vrfHJB0Y5jHQuQCLcBGAsYHQ/s135/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kqG51-5ZcWM/YHSW0_ZoQ6I/AAAAAAAAwsE/7Ms_8C5ENisWIFG8aw6x7uB6f_KMy-O-gCLcBGAsYHQ/s135/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UcamrcUjpWo/YHSW04oTaDI/AAAAAAAAwsI/CxkxyD-IwZc9Zwp_iMO14W9mf1qxJXJkQCLcBGAsYHQ/s135/1595-Katsuki-Bakugo-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1595/",
+      "fetched_at": "2026-05-16T19:10:33.525Z",
+      "raw_id": "/nendoroid/details/n1595/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.703Z",
+      "raw_id": "Nendoroid/1500-1599/1595.json"
+    }
+  ]
+}

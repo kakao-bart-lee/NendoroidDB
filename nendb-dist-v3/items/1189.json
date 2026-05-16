@@ -1,0 +1,70 @@
+{
+  "num": "1189",
+  "name": {
+    "en": "Nendoroid Goro Akechi: Phantom Thief Ver.",
+    "ja": "ねんどろいど 明智吾郎 怪盗服Ver. (ねんどろいど あけちごろう かいとうふくVer.)",
+    "ko": "아케치 고로 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8657,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w9mwmLJIpM8/X4NgudBGboI/AAAAAAABmeY/zJZtUnnUD_g5DoZ9pYR63ndxNtntG6sJgCLcBGAsYHQ/s270/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w9mwmLJIpM8/X4NgudBGboI/AAAAAAABmeY/zJZtUnnUD_g5DoZ9pYR63ndxNtntG6sJgCLcBGAsYHQ/s270/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-erwKUNAjzKY/X4rxs-rvAlI/AAAAAAABpdw/qIO4rGzyZE4HWM0KkzeU65uI6wlv5vKTgCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-a8mnJ8SO2f8/X4rxtfWdd2I/AAAAAAABpd0/eVDmez4BE2sz76BgWun9e0MdU_IDo-BBwCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QjrtISXcn-g/X4rxtyvGnZI/AAAAAAABpd4/ohdinqu1B3gD-qTSutIjooZs8w5t-hDIgCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vS6MWfiwRYE/X4rxuNmQH7I/AAAAAAABpd8/rZ2YmkTjqTI6nIVdWZvVZ-fp6Yv_wUsoACLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8Uow0BB4iRo/X4rxuZgaFsI/AAAAAAABpeA/D6GH5xM8ikk77UmAodwHFoWUhbhi3BfdQCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_bw_Yzqh8cA/X4rxuVoJITI/AAAAAAABpeE/mU7niR0RzhAgIvdqimFCme3myh4qG8AbgCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-gPn49vwrdiA/X4rxun0TaxI/AAAAAAABpeI/WR1BaNCy3fgBO5VP_IIT55H059asd0BZgCLcBGAsYHQ/s135/1189-Goro-Akechi-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1189/",
+      "fetched_at": "2026-05-16T19:10:33.276Z",
+      "raw_id": "/nendoroid/details/n1189/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.606Z",
+      "raw_id": "Nendoroid/1100-1199/1189.json"
+    }
+  ]
+}

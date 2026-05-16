@@ -1,0 +1,67 @@
+{
+  "num": "0302",
+  "name": {
+    "en": "Nendoroid Kagamine Len: Append (ねんどろいど かがみねれん・あぺんど)",
+    "ja": "ねんどろいど 鏡音レン・アペンド (ねんどろいど かがみねれん・あぺんど)",
+    "ko": "카가미네 렌 어펜드"
+  },
+  "series": {
+    "en": "Kagamine Rin/Len: Append",
+    "ja": "鏡音リン・レン・アペンド",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "kagamine-rin-len-append"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3810,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZR3UsbfRGv8/X4NMf34dnWI/AAAAAAABlfU/HV4yQQLhdJMpsfXdw_Sbkj6MCfcxTEv9wCLcBGAsYHQ/s270/302-Kagamine-Len-Append-Form-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZR3UsbfRGv8/X4NMf34dnWI/AAAAAAABlfU/HV4yQQLhdJMpsfXdw_Sbkj6MCfcxTEv9wCLcBGAsYHQ/s270/302-Kagamine-Len-Append-Form-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Sdq8AVBAQ_g/X4dZ5DsFcHI/AAAAAAAAqzw/ve_-MwYlaTkBX5f3IEcjYErqx7i91zdhACLcBGAsYHQ/s135/302-Kagamine-Len-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vAxjq-TvQ24/X4dZ5aU_rKI/AAAAAAAAqz4/iLZXyL3FShISWgCPhuPdPhd3LIV2kvJNwCLcBGAsYHQ/s135/302-Kagamine-Len-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yjK9xEd4D9M/X4dZ5SedC9I/AAAAAAAAqz0/Sl24V32U8Ok1kfsWOvrKbJJkT-Jdhi43wCLcBGAsYHQ/s135/302-Kagamine-Len-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-D6MRvEMhwoQ/X4dZ5oT8S1I/AAAAAAAAqz8/CeUGYZVWljI0-p9PSBXYTCB0BeZ5_HoNwCLcBGAsYHQ/s135/302-Kagamine-Len-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n302/",
+      "fetched_at": "2026-05-16T19:10:34.439Z",
+      "raw_id": "/nendoroid/details/n302/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.346Z",
+      "raw_id": "Nendoroid/0300-0399/302.json"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "num": "2507",
+  "name": {
+    "en": "Marija",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Muse Dash",
+    "ja": null,
+    "ko": null,
+    "code": "muse-dash"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WZ3DKK3t2o8/Znsogy0ogrI/AAAAAAABE4M/oZGs56c68rAqDsNyL4zMnN_V5zxVop_IQCNcBGAsYHQ/s270/2507-Marija-Muse-Dash-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WZ3DKK3t2o8/Znsogy0ogrI/AAAAAAABE4M/oZGs56c68rAqDsNyL4zMnN_V5zxVop_IQCNcBGAsYHQ/s270/2507-Marija-Muse-Dash-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lv-2B4zf6wk/Zow7QipNxgI/AAAAAAABGEA/Q4EjIwdv8Use46TEJhMtHfhIU4F5_pULgCNcBGAsYHQ/s135/2507-Marija-Muse-Dash-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KRzagGlx7aw/Zow7RP-R50I/AAAAAAABGEE/kPsc6dVUXmINSp2v6PHEdWt1hYw5JmNEwCNcBGAsYHQ/s135/2507-Marija-Muse-Dash-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vHByOqcYxA8/Zow7RqDm8xI/AAAAAAABGEI/IjDNNMuDHekWqHbz6NVLtzGW740daOeugCNcBGAsYHQ/s135/2507-Marija-Muse-Dash-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zE_DCtF6Xek/Zow7SDetd6I/AAAAAAABGEM/3rpdYcTzQmsJczKMKknHRICOr-wJHuGUQCNcBGAsYHQ/s135/2507-Marija-Muse-Dash-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sILk_iKGYls/Zow7S2d4s5I/AAAAAAABGEQ/xyhKobD0JMQXCxJk7iszXPpfUBCsWFjaQCNcBGAsYHQ/s135/2507-Marija-Muse-Dash-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2507/",
+      "fetched_at": "2026-05-16T19:10:34.102Z",
+      "raw_id": "/nendoroid/details/n2507/"
+    }
+  ]
+}

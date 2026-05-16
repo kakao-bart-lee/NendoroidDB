@@ -1,0 +1,55 @@
+{
+  "num": "1421-DX",
+  "name": {
+    "en": "Nendoroid Hunter: Male Zinogre Alpha Armor Ver. DX",
+    "ja": "ねんどろいど ハンター♂ ジンオウα Ver. DX (ねんどろいど はんたー♂ じんおうα Ver. DX)",
+    "ko": "헌터♂ 진오우α DX Ver."
+  },
+  "series": {
+    "en": "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world-iceborne"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9813,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200722/9813/72305/large/16b5dc76252a96a66bb30f886a42b14d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.661Z",
+      "raw_id": "Nendoroid/1400-1499/1421-DX.json"
+    }
+  ]
+}

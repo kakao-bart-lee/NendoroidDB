@@ -1,0 +1,71 @@
+{
+  "num": "1052",
+  "name": {
+    "en": "Nendoroid Ena Toyosaki",
+    "ja": "ねんどろいど 豊崎恵那 (ねんどろいど とよさきえな)",
+    "ko": "토요사키 에나"
+  },
+  "series": {
+    "en": "Little Armory",
+    "ja": "リトルアーモリー",
+    "ko": "리틀 아머리",
+    "code": "little-armory"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5720,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7914,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aHhJxV0XQrA/X4Nfu2fdi3I/AAAAAAABmUk/-rxt1tpItkY3-Haw90oSqlMU-wOYZHFCwCLcBGAsYHQ/s270/1052-Ena-Toyosaki-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aHhJxV0XQrA/X4Nfu2fdi3I/AAAAAAABmUk/-rxt1tpItkY3-Haw90oSqlMU-wOYZHFCwCLcBGAsYHQ/s270/1052-Ena-Toyosaki-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-678kXOf0IeM/X4rsWyHE_LI/AAAAAAABolY/Vn_RE83PKvEWHY-1hG-AfO_7MZgh1UxWACLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FyO1M9ZlAXU/X4rsXIyqKPI/AAAAAAABolc/01Mt43-csZwRqaeBUxYff912e-zIJYKGQCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UNkvPnrSpLg/X4rsXhnSQfI/AAAAAAABolg/XUpB_Ns70RceqnIi5QfTy-QlhdXxczK4wCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BhpzgAc1Ams/X4rsX6ZTcFI/AAAAAAABolk/G5fvlH3VzbAX4oPNnHA2V7El8ec_4GhrACLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L7jOqudIgJk/X4rsYNS18hI/AAAAAAABolo/Jz-EQV89cNoY7RZYiYhSxTxXvCqDDHQqQCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cEZTVN0KvVc/X4rsYbMFoaI/AAAAAAABols/XMnClLFbHtEkf1kaZNzuy5Rmz_imLvdYQCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-F-rO2GJr8SU/X4rsYdba-pI/AAAAAAABolw/3eosIo6iEA8THGWvCxA1ij7hW3oqDbnXQCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-2Vj5XeYpWoU/X4rsWsPMueI/AAAAAAABolU/K38BHOacOTwDXs-wen4s-cdXkrQTYKIiQCLcBGAsYHQ/s135/1052-Ena-Toyosaki-Little-Armory-Toyline-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1052/",
+      "fetched_at": "2026-05-16T19:10:33.178Z",
+      "raw_id": "/nendoroid/details/n1052/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.574Z",
+      "raw_id": "Nendoroid/1000-1099/1052.json"
+    }
+  ]
+}

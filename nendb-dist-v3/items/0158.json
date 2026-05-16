@@ -1,0 +1,68 @@
+{
+  "num": "0158",
+  "name": {
+    "en": "Nendoroid Kudryavka Noumi: Winter Uniform Ver. (ねんどろいど のうみくどりゃふか ふゆふくばーじょん)",
+    "ja": "ねんどろいど 能美クドリャフカ 冬服Ver. (ねんどろいど のうみくどりゃふか ふゆふくVer.)",
+    "ko": "노우미 쿠드랴프카 동복 Ver."
+  },
+  "series": {
+    "en": "Little Busters! Ecstasy",
+    "ja": "リトルバスターズ！ エクスタシー",
+    "ko": "리틀 버스터즈! 엑스터시",
+    "code": "little-busters-ecstasy"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3101,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-D4OMwLD3CgY/X4NKBQo9vVI/AAAAAAABlRs/7AQ2zheO6FEKc1S5aLQg0dFV3DVE62vywCLcBGAsYHQ/s270/158-Nomi-Kudryavka-Littbusters-Ecstasy-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-D4OMwLD3CgY/X4NKBQo9vVI/AAAAAAABlRs/7AQ2zheO6FEKc1S5aLQg0dFV3DVE62vywCLcBGAsYHQ/s270/158-Nomi-Kudryavka-Littbusters-Ecstasy-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nnr0imqK5yg/X4dTTkmH4UI/AAAAAAAAqBE/G_BbDaybzdkR_vw8z2D8X4I8RQ-LiwXuQCLcBGAsYHQ/s135/158-Nomi-Kudryavka-Littlebusters-Ectasy-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yJDbJCOTGkQ/X4dTTxtnElI/AAAAAAAAqBI/A_Mu-yU-l4sbFFQT9aXDvquHoX3zwWJcACLcBGAsYHQ/s135/158-Nomi-Kudryavka-Littlebusters-Ectasy-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YrbN5QmAg2c/X4dTUEvupqI/AAAAAAAAqBM/g6loAT7I8QMINWUSgkrqO2avkZK8FKj2gCLcBGAsYHQ/s135/158-Nomi-Kudryavka-Littlebusters-Ectasy-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1qZVfFMTM6g/X4dTUB_tp2I/AAAAAAAAqBQ/SEGQJ318Mywus51vrsoq1I0CXJlOHkIiACLcBGAsYHQ/s135/158-Nomi-Kudryavka-Littlebusters-Ectasy-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WxX8Ot5QSQs/X4dTURGZYQI/AAAAAAAAqBU/45Ad-tpaivQcqjaFnM9gVc6DhsmCW48QgCLcBGAsYHQ/s135/158-Nomi-Kudryavka-Littlebusters-Ectasy-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n158/",
+      "fetched_at": "2026-05-16T19:10:33.522Z",
+      "raw_id": "/nendoroid/details/n158/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.304Z",
+      "raw_id": "Nendoroid/0100-0199/158.json"
+    }
+  ]
+}

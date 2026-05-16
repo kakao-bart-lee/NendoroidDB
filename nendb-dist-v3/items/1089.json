@@ -1,0 +1,69 @@
+{
+  "num": "1089",
+  "name": {
+    "en": "Nendoroid The Lone Survivor",
+    "ja": "ねんどろいど The Lone Survivor (ねんどろいど ろーん・さばいばー)",
+    "ko": "Lone Survivor"
+  },
+  "series": {
+    "en": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "ja": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "ko": "PUBG",
+    "code": "playerunknown-s-battlegrounds"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8079,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-s3-2lgL0NSQ/X4Nf60wt5NI/AAAAAAABmXA/iwjMnseKThsbCtTY7iID0K9kw0lrlO2wQCLcBGAsYHQ/s270/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-s3-2lgL0NSQ/X4Nf60wt5NI/AAAAAAABmXA/iwjMnseKThsbCtTY7iID0K9kw0lrlO2wQCLcBGAsYHQ/s270/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ytoou3T-DxY/X4rtVsknkhI/AAAAAAABoz0/gvWJlz01Yg4zcv6803kAMBs4xyBassmsQCLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-59uqX1J3hG4/X4rtV4stNjI/AAAAAAABoz4/p0p_JPaXe-Eoyv0dft1DVg0wjGgNjH5EwCLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DVLrtKZrT1s/X4rtWY2HL1I/AAAAAAABoz8/mkIjzwaNlZ4dODTGjBFmWUJsI-IfRTtEACLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hiKM8ww44c8/X4rtWo2qI9I/AAAAAAABo0A/4duwKGI1SL8bnBgyjQ_CZoHTcakBlC0bACLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-D72L9FQ-rtg/X4rtWi04ryI/AAAAAAABo0E/xyYZRNm-MN8Mf9xbfmuC7GxRz3KaMUNwgCLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PsvdtyoG9gs/X4rtW7frToI/AAAAAAABo0I/Mys86sHBTe4Z87C8kqWfIWVYidUTbQ5twCLcBGAsYHQ/s135/1089-The-Lone-Survivor-PLAYERUNKNOWNS-BATTLEGROUNDS-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1089/",
+      "fetched_at": "2026-05-16T19:10:33.213Z",
+      "raw_id": "/nendoroid/details/n1089/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.582Z",
+      "raw_id": "Nendoroid/1000-1099/1089.json"
+    }
+  ]
+}

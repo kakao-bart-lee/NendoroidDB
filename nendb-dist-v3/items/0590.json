@@ -1,0 +1,68 @@
+{
+  "num": "0590",
+  "name": {
+    "en": "Nendoroid Nico Yazawa: Training Outfit Ver.",
+    "ja": "ねんどろいど 矢澤にこ 練習着Ver. (ねんどろいど やざわにこ れんしゅうぎVer.)",
+    "ko": "야자와 니코 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5392,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dMqvvrFWX7E/X4NOr-mP_OI/AAAAAAABlzM/8tmiIXfg1VQX0vC2KbxJXpT99-WsskUZQCLcBGAsYHQ/s270/590-Nico-Yazawa-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dMqvvrFWX7E/X4NOr-mP_OI/AAAAAAABlzM/8tmiIXfg1VQX0vC2KbxJXpT99-WsskUZQCLcBGAsYHQ/s270/590-Nico-Yazawa-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gQU_TBbRVCc/X4itiiYxFKI/AAAAAAAAsZ0/jJwb2DM0oqgLyMHIiSXMHOx_iYzc4X7xgCLcBGAsYHQ/s135/590-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AaRnVoljqrg/X4iti1fcfZI/AAAAAAAAsZ4/WgQW_JEEP0EeyeWr-j9bFVQTE7owqd1HQCLcBGAsYHQ/s135/590-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nBdJQuMkSb8/X4iti1f6fYI/AAAAAAAAsZ8/Jfa24gmQbSoj_u3R3WCHnhbVIzYQj8XWACLcBGAsYHQ/s135/590-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QQ3ZFG3Kf74/X4itjAaXwjI/AAAAAAAAsaA/xxzXEPXdAyonv6dTZ6xXGMBbdfK2XZbtACLcBGAsYHQ/s135/590-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YWZ05aayiRU/X4itjhP6XEI/AAAAAAAAsaE/8xXpHfWwYjsFvN09wckl4pYH32WuDhVZwCLcBGAsYHQ/s135/590-Nico-Yazawa-Love-Live-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n590/",
+      "fetched_at": "2026-05-16T19:10:34.671Z",
+      "raw_id": "/nendoroid/details/n590/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.456Z",
+      "raw_id": "Nendoroid/0500-0599/590.json"
+    }
+  ]
+}

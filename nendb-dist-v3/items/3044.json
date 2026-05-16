@@ -1,0 +1,61 @@
+{
+  "num": "3044",
+  "name": {
+    "en": "Servant",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Danganronpa",
+    "ja": null,
+    "ko": null,
+    "code": "danganronpa"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_usC5c3LTWN4xoQhDDXwyvju7K2DVQ9EiXnZEqvkM73wcw8ZfMLdxOFNQnn4aowT8_B1QWNbGLtCW70qI6cRpYE7f5ClS3W_xWQmiYIQtCt8mL3_DlDttJZlnTYEmAiExs2gjC2OGLwmgHyOjMEOxZ1MSDHSKAoRezdFCmvEY_cmK_LwIbgRU0AKEFOvJ/s270/3044-Servant-Danganronpa-Another-Episode-Ultra-Despair-Girls-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_usC5c3LTWN4xoQhDDXwyvju7K2DVQ9EiXnZEqvkM73wcw8ZfMLdxOFNQnn4aowT8_B1QWNbGLtCW70qI6cRpYE7f5ClS3W_xWQmiYIQtCt8mL3_DlDttJZlnTYEmAiExs2gjC2OGLwmgHyOjMEOxZ1MSDHSKAoRezdFCmvEY_cmK_LwIbgRU0AKEFOvJ/s270/3044-Servant-Danganronpa-Another-Episode-Ultra-Despair-Girls-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNybogpc8f6Nd_4G7_2Ki7UmpUP1fc45V8ec6LtUjRiC5wanYr7o5l6PbDOXk3EXRBb9Ib2LbiEpf58tsC1rSqRiRLd1PK9EOwed35-ZkTqNK2nbTt54-_VeRitdKXgGmoQGlSRAI2slz6Sf7WEf47j6fL9WXQ5e6qypq2gEbWsvnBLBOa8VyDOUaMFCtz/s135/3044-Servant-Danganronpa-Another-Episode-Ultra-Despair-Girls-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn83WxcDBSAz0gx5FSX9glHzriMZz5QyY7VS2FPzpc19PdS7k-EAS_zeh5RiQZaA-Vo9ManJkAtgnVSU7kZY8__hC5Hoi22kbujRoxfbUuphkksp5TOs86E8ilYbwR1_TWRyO-NwOKjJxvL_OOWKJaj9XOMQTIScUkSIyDY2-G0P0tUtEaes5miHcNSPd2/s135/3044-Servant-Danganronpa-Another-Episode-Ultra-Despair-Girls-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xyI5fs2QIhM9GG0gbkY1335ctYxilzmCwb8oRQ1Wwr63UlOFEhr3YcE28nujIUjIWT_IEPBFuzCs8T2WO3XIDhlFwrNXv5xCf0QbUcHRcUApajwjYj08En7vqyKrr_8ndRf7KEykz1OvQb-wzAKZXoCOmBYluGfLRwHtc_QfpOnV1RpFtXnwtQMIpaXR/s135/3044-Servant-Danganronpa-Another-Episode-Ultra-Despair-Girls-Video-Games-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3044/",
+      "fetched_at": "2026-05-16T19:10:34.446Z",
+      "raw_id": "/nendoroid/details/n3044/"
+    }
+  ]
+}

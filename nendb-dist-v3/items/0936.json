@@ -1,0 +1,68 @@
+{
+  "num": "0936",
+  "name": {
+    "en": "Nendoroid Saber/Miyamoto Musashi",
+    "ja": "ねんどろいど セイバー/宮本武蔵 (ねんどろいど せいばー/みやもとむさし)",
+    "ko": "세이버/미야모토 무사시"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7281,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NbzuJ27OwTw/X4NemcXKoLI/AAAAAAABmMA/IGHv20QOHpQ0ir1t3z-ZOSt_5BHnMEc3ACLcBGAsYHQ/s270/936-Saber-Miyamoto-Mushashi-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NbzuJ27OwTw/X4NemcXKoLI/AAAAAAABmMA/IGHv20QOHpQ0ir1t3z-ZOSt_5BHnMEc3ACLcBGAsYHQ/s270/936-Saber-Miyamoto-Mushashi-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fnb_1nG9fmg/X4roJqj5jlI/AAAAAAABn1Q/ka3HKGuTmkoxPesNIj8NcOJgCRkXOF0vwCLcBGAsYHQ/s135/936-Saber-Miyamoto-Musashi-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EQdk28nxq44/X4roJ1W39bI/AAAAAAABn1U/vZ_Uk5-7Ly4iluimFEGzQQJ6ZMfICG6iQCLcBGAsYHQ/s135/936-Saber-Miyamoto-Musashi-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KgfHtmkSYL4/X4roKPiGfqI/AAAAAAABn1Y/qnbt-MhZpDQ040DCuJx0-01jFH_5C1bTACLcBGAsYHQ/s135/936-Saber-Miyamoto-Musashi-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gTMfUEGhqbk/X4roKSG7YyI/AAAAAAABn1c/Ol6M0Q2hGTUlgyDJtOcQ6041YeNs9gEoQCLcBGAsYHQ/s135/936-Saber-Miyamoto-Musashi-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6-h07SW34Rc/X4roKjty8UI/AAAAAAABn1g/B-xn9GczjWw0KiYorhaHNTLtd9UQ9hztwCLcBGAsYHQ/s135/936-Saber-Miyamoto-Musashi-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n936/",
+      "fetched_at": "2026-05-16T19:10:34.882Z",
+      "raw_id": "/nendoroid/details/n936/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.543Z",
+      "raw_id": "Nendoroid/0900-0999/936.json"
+    }
+  ]
+}

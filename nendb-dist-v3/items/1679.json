@@ -1,0 +1,70 @@
+{
+  "num": "1679",
+  "name": {
+    "en": "Nendoroid Thorns",
+    "ja": "ねんどろいど ソーンズ (ねんどろいど そーんず)",
+    "ko": "쏜즈"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11510,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Rb3G_J1jCZI/YS6JtmBikdI/AAAAAAAAz9M/LBudarhYmZkusNxQm8PeDXDEjFDgsi4egCLcBGAsYHQ/s270/1679-Thorns-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Rb3G_J1jCZI/YS6JtmBikdI/AAAAAAAAz9M/LBudarhYmZkusNxQm8PeDXDEjFDgsi4egCLcBGAsYHQ/s270/1679-Thorns-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YaVkKz8BoPI/YS6MiHLY9wI/AAAAAAAA0GA/6aGsDT76XsY2GgTuNCTUIPzcMZmvrX-gACLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sBtZ90R7UXM/YS6Mie8VX4I/AAAAAAAA0GI/_UAqOJImpU0tWw-72IEcQ8sGrRBeIx6eACLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z9mNVc9vqfs/YS6MjKzzGLI/AAAAAAAA0GE/k076P3NoDmc4EE22R_27eep6l6FrtogrACLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zyJLQv8iROU/YS6MjvBfUdI/AAAAAAAA0GM/cBg7y7onvG0ALf-pkzF06jC9aWX0VGTOgCLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--65oFu5nVJM/YS6Mj5ghx5I/AAAAAAAA0GQ/92x9HurEje0mF2Jr7rAU2bUdNWOZMFCHgCLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_6kifJAtrqU/YS6Mjz1kdAI/AAAAAAAA0GU/FmOjWMO55-0DqvcpcIXqWkL01IGLVUL7wCLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bskrBba7rFw/YS6MkAWg7MI/AAAAAAAA0GY/xLPKVCoCXf8cTyVYRC-Zkqjp90fUBrb4ACLcBGAsYHQ/s135/1679-Thorns-Arknights-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1679/",
+      "fetched_at": "2026-05-16T19:10:33.579Z",
+      "raw_id": "/nendoroid/details/n1679/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.725Z",
+      "raw_id": "Nendoroid/1600-1699/1679.json"
+    }
+  ]
+}

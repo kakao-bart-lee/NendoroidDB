@@ -1,0 +1,66 @@
+{
+  "num": "2575",
+  "name": {
+    "en": "Formidable",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": null,
+    "ko": null,
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0pSAUd5Unl_SIsIzZYNdfJqE_V95L6lm41ajCOgn6THAcPh2h17DC-G-zAb8Ylq_tAfPQ5zSmrOduxQBhdKnWpDF9wUMoPrqdCzBbUOEOvHgExVs9K23WOVgmSPQr-Ae6DT_hYm8_NEpSIGQCno_jIFv0kQTBGeK9hJ4Klm22TL8epkL5l0OkmW2IM85h/s270/2575-b-Formidable-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0pSAUd5Unl_SIsIzZYNdfJqE_V95L6lm41ajCOgn6THAcPh2h17DC-G-zAb8Ylq_tAfPQ5zSmrOduxQBhdKnWpDF9wUMoPrqdCzBbUOEOvHgExVs9K23WOVgmSPQr-Ae6DT_hYm8_NEpSIGQCno_jIFv0kQTBGeK9hJ4Klm22TL8epkL5l0OkmW2IM85h/s270/2575-b-Formidable-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEincyrMJbpThhNroV9gwWrZIOj430aMEBisbqoDHoxBvDODDQKh4xTntfgq3DSaxVh53UNq-RGj67EzlLOZUGbtbf50oFHj2exTOIArXCpkjC2zP50l4nUT77jP4L71HI0t5pURcXHGfi8qi5ibdZnCZSQwshpRNAiG6wMUyxtinoLiU0Ge0TI1z9BWlpX2/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0pun7l1NVKrbghiqT0Oph-plggo5PnvVDq-qE4D4NHfo-8deGmNoiEUmoEqnDVS11d8997wnPCDwZ2LkS-BsFJQWkZNxP3Rs3cOuQIRWH3Sub8YrW-r0umMDpIpeMYE5fzEPurR2jNRRazdP5UH08QEFBArQCU199ndkdhcQhkxbbG-ZDpVmUbmW53gN7/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiljAh_NI6Cmr1nv6rDOZy1Z_w4Lw6Fsy-ZDPfPc_Q_kg-Ei9UPwB1MdDiG4tmNLzc4THZK4iqDnpWtp03hyphenhyphenatT0-imLXBWXvHuzMAS5-RF35-a8GYOSVrmFpriK-ZU7K7x-eH6L70aE-QfdzQ53bnlys6UTwsDEMs15-f1Y55dz5I0TPcCf-sp_7wzZQS3/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP7fuEUTkXuvYaBpCVWTtCpSplUGSEPUPs0qytbBvOU09ower7-qIIIqHOnCY0rmPiN6FhAFAJBl-2_3-_uI0NEBCy8z7yJENvlzD9yDG5CYXzbrvtbqexUB3dAhUzoIE1cDNUs4J3WOkGMFMQ3G-gU50kLHwd2zZlPXvyCl7NRdeb5jHhil_YWScIfuPR/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58eEq0IBan_1kDM6gbxCOexbRFUcXgSaFd_WSXj_421XF_Bmty6TTGUECmEpURsO7ozw1KBHDqeWu3evKng9OFb7eLGwoeGVHZXMs_33NGweLv38DojOv3rEAYDHwRANyswoDQRaElPeFkRPwoeQulZSM6rHFT9BCXfG3gh12BVpQJm9WrF-seRccL9zK/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7UQbrlZ5gy8df8mqB9hk_LXTMyRnuuZ1Vdizyt3FGeOX5sNWzBtgguNJWL7NTWYo0sPyhuCe-haMUm-S3NHrbeTBTKKE_bgVOpCi9lK2RenH4NJih9H06O-ziUzZPdfqqH1OtNJuUDntYo9wWxbrbdZqmzQRJqx7B_uuNR3UqSm_3yzjREw4sp6nFR8J9/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB3L9whNaoiSoYai19w9_wDsAFHNka8ww4dMevXdxumO_8ZeUyasJuJSMWVjBw5rR8lPmmP7eHZIqciDa2kQHDWFAwbnUTD-4bkZkDD_5Tcfkh3xJXal_pCPhmvx1c5XVriNyeHA3kJ_FptT8YqP8Ki1IizgnzLFELCt_haTZMp4zlIhFc_dILpdmdTqff/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6GTcO3qcxY0U6ZmwdNTcTzjUrE8FMkBVxLi3Y-JevadXqRzdzm9-UseJF12BUpo2ToBNiTQCATnDKEqL5yJ2lh2QbzcNF89sg4mpi0_hZwtwsKy_iPO26kvzro5QnHHdcl1fBatzhKXiJztP6IQrlnLUf78tnRoLKueB8xy8l1sw3WHNpifWouWt2WQuf/s135/2575-Formidable-Azur-Lane-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2575/",
+      "fetched_at": "2026-05-16T19:10:34.143Z",
+      "raw_id": "/nendoroid/details/n2575/"
+    }
+  ]
+}

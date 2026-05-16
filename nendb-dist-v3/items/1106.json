@@ -1,0 +1,69 @@
+{
+  "num": "1106",
+  "name": {
+    "en": "Nendoroid Rikka Takarada",
+    "ja": "ねんどろいど 宝多六花 (ねんどろいど たからだりっか)",
+    "ko": "타가라다 릿카"
+  },
+  "series": {
+    "en": "SSSS.GRIDMAN",
+    "ja": "SSSS.GRIDMAN",
+    "ko": "SSSS.GRIDMAN",
+    "code": "ssss-gridman"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8173,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xQGKhhbM4YU/X4NgSTTQ_pI/AAAAAAABmY0/5qsPPiErsHoD8-rSQyX8GHvtBuIFAA5FQCLcBGAsYHQ/s270/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xQGKhhbM4YU/X4NgSTTQ_pI/AAAAAAABmY0/5qsPPiErsHoD8-rSQyX8GHvtBuIFAA5FQCLcBGAsYHQ/s270/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BWUh-4COY4k/X4rveIYvMFI/AAAAAAABo8s/0x8-_MdJMtMAaF-1Vr4djHBhgetV_8QYACLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RtfEcVQ7UcQ/X4rveRZvXhI/AAAAAAABo8w/bm7ungNqC_YWX6CoZzutZ-u21E8DYDo2QCLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8RhkjNBm76k/X4rvenhto0I/AAAAAAABo80/2APmXr5EJnsMX8MvLE5XrbLCJGqwbZm5ACLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kFS19AGpaqw/X4rve8-6HJI/AAAAAAABo84/UXToyiAhWGwKyPIXpjYRCtrePFmclyaAgCLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qhB9RJY2tqM/X4rvfCU_g4I/AAAAAAABo88/ZqaBC05vk8Y0q6Blv_AnRzrIZtXENo5VQCLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LXA0Gja7G68/X4rvfTEAlvI/AAAAAAABo9A/Sgq1oCaEzacHdoXDXxeKrlnItV9GkeL_QCLcBGAsYHQ/s135/1106-Rikka-Takarada-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1106/",
+      "fetched_at": "2026-05-16T19:10:33.224Z",
+      "raw_id": "/nendoroid/details/n1106/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.585Z",
+      "raw_id": "Nendoroid/1100-1199/1106.json"
+    }
+  ]
+}

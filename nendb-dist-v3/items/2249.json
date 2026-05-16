@@ -1,0 +1,68 @@
+{
+  "num": "2249",
+  "name": {
+    "en": "Nendoroid Shinigami",
+    "ja": "ねんどろいど 死に神ちゃん (ねんどろいど しにがみちゃん)",
+    "ko": "시니가미짱"
+  },
+  "series": {
+    "en": "Master Detective Archives: RAIN CODE",
+    "ja": "超探偵事件簿 レインコード",
+    "ko": "초탐정사건부 레인 코드",
+    "code": "master-detective-archives-rain-code"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14829,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n59_Je-gLb0/ZQoU6TKuU2I/AAAAAAABBj0/IzY3HNLXeckth5bi8G90OsV1CMHC5tJNQCNcBGAsYHQ/s270/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n59_Je-gLb0/ZQoU6TKuU2I/AAAAAAABBj0/IzY3HNLXeckth5bi8G90OsV1CMHC5tJNQCNcBGAsYHQ/s270/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Cc2TGj1Fecg/ZQshILR8WjI/AAAAAAABBt4/l-RErClRANAnsHCYZviX25PlZ8N0WIpRgCNcBGAsYHQ/s135/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iWSYN9Kbt9M/ZQshImZIgCI/AAAAAAABBt8/Q82rbwHAAEsQUTju6YOb22_3a0DatWgBwCNcBGAsYHQ/s135/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZGZvtWZqMiY/ZQshJC-x08I/AAAAAAABBuA/ZtkwRZc9N10JUEAx4nE5uLQTbac3u1vpgCNcBGAsYHQ/s135/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AZK6CNWflf4/ZQshJjrQ5RI/AAAAAAABBuE/AYvk17cpe_Yh7OZvaJ9usVCC9okXAtYkwCNcBGAsYHQ/s135/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EIcEPritdzc/ZQshKOayLrI/AAAAAAABBuI/u7WTd0xMT9wUly7Y6r9mH0dEsAsXmiszwCNcBGAsYHQ/s135/2249-Shinigami-Master-Detective-Archives-RAIN-CODE-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2249/",
+      "fetched_at": "2026-05-16T19:10:33.943Z",
+      "raw_id": "/nendoroid/details/n2249/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.865Z",
+      "raw_id": "Nendoroid/2200-2299/2249.json"
+    }
+  ]
+}

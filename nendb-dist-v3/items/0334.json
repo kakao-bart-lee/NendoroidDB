@@ -1,0 +1,68 @@
+{
+  "num": "0334",
+  "name": {
+    "en": "Nendoroid Ricca Morizono (ねんどろいど もりぞのりっか)",
+    "ja": "ねんどろいど 森園立夏 (ねんどろいど もりぞのりっか)",
+    "ko": "모리조노 릿카"
+  },
+  "series": {
+    "en": "D.C.III ~Da Capo III~",
+    "ja": "D.C.Ⅲ ～ダ・カーポⅢ～",
+    "ko": "다카포",
+    "code": "d-c-iii-da-capo-iii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3934,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-emKqX427wT4/X4NMuAmMq9I/AAAAAAABlhg/hl9eB9hB3YwAaEEBkfzlmxF2jE0RuJ8nACLcBGAsYHQ/s270/334-Ricca%2BMorizono-D.C.III%2BDa%2BCapo%2BIII-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-emKqX427wT4/X4NMuAmMq9I/AAAAAAABlhg/hl9eB9hB3YwAaEEBkfzlmxF2jE0RuJ8nACLcBGAsYHQ/s270/334-Ricca%2BMorizono-D.C.III%2BDa%2BCapo%2BIII-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BFzuiVVwGJk/X4dahhYtboI/AAAAAAAAq-Q/St-6fUUZTbc1u6QQJDEAMbpjvvTcwb6NACLcBGAsYHQ/s135/334-Ricca-Morizono-D.C.III-Da-Capo-III-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3oe2mZQP4qI/X4daiG9YZWI/AAAAAAAAq-U/M9neRtcRjrE1geWgRYkLHIGzz5fKtLCOQCLcBGAsYHQ/s135/334-Ricca-Morizono-D.C.III-Da-Capo-III-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hzPfATCAeG4/X4daiul3pII/AAAAAAAAq-Y/p7pfk4G1oYo1p3doF62VjttMOkG8h45UwCLcBGAsYHQ/s135/334-Ricca-Morizono-D.C.III-Da-Capo-III-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-83oo4rOPe6k/X4dajFOC3eI/AAAAAAAAq-c/Zz4wQv_ubzkO93ttjiIQkSP4fEAaiKfVACLcBGAsYHQ/s135/334-Ricca-Morizono-D.C.III-Da-Capo-III-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-E7VxC89ooBc/X4dajhzGj9I/AAAAAAAAq-g/r106qaAsMKA20tuxl235aZzpTCI3CqyXQCLcBGAsYHQ/s135/334-Ricca-Morizono-D.C.III-Da-Capo-III-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n334/",
+      "fetched_at": "2026-05-16T19:10:34.467Z",
+      "raw_id": "/nendoroid/details/n334/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.354Z",
+      "raw_id": "Nendoroid/0300-0399/334.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "12546",
+  "name": {
+    "en": "Nendoroid Doll Hatsune Miku: Date Outfit Ver.",
+    "ja": "ねんどろいどどーる 初音ミク デートコーデVer. (ねんどろいどどーる はつねみく でーとこーでVer.)",
+    "ko": "하츠네 미쿠: 데이트 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "굿스마일 오리지널",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12546,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220406/12546/97350/large/684ac27bd18d613aa9768b589f586445.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.959Z",
+      "raw_id": "NendoroidDoll/Doll/12546.json"
+    }
+  ]
+}

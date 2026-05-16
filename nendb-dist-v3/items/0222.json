@@ -1,0 +1,67 @@
+{
+  "num": "0222",
+  "name": {
+    "en": "Nendoroid Cordelia Glauca (ねんどろいど こーでりあ・ぐらうか)",
+    "ja": "ねんどろいど コーデリア・グラウカ (ねんどろいど こーでりあ・ぐらうか)",
+    "ko": "코델리아 그라우커"
+  },
+  "series": {
+    "en": "Tantei Opera Milky Holmes",
+    "ja": "探偵オペラ ミルキィホームズ",
+    "ko": "탐정 오페라 밀키 홈즈",
+    "code": "tantei-opera-milky-holmes"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3438,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-md0-EwMNF-c/X4NLJQi_GEI/AAAAAAABlWo/EKqqPar7qLo3g0NqTVKgw6a-Ugi_xAKcQCLcBGAsYHQ/s270/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-md0-EwMNF-c/X4NLJQi_GEI/AAAAAAABlWo/EKqqPar7qLo3g0NqTVKgw6a-Ugi_xAKcQCLcBGAsYHQ/s270/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ygiPy0_04eA/X4dXMCpv8NI/AAAAAAAAqY4/VaE7dWLZJukyRjpN8aKyjtCRrchDX8tsACLcBGAsYHQ/s135/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l4em3C44GaE/X4dXMa-kkAI/AAAAAAAAqY8/YXUQKMg2qNsbyV0mvozfPo9SYqgtlpd1gCLcBGAsYHQ/s135/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--foSMTOUTs8/X4dXMoGSAiI/AAAAAAAAqZA/sXyBtJCMz0Es1eRUueCs8POaWPxFDN8pACLcBGAsYHQ/s135/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nG5IkKdPdio/X4dXMzULa7I/AAAAAAAAqZE/9CnrpkAft-wdHSjFbJST1UTv6g0wzMH8gCLcBGAsYHQ/s135/222-Cordelia-Glauca-Tantei-Opera-Milky-Holmes-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n222/",
+      "fetched_at": "2026-05-16T19:10:33.932Z",
+      "raw_id": "/nendoroid/details/n222/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.324Z",
+      "raw_id": "Nendoroid/0200-0299/222.json"
+    }
+  ]
+}

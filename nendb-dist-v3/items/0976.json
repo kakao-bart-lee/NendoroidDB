@@ -1,0 +1,71 @@
+{
+  "num": "0976",
+  "name": {
+    "en": "Nendoroid Soldier: 76: Classic Skin Edition",
+    "ja": "ねんどろいど ソルジャー76 クラシックスキン・エディション (ねんどろいど そるじゃー76 くらしっくすきん・えでぃしょん)",
+    "ko": "솔저:76"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7445,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CZM8fQe5Iuo/X4NeyLKtluI/AAAAAAABmOk/y2dW5t14kykHCtE3lJIAWwia-QfjQnQhQCLcBGAsYHQ/s270/976-Soldier-76-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CZM8fQe5Iuo/X4NeyLKtluI/AAAAAAABmOk/y2dW5t14kykHCtE3lJIAWwia-QfjQnQhQCLcBGAsYHQ/s270/976-Soldier-76-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t2oM0ZSwXdg/X4rpL3nPznI/AAAAAAABoEw/ELQi-1zm7lk0YrKNZtbwjDmuKe-jVixfACLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mXR0w6WpB_I/X4rpMZQn3bI/AAAAAAABoE0/E93hqFbF4h0jk-OhzY_tXQDAq5jwieVuQCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ywRtJh63K1I/X4rpMR5QNrI/AAAAAAABoE4/cdjen_47ROsFRq6fStyB4YyabKsaBsgVQCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jOmprFpTi2k/X4rpM5-6TZI/AAAAAAABoE8/DzjQ8SKDkvEQ0dUhorE3Oyr34SKYKRWNgCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6lY_6F6c8Sw/X4rpNGfrMaI/AAAAAAABoFA/cxp6X8qesZ4wnFZtXddL2X0lH4EhbGAzgCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mK2F2S-rBh8/X4rpNGmP57I/AAAAAAABoFE/vL0M1T4dCYAcBfYdyKviBrn0HxIHCnODwCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-3U3RB4rN5Bw/X4rpNeWINoI/AAAAAAABoFI/H5NKawppZj0bBEdymjNhqxbSCbaFVfAWACLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-zAsCEwrnDfc/X4rpL4RLJ7I/AAAAAAABoEs/XqkOk2-4lMIZwW-8ZsAHm7q3HuG-UDhwgCLcBGAsYHQ/s135/976-Soldier-76-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n976/",
+      "fetched_at": "2026-05-16T19:10:34.905Z",
+      "raw_id": "/nendoroid/details/n976/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.554Z",
+      "raw_id": "Nendoroid/0900-0999/976.json"
+    }
+  ]
+}

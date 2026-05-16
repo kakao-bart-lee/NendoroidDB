@@ -1,0 +1,68 @@
+{
+  "num": "2033",
+  "name": {
+    "en": "Nendoroid Yuma Kuga",
+    "ja": "ねんどろいど 空閑 遊真 (ねんどろいど くが ゆうま)",
+    "ko": "쿠가 유마"
+  },
+  "series": {
+    "en": "World Trigger",
+    "ja": "ワールドトリガー",
+    "ko": "월드 트리거",
+    "code": "world-trigger"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13729,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2RJRWau7OfI/Y69BRLB89KI/AAAAAAAA8QQ/sYkE52DnYeIRNzPVfz8k4e75y74jnqwRgCNcBGAsYHQ/s270/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2RJRWau7OfI/Y69BRLB89KI/AAAAAAAA8QQ/sYkE52DnYeIRNzPVfz8k4e75y74jnqwRgCNcBGAsYHQ/s270/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EWhvKha6nnU/Y684540uhPI/AAAAAAAA8NU/qwP3Kmb9UNEBjAIvT8U3MoEHHNBvg0S4QCNcBGAsYHQ/s135/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cyiElSsIbyo/Y6845_b9pVI/AAAAAAAA8NY/2uBsi37KbRUKo6t2IYOjqFCNLuBZMo8-ACNcBGAsYHQ/s135/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fMDwRVt51GU/Y6846eEJ0QI/AAAAAAAA8Nc/tG3DwQ2hu2warPzwbn15TNgVQQkOf9CiQCNcBGAsYHQ/s135/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CuF70f22o9w/Y6846iV1q9I/AAAAAAAA8Ng/DxVIrNXmAaMADhj_XN36t3mg3RKIL-1lQCNcBGAsYHQ/s135/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yEWYwRZIHpI/Y684670aR4I/AAAAAAAA8Nk/e7uJmGfURMYbadOa3-wYZoJLlP5KFb2-ACNcBGAsYHQ/s135/2033-Yuma-Kuga-World-Trigger-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2033/",
+      "fetched_at": "2026-05-16T19:10:33.799Z",
+      "raw_id": "/nendoroid/details/n2033/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.810Z",
+      "raw_id": "Nendoroid/2000-2099/2033.json"
+    }
+  ]
+}

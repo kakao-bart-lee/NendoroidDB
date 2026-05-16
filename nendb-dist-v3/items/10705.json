@@ -1,0 +1,55 @@
+{
+  "num": "10705",
+  "name": {
+    "en": "Nendoroid Doll Catgirl Maid: Sakura",
+    "ja": "ねんどろいどどーる 猫耳メイド：サクラ (ねんどろいどどーる ねこみみめいど：さくら)",
+    "ko": "고양이 귀 메이드 사쿠라"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10705,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210122/10705/80107/large/a3dae21ac1811b26eccc11a54875a67b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.952Z",
+      "raw_id": "NendoroidDoll/Doll/10705.json"
+    }
+  ]
+}

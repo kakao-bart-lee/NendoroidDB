@@ -1,0 +1,68 @@
+{
+  "num": "0899",
+  "name": {
+    "en": "Nendoroid Kizuna AI",
+    "ja": "ねんどろいど キズナアイ (ねんどろいど きずなあい)",
+    "ko": "키즈나 아이"
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7108,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bIgVGCZSMxE/X4NeGWmSVWI/AAAAAAABmI4/xF_L0EUFWYwLHvt4BWMV0V3-xPirQ_t5wCLcBGAsYHQ/s270/899-Kizuna-AI-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bIgVGCZSMxE/X4NeGWmSVWI/AAAAAAABmI4/xF_L0EUFWYwLHvt4BWMV0V3-xPirQ_t5wCLcBGAsYHQ/s270/899-Kizuna-AI-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qkOWbepnR9M/X4rkae_ag6I/AAAAAAABnj8/ZoufI_pFCb4kwx-E95VVdfRzDz47w7-rgCLcBGAsYHQ/s135/899-Kizuna-AI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xCjIVvwSUEo/X4rkazwTzhI/AAAAAAABnkA/QfEQeBAXGRIzytiotcWjzXh6Y-WMCuW3wCLcBGAsYHQ/s135/899-Kizuna-AI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3Xkfxrjypko/X4rkawVm5aI/AAAAAAABnkE/-4WWQ1UZRXEBjPdsR4PbhrXZa3uYvpDQgCLcBGAsYHQ/s135/899-Kizuna-AI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CWj3VMM2KHE/X4rkbAmN_8I/AAAAAAABnkI/pmoivA9BNHUaEbhV6MOStw-w715IkRiMgCLcBGAsYHQ/s135/899-Kizuna-AI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Oao64X11lVI/X4rkbXrHzcI/AAAAAAABnkM/TfrQ9z1gmCM7b3lZ00k4l9VL0b-43nGzQCLcBGAsYHQ/s135/899-Kizuna-AI-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n899/",
+      "fetched_at": "2026-05-16T19:10:34.862Z",
+      "raw_id": "/nendoroid/details/n899/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.533Z",
+      "raw_id": "Nendoroid/0800-0899/899.json"
+    }
+  ]
+}

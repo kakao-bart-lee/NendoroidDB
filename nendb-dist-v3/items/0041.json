@@ -1,0 +1,64 @@
+{
+  "num": "0041",
+  "name": {
+    "en": "Melissa Seraphy",
+    "ja": "ねんどろいど メリッサ・セラフィ 魔王Ver. (ねんどろいど めりっさ・せらふぃ まおうVer.)",
+    "ko": "메릿사 세라피 마왕 Ver. "
+  },
+  "series": {
+    "en": "Chu X Chu Idol",
+    "ja": "Chu×Chuぱらだいす",
+    "ko": "Chu×Chuぱらだいす",
+    "code": "chu-x-chu-idol"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3365,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1dzpe3gNb5g/X4MSM-b0_-I/AAAAAAAApdE/_3n_N2e3fcUA7aKK8wGAghUGRpx5FG8ggCLcBGAsYHQ/s270/41-Melissa%2BSeraphy-Chu%2Bx%2BChu%2BIdol-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1dzpe3gNb5g/X4MSM-b0_-I/AAAAAAAApdE/_3n_N2e3fcUA7aKK8wGAghUGRpx5FG8ggCLcBGAsYHQ/s270/41-Melissa%2BSeraphy-Chu%2Bx%2BChu%2BIdol-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-f23mxscEAMk/X4GwbtpwowI/AAAAAAAApCc/DEcalA5gdwgxH-6IcYIOQKRHmNRkC47igCLcBGAsYHQ/s135/041-Melissa-Seraphy-Chu-x-Chu-Idol-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n041/",
+      "fetched_at": "2026-05-16T19:10:33.090Z",
+      "raw_id": "/nendoroid/details/n041/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.272Z",
+      "raw_id": "Nendoroid/0000-0099/041.json"
+    }
+  ]
+}

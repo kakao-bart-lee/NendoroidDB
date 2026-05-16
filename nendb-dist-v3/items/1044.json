@@ -1,0 +1,69 @@
+{
+  "num": "1044",
+  "name": {
+    "en": "Nendoroid Makoto Niijima: Phantom Thief Ver.",
+    "ja": "ねんどろいど 新島真 怪盗服Ver. (ねんどろいど にいじままこと かいとうふくVer.)",
+    "ko": "니지마 마코토 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7860,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AZNr1JJXycI/X4NfrfpnxfI/AAAAAAABmT4/6qh92iK2U7gPOZpps50NGb00yqNH5I7KwCLcBGAsYHQ/s270/1044-Makoto-Niijima-Phantom-Thief-Persona-5-the-Animation-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AZNr1JJXycI/X4NfrfpnxfI/AAAAAAABmT4/6qh92iK2U7gPOZpps50NGb00yqNH5I7KwCLcBGAsYHQ/s270/1044-Makoto-Niijima-Phantom-Thief-Persona-5-the-Animation-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9930KlJKk_c/X4rsG6wdomI/AAAAAAABoho/JxlmkvDO6XgxwaSmZN2y4en2DWOJkIK6wCLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CmoeUqq8rkI/X4rsHGEhnxI/AAAAAAABohs/B9QKfaikY20xYFyHNJ-6J7Ad5HYhe1RJQCLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hTvB23i9xU8/X4rsHfLk0cI/AAAAAAABohw/QMCi9H1gnOwjRivF5vMw39uMFtS92y3GACLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cMXD35ABAYE/X4rsHcNDEzI/AAAAAAABoh0/QLMgkLbew1YXXuwnSiu16xTeoVwJSXfvwCLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SI0bzle7JoI/X4rsH3Gs30I/AAAAAAABoh4/NmdUcQHa59gHZP-Sg8XsWLGMLMx_7fgzwCLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nNg_UdOJ-DQ/X4rsIL7bYzI/AAAAAAABoh8/KB2hYhYBZeQyr8dUiggPjDG3VJe_sw16QCLcBGAsYHQ/s135/1044-Makoto-Niijima-Persona-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1044/",
+      "fetched_at": "2026-05-16T19:10:33.170Z",
+      "raw_id": "/nendoroid/details/n1044/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.571Z",
+      "raw_id": "Nendoroid/1000-1099/1044.json"
+    }
+  ]
+}

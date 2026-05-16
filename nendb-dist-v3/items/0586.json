@@ -1,0 +1,67 @@
+{
+  "num": "0586",
+  "name": {
+    "en": "Nendoroid Chinatsu Yoshikawa (Included with the Limited Edition Yuru Yuri San Hai! 6th Volume Blu-ray)",
+    "ja": "ねんどろいど 吉川ちなつ(限定版Blu-ray『ゆるゆり さん☆ハイ！6』同梱) (ねんどろいど よしかわちなつ(げんていばんぶるーれい『ゆるゆり さん☆はい！6』どうこん))",
+    "ko": "요시카와 치나츠"
+  },
+  "series": {
+    "en": "YuruYuri San Hai!",
+    "ja": "ゆるゆり さん☆ハイ！",
+    "ko": "유루유리",
+    "code": "yuruyuri-san-hai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 11000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5352,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3MlrIfRaU38/X4NOq5qhLeI/AAAAAAABly8/kWZgnyyMvF8fB0cXx6SLLq4T3g-esZIPgCLcBGAsYHQ/s270/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3MlrIfRaU38/X4NOq5qhLeI/AAAAAAABly8/kWZgnyyMvF8fB0cXx6SLLq4T3g-esZIPgCLcBGAsYHQ/s270/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lZz2kdnc9jU/X4itd-rO-6I/AAAAAAAAsYk/HdUrh_p-hzMw_dYFQ6Ph11PP1YVAc-3mACLcBGAsYHQ/s135/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BeLcOKvGbZU/X4iteOKXniI/AAAAAAAAsYo/eot89lfpdI8K_EHsljtfQxcdoXo6Q1zbgCLcBGAsYHQ/s135/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i8WCWF-a2ts/X4iteTbSnOI/AAAAAAAAsYs/fWvC0MY3Be4PC-PcQMP7Z_ahV3IQSQQ0QCLcBGAsYHQ/s135/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1aj-137bcJU/X4iteZ2TMVI/AAAAAAAAsYw/oS7ayJY35jUoxOqy_LokrAWWmDYnunE_gCLcBGAsYHQ/s135/586-Chinatsu-Yoshikawa-Yuru-Yuri-San-Hai-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n586/",
+      "fetched_at": "2026-05-16T19:10:34.668Z",
+      "raw_id": "/nendoroid/details/n586/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.455Z",
+      "raw_id": "Nendoroid/0500-0599/586.json"
+    }
+  ]
+}

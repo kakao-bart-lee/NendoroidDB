@@ -1,0 +1,69 @@
+{
+  "num": "2278",
+  "name": {
+    "en": "Nendoroid Vermilio",
+    "ja": "ねんどろいど ヴァミリオ (ねんどろいど ゔぁみりお)",
+    "ko": "바밀리오"
+  },
+  "series": {
+    "en": "Helck",
+    "ja": "Helck",
+    "ko": "헬크",
+    "code": "helck"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8sGfZkSjTPk/ZQoU9BtsUHI/AAAAAAABBkY/br29tKrBFWMDYUdve_JbN_S0aikKdcBMgCNcBGAsYHQ/s270/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8sGfZkSjTPk/ZQoU9BtsUHI/AAAAAAABBkY/br29tKrBFWMDYUdve_JbN_S0aikKdcBMgCNcBGAsYHQ/s270/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-haO8ER5P-Ek/ZQshcAOPPYI/AAAAAAABBxQ/CqGB5MFSWkw5k0GsZwFPlUqeyV5Df6cIwCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ws3ClV5O6Io/ZQshcpy3qcI/AAAAAAABBxU/8YbEHsigoZsF5i2aUAnBWEYoN9DQlxvwwCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zyPnZzptpok/ZQshc9KbnsI/AAAAAAABBxY/cDCwt8hSjyAcXuIY5cLbIizr85dECTorwCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aRNhHSVqPbo/ZQshdVY77kI/AAAAAAABBxc/gDcV4LHQha8cFq5gaGbWgrqFoR6ka996gCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k3nOmazzBnc/ZQshd2_eLEI/AAAAAAABBxg/ow4fbWNqAZcuXcRJP93XTRxKdzsZjnfOgCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-CahNrE3jbzs/ZQsheVYNjmI/AAAAAAABBxk/lMOOHi2PAPQz4xwcL7o5MzX0O-GF5YgagCNcBGAsYHQ/s135/2278-Vermilio-Helck-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2278/",
+      "fetched_at": "2026-05-16T19:10:33.960Z",
+      "raw_id": "/nendoroid/details/n2278/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.870Z",
+      "raw_id": "Nendoroid/2200-2299/2278.json"
+    }
+  ]
+}

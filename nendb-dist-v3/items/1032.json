@@ -1,0 +1,68 @@
+{
+  "num": "1032",
+  "name": {
+    "en": "Nendoroid Ryota Kise Special Box",
+    "ja": "ねんどろいど 黄瀬涼太 Special Box (ねんどろいど きせりょうた すぺしゃるぼっくす)",
+    "ko": "키세 료타"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7801,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dGEepFjhUrE/X4Nfny42rzI/AAAAAAABmTI/3PEB0cEmAts64Ow4Yr3z_Du1ggzugWHcQCLcBGAsYHQ/s270/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dGEepFjhUrE/X4Nfny42rzI/AAAAAAABmTI/3PEB0cEmAts64Ow4Yr3z_Du1ggzugWHcQCLcBGAsYHQ/s270/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TMztaBIfoqM/X4rrxwNuQCI/AAAAAAABodg/roqnXESGsz4zT27eqmdWX0d0OCV1qTrJwCLcBGAsYHQ/s135/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8Wl7ehap3_U/X4rryPqB6uI/AAAAAAABodk/I8yZNO7FuokA5aGHGS53Jl3hbVbczcHhQCLcBGAsYHQ/s135/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eGfa_HU5uUI/X4rryXGwX9I/AAAAAAABodo/7AVyWqr2T4IWeds0flRY6NkQoeDiWWlDQCLcBGAsYHQ/s135/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Wrkxd4kEnMU/X4rrylWI7YI/AAAAAAABods/k688G_7_HA8XurdIcPCUu0y8AoN5ls9kACLcBGAsYHQ/s135/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XNFz1j8eLD4/X4rry84WqbI/AAAAAAABodw/0ZphRo97EdYQQbgR2tlEpdNirsUaF-8jgCLcBGAsYHQ/s135/1032-Ryota-Kise-Kurokos-Basketball-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1032/",
+      "fetched_at": "2026-05-16T19:10:33.156Z",
+      "raw_id": "/nendoroid/details/n1032/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.569Z",
+      "raw_id": "Nendoroid/1000-1099/1032.json"
+    }
+  ]
+}

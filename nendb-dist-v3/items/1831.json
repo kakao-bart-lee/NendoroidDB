@@ -1,0 +1,70 @@
+{
+  "num": "1831",
+  "name": {
+    "en": "Nendoroid Hiiro",
+    "ja": "ねんどろいど Hiiro",
+    "ko": "히이로"
+  },
+  "series": {
+    "en": "HiiroVTuber",
+    "ja": "HiiroVTuber",
+    "ko": "버츄얼 유튜버",
+    "code": "hiirovtuber"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12397,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-c5--IuJN_IM/YliMhm_V5kI/AAAAAAAA5LU/Am0ABE-D_XI8JxzreovMvBBKBv2kQqUZgCNcBGAsYHQ/s270/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-c5--IuJN_IM/YliMhm_V5kI/AAAAAAAA5LU/Am0ABE-D_XI8JxzreovMvBBKBv2kQqUZgCNcBGAsYHQ/s270/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QY4eMMxhaMA/YliVL06oFqI/AAAAAAAA5RE/jnVz7mG65lwKkqhTN8dBl11aWV4nq0ZqQCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y3PQvDRtRHo/YliVMVW9neI/AAAAAAAA5RI/daNwNa09Uw0wHPWsQwRAo0nxQOnuTQBlgCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kXuAgTWvcPc/YliVM_ytVNI/AAAAAAAA5RM/5PfNdyQO4S8SjsTYUF1hO0awRqKhilBigCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sjfDOx2ErwQ/YliVNRccjhI/AAAAAAAA5RQ/5rIzxnee06EZqx5Fs-4Z9PwwKlk0oTxyQCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-m5bRrH_0Vzs/YliVNqtTBCI/AAAAAAAA5RU/z_qZ9OU8T_UA34f_rtsmhqfWvT5wj5MqQCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-EKYi8ry2chA/YliVNw49bqI/AAAAAAAA5RY/XKwAqixi6yU6Std-b23fncNgjTdBO9yJACNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-hYfAUogFz5I/YliVOCuFYvI/AAAAAAAA5Rc/j0XkVhC8RrgR7jluDBqQi2j7nIPjok3hwCNcBGAsYHQ/s135/1831-Hiiro-HiiroVTuber-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1831/",
+      "fetched_at": "2026-05-16T19:10:33.674Z",
+      "raw_id": "/nendoroid/details/n1831/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.762Z",
+      "raw_id": "Nendoroid/1800-1899/1831.json"
+    }
+  ]
+}

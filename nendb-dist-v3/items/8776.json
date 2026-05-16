@@ -1,0 +1,55 @@
+{
+  "num": "8776",
+  "name": {
+    "en": "Nendoroid Doll Osamu Dazai",
+    "ja": "ねんどろいどどーる 太宰治 (ねんどろいどどーる だざいおさむ)",
+    "ko": "다자이 오사무"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8776,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190906/8776/63475/large/8313786a1a77ed690377c7c229093b8f.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.966Z",
+      "raw_id": "NendoroidDoll/Doll/8776.json"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "num": "9531",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Priest",
+    "ja": "ねんどろいどどーる おようふくセット 神父 (ねんどろいどどーる おようふくせっと しんぷ)",
+    "ko": "신부 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    },
+    {
+      "date": "2022-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9531,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200520/9531/69854/large/a5fd6b6841b7dc05ba9a1ec586bde97f.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.943Z",
+      "raw_id": "NendoroidDoll/Clothes/9531.json"
+    }
+  ]
+}

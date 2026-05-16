@@ -1,0 +1,91 @@
+{
+  "num": "2361",
+  "name": {
+    "en": "Noriko Takaya",
+    "ja": "ねんどろいど タカヤノリコ",
+    "ko": null
+  },
+  "series": {
+    "en": "Gunbuster",
+    "ja": "トップをねらえ！",
+    "ko": null,
+    "code": "gunbuster"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Udono Kazuyoshi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580590178762",
+  "gsc_product_id": "56676",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/56676",
+    "ja": "https://www.goodsmile.com/ja/product/56676"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56676/QJiSd1WyCKqNjxRZwkX5PrGF7ze6t4HM.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ROA-5ligvHU/ZZcfJnHWMdI/AAAAAAABDJ4/jqstyk402pY76W2O20pBJs_aHO8miAeGQCNcBGAsYHQ/s270/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MSXP_xXOL84/ZZSM5LmzCtI/AAAAAAABDCw/lQcn9Kr0HTMOJdTfy9xktaZwckiRaa9qQCNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-b1gn6TDbgL0/ZZSM5ijycbI/AAAAAAABDC0/HM0rDLa2onMWXYoSwdeCcb3BcHUrjF3SgCNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ls7QQINQmcY/ZZSM6atIZNI/AAAAAAABDC4/KFS6aDLnFF09Uunakykzj_MsVE8PI_OoACNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oi43Bt_YRHE/ZZSM656fn5I/AAAAAAABDC8/9ggUyBaZj2kQ-zPxOncZOg2S_kF7EHeIwCNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9h76r5obUt8/ZZSM7Cex7PI/AAAAAAABDDA/_-CD3AnCWA4vK-gG9jep_Zouj4yNuighQCNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2fmJst8ynno/ZZSM7vCrf9I/AAAAAAABDDE/C_5ybQ4kVns1r_Qq6MhsayLUVfTKDQtwACNcBGAsYHQ/s135/2361-Noriko-Takaya-Gunbuster-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56676/guGJc5QPRLqF4zmUWswBkHZ3jiKSV0Dp.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56676/QJiSd1WyCKqNjxRZwkX5PrGF7ze6t4HM.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/56676",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:24.300Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/56676",
+      "fetched_at": "2026-05-16T11:51:24.300Z",
+      "raw_id": "56676"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/56676",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "56676"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2361/",
+      "fetched_at": "2026-05-16T19:10:34.010Z",
+      "raw_id": "/nendoroid/details/n2361/"
+    }
+  ]
+}

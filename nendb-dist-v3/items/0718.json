@@ -1,0 +1,68 @@
+{
+  "num": "0718",
+  "name": {
+    "en": "Nendoroid Corrin (Female)",
+    "ja": "ねんどろいど カムイ(女) (ねんどろいど かむい(おんな))",
+    "ko": "카무이(여자)"
+  },
+  "series": {
+    "en": "Fire Emblem Fates",
+    "ja": "ファイアーエムブレムif",
+    "ko": "파이어 엠블렘",
+    "code": "fire-emblem-fates"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6152,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UlR8zy6TnKk/X4Nc2EQursI/AAAAAAABl8g/RDQM8nCKRHcnvOsJ7fJ7_LdgNcLjuHIigCLcBGAsYHQ/s270/718-Corrin-Female-Fire-Emblem-Fates-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UlR8zy6TnKk/X4Nc2EQursI/AAAAAAABl8g/RDQM8nCKRHcnvOsJ7fJ7_LdgNcLjuHIigCLcBGAsYHQ/s270/718-Corrin-Female-Fire-Emblem-Fates-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c553fIzA7xI/X4i3uwQ4ewI/AAAAAAAAtMs/mmuA8AulnqkYm2go5m-nYbHpZMkRJ-BvACLcBGAsYHQ/s135/718-Female-Corrin-Fire-Emblem-Fates-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rW5eA1eG7ZQ/X4i3vXjzUyI/AAAAAAAAtMw/S6J5NQvG42oYq34__QSVRJb9NgkEkBtXwCLcBGAsYHQ/s135/718-Female-Corrin-Fire-Emblem-Fates-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FLLRrd4wPwA/X4i3v7KbsII/AAAAAAAAtM0/RTvScl_YplY9squ5ULRiMtE0lJViYC2KQCLcBGAsYHQ/s135/718-Female-Corrin-Fire-Emblem-Fates-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-E6Jm7oy-GVk/X4i3wcJl3BI/AAAAAAAAtM4/yYsH7flqVyk-3RQy9HvpvFJVR5erq6_5gCLcBGAsYHQ/s135/718-Female-Corrin-Fire-Emblem-Fates-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VeyBB44jhYM/X4i3wzbzTOI/AAAAAAAAtM8/bQmFfnqnN-YKKLhEyxQ1sahA22jwdTXqwCLcBGAsYHQ/s135/718-Female-Corrin-Fire-Emblem-Fates-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n718/",
+      "fetched_at": "2026-05-16T19:10:34.759Z",
+      "raw_id": "/nendoroid/details/n718/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.491Z",
+      "raw_id": "Nendoroid/0700-0799/718.json"
+    }
+  ]
+}

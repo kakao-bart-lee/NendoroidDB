@@ -1,0 +1,69 @@
+{
+  "num": "0683",
+  "name": {
+    "en": "Nendoroid Kyo Kusanagi: CLASSIC Ver.",
+    "ja": "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
+    "ko": "쿠사나기 쿄 Classic Ver."
+  },
+  "series": {
+    "en": "THE KING OF FIGHTERS XIV",
+    "ja": "THE KING OF FIGHTERS XIV",
+    "ko": "더 킹 오브 파이터즈",
+    "code": "the-king-of-fighters-xiv"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5978,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YA5pYAfNohU/X4NP-OOnWtI/AAAAAAABl5o/cCCewv63J-4T3aBJ_KxivHCHFGvRRIaXACLcBGAsYHQ/s270/683-Kyo-Kusanagi-Classic-Ver-The-King-of-Fighters-XIV-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YA5pYAfNohU/X4NP-OOnWtI/AAAAAAABl5o/cCCewv63J-4T3aBJ_KxivHCHFGvRRIaXACLcBGAsYHQ/s270/683-Kyo-Kusanagi-Classic-Ver-The-King-of-Fighters-XIV-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5UaJqLt0fMQ/X4i10UAvX8I/AAAAAAAAs9s/vFSp-vHf9p871Bwcc_WdYNjj3X2nkpSdgCLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GOc4_tgs600/X4i10kJMyqI/AAAAAAAAs9w/8G1aeh_9pV0SV49pLkWsyVt7J4kXLVJGwCLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zlkA9v4Ya-I/X4i11RSHCcI/AAAAAAAAs90/ph79FR4CiK4ZcLy96EaGcQryB33yeGadACLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yRQD_GrI9KI/X4i11Xi6O9I/AAAAAAAAs94/0de27MsHc_IKtA0yuce2CYOLY7WZvbWjQCLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-C7RZrPTIgzA/X4i11n68RaI/AAAAAAAAs98/qLVbHyW3P7QrsHzNyF6VTZ2AYy9Ip1OMwCLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-H7qEwPbIP5U/X4i11pvRmoI/AAAAAAAAs-A/JqouOozzwaUvlvWPeDpcwqnr7NEBxxZwgCLcBGAsYHQ/s135/683-Kyo-Kusanagi-The-King-of-Fighters-XIV-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n683/",
+      "fetched_at": "2026-05-16T19:10:34.740Z",
+      "raw_id": "/nendoroid/details/n683/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.482Z",
+      "raw_id": "Nendoroid/0600-0699/683.json"
+    }
+  ]
+}

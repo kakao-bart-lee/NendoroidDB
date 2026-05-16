@@ -1,0 +1,69 @@
+{
+  "num": "1712",
+  "name": {
+    "en": "Nendoroid Sarasa Watanabe",
+    "ja": "ねんどろいど 渡辺さらさ (ねんどろいど わたなべさらさ)",
+    "ko": "와타나베 사라사"
+  },
+  "series": {
+    "en": "Kageki Shojo!!",
+    "ja": "かげきしょうじょ!!",
+    "ko": "가극소녀!!",
+    "code": "kageki-shojo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11768,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SLifwe2Z-ao/YWSHcl2Z98I/AAAAAAAA0_Q/6Sms7FmVD403PQgPKgKHD1VYuJaALPR7ACLcBGAsYHQ/s270/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SLifwe2Z-ao/YWSHcl2Z98I/AAAAAAAA0_Q/6Sms7FmVD403PQgPKgKHD1VYuJaALPR7ACLcBGAsYHQ/s270/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KvP3VljpHjU/YWSaofOmQLI/AAAAAAAA1F8/XwUydc9RNg80Nm6m2XNp-QMdT4A8DuZRQCLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nc68_IBiSt4/YWSaoggcCbI/AAAAAAAA1GA/inTkxdvZIkMFvkQdAXwgLHs0xHVhTeJJQCLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eK4GL0OJJzY/YWSaojBQ7qI/AAAAAAAA1GE/hqalbOcE8NsdFGiErw3VQQdRjaMFuhsugCLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RIp9EpwuJTY/YWSao9qquAI/AAAAAAAA1GI/N9VuIfya3Nkc97qwa0myw4alWkGjQKfRgCLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fN9u6QMWd2g/YWSapcZJCCI/AAAAAAAA1GM/TNIPMDYfGjYw22LnyCKGuc32Km8YB-GEQCLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-W0Xj6C68kJc/YWSapfLjy7I/AAAAAAAA1GQ/GWGU0kKwsF4mq1xuDEVygwrbWmzzaHU_ACLcBGAsYHQ/s135/1712-Sarasa-Watanabe-Kageki-Shojo-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1712/",
+      "fetched_at": "2026-05-16T19:10:33.601Z",
+      "raw_id": "/nendoroid/details/n1712/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.732Z",
+      "raw_id": "Nendoroid/1700-1799/1712.json"
+    }
+  ]
+}

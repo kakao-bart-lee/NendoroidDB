@@ -1,0 +1,68 @@
+{
+  "num": "1095",
+  "name": {
+    "en": "Nendoroid Foreigner/Abigail Williams",
+    "ja": "ねんどろいど フォーリナー/アビゲイル・ウィリアムズ (ねんどろいど ふぉーりなー/あびげいる・うぃりあむず)",
+    "ko": "포리너/아비게일 윌리엄스"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8112,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vMwPdJhtz6g/X4Nf9Mhh1UI/AAAAAAABmXc/ehHDJAXXD9wm5M5UqIDkvjBlSZZWRlWlQCLcBGAsYHQ/s270/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vMwPdJhtz6g/X4Nf9Mhh1UI/AAAAAAABmXc/ehHDJAXXD9wm5M5UqIDkvjBlSZZWRlWlQCLcBGAsYHQ/s270/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WMHwPi76zkA/X4rthHB-p0I/AAAAAAABo2U/_0kMmljTMPId9qvaelP4ehtXqAsZhcYzwCLcBGAsYHQ/s135/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N755Ayk9sZ8/X4rthdHN4tI/AAAAAAABo2Y/07TTeeuB66UXLxiTKtnX_CPNhHXEp8afQCLcBGAsYHQ/s135/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Jr-cPAbOsPA/X4rthWCA1VI/AAAAAAABo2c/4_rWMo0aguA3zn4leuIJ5u2gYc4pkuBKQCLcBGAsYHQ/s135/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y_eoRi6O1QY/X4rth9L2MSI/AAAAAAABo2g/Z0zY7tX2JzQji_AENeiun-mMwfX5eIEDQCLcBGAsYHQ/s135/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jXZgkqmDPoI/X4rtiA-H-WI/AAAAAAABo2k/8-Vw6ZPd2XQuF3FC0XZj_Gnm5R1gtaLPACLcBGAsYHQ/s135/1095-Foreigner-Abigail-Williams-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1095/",
+      "fetched_at": "2026-05-16T19:10:33.217Z",
+      "raw_id": "/nendoroid/details/n1095/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.583Z",
+      "raw_id": "Nendoroid/1000-1099/1095.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2437",
+  "name": {
+    "en": "Noa Ushio",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Archive",
+    "ja": null,
+    "ko": null,
+    "code": "blue-archive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZfTqxbY_a6o/Ziq-8V-99oI/AAAAAAABEBo/O4k4cKqfhfk4wwoIhN6d4B0ObsubkKffwCNcBGAsYHQ/s270/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZfTqxbY_a6o/Ziq-8V-99oI/AAAAAAABEBo/O4k4cKqfhfk4wwoIhN6d4B0ObsubkKffwCNcBGAsYHQ/s270/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gntmAQCYjZE/Zow27oUnq1I/AAAAAAABFmU/Eepxw9bp6R07C034KIuW19La-D5VK8ZUACNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AOpA0nNa6kw/Zow28Gc9_vI/AAAAAAABFmY/S9SS9EZaGYQ0gWDCwbzJOaykc-gf_8INQCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kRlMEdN1lKQ/Zow28luEw3I/AAAAAAABFmc/npxETpv4MJMbBVC3SO0xO2PUVCEU5GANQCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HlIMgN5mNN0/Zow29LmlVyI/AAAAAAABFmg/J9-4E38q1tIorIMfcldPo5y46XdGfbqcwCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J-90CLlbhS4/Zow29o7K1nI/AAAAAAABFmk/FcP0PTK3enoml8tQLMnzeYMlFjnZSceiQCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-m_hyy-d83Yo/Zow2-FRmQhI/AAAAAAABFmo/hQvlzCg4EtE831dAg0ttaLps_V3o-SqDQCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-2jWnRH3u4Bs/Zow2-kdLgiI/AAAAAAABFms/D2aL10YWCkIk1LX1yEyVB0Ac7uxAIXWPQCNcBGAsYHQ/s135/2437-Noa-Ushio-Blue-Archive-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2437/",
+      "fetched_at": "2026-05-16T19:10:34.057Z",
+      "raw_id": "/nendoroid/details/n2437/"
+    }
+  ]
+}

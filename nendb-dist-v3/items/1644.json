@@ -1,0 +1,68 @@
+{
+  "num": "1644",
+  "name": {
+    "en": "Nendoroid Kokkoro",
+    "ja": "ねんどろいど コッコロ (ねんどろいど こっころ)",
+    "ko": "콧코로"
+  },
+  "series": {
+    "en": "Princess Connect! Re: Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "ko": "프린세스 커넥트! Re:Dive",
+    "code": "princess-connect-re-dive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11171,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xBnHuzJb7_s/YL_UxUsgBRI/AAAAAAAAyQE/zBkE5SbpHngCJAB4U17VOuLDNj1xLW0MgCLcBGAsYHQ/s270/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xBnHuzJb7_s/YL_UxUsgBRI/AAAAAAAAyQE/zBkE5SbpHngCJAB4U17VOuLDNj1xLW0MgCLcBGAsYHQ/s270/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-exouWSxfyzY/YL_dEwOItNI/AAAAAAAAyYs/94mg4YjkHHImcN0iLl8iy2A0-lhM6l3mwCLcBGAsYHQ/s135/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1ENgc24sezQ/YL_dFXh3w8I/AAAAAAAAyYw/3Szxbc-FF0sSAIHvDXLpSftnRXGkYgIqgCLcBGAsYHQ/s135/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P91e_MetWjU/YL_dF3PDFjI/AAAAAAAAyY0/FhhlviC7FMwRqNhbZRImlIA1p25sJ39VACLcBGAsYHQ/s135/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GcmBmCEb6bw/YL_dGSoFAfI/AAAAAAAAyY4/SsQkSX5Vsk43k7NqXCahlzt7QszfOJRNgCLcBGAsYHQ/s135/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Os7mBF6h0AY/YL_dGmkPDeI/AAAAAAAAyY8/6JCe0XQHkiQeNfY10rQGMsjUC3fCNKzFQCLcBGAsYHQ/s135/1644-Kokkoro-Princess-Connect-Re-Dive-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1644/",
+      "fetched_at": "2026-05-16T19:10:33.555Z",
+      "raw_id": "/nendoroid/details/n1644/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.716Z",
+      "raw_id": "Nendoroid/1600-1699/1644.json"
+    }
+  ]
+}

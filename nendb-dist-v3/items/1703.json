@@ -1,0 +1,71 @@
+{
+  "num": "1703",
+  "name": {
+    "en": "Nendoroid Soraru",
+    "ja": "ねんどろいど そらる (ねんどろいど そらる)",
+    "ko": "소라루"
+  },
+  "series": {
+    "en": "Soraru",
+    "ja": "そらる",
+    "ko": "우타이테",
+    "code": "soraru"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11762,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hABtTnVwJCU/YWSHaS4wYqI/AAAAAAAA0-s/Oj07mVjmWQ0tBcFt8JcT1ckf0RgWekHsgCLcBGAsYHQ/s270/1703-Soraru-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hABtTnVwJCU/YWSHaS4wYqI/AAAAAAAA0-s/Oj07mVjmWQ0tBcFt8JcT1ckf0RgWekHsgCLcBGAsYHQ/s270/1703-Soraru-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TjPOfnYVEpc/YWSaZ6T5dEI/AAAAAAAA1Ck/o78JmGVODWEeRamPzQP-NTLt5ogeXlAoACLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k9UZX80Asc4/YWSaaEgq6uI/AAAAAAAA1Co/f16tJu-Huj8AKR_S5XJhhcZZOdwi9zolgCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_N93JE1pYdM/YWSaaaM8yII/AAAAAAAA1Cs/wQTGGdsBojMhXvbZKYiGeXR5G50deYZaACLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iLvPIieEW9U/YWSaamAJqiI/AAAAAAAA1Cw/ECi6F7PZSzolf_2DdpqmmA0mRaxZJpmPgCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-or4k6Y23fRw/YWSaaxcnfjI/AAAAAAAA1C0/SiDcfUKBxRcR1p6bLE8NIvHyUSu7XK0ZwCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RQ66GWIkdvk/YWSabFUHAgI/AAAAAAAA1C4/Rxg_HFTbSRM_i6KEPmGIit_TCuxJy2IVwCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-HIWovWIeUcE/YWSabeKdFPI/AAAAAAAA1C8/62X_kOXQKMIlSR1jUwg_A7KwtcDBHo_NQCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-Wg-wC9iG0RY/YWSaZlD98oI/AAAAAAAA1Cg/y4MKSH03IwspNN0THwaxo3becUEbkMTzwCLcBGAsYHQ/s135/1703-Soraru-Celebrity-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1703/",
+      "fetched_at": "2026-05-16T19:10:33.595Z",
+      "raw_id": "/nendoroid/details/n1703/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.730Z",
+      "raw_id": "Nendoroid/1700-1799/1703.json"
+    }
+  ]
+}

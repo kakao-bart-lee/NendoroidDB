@@ -1,0 +1,68 @@
+{
+  "num": "1428",
+  "name": {
+    "en": "Nendoroid Tenya Iida",
+    "ja": "ねんどろいど 飯田天哉 (ねんどろいど いいだてんや)",
+    "ko": "이이다 텐야"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9800,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MQ8mMzrwrCs/X4NkgRK7E1I/AAAAAAABm6Q/Owi0Cv1zrvId1W5YZD9JYl6OIlQugnEagCLcBGAsYHQ/s270/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MQ8mMzrwrCs/X4NkgRK7E1I/AAAAAAABm6Q/Owi0Cv1zrvId1W5YZD9JYl6OIlQugnEagCLcBGAsYHQ/s270/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dlGOKyO7lTA/X4tAfVy4U9I/AAAAAAABq3E/TqeNNguKXqwUKqhDNIPX-ZN0aVd3TX8lACLcBGAsYHQ/s135/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JFqkHDBvbjQ/X4tAfutDUDI/AAAAAAABq3I/ES__W7E24nQCvJRXBM7H90ejlHH-yr_4gCLcBGAsYHQ/s135/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cuERVy9GSFo/X4tAf6iFHHI/AAAAAAABq3M/z8K9Wj2OnXQGnHS-V1X6uzVIMc9c6IcvwCLcBGAsYHQ/s135/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-X4coEpF9k44/X4tAfyKa7yI/AAAAAAABq3Q/pgyFU3MZZzkSzZsNeTUFW7skfzHFmT6hACLcBGAsYHQ/s135/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wQ-wfDHK3go/X4tAgVObw-I/AAAAAAABq3U/t9tLMCC4G4M7R8z9fR8KJys2ALOzQUAggCLcBGAsYHQ/s135/1428-Tenya-Iida-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1428/",
+      "fetched_at": "2026-05-16T19:10:33.424Z",
+      "raw_id": "/nendoroid/details/n1428/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.663Z",
+      "raw_id": "Nendoroid/1400-1499/1428.json"
+    }
+  ]
+}

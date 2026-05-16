@@ -1,0 +1,69 @@
+{
+  "num": "0577",
+  "name": {
+    "en": "Nendoroid Akitsushima",
+    "ja": "ねんどろいど 秋津洲 (ねんどろいど あきつしま)",
+    "ko": "아키츠시마"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5306,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jH2uW9Fxbjo/X4NOoS7bZkI/AAAAAAABlyU/Q7YivmOI8LknFlIqWxGPOlGR7legzEUpwCLcBGAsYHQ/s270/577-Akitsushima-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jH2uW9Fxbjo/X4NOoS7bZkI/AAAAAAABlyU/Q7YivmOI8LknFlIqWxGPOlGR7legzEUpwCLcBGAsYHQ/s270/577-Akitsushima-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ofHFRuL18zQ/X4itQl70A4I/AAAAAAAAsVM/ZVmzKfepq2M2PltsGAELYWX4BkSW1k4RgCLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-b44BhXGgSDw/X4itRZTxnmI/AAAAAAAAsVQ/xdv3Fdl6Tn44EAR7T-5CHH3Z1RQcXPuiACLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oGcFs2rSLZs/X4itRj2dLlI/AAAAAAAAsVY/H4qG5cPplwQXd0_43qoE6zxkdnNE-R-ogCLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VmkO9OIufTo/X4itRksl4MI/AAAAAAAAsVU/Abz97Yvn58EjG9JHkOeaMqHEaeFIMjo8gCLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-076WGrfqpg8/X4itRyCX6jI/AAAAAAAAsVc/_y-S7Z_BXno3KbqMn8WfBccwaJXWj3bowCLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-d_XyAZ5ul0k/X4itSDHMrJI/AAAAAAAAsVg/mdxegquKb8g7lcGKtf5X2bXr6ljb5iK5ACLcBGAsYHQ/s135/577-Akitsushima-Kantai-Collection-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n577/",
+      "fetched_at": "2026-05-16T19:10:34.638Z",
+      "raw_id": "/nendoroid/details/n577/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.451Z",
+      "raw_id": "Nendoroid/0500-0599/577.json"
+    }
+  ]
+}

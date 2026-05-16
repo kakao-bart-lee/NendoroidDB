@@ -1,0 +1,68 @@
+{
+  "num": "1590",
+  "name": {
+    "en": "Nendoroid Yang Xiao Long",
+    "ja": "ねんどろいど ヤン・シャオロン",
+    "ko": "양 샤오롱"
+  },
+  "series": {
+    "en": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "ko": "RWBY",
+    "code": "rwby"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10919,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jslGb4U1Was/YFYAg3JDz8I/AAAAAAAAwVM/aNLnEFQKAgYKB5o2Z0cwvvAAOtgDpIbMACLcBGAsYHQ/s270/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jslGb4U1Was/YFYAg3JDz8I/AAAAAAAAwVM/aNLnEFQKAgYKB5o2Z0cwvvAAOtgDpIbMACLcBGAsYHQ/s270/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9bLpXXO510I/YFX_8u1wBXI/AAAAAAAAwS0/NDu8Os8UVRsjpFWi1TcQHFnlLywSIwzNwCLcBGAsYHQ/s135/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s3n-pRGHmWI/YFX_82QgqHI/AAAAAAAAwS4/LexAjtu5j5Iu5oMpLYBVnQ2NQUA5QcWagCLcBGAsYHQ/s135/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UUh4Ee_7yoA/YFX_9M2LimI/AAAAAAAAwS8/hhPygGiBtl0dfzPwihbkA0EH2KB83WuBQCLcBGAsYHQ/s135/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uKjUZ6poB5g/YFX_9rFyjcI/AAAAAAAAwTA/PTXVdM8U6YE0TsDa9fDk2eWSjKv7JHE9ACLcBGAsYHQ/s135/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-T2esB6wHhFE/YFX_9ljIafI/AAAAAAAAwTE/QB2QZ2hukxc_jmyYVywFS94-zWB9I8CFQCLcBGAsYHQ/s135/1590-Yang-Xiao-Long-RWBY-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1590/",
+      "fetched_at": "2026-05-16T19:10:33.522Z",
+      "raw_id": "/nendoroid/details/n1590/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.702Z",
+      "raw_id": "Nendoroid/1500-1599/1590.json"
+    }
+  ]
+}

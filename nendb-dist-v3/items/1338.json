@@ -1,0 +1,68 @@
+{
+  "num": "1338",
+  "name": {
+    "en": "Nendoroid Gr G11",
+    "ja": "ねんどろいど Gr G11 (ねんどろいど じーあーる じーじゅういち)",
+    "ko": "G11"
+  },
+  "series": {
+    "en": "Girls' Frontline",
+    "ja": "ドールズフロントライン",
+    "ko": "소녀전선",
+    "code": "girls-frontline"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9518,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hsZLvld9hZU/X4NjttM-9sI/AAAAAAABm1Q/0k-SARXglXszDhLsrfN1ZV5b23qIuPCwACLcBGAsYHQ/s270/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hsZLvld9hZU/X4NjttM-9sI/AAAAAAABm1Q/0k-SARXglXszDhLsrfN1ZV5b23qIuPCwACLcBGAsYHQ/s270/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eJyvqtelGvs/X4s9Qp4FpII/AAAAAAABqdI/M9Py4Gw3UpcJdy5CRbwo5LApDbNnw3aDACLcBGAsYHQ/s135/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZdMqfNPNp38/X4s9Q_k3RvI/AAAAAAABqdM/_LvLO651G6EOJLJLj4WxS89kbfv_FGilQCLcBGAsYHQ/s135/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RALuSd40eOQ/X4s9RI7kksI/AAAAAAABqdQ/-TyUpSg5S6M9OrkpdDN6NJViKMoYXZM6ACLcBGAsYHQ/s135/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xTr77T-PhfE/X4s9RZozgUI/AAAAAAABqdU/UDL9rTO_utkRI1-rTHPYjfCFKXxSlZogwCLcBGAsYHQ/s135/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nUGnC3cYh4s/X4s9Rivdg-I/AAAAAAABqdY/N8kkQNx3QRgkPuMXZpanExx6qKAHiUBuQCLcBGAsYHQ/s135/1338-Gr-G11-Girls-Frontline-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1338/",
+      "fetched_at": "2026-05-16T19:10:33.367Z",
+      "raw_id": "/nendoroid/details/n1338/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.642Z",
+      "raw_id": "Nendoroid/1300-1399/1338.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1484",
+  "name": {
+    "en": "Nendoroid Tae Hanazono: Stage Outfit Ver.",
+    "ja": "ねんどろいど 花園たえ ステージ衣装Ver. (ねんどろいど はなぞのたえ すてーじいしょうVer.)",
+    "ko": "하나조노 타에 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10195,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mYARVDztA2A/X5FKG7o9_mI/AAAAAAABrLQ/H7iok6d1qasroh2yGa_ww_biIuWM585kQCLcBGAsYHQ/s270/1484-Tae-Hanazono-BanG%2BDream%2521%2BGirls%2BBand%2BParty%2521-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mYARVDztA2A/X5FKG7o9_mI/AAAAAAABrLQ/H7iok6d1qasroh2yGa_ww_biIuWM585kQCLcBGAsYHQ/s270/1484-Tae-Hanazono-BanG%2BDream%2521%2BGirls%2BBand%2BParty%2521-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xqdaLTrZncc/X5HXXeelvKI/AAAAAAAAt40/s-liCPcB_ZUe6a-iaas17b83OpK6QngPACLcBGAsYHQ/s135/1484-Tae-Hanazono-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ynA9b3Y-xz0/X5HXXvzvQKI/AAAAAAAAt44/jFnqhDG5WZU18b3cFkJLgl6ubvs5G_g7QCLcBGAsYHQ/s135/1484-Tae-Hanazono-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ODdK8Vmu19M/X5HXXo2WgVI/AAAAAAAAt48/k-tmlJ03IuU9anrMPTe6GIcTwKEaO1XoQCLcBGAsYHQ/s135/1484-Tae-Hanazono-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bts0h25LBy0/X5HXXzOvMII/AAAAAAAAt5E/3R5XnVToKe0YsRAXROKnpvcXI5LT84EqACLcBGAsYHQ/s135/1484-Tae-Hanazono-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dajtPqHM9qY/X5HXX_VHtxI/AAAAAAAAt5A/7Y1NK5zrDXgndlM4QL75wbUKZpGI4NjFACLcBGAsYHQ/s135/1484-Tae-Hanazono-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1484/",
+      "fetched_at": "2026-05-16T19:10:33.459Z",
+      "raw_id": "/nendoroid/details/n1484/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.676Z",
+      "raw_id": "Nendoroid/1400-1499/1484.json"
+    }
+  ]
+}

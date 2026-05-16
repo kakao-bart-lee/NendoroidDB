@@ -1,0 +1,69 @@
+{
+  "num": "1300",
+  "name": {
+    "en": "Nendoroid Inuyasha",
+    "ja": "ねんどろいど 犬夜叉 (ねんどろいど いぬやしゃ)",
+    "ko": "이누야샤"
+  },
+  "series": {
+    "en": "Inuyasha",
+    "ja": "犬夜叉",
+    "ko": "이누야샤",
+    "code": "inuyasha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9339,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TNVY3i6nHmQ/X4NilBBq2CI/AAAAAAABmtU/xRN9I3nUwfYcs0Ywpb_d6rN4ARx8E8Q8wCLcBGAsYHQ/s270/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TNVY3i6nHmQ/X4NilBBq2CI/AAAAAAABmtU/xRN9I3nUwfYcs0Ywpb_d6rN4ARx8E8Q8wCLcBGAsYHQ/s270/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-28lEwjeXy54/X4r1e0jcv_I/AAAAAAABqL8/TBQenRjAum4wmTALTmtwCMS0zNnOI_c2wCLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1duWWN3mweE/X4r1fZ-jDvI/AAAAAAABqMA/JbMuZ1qqzCcKrMx4eSYkvRj352BhrLh3QCLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EKUhxvTiImk/X4r1fzTb6BI/AAAAAAABqME/brymHaWKdPwVGdjH8zrFw4CIX6NcNaNQwCLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oaHticMR-4M/X4r1gUQlUlI/AAAAAAABqMI/VM67q_bFDPonqRQGvPEXTlf2mRxom8S3ACLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-erV68yUbcKE/X4r1hBh89gI/AAAAAAABqMM/vCeMOf_cqgkszi6qSh-TvLasJnhhl7pUACLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4hBD2qN0Evs/X4r1hX7yBkI/AAAAAAABqMQ/q5aTGNmBiCMmPk7wt3D-GdwvPY_h_a1GQCLcBGAsYHQ/s135/1300-Inuyasha-Inuyasha-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1300/",
+      "fetched_at": "2026-05-16T19:10:33.343Z",
+      "raw_id": "/nendoroid/details/n1300/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.633Z",
+      "raw_id": "Nendoroid/1300-1399/1300.json"
+    }
+  ]
+}

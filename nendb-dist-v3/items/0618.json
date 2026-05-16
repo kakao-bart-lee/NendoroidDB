@@ -1,0 +1,68 @@
+{
+  "num": "0618",
+  "name": {
+    "en": "Nendoroid Captain America: Hero's Edition",
+    "ja": "ねんどろいど キャプテン・アメリカ ヒーローズ・エディション (ねんどろいど きゃぷてん・あめりか ひーろーず・えでぃしょん)",
+    "ko": "캡틴 아메리카 히어로즈 에디션"
+  },
+  "series": {
+    "en": "Avengers: Age of Ultron",
+    "ja": "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko": "어벤져스",
+    "code": "avengers-age-of-ultron"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5576,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-inzcnF6I178/X4NPqDshMwI/AAAAAAABl1k/hm5tPwnTNyEe-4QlKS9g2N-zDAaT1uxQQCLcBGAsYHQ/s270/618-Captain-America-Heros-Edition-Age-of-Ultron-Marvel-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-inzcnF6I178/X4NPqDshMwI/AAAAAAABl1k/hm5tPwnTNyEe-4QlKS9g2N-zDAaT1uxQQCLcBGAsYHQ/s270/618-Captain-America-Heros-Edition-Age-of-Ultron-Marvel-1.jpg",
+      "https://1.bp.blogspot.com/-6Va9PkAVeCI/X4iz6kyhc2I/AAAAAAAAsmE/x29nYCbf0L0CmIXr4J1VxL7zhrAP2ugZQCLcBGAsYHQ/s135/618-Captain-America-Avengers-Age-of-Ultron-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3P7JVVJ7ukw/X4iz6_vhfgI/AAAAAAAAsmI/I38JRbfjA98Ks_O-E-7WEQn9ykOuBwtxACLcBGAsYHQ/s135/618-Captain-America-Avengers-Age-of-Ultron-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-be8nhowA4ns/X4iz614y_2I/AAAAAAAAsmM/xl94rjuMfewsT2DJm4pY7_u2T0UfLJyFwCLcBGAsYHQ/s135/618-Captain-America-Avengers-Age-of-Ultron-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-N3JENWA_tsw/X4iz7dtcylI/AAAAAAAAsmQ/HqiJy00R6iUw7wmRbtjT9cEI6QTg6NbgACLcBGAsYHQ/s135/618-Captain-America-Avengers-Age-of-Ultron-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fOoWYtHPWvE/X4iz7_zlHyI/AAAAAAAAsmU/0V677EToA9Y5ZgmzRO2kGkyt7_U6lbFlQCLcBGAsYHQ/s135/618-Captain-America-Avengers-Age-of-Ultron-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n618/",
+      "fetched_at": "2026-05-16T19:10:34.700Z",
+      "raw_id": "/nendoroid/details/n618/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.464Z",
+      "raw_id": "Nendoroid/0600-0699/618.json"
+    }
+  ]
+}

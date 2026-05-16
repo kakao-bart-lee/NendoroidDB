@@ -1,0 +1,70 @@
+{
+  "num": "1561",
+  "name": {
+    "en": "Nendoroid Jean Pierre Polnareff",
+    "ja": "ねんどろいど ジャン・ピエール・ポルナレフ (ねんどろいど じゃん・ぴえーる・ぽるなれふ)",
+    "ko": "장 피에르 폴나레프"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stardust-crusaders"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10710,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_Xvfjpal0Dg/YFXx8uPVOuI/AAAAAAAAwLU/VtPqXyj2U4o5W1fyMQaozOhetnDOYg0SgCLcBGAsYHQ/s270/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_Xvfjpal0Dg/YFXx8uPVOuI/AAAAAAAAwLU/VtPqXyj2U4o5W1fyMQaozOhetnDOYg0SgCLcBGAsYHQ/s270/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4FgYz1k6EUc/YD1fmJ4C3RI/AAAAAAAAv54/7V7WrjaUjn01OZCKzgEsQlbDHlIn1ImPgCLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4B_VTdtEKM4/YD1fmLIBynI/AAAAAAAAv58/NECAeJSxd24K_abBoiSG_QWK_GWLof7MgCLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cH0u1_C_rpg/YD1fmlUtEYI/AAAAAAAAv6A/bZRaAHdLI-w46rYaREvd11S17CktpXqXgCLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z6JfUEqH-gs/YD1fmovalLI/AAAAAAAAv6E/IUqyTRbSsks3LyDGIxZTcYjfV7CBUS6LACLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_2RgEiM6brA/YD1fm1bjE_I/AAAAAAAAv6I/yHh1g3HhTJEXIxJVRltHvvHhTS3FCtWQQCLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NmXkpRYJHus/YD1fm1tfICI/AAAAAAAAv6M/ymGxvDQjCDM42clzp7jOlQV__XltGJU7QCLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dJo8rlC8RDs/YD1fnFBWZOI/AAAAAAAAv6Q/5CY5HjyqVl0jWy4P49YRCBRYrqDOoht8ACLcBGAsYHQ/s135/1561-Jean-Pierre-Polnareff-JoJos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1561/",
+      "fetched_at": "2026-05-16T19:10:33.505Z",
+      "raw_id": "/nendoroid/details/n1561/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.696Z",
+      "raw_id": "Nendoroid/1500-1599/1561.json"
+    }
+  ]
+}

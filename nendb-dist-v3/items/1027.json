@@ -1,0 +1,68 @@
+{
+  "num": "1027",
+  "name": {
+    "en": "Nendoroid Riku Nanase",
+    "ja": "ねんどろいど 七瀬陸 (ねんどろいど ななせりく)",
+    "ko": "나나세 리쿠"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7778,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0YJUGnS8rHo/X4NfmaxBVDI/AAAAAAABmS0/9aj9Fcy8snYmSgQDWimMCyee_hqmv6qSgCLcBGAsYHQ/s270/1027-Riku-Nanase-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0YJUGnS8rHo/X4NfmaxBVDI/AAAAAAABmS0/9aj9Fcy8snYmSgQDWimMCyee_hqmv6qSgCLcBGAsYHQ/s270/1027-Riku-Nanase-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-88WpE-yBIf4/X4rrrDssqaI/AAAAAAABob0/WyICUrTv-2EWlf6pWeNjD_nKKlLwcEyIgCLcBGAsYHQ/s135/1027-Riku-Nanase-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-E3Ce-r-xMS4/X4rrrLK8JkI/AAAAAAABob4/Ugd4J4yFyvEf5sSZJ6LoJtcZfPI6bH2qgCLcBGAsYHQ/s135/1027-Riku-Nanase-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7d0KlbFCgo0/X4rrrkhasKI/AAAAAAABob8/8A9zcuuO3iwVp5DPPu8cP1bxMxSkpL_3wCLcBGAsYHQ/s135/1027-Riku-Nanase-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TTy4fofV-Ls/X4rrrzpYsWI/AAAAAAABocA/lCnWKJtjes4N8BV5Fi7AbaG2f10BoMSNQCLcBGAsYHQ/s135/1027-Riku-Nanase-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4OEFLxA6JGw/X4rrsPn6qAI/AAAAAAABocE/gLs2lRuWAK4AnNZ3lI667dBboWez5xKdgCLcBGAsYHQ/s135/1027-Riku-Nanase-IDOLiSH7-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1027/",
+      "fetched_at": "2026-05-16T19:10:33.148Z",
+      "raw_id": "/nendoroid/details/n1027/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.568Z",
+      "raw_id": "Nendoroid/1000-1099/1027.json"
+    }
+  ]
+}

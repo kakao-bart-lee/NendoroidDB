@@ -1,0 +1,69 @@
+{
+  "num": "0484",
+  "name": {
+    "en": "Nendoroid Kokomi Shina (ねんどろいど しいなここみ)",
+    "ja": "ねんどろいど 椎名心実 (ねんどろいど しいなここみ)",
+    "ko": "시이나 코코미"
+  },
+  "series": {
+    "en": "Girl Friend Beta",
+    "ja": "ガールフレンド（仮）",
+    "ko": "걸프렌드",
+    "code": "girl-friend-beta"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4759,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ye14m4qdt0k/X4NN88qNF3I/AAAAAAABlr0/zj2TbtX2Oxo-kYWo0SQkIYw5yEi1-z4CwCLcBGAsYHQ/s270/484-Kokomi-Shina-Girl-Friend-Beta-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ye14m4qdt0k/X4NN88qNF3I/AAAAAAABlr0/zj2TbtX2Oxo-kYWo0SQkIYw5yEi1-z4CwCLcBGAsYHQ/s270/484-Kokomi-Shina-Girl-Friend-Beta-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8fhczPW-riY/X4dfL2q97HI/AAAAAAAAryI/UTzz62lUwCIotiN7ZmFj8rquWND0KFBsgCLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-w59m1yMZkgY/X4dfMRvFHJI/AAAAAAAAryM/Svm22IYLaDsQW-k3OsnAAA8HhWES_cL6wCLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o8hEg9cgJ3I/X4dfMziAEAI/AAAAAAAAryQ/OYdXE3NmIq0h46kWbcDuZwUGcuWpMnizACLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-esEdoXSKOIg/X4dfNR3yRcI/AAAAAAAAryU/cWwSX0erjPEmkpGuDgYCn3hbfmvxIKVegCLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hvn-GoiaPno/X4dfN3uMSnI/AAAAAAAAryY/Dhx2UjMvrzsktLeijRHEJ64Qgs3y6bM7wCLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-dT6b6oeTZ-o/X4dfOKoWDoI/AAAAAAAAryc/7CyFIP7VIkcmwx5pn4HQ_VFULvEQ__3CgCLcBGAsYHQ/s135/484-Komomi-Shina-Girl-Friend-Beta-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n484/",
+      "fetched_at": "2026-05-16T19:10:34.554Z",
+      "raw_id": "/nendoroid/details/n484/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.391Z",
+      "raw_id": "Nendoroid/0400-0499/484.json"
+    }
+  ]
+}

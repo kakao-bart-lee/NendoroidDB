@@ -1,0 +1,55 @@
+{
+  "num": "11550",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Suit - Stripes)",
+    "ja": "ねんどろいどどーる おようふくセット スーツ（ストライプ） (ねんどろいどどーる おようふくせっと すーつ（すとらいぷ）)",
+    "ko": "정장(체크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11550,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210727/11550/87788/large/7d9739c3b2fd362a7a4d5f5fe3ff79bc.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.919Z",
+      "raw_id": "NendoroidDoll/Clothes/11550.json"
+    }
+  ]
+}

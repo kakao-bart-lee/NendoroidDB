@@ -1,0 +1,70 @@
+{
+  "num": "1566",
+  "name": {
+    "en": "Nendoroid Kalim Al-Asim",
+    "ja": "ねんどろいど カリム・アルアジーム (ねんどろいど かりむ・あるあじーむ)",
+    "ko": "카림 알 아짐"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10739,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h9AgFsnQY7k/YFYAbr7JBcI/AAAAAAAAwUc/1DYA-8mEb18pMaYzPqMq-LMyUePv5XZ2QCLcBGAsYHQ/s270/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h9AgFsnQY7k/YFYAbr7JBcI/AAAAAAAAwUc/1DYA-8mEb18pMaYzPqMq-LMyUePv5XZ2QCLcBGAsYHQ/s270/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GtIZiAoL1h8/YFX_q4OvwPI/AAAAAAAAwOM/fdISpz8-jwQTfxj4GtE90hTyVyT5-kJBQCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qabpdj9FSGU/YFX_rNTtnjI/AAAAAAAAwOQ/zhOcOBlwpcoWXR_l2buXEhqWyhdEnManwCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tHNoh5fV_r4/YFX_rRMdVWI/AAAAAAAAwOY/lVafo680NkU9LrujaPwET6QedPdwScTngCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-byvGw_-sCIc/YFX_rYmQgOI/AAAAAAAAwOU/E62hVJdxDdk38q4S4KOyY7sRd1Gtvm46QCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-M2yeJVXutrM/YFX_rju_00I/AAAAAAAAwOc/jsj-i7pX4zUeehSWCZ8wvmI89PyR7tZzACLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-B3SKnGKAX5k/YFX_scxfOuI/AAAAAAAAwOk/9LeLjG7mMx8dgOa1mit9OZDxvd-ToRkkgCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/--HnYRwAxnM0/YFX_sROYU-I/AAAAAAAAwOg/fwVCzYE9QL8vxUvxrJVfLBW9_K1C-y14wCLcBGAsYHQ/s135/1566-Kalim-Al-Asim-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1566/",
+      "fetched_at": "2026-05-16T19:10:33.508Z",
+      "raw_id": "/nendoroid/details/n1566/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.697Z",
+      "raw_id": "Nendoroid/1500-1599/1566.json"
+    }
+  ]
+}

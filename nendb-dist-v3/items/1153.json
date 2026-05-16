@@ -1,0 +1,68 @@
+{
+  "num": "1153",
+  "name": {
+    "en": "Nendoroid Ran Mitake: Stage Outfit Ver.",
+    "ja": "ねんどろいど 美竹蘭 ステージ衣装Ver. (ねんどろいど みたけらん すてーじいしょうVer.)",
+    "ko": "미타케 란 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8454,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t3CkB8SceNA/X4NggJGkMTI/AAAAAAABmb8/xJOudkrv0AAFvzekOx2n28xSzTE7mBYvQCLcBGAsYHQ/s270/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t3CkB8SceNA/X4NggJGkMTI/AAAAAAABmb8/xJOudkrv0AAFvzekOx2n28xSzTE7mBYvQCLcBGAsYHQ/s270/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JDX9WmX_Fow/X4rwqm4PLfI/AAAAAAABpPA/Z6x4sMGeu18EHCqpiqpTO4MMNQ6rm4NBQCLcBGAsYHQ/s135/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-scL5iTDzVcI/X4rwq3jEE3I/AAAAAAABpPE/Tnve0i6KzWoMgOl5-SobYXox6QkaPq7MQCLcBGAsYHQ/s135/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cgGH6e66L1I/X4rwrIWTpsI/AAAAAAABpPI/Fe-l_E_MGwwn3ESAcpvTCTo6L8lse2fwQCLcBGAsYHQ/s135/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-v5PG8WEFHvg/X4rwrcFLLNI/AAAAAAABpPM/Zp5kM86iNA8NlxiJQQf1gI8pmqafHxBywCLcBGAsYHQ/s135/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cwhlZkGZ4m8/X4rwruomxUI/AAAAAAABpPQ/gujud7kbxSkzepb0K-2FPD1cqSMLl7o1QCLcBGAsYHQ/s135/1153-Ran-Mitake-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1153/",
+      "fetched_at": "2026-05-16T19:10:33.254Z",
+      "raw_id": "/nendoroid/details/n1153/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.597Z",
+      "raw_id": "Nendoroid/1100-1199/1153.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0094",
+  "name": {
+    "en": "Nendoroid Ritsu Tainaka (ねんどろいど　たいなか りつ)",
+    "ja": "ねんどろいど 田井中 律 (ねんどろいど　たいなか りつ )",
+    "ko": "타이나카 리츠"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2733,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_WbGwCS8QDY/X4MSKObS1kI/AAAAAAAApcc/usXLx6TDXZEFKOIjy8obOZ5xD01i3TjLwCLcBGAsYHQ/s270/094-Tainaka-Ritsu-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_WbGwCS8QDY/X4MSKObS1kI/AAAAAAAApcc/usXLx6TDXZEFKOIjy8obOZ5xD01i3TjLwCLcBGAsYHQ/s270/094-Tainaka-Ritsu-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GLGEcWp07FM/X4GxOOnwadI/AAAAAAAApRg/o1WXWWn5YaoSSdxQohrxofyJI3gF-n2RwCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZZ9Q-W1jVsA/X4GxOffjx0I/AAAAAAAApRk/XN-wslFDV5cB4IcK2GkxEmZmm1N1vPb1wCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GFYsLoyV5L4/X4GxOsPGX1I/AAAAAAAApRo/0YtXcELjhwcyHczsGKAB_j1GnkufZbB3QCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hIC6kD-MSD8/X4GxO5_tPZI/AAAAAAAApRs/Rdj6digE8sgfeDTsqiNXYpzCWaeo1vwSgCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Pa__yQgu2io/X4GxPdNRkTI/AAAAAAAApRw/abbO1jHFyC4Dj39xksSC5gh_D3L34feBgCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zZ_IKdaEaiI/X4GxPZJnXII/AAAAAAAApR0/ddIkdkzjSBEuTbHHqxVgpPIjbYWOoBtFQCLcBGAsYHQ/s135/094-Tainaka-Ritsu-K-ON-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n094/",
+      "fetched_at": "2026-05-16T19:10:33.123Z",
+      "raw_id": "/nendoroid/details/n094/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.286Z",
+      "raw_id": "Nendoroid/0000-0099/094.json"
+    }
+  ]
+}

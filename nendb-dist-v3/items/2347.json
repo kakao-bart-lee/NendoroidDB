@@ -1,0 +1,67 @@
+{
+  "num": "2347",
+  "name": {
+    "en": "Sakamata Chloe",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aXjrdsjVdKA/Ziq-rUZS-TI/AAAAAAABD-4/nbs7OzaddBsfmJNCDyZj1_hgLTkjsyG7ACNcBGAsYHQ/s270/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aXjrdsjVdKA/Ziq-rUZS-TI/AAAAAAABD-4/nbs7OzaddBsfmJNCDyZj1_hgLTkjsyG7ACNcBGAsYHQ/s270/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lM7_VHpmaK8/ZowzT-VIGGI/AAAAAAABFJ8/93g6Ckl-e9Apaq8udL-_sb92tJnrdUjWwCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GNnXsBeD6nQ/ZowzULRyhhI/AAAAAAABFKA/OVBs-N9IckMSLUS1QVZflkbpOPGALhIcwCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uSotuMo0LJY/ZowzUqEYQRI/AAAAAAABFKE/4zy2osqgwY4YVX9Dkz3C17n-fU8qjl6ugCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ibhEfLYhek8/ZowzUmJce6I/AAAAAAABFKI/9nhgF60_zucNTk60TJc83Zc9GKX0-RHBwCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EdpvmQSwfDk/ZowzU2DF_jI/AAAAAAABFKM/4j9fmspQm5sHOOtMS8RLz2OUzHfmwaxugCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gQFTHL9pgLg/ZowzVdSoJDI/AAAAAAABFKQ/Fk9T4_T5xuUyLyPfkJy6p-cw8_UfLZB1QCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ttkgV1lTTW4/ZowzVQaPgsI/AAAAAAABFKU/xIofgyjepJ01OalAx2fmlfmdVgU6fvnsACNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-H_HEK27tUI0/ZowzTQyHnCI/AAAAAAABFJ0/aBagIgyvTUU5b4sCzP3vcAFfEhc5wYAXQCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/--qrblFmo1LY/ZowzTg_hYaI/AAAAAAABFJ4/cIPmBuFkiQAbzoF00dHzAqa8MIAKkdHvQCNcBGAsYHQ/s135/2347-Sakamata-Chloe-Hololive-Production-Virtual-Youtuber-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2347/",
+      "fetched_at": "2026-05-16T19:10:34.001Z",
+      "raw_id": "/nendoroid/details/n2347/"
+    }
+  ]
+}

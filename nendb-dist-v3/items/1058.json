@@ -1,0 +1,69 @@
+{
+  "num": "1058",
+  "name": {
+    "en": "Nendoroid Pyro Jack",
+    "ja": "ねんどろいど ジャックランタン (ねんどろいど じゃっくらんたん)",
+    "ko": "잭 오 랜턴"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-U_pHiesYYoc/X4NfxmTo8KI/AAAAAAABmU8/RgyPXpyJOIA3FOufoIA6nBMsy9wjvolSwCLcBGAsYHQ/s270/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-U_pHiesYYoc/X4NfxmTo8KI/AAAAAAABmU8/RgyPXpyJOIA3FOufoIA6nBMsy9wjvolSwCLcBGAsYHQ/s270/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zsXCBtasGpM/X4rsfgTuXvI/AAAAAAABonc/98fcN5YQ56MWepgTzRZ0kFVwRVftFdVRgCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-E_4_-6QQXss/X4rsfyxmIzI/AAAAAAABong/5dO7TP1xW90eNg5c2THcxiJkwNXyxIFrgCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eydiRZp17oo/X4rsgVwt-7I/AAAAAAABonk/2TNlDxEXeBUjnRPBDT4qW_4zqEBEZ9TDQCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-l2Ne5D0oznQ/X4rsgaWOgrI/AAAAAAABono/95AxD-2fC5gBCfr0dx5YRZWtD_3deHjqgCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sR3CwU5hejo/X4rsgiHlTfI/AAAAAAABons/eCq8t8YMb0UpiMjQsLmBpLs-z9BQ3eOfwCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-v_8UARg03FQ/X4rsg01y_eI/AAAAAAABonw/E00ug-zOIOgSErNPnTUFBOyVDosDxmf2QCLcBGAsYHQ/s135/1058-Pyro-Jack-Shin-Megami-Tensei-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1058/",
+      "fetched_at": "2026-05-16T19:10:33.184Z",
+      "raw_id": "/nendoroid/details/n1058/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.575Z",
+      "raw_id": "Nendoroid/1000-1099/1058.json"
+    }
+  ]
+}

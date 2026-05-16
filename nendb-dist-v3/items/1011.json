@@ -1,0 +1,68 @@
+{
+  "num": "1011",
+  "name": {
+    "en": "Nendoroid Jack Skellington",
+    "ja": "ねんどろいど ジャック・スケリントン (ねんどろいど じゃっく・すけりんとん)",
+    "ko": "잭 스켈링턴"
+  },
+  "series": {
+    "en": "The Nightmare Before Christmas",
+    "ja": "ナイトメアー・ビフォア・クリスマス",
+    "ko": "크리스마스의 악몽",
+    "code": "the-nightmare-before-christmas"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-W56p2YzQ8q8/X4NfiGwIjAI/AAAAAAABmRw/ctcXvSv1P5IxTm5cZ4D_7BUGewNCazlugCLcBGAsYHQ/s270/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-W56p2YzQ8q8/X4NfiGwIjAI/AAAAAAABmRw/ctcXvSv1P5IxTm5cZ4D_7BUGewNCazlugCLcBGAsYHQ/s270/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eWIDCP_TTHE/X4rrSFZG_nI/AAAAAAABoV8/bae41Nd_9b4h0u7ISaMSOyAz41JLthK1gCLcBGAsYHQ/s135/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ulY3ZZj7TL4/X4rrSshwGRI/AAAAAAABoWA/jinpx7t9rcML_D_bCsxgYqV-nMQOmqI9wCLcBGAsYHQ/s135/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xogerXnCMwQ/X4rrSvsat-I/AAAAAAABoWE/Cjp_WObEJ0Y67xPfNZ1Zzf86QCkeibAhwCLcBGAsYHQ/s135/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cwamOSBRZO4/X4rrSy8M_4I/AAAAAAABoWI/5kvxw4vjaeIBIdw-d7ongVn9VcKZWrNEwCLcBGAsYHQ/s135/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GRPbfXAOT3k/X4rrTaU5mZI/AAAAAAABoWM/BbxNSseZ6rE7RZEEC1jiHuDM9yMR45XPgCLcBGAsYHQ/s135/1011-Jack-Skellington-The-Nightmare-Before-Christmas-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1011/",
+      "fetched_at": "2026-05-16T19:10:33.134Z",
+      "raw_id": "/nendoroid/details/n1011/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.564Z",
+      "raw_id": "Nendoroid/1000-1099/1011.json"
+    }
+  ]
+}

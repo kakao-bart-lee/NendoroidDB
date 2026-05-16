@@ -1,0 +1,70 @@
+{
+  "num": "1723",
+  "name": {
+    "en": "Nendoroid Ace Trappola",
+    "ja": "ねんどろいど エース・トラッポラ (ねんどろいど えーす・とらっぽら)",
+    "ko": "에이스 트라폴라"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11808,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oHVVUrKAdEE/YWSHfxzXZqI/AAAAAAAA0_o/rFeKb8YinpI46zPHK5JstPx4dGLgG_JPACLcBGAsYHQ/s270/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oHVVUrKAdEE/YWSHfxzXZqI/AAAAAAAA0_o/rFeKb8YinpI46zPHK5JstPx4dGLgG_JPACLcBGAsYHQ/s270/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VBB7L1-wU-g/YWSa1SoHWoI/AAAAAAAA1Ic/j_fSgaexKgEx-AklSgE4PlNqGTAWL0XVQCLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bBFmDQu6lcM/YWSa11A_iMI/AAAAAAAA1Ig/xx5aBtdnP9gNNYSGYRDpzu9YiHLy1Zb_gCLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c_94XZnW6og/YWSa2R8urJI/AAAAAAAA1Ik/yCLhsOX_LSEeWZA5onkssqgEyY_XAcXTACLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GE5dQjbHRLs/YWSa26VPheI/AAAAAAAA1Io/v5dYCliTtgwD8ix0p4eTchE3Bc4aiz5IACLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JwVhasbOa0w/YWSa3qNpPKI/AAAAAAAA1Is/1c0jI5U-S10n3L_9RVpSTFLaldIWkK6kACLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O17QYXwY-u4/YWSa4NebhFI/AAAAAAAA1Iw/MfxRKfQeErM2qQCqErYG2Smm2D_nXbmgACLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mBCg4JTmBNA/YWSa4lMAzyI/AAAAAAAA1I0/5kWdjnyI4AYH2vaKSNdurpOgn56NSl-igCLcBGAsYHQ/s135/1723-Ace-Trappola-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1723/",
+      "fetched_at": "2026-05-16T19:10:33.608Z",
+      "raw_id": "/nendoroid/details/n1723/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.736Z",
+      "raw_id": "Nendoroid/1700-1799/1723.json"
+    }
+  ]
+}

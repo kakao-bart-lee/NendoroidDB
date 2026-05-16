@@ -1,0 +1,69 @@
+{
+  "num": "1673",
+  "name": {
+    "en": "Nendoroid Chip 'n Dale",
+    "ja": "ねんどろいど チップ＆デール (ねんどろいど ちっぷあんどでーる)",
+    "ko": "칩과 데일"
+  },
+  "series": {
+    "en": "Chip 'n Dale",
+    "ja": "チップ＆デール",
+    "ko": "미키와 친구들",
+    "code": "chip-n-dale"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11492,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gMcQeJbGmgg/YS6Jri-1p6I/AAAAAAAAz8w/96Qh3g7NtNo38-DnH2m0_9xXpbqs6WFSgCLcBGAsYHQ/s270/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gMcQeJbGmgg/YS6Jri-1p6I/AAAAAAAAz8w/96Qh3g7NtNo38-DnH2m0_9xXpbqs6WFSgCLcBGAsYHQ/s270/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fbetGY1MkmA/YS6MU-MP9UI/AAAAAAAA0Dc/r-_cSXoK1swxuxijX-MfWD-mIYubIJkMgCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aWqUpEVWlbY/YS6MVH-hdjI/AAAAAAAA0Dg/AAjLQYDBfhYMfM08xDbLZhmjlaygs11uQCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c9CjxHU4vIU/YS6MVIObmrI/AAAAAAAA0Dk/45USjSDeTpgm5t_OEJyBXDfpCHh1psycQCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-i0ofY9uEUxA/YS6MVgt1-gI/AAAAAAAA0Do/FtIsRb-mScAd49LS3ggee_OPiK8OxUOegCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_jgTZDEF_Nw/YS6MWOen8gI/AAAAAAAA0Ds/svOI9lQVnacxWPj5IHY1k-YUfcWVhE2KwCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-e5B_63VxlWg/YS6MWiktJnI/AAAAAAAA0Dw/bye77S8zx1g52GKRuqWwGlQacE-zhupmwCLcBGAsYHQ/s135/1673-Chip-n-Dale-Chip-n-Dale-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1673/",
+      "fetched_at": "2026-05-16T19:10:33.575Z",
+      "raw_id": "/nendoroid/details/n1673/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.723Z",
+      "raw_id": "Nendoroid/1600-1699/1673.json"
+    }
+  ]
+}

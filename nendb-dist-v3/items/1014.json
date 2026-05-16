@@ -1,0 +1,68 @@
+{
+  "num": "1014",
+  "name": {
+    "en": "Nendoroid Ayano Hanesaki",
+    "ja": "ねんどろいど 羽咲綾乃 (ねんどろいど はねさきあやの)",
+    "ko": "하네사키 아야노"
+  },
+  "series": {
+    "en": "Hanebado!",
+    "ja": "はねバド！",
+    "ko": "하네배드!",
+    "code": "hanebado"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7674,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RnIpZPjLjkI/X4Nfi7dREyI/AAAAAAABmR8/fp-u-BqyyyADIWhZLOh8tQBn6hH09jJNACLcBGAsYHQ/s270/1014-Ayano-Hanesaki-Hanebado%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RnIpZPjLjkI/X4Nfi7dREyI/AAAAAAABmR8/fp-u-BqyyyADIWhZLOh8tQBn6hH09jJNACLcBGAsYHQ/s270/1014-Ayano-Hanesaki-Hanebado%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qyuby3fnC98/X4rrW3uQyuI/AAAAAAABoW4/BJ59IU9EjGAoY-q-t-3utO2X3Gxd1As0wCLcBGAsYHQ/s135/1014-Ayano-Hanesaki-Hanebado-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2ZeKNIjj_Nk/X4rrXOJqZpI/AAAAAAABoW8/NGMRzgSrpW8d7W-uHj8d3wEH9f7xreQzwCLcBGAsYHQ/s135/1014-Ayano-Hanesaki-Hanebado-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xSy0qgYHexg/X4rrXJ-fwSI/AAAAAAABoXA/3WxQoL6BRAYDcDhLUpD2qXZ7auuPS86_ACLcBGAsYHQ/s135/1014-Ayano-Hanesaki-Hanebado-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RbiDxdBwduA/X4rrXkRHFRI/AAAAAAABoXE/ngoUHYzd8wIMShgcWWZ8n1n272Kw7B2TACLcBGAsYHQ/s135/1014-Ayano-Hanesaki-Hanebado-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-brsdivRTuIU/X4rrXtzyxeI/AAAAAAABoXI/xST0hup_nOQrJvVXLkm3vSHg6gCKQgi6gCLcBGAsYHQ/s135/1014-Ayano-Hanesaki-Hanebado-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1014/",
+      "fetched_at": "2026-05-16T19:10:33.135Z",
+      "raw_id": "/nendoroid/details/n1014/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.564Z",
+      "raw_id": "Nendoroid/1000-1099/1014.json"
+    }
+  ]
+}

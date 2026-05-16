@@ -1,0 +1,63 @@
+{
+  "num": "2393",
+  "name": {
+    "en": "Yusei Fudo",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Yu-Gi-Oh!",
+    "ja": null,
+    "ko": null,
+    "code": "yu-gi-oh"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-khgPFEl0qo8/Ziq-uaLzFxI/AAAAAAABD_Q/8GAFYtUxvrYd-lM2BUgzpxtAP7wV9EY2gCNcBGAsYHQ/s270/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-khgPFEl0qo8/Ziq-uaLzFxI/AAAAAAABD_Q/8GAFYtUxvrYd-lM2BUgzpxtAP7wV9EY2gCNcBGAsYHQ/s270/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yGaugUrQcGE/Zow0_BBpESI/AAAAAAABFU4/WTM9W5KL8hAt35dr5knU1a8PCjwhq9fQQCNcBGAsYHQ/s135/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JGOQfAiPI3c/Zow97gnUpZI/AAAAAAABGO8/5li0V-Zw5eMBZK7ZT4194nOL3rqzfnURACNcBGAsYHQ/s135/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h0kgxyxAofQ/Zow0_QpvuAI/AAAAAAABFU8/tMisqWlOcE48goZM7EfS4ckuVsetDY5iQCNcBGAsYHQ/s135/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--NNTtFaoPdI/Zow0_zqB0XI/AAAAAAABFVE/6TnRyFZ4YPInyC4KnZ79PrR_kn643ZijACNcBGAsYHQ/s135/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Cmw4iK-AGG0/Zow0_x_XeuI/AAAAAAABFVI/otqq3g5GBh4nmlKcNEdLFq-7nVHHZO9JwCNcBGAsYHQ/s135/2393-Yusei-Fudo-Yu-Gi-Oh-5Ds-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2393/",
+      "fetched_at": "2026-05-16T19:10:34.030Z",
+      "raw_id": "/nendoroid/details/n2393/"
+    }
+  ]
+}

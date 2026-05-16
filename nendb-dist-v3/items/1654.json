@@ -1,0 +1,69 @@
+{
+  "num": "1654",
+  "name": {
+    "en": "Nendoroid Seer",
+    "ja": "ねんどろいど 占い師 (ねんどろいど うらないし)",
+    "ko": "선지자"
+  },
+  "series": {
+    "en": "Identity V",
+    "ja": "identityV 第五人格",
+    "ko": "제5인격",
+    "code": "identity-v"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11332,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-y_vWm6olleo/YONqQGGbjMI/AAAAAAAAzD4/8ou7WKiO5eYrcDjtAvYw2PYhyPMWIVfMgCLcBGAsYHQ/s270/1654-Seer-Identity-V-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-y_vWm6olleo/YONqQGGbjMI/AAAAAAAAzD4/8ou7WKiO5eYrcDjtAvYw2PYhyPMWIVfMgCLcBGAsYHQ/s270/1654-Seer-Identity-V-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4HjUFByl8s0/YONsFfW4q_I/AAAAAAAAzGk/B_atwVzteSwOVOrz1L3Z7Kcmh9WkFQI_QCLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HGALoK0gpxQ/YONsFlpi0TI/AAAAAAAAzGo/IkQAwjITDYYmgU3g81CcCPAyErsVhWEAQCLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_rcamhLHd30/YONsFsSqGkI/AAAAAAAAzGs/fkXjTGuDDF4wW19lwrn_ld9Hw54GCLn8ACLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jkLjsokuEpg/YONsF7a14nI/AAAAAAAAzGw/cpGOdTcU_ww2NA1Me0OXaJFBmQOiWYKfgCLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TiG_igBg3T4/YONsGNXTsdI/AAAAAAAAzG4/gdPWemFuoWQ1UT5bfGWKf0nZ2im9A-0EwCLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AgHIdVYEtoE/YONsGAZfcWI/AAAAAAAAzG0/nJqSnI9qm44FnwCsft1ErO5UwN_AkePPACLcBGAsYHQ/s135/1654-Seer-Identity-V-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1654/",
+      "fetched_at": "2026-05-16T19:10:33.561Z",
+      "raw_id": "/nendoroid/details/n1654/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.719Z",
+      "raw_id": "Nendoroid/1600-1699/1654.json"
+    }
+  ]
+}

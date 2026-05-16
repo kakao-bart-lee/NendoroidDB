@@ -1,0 +1,55 @@
+{
+  "num": "10216",
+  "name": {
+    "en": "Nendoroid Doll Little Red Riding Hood: Rose",
+    "ja": "ねんどろいどどーる 赤ずきんちゃん：ローズ (ねんどろいどどーる あかずきんちゃん：ろーず)",
+    "ko": "빨간망토 로즈"
+  },
+  "series": {
+    "en": "Nendoroid Doll Little Red Riding Hood: Rose",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll-little-red-riding-hood-rose"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10216,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201012/10216/75602/large/c6f85bbb8909d6829f3381d5f69ed42f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.950Z",
+      "raw_id": "NendoroidDoll/Doll/10216.json"
+    }
+  ]
+}

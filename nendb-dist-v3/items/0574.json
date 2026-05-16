@@ -1,0 +1,68 @@
+{
+  "num": "0574",
+  "name": {
+    "en": "Nendoroid Nozomi Moritomo",
+    "ja": "ねんどろいど 森友望未 (ねんどろいど もりとものぞみ)",
+    "ko": "모리토모 노조미"
+  },
+  "series": {
+    "en": "The Rolling Girls",
+    "ja": "ローリング☆ガールズ",
+    "ko": "롤링☆걸즈",
+    "code": "the-rolling-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5302,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mvnh2lJA7kg/X4NOnnQmTdI/AAAAAAABlyI/Vb5z3bwlfVw5a3iCYfOX-xyXFHRf7B4sQCLcBGAsYHQ/s270/574-Nozomi-Moritomo-The-Rolling-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mvnh2lJA7kg/X4NOnnQmTdI/AAAAAAABlyI/Vb5z3bwlfVw5a3iCYfOX-xyXFHRf7B4sQCLcBGAsYHQ/s270/574-Nozomi-Moritomo-The-Rolling-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZZbKgQWlTxY/X4itMEB9uzI/AAAAAAAAsUQ/XCzEY5-l9d44-BrOx05nxOw-9Iztu8MowCLcBGAsYHQ/s135/574-The-Rolling-Girls-Nozomi-Moritomo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YlYCVwnYUfw/X4itMr3WJTI/AAAAAAAAsUU/uWGQgFBofCo0-gVAfoRXiraLOLkmwT-RgCLcBGAsYHQ/s135/574-The-Rolling-Girls-Nozomi-Moritomo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c3QQEGpbjK4/X4itNZvsJ-I/AAAAAAAAsUY/0MZaTz1J5A8WGxD7Q3NzIcKu71Mss0k3gCLcBGAsYHQ/s135/574-The-Rolling-Girls-Nozomi-Moritomo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wNMON0RPU9Q/X4itNr9b_EI/AAAAAAAAsUc/UwY7GD_0LQQkw0uDn_Qv0fSh2rtx-0vnQCLcBGAsYHQ/s135/574-The-Rolling-Girls-Nozomi-Moritomo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gUaU16OYg_s/X4itOWZxzoI/AAAAAAAAsUg/3jUMGQDze7slU5WO9kGwR2GGLy07xpIbwCLcBGAsYHQ/s135/574-The-Rolling-Girls-Nozomi-Moritomo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n574/",
+      "fetched_at": "2026-05-16T19:10:34.617Z",
+      "raw_id": "/nendoroid/details/n574/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.450Z",
+      "raw_id": "Nendoroid/0500-0599/574.json"
+    }
+  ]
+}

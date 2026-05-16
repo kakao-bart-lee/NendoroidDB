@@ -1,0 +1,68 @@
+{
+  "num": "0549",
+  "name": {
+    "en": "Nendoroid Snow Mikudayo- (ねんどろいど ゆきみくだよー)",
+    "ja": "ねんどろいど 雪ミクダヨー (ねんどろいど ゆきみくだよー)",
+    "ko": "유키 미쿠다요"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3259,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5172,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iukvBpCJmAQ/X4NOhWsKd9I/AAAAAAABlwg/sf92KXHyM2oVWk0NATp2SRDtvnSDt-6JwCLcBGAsYHQ/s270/549-Hatsune-Miku-Snow-Mikudayo-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iukvBpCJmAQ/X4NOhWsKd9I/AAAAAAABlwg/sf92KXHyM2oVWk0NATp2SRDtvnSDt-6JwCLcBGAsYHQ/s270/549-Hatsune-Miku-Snow-Mikudayo-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ylkfBJbhCN8/X4isuvQ1AiI/AAAAAAAAsLc/hH8JgsNklFMGwzZ_IGhHCM5ak0fsm19VACLcBGAsYHQ/s135/549-Mikudayo-Snow-Mikudayo-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bJUDSO15i68/X4isutJSa9I/AAAAAAAAsLg/JJ2ojHjJaksXOpFJDB7L7wKOCHQKgUPKQCLcBGAsYHQ/s135/549-Mikudayo-Snow-Mikudayo-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZT0PbS7kiK0/X4isu7689mI/AAAAAAAAsLk/fj4jZIBmlQQJaBMydPyAWubh_cMPOFFSwCLcBGAsYHQ/s135/549-Mikudayo-Snow-Mikudayo-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T5LEG9gh7AI/X4isvH5AlVI/AAAAAAAAsLo/6SXZK5ClTXcfZW8-WNjhjPaNssruol_qQCLcBGAsYHQ/s135/549-Mikudayo-Snow-Mikudayo-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ruh08d-DCgw/X4isvGPCCQI/AAAAAAAAsLs/nPf8ucRhUHAWn5uNI-bJZqoncWFlEcbTgCLcBGAsYHQ/s135/549-Mikudayo-Snow-Mikudayo-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "DAYO",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n549/",
+      "fetched_at": "2026-05-16T19:10:34.593Z",
+      "raw_id": "/nendoroid/details/n549/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.441Z",
+      "raw_id": "Nendoroid/0500-0599/549.json"
+    }
+  ]
+}

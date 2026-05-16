@@ -1,0 +1,68 @@
+{
+  "num": "0842",
+  "name": {
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype)",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
+    "ko": "세이버/아서 펜드래건[프로토타입]"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6843,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bwqBlcg0zl8/X4Nd0deF4XI/AAAAAAABmFQ/szAJw4CJJBYXpH5DqYYXQB4LkelPcey7QCLcBGAsYHQ/s270/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bwqBlcg0zl8/X4Nd0deF4XI/AAAAAAABmFQ/szAJw4CJJBYXpH5DqYYXQB4LkelPcey7QCLcBGAsYHQ/s270/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L7gjB6Ej3tU/X4ri6mGO_XI/AAAAAAABnOs/_3GHK4zaqT8NF0TSvGWqyz3FfSPmJzp7gCLcBGAsYHQ/s135/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_TB_XDnk4oE/X4ri6_yAnlI/AAAAAAABnOw/4iSTHWcnkQwhi1C8RVk77vRsTgsVUo4jACLcBGAsYHQ/s135/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hEctIhcph8c/X4ri7LXWVxI/AAAAAAABnO0/6kIbHw_p3QcCgCICmhFRww2kO3QhqwAqwCLcBGAsYHQ/s135/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tcEbSSm8tVw/X4ri7gOKndI/AAAAAAABnO4/vU53knhjbrMMLcHbOIiY-G9HCSVdWiyOACLcBGAsYHQ/s135/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JL_IpbnC3f8/X4ri7rAwYPI/AAAAAAABnO8/2IeCxn9vdIgZtueFlgLTtpUXLHEcQwh-QCLcBGAsYHQ/s135/842-Saber-Arthur-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n842/",
+      "fetched_at": "2026-05-16T19:10:34.831Z",
+      "raw_id": "/nendoroid/details/n842/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.520Z",
+      "raw_id": "Nendoroid/0800-0899/842.json"
+    }
+  ]
+}

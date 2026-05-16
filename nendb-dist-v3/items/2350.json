@@ -1,0 +1,66 @@
+{
+  "num": "2350",
+  "name": {
+    "en": "Ninomae Ina'nis",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uetQO-_0HT4/ZZcfF6vKUPI/AAAAAAABDJY/n0DxkFOHbGgmqPOYvNZYbjW0AUWo1d_NQCNcBGAsYHQ/s270/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uetQO-_0HT4/ZZcfF6vKUPI/AAAAAAABDJY/n0DxkFOHbGgmqPOYvNZYbjW0AUWo1d_NQCNcBGAsYHQ/s270/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U_XNpMeSahA/ZZSMkO8kFJI/AAAAAAABC_8/hsG-BUnlJ4ER5XmYZibqDQxi-BjlCWiBACNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1qRx4W9RNfA/ZZSMkRck6CI/AAAAAAABDAA/zXAAiwKXbposedenlAquQ8bBvClS6NzJQCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8qOmAewwh9Q/ZZSMk1E3DmI/AAAAAAABDAE/jI7VAPNh4I0m3SoNHQSXM4wU6moQevaKQCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_w8_4T-Spr4/ZZSMk06dIGI/AAAAAAABDAI/p4F3OOi9tHAIDtSQKVfIje4Z1Anm4qqMQCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CDV9qNXQkcM/ZZSMlBqAtVI/AAAAAAABDAM/_hKEQfaDERomZoEoxbm9yjtujj8PH1W9ACNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DFDSqJoDcuI/ZZSMld4aemI/AAAAAAABDAQ/-glvjqBB7QofWHtMqUvb2PmzvLYteUBtQCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-AY0x2REHsHM/ZZSMlpfnt5I/AAAAAAABDAU/p-o53RrCMY4F157l3O_YSmFS2f99cuHzQCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-zacvPrVmCk8/ZZSMjraZRJI/AAAAAAABC_0/8aAMW4zIl0Ura2nmbRlVTICO1o1qP6vMwCNcBGAsYHQ/s135/2350-Ninomae-Inanis-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2350/",
+      "fetched_at": "2026-05-16T19:10:34.003Z",
+      "raw_id": "/nendoroid/details/n2350/"
+    }
+  ]
+}

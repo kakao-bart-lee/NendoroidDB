@@ -1,0 +1,68 @@
+{
+  "num": "1553",
+  "name": {
+    "en": "Nendoroid Blake Belladonna",
+    "ja": "ねんどろいど ブレイク・ベラドンナ (ねんどろいど ぶれいく・べらどんな)",
+    "ko": "블레이크 벨라도나"
+  },
+  "series": {
+    "en": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "ko": "RWBY",
+    "code": "rwby"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Syiq-KZvLQc/YA2BPQpybOI/AAAAAAAAvdY/yryIgarvfXU3JKXeexLlMi28cZGlqww0gCLcBGAsYHQ/s270/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Syiq-KZvLQc/YA2BPQpybOI/AAAAAAAAvdY/yryIgarvfXU3JKXeexLlMi28cZGlqww0gCLcBGAsYHQ/s270/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-l32Zpf9ppxY/YA2EnQQxMII/AAAAAAAAvj0/fkonrNXKh7AYkNS_I9tWKv7kZfawmN_IgCLcBGAsYHQ/s135/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Lwu_zsoui3g/YA2Enp2BSOI/AAAAAAAAvj4/G2OpG3246YgbvXXrbLCIg1QmPxt4fGGxwCLcBGAsYHQ/s135/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A14zSEDHmlE/YA2En4zehcI/AAAAAAAAvj8/waGbaUGJkwEOAqM9S28617mqqGEWi9uRQCLcBGAsYHQ/s135/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XqVZeXoVANM/YA2Enyd-l3I/AAAAAAAAvkA/MjOC8I1NB3oDJAXnp4LCPHHcoLaqS4W5wCLcBGAsYHQ/s135/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gJgMEloobTY/YA2EoP8f_LI/AAAAAAAAvkE/4F-j18tz2DscEcTwS7yxUI-gEVa9wlCfgCLcBGAsYHQ/s135/1553-Blake-Belladonna-RWBY-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1553/",
+      "fetched_at": "2026-05-16T19:10:33.500Z",
+      "raw_id": "/nendoroid/details/n1553/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.694Z",
+      "raw_id": "Nendoroid/1500-1599/1553.json"
+    }
+  ]
+}

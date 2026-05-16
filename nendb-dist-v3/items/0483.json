@@ -1,0 +1,68 @@
+{
+  "num": "0483",
+  "name": {
+    "en": "Nendoroid Akari Yomatsuri (ねんどろいど よまつりあかり)",
+    "ja": "ねんどろいど 夜祭アカリ (ねんどろいど よまつりあかり)",
+    "ko": "요마츠리 아카리"
+  },
+  "series": {
+    "en": "Captain Earth",
+    "ja": "キャプテン・アース",
+    "ko": "캡틴 어스",
+    "code": "captain-earth"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4756,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kFZBS2Vd_cQ/X4NN8YUf4UI/AAAAAAABlrw/8Rl7ubhYCYA54pXpkrSLLg2REueqIJvIACLcBGAsYHQ/s270/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kFZBS2Vd_cQ/X4NN8YUf4UI/AAAAAAABlrw/8Rl7ubhYCYA54pXpkrSLLg2REueqIJvIACLcBGAsYHQ/s270/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mkyALsKsHck/X4dfKtY4kxI/AAAAAAAArx0/i3aVdvBVLZs6DRBqd3DLvgcAnvQt3ksQACLcBGAsYHQ/s135/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GN5m6R8-yUk/X4dfK9ZCk_I/AAAAAAAArx4/vjLKHb3kI9gRiU6-j32ULoiOobw5CnapgCLcBGAsYHQ/s135/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-m-xyl78AIhY/X4dfLI6LzkI/AAAAAAAArx8/qF_umiyZuL0jEw6_MwdJuF_Jl_LW-rLyQCLcBGAsYHQ/s135/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gWxYi7-_aGo/X4dfLfPn0lI/AAAAAAAAryA/7o1mLDXDrHUqG2mkoJLBe8UinYov3lo6QCLcBGAsYHQ/s135/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L8aOX0lsJG0/X4dfLuDQREI/AAAAAAAAryE/K4_L1xjiFXQ4fuwGTe8xFFT1KHqSWixnACLcBGAsYHQ/s135/483-Akari-Yomatsuri-Captain-Earth-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n483/",
+      "fetched_at": "2026-05-16T19:10:34.554Z",
+      "raw_id": "/nendoroid/details/n483/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.391Z",
+      "raw_id": "Nendoroid/0400-0499/483.json"
+    }
+  ]
+}

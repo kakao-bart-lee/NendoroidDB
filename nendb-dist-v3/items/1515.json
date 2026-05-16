@@ -1,0 +1,69 @@
+{
+  "num": "1515",
+  "name": {
+    "en": "Nendoroid Assassin/Jack the Ripper",
+    "ja": "ねんどろいど アサシン/ジャック・ザ・リッパー (ねんどろいど あさしん/じゃっく・ざ・りっぱー)",
+    "ko": "어쌔신/잭 더 리퍼"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10426,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EIw2BFiyFfo/X9p0sxvVlQI/AAAAAAAAu_o/JFeRQxRNa5sY8UOp9adjSQEI5iNJQiGEACLcBGAsYHQ/s270/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EIw2BFiyFfo/X9p0sxvVlQI/AAAAAAAAu_o/JFeRQxRNa5sY8UOp9adjSQEI5iNJQiGEACLcBGAsYHQ/s270/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EP5DIZroZuY/X86KkWOSD8I/AAAAAAAAu6A/cXG8pin08cs6QaCsotTHZdOZJJtEar2ZACLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RZ8HEOsR5pg/X86Kk0zWxNI/AAAAAAAAu6E/OzfxMYcOD-AUPUBXkTon3yPb2EP0oQh3ACLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aMknEfAQQOU/X86KlWaKoTI/AAAAAAAAu6I/ixEBJh4qxQEqdb__VHbjRgpsel1y01KJwCLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-I_tV6DrJtkw/X86Kl8eEEjI/AAAAAAAAu6M/hzOQeEcD7CUx8LWSaktKaKRnUKDfKpluQCLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_yIv8mem3Lk/X86KmcxCPaI/AAAAAAAAu6Q/wr8T_RdgBbs0kHKzXxD8HfSr3gptkBYxACLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-75GjOftLk5I/X86Km9hzeeI/AAAAAAAAu6U/KWFPjXFewQQFaZAHmKeEKuXxVKK_ENeQACLcBGAsYHQ/s135/1515-Assassin-Jack-the-Ripper-Fate-Grand-Order-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1515/",
+      "fetched_at": "2026-05-16T19:10:33.477Z",
+      "raw_id": "/nendoroid/details/n1515/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.684Z",
+      "raw_id": "Nendoroid/1500-1599/1515.json"
+    }
+  ]
+}

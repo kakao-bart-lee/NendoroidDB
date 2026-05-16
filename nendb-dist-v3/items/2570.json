@@ -1,0 +1,64 @@
+{
+  "num": "2570",
+  "name": {
+    "en": "Moomin",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Moomins",
+    "ja": null,
+    "ko": null,
+    "code": "moomins"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqHuuLV8XFOelUTvRc1FvTiWrtHycGOkKexFp5-zuJu9sdmOtc83fBCIuHyIX6amwDrzrkyvntHY5gi4t7khxOQ8ZqIQjBtNNP_nVgUOf65td21otmsN9LwBunPpS16vrpCTCaY3eezHPdsOsWg2nw9NHqh39_343caXIzwOrFD8qxUai5gof4a9mXKUr/s270/2570-Moomin-Moomins-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqHuuLV8XFOelUTvRc1FvTiWrtHycGOkKexFp5-zuJu9sdmOtc83fBCIuHyIX6amwDrzrkyvntHY5gi4t7khxOQ8ZqIQjBtNNP_nVgUOf65td21otmsN9LwBunPpS16vrpCTCaY3eezHPdsOsWg2nw9NHqh39_343caXIzwOrFD8qxUai5gof4a9mXKUr/s270/2570-Moomin-Moomins-Western-Animation-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9sPG99BzMLGNSZif_OZXfy6GsngeQsTEchp9MzGgfxud-7hF7Xrp1Hjn3unrxn1tJZTlW-GgCdbSCIfGVw4u46A1ynMBhdd3Ron5IPBEN1F78ytXvnJSzOM20Vs3EMVELLz-fnRjzMGTLQ5MRjEzbuATG_Qdu_uS_z7YDS4b-1E5luPU33CAP44V-p9n1/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZe3yMTvsnSUJc6xCEbCNQoqtaVFjhq5da0qX4T7GyCyiGge8emBpkE66dwDuohnYTpVxO5s5dqNz44cjtuWDy7nV90xenj7XCiQOi68qKky_sbL6g9gcfgcWMD6N75lQSBYZUtiVtC3saR-vry-_FC2F3x6n61o3TvMD-nrht9meCVwfIPXoKQciZfo0u/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihnhyphenhyphenVJ3khTRgzz45tkkDC5kPx1mfzDk4PkYbb7H-tuW-LTH_Un48DAWZ95hR8uipwnDRHrqI3ie_MYW6Rl_LZBWjvf0oFsbRvxAQmVZtcNBvxkbyXCtitXmu8_JqTu6szAIF_aQSd4bZYNCF_-vw4yRjFhYvwYEXF11QbS1MOVP9rDaPsGeC-b5DgYNxt/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1m2bm0L34B5kl2CM_JvlZ_4n_Nhv0abtvgqEn3C_lMTdVrWW8PyoIaTcDdlcTK_oxcwSWpwjm30FCMBVNdFN6OjC4P9dIsaDiVqYr7r63tEFRBMFxHEwiTYk_t9KHK4ITbB1LB3AG0Td2NPKDVWJvh2i4y0O397TSpXu3a9Zusyom4JbuuLJ6oV7V87H/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht0uG1b4qU99YQX5hcJQTIvbiHQTPbW0sBw6kBzbMxbPKhwk2VNK9x9bwNcGM5F_Yj08rxL-xnGp_eOjvfY_3535GMwG6CRx45VV0eLujZOWxku9J43ZWsIaRFnZNA-lOtakYxazf_pStAR94ABXEyxHV4J7lXLRkh6tiOLajYnv4diFUTyobAn73k3J-W/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvlXZT_MQ_tcsQVDWh15W4kt2au_CtMbPAG2IZzQ268elc_ABin2LrrBYnfDjUvDZ_XxRdeE4RgFL5cqy0x_rFsD1D0jXDEE491qyBO3sYiQufmYTq8i5h8myI53gviMsBhrchMZLXvjzEZSbY6tZtb5TjjXzE-oOlrRLaptnOtGT1TsZTsQpQjpgUFR5-/s135/2570-Moomin-Moomins-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2570/",
+      "fetched_at": "2026-05-16T19:10:34.141Z",
+      "raw_id": "/nendoroid/details/n2570/"
+    }
+  ]
+}

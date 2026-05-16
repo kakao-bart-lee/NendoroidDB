@@ -1,0 +1,69 @@
+{
+  "num": "0091",
+  "name": {
+    "en": "Nendoroid Ein (ねんどろいど あいん)",
+    "ja": "ねんどろいど アイン (ねんどろいど あいん)",
+    "ko": "아인"
+  },
+  "series": {
+    "en": "Phantom　～Requiem for the Phantom～",
+    "ja": "Phantom　～Requiem for the Phantom～",
+    "ko": "팬텀 오브 인페르노",
+    "code": "phantom-requiem-for-the-phantom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2671,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bcej2fIHOVA/X4MSJnSG1dI/AAAAAAAApcQ/r8WDmiX3oNseZ2KL2haKZZtWkLKt1nhnACLcBGAsYHQ/s270/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bcej2fIHOVA/X4MSJnSG1dI/AAAAAAAApcQ/r8WDmiX3oNseZ2KL2haKZZtWkLKt1nhnACLcBGAsYHQ/s270/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EewG5iI0eVU/X4GxJ7EyHgI/AAAAAAAApQg/B6E-vw6EPD4c177J6i8pdMIt02EW2VtZQCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vSL_6cToXSI/X4GxKfYuoAI/AAAAAAAApQo/kjEisMOfhxgoPbZvKWEX36VBdVtUUigigCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lYkAtrAUCtU/X4GxKXstrxI/AAAAAAAApQk/29q7ymb7lc8bkcb4t_n51Yl01pM4ul0hQCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f6aAT3krQko/X4GxKckRyCI/AAAAAAAApQs/_aUCORVZcrMIrCQW45Dm2QhR02foWpgOQCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tZRrzBenF-c/X4GxK-RMZxI/AAAAAAAApQw/ZElwpd_AQ0w5hvFvKCiBeeQhUVs2u9EyQCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4L0Fk06Q1XU/X4GxLCkgzsI/AAAAAAAApQ0/j_VpMnNSsM0wc6hk0BvIC1jjFpk9aV2EgCLcBGAsYHQ/s135/091-Ein-Phantom-Requiem-for-the-Phantom-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n091/",
+      "fetched_at": "2026-05-16T19:10:33.121Z",
+      "raw_id": "/nendoroid/details/n091/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.285Z",
+      "raw_id": "Nendoroid/0000-0099/091.json"
+    }
+  ]
+}

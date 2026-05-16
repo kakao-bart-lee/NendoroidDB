@@ -1,0 +1,70 @@
+{
+  "num": "0466",
+  "name": {
+    "en": "Nendoroid Kurumi Tokisaki (ねんどろいど ときさきくるみ)",
+    "ja": "ねんどろいど 時崎狂三 (ねんどろいど ときさきくるみ)",
+    "ko": "토키사키 쿠루미"
+  },
+  "series": {
+    "en": "Date A Live II",
+    "ja": "デート・ア・ライブⅡ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4694,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jICcUQ0Flco/X4NN4OMWR2I/AAAAAAABlqs/ZuwHouTbs14WLz0KxVzcoxI3scFbPKPkgCLcBGAsYHQ/s270/466-Tokisaki-Kurumi-Date-a-Live-II-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jICcUQ0Flco/X4NN4OMWR2I/AAAAAAABlqs/ZuwHouTbs14WLz0KxVzcoxI3scFbPKPkgCLcBGAsYHQ/s270/466-Tokisaki-Kurumi-Date-a-Live-II-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iDWMlZT9gH4/X4devkT3z6I/AAAAAAAArrg/p_k5qH5Hqcg-qXIIQc0-AK_7qvP8PMPXACLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0iPsrh-mNG8/X4dev4tL0UI/AAAAAAAArrk/P9iwpGyRILUNMR5rX2Bu0jrDUN81aV_PgCLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VyRQU3N0Bv4/X4dewPDp_UI/AAAAAAAArro/GcAX5eHdAnU9A33aQvg3dsElZpzJ426vwCLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kz0f8PaXBnY/X4dewRdB04I/AAAAAAAArrs/Vp6NnT5a-9ctSFmoWJoe8tU_aIUyJiJwQCLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IpO3NWqrWMc/X4dewngufsI/AAAAAAAArrw/vmImlklIhnca5O_7FrhD-fseSEWgzlA8gCLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VonKhrwwD2A/X4dewziV32I/AAAAAAAArr0/JXIhIpqGBrMnYtl6wABeJjRhE4--vzylgCLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dEt9bAJnGGI/X4dexHwNzvI/AAAAAAAArr4/TKmdtyGoPaEDn65w8CLZVUQePU6Jfyi7ACLcBGAsYHQ/s135/466-Kurumi-Tokisaki-Date-A-Live-II-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n466/",
+      "fetched_at": "2026-05-16T19:10:34.545Z",
+      "raw_id": "/nendoroid/details/n466/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.386Z",
+      "raw_id": "Nendoroid/0400-0499/466.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0979",
+  "name": {
+    "en": "Nendoroid White blood cell（Neutrophil）",
+    "ja": "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
+    "ko": "백혈구"
+  },
+  "series": {
+    "en": "Cells at Work!",
+    "ja": "はたらく細胞",
+    "ko": "일하는 세포",
+    "code": "cells-at-work"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7504,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4neUk-nnXng/X4NezOkoLPI/AAAAAAABmOw/d9TMxQf5XCEqPZB9S5ZzzrVC0HxCbNEYACLcBGAsYHQ/s270/979-White-Blood-Cell-Cells-at-Work%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4neUk-nnXng/X4NezOkoLPI/AAAAAAABmOw/d9TMxQf5XCEqPZB9S5ZzzrVC0HxCbNEYACLcBGAsYHQ/s270/979-White-Blood-Cell-Cells-at-Work%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-erDaRHUe1T4/X4rpQT3L4EI/AAAAAAABoF0/veQ-8B-K1sI2pXzYsDgNzI3lOvuCMWUQwCLcBGAsYHQ/s135/979-White-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0k4JHZmynJs/X4rpQjggEdI/AAAAAAABoF4/utZmTAlDIMcLfS7KQM3Atc7kGqUvnJzKACLcBGAsYHQ/s135/979-White-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IfjJ5H6CClY/X4rpQ5T6nUI/AAAAAAABoF8/8fUMoxZ0_m0dXYD3kpTqheebiArXN6pWgCLcBGAsYHQ/s135/979-White-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TQ25TPAlB3A/X4rpRO4FSkI/AAAAAAABoGA/IJ6dsmViwRsfDWfzGJ7dPy34HDOS52_3gCLcBGAsYHQ/s135/979-White-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q4PMwPGXtWA/X4rpRLOu3II/AAAAAAABoGE/-VlCSgL_77wzI1DFEfmq6biwWam4W_fxwCLcBGAsYHQ/s135/979-White-Blood-Cell-Cells-at-Work-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n979/",
+      "fetched_at": "2026-05-16T19:10:34.906Z",
+      "raw_id": "/nendoroid/details/n979/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.555Z",
+      "raw_id": "Nendoroid/0900-0999/979.json"
+    }
+  ]
+}

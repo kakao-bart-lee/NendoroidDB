@@ -1,0 +1,70 @@
+{
+  "num": "0519",
+  "name": {
+    "en": "Nendoroid Angela Balzac: Super Movable Edition (ねんどろいど あんじぇら・ばるざっく すーぱーむーばぶる・えでぃしょん)",
+    "ja": "ねんどろいどアンジェラ・バルザック スーパームーバブル・エディション (ねんどろいど あんじぇら・ばるざっく すーぱーむーばぶる・えでぃしょん)",
+    "ko": "안젤라 발자크"
+  },
+  "series": {
+    "en": "Expelled from Paradise",
+    "ja": "楽園追放 -Expelled from Paradise-",
+    "ko": "낙원추방",
+    "code": "expelled-from-paradise"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5012,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n8fz0_dzTV4/X4NOY1QSyDI/AAAAAAABluk/9Hm1UXdR8acRJ_Y8KohK24ZuFYrZ0q4LgCLcBGAsYHQ/s270/519-Angela-Balzac-Expelled-From-Paradise-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n8fz0_dzTV4/X4NOY1QSyDI/AAAAAAABluk/9Hm1UXdR8acRJ_Y8KohK24ZuFYrZ0q4LgCLcBGAsYHQ/s270/519-Angela-Balzac-Expelled-From-Paradise-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-20TiUz-3LO0/X4isA_03ihI/AAAAAAAAsAg/d7g0_4IDSTggC3WIBYTZfhAVY7f0_xCaQCLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pTf351l17Q8/X4isBEiVUsI/AAAAAAAAsAk/7ltm5DR6exYZO0h-_D4laznlnq5W2mg9wCLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-g9E8zIltRRw/X4isBEaRyWI/AAAAAAAAsAo/9VurjK_3BZUNsiwGfz9EnUQBAo9azLFSwCLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-I1MGjvPd2tE/X4isBc6c3FI/AAAAAAAAsAs/_ve7_86pLDc98evbJ-pTMasJZJhhpp02wCLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PgXBTuWUXcs/X4isBuYAlhI/AAAAAAAAsAw/QGliy2x3y7ki_MuX5gyJU-MaIqpggvekACLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Jl2OJdgxVwE/X4isBhJrEtI/AAAAAAAAsA0/zYwUmAx5BR0EKjm7ddEZ8RyF6UBROSEDwCLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-VisBtvABFSs/X4isB64mU6I/AAAAAAAAsA4/nBcxBfxnOWwr7OzVG3A3neb3OucecXu7ACLcBGAsYHQ/s135/519-Angela-Balzac-Expelled-from-Paradise-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n519/",
+      "fetched_at": "2026-05-16T19:10:34.574Z",
+      "raw_id": "/nendoroid/details/n519/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.422Z",
+      "raw_id": "Nendoroid/0500-0599/519.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2214",
+  "name": {
+    "en": "Nendoroid Shoto",
+    "ja": "ねんどろいど Shoto (ねんどろいど Shoto)",
+    "ko": "쇼토"
+  },
+  "series": {
+    "en": "Shoto",
+    "ja": "Shoto",
+    "ko": "Shoto",
+    "code": "shoto"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14728,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JFfVihRKSj4/ZM6yx8mrbmI/AAAAAAABA9c/7qaaCm43clQkdCJu3AXCAB4jq96aIzFWwCNcBGAsYHQ/s270/2214-Shoto-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JFfVihRKSj4/ZM6yx8mrbmI/AAAAAAABA9c/7qaaCm43clQkdCJu3AXCAB4jq96aIzFWwCNcBGAsYHQ/s270/2214-Shoto-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JH0KqQqDwRc/ZNAWXIG03sI/AAAAAAABBG8/dwG6V_ttaGkvA5kCuvaHdGV3X7M_C1qtQCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iNciuiUYsMI/ZNAWXrQX8kI/AAAAAAABBHA/JQMqlobKykYgz2kPLVpbXySVx7PgOuY_ACNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XaAmgJL6f-g/ZNAWX-GsqaI/AAAAAAABBHE/xhXptBt1i8o4vB72xV8gkkhcHvtwL2G8QCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RMnlthvf07Y/ZNAWX5Yy16I/AAAAAAABBHI/JBGk8aEicBAUJEVkSaObYJ21aCbd7xA5gCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GEk2D6YbKm8/ZNAWYGJVw-I/AAAAAAABBHM/PdowtnHPAEEEuxwocBEC-_QQ04H6uJW2wCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6BOrTeZ83Lo/ZNAWYpMXnWI/AAAAAAABBHQ/dafaqxrj53kv4IBGV6_Z_3blV704q_f2gCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-c52Inu8nSuc/ZNAWY26MO8I/AAAAAAABBHU/uOh4aIfKanELkug_EbrG7jpl_5kSzU8QwCNcBGAsYHQ/s135/2214-Shoto-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2214/",
+      "fetched_at": "2026-05-16T19:10:33.920Z",
+      "raw_id": "/nendoroid/details/n2214/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.856Z",
+      "raw_id": "Nendoroid/2200-2299/2214.json"
+    }
+  ]
+}

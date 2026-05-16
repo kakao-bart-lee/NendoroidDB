@@ -1,0 +1,67 @@
+{
+  "num": "0100",
+  "name": {
+    "en": "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)",
+    "ja": "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
+    "ko": "미키 마우스"
+  },
+  "series": {
+    "en": "MICKEY MOUSE",
+    "ja": "MICKEY　MOUSE",
+    "ko": "디즈니",
+    "code": "mickey-mouse"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WpS4SYahj1U/X4MSMCi_CYI/AAAAAAAApc4/X_Rng1ogAMQlmx4r9H-65SdpMeYbGQ9HACLcBGAsYHQ/s270/100-Mickey-Mouse-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WpS4SYahj1U/X4MSMCi_CYI/AAAAAAAApc4/X_Rng1ogAMQlmx4r9H-65SdpMeYbGQ9HACLcBGAsYHQ/s270/100-Mickey-Mouse-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nKLowZj8qMU/X4GxU8BFJ1I/AAAAAAAApTw/udQQZc1zlIQfUnZTlncVF3dP7dB6a_LDgCLcBGAsYHQ/s135/100-Mickey-Mouse-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4t-gdJqzbI8/X4GxVK55jRI/AAAAAAAApT4/c2m3DxQc5e4LiQKxfQs_W0T90E1coV_SQCLcBGAsYHQ/s135/100-Mickey-Mouse-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7IAXZS9cSnk/X4GxVBEZJrI/AAAAAAAApT0/CXaPstWJvxkY-AVcs3CDmfJPjwH_j4iRACLcBGAsYHQ/s135/100-Mickey-Mouse-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-19B09Yff6WU/X4GxVaaxspI/AAAAAAAApT8/A3GyWwyKg7szbvSHTvpCsiEx-FKDr6gwACLcBGAsYHQ/s135/100-Mickey-Mouse-Disney-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n100/",
+      "fetched_at": "2026-05-16T19:10:33.132Z",
+      "raw_id": "/nendoroid/details/n100/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.288Z",
+      "raw_id": "Nendoroid/0100-0199/100.json"
+    }
+  ]
+}

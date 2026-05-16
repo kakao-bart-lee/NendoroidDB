@@ -1,0 +1,68 @@
+{
+  "num": "1975",
+  "name": {
+    "en": "Nendoroid Ayanami",
+    "ja": "ねんどろいど 綾波 (ねんどろいど あやなみ)",
+    "ko": "아야나미"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13336,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LQur2E24k3Q/Y02wJU272sI/AAAAAAAA7Ac/gylIGY-aKiculSpvlmbHAtlVzeIQZnvogCNcBGAsYHQ/s270/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LQur2E24k3Q/Y02wJU272sI/AAAAAAAA7Ac/gylIGY-aKiculSpvlmbHAtlVzeIQZnvogCNcBGAsYHQ/s270/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-op7LEwP9gvA/Y028PRtzK5I/AAAAAAAA7Y0/2sBnLGdrMYUyVi8abvAnO8I1IcNje1-2wCNcBGAsYHQ/s135/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dAKnLkjTAKE/Y028PqD7m1I/AAAAAAAA7Y4/ZUkVdaMQttwUFw6wiS4IS92hV9n_NtvYgCNcBGAsYHQ/s135/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-X5r58dOOQQU/Y028P75_PHI/AAAAAAAA7Y8/I6s4wzWCZ8wB1isbQaSvqBeWKSuNh12SgCNcBGAsYHQ/s135/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CJRafmw4QX8/Y028QI-zURI/AAAAAAAA7ZA/wbx_RPrp4S4pUMQNlo19TIjOBNNyXbAxwCNcBGAsYHQ/s135/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QJg1RLQBGeg/Y028QUZ1IyI/AAAAAAAA7ZE/s-cjtiNff3IMMVOuvazZpt-6_tihFBBmQCNcBGAsYHQ/s135/1975-Ayanami-Azur-Lane-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1975/",
+      "fetched_at": "2026-05-16T19:10:33.763Z",
+      "raw_id": "/nendoroid/details/n1975/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.795Z",
+      "raw_id": "Nendoroid/1900-1999/1975.json"
+    }
+  ]
+}

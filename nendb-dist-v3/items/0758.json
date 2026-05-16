@@ -1,0 +1,68 @@
+{
+  "num": "0758",
+  "name": {
+    "en": "Nendoroid Darkness",
+    "ja": "ねんどろいど ダクネス (ねんどろいど だくねす)",
+    "ko": "다크니스"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6370,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n2TCKgevwDg/X4NdBV96paI/AAAAAAABl_I/oJ9EET-rdk4tbgpFKIb7Ac7CVTdr60pDwCLcBGAsYHQ/s270/758-Darkness-Kono-Subarashii-Sekai-ni-Syukufuku-Wo-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n2TCKgevwDg/X4NdBV96paI/AAAAAAABl_I/oJ9EET-rdk4tbgpFKIb7Ac7CVTdr60pDwCLcBGAsYHQ/s270/758-Darkness-Kono-Subarashii-Sekai-ni-Syukufuku-Wo-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I6u227rxFPQ/X4i5Blr-95I/AAAAAAAAtcE/FO1NleQjOnIb7zTPns7pvpeYzpu-gSz3wCLcBGAsYHQ/s135/758-Darkness-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VrqKuvNKnBM/X4i5CAdX5aI/AAAAAAAAtcI/707qBWXuM8wWKVcYjS_JM0f2nEgHqtAJwCLcBGAsYHQ/s135/758-Darkness-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-veiuPR8Gc0Y/X4i5CrpDDcI/AAAAAAAAtcM/ob3NkpKgjyUpJdA4HqDKsoJoyIbewM4aACLcBGAsYHQ/s135/758-Darkness-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_1ZcZ8tYXQQ/X4i5DKqDoDI/AAAAAAAAtcQ/Sh9R5Eyu1TYrhaZTuw38CiYbDYsL6AFPACLcBGAsYHQ/s135/758-Darkness-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sVNIH-4TwDM/X4i5DsOZYEI/AAAAAAAAtcU/Opv5gozlwYw_bC2v5_XC_E9DK8fEpoMiwCLcBGAsYHQ/s135/758-Darkness-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n758/",
+      "fetched_at": "2026-05-16T19:10:34.781Z",
+      "raw_id": "/nendoroid/details/n758/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.501Z",
+      "raw_id": "Nendoroid/0700-0799/758.json"
+    }
+  ]
+}

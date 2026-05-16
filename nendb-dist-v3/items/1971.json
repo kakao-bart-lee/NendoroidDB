@@ -1,0 +1,68 @@
+{
+  "num": "1971",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Gao Shan Liu Shui Ver.",
+    "ja": "ねんどろいど 初音ミク 高山流水Ver. (ねんどろいど はつねみく こうざんりゅうすいVer.)",
+    "ko": "하츠네 미쿠: 고산유수 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13331,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aHc-tqnmg6Y/Y02wIWMKGNI/AAAAAAAA7AU/krZrFh_3awc3Sn9Qu4qQjegwgyMrCnnqgCNcBGAsYHQ/s270/1971-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aHc-tqnmg6Y/Y02wIWMKGNI/AAAAAAAA7AU/krZrFh_3awc3Sn9Qu4qQjegwgyMrCnnqgCNcBGAsYHQ/s270/1971-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mXXCTPvNL8s/Y028LsLJf4I/AAAAAAAA7YI/l8EDbbjAjHss9BBm5Vkr0EySnpnFtmqcQCNcBGAsYHQ/s135/1971-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eGrHW1fXS38/Y028L1ovq-I/AAAAAAAA7YE/SmfnseuQiokHIaCR9BwqaR3AHjryBMHRQCNcBGAsYHQ/s135/1971-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x9j4ZJF7u5M/Y028L8GPHJI/AAAAAAAA7YM/b0JlVE0NYeUhOszYSisYSpCc34uFfdHugCNcBGAsYHQ/s135/1971-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fo1l5uzUklQ/Y028MgOFYkI/AAAAAAAA7YQ/1xhYFwNpGqAGdsmLx-TL3vv6qnZA44DsgCNcBGAsYHQ/s135/1971-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4t5PTrG1p9A/Y028NBG3zJI/AAAAAAAA7YU/YhTnmst_CgARJwPzp-tfUEqdWkBBG8NmwCNcBGAsYHQ/s135/1971-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1971/",
+      "fetched_at": "2026-05-16T19:10:33.760Z",
+      "raw_id": "/nendoroid/details/n1971/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.794Z",
+      "raw_id": "Nendoroid/1900-1999/1971.json"
+    }
+  ]
+}

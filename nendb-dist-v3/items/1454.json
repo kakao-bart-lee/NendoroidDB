@@ -1,0 +1,68 @@
+{
+  "num": "1454",
+  "name": {
+    "en": "Nendoroid Hana Uzaki",
+    "ja": "ねんどろいど 宇崎花 (ねんどろいど うざきはな)",
+    "ko": "우자키 하나"
+  },
+  "series": {
+    "en": "Uzaki-chan Wants to Hang Out!",
+    "ja": "宇崎ちゃんは遊びたい！",
+    "ko": "우자키 양은 놀고 싶어!",
+    "code": "uzaki-chan-wants-to-hang-out"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10018,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-co2M07B2BXU/X4NkmPZj9fI/AAAAAAABm7s/zbdscK6KLSIlNrlhZRzDZ8QmxC87Z_fNgCLcBGAsYHQ/s270/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-co2M07B2BXU/X4NkmPZj9fI/AAAAAAABm7s/zbdscK6KLSIlNrlhZRzDZ8QmxC87Z_fNgCLcBGAsYHQ/s270/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8-RjPsYSgyg/X4tBBTNTpxI/AAAAAAABq_Q/VkreBRosxkooZ19OErnIm3MTXThl7w0xgCLcBGAsYHQ/s135/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gxcPRTahSlY/X4tBB6i0HYI/AAAAAAABq_U/aExRdMEsImsO95bLAJ3bAsTovQe1_JpagCLcBGAsYHQ/s135/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_Kc-W5_RYlQ/X4tBCKZaYNI/AAAAAAABq_Y/R3AHreLCyaUhGKOeSLIE7CHVRMM9SZf5wCLcBGAsYHQ/s135/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2iOPn0CJt54/X4tBCXMjlyI/AAAAAAABq_c/gfhKm3uoUVs9LS_aOnR-u_QM1ZD98BoBwCLcBGAsYHQ/s135/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gPSobru2di4/X4tBCuKl10I/AAAAAAABq_g/iePkNwVxjoUOjelI0WVA8FcCNGohI_2cwCLcBGAsYHQ/s135/1454-Hana-Uzaki-Uzaki-chan-Wants-to-Hang-Out-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1454/",
+      "fetched_at": "2026-05-16T19:10:33.441Z",
+      "raw_id": "/nendoroid/details/n1454/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.669Z",
+      "raw_id": "Nendoroid/1400-1499/1454.json"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "num": "2401",
+  "name": {
+    "en": "Shota Aizawa",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": null,
+    "ko": null,
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GbXsVQP0lzc/Ziq-v0slVFI/AAAAAAABD_g/s_TZN0FC5VwBX0vRKqkgP2mCCMIxqeVfQCNcBGAsYHQ/s270/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GbXsVQP0lzc/Ziq-v0slVFI/AAAAAAABD_g/s_TZN0FC5VwBX0vRKqkgP2mCCMIxqeVfQCNcBGAsYHQ/s270/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-52AGTLkoULA/Zow1PgaqL5I/AAAAAAABFXs/H-kCPJuFCiwnI8I6iF5UgueRi_OYEPLcACNcBGAsYHQ/s135/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-74MAJGrcbVg/Zow1PnYcWvI/AAAAAAABFXw/jzFTW-JzDb4Ij9f5dAV0gHrxoVa28R5TwCNcBGAsYHQ/s135/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fy33kXsiIMo/Zow1P0fDA3I/AAAAAAABFX4/QPdBkpl6VZUIWl8dW8FEcaLw1L1LTI6pgCNcBGAsYHQ/s135/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ARtTQj0tY3w/Zow1PxQ1_5I/AAAAAAABFX0/Y7uYTUYTlWQvNbgeCd8tWvWOsgaUBaQXACNcBGAsYHQ/s135/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6J6SQGzkcAw/Zow1QGd0t3I/AAAAAAABFX8/_DGxzbTMymIwM7mM1OswkiMWxsmFim2AwCNcBGAsYHQ/s135/2401-Shota-Aizawa-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2401/",
+      "fetched_at": "2026-05-16T19:10:34.035Z",
+      "raw_id": "/nendoroid/details/n2401/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2027",
+  "name": {
+    "en": "Nendoroid Weather · R",
+    "ja": "ねんどろいど ウェザー・R (ねんどろいど うぇざー・りぽーと)",
+    "ko": "웨더 리포트"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13725,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vhxuinw6Wsg/Y69BPU_fxRI/AAAAAAAA8P4/DzV89KeGF88RphHPJbYkQLjHAyQOuxLqgCNcBGAsYHQ/s270/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vhxuinw6Wsg/Y69BPU_fxRI/AAAAAAAA8P4/DzV89KeGF88RphHPJbYkQLjHAyQOuxLqgCNcBGAsYHQ/s270/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9J74BOglwL8/Y684vjUO_DI/AAAAAAAA8LA/hIZT0mQzWIIqEJ2EnAZHV5NLNguoFs0IACNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--smmfb2D5ig/Y684vopFt7I/AAAAAAAA8LE/X1mP6UjIjM8L6VjSCHD16vNQLHzpBR0iACNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8Voczn44_V8/Y684v_8ir6I/AAAAAAAA8LI/xTZBCYtMYnAdPg_zgqSCCYYH68usc4vYACNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-V5b5cVHfAPk/Y684wHJMh_I/AAAAAAAA8LM/0k_eA3idmUMLVmbBPxhZeXT6Ia9ZWizCgCNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bYZHt7MlUj4/Y684wmvnO3I/AAAAAAAA8LQ/6Tn47tmYdqUTSkkMmL5uD2KYlbFfa6-sgCNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ozYHApn6Mr0/Y684wy1PNdI/AAAAAAAA8LU/dui3a7C7lx8S_CcWJGVfzoD--QtRKfkBACNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-5GRUEG_j4ME/Y684w-73FuI/AAAAAAAA8LY/WuPCJaVANMEYHgSIa3TAR1Xl5e_SekAkgCNcBGAsYHQ/s135/2027-Weather-Report-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2027/",
+      "fetched_at": "2026-05-16T19:10:33.793Z",
+      "raw_id": "/nendoroid/details/n2027/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.809Z",
+      "raw_id": "Nendoroid/2000-2099/2027.json"
+    }
+  ]
+}

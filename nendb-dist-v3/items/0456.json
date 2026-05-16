@@ -1,0 +1,68 @@
+{
+  "num": "0456",
+  "name": {
+    "en": "Nendoroid Devil Homura (ねんどろいど あくまほむら)",
+    "ja": "ねんどろいど 悪魔ほむら (ねんどろいど あくまほむら)",
+    "ko": "악마 호무라"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie -Rebellion-",
+    "ja": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie-rebellion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4624,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6cqX_kOQ68g/X4NN1UjXf2I/AAAAAAABlqE/0mMnyhFfmmo6aoiKeCoXJ1Pi-pMopztVACLcBGAsYHQ/s270/456-Devil-Homura-Puella-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6cqX_kOQ68g/X4NN1UjXf2I/AAAAAAABlqE/0mMnyhFfmmo6aoiKeCoXJ1Pi-pMopztVACLcBGAsYHQ/s270/456-Devil-Homura-Puella-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z6hW5kn7le0/X4degFYG9XI/AAAAAAAAroY/k_GnKMeEhMYf02zPBiJb6paaZzzJ5iRcgCLcBGAsYHQ/s135/456-Devil-Homura-Puella-Magi-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UIIIepzKFH0/X4degf3jgPI/AAAAAAAAroc/fKrQh4tUSc8EQ-RzVL7iWOFBLw7YFkhAwCLcBGAsYHQ/s135/456-Devil-Homura-Puella-Magi-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z9AvYvYv_B4/X4degsvYXJI/AAAAAAAArog/maxe_7pV4gs-EznGhcsRSqph0HY003bZgCLcBGAsYHQ/s135/456-Devil-Homura-Puella-Magi-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f2ME5yRV7uo/X4deg2hdFYI/AAAAAAAArok/WE5TlKiqGA0tiBzRYQMisP8s10l-XW3rQCLcBGAsYHQ/s135/456-Devil-Homura-Puella-Magi-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3HRtoU1znYk/X4deg__hMmI/AAAAAAAAroo/55pZ13erPXUEzWr49dVcIAcOzi7R_1BoACLcBGAsYHQ/s135/456-Devil-Homura-Puella-Magi-Madoka-Magica-The-Movie-Rebellion-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n456/",
+      "fetched_at": "2026-05-16T19:10:34.540Z",
+      "raw_id": "/nendoroid/details/n456/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.384Z",
+      "raw_id": "Nendoroid/0400-0499/456.json"
+    }
+  ]
+}

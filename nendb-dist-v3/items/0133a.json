@@ -1,0 +1,68 @@
+{
+  "num": "0133a",
+  "name": {
+    "en": "Nendoroid Cattleya (ねんどろいど かとれあ)",
+    "ja": "ねんどろいど カトレア (ねんどろいど かとれあ)",
+    "ko": "카트레아"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2960,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-L0lKgBeYyvQ/X4NJ4HrzYGI/AAAAAAABlP8/QGt0wVq0_Sw3gFE7Ykd3ESZ-hZaSu2isgCLcBGAsYHQ/s270/133A-Cattleya-2P-Color-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-L0lKgBeYyvQ/X4NJ4HrzYGI/AAAAAAABlP8/QGt0wVq0_Sw3gFE7Ykd3ESZ-hZaSu2isgCLcBGAsYHQ/s270/133A-Cattleya-2P-Color-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AECijzVLo7o/X4dSkc0xfAI/AAAAAAAAp3A/SIaY7HyO6NA29eIauopJFNS37n2eIpe4wCLcBGAsYHQ/s135/133A-Cattleya-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Pa-rNk2povE/X4dSkaaoM5I/AAAAAAAAp3E/TFnhby0Gt9UAIpChNAsz8VB2aE_Ecm3ygCLcBGAsYHQ/s135/133A-Cattleya-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8MsfnvUz7rQ/X4dSnNtTtpI/AAAAAAAAp3g/7SnDzr1XJ4EmiKO0VTU9eoCftnRSeF4ewCLcBGAsYHQ/s135/133A-Cattleya-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-erzDIjZRnz0/X4dSlJpeFII/AAAAAAAAp3I/Yp98TstQRaMYhY6JEsO65Zq6aNdbLnC6wCLcBGAsYHQ/s135/133A-Cattleya-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vo9kqqPd5t0/X4dSlV5ZtxI/AAAAAAAAp3M/k5coFTwI6-Ax26JjioIKly5W_uHKwi6qQCLcBGAsYHQ/s135/133A-Cattleya-Queens-Blade-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n133a/",
+      "fetched_at": "2026-05-16T19:10:33.368Z",
+      "raw_id": "/nendoroid/details/n133a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.297Z",
+      "raw_id": "Nendoroid/0100-0199/133a.json"
+    }
+  ]
+}

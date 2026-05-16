@@ -1,0 +1,68 @@
+{
+  "num": "1570",
+  "name": {
+    "en": "Nendoroid Makomo",
+    "ja": "ねんどろいど 真菰 (ねんどろいど まこも)",
+    "ko": "마코모"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10790,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IThdRTCQ0dA/YFXyAKFKt6I/AAAAAAAAwLw/XTvnK3M6_8Yr0N87MlJO8RVgMNH1psqmQCLcBGAsYHQ/s270/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IThdRTCQ0dA/YFXyAKFKt6I/AAAAAAAAwLw/XTvnK3M6_8Yr0N87MlJO8RVgMNH1psqmQCLcBGAsYHQ/s270/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5LHncsfLeTI/YD1fw9bQ72I/AAAAAAAAv8g/OPOb7pK9bAEkpe1rS03ugDah1JN8_IFIwCLcBGAsYHQ/s135/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wlZRUj_IZm4/YD1fxHZN_zI/AAAAAAAAv8k/WhMlZVJUmX4RAEh36F_JUp8P0HD5GTqPwCLcBGAsYHQ/s135/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2ku07YI9Xpk/YD1fxAr7gKI/AAAAAAAAv8o/uahxWRTakBQFB-BiBriMRnWVZBnAtttvwCLcBGAsYHQ/s135/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e-Bvx7qwbkk/YD1fxQ7pyhI/AAAAAAAAv8s/hzOSiBBwH08g-6LfYpFLXa1LU3cctjrXgCLcBGAsYHQ/s135/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7KwZtQUkO9E/YD1fxkBEBHI/AAAAAAAAv8w/jhL6E50-qCASeLi_3AyyFB2ILHrZ2wiCQCLcBGAsYHQ/s135/1570-Makomo-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1570/",
+      "fetched_at": "2026-05-16T19:10:33.510Z",
+      "raw_id": "/nendoroid/details/n1570/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.698Z",
+      "raw_id": "Nendoroid/1500-1599/1570.json"
+    }
+  ]
+}

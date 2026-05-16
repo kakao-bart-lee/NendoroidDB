@@ -1,0 +1,96 @@
+{
+  "num": "1560",
+  "name": {
+    "en": "Nendoroid Denji",
+    "ja": "ねんどろいど デンジ (ねんどろいど でんじ)",
+    "ko": "덴지"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shinya Iguchi, Sho Nagano",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4580828666047",
+  "gsc_product_id": "8409",
+  "gsc_product_num": 10715,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/8409",
+    "ja": "https://www.goodsmile.com/ja/product/8409"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/8409/GjR5uwCZEBqzWt6nKQX1vY23JpcDMdN0.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lmuHyN77r6g/YFXx8Y_dcMI/AAAAAAAAwLQ/hRoz-wW3srs-RASYSJv-YbBf1YFFHrGfACLcBGAsYHQ/s270/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FJGDFJ5XV1U/YD1fkRO7L2I/AAAAAAAAv5g/cRP7BSU-HUoYsYrXRCn8-OTQGJjSXsf6wCLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_uGIR8IEICw/YD1fklUj2FI/AAAAAAAAv5k/guEx-z6abPMKwJe47rNGAN2t9lm2fpzJQCLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8o0Ca4N5gvM/YD1fkxg1IkI/AAAAAAAAv5o/BkuUOZN5BQoS22USUdYSet1lKDxLEgiuACLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QO4OQ8X7KQg/YD1flPdWO9I/AAAAAAAAv5s/eRqhCn0dRpIv-z8drL120VZh9SrgY4MRgCLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3RIIKSs3888/YD1flT3JV0I/AAAAAAAAv5w/DSSgh3CfilAXlqweiteWJ8lEmcL_TPwQQCLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-l7ALEqrHogY/YD1fl9xvChI/AAAAAAAAv50/S102tSR2mssL_UWZ7PLJzB1tBl-iFq7jgCLcBGAsYHQ/s135/1560-Denji-Chainsaw-Man-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/8409/0FnUA4QcRW1zxDXLaqSVNPHYETy6r5m7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/8409/GjR5uwCZEBqzWt6nKQX1vY23JpcDMdN0.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8409",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:16:48.888Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8409",
+      "fetched_at": "2026-05-16T12:16:48.888Z",
+      "raw_id": "8409"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/8409",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "8409"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1560/",
+      "fetched_at": "2026-05-16T19:10:33.504Z",
+      "raw_id": "/nendoroid/details/n1560/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.695Z",
+      "raw_id": "Nendoroid/1500-1599/1560.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0949",
+  "name": {
+    "en": "Nendoroid Junkrat: Classic Skin Edition",
+    "ja": "ねんどろいど ジャンクラット クラシックスキン・エディション (ねんどろいど じゃんくらっと くらしっくすきん・えでぃしょん)",
+    "ko": "정크랫"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7326,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2gqcwH85cF8/X4NeqBzlLXI/AAAAAAABmM0/79hTjP4ZH9QehxQP7XHeWyeh5wVwozqgQCLcBGAsYHQ/s270/949-Junkrat-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2gqcwH85cF8/X4NeqBzlLXI/AAAAAAABmM0/79hTjP4ZH9QehxQP7XHeWyeh5wVwozqgQCLcBGAsYHQ/s270/949-Junkrat-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fHVDCBxP4vU/X4rodfSs25I/AAAAAAABn6I/zWNyVtfgFDk2wlFNPFycWHNlCjrf31FdgCLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FIaYcwJBRs8/X4rodr8imeI/AAAAAAABn6M/mFpupMcWs48WiD0Y9PMFjLUHs4Xvm3ZOwCLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LafzDqYUGjE/X4rod2_N7yI/AAAAAAABn6Q/d4R2AYVuvyEJpcRGdx0SqwyjqzLZyMykgCLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-scjcHHLlFZY/X4roeGCEcoI/AAAAAAABn6U/KqkjtfsETegKeAOwr6AhRBgur2GiBxpnACLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--2KLwr4AnCg/X4roeW0kxpI/AAAAAAABn6Y/9VVzXtd7jiEBrSzkXWN2m3GUWkUz9Ng6gCLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8rfVBcP2Yyw/X4roekMeRFI/AAAAAAABn6c/NN1FYdv_3VISDLrcmxqK-KU3TfBykhcnACLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-sO-aGdNHMp0/X4roe0-tOlI/AAAAAAABn6g/MFNz7gp2IocI_loIjfAwo-i2hJNIo26MQCLcBGAsYHQ/s135/949-Junkrat-Overwatch-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n949/",
+      "fetched_at": "2026-05-16T19:10:34.890Z",
+      "raw_id": "/nendoroid/details/n949/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.546Z",
+      "raw_id": "Nendoroid/0900-0999/949.json"
+    }
+  ]
+}

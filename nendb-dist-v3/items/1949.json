@@ -1,0 +1,68 @@
+{
+  "num": "1949",
+  "name": {
+    "en": "Nendoroid Strength: DAWN FALL Ver.",
+    "ja": "ねんどろいど ストレングス DAWN FALL Ver. (ねんどろいど すとれんぐす どーん ふぉーる Ver.)",
+    "ko": "스트렝스: 던 폴 Ver."
+  },
+  "series": {
+    "en": "BLACK★★ROCK SHOOTER: DAWN FALL",
+    "ja": "ブラック★★ロックシューター DAWN FALL",
+    "ko": "블랙★★록 슈터: 던 폴",
+    "code": "black-rock-shooter-dawn-fall"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13206,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kh9hD6NOz3M/Y02v-xjusII/AAAAAAAA6_I/8IZT6C-tE_gi0vjC7jaeA5OH2yTH3nlkQCNcBGAsYHQ/s270/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kh9hD6NOz3M/Y02v-xjusII/AAAAAAAA6_I/8IZT6C-tE_gi0vjC7jaeA5OH2yTH3nlkQCNcBGAsYHQ/s270/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Of_gl9te5BI/Y027X8FgayI/AAAAAAAA7Qw/l35x-U6y3ewCX2RmdFSvrwedvfjbrlz_wCNcBGAsYHQ/s135/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x0IjIlfD9O0/Y027YQFiF7I/AAAAAAAA7Q0/RC9rRLQ8qUw6GQq-s7a3B7zrsrZS__vqwCNcBGAsYHQ/s135/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-f1WN7Owyz_s/Y027Y9uZd1I/AAAAAAAA7Q4/__od2U53Ka095pJXEQLdj77KAOMoA5cogCNcBGAsYHQ/s135/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8Cnef0HNXY8/Y027ZQkfN_I/AAAAAAAA7Q8/-RnK665rdF8FrpZrGroRdYYy8sZl6daHQCNcBGAsYHQ/s135/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-duEjIyaqSzs/Y027Z0YIADI/AAAAAAAA7RA/RF85P9ET3fEdPdJMIAe6wYvFgdpu0qp-gCNcBGAsYHQ/s135/1949-Strength-Black-Rock-Shooter-Dawn-Fall-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1949/",
+      "fetched_at": "2026-05-16T19:10:33.747Z",
+      "raw_id": "/nendoroid/details/n1949/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.789Z",
+      "raw_id": "Nendoroid/1900-1999/1949.json"
+    }
+  ]
+}

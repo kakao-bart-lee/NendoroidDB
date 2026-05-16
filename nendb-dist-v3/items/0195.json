@@ -1,0 +1,68 @@
+{
+  "num": "0195",
+  "name": {
+    "en": "Nendoroid Erio Touwa (ねんどろいど とうわえりお)",
+    "ja": "ねんどろいど 藤和エリオ (ねんどろいど とうわえりお)",
+    "ko": "토와 에리오"
+  },
+  "series": {
+    "en": "Denpa Onna to Seishun Otoko",
+    "ja": "電波女と青春男",
+    "ko": "전파녀와 청춘남",
+    "code": "denpa-onna-to-seishun-otoko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3273,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EQQyn5hmprg/X4NKN9ZfbLI/AAAAAAABlUQ/_aP2Q86rBesGxZh5xSiJ7xKNyiEGz4khQCLcBGAsYHQ/s270/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EQQyn5hmprg/X4NKN9ZfbLI/AAAAAAABlUQ/_aP2Q86rBesGxZh5xSiJ7xKNyiEGz4khQCLcBGAsYHQ/s270/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-N-a7d-t7J-0/X4dUl4LPWWI/AAAAAAAAqOc/uESJVS3UmK0vyyg-6bZfYENpiWsjlPBFgCLcBGAsYHQ/s135/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VWRIZOLRcD4/X4dUmYkmucI/AAAAAAAAqOg/y5A-2sCVYYQKP5yb4vSSnl3mjPUpL0U3wCLcBGAsYHQ/s135/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qqoV5LwtDlk/X4dUm66PiFI/AAAAAAAAqOk/oiS9IV15TkM9a4dmJKOSnPqcUWy5ifKywCLcBGAsYHQ/s135/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PvxSivLHSXg/X4dUneApSOI/AAAAAAAAqOo/tGmmbk8tZegXrMfeyLcQHoXmQ7Gaw9pRQCLcBGAsYHQ/s135/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-p9YfTZW7dMw/X4dUocHNn8I/AAAAAAAAqOs/KuiPHT_OgFQq79IzeB64b1I45e__c0nJQCLcBGAsYHQ/s135/195-Towa-Erio-Denpa-Onna-to-Seishun-Otoko-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n195/",
+      "fetched_at": "2026-05-16T19:10:33.753Z",
+      "raw_id": "/nendoroid/details/n195/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.317Z",
+      "raw_id": "Nendoroid/0100-0199/195.json"
+    }
+  ]
+}

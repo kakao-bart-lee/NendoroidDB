@@ -1,0 +1,68 @@
+{
+  "num": "1092",
+  "name": {
+    "en": "Nendoroid Emma",
+    "ja": "ねんどろいど エマ (ねんどろいど えま)",
+    "ko": "엠마"
+  },
+  "series": {
+    "en": "The Promised Neverland",
+    "ja": "約束のネバーランド",
+    "ko": "약속의 네버랜드",
+    "code": "the-promised-neverland"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8100,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nSHg0oIFhp0/X4Nf8HXlEaI/AAAAAAABmXM/Jhr5iZSw1dotDJWANIFyd4O3SZXkmeYlgCLcBGAsYHQ/s270/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nSHg0oIFhp0/X4Nf8HXlEaI/AAAAAAABmXM/Jhr5iZSw1dotDJWANIFyd4O3SZXkmeYlgCLcBGAsYHQ/s270/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6YSWORHrVZk/X4rtapvgFHI/AAAAAAABo04/xgNhrTM0LFgWkgrYvyXG39-gXvJXRAVewCLcBGAsYHQ/s135/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ejTioUSs1X8/X4rtaonpdJI/AAAAAAABo1A/Fg2W6B2T32khrfxNqDxnM6YYnISp29zwACLcBGAsYHQ/s135/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GCGLK9uTNoI/X4rta-uojYI/AAAAAAABo08/B3dBoMptH5c9w_6XrxCzsHc3PvyOKtivwCLcBGAsYHQ/s135/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AIdyT6cmE4c/X4rtbDBsQdI/AAAAAAABo1E/DEueAvSxcps2v7iMU5E6Utj6rYvgnmjbQCLcBGAsYHQ/s135/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nDjhT6oxay4/X4rtbmyxQ_I/AAAAAAABo1I/Q23tfa5fSZgiO_ujk1xULHE_R4KSSLg-wCLcBGAsYHQ/s135/1092-Emma-The-Promised-Neverland-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1092/",
+      "fetched_at": "2026-05-16T19:10:33.215Z",
+      "raw_id": "/nendoroid/details/n1092/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.583Z",
+      "raw_id": "Nendoroid/1000-1099/1092.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1771",
+  "name": {
+    "en": "Nendoroid Saber/Senji Muramasa",
+    "ja": "ねんどろいど セイバー/千子村正 (ねんどろいど せいばー/せんじむらまさ)",
+    "ko": "센지 무라마사"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "Fate/Frand Order",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12055,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bVjXmYxYl2E/Ya-zPnzAOtI/AAAAAAAA2Eg/mSeaKEroYz4eiXloXtFsSR5__J_MI340gCNcBGAsYHQ/s270/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bVjXmYxYl2E/Ya-zPnzAOtI/AAAAAAAA2Eg/mSeaKEroYz4eiXloXtFsSR5__J_MI340gCNcBGAsYHQ/s270/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zRS_sw9BC1U/Ya-2hU1-a_I/AAAAAAAA2Pg/-iF03kLv1iQMvTDVgWHLtIOVvLNQPRTPQCNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5SfSD1Lg7K8/Ya-2hmBajxI/AAAAAAAA2Pk/GjGYtsQoyncr_IV3-UaeCsPQqo4T4PWcwCNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PNX-6qALjfM/Ya-2hheIm0I/AAAAAAAA2Po/ecydqGs6z7M1OQR4ycjsYIMlOf4Hd6oFACNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YpBbmSRdKqs/Ya-2hy3AkcI/AAAAAAAA2Ps/sIjJxFwXZzcPx8DLcmJ31HgTmRanjRoggCNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5G1S6f5O0R0/Ya-2iAo6QMI/AAAAAAAA2P0/F6aDQ_cknisYbDbJGfSApJ7mKsTXpPj3QCNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FHm27z2jThU/Ya-2iGDFu0I/AAAAAAAA2Pw/v4GjJZgf0f0Xrolr_Oyi56s3e899d1dQwCNcBGAsYHQ/s135/1771-Saber-Senji-Muramasa-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1771/",
+      "fetched_at": "2026-05-16T19:10:33.637Z",
+      "raw_id": "/nendoroid/details/n1771/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.747Z",
+      "raw_id": "Nendoroid/1700-1799/1771.json"
+    }
+  ]
+}

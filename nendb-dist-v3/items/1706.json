@@ -1,0 +1,93 @@
+{
+  "num": "1706",
+  "name": {
+    "en": "Nendoroid Felt",
+    "ja": "ねんどろいど フェルト (ねんどろいど ふぇると)",
+    "ko": "펠트"
+  },
+  "series": {
+    "en": "Re:Zero -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580590126275",
+  "gsc_product_id": "9414",
+  "gsc_product_num": 11725,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/9414",
+    "ja": "https://www.goodsmile.com/ja/product/9414"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210901/11725/89393/large/13134371e5c44220675507761fd25078.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BtSwaBb7wgE/YWSHbPGIysI/AAAAAAAA0-4/YV_tz-a5Ax89Jswc_opui-GdRHj4ZGLBgCLcBGAsYHQ/s270/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-v_-Ij3FK6Ns/YWSad2GEoSI/AAAAAAAA1Dw/AWAGnMAZbpYo8rUOkWP1hlMEWOKxlWpDwCLcBGAsYHQ/s135/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eVewMN3XUaY/YWSaeLPq9iI/AAAAAAAA1D0/phcOfT4GjJEU83QP8iCasAucBx-erxgkACLcBGAsYHQ/s135/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GDc2v-u5PIg/YWSaeYmgrXI/AAAAAAAA1D4/20LOvk63gdUnKZdvABi0yHzHeJ9O9bSCgCLcBGAsYHQ/s135/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e5F18AFEJJs/YWSaet9p3DI/AAAAAAAA1D8/oMDpStRKZFgX-_KzFjJ-A_86F0lCuePsACLcBGAsYHQ/s135/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t3g48834Scw/YWSaexDCX5I/AAAAAAAA1EA/ff62pT3_710YsCYh7LEqMcM2Nukqmao3gCLcBGAsYHQ/s135/1706-Felt-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210901/11725/89399/large/0249b6de774c7dad02dbf4326e6cc567.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210901/11725/89393/large/13134371e5c44220675507761fd25078.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9414",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:50:49.304Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9414",
+      "fetched_at": "2026-05-16T11:50:49.304Z",
+      "raw_id": "9414"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/9414",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "9414"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1706/",
+      "fetched_at": "2026-05-16T19:10:33.597Z",
+      "raw_id": "/nendoroid/details/n1706/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.731Z",
+      "raw_id": "Nendoroid/1700-1799/1706.json"
+    }
+  ]
+}

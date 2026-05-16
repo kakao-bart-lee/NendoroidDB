@@ -1,0 +1,65 @@
+{
+  "num": "2685",
+  "name": {
+    "en": "Dokibird",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv1mAniy6MjEb0CeJtJuK-oRniOQQxzKDeYbYFGfG2YoIVFHWqlii5qST3E6Im_U_gRez3-AGigyt9C7WeywgUJhLtrcKsE5m8DcYfG5aVgil0lMRtuUzM-U1M5pmYYCQkEoTTTw_qkchX2orzT6Hw7EwzLjWRX1puotSNLpqjevcr1gBBwODCJn2oFfTD/s270/2685-Dokibird-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv1mAniy6MjEb0CeJtJuK-oRniOQQxzKDeYbYFGfG2YoIVFHWqlii5qST3E6Im_U_gRez3-AGigyt9C7WeywgUJhLtrcKsE5m8DcYfG5aVgil0lMRtuUzM-U1M5pmYYCQkEoTTTw_qkchX2orzT6Hw7EwzLjWRX1puotSNLpqjevcr1gBBwODCJn2oFfTD/s270/2685-Dokibird-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaM9W0d9G7kvZT-1RlKAOIjZtf5IYVaSMvG_F7jfUAnUab4Zb-_QAemegiy2pyKdBcd8GzNbicJt8X3z1HsncRNLVT9o9Nji21SLZ8CgCCCBzvM-QPuBKyJpZXU9xFTm_LVvByGBBtTFFlOVYQOnQyxwBljf0Omq1qKFdPP5d4ud3hjBgLoBe5cLaRFl5T/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDyUoNxeqEYIq7clcnR4G-VtPF2LiKlqXgHCrXeIZ0I7lDUGJZkbRtkonALNF2Rbhra2Eeo3ig3DuvtM4c90WzhriGulJFkDtkyTafG1rTz64vB5dfI8qs42qHwyk-QS1tSCevRR8v_nDkCw7-bJRifLK0VZ2WHWnF-d1iH312OiT9O7YEZZk_R_g2URb_/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9sEtCjl2ouZEJfyRhzHAGaAVv8GYmbG6pFX22_MMr6tsaMv-sy9DiT9ASJGyvF7gv28qp-eDIfBiRkIJVs-ipHcb5qIUC88_1Zqyih5-6LGIJvwKmH8lX6IwAMU-rqpY63w3WA0VSoJSVpjZoxVBGiY8HFozKH387nALn6hPI24lDwsOV_CU-yts1sKOX/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMfucHnShCERg4t5_9aIRyKIoK-3s8Xvh30OpVoT95pH5Auj-KUsQIZyEpG2xEbYxHe0VHS9M3XojHA3tgaaQeG3gCc9RJwPljAX30LZ-X39QOtXEmHXsb6lEIgU_cOnoKTQ-RHM-0-0QCywN9MdlSOq3iR68dNo5BPP_0nPTs8jYLm6ax_w1thhMD5nC3/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_VxnCFfd117OH8DM9ihkPGIGNX7AThnV63P7awWKyTYV0BCqygnvZ5wEmRYXGbSooEdkw971g5jlrYgsvOa867LoVp0EtMj-YCNLFNEQCdNCUFjrt_EhGZp0sbU93Fnah92-iWKyhNAFKtEvfTyXgamL2tkTEVqGTR821DLpMlN2XbUcYvT_hTKuyFMd/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_OVQlPW8buIC1YToSdbyUugE6cpa7GTmbfHCaKIiOKV93bf2AV0vqfhbv_SI2N8RY-s47mbI0g5FgGHd-9Y2nfEvTx8cfWWsB6yc_FPBaaRkoMp_2i-bM9opBX_92CZ0JNp0tN8VrtF-izYhSYPa0DhJlhyVM8LlrZEpLy_6nGhuGE-QvxgOSoYErYd_/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgydgEOEsLRX6uiEz5m5htJsJndkiKFydt5_7R7MHTaj1V7sXO4L2usho26Th1AMMCFm2QaGMuLi_VXmaEHFqIKOpz_ivh55aJAfTHlNAVgsigTL3Z6vxmrMyICshLwAJv7k04M4z47m6rVWKk8dRwcZm7Gmr-9aShc7hyphenhyphenRvlBNit-qMwfgpf9mZ-m3Iis6/s135/2685-Dokibird-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2685/",
+      "fetched_at": "2026-05-16T19:10:34.209Z",
+      "raw_id": "/nendoroid/details/n2685/"
+    }
+  ]
+}

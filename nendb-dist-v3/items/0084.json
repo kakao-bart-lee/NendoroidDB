@@ -1,0 +1,68 @@
+{
+  "num": "0084",
+  "name": {
+    "en": "Nendoroid Shiki Ryougi (りょうぎ しき ねんどろいど)",
+    "ja": "ねんどろいど 両儀 式 (りょうぎ しき ねんどろいど)",
+    "ko": "료우기 시키"
+  },
+  "series": {
+    "en": "Kara no Kyoukai",
+    "ja": "空の境界",
+    "ko": "공의 경계",
+    "code": "kara-no-kyoukai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UdcJFR3y8aQ/X4MSGSHihuI/AAAAAAAApb0/i4ZgvYit__IPar66v3cZysZKh0YVxFarwCLcBGAsYHQ/s270/084-Shiki%2BRyougi-Kara%2Bno%2BKyoukai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UdcJFR3y8aQ/X4MSGSHihuI/AAAAAAAApb0/i4ZgvYit__IPar66v3cZysZKh0YVxFarwCLcBGAsYHQ/s270/084-Shiki%2BRyougi-Kara%2Bno%2BKyoukai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--NSoYWm7_kQ/X4GxD_zcrxI/AAAAAAAApOM/uAk04IFTTzMP_0jqj6EZBqVkJ_ujP83zQCLcBGAsYHQ/s135/084-Shiki-Ryougi-Kara-no-Kyoukai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OWvIrSjFQC8/X4GxD89Sq2I/AAAAAAAApOQ/NKA4E9tT4_4oBJxeCqY2oL58GAGVW6XYACLcBGAsYHQ/s135/084-Shiki-Ryougi-Kara-no-Kyoukai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3zZP99ugDEM/X4GxEI5564I/AAAAAAAApOU/ZESrXh0B254Z-XIcaHP3MvxQqoxrJvGwwCLcBGAsYHQ/s135/084-Shiki-Ryougi-Kara-no-Kyoukai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1MElpsBO7fA/X4GxEGsAl_I/AAAAAAAApOY/3rnsx4w2G5gMkxRJisy2g19lTBWj-LjMgCLcBGAsYHQ/s135/084-Shiki-Ryougi-Kara-no-Kyoukai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gt6h25VFKy4/X4GxEWOgRWI/AAAAAAAApOc/wsS8cYGSFiMggKtyaGSUot-pAFLmvtLcQCLcBGAsYHQ/s135/084-Shiki-Ryougi-Kara-no-Kyoukai-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n084/",
+      "fetched_at": "2026-05-16T19:10:33.117Z",
+      "raw_id": "/nendoroid/details/n084/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.284Z",
+      "raw_id": "Nendoroid/0000-0099/084.json"
+    }
+  ]
+}

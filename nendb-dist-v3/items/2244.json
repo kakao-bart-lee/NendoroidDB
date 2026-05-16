@@ -1,0 +1,69 @@
+{
+  "num": "2244",
+  "name": {
+    "en": "Nendoroid Ikuyo Kita",
+    "ja": "ねんどろいど 喜多郁代 (ねんどろいど きたいくよ)",
+    "ko": "키타 이쿠요"
+  },
+  "series": {
+    "en": "Bocchi the Rock!",
+    "ja": "ぼっち・ざ・ろっく！",
+    "ko": "봇치 더 록!",
+    "code": "bocchi-the-rock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14856,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h-i1RwON9KM/ZQoU5TNc2CI/AAAAAAABBjs/FLUZlP9ExcsjmgYju0wOD0N7smocvobNACNcBGAsYHQ/s270/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h-i1RwON9KM/ZQoU5TNc2CI/AAAAAAABBjs/FLUZlP9ExcsjmgYju0wOD0N7smocvobNACNcBGAsYHQ/s270/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-belca06wwR4/ZQshBukS6CI/AAAAAAABBtE/shfz80Iw93EungitbRF3GVYn2beALlprQCNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lCpS_5rr_GY/ZQshCEkRyZI/AAAAAAABBtI/LZpT8nGAStIAaM_Xe9B40MNqtncNLGgegCNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3qmNeoR-pIU/ZQshCg0nBLI/AAAAAAABBtM/BrL4_x_PCz8wzbd2G5YbnfYFbrNO585tQCNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Jp1AqdTIvss/ZQshDEdTfjI/AAAAAAABBtQ/taAxRTf2WAgc_RBtLkKZDJkNZCNs5RiRACNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xSSA6_SgF6s/ZQshDlAfgAI/AAAAAAABBtU/QQnTIw_WP9MGhPxOvvpm0XqhQt1Kt-A_wCNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5dI42a8C8wg/ZQshEZ10xQI/AAAAAAABBtY/udPTau3S1u0D18YvJWDynTpNHtHyLl-hACNcBGAsYHQ/s135/2244-Ikuyo-Kita-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2244/",
+      "fetched_at": "2026-05-16T19:10:33.940Z",
+      "raw_id": "/nendoroid/details/n2244/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.864Z",
+      "raw_id": "Nendoroid/2200-2299/2244.json"
+    }
+  ]
+}

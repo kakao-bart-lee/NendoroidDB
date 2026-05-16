@@ -1,0 +1,67 @@
+{
+  "num": "0338",
+  "name": {
+    "en": "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ja": "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ko": "미야후지 요시카 신덴 Ver."
+  },
+  "series": {
+    "en": "Strike Witches 2",
+    "ja": "ストライクウィッチーズ2",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3928,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HXhXOl0CTog/X4NMwJMdV8I/AAAAAAABlhw/bPmyYdH-EDk7Bh_OURx9IEdiuLt70gnAwCLcBGAsYHQ/s270/338-Miyafuji-Yoshika-Shinden-Ver-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HXhXOl0CTog/X4NMwJMdV8I/AAAAAAABlhw/bPmyYdH-EDk7Bh_OURx9IEdiuLt70gnAwCLcBGAsYHQ/s270/338-Miyafuji-Yoshika-Shinden-Ver-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3_JcARw7M6A/X4danAocRZI/AAAAAAAAq_s/OHw4xMJSVxIiF0lmRjMgqQp0ENh69hnSQCLcBGAsYHQ/s135/338-Miyafuji-Yoshika-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Z_uaOT7ED-0/X4danXBpZcI/AAAAAAAAq_w/VQ9UqkReUR4x5uS3UUdB9ZqKOoF6fiQCwCLcBGAsYHQ/s135/338-Miyafuji-Yoshika-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yuL1Ekq16k4/X4dantqGRAI/AAAAAAAAq_0/E7y3-zEfsK0tWUeYAI3iDgRuwdZdi7L2gCLcBGAsYHQ/s135/338-Miyafuji-Yoshika-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XOGgQovA5Ns/X4danuI1tVI/AAAAAAAAq_4/HHhxWXQ6QaYPE83LAvaWc3N7SZE-lgl7wCLcBGAsYHQ/s135/338-Miyafuji-Yoshika-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n338/",
+      "fetched_at": "2026-05-16T19:10:34.469Z",
+      "raw_id": "/nendoroid/details/n338/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.355Z",
+      "raw_id": "Nendoroid/0300-0399/338.json"
+    }
+  ]
+}

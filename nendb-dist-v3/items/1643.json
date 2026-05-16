@@ -1,0 +1,69 @@
+{
+  "num": "1643",
+  "name": {
+    "en": "Nendoroid Natsuiro Matsuri",
+    "ja": "ねんどろいど 夏色まつり (ねんどろいど なついろまつり)",
+    "ko": "나츠이로 마츠리"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "hololive production",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11264,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XW2j3a2nfjI/YL_UxLC2LDI/AAAAAAAAyQA/-J8ddJ6mBxszOGpccqRI7vvyfuqPLD7VACLcBGAsYHQ/s270/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XW2j3a2nfjI/YL_UxLC2LDI/AAAAAAAAyQA/-J8ddJ6mBxszOGpccqRI7vvyfuqPLD7VACLcBGAsYHQ/s270/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YI2Ti2Wnyww/YL_dBoAFvVI/AAAAAAAAyYU/8m2zTHyt_zo-r8iK-ZVAw5DZ5i47LhNkQCLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Yk-ZABvmA_g/YL_dCRm1_TI/AAAAAAAAyYY/6YArcnMufWAGHOV_GhmNNzZmwXyuAcTyQCLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FxLNdQe3fM8/YL_dC3L4TWI/AAAAAAAAyYc/UaGKRMplZ10cj3ApesKXJKMuOjd8Ms99wCLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-96GAXIYquF4/YL_dDYnMwiI/AAAAAAAAyYg/A6pRymFYf8sytVguPXruekJEZjtNEUufgCLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t7Ws000-Sf0/YL_dD7wKxrI/AAAAAAAAyYk/iKN8S-L3nhEoJ8ax6n7Xj7GO3M64kF2fQCLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bxIm5LsTiI0/YL_dEU_YnUI/AAAAAAAAyYo/33klBHbLkRk7Ch8qPqN663n6chaBExe2ACLcBGAsYHQ/s135/1643-Natsuiro-Matsuri-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1643/",
+      "fetched_at": "2026-05-16T19:10:33.554Z",
+      "raw_id": "/nendoroid/details/n1643/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.716Z",
+      "raw_id": "Nendoroid/1600-1699/1643.json"
+    }
+  ]
+}

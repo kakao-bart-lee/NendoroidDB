@@ -1,0 +1,91 @@
+{
+  "num": "2797",
+  "name": {
+    "en": "Shinji Ikari",
+    "ja": "ねんどろいど 碇シンジ プラグスーツVer.",
+    "ko": null
+  },
+  "series": {
+    "en": "Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版：破",
+    "ko": null,
+    "code": "evangelion"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4571697186347",
+  "gsc_product_id": "1136469",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1136469",
+    "ja": "https://www.goodsmile.com/ja/product/1136469"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136469/WPh2yRHC9DN8cMu3igp1nxdVY5wEbeqT.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjET-VAK91mnABJRGOeCStNM3Mh8agADRcHRQRvEHyJSoY14OTxO2itfEqJGY879tV1p6he5YlDVhIwpBogNNdn6fJXNhW3NHmUeOvq7L9REgMU45tMSVxaEnzT1aPNTcCorrOT3Tr4i-UQvhOkNf4irrhcC3E8Os-d_Vkq1GWWUQaR6gTUBMCZu9Kpv-cr/s270/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgsQkdRK2d9_5JlDONcG36S84nNufHc9A2TeaQMmRM3SL9-goQQVgS1B4KacYQOP_Ru09U-71n8ennvRRHx4YAuGk-FcYtCHRThlWndigqICLlxKzsN43hvAA9dJvJmUyZt6ZkMx0Xxir7aud8R_aLbWgw-ehiYbLt7OcmGJWWSUCK5d0StOaYHGS2ofEG/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSSTWN5nELp1PjKbWXJ7MKzo_eDtVmSRXckQqbrRNw1I4pk8iFn_Ha6qy4netgyNY3Sj3OBVK83jYfZk5wcPirqP5h7uvWdbyFvjoAPLd599ZhfhLerGm-Br35b7361dImEblqgCpZqnVolZJhD329bUzXaI_Z2gHC_MKhW3xYx6OkChcsGuwnPu0siOLH/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2gy90RjJXRfWNlSM7_b3MSmw4kBDfaBglXZ2YL8aUlZvzK3yXWMOsO6SWaM3kbo6IxVkANSJMmreZ9XBmaL8pOGf5i3xPc1aDRTpZ1D0iy5_osAvleZJuNhbyigSAUeS3VwOnjsw7C2KqlkIZ0v2kPNuDJm_UOcihRb-GIBBP4rlmfMKW2wGPtkA5IOY/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4hdqsy9yoGYlAtEYeHiUKKW_3qka-AFvZxbOt-D42lGbLjmW0c5O6Ah1-RGku2ye0Iz9HqQ728IHmKc-H1wRUmJjrWygatIs6tY7WMonwkTrG_xexpNVdsX24KjS-nuJgdCG_AHS7fUD-JKiKAWdy8frRz7qCC_7zGnW-Rg2Q0seMELULzXIEbaRv1KKb/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBA4aBnHStlao3jMVBu8TF3o-wky0Oh5B0lpWWUyTxzWoJUjFR_WeJyTVnSd853Imm3AObY01JdoNEWfRXYrp_wVQ8giv6vRFEhJSn2orRVVBGrWCFkhE-3XdDngFMJPfHoLRBbwRukxApImhJjG_FKGMucONR6FcrTzIT8eRbFnpLc9J6JE1ElLvR-CUC/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg73bbfKBew5ZO9nMlyjhbbvx6cEAl-mvrUTipCVDEgbE_AX7U-Mb7762rvB82zIELcTZIZISaHLlpF11-M-773CZkt-b0WCJuCcRvibA7zxbDU8DWECtQwBdH7BclMf5MnmGPlImH9emxW2yzO1SXpqBSrcpM78tGVWmGGu-yaTybVNiz564MTcO2bxHmg/s135/2797-Shinji-Ikari-Evangelion-2.0-You-Can-Not-Advance-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136469/nahe0rCxvEujJ9DQmSZTFqzM62YNfH7A.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136469/WPh2yRHC9DN8cMu3igp1nxdVY5wEbeqT.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136469",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:54:24.829Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136469",
+      "fetched_at": "2026-05-16T11:54:24.829Z",
+      "raw_id": "1136469"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1136469",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1136469"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2797/",
+      "fetched_at": "2026-05-16T19:10:34.316Z",
+      "raw_id": "/nendoroid/details/n2797/"
+    }
+  ]
+}

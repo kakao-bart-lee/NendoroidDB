@@ -1,0 +1,68 @@
+{
+  "num": "0892",
+  "name": {
+    "en": "Nendoroid Reisen Udongein Inaba",
+    "ja": "ねんどろいど 鈴仙・優曇華院・イナバ (ねんどろいど れいせん・うどんげいん・いなば)",
+    "ko": "레이센 우동게인 이나바"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7066,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0CODjnr5ZhU/X4NeD5wnnNI/AAAAAAABmIc/jQmnTtMUAwMeRPi30Q1wmIckUQDa4Vb_gCLcBGAsYHQ/s270/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0CODjnr5ZhU/X4NeD5wnnNI/AAAAAAABmIc/jQmnTtMUAwMeRPi30Q1wmIckUQDa4Vb_gCLcBGAsYHQ/s270/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QFfMeaf5VtQ/X4rkO7S6CqI/AAAAAAABnhY/ct2U3ws7kLcsdge4cx5tAzfrEk7wtF5lgCLcBGAsYHQ/s135/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EIHfR7YVCgA/X4rkPFcbsOI/AAAAAAABnhc/8kbkmnfrXpckvBaKuNUPJzFaF0im1bFtgCLcBGAsYHQ/s135/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-f8BZBVEE6r8/X4rkPULpYbI/AAAAAAABnhg/LkhKopZ0cAsMJ4c1DiH5VlnxlXu_6ZoeQCLcBGAsYHQ/s135/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bOY7DTxOuoY/X4rkPndn4aI/AAAAAAABnhk/F1pelbx89yseznqtNtckfeshv_lv8d3ewCLcBGAsYHQ/s135/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TpdcUO8w03Q/X4rkP2r3p3I/AAAAAAABnho/yfuZt1R_L4MqbnzXgpk2lq93chPQaKaWQCLcBGAsYHQ/s135/892-Reisen-Udongein-Inaba-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n892/",
+      "fetched_at": "2026-05-16T19:10:34.858Z",
+      "raw_id": "/nendoroid/details/n892/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.532Z",
+      "raw_id": "Nendoroid/0800-0899/892.json"
+    }
+  ]
+}

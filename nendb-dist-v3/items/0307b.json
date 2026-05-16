@@ -1,0 +1,67 @@
+{
+  "num": "0307b",
+  "name": {
+    "en": "Nendoroid Melona: 2P Color Ver. (ねんどろいど　めろーな　2PからーVer.)",
+    "ja": "ねんどろいど メローナ 2PカラーVer. (ねんどろいど　めろーな　2PからーVer.)",
+    "ko": "메로나 2P 컬러 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3943,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-q6vsLzR7TfM/X4NMjOP4-FI/AAAAAAABlf0/dY74pA-tD4cI5HgZQAN5sc05xLH9OrPGACLcBGAsYHQ/s270/307b-Melona-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-q6vsLzR7TfM/X4NMjOP4-FI/AAAAAAABlf0/dY74pA-tD4cI5HgZQAN5sc05xLH9OrPGACLcBGAsYHQ/s270/307b-Melona-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sso92Yv4zw8/X4dZ_q-35sI/AAAAAAAAq1s/PQkOdeJYIDsDOjTkjPBiQVKnjHkpNsskgCLcBGAsYHQ/s135/307B-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_DMyU7NFdy0/X4daADCpdVI/AAAAAAAAq1w/wlg0F_phCsgwEtYae3lproJx11rcludbACLcBGAsYHQ/s135/307B-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NBLBV99cCwY/X4daARy2SZI/AAAAAAAAq10/Bp1Zyi4CZXAQTpD_33WK9TV84GPD1VI1QCLcBGAsYHQ/s135/307B-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-njuOYN3FPoY/X4daAUn-TgI/AAAAAAAAq14/IxfAs3aRdPsCakNhjlfPG16oFH07zNluACLcBGAsYHQ/s135/307B-Melona-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n307b/",
+      "fetched_at": "2026-05-16T19:10:34.452Z",
+      "raw_id": "/nendoroid/details/n307b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.347Z",
+      "raw_id": "Nendoroid/0300-0399/307b.json"
+    }
+  ]
+}

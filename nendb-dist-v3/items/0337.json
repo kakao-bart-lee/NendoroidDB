@@ -1,0 +1,68 @@
+{
+  "num": "0337",
+  "name": {
+    "en": "Nendoroid Irine (ねんどろいど あいりーん)",
+    "ja": "ねんどろいど アイリーン (ねんどろいど あいりーん)",
+    "ko": "아이린"
+  },
+  "series": {
+    "en": "Dragon Nest",
+    "ja": "ドラゴンネスト",
+    "ko": "드래곤네스트",
+    "code": "dragon-nest"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3661,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-i2UZ71jrssQ/X4NMvnUb9RI/AAAAAAABlhs/waQY9p360fYj01EAIJ97OshELcvybqkXgCLcBGAsYHQ/s270/337-Irine-Dragon-Nest-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i2UZ71jrssQ/X4NMvnUb9RI/AAAAAAABlhs/waQY9p360fYj01EAIJ97OshELcvybqkXgCLcBGAsYHQ/s270/337-Irine-Dragon-Nest-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Uj58LYuCIqU/X4damexDI7I/AAAAAAAAq_Y/XrZA9EjcKH4A0-TQOwWgyE7bWO32aibkQCLcBGAsYHQ/s135/337-Irine-Dragon-Nest-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2PgcQ5azVUw/X4damusZfUI/AAAAAAAAq_c/kW0Ij0o7xg42aRbb0-0Pwph9rvVW_5vawCLcBGAsYHQ/s135/337-Irine-Dragon-Nest-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2Jl4nxJ4d1k/X4damvT4wmI/AAAAAAAAq_g/EE0czJvYuUo2TwCNBunXhwPBxapiGC-uACLcBGAsYHQ/s135/337-Irine-Dragon-Nest-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pEz-kDCW3H4/X4dam4BJIYI/AAAAAAAAq_k/KafNW2g_egQ9R3_EJ8UI8SEHRig6_LH0QCLcBGAsYHQ/s135/337-Irine-Dragon-Nest-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hnqrRubWKXM/X4danKocNPI/AAAAAAAAq_o/UWhvt7tR2ac2pvBl89oUsHt4dJ99BOOqgCLcBGAsYHQ/s135/337-Irine-Dragon-Nest-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n337/",
+      "fetched_at": "2026-05-16T19:10:34.468Z",
+      "raw_id": "/nendoroid/details/n337/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.355Z",
+      "raw_id": "Nendoroid/0300-0399/337.json"
+    }
+  ]
+}

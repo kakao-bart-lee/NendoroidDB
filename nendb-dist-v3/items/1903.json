@@ -1,0 +1,68 @@
+{
+  "num": "1903",
+  "name": {
+    "en": "Nendoroid Yor Forger",
+    "ja": "ねんどろいど ヨル・フォージャー (ねんどろいど よる・ふぉーじゃー)",
+    "ko": "요르 포저"
+  },
+  "series": {
+    "en": "SPY x FAMILY",
+    "ja": "SPY×FAMILY",
+    "ko": "스파이 패밀리",
+    "code": "spy-x-family"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12875,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ijdydZpJ0TM/Yw_WNFB7jhI/AAAAAAAA6Zs/HjC3lrirKqYYt6XfCIZNpsEDabYpOPhvwCNcBGAsYHQ/s270/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ijdydZpJ0TM/Yw_WNFB7jhI/AAAAAAAA6Zs/HjC3lrirKqYYt6XfCIZNpsEDabYpOPhvwCNcBGAsYHQ/s270/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L4qPwGf-35w/YxEW_EsPdhI/AAAAAAAA6lk/q6m4q_E3iFkbPIFOrnRr5Bq1drpV_bU2ACNcBGAsYHQ/s135/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-g5yzI6jxCvQ/YxEW_X3q5SI/AAAAAAAA6lo/rWJQvLD1CY8BGHQHHC-xEQ1cbmfPtFEDQCNcBGAsYHQ/s135/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z1V5z2SKnsM/YxEW_1BIxvI/AAAAAAAA6ls/4Ww6Ffb60QYxKAhtsvphPM0TeO1PwnCoQCNcBGAsYHQ/s135/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RSKEbF3-KTk/YxEXAfIsAGI/AAAAAAAA6lw/2sD_hkieYJY1IErZF-OpLWf0wW6ad6FUgCNcBGAsYHQ/s135/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CoFDrTFE3Zo/YxEXA5_dVlI/AAAAAAAA6l0/6lkiLTJUKZsrtaTza9d0TNL-hxZqdWIIwCNcBGAsYHQ/s135/1903-Yor-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1903/",
+      "fetched_at": "2026-05-16T19:10:33.719Z",
+      "raw_id": "/nendoroid/details/n1903/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.778Z",
+      "raw_id": "Nendoroid/1900-1999/1903.json"
+    }
+  ]
+}

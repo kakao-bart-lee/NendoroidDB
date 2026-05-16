@@ -1,0 +1,70 @@
+{
+  "num": "0688",
+  "name": {
+    "en": "Nendoroid Iowa",
+    "ja": "ねんどろいど Iowa（アイオワ） (ねんどろいど あいおわ)",
+    "ko": "아이오와"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7944,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6037,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aaXkFuAKAYY/X4NP_P6eNeI/AAAAAAABl58/r0AjAtTVoqwcSUFAPH28A-zDOML6RNsLQCLcBGAsYHQ/s270/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aaXkFuAKAYY/X4NP_P6eNeI/AAAAAAABl58/r0AjAtTVoqwcSUFAPH28A-zDOML6RNsLQCLcBGAsYHQ/s270/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-f8qya78dfSs/X4i16OhDxlI/AAAAAAAAs_g/5VO1UzGDhL89pZYm7DjWRhCZ7YP6WPbaACLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Z2l4zI6EHWk/X4i16VkUVSI/AAAAAAAAs_k/kSEyKYc_If8EAZuay55_GoM24ZJDBxi9wCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d7Z837imSnI/X4i16uN0FLI/AAAAAAAAs_o/X3_4mdM7zn0Z2kfG9JmyVHsnUvDfT9FMwCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--WKxxiqdVS0/X4i17HRDe-I/AAAAAAAAs_s/lvp_izURzMAO4lsDEI1bo10hikEPg5W3wCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JzymFodZz3Y/X4i17azXGgI/AAAAAAAAs_w/H--zZD1FBFM8KHBZHwmElgkFki9rgByRgCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-KPbTsUwix40/X4i17nLKsoI/AAAAAAAAs_0/iF5SRA5VzHUv6O4N7vOtCFXB9ZacBYV-QCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-H8vFo3AK7uY/X4i174pqbTI/AAAAAAAAs_4/bOWCjTnp300Jq_clGwnDvp2WOI8tKvNRwCLcBGAsYHQ/s135/688-Iowa-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n688/",
+      "fetched_at": "2026-05-16T19:10:34.743Z",
+      "raw_id": "/nendoroid/details/n688/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.484Z",
+      "raw_id": "Nendoroid/0600-0699/688.json"
+    }
+  ]
+}

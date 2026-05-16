@@ -1,0 +1,67 @@
+{
+  "num": "0739",
+  "name": {
+    "en": "Nendoroid Hanamaru Kunikida",
+    "ja": "ねんどろいど 国木田花丸 (ねんどろいど くにきだはなまる)",
+    "ko": "쿠니키다 하나마루"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6259,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_cL8smPbk8k/X4Nc7n_WCYI/AAAAAAABl90/WzesClQSJ44SGviPnzqI8XcXgiARXPa4gCLcBGAsYHQ/s270/739-Hanamaru-Kunikida-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_cL8smPbk8k/X4Nc7n_WCYI/AAAAAAABl90/WzesClQSJ44SGviPnzqI8XcXgiARXPa4gCLcBGAsYHQ/s270/739-Hanamaru-Kunikida-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3hQh4qttdLo/X4i4h_sHDBI/AAAAAAAAtUo/zMN-0RaVH7gjzmOtWSHG-9eDSk483gxvgCLcBGAsYHQ/s135/739-Hanamaru-Kunikida-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YMzK9F5ic7E/X4i4ihfjN5I/AAAAAAAAtUs/suat8D_t3rI3GR3dXOkEfcuwZE2WqYVYQCLcBGAsYHQ/s135/739-Hanamaru-Kunikida-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y6YYKwO0HD0/X4i4i51HZsI/AAAAAAAAtUw/i0wbny4pvZUv3ThuKDdtUFPPkgQCso59QCLcBGAsYHQ/s135/739-Hanamaru-Kunikida-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7g6Cdze_PTA/X4i4jLL81fI/AAAAAAAAtU0/jltv1Kj8RGgzc0t2SAB8q-xlIbFolcKBQCLcBGAsYHQ/s135/739-Hanamaru-Kunikida-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n739/",
+      "fetched_at": "2026-05-16T19:10:34.770Z",
+      "raw_id": "/nendoroid/details/n739/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.496Z",
+      "raw_id": "Nendoroid/0700-0799/739.json"
+    }
+  ]
+}

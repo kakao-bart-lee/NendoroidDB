@@ -1,0 +1,71 @@
+{
+  "num": "0649",
+  "name": {
+    "en": "Nendoroid Todomatsu Matsuno",
+    "ja": "ねんどろいど 松野トド松 (ねんどろいど まつのとどまつ)",
+    "ko": "마츠노 토도마츠"
+  },
+  "series": {
+    "en": "Osomatsu-san",
+    "ja": "おそ松さん",
+    "ko": "오소마츠 상",
+    "code": "osomatsu-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5772,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VfORk3p67AE/X4NPyXx0wVI/AAAAAAABl3g/5ur_H_Xl1cgZKj-dsONf-6rHd2hny0NVACLcBGAsYHQ/s270/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VfORk3p67AE/X4NPyXx0wVI/AAAAAAABl3g/5ur_H_Xl1cgZKj-dsONf-6rHd2hny0NVACLcBGAsYHQ/s270/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Qz3khdC9rXk/X4i00ULiyRI/AAAAAAAAsxo/cXchXPTVuMgOEuRADRHxg3kGFhSImfj8wCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HevNJSABss0/X4i00ppevWI/AAAAAAAAsxs/A1bnqWR8nCwEgKaAbHkDG1zrdS8_5RGbgCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aPCZA7KRvIY/X4i00-z3MKI/AAAAAAAAsxw/0OZOpid2RQEGBR7wnwacWNQRO-7tN8LLACLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3FPlXKnQs9E/X4i01BRcmQI/AAAAAAAAsx0/ad8T8leffmsxA-rn62szPRJlAQNHL0AigCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bcdmYYJEY3Y/X4i01REtwmI/AAAAAAAAsx4/oVnSYKu-dGMg1k3X-Wla-MyC_QN6CyuogCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Y9Jy--iUZCE/X4i01vScm_I/AAAAAAAAsx8/ThkN7zpdzwknVUCjXCT2O8NxzusXoyNmACLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rCQD0leb4So/X4i013xXQ1I/AAAAAAAAsyA/C20UJdJ8KDwuw4jJtvjKLuWwGZcRDvAUgCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-3cODW0T5fcM/X4i00EaX3_I/AAAAAAAAsxk/XDmtP6VjK10cecwFVv5I-lnjUvcG7ksPwCLcBGAsYHQ/s135/649-Todomatsu-Matsuno-Osomatsu-san-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n649/",
+      "fetched_at": "2026-05-16T19:10:34.721Z",
+      "raw_id": "/nendoroid/details/n649/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.473Z",
+      "raw_id": "Nendoroid/0600-0699/649.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "num": "1778",
+  "name": {
+    "en": "Nendoroid Sakura Kagamihara",
+    "ja": "ねんどろいど 各務原桜 (ねんどろいど かがみはらさくら)",
+    "ko": "카가미하라 사쿠라"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12077,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--THc9TbEIf0/Ya-zQ0U-K5I/AAAAAAAA2Ew/IhifEuwcMNQjDVUWRnsBJhhOFKzRJq69gCNcBGAsYHQ/s270/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--THc9TbEIf0/Ya-zQ0U-K5I/AAAAAAAA2Ew/IhifEuwcMNQjDVUWRnsBJhhOFKzRJq69gCNcBGAsYHQ/s270/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dMbWK3S_IkA/Ya-2nvCkCfI/AAAAAAAA2RQ/osTItD-9hmobteeTV1RhrFPn9dU-ME53QCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_xBDEosYeEs/Ya-2oOG_75I/AAAAAAAA2RU/Tin9TNfHt_ENVZ5IPHHkjfr3nnus98HKQCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1v3PLtpcM1o/Ya-2oLxWwjI/AAAAAAAA2RY/mKa5yx33Q18yGnxHpXDwH8ClKEG7b43wACNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1OCWHHIw21M/Ya-2ofWTI1I/AAAAAAAA2Rc/4zUZV-npA4EbwW8VwwDzAFO0yBJFtlv8QCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cj2ZAhJd7M8/Ya-2oimk6jI/AAAAAAAA2Rg/NYKCvnJo95kx6pG89cifaXluY3Ca0SZcACNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SkXh0vU1I6E/Ya-2pOKoqiI/AAAAAAAA2Rk/PPDLEez3B281jkteBgHYEM_bMRPf1QggACNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-DQI1CP0qnlA/Ya-2pOycxQI/AAAAAAAA2Ro/h7pW9tVuKaYI_k3BvT8YzZdXuJ_x7KcdwCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-IabAcWWpRas/Ya-2nQ-EwbI/AAAAAAAA2RM/4767Gg8OuRAUYM3SAu72Mr6sltII7J3RgCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-ln4-ijUHM-E/Ya-2nYL_C-I/AAAAAAAA2RI/WJxKDni9UxI9gibWLYUpRYiSfYvmWFh0wCNcBGAsYHQ/s135/1778-Sakura-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1778/",
+      "fetched_at": "2026-05-16T19:10:33.641Z",
+      "raw_id": "/nendoroid/details/n1778/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.748Z",
+      "raw_id": "Nendoroid/1700-1799/1778.json"
+    }
+  ]
+}

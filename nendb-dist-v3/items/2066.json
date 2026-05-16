@@ -1,0 +1,69 @@
+{
+  "num": "2066",
+  "name": {
+    "en": "Nendoroid Tsunomaki Watame",
+    "ja": "ねんどろいど 角巻わため (ねんどろいど つのまきわため)",
+    "ko": "츠노마키 와타메"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14037,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aw23nMOPtZY/ZA3eCKKqBTI/AAAAAAAA9KY/zxcvWSm3LMgEhyvFcLGuC8RW_xwkUaQ8gCNcBGAsYHQ/s270/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aw23nMOPtZY/ZA3eCKKqBTI/AAAAAAAA9KY/zxcvWSm3LMgEhyvFcLGuC8RW_xwkUaQ8gCNcBGAsYHQ/s270/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DrIQvnSDHAU/ZA3c2mA2LcI/AAAAAAAA9BQ/pftPoyGGD8Ylo29ix9EF6VvjPL74qBSVgCNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-offyuFtlhxI/ZA3c3IyfUII/AAAAAAAA9BY/8tMEBub7KxY6AFJ8dld5JLqmVLnt2sAWwCNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-77OuhHUNo1A/ZA3c35PIoiI/AAAAAAAA9BU/vO3jAthU3Y8Etk0au1Q0eFtIkG0wjFdYACNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wzUWr55yA94/ZA3c4KpYmHI/AAAAAAAA9Bg/hXgaywZKMG4zjmHSb3ZBWp8g1-zYSq1XgCNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QLdDmuGjfsg/ZA3c4BqtKxI/AAAAAAAA9Bc/ZRAIhGnUhYsebL0nuQRq4WQrwH45vy5EgCNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_KdsM6Z0kqI/ZA3c4ev21NI/AAAAAAAA9Bk/zBj3FGWshg4Z919u3XFg1_Kd98tjb7Q5QCNcBGAsYHQ/s135/2066-Tsunomaki-Watame-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2066/",
+      "fetched_at": "2026-05-16T19:10:33.820Z",
+      "raw_id": "/nendoroid/details/n2066/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.819Z",
+      "raw_id": "Nendoroid/2000-2099/2066.json"
+    }
+  ]
+}

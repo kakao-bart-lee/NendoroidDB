@@ -1,0 +1,67 @@
+{
+  "num": "0680",
+  "name": {
+    "en": "Nendoroid Chika Takami",
+    "ja": "ねんどろいど 高海千歌 (ねんどろいど たかみちか)",
+    "ko": "타카미 치카"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5972,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TXr0zPS50tU/X4NP9OqgpPI/AAAAAAABl5c/THmCNEYCPR0vUeBAByEbbrK1ih1nYAtEwCLcBGAsYHQ/s270/680-Chika-Takami-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TXr0zPS50tU/X4NP9OqgpPI/AAAAAAABl5c/THmCNEYCPR0vUeBAByEbbrK1ih1nYAtEwCLcBGAsYHQ/s270/680-Chika-Takami-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5BITAIPIiBU/X4i1wq6xIZI/AAAAAAAAs8s/gHvVr1X1eX8KZdWL-6Pge2YSrSekJ0gZwCLcBGAsYHQ/s135/680-Chika-Takami-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OClGPm9Vkfw/X4i1w6WwX_I/AAAAAAAAs8w/y1D0mJDghMkiIApsbRaR9L0hwlp16mSlwCLcBGAsYHQ/s135/680-Chika-Takami-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-b2qduYEG-aw/X4i1xOrGW0I/AAAAAAAAs80/oKqAg_uBUHAkXMIOBgin1y6bujHfrzPdACLcBGAsYHQ/s135/680-Chika-Takami-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WnVBl4XeDG8/X4i1xU_dB2I/AAAAAAAAs84/SE3vQRwk-YYQNL1AWeMfMEEIqgoK4LmBgCLcBGAsYHQ/s135/680-Chika-Takami-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n680/",
+      "fetched_at": "2026-05-16T19:10:34.739Z",
+      "raw_id": "/nendoroid/details/n680/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.482Z",
+      "raw_id": "Nendoroid/0600-0699/680.json"
+    }
+  ]
+}

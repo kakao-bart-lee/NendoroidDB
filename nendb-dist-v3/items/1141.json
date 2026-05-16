@@ -1,0 +1,67 @@
+{
+  "num": "1141",
+  "name": {
+    "en": "Nendoroid D.Va: Academy Skin Edition",
+    "ja": "ねんどろいど D.Va アカデミースキン・エディション (ねんどろいど でぃーば あかでみーすきん・えでぃしょん)",
+    "ko": "D.Va 아카데미 스킨 에디션"
+  },
+  "series": {
+    "en": "Overwatch®",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8361,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tSv8_pjpSZk/X4NgcfevgpI/AAAAAAABmbE/xmikIabMUyE7U_xyzSHU2zA2y9rYbxf_gCLcBGAsYHQ/s270/1141-D-Va-Academy-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tSv8_pjpSZk/X4NgcfevgpI/AAAAAAABmbE/xmikIabMUyE7U_xyzSHU2zA2y9rYbxf_gCLcBGAsYHQ/s270/1141-D-Va-Academy-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YKP8-5twyzc/X4rwVrJQ8NI/AAAAAAABpJ4/9McO5wAQ27EdX68DR-38J7bOMXrOjun-wCLcBGAsYHQ/s135/1141-D.VA-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IE8cxz7XuhI/X4rwVmFLzRI/AAAAAAABpJ8/g36tLUadxaIlGmTkNVnHNW8aTZsrRA4dwCLcBGAsYHQ/s135/1141-D.VA-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VKP01ZaC3G8/X4rwVwpOY-I/AAAAAAABpKA/qi9eRPKRjIkyKRw1Ie_eqtijfMnVaFY_wCLcBGAsYHQ/s135/1141-D.VA-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dyhhTOK7XG0/X4rwWANSs9I/AAAAAAABpKE/Phq0wHCmJGwbt-yaRpOlMVzmCi8K9z-ngCLcBGAsYHQ/s135/1141-D.VA-Overwatch-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1141/",
+      "fetched_at": "2026-05-16T19:10:33.246Z",
+      "raw_id": "/nendoroid/details/n1141/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.595Z",
+      "raw_id": "Nendoroid/1100-1199/1141.json"
+    }
+  ]
+}

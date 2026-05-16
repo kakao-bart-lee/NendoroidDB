@@ -1,0 +1,55 @@
+{
+  "num": "1520-DX",
+  "name": {
+    "en": "Nendoroid Black Widow: Black Widow Ver. DX",
+    "ja": "ねんどろいど ブラックウィドウ Black Widow Ver. DX (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver. DX)",
+    "ko": "블랙위도우 Black Widow DX Ver."
+  },
+  "series": {
+    "en": "Black Widow",
+    "ja": "ブラックウィドウ",
+    "ko": "블랙 위도우",
+    "code": "black-widow"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10237,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201016/10237/76100/large/10a0b9009702d0189f468a6d0f82f60a.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.685Z",
+      "raw_id": "Nendoroid/1500-1599/1520-DX.json"
+    }
+  ]
+}

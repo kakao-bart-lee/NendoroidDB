@@ -1,0 +1,64 @@
+{
+  "num": "2520",
+  "name": {
+    "en": "Bulborb",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Pikmin",
+    "ja": null,
+    "ko": null,
+    "code": "pikmin"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Noc3fNu75Gk/Znsoju4ldJI/AAAAAAABE44/o1lCOdTal3QJRbyaOHk2zHM3tK3dV74fgCNcBGAsYHQ/s270/2520-Bulborb-Pikmin-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Noc3fNu75Gk/Znsoju4ldJI/AAAAAAABE44/o1lCOdTal3QJRbyaOHk2zHM3tK3dV74fgCNcBGAsYHQ/s270/2520-Bulborb-Pikmin-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-D4S1X8UU7pM/Zow9EfB2w6I/AAAAAAABGJo/NmDU5jqWr6gCL7lhZt2jYzN7-50DDTHpQCNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fDik9t0JUrE/Zow9E-q0E8I/AAAAAAABGJs/sXSv84kZoFYEskB3CJEGJgExhlEpIhpDgCNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-azlTJ9evyT4/Zow-DjcsTLI/AAAAAAABGPY/T9KN4Q_yzEseODkzlLQ2B2E9Q5zSS2mAACNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UvV7-Q3TNKo/Zow9GHffS2I/AAAAAAABGJ0/XvZYfbs2HXgRaPo-H2eZLOBg63vY7c6rQCNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yVa6VxAJkX4/Zow9GqFluCI/AAAAAAABGJ4/FMDBA2Lg9V82MFM6dxhKTqPBxnicvk8kACNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1WeIEj744Bc/Zow9HL8jkhI/AAAAAAABGJ8/z8GpeR4mevchm_z7SslwZjMtSYnLlotowCNcBGAsYHQ/s135/2520-Bulborb-Pikmin-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2520/",
+      "fetched_at": "2026-05-16T19:10:34.110Z",
+      "raw_id": "/nendoroid/details/n2520/"
+    }
+  ]
+}

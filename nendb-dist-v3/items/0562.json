@@ -1,0 +1,68 @@
+{
+  "num": "0562",
+  "name": {
+    "en": "Nendoroid Rin Hoshizora: Training Outfit Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)",
+    "ja": "ねんどろいど 星空凛 練習着Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)",
+    "ko": "호시조라 린 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5228,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F6SkK3YMvUo/X4NOkxE5PrI/AAAAAAABlxY/82s3hxEpbeAuLnUuWKdKdLhMiemGkj8IwCLcBGAsYHQ/s270/562-Rin-Hoshizora-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F6SkK3YMvUo/X4NOkxE5PrI/AAAAAAABlxY/82s3hxEpbeAuLnUuWKdKdLhMiemGkj8IwCLcBGAsYHQ/s270/562-Rin-Hoshizora-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gfCovQH7wo0/X4is9_mtlVI/AAAAAAAAsQM/tNGtK0GO8royZ33bBIZfoankcuR3gUbvwCLcBGAsYHQ/s135/562-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6QaDcnT8pa0/X4is93kTQfI/AAAAAAAAsQQ/s7mmbuljjK0nM4dgNbxp4ctrXFWdZRCTQCLcBGAsYHQ/s135/562-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a9TGUgxyUL8/X4is-A3GBII/AAAAAAAAsQU/EGGoRlSpFl053gspiQoPI-6PBLsQ7JpnQCLcBGAsYHQ/s135/562-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-477JTLkT-lY/X4is-gDsYdI/AAAAAAAAsQY/-Tyv6xeML4wRa8haLm7MnIg5hzAoAf-tACLcBGAsYHQ/s135/562-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cmaM5stADX4/X4is-zbgghI/AAAAAAAAsQc/K4bhaAHXe9U1fRC_JlLzfW7MxItK80nOwCLcBGAsYHQ/s135/562-Rin-Hoshizora-Love-Live-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n562/",
+      "fetched_at": "2026-05-16T19:10:34.601Z",
+      "raw_id": "/nendoroid/details/n562/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.446Z",
+      "raw_id": "Nendoroid/0500-0599/562.json"
+    }
+  ]
+}

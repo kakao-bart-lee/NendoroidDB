@@ -1,0 +1,70 @@
+{
+  "num": "1080",
+  "name": {
+    "en": "Nendoroid Lord Grim",
+    "ja": "ねんどろいど 君莫笑 (ねんどろいど じゅんもーしやお)",
+    "ko": "군막소"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8307,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--MU4MpSoNdM/X4Nf436NAaI/AAAAAAABmWg/SwN2m7gLokMyocQ72gpE5PST7YjormzagCLcBGAsYHQ/s270/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--MU4MpSoNdM/X4Nf436NAaI/AAAAAAABmWg/SwN2m7gLokMyocQ72gpE5PST7YjormzagCLcBGAsYHQ/s270/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4Mj2KiMbUfg/X4rtHgAwtWI/AAAAAAABowk/Fvhp8qoUOtwxhUXG6DOC5A4KO6NQH2a_gCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pv2bj8y8APg/X4rtIOIMawI/AAAAAAABowo/x-PZjSppYx0revbzEWbuUNTFO-VtHv7nQCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-boxBU38eUMw/X4rtI4bMh2I/AAAAAAABows/GaivRqEnlkMtrqBT-Z4eNf_JIe85fH-cgCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bV-kt1Wl9KM/X4rtJBSrsaI/AAAAAAABoww/B6cHJwnTzjY_cSqXDxZLLFWD383-QNbzQCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BJ3C3M2ur5U/X4rtJFCJQHI/AAAAAAABow0/3tP2wrXABr0sY5K9EqP7yq6TEow_0cqxQCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Y_vPHNMda0g/X4rtJaHEjaI/AAAAAAABow4/KVSl5JLmeyERpBkU8czYErGxIh7v-SMOACLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/--dlxbzfrSdU/X4rtJm6zsVI/AAAAAAABow8/3IR_7n5JekkWUgdQnNTz0gKPk_hX-0Z6wCLcBGAsYHQ/s135/1080-Lord-Grim-The-Kings-Avatar-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1080/",
+      "fetched_at": "2026-05-16T19:10:33.207Z",
+      "raw_id": "/nendoroid/details/n1080/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.580Z",
+      "raw_id": "Nendoroid/1000-1099/1080.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0499",
+  "name": {
+    "en": "Nendoroid Sakura Mikudayo- (ねんどろいど さくらみくだよー)",
+    "ja": "ねんどろいど 桜ミクダヨー (ねんどろいど さくらみくだよー)",
+    "ko": "사쿠라 미쿠다요"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3259,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4975,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vUehFf779l0/X4NOCDaG6CI/AAAAAAABlsw/txe-YP48AVEoHal_wX3wfdGHt_A7PUTVgCLcBGAsYHQ/s270/499-Hatsune-Miku-Sakura-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vUehFf779l0/X4NOCDaG6CI/AAAAAAABlsw/txe-YP48AVEoHal_wX3wfdGHt_A7PUTVgCLcBGAsYHQ/s270/499-Hatsune-Miku-Sakura-Miku-Character-Vocal-Series-01-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_E6782Wq50k/X4dfn1ykXBI/AAAAAAAAr3k/VBykaty_HQs-yMbTnz5g9Nwshh8qkQm5QCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-792MrTNDdIY/X4dfoVol51I/AAAAAAAAr3o/ZIkzMKjmdJodwjT9MTL6Zf4IDfsufxp5gCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_rN4DsY7CBw/X4dfo3B_XtI/AAAAAAAAr3s/zIkD0KzclMsG1rnoQwmZBbh1E5ElNmXaQCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-baT0sKLJEQY/X4dfpWg3XFI/AAAAAAAAr3w/ra28fBy8P-8chR1Tqajppq4cw6_uF5XUgCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ci2cakqNNuM/X4dfpxImdzI/AAAAAAAAr30/TG6GPovty3c_rmoHQreTmWHmk7o5qKPPwCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mJI9HsReldA/X4dfqZOaSHI/AAAAAAAAr34/v4-qtH4vS4sYw-oAX7b7aoob6LMg3l0ZwCLcBGAsYHQ/s135/499-Mikudayo-Sakura-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "DAYO",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n499/",
+      "fetched_at": "2026-05-16T19:10:34.563Z",
+      "raw_id": "/nendoroid/details/n499/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.395Z",
+      "raw_id": "Nendoroid/0400-0499/499.json"
+    }
+  ]
+}

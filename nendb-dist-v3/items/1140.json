@@ -1,0 +1,68 @@
+{
+  "num": "1140",
+  "name": {
+    "en": "Nendoroid Ai Haibara",
+    "ja": "ねんどろいど 灰原哀 (ねんどろいど はいばらあい)",
+    "ko": "하이바라 아이"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6kwfzkkp_zo/X4NgcBXTKtI/AAAAAAABmbA/e845nglYjdk6Yj0-RW_qM24t1db_lGzjgCLcBGAsYHQ/s270/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6kwfzkkp_zo/X4NgcBXTKtI/AAAAAAABmbA/e845nglYjdk6Yj0-RW_qM24t1db_lGzjgCLcBGAsYHQ/s270/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0GJe7_MdvY0/X4rwUD2vroI/AAAAAAABpJk/SnegdBRd1YcIN0GRsFNr0t-AoMJZMFykwCLcBGAsYHQ/s135/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AUHHvum795M/X4rwUeJkC1I/AAAAAAABpJo/qjjRMvBgc3wbqAIrkyM6rz0d5AXQQ6-qwCLcBGAsYHQ/s135/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r-qonXlF0V4/X4rwUg5NnWI/AAAAAAABpJs/c4bLZBz_6_oqPoMIHouElqWOyeDgY_jZQCLcBGAsYHQ/s135/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Dtp5QsfP1Fo/X4rwU0p1PDI/AAAAAAABpJw/ZpTkDXxnjB8GhItoMbyBEnCmnl8tnfvbACLcBGAsYHQ/s135/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6iJgo0B1qZE/X4rwVJyh9CI/AAAAAAABpJ0/ng22s_spFN4kUIOIT-1_DcQj1dXzA5LWwCLcBGAsYHQ/s135/1140-Ai-Haibara-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1140/",
+      "fetched_at": "2026-05-16T19:10:33.246Z",
+      "raw_id": "/nendoroid/details/n1140/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.594Z",
+      "raw_id": "Nendoroid/1100-1199/1140.json"
+    }
+  ]
+}

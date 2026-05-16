@@ -1,0 +1,93 @@
+{
+  "num": "2844",
+  "name": {
+    "en": "Kaito",
+    "ja": "ねんどろいど KAITO 2.0",
+    "ko": null
+  },
+  "series": {
+    "en": "KAITO",
+    "ja": "KAITO",
+    "ko": null,
+    "code": "kaito"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shimotaku, Hideo Masuda",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4580828662766",
+  "gsc_product_id": "1137063",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1137063",
+    "ja": "https://www.goodsmile.com/ja/product/1137063"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137063/eitzshk485WYUTmKR6ArBj0ZQ2u1NGEH.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2G76gbqAmDwYJEi6dP6Q8b31AUrsw-3krOw3BwQakYIL0Ql3osVPSe5bE9TUvc2iZwQ5yhFY1SJWQybTO4Tkjj8z0JA7sa3q4mmfWhU09nvvbXJ4tnd239-O8q5WjuMMQxGVthH6eE8Ga99tKEWvr5GNIaKyTtd2m41ej0mttXnqVnk5qnmmlu803wGl-/s270/2844-Kaito-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZyyABVjQCOuqqeo7jlDXUkhpsgXBxYXVt04s39n8EMrqzKVJMePy8gsliW8-bH2EqvjA-TUnMfUBaQxSFKfZu0h8i3gakOnfs9rizU2ZP37p_qTqwHyknop4BgUVxGXmlhkNkhyUitSKoFq1yht78AnYAE7XxBAM53X3oSXFpTYtsDHsXNeiMtzRi9fb2/s135/2844-Kaito-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI4kdtkruMtqIsPhrJHaX0iTdAZUMEnK2hUONzXYk189_zdILuZLTBYVLNV1RN5SqAEpsalCrVtWS5W7xILcTo_yZ1OA1Ux8HMVyIn-yKW9GvSZCuVRov7F-22ZU3bY2v5rl0e3m98szy6jVzA3zjrJfPTH0lsKmArEJTsHNDkMxFVNnzPjWsqPmJmwMTu/s135/2844-Kaito-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhAKfLsoyjyJJ3cFz3627S07T7VSYJKEQIDMMaaGp6X7S-1eOHW3dTj4LhUQLk8FGdT4fJK07Ese4_AMYLzm8axWd7od6DIHJ7BQDeZKceT5TYmuhUHo9WDkk5ooZW75WXrRsNVp5ZORxjE9YDefhZ6E_ST27lYWV1_txYnDvqC1lRbrnPqRg7twX14VXM/s135/2844-Kaito-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxuuQkAIcD5Xyv9jyjiAtVFm2LPHaAsHOdnsbwXmtwOA0i2lna9P6NnYchmWmKmT4Buk0bjbnUABY2IfXa52Vy60pJRG0pBoeFoLOXCENovWmgZ5dc0IegGNk84wQmeZscDe-rqWAqq5X_EYMIu-wBgmURcQkXl-HAyavcxEqQ_LieEOrDFugOGmB934pc/s135/2844-Kaito-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQdi9zjUMfDfK3XvMCmsaDcjuvRO2ePI-bo2_XgLy5KjL9iW-f-gsPg3w8ZmtUfUWbyPs3snLpKFuJONUYS0a7hE1nnvaojt-VBKnprmh_kX94mIqakx5iyumn16kclg1jUbgJ1EU-zEyqIgQqWHH-22lC643GF9LXc_NRhS_O6hETS4v4tXotaiXaKG5/s135/2844-Kaito-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAWALwcCSzYfmnfIzzhKZod4s56Ap80zgcowi8967FDQtCNIX4tUn8QlCS-pUE6yqn5n8ioXZj4y8XWbKnjaoI76sFjgn_toA_EQWyBASbUErQBxZYc537O2XxF0PD2ipMwMNoRop8JOb-OGWqnY1JwrvE-qjcdo1Vurcvjh_XNw_sdgWKPpKtV9yR_EL-/s135/2844-Kaito-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfApZrIyJIIpBNF4BlrbMIoysp7Ubk4CoKOW9oFLc0qCZOdHHGZBhzUEXXctePP9T7f7zaqoKfb1-b9NU_I2Ad_tury5bac2UiSB5l986F08fTAGCbWH0K0IOCH5IVRnoDHct4aaQ3TXZBW1nPHVqTuVqIRUXhuMI1OS1_qWy0MCjwzS3GWAaYq-98lst3/s135/2844-Kaito-Vocaloid-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrM0dJNDYtkSRGLJenKNlRxi2eL-OgZWx51-f6PgoBaPmKHeZcgI6Pz5kCsz_dNhtaYg3CJWGwv44VJGNv_sRXvuEV3Wby8LM8J5PC9HnKandTJYenMlknl2SJ-A01sDki7BuMmQ0jyDEpkWFEixtiQHwj1zJ6lYMy9RrKTI1aMGE3yGoAisLskMQh4nQN/s135/2844-Kaito-Vocaloid-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137063/HY7CtZaFELTjA21kDWiuGqRScwpfBvMd.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137063/eitzshk485WYUTmKR6ArBj0ZQ2u1NGEH.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1137063",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:10:41.035Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1137063",
+      "fetched_at": "2026-05-16T12:10:41.035Z",
+      "raw_id": "1137063"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1137063",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1137063"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2844/",
+      "fetched_at": "2026-05-16T19:10:34.348Z",
+      "raw_id": "/nendoroid/details/n2844/"
+    }
+  ]
+}

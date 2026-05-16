@@ -1,0 +1,68 @@
+{
+  "num": "2065",
+  "name": {
+    "en": "Nendoroid Hawks",
+    "ja": "ねんどろいど ホークス (ねんどろいど ほーくす)",
+    "ko": "호크스"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13951,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ttbyFiojgcg/ZA3eCPc7HXI/AAAAAAAA9KU/QzI7qztFD5s7w3UARl2DW0NERxcL0gjswCNcBGAsYHQ/s270/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ttbyFiojgcg/ZA3eCPc7HXI/AAAAAAAA9KU/QzI7qztFD5s7w3UARl2DW0NERxcL0gjswCNcBGAsYHQ/s270/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OlFTGLVnfUk/ZA3c1CREvsI/AAAAAAAA9A8/MA8GguHcmDo7q6AMvR1xWWjnmOk4p7J2QCNcBGAsYHQ/s135/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--kJ8ijdgDC0/ZA3c1nLWK7I/AAAAAAAA9BE/AFa99-IiWGU_OPVKj_G_QB2vJ6naS_1sQCNcBGAsYHQ/s135/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RYjNtLiUwT0/ZA3c2GLFfpI/AAAAAAAA9BA/-F-WIKF4gEwWLXwOBLpB1r_664equWcIgCNcBGAsYHQ/s135/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YIk8buADrbE/ZA3c2uwHxsI/AAAAAAAA9BI/Bwe8GYQMOvA-GoZR7h6UMW0ODK0Ngb9IACNcBGAsYHQ/s135/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZGtfX2Lg2wo/ZA3c2nAIRqI/AAAAAAAA9BM/URqAZ-4kpeQM3UUV_MjC_CUyS4mrJUPcACNcBGAsYHQ/s135/2065-Hawks-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2065/",
+      "fetched_at": "2026-05-16T19:10:33.819Z",
+      "raw_id": "/nendoroid/details/n2065/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.818Z",
+      "raw_id": "Nendoroid/2000-2099/2065.json"
+    }
+  ]
+}

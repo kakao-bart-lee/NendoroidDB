@@ -1,0 +1,68 @@
+{
+  "num": "0664",
+  "name": {
+    "en": "Nendoroid Shielder/Mash Kyrielight",
+    "ja": "ねんどろいど シールダー/マシュ・キリエライト (ねんどろいど しーるだー/ましゅ・きりえらいと)",
+    "ko": "실더/마슈 키리에라이트"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5878,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TbJsvQsvSnc/X4NP4UqLpuI/AAAAAAABl4c/X2kJA6wAgjIttn5BoP2mafaZZlt7g8j9ACLcBGAsYHQ/s270/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TbJsvQsvSnc/X4NP4UqLpuI/AAAAAAABl4c/X2kJA6wAgjIttn5BoP2mafaZZlt7g8j9ACLcBGAsYHQ/s270/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SuTJnsqNvBA/X4i1R1HW38I/AAAAAAAAs3E/dedCDMxHKREwU3HJLEPgHSTF2mwNFHDoACLcBGAsYHQ/s135/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Pqhli043xSo/X4i1SWgbejI/AAAAAAAAs3I/NtFBQZwsNpAPzkvQCcdhgOBdOUajyR-KwCLcBGAsYHQ/s135/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-S6OF4FhlPLk/X4i1S1kGMYI/AAAAAAAAs3M/z0Fe03J9ivMeYFSTCisyyzfyrvTeiflrwCLcBGAsYHQ/s135/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sjrf9JVPJlw/X4i1TXs6OMI/AAAAAAAAs3Q/CCKbRQb8e5M4kBXUFr2oCvKjUS6KbqHAQCLcBGAsYHQ/s135/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-32DoKXh5CP4/X4i1T2C-oDI/AAAAAAAAs3U/l_wZux0ToZQL_0DUMUckBMWUlRKK-BeZQCLcBGAsYHQ/s135/664-Shielder-Mash-Kyrielite-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n664/",
+      "fetched_at": "2026-05-16T19:10:34.730Z",
+      "raw_id": "/nendoroid/details/n664/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.478Z",
+      "raw_id": "Nendoroid/0600-0699/664.json"
+    }
+  ]
+}

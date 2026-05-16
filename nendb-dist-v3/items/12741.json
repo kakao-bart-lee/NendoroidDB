@@ -1,0 +1,55 @@
+{
+  "num": "12741",
+  "name": {
+    "en": "Nendoroid Doll Omega Ray",
+    "ja": "ねんどろいどどーる おめがレイ (ねんどろいどどーる おめがれい)",
+    "ko": "오메가 레이"
+  },
+  "series": {
+    "en": "Omega Sisters",
+    "ja": "おめがシスターズ",
+    "ko": "오메가 시스터즈",
+    "code": "omega-sisters"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-02",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12741,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220525/12741/99146/large/79da1e6506c77798dec5dbd563ff2f8d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.959Z",
+      "raw_id": "NendoroidDoll/Doll/12741.json"
+    }
+  ]
+}

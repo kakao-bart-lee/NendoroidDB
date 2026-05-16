@@ -1,0 +1,68 @@
+{
+  "num": "1676",
+  "name": {
+    "en": "Nendoroid Rosaline",
+    "ja": "ねんどろいど ロザリン (ねんどろいど ろざりん)",
+    "ko": "로자 린"
+  },
+  "series": {
+    "en": "AFK Arena",
+    "ja": "AFK アリーナ",
+    "ko": "AFK 아레나",
+    "code": "afk-arena"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11466,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pqhkgwagZSE/YS6JtAY5ozI/AAAAAAAAz9A/i8JRTDdxNfMh1a3UhnSxEG8SUxeWa28_ACLcBGAsYHQ/s270/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pqhkgwagZSE/YS6JtAY5ozI/AAAAAAAAz9A/i8JRTDdxNfMh1a3UhnSxEG8SUxeWa28_ACLcBGAsYHQ/s270/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-b7Rv4aofOrM/YS6Mcojm7WI/AAAAAAAA0E8/DNhd3Y-Oor4EKct668hDDImTKYJtL7RtQCLcBGAsYHQ/s135/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jBnHWeNDmek/YS6MdAwSWUI/AAAAAAAA0FA/RnzLLkiKkHM6TbF-6qg1B_RpnQ9e6RHiwCLcBGAsYHQ/s135/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tta26ZI2rnc/YS6MdtRhaGI/AAAAAAAA0FE/_6awIXw1c3s5Qxp0kpZGsjoYwXq5xOzvACLcBGAsYHQ/s135/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vgw7r4h8BNg/YS6Md31AZwI/AAAAAAAA0FI/Jp5z909_bwgsn2-x4OFd7p1vaXTIuEPygCLcBGAsYHQ/s135/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kaf3LdkyqZ4/YS6MeFGuP2I/AAAAAAAA0FM/uPjn3Escc8wfv9Z2yc_KE6PvRy2iAH47QCLcBGAsYHQ/s135/1676-Rosaline-AFK-Arena-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1676/",
+      "fetched_at": "2026-05-16T19:10:33.577Z",
+      "raw_id": "/nendoroid/details/n1676/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.724Z",
+      "raw_id": "Nendoroid/1600-1699/1676.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "1506",
+  "name": {
+    "en": "Nendoroid Megumi Fushiguro",
+    "ja": "ねんどろいど 伏黒恵 (ねんどろいど ふしぐろめぐみ)",
+    "ko": "후시구로 메구미"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10413,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ilHJaX-Qt8Q/X8AK8idEtgI/AAAAAAAAuu0/c8yIF0taCFkUO6RMGMef64vv5o9CI7tlACLcBGAsYHQ/s270/1506-Megumi%2BFushiguro-Jujutsu%2BKaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ilHJaX-Qt8Q/X8AK8idEtgI/AAAAAAAAuu0/c8yIF0taCFkUO6RMGMef64vv5o9CI7tlACLcBGAsYHQ/s270/1506-Megumi%2BFushiguro-Jujutsu%2BKaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2LHdAoOk_i4/X8AN2dRkxDI/AAAAAAAAuvY/_wYaFAdStEM_E0NKI39vPEIHRBtArJf2ACLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sRjEglwQ5ZU/X8AN2k4ysZI/AAAAAAAAuvc/faO9eTXJqIYmbTW_JCWGVXZTsc1asmFCwCLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZPqcdfpfTBw/X8AN3XhKZ-I/AAAAAAAAuvg/D4i5khYqs-QN4DFAgUrZ0a_N9Gr6x75cwCLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eMTETtxiyE0/X8AN38BnTbI/AAAAAAAAuvk/HWtiH4HoJ_45-cyGZEgRrZqzWelvg70bQCLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2W9EL9krifk/X8AN4MB7WkI/AAAAAAAAuvo/4i9wli574-MRLa1n---l4ShDPvpPdXXjQCLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2aWcZyQ7JeU/X8AN4Qg5qmI/AAAAAAAAuvs/_TgXFA8Wg9YN6sZCsYoMnuZpKlAu3VSRACLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-y3y3kNC_Nl8/X8AN4m6bWfI/AAAAAAAAuvw/8ifoVO0chZUjcy-N5EafTRDP_lQPGaIkACLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/--RvZnWDn5ng/X8AN2SaJ9sI/AAAAAAAAuvU/Hz7RRomy5vUEU1pOBd1UrQagK8NEoACyQCLcBGAsYHQ/s135/1506-Megumi-Fushiguro-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1506/",
+      "fetched_at": "2026-05-16T19:10:33.472Z",
+      "raw_id": "/nendoroid/details/n1506/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.682Z",
+      "raw_id": "Nendoroid/1500-1599/1506.json"
+    }
+  ]
+}

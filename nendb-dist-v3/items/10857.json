@@ -1,0 +1,55 @@
+{
+  "num": "10857",
+  "name": {
+    "en": "Nendoroid Doll Lan Wangji: Qishan Night-Hunt Ver.",
+    "ja": "ねんどろいどどーる 藍忘機 岐山騎射Ver. (ねんどろいどどーる らんぼうき ぎざんきしゃVer.)",
+    "ko": "남망기 기산기사 Ver."
+  },
+  "series": {
+    "en": "The Master of Diabolism",
+    "ja": "アニメ「魔道祖師」",
+    "ko": "마도조사",
+    "code": "the-master-of-diabolism"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7850,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10857,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210224/10857/81558/large/b87ad5ead2e9fc04644eed40fd3efb2d.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.953Z",
+      "raw_id": "NendoroidDoll/Doll/10857.json"
+    }
+  ]
+}

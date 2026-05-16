@@ -1,0 +1,94 @@
+{
+  "num": "2002",
+  "name": {
+    "en": "Nendoroid Levi Ackerman: The Final Season Ver.",
+    "ja": "ねんどろいど リヴァイ・アッカーマン The Final Season Ver. (ねんどろいど りゔぁい・あっかーまん ざ ふぁいなる しーずん Ver.)",
+    "ko": "리바이 아커만: 파이널 시즌 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7600,
+  "gtin": "4580828664968",
+  "gsc_product_id": "11209",
+  "gsc_product_num": 13524,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11209",
+    "ja": "https://www.goodsmile.com/ja/product/11209"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221114/13524/107041/large/aa976ff75b30f3849527381a05cd6ba4.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QXM9slCU0Pc/Y45wV5_HRKI/AAAAAAAA7sY/TC6n_X5Y918oPCxfC1NIVkLuQ4Z9N9sQgCNcBGAsYHQ/s270/2002-Levi-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pC_Jwfkla70/Y4510LeugrI/AAAAAAAA75c/h5vJ4ThVTgc-qATf37kbSmTkXCrjNJTSwCNcBGAsYHQ/s135/2002-Levi-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oYWlslKSIi4/Y4510VKeCvI/AAAAAAAA75g/sclOhEnzlswYBghUzErSjPuK2r_IFotYgCNcBGAsYHQ/s135/2002-Levi-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ikwEhr4LW-w/Y4510rERRtI/AAAAAAAA75k/8WHg2AKT4K8aL38ycyYo_jRxBFZH418TgCNcBGAsYHQ/s135/2002-Levi-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DszkXUYiBtM/Y4510yToUlI/AAAAAAAA75o/HEd39Z-37FoBrO1hxu1-uI7IIyQEgfrJgCNcBGAsYHQ/s135/2002-Levi-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221114/13524/107047/large/f4bd381dc604d3fb96ba451bfee2d767.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221114/13524/107041/large/aa976ff75b30f3849527381a05cd6ba4.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11209",
+      "price_local": 7600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:11:27.329Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11209",
+      "fetched_at": "2026-05-16T12:11:27.329Z",
+      "raw_id": "11209"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11209",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11209"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2002/",
+      "fetched_at": "2026-05-16T19:10:33.778Z",
+      "raw_id": "/nendoroid/details/n2002/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.802Z",
+      "raw_id": "Nendoroid/2000-2099/2002.json"
+    }
+  ]
+}

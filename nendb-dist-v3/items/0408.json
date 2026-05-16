@@ -1,0 +1,67 @@
+{
+  "num": "0408",
+  "name": {
+    "en": "Nendoroid Mako Mankanshoku (ねんどろいど まんかんしょくまこ)",
+    "ja": "ねんどろいど 満艦飾マコ (ねんどろいど まんかんしょくまこ)",
+    "ko": "만칸쇼쿠 마코"
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4299,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wwpsQrBLYZ0/X4NNpkLcmOI/AAAAAAABlnA/G83lEKxTq_sq0BqsG0FH6VVYp6RtkStUACLcBGAsYHQ/s270/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wwpsQrBLYZ0/X4NNpkLcmOI/AAAAAAABlnA/G83lEKxTq_sq0BqsG0FH6VVYp6RtkStUACLcBGAsYHQ/s270/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gtzYw1s6xMc/X4ddWgCxQkI/AAAAAAAArZY/jUQOV1eRpPU4G3AVtOPA0DK9FevFFbIxACLcBGAsYHQ/s135/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lXMdXuHbqks/X4ddXC8lvFI/AAAAAAAArZc/q2Vjb5mQ34Aukgo5Di_sQp7SehOJSy9jQCLcBGAsYHQ/s135/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9-5MmPowmHs/X4ddXosJLPI/AAAAAAAArZg/5htwLY2cKRMNChanTXvVJMG9CRuTqVluACLcBGAsYHQ/s135/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Hsj54lCCaiE/X4ddYJnzIEI/AAAAAAAArZk/oLsjHRRWxdcOLjoWp3va805-_XwXviZVwCLcBGAsYHQ/s135/408-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n408/",
+      "fetched_at": "2026-05-16T19:10:34.511Z",
+      "raw_id": "/nendoroid/details/n408/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.373Z",
+      "raw_id": "Nendoroid/0400-0499/408.json"
+    }
+  ]
+}

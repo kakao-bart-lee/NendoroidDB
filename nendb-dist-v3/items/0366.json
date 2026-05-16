@@ -1,0 +1,68 @@
+{
+  "num": "0366",
+  "name": {
+    "en": "Nendoroid Chris Yukine (ねんどろいど ゆきねくりす)",
+    "ja": "ねんどろいど 雪音クリス (ねんどろいど ゆきねくりす)",
+    "ko": "유키네 크리스"
+  },
+  "series": {
+    "en": "Senki Zesshou Symphogear",
+    "ja": "戦姫絶唱シンフォギア",
+    "ko": "전희절창 심포기어 시리즈",
+    "code": "senki-zesshou-symphogear"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6286,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4056,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9-nlQcB7hYA/X4NM73D0ayI/AAAAAAABljo/_cFvJ8XKtxw6pY4ZQN2SVHm0qB28Dwv2ACLcBGAsYHQ/s270/366-Yukine-Chris-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9-nlQcB7hYA/X4NM73D0ayI/AAAAAAABljo/_cFvJ8XKtxw6pY4ZQN2SVHm0qB28Dwv2ACLcBGAsYHQ/s270/366-Yukine-Chris-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-y9pkcAeiD6c/X4dbK--VzlI/AAAAAAAArJA/EjNHNss0yuU7F27yPGLlAPjKw8UHoSxMwCLcBGAsYHQ/s135/366-Chris-Yukine-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-r-IpZvqf5HE/X4dbLKdDfmI/AAAAAAAArJE/yS_eRkO71-ArpmfBxgexZdmyybJfAXo2gCLcBGAsYHQ/s135/366-Chris-Yukine-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HZ5yZuEDVXQ/X4dbLN_81NI/AAAAAAAArJM/s-Gba28svzwysiftauQNcGngvx6d5BDpwCLcBGAsYHQ/s135/366-Chris-Yukine-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-deAF8RiCr-4/X4dbLOu7w9I/AAAAAAAArJI/4WryxoqC8JIrajXPowg_MBym7yy3ZK2MACLcBGAsYHQ/s135/366-Chris-Yukine-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WhnQ0aSNwUk/X4dbLvpUAFI/AAAAAAAArJQ/7oMpxjcWm5MxYk6HN3xNKPbUD3pHcC0wwCLcBGAsYHQ/s135/366-Chris-Yukine-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n366/",
+      "fetched_at": "2026-05-16T19:10:34.486Z",
+      "raw_id": "/nendoroid/details/n366/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.362Z",
+      "raw_id": "Nendoroid/0300-0399/366.json"
+    }
+  ]
+}

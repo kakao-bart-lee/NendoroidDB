@@ -1,0 +1,68 @@
+{
+  "num": "1062",
+  "name": {
+    "en": "Nendoroid Shintaro Midorima",
+    "ja": "ねんどろいど 緑間真太郎 (ねんどろいど みどりましんたろう)",
+    "ko": "미도리마 신타로"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7952,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xqCm_rnfV_A/X4NfzH8fVcI/AAAAAAABmVM/EiNbk42q30gnlO17iIwdeJfkgblyuM-AgCLcBGAsYHQ/s270/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xqCm_rnfV_A/X4NfzH8fVcI/AAAAAAABmVM/EiNbk42q30gnlO17iIwdeJfkgblyuM-AgCLcBGAsYHQ/s270/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GAW-2QQqe6M/X4rsmHik5BI/AAAAAAABoo8/eHU8OLgxXuc8qOguq-F7rGG3eOGW9dDLwCLcBGAsYHQ/s135/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0R3MCMaM0GM/X4rsml0vpVI/AAAAAAABopA/EtSFzMNCO-0CgaT3DWmLXRggMzl7orsXwCLcBGAsYHQ/s135/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HTx_-9N0KKE/X4rsmmk7P5I/AAAAAAABopE/2J-mBpWW5dsySV6G-nW96GkeTkxktZZXwCLcBGAsYHQ/s135/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A43is3CdPdA/X4rsmzuFAtI/AAAAAAABopI/Ew-jN434DicD8d02PB-IBE22leHnYiwvwCLcBGAsYHQ/s135/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-C0OgbEO54oo/X4rsnGhsFzI/AAAAAAABopM/pf79NvOxajkqfzSLWV3OTrHC0jOOuCeEACLcBGAsYHQ/s135/1062-Shintaro-Midorima-Kurokos-Basketball-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1062/",
+      "fetched_at": "2026-05-16T19:10:33.189Z",
+      "raw_id": "/nendoroid/details/n1062/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.575Z",
+      "raw_id": "Nendoroid/1000-1099/1062.json"
+    }
+  ]
+}

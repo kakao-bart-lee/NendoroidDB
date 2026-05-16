@@ -1,0 +1,70 @@
+{
+  "num": "2161",
+  "name": {
+    "en": "Nendoroid Cheng Xiaoshi",
+    "ja": "ねんどろいど 程小時(トキ) (ねんどろいど ちょんしゃおしー(とき))",
+    "ko": "청샤오시"
+  },
+  "series": {
+    "en": "LINK CLICK",
+    "ja": "時光代理人",
+    "ko": "시광대리인",
+    "code": "link-click"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2fre73vAHDo/ZM6ysWk1Y1I/AAAAAAABA8c/MD2sz0_Lp88H4bE4IzzdL-uqPFJjXjncACNcBGAsYHQ/s270/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2fre73vAHDo/ZM6ysWk1Y1I/AAAAAAABA8c/MD2sz0_Lp88H4bE4IzzdL-uqPFJjXjncACNcBGAsYHQ/s270/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-p3DoTNWWBhA/ZNAV5Lvu1oI/AAAAAAABBAw/BBtpw3LYEZUY4HoiHU5xEkBOCTEBZ5b6ACNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MHE8s3ulmK8/ZNAV5YuePcI/AAAAAAABBA0/eP9yhnoZV24rY_dewneZf_TxLq5mhILAgCNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Du-BbukpCis/ZNAV5jUXJVI/AAAAAAABBA4/a8FOPtvuBUUSuNydqQcnL0mx_RwLVMkVgCNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JhcrEgSfVBs/ZNAV5wP72cI/AAAAAAABBA8/BwKBwEHc-_wwcY_YeGowtX50dQkXOGMbQCNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-067OKeMAz1A/ZNAV6SREErI/AAAAAAABBBA/WiOslvhUrm0itK9lCXBC42zP5AZ92D9-QCNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-3G-w5uX3TiQ/ZNAV7B-n5VI/AAAAAAABBBE/N7RKQe6bnokT29asIRZbtyWj2JdburhzACNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-DczennKj2gw/ZNAV4vvOn0I/AAAAAAABBAs/rGxoTKzzIYUdzxV9dAKtFdT2dxI4qDKcwCNcBGAsYHQ/s135/2161-Cheng-Xiaoshi-Link-Click-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2161/",
+      "fetched_at": "2026-05-16T19:10:33.875Z",
+      "raw_id": "/nendoroid/details/n2161/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.842Z",
+      "raw_id": "Nendoroid/2100-2199/2161.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1072",
+  "name": {
+    "en": "Nendoroid Chito",
+    "ja": "ねんどろいど チト (ねんどろいど ちと)",
+    "ko": "치토"
+  },
+  "series": {
+    "en": "Girls' Last Tour",
+    "ja": "少女終末旅行",
+    "ko": "소녀종말여행",
+    "code": "girls-last-tour"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5398,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7992,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MFn1WYn_xzY/X4Nf2o_rvdI/AAAAAAABmV4/QbyAl6JWdjwDv6BnRsHfAa86MRJ5SfcDACLcBGAsYHQ/s270/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MFn1WYn_xzY/X4Nf2o_rvdI/AAAAAAABmV4/QbyAl6JWdjwDv6BnRsHfAa86MRJ5SfcDACLcBGAsYHQ/s270/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vO_MiXn_pbk/X4rs2KoackI/AAAAAAABosw/U9t3SDe_wW4z6HcLO50JaX5sDLkoL2UVACLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W8ZW-91SxS4/X4rs2cY75FI/AAAAAAABos0/VzhpMmUtTcgb6SX0pzkpJ4fUyLcmkxKOQCLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_0d52UyN4I4/X4rs24MKnUI/AAAAAAABos4/452qvwCYYqAmcIvZ3kx2kUX5LXMSvqRcgCLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BGI1inLZSbE/X4rs3NOFguI/AAAAAAABos8/q_NZw8K7zY0jF56Rk1_It5Q00cHjEKJjACLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-loQMYO3nf50/X4rs3QHJjjI/AAAAAAABotA/oiauQC_dcTABKXWxAy1gvXWPzphgO2GrgCLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9Tw9cvqKJrY/X4rs3rz9DDI/AAAAAAABotE/lOEUE2WqsRQq0QGUm3dkI5zorBZ8VJ1dwCLcBGAsYHQ/s135/1072-Chito-Girls-Last-Tour-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1072/",
+      "fetched_at": "2026-05-16T19:10:33.199Z",
+      "raw_id": "/nendoroid/details/n1072/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.578Z",
+      "raw_id": "Nendoroid/1000-1099/1072.json"
+    }
+  ]
+}

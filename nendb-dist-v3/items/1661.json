@@ -1,0 +1,69 @@
+{
+  "num": "1661",
+  "name": {
+    "en": "Nendoroid Eivor",
+    "ja": "ねんどろいど エイヴォル (ねんどろいど えいゔぉる)",
+    "ko": "에이보르"
+  },
+  "series": {
+    "en": "Assassin’s Creed® Valhalla",
+    "ja": "アサシン クリード ヴァルハラ",
+    "ko": "어쌔신 크리드 : 발할라",
+    "code": "assassin-s-creed-valhalla"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11472,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0cjvxAzYb7Y/YS6JqwWEk4I/AAAAAAAAz8k/-lG3xpS-P1Mcpx4Z6fr2ScWsCXcv_ps9QCLcBGAsYHQ/s270/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0cjvxAzYb7Y/YS6JqwWEk4I/AAAAAAAAz8k/-lG3xpS-P1Mcpx4Z6fr2ScWsCXcv_ps9QCLcBGAsYHQ/s270/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mdNNz6R-B2M/YS6MR06_WiI/AAAAAAAA0Cc/vxL1MkCBKjAaXXDCpwkPWEZmI7Rnr1wBgCLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j3ujvdugQ1o/YS6MSHFWLJI/AAAAAAAA0Cg/yanLd0vxx9Eu7lqb6CvRv2qRgbsQ8oxbQCLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oK870PPQTxk/YS6MSIPSZkI/AAAAAAAA0Ck/NVuUpmd_W5sGe7tiqFaRIcNNjc4P451LgCLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-A9siuXI6uh0/YS6MSWjCYvI/AAAAAAAA0Co/X2J9Qun41lo4ciQbz-j1Msi3juVwLjlxQCLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MA_9Iq-LhbE/YS6MSc-FZqI/AAAAAAAA0Cs/dP4d5TBBHCowvZwAJ5517vp1-RdAJte9ACLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wBXwNaNYo8M/YS6MSn7afII/AAAAAAAA0Cw/LJ0LUyc4Hv0G5Hsnkqv2FPJiTXowfx8sgCLcBGAsYHQ/s135/1661-Eivor-Assassin%25E2%2580%2599s-Creed-Valhalla-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1661/",
+      "fetched_at": "2026-05-16T19:10:33.566Z",
+      "raw_id": "/nendoroid/details/n1661/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.720Z",
+      "raw_id": "Nendoroid/1600-1699/1661.json"
+    }
+  ]
+}

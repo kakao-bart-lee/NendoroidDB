@@ -1,0 +1,65 @@
+{
+  "num": "0544b",
+  "name": {
+    "en": "Kirby",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": null,
+    "ko": null,
+    "code": "kirby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBjkLsnBkoMQzn-21Zzf1-imEi5foCUE6uvJQgz9a7iOXdlop4WYoF3g3wjV58Iw8ItydRf3wplq9VkGjcSCqu-xWvlzAhdtcXxMd2fG8xKIsZBP1oPo1s3vWgrDo5D1TPqMbXW-raaDFfhRDn8uAkbO7AnbjKO4b0lUvfB_jtSUtR4g2L8UafiG_9kV3/s270/544B-Kirby-Kirby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBjkLsnBkoMQzn-21Zzf1-imEi5foCUE6uvJQgz9a7iOXdlop4WYoF3g3wjV58Iw8ItydRf3wplq9VkGjcSCqu-xWvlzAhdtcXxMd2fG8xKIsZBP1oPo1s3vWgrDo5D1TPqMbXW-raaDFfhRDn8uAkbO7AnbjKO4b0lUvfB_jtSUtR4g2L8UafiG_9kV3/s270/544B-Kirby-Kirby-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeilk5IjLD735ruSdRWEM2WNGnywb-rR8UtNj2Vh-V9bUi3QexR-2NOx_XAw-l3bMgiwTghh9NF7GWlMGBhMsGNQ2DXG9AHVy2ZLBV5LN4xZceknfusV_IoWM1WRjgWoCmHWpm55j7tjwSrGfX0nUyUHTv3NCCk3Fmg88yZPbYD57jS8dCZUNg0_kWc48I/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB7UvgbHe9dTjzBXmrpsaOTEXME9A-B45iNiHnMviTBNv_VeF30FqhkL6i_Y2IDGQpq5tP7hzvtgh0VSvo2BLfD-M70fShdvx_oe316kEHjpS3isWnFrEYZYGpdguo-V1eGIAsF7sp2Fw0r0yNnQ5m-YpcM8ezcFwC4kzeKvmg4xvn3GI283I6A1B-afXq/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUy0b3ZQJoTBuMc7ddclGKHSTGIRkLBNdkup1SbrH8BeRHLKHOowsZ4hDTGy3baejEwapNRhDFosonCHw_IqULsX0xvCOxrf6OQ9SG9AR-5qt04T3NFK8vwJmaKzQmWNFSkGMD_p7ZJy_qZe0HpCnzc-EOX4EyO7x3wBbQ6wK0aSuodZKUtFev1hR6jrzE/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4B428f86SMqnvoPSayOMiJheyuCWvz-uXQs3V7MOejzPSrE61fdVHOz7OpzSBgPIe0_Wg2w9LnOr-Lw3_VFbDCgzKjoSl36v1YihT4BmCfqVCSz9YhI4h01E2zx8KrCqveFKh_FKX2MbJBVsMDs19zwOeMbW_SIC0j2JxUnvQvy95kCsM6tsrWcKBL4nd/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SduyyIl_NZoXjUlDIUojCFmlAu-fgvtTsAGFJSQKSNwRCL7YKTYCLIWtmquZ0FucXaKFmuPBxX4JpnE4H1v_NuU4yph0JWIp7WGFhoB28hvx5DcpZspkS_QGxl-6IAIH4Yjaop7ZZj3MedUhyphenhyphenLTKCqNbYZWynau7gwoQabnlt9VLn97ZPL0EOwyDpfCO/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvzkqfQcP939iPkRoCzKCY5jeBgJg2leIfqvYXLyLvCSmLnzy7LdDkY_uXp24EFujXoWWFCDX3Cp60vOoCpW91beu8y_aP973AwSoPBfjiTmlAqxB5GLQpWKALiwM7ATV5QimIGOKYic5oD18j_SIEyZeFu19rFgNnraAoeoyfRFEqSusiZXtrMXAEq1C8/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCysGaa1OEe4_EBV5Yk1vYpObXpnr8tTpniHVy0xbxFPh8-WpUqV7WP0CaOWPWnyX5xvUme-fo-hC0FJWJ6i63JHE_MMlNjPStsjCD9awvCGlsNKDOHL2gnZHlMFzMu-cjxq_tT-IR9AdPt_MLZpMM-0ch_11q8WjgEmt2Y9aFeUN4MVnf-cIVU4w9qM8C/s135/544B-Kirby-Kirby-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n544b/",
+      "fetched_at": "2026-05-16T19:10:34.590Z",
+      "raw_id": "/nendoroid/details/n544b/"
+    }
+  ]
+}

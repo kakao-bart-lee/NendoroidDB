@@ -1,0 +1,55 @@
+{
+  "num": "12037",
+  "name": {
+    "en": "Nendoroid Doll Sebastian Michaelis",
+    "ja": "ねんどろいどどーる セバスチャン・ミカエリス (ねんどろいどどーる せばすちゃん・みかえりす)",
+    "ko": "세바스찬 미카엘리스"
+  },
+  "series": {
+    "en": "Black Butler: Book of the Atlantic",
+    "ja": "黒執事 Book of the Atlantic",
+    "ko": "흑집사",
+    "code": "black-butler-book-of-the-atlantic"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12037,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211122/12037/92400/large/0f614fd07bded3d6f94d66667f028d78.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.957Z",
+      "raw_id": "NendoroidDoll/Doll/12037.json"
+    }
+  ]
+}

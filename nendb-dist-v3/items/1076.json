@@ -1,0 +1,68 @@
+{
+  "num": "1076",
+  "name": {
+    "en": "Nendoroid Professor Layton",
+    "ja": "ねんどろいど レイトン教授 (ねんどろいど れいとんきょうじゅ)",
+    "ko": "레이튼 교수"
+  },
+  "series": {
+    "en": "Layton Mystery Detective Agency: Kat's Mystery Solving Files",
+    "ja": "レイトン ミステリー探偵社 ～カトリーのナゾトキファイル～",
+    "ko": "레이튼 시리즈",
+    "code": "layton-mystery-detective-agency-kat-s-mystery-solving-files"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mc_N0bV32YE/X4Nf3gj1PSI/AAAAAAABmWM/lh0LZ1zky7kKD3gpU_GMqQdCMU5gK-vpACLcBGAsYHQ/s270/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mc_N0bV32YE/X4Nf3gj1PSI/AAAAAAABmWM/lh0LZ1zky7kKD3gpU_GMqQdCMU5gK-vpACLcBGAsYHQ/s270/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eesseylI2cA/X4rs_In2mkI/AAAAAAABouo/EVX23M86s8YieApm4g2RyWBclMpuW36lACLcBGAsYHQ/s135/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Krv2MwHCCRs/X4rs_RprgoI/AAAAAAABous/bvjKxU58TKQbUOrihqWzbXr_775-BMfeACLcBGAsYHQ/s135/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JUi91gJ2358/X4rs_unaQEI/AAAAAAABouw/YNFRo1kgVMcOyFgnEnRI1VfUf9N_xP66wCLcBGAsYHQ/s135/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cpyTegREL5A/X4rs_7pn21I/AAAAAAABou4/w3Dng7S8nbcLOAQYU3qr-6dbzlHdDhT7wCLcBGAsYHQ/s135/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tgb-tdGMWD8/X4rtAGDNVtI/AAAAAAABou0/Kdnb4nKhUgwsVhL2bk_d7yKgrozoygf3ACLcBGAsYHQ/s135/1076-Professor-Layton-Layton-Mystery-Detective-Agency-Kats-Mystery-Solving-Files-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1076/",
+      "fetched_at": "2026-05-16T19:10:33.203Z",
+      "raw_id": "/nendoroid/details/n1076/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.579Z",
+      "raw_id": "Nendoroid/1000-1099/1076.json"
+    }
+  ]
+}

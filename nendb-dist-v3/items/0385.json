@@ -1,0 +1,69 @@
+{
+  "num": "0385",
+  "name": {
+    "en": "Nendoroid Aigis: P3 Edition (ねんどろいど あいぎす P3・えでぃしょん)",
+    "ja": "ねんどろいど アイギス P3・エディション (ねんどろいど あいぎす P3・えでぃしょん)",
+    "ko": "아이기스 P3 에디션"
+  },
+  "series": {
+    "en": "Persona 3",
+    "ja": "ペルソナ3",
+    "ko": "페르소나3",
+    "code": "persona-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4132,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tkfebFLcGfQ/X4NNEObtGpI/AAAAAAABlk4/d602ol12F6ESo7DIZse3sWBSDKRZ2D-LACLcBGAsYHQ/s270/385-Aigis-P3-Edition-Persona-3-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tkfebFLcGfQ/X4NNEObtGpI/AAAAAAABlk4/d602ol12F6ESo7DIZse3sWBSDKRZ2D-LACLcBGAsYHQ/s270/385-Aigis-P3-Edition-Persona-3-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SkKgv7LMFPU/X4dbgAKXw4I/AAAAAAAArPM/EUc73z9G4PQqJ5C1xJeTNbDez-n3V5VPgCLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IwBbs5YEiyY/X4dbgsuXSdI/AAAAAAAArPQ/qdFXbNosmJYv5Os_zJh1vr7Ue5bW_yc3ACLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EW2sm_bQ1JQ/X4dbg7lT1hI/AAAAAAAArPU/OwbiymPpdwwoA9Q-mhIdr8pFAxcbF35vgCLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AJ8XInbXams/X4dbg2FJJlI/AAAAAAAArPY/BPES1-El_csloJVSK69dOi1gRh1l2bSkACLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yjyCP_p5pLs/X4dbhBY71FI/AAAAAAAArPc/EX5uEHRO4OsXxnEqICxaSjqpchSbZn_5gCLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UPCPqHRVnCE/X4dbhfv2Y7I/AAAAAAAArPg/GdkozZBQt6MnSzacnS32ZuxdSp68WEXiACLcBGAsYHQ/s135/385-Aigis-Persona-Persona-3-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n385/",
+      "fetched_at": "2026-05-16T19:10:34.498Z",
+      "raw_id": "/nendoroid/details/n385/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.367Z",
+      "raw_id": "Nendoroid/0300-0399/385.json"
+    }
+  ]
+}

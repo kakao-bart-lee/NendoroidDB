@@ -1,0 +1,68 @@
+{
+  "num": "0987",
+  "name": {
+    "en": "Nendoroid Ichigo",
+    "ja": "ねんどろいど イチゴ (ねんどろいど いちご)",
+    "ko": "이치고"
+  },
+  "series": {
+    "en": "DARLING in the FRANXX",
+    "ja": "ダーリン・イン・ザ・フランキス",
+    "ko": "달링 인 더 프랑키스",
+    "code": "darling-in-the-franxx"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7558,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JIepNOaX-So/X4Ne3856c2I/AAAAAAABmPU/NomtRZbIQ6s7Ec3l2YBD-uD4Y0Wku6LBQCLcBGAsYHQ/s270/987-Ichigo-Darling-in-the-FranXX-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JIepNOaX-So/X4Ne3856c2I/AAAAAAABmPU/NomtRZbIQ6s7Ec3l2YBD-uD4Y0Wku6LBQCLcBGAsYHQ/s270/987-Ichigo-Darling-in-the-FranXX-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-clQdBwwPmeU/X4rpjBsmW0I/AAAAAAABoI4/0YpPxLYrbdci7Y4_3lsoAgDIKin2Y72-ACLcBGAsYHQ/s135/987-Ichigo-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VnOjuGroedI/X4rpjQot3nI/AAAAAAABoI8/6Aw-gkJWTcY_Dpe1bGgjPAr0P3BN82pjQCLcBGAsYHQ/s135/987-Ichigo-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3ceSDEStfDE/X4rpjj6xCLI/AAAAAAABoJA/VuZgHhPUq8oyx0ymBKTS7YWwAqkwABNIACLcBGAsYHQ/s135/987-Ichigo-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-own1uJmcmkI/X4rpj_NMY3I/AAAAAAABoJE/1Qu2Gua4o1AXMVmV7R2U3CXo7M-uAFbVgCLcBGAsYHQ/s135/987-Ichigo-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AKXEoKizL_E/X4rpkUPBwKI/AAAAAAABoJI/nAurRg0qF68STrK3h_WM3ZC5_wPrhyDAgCLcBGAsYHQ/s135/987-Ichigo-DARLING-in-the-FRANXX-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n987/",
+      "fetched_at": "2026-05-16T19:10:34.911Z",
+      "raw_id": "/nendoroid/details/n987/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.557Z",
+      "raw_id": "Nendoroid/0900-0999/987.json"
+    }
+  ]
+}

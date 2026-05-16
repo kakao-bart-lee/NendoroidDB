@@ -1,0 +1,69 @@
+{
+  "num": "1954",
+  "name": {
+    "en": "Nendoroid Valentine",
+    "ja": "ねんどろいど ヴァレンタイン (ねんどろいど ゔぁれんたいん)",
+    "ko": "밸런타인"
+  },
+  "series": {
+    "en": "Skullgirls",
+    "ja": "スカルガールズ",
+    "ko": "스컬걸즈",
+    "code": "skullgirls"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13255,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yPooxxAfY8g/Y02wBUHQkhI/AAAAAAAA6_c/_HdL79K3Yn4fL8ctpVwsQN9WFT8xcUIXgCNcBGAsYHQ/s270/1954-Valentine-Skullgirls-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yPooxxAfY8g/Y02wBUHQkhI/AAAAAAAA6_c/_HdL79K3Yn4fL8ctpVwsQN9WFT8xcUIXgCNcBGAsYHQ/s270/1954-Valentine-Skullgirls-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Tp7yZwWgoM8/Y027mEQ-yhI/AAAAAAAA7Sg/tU6Hs9L6IIwth7-6aMN3kYey-N7C7lwYgCNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Yt2jjhjzvjw/Y027mhBBMHI/AAAAAAAA7Sk/Sz_9bMYAUJgEQVje-oRzxumkWk9xQVAYQCNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xnK71_bOMJM/Y027nKfupXI/AAAAAAAA7So/fTE8UwyCHjUeD6Dw5e8sl3uDribghlKSQCNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eRPcEXeJFVs/Y027nuiF4JI/AAAAAAAA7Ss/WH3SZaVxR68345YB2SikxvSUx66fIzERgCNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MZPMlaZMPB0/Y027oFHMcLI/AAAAAAAA7Sw/Q5NqM2FIR2sUs_V2Xw48_lnEl0VwnmhRACNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nogy-rAvHWA/Y027ojD0tsI/AAAAAAAA7S0/UZrA9OWNNio3IGZIgCkfqyznl2JuXLlYgCNcBGAsYHQ/s135/1954-Valentine-Skullgirls-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1954/",
+      "fetched_at": "2026-05-16T19:10:33.750Z",
+      "raw_id": "/nendoroid/details/n1954/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.790Z",
+      "raw_id": "Nendoroid/1900-1999/1954.json"
+    }
+  ]
+}

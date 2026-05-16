@@ -1,0 +1,68 @@
+{
+  "num": "1766",
+  "name": {
+    "en": "Nendoroid Yuta Okkotsu: Jujutsu Kaisen 0 Ver.",
+    "ja": "ねんどろいど 乙骨憂太 劇場版 呪術廻戦 0Ver. (ねんどろいど おっこつゆうた げきじょうばん じゅじゅつかいせん 0Ver.)",
+    "ko": "옷코츠 유타 극장판 주술회전 0 Ver."
+  },
+  "series": {
+    "en": "Jujutsu Kaisen 0",
+    "ja": "劇場版 呪術廻戦 0",
+    "ko": "\r\n극장판 주술회전 0",
+    "code": "jujutsu-kaisen-0"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12044,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CGQWSSO2cEQ/Ya-zOCH3VII/AAAAAAAA2EU/75XW8nLfKpM9KZwRRpWMILPVNE6n1asZwCNcBGAsYHQ/s270/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CGQWSSO2cEQ/Ya-zOCH3VII/AAAAAAAA2EU/75XW8nLfKpM9KZwRRpWMILPVNE6n1asZwCNcBGAsYHQ/s270/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z9EpaqMLn1g/Ya-2bHAnJ7I/AAAAAAAA2OE/2_otMqkg2CILJPPTz216a6DVrPxZ8afBwCNcBGAsYHQ/s135/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ewmaGEN4AIA/Ya-2bv2b4CI/AAAAAAAA2OI/s1zr7n1VjMw_f_TiTEHk-ZS1ih2gfKbvQCNcBGAsYHQ/s135/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Gn6Ju4eofOg/Ya-2cMyvt4I/AAAAAAAA2OM/XjuUiolQPKo3wJl9LXxERPzWFkxlPctjwCNcBGAsYHQ/s135/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fMWoRWgDNG4/Ya-2cr-xu2I/AAAAAAAA2OQ/WqbDx6YjKlsTJyzJzHyih0eiMkKHm1QDgCNcBGAsYHQ/s135/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XsP-pu3JqCc/Ya-2dGV4G_I/AAAAAAAA2OU/ry02wIAzB_IblN5AVEvqt1Swv1RmXFpggCNcBGAsYHQ/s135/1766-Yuta-Okkotsu-Jujutsu-Kaisen-0-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1766/",
+      "fetched_at": "2026-05-16T19:10:33.634Z",
+      "raw_id": "/nendoroid/details/n1766/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.746Z",
+      "raw_id": "Nendoroid/1700-1799/1766.json"
+    }
+  ]
+}

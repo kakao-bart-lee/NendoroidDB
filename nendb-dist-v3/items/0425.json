@@ -1,0 +1,69 @@
+{
+  "num": "0425",
+  "name": {
+    "en": "Nendoroid Red (ねんどろいど れっど)",
+    "ja": "ねんどろいど レッド (ねんどろいど れっど)",
+    "ko": "레드"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4950,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4413,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ci-3YlkrnE4/X4NNtXL3pWI/AAAAAAABloE/1XlcyXmfgxsBFVFEpTOwyxXQia_vI_MSgCLcBGAsYHQ/s270/425-Red-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ci-3YlkrnE4/X4NNtXL3pWI/AAAAAAABloE/1XlcyXmfgxsBFVFEpTOwyxXQia_vI_MSgCLcBGAsYHQ/s270/425-Red-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rExCu0QiA38/X4ddun8aCMI/AAAAAAAAreQ/GSzDUbCkQWcJXndJFXdeYDRyAnMQ_lznwCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rl4BAe_qM5I/X4ddvGAbdoI/AAAAAAAAreU/LwYciEDEVJgy_LsnjI9l1cDE0najDhz7wCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RQNnVJWKuPY/X4ddvucDeJI/AAAAAAAAreY/LxVqL45vcYI-I2glmqS9vIjvmMHxzjCHgCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NY1pDLob8-Q/X4ddvwi9CFI/AAAAAAAArec/qe-e5ITMBjYu6ioDVmhN4C07dStQiY7NwCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RRhP7XdoGsA/X4ddv6N_0gI/AAAAAAAAreg/vWt-1bVT-8gPRS1crhNXS94XwZHQXgdBwCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-dKin3dItKZ8/X4ddv-3wPjI/AAAAAAAArek/cmZhKi33Xic8Q2i3r3rwc5isyLsSDJ0agCLcBGAsYHQ/s135/425-Red-Pokemon-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n425/",
+      "fetched_at": "2026-05-16T19:10:34.521Z",
+      "raw_id": "/nendoroid/details/n425/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.376Z",
+      "raw_id": "Nendoroid/0400-0499/425.json"
+    }
+  ]
+}

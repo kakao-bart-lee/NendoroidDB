@@ -1,0 +1,68 @@
+{
+  "num": "0876",
+  "name": {
+    "en": "Nendoroid Kazuma",
+    "ja": "ねんどろいど カズマ (ねんどろいど かずま)",
+    "ko": "카즈마"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jKDuCbg8SEw/X4Nd-yKdvzI/AAAAAAABmHc/Tagk1PjfFYgXnCw3twTKh42nrtJ_vcfqACLcBGAsYHQ/s270/876-Kazuma-Subarashii-Sekai-Ni-Syukufuku-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jKDuCbg8SEw/X4Nd-yKdvzI/AAAAAAABmHc/Tagk1PjfFYgXnCw3twTKh42nrtJ_vcfqACLcBGAsYHQ/s270/876-Kazuma-Subarashii-Sekai-Ni-Syukufuku-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1x-MUETChKE/X4rj2OhYzzI/AAAAAAABnb8/CkyR67Mrxy8kpmQM0qNJZhzETNukx_dLQCLcBGAsYHQ/s135/876-Kazuma-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XuMwzENJHF8/X4rj2FEaUZI/AAAAAAABncA/JZfuuKxc_bYyhVeI6LLsqqy8Mut3PdjegCLcBGAsYHQ/s135/876-Kazuma-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HHj20_6VqJ0/X4rj2VOlzII/AAAAAAABncE/_fUzqS0nvnIrcvEkECxXPmEALX5MLtRogCLcBGAsYHQ/s135/876-Kazuma-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AlEf7HVd_14/X4rj2kfQFnI/AAAAAAABncI/j4oZylBS4y85QPv8oFk9YX_6x6HZwlsGgCLcBGAsYHQ/s135/876-Kazuma-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4lT9s2MpJfA/X4rj2wrz6AI/AAAAAAABncM/d0jnAlvtoREJmf-7W58OrJ7K1A1Pm5rsQCLcBGAsYHQ/s135/876-Kazuma-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n876/",
+      "fetched_at": "2026-05-16T19:10:34.848Z",
+      "raw_id": "/nendoroid/details/n876/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.528Z",
+      "raw_id": "Nendoroid/0800-0899/876.json"
+    }
+  ]
+}

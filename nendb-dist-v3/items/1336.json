@@ -1,0 +1,68 @@
+{
+  "num": "1336",
+  "name": {
+    "en": "Nendoroid Draco Malfoy: Quidditch Ver.",
+    "ja": "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
+    "ko": "드레이코 말포이 퀴디치 Ver."
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9463,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RJopSus1S3M/X4NjtCUmMrI/AAAAAAABm1I/aNLXd1GTKLs1mrp4zfVWQzfdeAFfPbCkgCLcBGAsYHQ/s270/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RJopSus1S3M/X4NjtCUmMrI/AAAAAAABm1I/aNLXd1GTKLs1mrp4zfVWQzfdeAFfPbCkgCLcBGAsYHQ/s270/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qveoweCVvdM/X4s9ODsMcbI/AAAAAAABqcg/-rEmo1Vdols6b-mYX8m-ULtgtGJbVwibgCLcBGAsYHQ/s135/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J-_Yxw_vjW4/X4s9OaGpPrI/AAAAAAABqck/s64UuywwD6chdduNkiP52KEVaO1FiiEHwCLcBGAsYHQ/s135/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-os7QyWJmAMU/X4s9OpHyNeI/AAAAAAABqco/YQE5OdeIVJYqLbzZEEXwrvtmuoH9RGFkQCLcBGAsYHQ/s135/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NAOTx6cUHcM/X4s9O0bKr_I/AAAAAAABqcs/0jdBD0UJNNEUSY8PAGoYxclIQ8CPpGKoACLcBGAsYHQ/s135/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LUOQFQtBLUo/X4s9PDaUm1I/AAAAAAABqcw/BBXMizOlKmw-luO5hRE2UBGNe81kjgxjwCLcBGAsYHQ/s135/1336-Draco-Malfoy-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1336/",
+      "fetched_at": "2026-05-16T19:10:33.366Z",
+      "raw_id": "/nendoroid/details/n1336/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.641Z",
+      "raw_id": "Nendoroid/1300-1399/1336.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0717",
+  "name": {
+    "en": "Nendoroid Sayosamonji",
+    "ja": "ねんどろいど 小夜左文字 (ねんどろいど さよさもんじ)",
+    "ko": "사요 사몬지"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6154,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-K7qNbPX6lSc/X4Nc111CRQI/AAAAAAABl8Y/_j5BAuShhpIsh1Fqb2EyrVwco9KR4HerwCLcBGAsYHQ/s270/717-Sayo-Samonji-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-K7qNbPX6lSc/X4Nc111CRQI/AAAAAAABl8Y/_j5BAuShhpIsh1Fqb2EyrVwco9KR4HerwCLcBGAsYHQ/s270/717-Sayo-Samonji-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-H-7gItcTOzM/X4i3rFCsSeI/AAAAAAAAtMQ/TWZrGex7mn4B9IZ7HU8Rz31nvd168nWJgCLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yBwsfmqwj9I/X4i3rrHek-I/AAAAAAAAtMU/Ga5VWfsQvE88AfUMLVeZvPqqpQ2ClYhfwCLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7a9pzhlZCjM/X4i3sa9vo7I/AAAAAAAAtMY/YBE-JdW5Q0kmqieP-Ysx99xMouzcDVTWgCLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OY5V3JXiUkU/X4i3sss4iFI/AAAAAAAAtMc/H7aDRl39HG4p3SIdqTuyNIDYlm-8TZfSACLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_UdC6n6C-cw/X4i3tZ2EmoI/AAAAAAAAtMg/0y9jcbfGq_UzNlR6uuRbwVgeg7Nii4kawCLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3xbHAO6Pj0w/X4i3t3b7XbI/AAAAAAAAtMk/u27eJc7Pq2EwQB_1MHVBmcgBjd5PVArgACLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ejZlplkNgqY/X4i3uDBh00I/AAAAAAAAtMo/_dnicZKpOogJJbEl15WzmzWicPG5wPFWwCLcBGAsYHQ/s135/717-Sayo-Samonji-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n717/",
+      "fetched_at": "2026-05-16T19:10:34.759Z",
+      "raw_id": "/nendoroid/details/n717/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.491Z",
+      "raw_id": "Nendoroid/0700-0799/717.json"
+    }
+  ]
+}

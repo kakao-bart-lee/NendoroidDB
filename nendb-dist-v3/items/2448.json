@@ -1,0 +1,67 @@
+{
+  "num": "2448",
+  "name": {
+    "en": "Kafka Hibino",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Kaiju No. 8",
+    "ja": null,
+    "ko": null,
+    "code": "kaiju-no-8"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SzmOXvETQQ4/Ziq_A9KO2VI/AAAAAAABECE/b5Zk3SGO4WI2bFWe6H7CAHmqNL1XY62CACNcBGAsYHQ/s270/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SzmOXvETQQ4/Ziq_A9KO2VI/AAAAAAABECE/b5Zk3SGO4WI2bFWe6H7CAHmqNL1XY62CACNcBGAsYHQ/s270/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-D2MT8fFPQkc/Zow3aOvUd_I/AAAAAAABFqA/TthVz4DoX5Yg5HpDbZCtI7qJI4fBFB1zQCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-idz3sAVyskk/Zow3atr8fmI/AAAAAAABFqE/zpDNofQPJa08kadP_NskVbe4IF1KFKSWwCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8WjjMyPXziA/Zow3bJxOA4I/AAAAAAABFqI/4mm9H-nCrHgiqKGArPqdjbmi8EvHvVMowCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wnL_-9t1ewk/Zow3bt52y_I/AAAAAAABFqM/s3mblenGszkP0T4lZ6QOfbkjSVsfMdJ7ACNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ph3YismQ81Q/Zow3cPGS-qI/AAAAAAABFqQ/hrqIAb8s8mM1_sdb1MTmNANe_6VwbRWRgCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wdr6Aonys5k/Zow3csHEDRI/AAAAAAABFqU/N2yo7Ex0xNcGa6qzo7CH_VcBr62riAyvQCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-FH_QO-PZdWQ/Zow3dFxs_uI/AAAAAAABFqY/_diw8fzwKscLFbq_W4J_x8CnmQvkA5xdwCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-1iwnrsQ6Ycc/Zow3ZJmhBCI/AAAAAAABFp4/sp1kdSDRImMJrNragp8YaRJ3kCtuKaPNgCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-Uff3V4-bfzU/Zow3ZobJZwI/AAAAAAABFp8/f26J1LA3VHIQjzbr2UsQ_kO5XNhztymQgCNcBGAsYHQ/s135/2448-Kafka-Hibino-Kaiju-No.-8-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2448/",
+      "fetched_at": "2026-05-16T19:10:34.065Z",
+      "raw_id": "/nendoroid/details/n2448/"
+    }
+  ]
+}

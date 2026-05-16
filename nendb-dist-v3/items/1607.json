@@ -1,0 +1,68 @@
+{
+  "num": "1607",
+  "name": {
+    "en": "Nendoroid P4G Hero",
+    "ja": "ねんどろいど P4G主人公 (ねんどろいど ぺるそなふぉー ざ ごーるでん しゅじんこう)",
+    "ko": "주인공"
+  },
+  "series": {
+    "en": "PERSONA４ GOLDEN",
+    "ja": "ペルソナ４ ザ・ゴールデン",
+    "ko": "페르소나4",
+    "code": "persona4-golden"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11087,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gB4Qh3id_sM/YJK30TRQngI/AAAAAAAAxuM/XphrBRC7asgxuBJQr33_9OKVd8dPCrscwCLcBGAsYHQ/s270/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gB4Qh3id_sM/YJK30TRQngI/AAAAAAAAxuM/XphrBRC7asgxuBJQr33_9OKVd8dPCrscwCLcBGAsYHQ/s270/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-K-XF-vflnWo/YJK7n5SwNaI/AAAAAAAAxwc/MYumU_Fgf3gob3VV7HqfPnOM8LRd8l4YACLcBGAsYHQ/s135/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tMJptdTX6p0/YJK7oBUFRiI/AAAAAAAAxwg/RnNASuauw0snGv8TdGgsg3wshniA37JdACLcBGAsYHQ/s135/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-f8T3aq6u44g/YJK7oRWgJZI/AAAAAAAAxwk/ibTytnxTIHoJFuXzImIWoRz4nOa3IDnfwCLcBGAsYHQ/s135/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2Mx7wUHLuf8/YJK7oQZ1RxI/AAAAAAAAxwo/CeHD8GKlaWAQcy8MgZEuKsng6y8LzXJrQCLcBGAsYHQ/s135/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EzlZsez1nPc/YJK7o89q-jI/AAAAAAAAxws/TFlKUc8uGDczizA7TMBxsQecZR4pgdBuACLcBGAsYHQ/s135/1607-P4G-Hero-Persona-4-Golden-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1607/",
+      "fetched_at": "2026-05-16T19:10:33.532Z",
+      "raw_id": "/nendoroid/details/n1607/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.706Z",
+      "raw_id": "Nendoroid/1600-1699/1607.json"
+    }
+  ]
+}

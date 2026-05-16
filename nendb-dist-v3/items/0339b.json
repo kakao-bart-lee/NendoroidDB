@@ -1,0 +1,65 @@
+{
+  "num": "0339b",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Swimsuit Ver. FamilyMart Color (ねんどろいど はつねみく みずぎVer. ふぁみりーまーとからー)",
+    "ja": "ねんどろいど 初音ミク 水着Ver. FamilyMartカラー (ねんどろいど はつねみく みずぎVer. ふぁみりーまーとからー)",
+    "ko": "하츠네 미쿠 수영복 Ver. 패밀리마트 컬러"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3987,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9BLVbqdl8KM/X4NMw7ScFaI/AAAAAAABlh8/2iJNHBv-mYgwUexYFfRk_nGJOyFsgnR8gCLcBGAsYHQ/s270/339B-Hatsune-Miku-Summer-Miku-FamilyMart-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9BLVbqdl8KM/X4NMw7ScFaI/AAAAAAABlh8/2iJNHBv-mYgwUexYFfRk_nGJOyFsgnR8gCLcBGAsYHQ/s270/339B-Hatsune-Miku-Summer-Miku-FamilyMart-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--Xu_ApAXQ_s/X4daor4nyMI/AAAAAAAArAI/2gPWI2NJUO4J0pfDtapSUPhFXIx7D1-SACLcBGAsYHQ/s135/339B-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iLjHQuMdhzI/X4daoggG9VI/AAAAAAAArAM/efMaNAZ58fEj1Odr1OpJT07mLvPa1p44QCLcBGAsYHQ/s135/339B-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n339b/",
+      "fetched_at": "2026-05-16T19:10:34.470Z",
+      "raw_id": "/nendoroid/details/n339b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.356Z",
+      "raw_id": "Nendoroid/0300-0399/339b.json"
+    }
+  ]
+}

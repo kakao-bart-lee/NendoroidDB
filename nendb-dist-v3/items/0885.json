@@ -1,0 +1,69 @@
+{
+  "num": "0885",
+  "name": {
+    "en": "Nendoroid Saber of \"Red\"",
+    "ja": "ねんどろいど “赤”のセイバー (ねんどろいど “あか”のせいばー)",
+    "ko": "적의 세이버"
+  },
+  "series": {
+    "en": "Fate/Apocrypha",
+    "ja": "Fate/Apocrypha",
+    "ko": "페이트 시리즈",
+    "code": "fate-apocrypha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Bwd0QSumkF4/X4NeB96zC_I/AAAAAAABmIA/yX1-EdhXcoQM7HlE_A4sE4TIDvx4Eyh0gCLcBGAsYHQ/s270/885-Saber-of-Red-Fate-Apocrypha-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Bwd0QSumkF4/X4NeB96zC_I/AAAAAAABmIA/yX1-EdhXcoQM7HlE_A4sE4TIDvx4Eyh0gCLcBGAsYHQ/s270/885-Saber-of-Red-Fate-Apocrypha-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-h1I1kA5ID4Y/X4rkCQWuo3I/AAAAAAABne8/bnK4Lx1CHjkZgzrT7bt5ofBYaPuYRaM6wCLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wH8DfZdfxyA/X4rkCc-lDjI/AAAAAAABnfA/nIsdagJbtHkBZae-hYQ62lpias37j6ZIACLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zP8_P9vOT4M/X4rkC9Zto6I/AAAAAAABnfI/Tm681cdcFBkOHQtxXWH5sqLYx0ClIffpQCLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NPiuulTWeXM/X4rkDAw36iI/AAAAAAABnfM/7tcbJGm0uTEOqzhA_v_QzLrK1if9S1q-gCLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iYQPHCVgqmQ/X4rkGfo4n3I/AAAAAAABnfQ/LHRJRDU0Ofg694WnpLBsA2UAORTZOsoHwCLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SNUGR7mPN9A/X4rkGuQryAI/AAAAAAABnfU/-qUrUT7gW4QIIlZHYrcJJKwRSUffRreOQCLcBGAsYHQ/s135/885-Saber-of-Red-Fate-Apocrypha-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n885/",
+      "fetched_at": "2026-05-16T19:10:34.854Z",
+      "raw_id": "/nendoroid/details/n885/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.530Z",
+      "raw_id": "Nendoroid/0800-0899/885.json"
+    }
+  ]
+}

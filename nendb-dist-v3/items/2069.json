@@ -1,0 +1,69 @@
+{
+  "num": "2069",
+  "name": {
+    "en": "Nendoroid Hitori Gotoh",
+    "ja": "ねんどろいど 後藤ひとり (ねんどろいど ごとうひとり)",
+    "ko": "고토 히토리"
+  },
+  "series": {
+    "en": "Bocchi the Rock!",
+    "ja": "ぼっち・ざ・ろっく！",
+    "ko": "봇치 더 록!",
+    "code": "bocchi-the-rock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rWKqtYLQKSw/ZA3eCq2S-0I/AAAAAAAA9Kk/Gp70P3HZN-4MIiAZGT-qi5OvG13P8sowACNcBGAsYHQ/s270/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rWKqtYLQKSw/ZA3eCq2S-0I/AAAAAAAA9Kk/Gp70P3HZN-4MIiAZGT-qi5OvG13P8sowACNcBGAsYHQ/s270/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U9S_zPz-Ut0/ZA3c92PZ9vI/AAAAAAAA9CQ/ejSKZ7gd6R4-R5v28pOpR7geVx2iDpVRwCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N8ZYWOyUiCg/ZA3c-Wiz6YI/AAAAAAAA9CU/AYO7V0YVsk0a6nKiWd85WlTMNEc1dfs0gCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UsUYLxKwpg4/ZA3c-y907QI/AAAAAAAA9CY/QeWf0VRFNv8EMwFTZWXNfeEgQfbpJ-QJgCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BH2CGZYI9Xs/ZA3c_IqtNpI/AAAAAAAA9Cg/J8RyHO_ypHcPO9eAwZIgZaFKRixHsdM-wCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-R41MeExZ98w/ZA3c_Ixb0KI/AAAAAAAA9Cc/4aiTH19wmYocRnGj5I6xU00kVs9LnyB8gCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1vRrAzncrXY/ZA3c_bp1eUI/AAAAAAAA9Ck/JSzj3XsmP2slpw53SsCmTSEAzBCjY_B7QCNcBGAsYHQ/s135/2069-Hitori-Gotoh-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2069/",
+      "fetched_at": "2026-05-16T19:10:33.821Z",
+      "raw_id": "/nendoroid/details/n2069/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.819Z",
+      "raw_id": "Nendoroid/2000-2099/2069.json"
+    }
+  ]
+}

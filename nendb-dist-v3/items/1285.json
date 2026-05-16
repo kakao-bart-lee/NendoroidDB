@@ -1,0 +1,70 @@
+{
+  "num": "1285",
+  "name": {
+    "en": "Nendoroid DRAGON QUEST® XI: Echoes of an Elusive Age™ The Luminary",
+    "ja": "ねんどろいど ドラゴンクエストXI　過ぎ去りし時を求めて　主人公 (ねんどろいど どらごんくえすとXI すぎさりしときをもとめて しゅじんこう)",
+    "ko": "주인공"
+  },
+  "series": {
+    "en": "DRAGON QUEST® XI: Echoes of an Elusive Age™",
+    "ja": "ドラゴンクエストXI　過ぎ去りし時を求めて",
+    "ko": "드래곤 퀘스트 11",
+    "code": "dragon-quest-xi-echoes-of-an-elusive-agetm"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9338,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-I6aACcAibkE/X4Nig1S6twI/AAAAAAABmsQ/j70AtRKtv0wVIj2sqj3bIeHC5HOEGP3CQCLcBGAsYHQ/s270/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-I6aACcAibkE/X4Nig1S6twI/AAAAAAABmsQ/j70AtRKtv0wVIj2sqj3bIeHC5HOEGP3CQCLcBGAsYHQ/s270/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UFMC9CgcfRM/X4r1Blct51I/AAAAAAABqF8/ldRHaM96DmUR2QkACwaL6vSvhNl9ak5bACLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aRb_7Td6vpw/X4r1BqpDi_I/AAAAAAABqGA/fyKzHF_WCtUXs7VG7LGJra1RAyONzt-CgCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iTyfonFk5aQ/X4r1B22Z9NI/AAAAAAABqGE/7jVyzZj3el4NhmpVtSyf77CwTkrMxJaJwCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EDX3AiL98zs/X4r1CiDLCtI/AAAAAAABqGI/pV_BnVMk7nY4TAJ5KyOHkOlEiRH4z-cZgCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ub4PsPPKxuo/X4r1ClU0R9I/AAAAAAABqGM/Avm-ZrOFlyoD6X1GvdRkS89Hn5wcJax_wCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2_Ou7X-WehU/X4r1C3CPMYI/AAAAAAABqGQ/YDMkJ-HCi7osuHzuTdEVK86aNbDKLbg6wCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-jfe8iYLk8OI/X4r1DXfIqnI/AAAAAAABqGU/K7ipdxvbvwgdQJasBaJI3nux-BBU2hujgCLcBGAsYHQ/s135/1285-The-Luminary-Dragon-Quest-Dragon-Quest-XI-Echoes-of-an-Elusive-Age-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1285/",
+      "fetched_at": "2026-05-16T19:10:33.334Z",
+      "raw_id": "/nendoroid/details/n1285/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.629Z",
+      "raw_id": "Nendoroid/1200-1299/1285.json"
+    }
+  ]
+}

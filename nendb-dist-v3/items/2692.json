@@ -1,0 +1,64 @@
+{
+  "num": "2692",
+  "name": {
+    "en": "Młynar",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": null,
+    "ko": null,
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig7PgpD-6j-zd8vh7AE_8d0xFUJaoqOOUfa5uJesxesImrG25Wx2RycT-ieymRRYrqmnhI2yHT2WtH3EIgH1XP86eehv_J8RnRCdH_7v10vvWThTQF_MwhuqR0woTeE58Ta4ruJMa4HR2zSAEGI42SOF52woV7xfQ_1YTRJGk62DyuamC60ozUplbIpaYh/s270/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig7PgpD-6j-zd8vh7AE_8d0xFUJaoqOOUfa5uJesxesImrG25Wx2RycT-ieymRRYrqmnhI2yHT2WtH3EIgH1XP86eehv_J8RnRCdH_7v10vvWThTQF_MwhuqR0woTeE58Ta4ruJMa4HR2zSAEGI42SOF52woV7xfQ_1YTRJGk62DyuamC60ozUplbIpaYh/s270/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwXBsVM3G4Hu6D_kNZVwo60Do8li8HXyeuvEmO_aSN2DAIpxHNXB0L-3jcVYleL2DwH4IRiL-Xnm9wQQOoehkgYjerZ_aI89FkmoSKE_6T4q0wscWmpqvW26vWPaVGEaZ9TgvlFLkVT06eWG7JIMos4r1Qjv-Qy33bjGjBh3beyzfoilpfcDZldy828A0/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV99l2OlEjzd5WQUA8NNpLGbjCQV0POgOfzxeCWCwSboZ46y4iwxxo2nbQIbHHgY1IMmRqQ8PK6-4P7dmQT3uFu2KWqoKmPFQLoSMNSM-2TFaK8c1NaN6Yk0buxu9FSL_Ng95wGN8R2iEAVCn37MIvpA8TgQcU0MOPPgVmUMOtwfziINsqt4_lSexaraQ5/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_IhtJxrOMCy1m4kVdbRk1EV7pnDeSzlFtGWSrhQHw8pDmIF1nY3MHRRnjKNb5y0ar9PEtyTLoVbsW1wNQGU3nSkO13_odohC37HosptPLe3YF5iJbEVF9TmS1rN6GUGebMW9ZoNurQp0pOhYCEKeSwiTMwMY1pZ18q8fMy16lrEqZHTttnC145frqh8k/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEhYNNHWKQk8q8XtiR2CSweeZgqgI22WflrhR76yO8dfmfkkruc5ZUrwov5Jl6y2vf6ndFFxuiEcOm_ZBVmuqDrEIQbobeuK-YJll_WLQhgttIwWmhtEwkL0g9UmxXPHzy36r85qsKaTUCszXFISpOFWZdYTv1WRfKWer2B1-pCCQKmPQ1cof-qBQj6cX/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid9yFzyQny90Dx8l8vbQ-FOfn_oyDsEbcoviWjTjS_adZaJ5UqRHrLHOzGnp7ixMO25E_HG4mtekNOjD5UAysG0srBSJftntlovcDPNzF1pGDYV3BsxNflbmneEtIce4yKaCBQDmhVRCBE3P9nfQE-YC25VGz4g3gHWSVqRj1SHe7bUdmpsd4fAAyQbe8v/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjaFwfIVSZnO2JEQyFpcPsWhnmseuGBKKs92G3ET7fuVDcQo0CMDsI3suT6ed_hW374jpjcsFWRNaQ_CAIixn1IdaDg7il0GAVv607wR_UgYJ3FuM4fw4tvOR2PWIjCT5byi2S2c1GL1DtcZ5mlS1PsbEu2DTUOAHBrqlnn_dE8rjOAhJBpqwiG0ND01ad/s135/2692-M%C5%82ynar-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2692/",
+      "fetched_at": "2026-05-16T19:10:34.223Z",
+      "raw_id": "/nendoroid/details/n2692/"
+    }
+  ]
+}

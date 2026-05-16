@@ -1,0 +1,92 @@
+{
+  "num": "2931",
+  "name": {
+    "en": "Hanasato Minori",
+    "ja": "ねんどろいど 花里みのり",
+    "ko": null
+  },
+  "series": {
+    "en": "Colorful Stage!",
+    "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko": null,
+    "code": "colorful-stage"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4580828668164",
+  "gsc_product_id": "61235",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/61235",
+    "ja": "https://www.goodsmile.com/ja/product/61235"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61235/3rH9WtvXK6fJzBwhygcbqe2kPnNR1pL4.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_OdS5eNNoYMx8JyERsSvNzghbP1qftTpFV7QaMnEPor5SR0zl345i83PeJ0v1ed42XzT1yuFfcIfQS90cLWLqEG_jHGQK1pU1_Db_I1VqMgeN65sNzXngu8xmWyl5ECFcfRflf05aAiu68Byge26gWKix3dBNuvEGnqpGczwEdTJGJHa9yLl43QQBrQ9/s270/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB6paAAPbEFsVNbmm0JzEiv7wo2OMSbe3rDw7BJudM-iIpnNiMcCfRqva7bfVtXuBWDF0mwrFMyBzAMRuSGKgDIf6DN3g_ChpTtUlJoZneJ4C4O-yCHw5LBYHNRPHROFcIK2BBGskBqCyfjPU18arHVisXJEqqB3ovlF1POAS3fgGowJddWB8czqynAYN6/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZyUwrEZMkVxf66nAvu5Usr2vYjGEoHPImEfuhmpuRmL7XDBMmDGLTFtpJIwQyRcAf22l9_fGaaFm_wXt3YIKSDSepEVCbzybOrH77YWD-lfkYrlafV_8ZfB90gVRFNoMUzZh3KXFK0Ij81tzNpIvj84yLbZApVn25CV92SjRWObLyhlI2Za4ibBOwM3ZI/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSESt7KJ_5Ig5FfS0Ehs4SSz7zRQfrRDfBTrDpXh7wTMhM8vJOtY4Tnftj_GhkE3hkzYu7wtRL9rs5ZyMOnGNJoWXLtMB7Bw7CFApFr7k2SdJWV4G8H62tgX5ZdoyfdS4g74RUj3o0ytpAk9zOT-6KgvXZqsjW-LIeLMguqujtFPK0eB3fyWtR6BHkhSy8/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM4yZS575fCL-dRRYqNk_npJ_2Gu6SUsjJVPeAGtAGtyKHOOIdoAEw_SHG0qqLzWBXQb4trF6_ZHW4P3ueRwGjuP0zY1YJr3trblKBW3MCnRqw-3XHutm8HEFJbUPcROOeAAZ8aM0QkOd8h460OwIforQ0sJJ4G-ZuITvZKV2v7ypBIMww6XdssYt8zyjz/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09F6CkMZowLFZIvsMm4UI9r8C2u1QvOkmYG9Z5jd2QOFSDUQytIiTN0qbxQw77nM7d_ozNB0ck6CVWrw7L0T83rr9j93RiRy_0zFByS7MWCWSwQapYhY1MM_pixkYXr7FzVsNoP7O-dKqItcaz0e5HjaRQQyFEV3VPXXrKjstmXMvVxfM83YYT_w9eEKi/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkxsHkFheZG2OC9zs-JoQCBxzYcsS9S69jslRXzHkvPkW12PTTbujBcWH6ArdNusv2iwsBylURw0GTT-TgItnfzykAvKPq6JwnI6YEeg0KckyZ0cJWGGwegjESV21g-GophPtrBmCbSUnA9vy12k9AMHSdaDADzI4DyHZlMVuroH5MldDQUascYz-nl26b/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCz08wdiAxUWoE3SM19ytE0jVJ56rf54mNiJmoSjxm8cbGnmiA-6D4xNfQjzFh5fWJQiL5rA7L49zAQfaAcvGYmYLhuqT_slhpfq4CNy-j-9GT76G4P8oEa4Ta1XoJvycGzrDRy2ShOHSeUyuB7e388x2DuENIWIYZTr1LAr7Cb5DcwldVZl0x4kUZSMqh/s135/2931-Hanasato-Minori-Colorful-Stage-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61235/NigbturkGYyDUV4nsW602e8TB9EvMXxS.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61235/3rH9WtvXK6fJzBwhygcbqe2kPnNR1pL4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/61235",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:21:15.721Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/61235",
+      "fetched_at": "2026-05-16T12:21:15.721Z",
+      "raw_id": "61235"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/61235",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "61235"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2931/",
+      "fetched_at": "2026-05-16T19:10:34.393Z",
+      "raw_id": "/nendoroid/details/n2931/"
+    }
+  ]
+}

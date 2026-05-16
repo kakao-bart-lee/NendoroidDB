@@ -1,0 +1,68 @@
+{
+  "num": "1417",
+  "name": {
+    "en": "Nendoroid Alter Ego/Passionlip",
+    "ja": "ねんどろいど アルターエゴ/パッションリップ (ねんどろいど あるたーえご/ぱっしょんりっぷ)",
+    "ko": "얼터 에고/패션립"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9810,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-15_4Yvf4tkU/X4Nkc8YbDtI/AAAAAAABm5Y/PwM9ZeHkgIMLgOrmWoYIMWnADbTf-KmUwCLcBGAsYHQ/s270/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-15_4Yvf4tkU/X4Nkc8YbDtI/AAAAAAABm5Y/PwM9ZeHkgIMLgOrmWoYIMWnADbTf-KmUwCLcBGAsYHQ/s270/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pLHp1cPeybo/X4tALtn-NGI/AAAAAAABqyM/PfgFXMmD14EhCZZ7cB6Ai435s7_F7b9-gCLcBGAsYHQ/s135/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VVvOP2zxZGs/X4tAL5IhjhI/AAAAAAABqyQ/gCGaXms9bCE4ULNqwCZ-uT4F_aks3z8bwCLcBGAsYHQ/s135/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EiQfB5mM_vI/X4tAMCZVPmI/AAAAAAABqyU/bVGwIhNVdxoPFLXsRf1zwRE9A-I6ewSRQCLcBGAsYHQ/s135/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FRr9_Lo4lc0/X4tAMUyhPLI/AAAAAAABqyY/gVVGzqP5ZucP4boGekarMOfALj_JjA1DQCLcBGAsYHQ/s135/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eqRGQ-iEIow/X4tAMm-_AAI/AAAAAAABqyc/Yg56rzQc6psMGuCfZD1cOG4K3IUNQ44GQCLcBGAsYHQ/s135/1417-Alter-Ego-Passionlip-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1417/",
+      "fetched_at": "2026-05-16T19:10:33.417Z",
+      "raw_id": "/nendoroid/details/n1417/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.660Z",
+      "raw_id": "Nendoroid/1400-1499/1417.json"
+    }
+  ]
+}

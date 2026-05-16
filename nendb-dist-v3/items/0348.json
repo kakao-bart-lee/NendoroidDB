@@ -1,0 +1,68 @@
+{
+  "num": "0348",
+  "name": {
+    "en": "Nendoroid Maria Takayama (ねんどろいど たかやままりあ)",
+    "ja": "ねんどろいど 高山マリア (ねんどろいど たかやままりあ)",
+    "ko": "타카야마 마리아"
+  },
+  "series": {
+    "en": "Boku wa Tomodachi ga Sukunai NEXT",
+    "ja": "僕は友達が少ないNEXT",
+    "ko": "나는 친구가 적다",
+    "code": "boku-wa-tomodachi-ga-sukunai-next"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3993,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bL40_iLOLqg/X4NM1EmO-nI/AAAAAAABlig/ne2J8Jh8HuUVyymuvAXVdJNXgIyrTSUaQCLcBGAsYHQ/s270/348-Maria%2BTakayama-Boku%2Bwa%2BTomodachi%2Bga%2BSukunai%2BNEXT-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bL40_iLOLqg/X4NM1EmO-nI/AAAAAAABlig/ne2J8Jh8HuUVyymuvAXVdJNXgIyrTSUaQCLcBGAsYHQ/s270/348-Maria%2BTakayama-Boku%2Bwa%2BTomodachi%2Bga%2BSukunai%2BNEXT-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HjkbZokx0Qw/X4dazqCaucI/AAAAAAAArCw/m51Flsq1PSYkXEovIqW2avkdegIyZnpOgCLcBGAsYHQ/s135/348-Maria-Takayama-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Dp6-_NQ2BYw/X4daz7uaH1I/AAAAAAAArC0/tZmwDu__epszKv3SIKloUtPDNKZj-z06gCLcBGAsYHQ/s135/348-Maria-Takayama-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JUMJmqi4La0/X4daz_01EeI/AAAAAAAArC4/p8MKjx9McY4LfMtEQHwIOkwM-iovDGmrwCLcBGAsYHQ/s135/348-Maria-Takayama-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j3uMfzZ3d68/X4da0LKXZcI/AAAAAAAArC8/fQ_RQvc2lbAzayu7Z454hKNXj7Hce9ukACLcBGAsYHQ/s135/348-Maria-Takayama-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jrSV7QBlVTo/X4da0bBthsI/AAAAAAAArDA/FVIsI8D7SEsMp2P1EtS1-2jNKl4csy6HwCLcBGAsYHQ/s135/348-Maria-Takayama-Boku-wa-Tomodachi-ga-Sukunai-NEXT-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n348/",
+      "fetched_at": "2026-05-16T19:10:34.475Z",
+      "raw_id": "/nendoroid/details/n348/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.358Z",
+      "raw_id": "Nendoroid/0300-0399/348.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0738",
+  "name": {
+    "en": "Nendoroid Utaha Kasumigaoka",
+    "ja": "ねんどろいど 霞ヶ丘詩羽 (ねんどろいど かすみがおかうたは)",
+    "ko": "카스미가오카 우타하"
+  },
+  "series": {
+    "en": "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja": "冴えない彼女の育てかた♭",
+    "ko": "시원찮은 그녀를 위한 육성방법",
+    "code": "saekano-how-to-raise-a-boring-girlfriend"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6243,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xnEPb898igY/X4Nc6wtKHGI/AAAAAAABl9w/DVM9PED6-KE5-mIQFS7iqGALZOCdn4c-wCLcBGAsYHQ/s270/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xnEPb898igY/X4Nc6wtKHGI/AAAAAAABl9w/DVM9PED6-KE5-mIQFS7iqGALZOCdn4c-wCLcBGAsYHQ/s270/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LFe0w24zxpE/X4i4f1eyulI/AAAAAAAAtUQ/CJRJ-o8DtNQ_1Vs6Zjx5sSXLPMlnukujQCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZmdS4GQwAiA/X4i4f3u3ciI/AAAAAAAAtUU/7D4-Fj-1UMAULKGiLIw3dAOcV6HO9t12wCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nplhkJRuSeg/X4i4gDbtXSI/AAAAAAAAtUY/MzpvUaccDAE3-tKYVdICYJx6wD4mw0_AgCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zcv3NTXS-tI/X4i4gWUKsEI/AAAAAAAAtUc/cOPyXepG5jISYgjBYu31TZ_ygrZXy47CQCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_NKz5bdlRHI/X4i4gwhUcPI/AAAAAAAAtUg/YYaHyaDALq8HIUpDbIHE0aALjTVHrxOkQCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--wmhUAYE10c/X4i4htn43aI/AAAAAAAAtUk/7jZozikutpc6Shi0dTWHJKa_u0f29D2CwCLcBGAsYHQ/s135/738-Utaha-Kasumigaoka-Saekano-How-to-Raise-a-Boring-Girlfriend-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n738/",
+      "fetched_at": "2026-05-16T19:10:34.770Z",
+      "raw_id": "/nendoroid/details/n738/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.496Z",
+      "raw_id": "Nendoroid/0700-0799/738.json"
+    }
+  ]
+}

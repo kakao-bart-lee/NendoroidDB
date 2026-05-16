@@ -1,0 +1,69 @@
+{
+  "num": "0640",
+  "name": {
+    "en": "Nendoroid Shidare Hotaru",
+    "ja": "ねんどろいど 枝垂ほたる (ねんどろいど しだれほたる)",
+    "ko": "시다레 호타루"
+  },
+  "series": {
+    "en": "Dagashi Kashi",
+    "ja": "だがしかし",
+    "ko": "다가시카시",
+    "code": "dagashi-kashi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5729,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dXteGHH8uOg/X4NPvlleNQI/AAAAAAABl28/1Ke2AKtZy58WBfPF3mwyOiLpnxWkWiJOQCLcBGAsYHQ/s270/640-Shidare-Hotaru-Dagashi-Kashi--Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dXteGHH8uOg/X4NPvlleNQI/AAAAAAABl28/1Ke2AKtZy58WBfPF3mwyOiLpnxWkWiJOQCLcBGAsYHQ/s270/640-Shidare-Hotaru-Dagashi-Kashi--Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iAzvjJ7HW3E/X4i0hfpeGDI/AAAAAAAAsuQ/fkETiDfCJDsXG58ayMV8SodBlHrtQPeIgCLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ChGqAasufNc/X4i0hkDpmRI/AAAAAAAAsuU/emq3UfC0k3wGBQxNYC2pZvCTLKFcOGI5gCLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-p9ntFUqU9oM/X4i0hzwlvyI/AAAAAAAAsuY/CzHiCXY8xRkoVe1ZG-bbGOQVX8bLtc7sACLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9mJs1M9senA/X4i0iBMZR9I/AAAAAAAAsuc/b23cRtib0YwHzHRoPlafEn9RBh3HFwx7gCLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L31JCyvtQK0/X4i0ij9P4qI/AAAAAAAAsug/zE0lGg3tTTEWoCwg3yPuo9qv344mIcaaQCLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-eIVa_H8rD10/X4i0jJ9fM6I/AAAAAAAAsuk/b_IqKfBmL_4vc0ucqMk9ggZ7qZ0QKEwWQCLcBGAsYHQ/s135/640-Shidare-Hotaru-Dagashi-Kashi-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n640/",
+      "fetched_at": "2026-05-16T19:10:34.715Z",
+      "raw_id": "/nendoroid/details/n640/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.471Z",
+      "raw_id": "Nendoroid/0600-0699/640.json"
+    }
+  ]
+}

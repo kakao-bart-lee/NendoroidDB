@@ -1,0 +1,68 @@
+{
+  "num": "0147",
+  "name": {
+    "en": "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)",
+    "ja": "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
+    "ko": "키노시타 히데요시"
+  },
+  "series": {
+    "en": "Baka to Test to Shoukanjuu",
+    "ja": "バカとテストと召喚獣",
+    "ko": "바보와 시험과 소환수(바시소)",
+    "code": "baka-to-test-to-shoukanjuu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3032,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aYO_1cCoJUs/X4NJ-iRTlRI/AAAAAAABlQ8/NgHJ7jae-0Iwc9ewCf18DfkmKDw4FZnpwCLcBGAsYHQ/s270/147-Kinoshita-Hideyoshi-Baka-To-Test-Shokanju-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aYO_1cCoJUs/X4NJ-iRTlRI/AAAAAAABlQ8/NgHJ7jae-0Iwc9ewCf18DfkmKDw4FZnpwCLcBGAsYHQ/s270/147-Kinoshita-Hideyoshi-Baka-To-Test-Shokanju-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HkbLM-QL1sE/X4dTANEfEEI/AAAAAAAAp8w/JVB_BPWS6nsWfFv2jy5OPKzbP6JU-x9EACLcBGAsYHQ/s135/147-Kinoshita-Hideyoshi-Baka-to-Test-to-Shokanju-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CFz0JfPDOc4/X4dTATVP8_I/AAAAAAAAp80/n_Y3ff3EsZkWPM5EhBwEmsL8srZVmMDCwCLcBGAsYHQ/s135/147-Kinoshita-Hideyoshi-Baka-to-Test-to-Shokanju-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5BqibaSITbQ/X4dTAiMiVaI/AAAAAAAAp84/1RpQQOBYuisdl4ohhAeMxm__FQqzROQqwCLcBGAsYHQ/s135/147-Kinoshita-Hideyoshi-Baka-to-Test-to-Shokanju-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-n39qweLjcf0/X4dTA9kQTiI/AAAAAAAAp88/-QUUVipS7GIXOPr3T1_Tvxj_updoU0RFwCLcBGAsYHQ/s135/147-Kinoshita-Hideyoshi-Baka-to-Test-to-Shokanju-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SEi0MlR_I2k/X4dTA583p6I/AAAAAAAAp9A/7HWhwFrmgysd7zr0cEhCaGT1Q18mZX8awCLcBGAsYHQ/s135/147-Kinoshita-Hideyoshi-Baka-to-Test-to-Shokanju-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n147/",
+      "fetched_at": "2026-05-16T19:10:33.456Z",
+      "raw_id": "/nendoroid/details/n147/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.301Z",
+      "raw_id": "Nendoroid/0100-0199/147.json"
+    }
+  ]
+}

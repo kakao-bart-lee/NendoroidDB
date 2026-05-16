@@ -1,0 +1,68 @@
+{
+  "num": "0770",
+  "name": {
+    "en": "Nendoroid Mami Tomoe: Maiko Ver.",
+    "ja": "ねんどろいど 巴マミ 舞妓Ver. (ねんどろいど ともえまみ まいこVer.)",
+    "ko": "토모에 마미 마이코 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6427,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gPwDjOlEgtY/X4NdFc8HOpI/AAAAAAABl_4/YDSkXaaoka8GsXqvFRIgeN4Maede37dbQCLcBGAsYHQ/s270/770-Mami-Tomoe-Maiko-Ver-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gPwDjOlEgtY/X4NdFc8HOpI/AAAAAAABl_4/YDSkXaaoka8GsXqvFRIgeN4Maede37dbQCLcBGAsYHQ/s270/770-Mami-Tomoe-Maiko-Ver-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rAr03666jNE/X4i5W6vEBPI/AAAAAAAAtgA/DnK951LjFd4w6sMYmVwYJLDb7O5pLCdVACLcBGAsYHQ/s135/770-Mami-Tomoe-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GrIFhLsbYa0/X4i5W4N5xWI/AAAAAAAAtgE/yXDKif-1Z18yTKdUxcppXsXJPvhD8S5NgCLcBGAsYHQ/s135/770-Mami-Tomoe-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8RdTnwjVAA4/X4i5XOg0__I/AAAAAAAAtgI/Z14iNaP1KCohOFBKICHjulbVKY1UY_8lQCLcBGAsYHQ/s135/770-Mami-Tomoe-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rz7r1uQcy7I/X4i5XCmaqBI/AAAAAAAAtgM/_kJ2qSsnAk4stHOY96e3XUDNaXaDef4HQCLcBGAsYHQ/s135/770-Mami-Tomoe-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KD_gJEPvrzU/X4i5XYSfVQI/AAAAAAAAtgQ/F6l7xxa_8aoVyl-d0rgOxP-ZVtrrWTHQQCLcBGAsYHQ/s135/770-Mami-Tomoe-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n770/",
+      "fetched_at": "2026-05-16T19:10:34.788Z",
+      "raw_id": "/nendoroid/details/n770/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.503Z",
+      "raw_id": "Nendoroid/0700-0799/770.json"
+    }
+  ]
+}

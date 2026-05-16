@@ -1,0 +1,70 @@
+{
+  "num": "0793",
+  "name": {
+    "en": "Nendoroid Morgana",
+    "ja": "ねんどろいど モルガナ (ねんどろいど もるがな)",
+    "ko": "모르가나"
+  },
+  "series": {
+    "en": "Persona5",
+    "ja": "ペルソナ５",
+    "ko": "페르소나5",
+    "code": "persona5"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6575,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2t_4NXQv10U/X4NdLHfcEnI/AAAAAAABmBY/QkPC0eN3R8UUTFYnSGIyfdqkS4B3COUGQCLcBGAsYHQ/s270/793-Morgana-Persona-5-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2t_4NXQv10U/X4NdLHfcEnI/AAAAAAABmBY/QkPC0eN3R8UUTFYnSGIyfdqkS4B3COUGQCLcBGAsYHQ/s270/793-Morgana-Persona-5-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NpUeDOJx3-8/X4i59nZ2osI/AAAAAAAAtpA/biudTful4d8rxgsIJNQrd_JcNqD1uIJqACLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t1t1N3D4krw/X4i59x1II2I/AAAAAAAAtpE/-w4R5E9JBnkcripVam0FXBAi-jDa8vJAACLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gVxSOrHjQTU/X4i5-A3o1dI/AAAAAAAAtpI/KjPHKsqZgnU45c_y_AujMnYZNkVLIbSaACLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-euoSyZPxdM8/X4i5-NqTkhI/AAAAAAAAtpM/peK2jmbDrycUB5VFRTUCV3Gg2VJym9WtQCLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RETb-S-gITQ/X4i5-TMa2rI/AAAAAAAAtpQ/h_9PzQYAWt00r_5FBjLlZMWdOHNMRYcqwCLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Zj6j_D3NaRI/X4i5-i8d8yI/AAAAAAAAtpU/K3pFGz8mXF8KmnS0CahK_EVfgYITse91gCLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-am4MtlX-eEE/X4i5-7ljaeI/AAAAAAAAtpY/PgpDCHlSaIYiwNe1XO85MV95FH-_ViMhwCLcBGAsYHQ/s135/793-Morgana-Persona-Persona-5-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n793/",
+      "fetched_at": "2026-05-16T19:10:34.803Z",
+      "raw_id": "/nendoroid/details/n793/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.509Z",
+      "raw_id": "Nendoroid/0700-0799/793.json"
+    }
+  ]
+}

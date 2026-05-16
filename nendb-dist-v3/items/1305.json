@@ -1,0 +1,68 @@
+{
+  "num": "1305",
+  "name": {
+    "en": "Nendoroid Harry Potter: Quidditch Ver.",
+    "ja": "ねんどろいど ハリー・ポッター クィディッチ Ver. (ねんどろいど はりー・ぽったー くぃでぃっち Ver.)",
+    "ko": "해리 포터 퀴디치 Ver."
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9344,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JzJfbxD0E2E/X4NjhrQPCKI/AAAAAAABmzI/ku8Jy-ChdIkBEKPcrxr0atq9aLtyM15nQCLcBGAsYHQ/s270/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JzJfbxD0E2E/X4NjhrQPCKI/AAAAAAABmzI/ku8Jy-ChdIkBEKPcrxr0atq9aLtyM15nQCLcBGAsYHQ/s270/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LLkxyvfol24/X4s8fneJRrI/AAAAAAABqRY/IQLos5ryeCkHYT6wbTAWqcQ21LtJu_YMQCLcBGAsYHQ/s135/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YbTId_m7wnQ/X4s8f8KKDpI/AAAAAAABqRc/Aq-WwPu_SsQjTT5KE_hODnj8N0jCG1ekwCLcBGAsYHQ/s135/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CjHGIcldgMA/X4s8f_VEvMI/AAAAAAABqRg/S-pLtZe_PaE3jGjoWEZZJJ4Wg-878BEDQCLcBGAsYHQ/s135/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-INngwVYJQ0s/X4s8gW6BDAI/AAAAAAABqRk/flcVGjGIqtsbpd4XpQ7LvrdN_zrWNS2CgCLcBGAsYHQ/s135/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-un-xSpu2LjM/X4s8g_TvAsI/AAAAAAABqRo/dXNZ3zXwiys3SkHLiNNNqviMMZYLtXW_QCLcBGAsYHQ/s135/1305-Harry-Potter-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1305/",
+      "fetched_at": "2026-05-16T19:10:33.347Z",
+      "raw_id": "/nendoroid/details/n1305/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.634Z",
+      "raw_id": "Nendoroid/1300-1399/1305.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1895",
+  "name": {
+    "en": "Nendoroid Skadi",
+    "ja": "ねんどろいど スカジ (ねんどろいど すかじ)",
+    "ko": "스카디"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12833,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ky_5E1ISXbg/Yw_WLyarguI/AAAAAAAA6ZU/cQFUbQD2154OfRycFxrfE3DzR6opN4hJQCNcBGAsYHQ/s270/1895-Skadi-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ky_5E1ISXbg/Yw_WLyarguI/AAAAAAAA6ZU/cQFUbQD2154OfRycFxrfE3DzR6opN4hJQCNcBGAsYHQ/s270/1895-Skadi-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CVwfDfnK4nQ/YxEWzzIVKjI/AAAAAAAA6jk/gE11SmuF51QGx9BgHp0CM9qCJ-ILGX7gACNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6ugzDHGpBBc/YxEW0cdIGSI/AAAAAAAA6jo/P9fXKh6jYo4lW2i8K2f4DBClBbkIfKLyQCNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-07HzEsbEbTI/YxEW00qqP6I/AAAAAAAA6js/GSqvUGIQlEIxIlg6UWeu4-npRGSXgEDWgCNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M-NCrg0jHlo/YxEW1WLACzI/AAAAAAAA6jw/mP0p7hj_bmkmeUoxDol9opj0TlZ-9UADQCNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-M5ez0sHEy9Y/YxEW1-1PqOI/AAAAAAAA6j0/HIa4yMLorl4ct4RIhZlLTGXBy1MJUwp1gCNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IRFXQPqa770/YxEW2QmiuWI/AAAAAAAA6j4/VPmLkfrQZeM8KFFzzQkqrZ7gOpODJe_LwCNcBGAsYHQ/s135/1895-Skadi-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1895/",
+      "fetched_at": "2026-05-16T19:10:33.715Z",
+      "raw_id": "/nendoroid/details/n1895/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.777Z",
+      "raw_id": "Nendoroid/1800-1899/1895.json"
+    }
+  ]
+}

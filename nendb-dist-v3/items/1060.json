@@ -1,0 +1,69 @@
+{
+  "num": "1060",
+  "name": {
+    "en": "Nendoroid Akane Shinjo",
+    "ja": "ねんどろいど 新条アカネ (ねんどろいど しんじょうあかね)",
+    "ko": "신죠 아카네"
+  },
+  "series": {
+    "en": "SSSS.GRIDMAN",
+    "ja": "SSSS.GRIDMAN",
+    "ko": "SSSS.GRIDMAN",
+    "code": "ssss-gridman"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7939,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S27X60EOj28/X4NfypSLJII/AAAAAAABmVE/ZyzwA_JDGMUp_Cq3PO37bAlTKRQ1NzypQCLcBGAsYHQ/s270/1060-Akane-Shinjo-SSSS-Gridman-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S27X60EOj28/X4NfypSLJII/AAAAAAABmVE/ZyzwA_JDGMUp_Cq3PO37bAlTKRQ1NzypQCLcBGAsYHQ/s270/1060-Akane-Shinjo-SSSS-Gridman-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--2z6g2Gtkx0/X4rsi2ak0FI/AAAAAAABooM/wpvwlbchGwEUfuX2sE_ZZAIosq6AplfnACLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Tl1IFlZmJtw/X4rsjUtd7UI/AAAAAAABooQ/AIhOmq67LuYwjMRhs_7cpK66Gw_GtI3pgCLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vZuEooaLgx4/X4rsjiWaHTI/AAAAAAABooU/IVPb_9cdbT8itwQT-u5nwwZXIxQm5W3KACLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7n1qsipWpS0/X4rskArH_zI/AAAAAAABooY/7JnbCHM4E1AqGHdg-HJAScZP9HOsdlnuQCLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0J8oU-omnmM/X4rskCs4IAI/AAAAAAABooc/9Okv0ui4sxok412pqKWOvcGcYPi_RG1IwCLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-K9fOhO6Kynw/X4rskbWw7dI/AAAAAAABoog/XQaNxzz3SeUdSkCl2FEGQB-AtwR74NJXQCLcBGAsYHQ/s135/1060-Akane-Shinjo-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1060/",
+      "fetched_at": "2026-05-16T19:10:33.187Z",
+      "raw_id": "/nendoroid/details/n1060/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.575Z",
+      "raw_id": "Nendoroid/1000-1099/1060.json"
+    }
+  ]
+}

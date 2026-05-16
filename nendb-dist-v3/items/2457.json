@@ -1,0 +1,68 @@
+{
+  "num": "2457",
+  "name": {
+    "en": "Zoya",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Path To Nowhere",
+    "ja": null,
+    "ko": null,
+    "code": "path-to-nowhere"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1-R6w8_7m4I/Zj_irLlBsPI/AAAAAAABEZI/mghvTdIZzmYHYKTJaQo1rEd20LfUHxbAACNcBGAsYHQ/s270/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1-R6w8_7m4I/Zj_irLlBsPI/AAAAAAABEZI/mghvTdIZzmYHYKTJaQo1rEd20LfUHxbAACNcBGAsYHQ/s270/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6CzuH_SJ2Hg/Zow4ZKhcIzI/AAAAAAABFvY/2dCgiC5MsV4QbNSO0eMDcUHIlesiLxmsgCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-O6mky8xeVHk/Zow4ZpnxcQI/AAAAAAABFvc/rCKUo38fQOM7bgIai2kRtPx5yf8MWq5VwCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HggbSXbbaWM/Zow4aXB4oiI/AAAAAAABFvg/hKdOQrXDyjggQ3H22gsJIJg3vjqRbPgBwCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CdJKeL_GzTY/Zow4akZTReI/AAAAAAABFvk/QgVNt2H6urE94yL7QVUVaEjoq8wKcmdQwCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zWtuP46qLgE/Zow4bMng16I/AAAAAAABFvo/STHFpM7b9MEcaBpsbPYh9IPPBGbij5DcACNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2Pa1MKbfDZk/Zow4btN_OnI/AAAAAAABFvs/vYEy8VIuX0gU3ivU9NC3MucXXJ6LgLtLgCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8m83aL-PONI/Zow4cO6ZlSI/AAAAAAABFvw/Tf24Ii8Y6z4E2zpNp5M4MAubroqWYAGoQCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-jJlvC_zSfyo/Zow4XpAUBGI/AAAAAAABFvM/R6riAAzzPMYJ8L606fEj-a--vcxK1GPTQCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-SbgVFeeRsYI/Zow4YLIfbhI/AAAAAAABFvQ/NCGeBFoK4IMkJZ_G0kNVRbGZsVvcxCn3QCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-eBXUSlS3eS0/Zow4YsFD1wI/AAAAAAABFvU/Bz40wM9EV2kAvEclCu6nox4ceGR4QEcRwCNcBGAsYHQ/s135/2457-Zoya-Path-to-Nowhere-Video-Games-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2457/",
+      "fetched_at": "2026-05-16T19:10:34.070Z",
+      "raw_id": "/nendoroid/details/n2457/"
+    }
+  ]
+}

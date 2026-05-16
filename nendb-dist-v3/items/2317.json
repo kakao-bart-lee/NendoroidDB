@@ -1,0 +1,63 @@
+{
+  "num": "2317",
+  "name": {
+    "en": "Richter Belmont",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Castlevania",
+    "ja": null,
+    "ko": null,
+    "code": "castlevania"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jhIArvYXuLk/ZWZfsHuL3OI/AAAAAAABCc0/HuIxm3mQF0cbCvyQuW9WYrvFFG8u1nVlgCNcBGAsYHQ/s270/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jhIArvYXuLk/ZWZfsHuL3OI/AAAAAAABCc0/HuIxm3mQF0cbCvyQuW9WYrvFFG8u1nVlgCNcBGAsYHQ/s270/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-C2C5oHf6TVI/ZWZpPmSckdI/AAAAAAABCoc/U4D1BVJZRf0TtE25wY9bpwcm2L-IIEClQCNcBGAsYHQ/s135/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FR-CZ3CvmIc/ZWZpQMYqZfI/AAAAAAABCog/_LtfR4VIQwctJGMJTj3NuTVjkoQPBIgygCNcBGAsYHQ/s135/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YSDyu68MgCQ/ZWZpQXzkU7I/AAAAAAABCok/Ozq314cGKzUDfqUaqCzgzPqbGFxLT2HtACNcBGAsYHQ/s135/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oWm3f7RZLo8/ZWZpQ0R1piI/AAAAAAABCoo/E-tX-cZEQ9QeNRrxGz-ghDS26tnC8QqCwCNcBGAsYHQ/s135/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-K9e7Sun0wK4/ZWZpROsJQOI/AAAAAAABCow/br7miFgxmIEAbPezeXZk6JfP-WGRQ5MwgCNcBGAsYHQ/s135/2317-Richter-Belmont-Castlevania-Nocturne-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2317/",
+      "fetched_at": "2026-05-16T19:10:33.983Z",
+      "raw_id": "/nendoroid/details/n2317/"
+    }
+  ]
+}

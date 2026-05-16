@@ -1,0 +1,68 @@
+{
+  "num": "2180",
+  "name": {
+    "en": "Nendoroid Demon Hunter",
+    "ja": "ねんどろいど デーモンハンター (ねんどろいど でーもんはんたー)",
+    "ko": "악마사냥꾼"
+  },
+  "series": {
+    "en": "Diablo",
+    "ja": "Diablo",
+    "ko": "디아블로",
+    "code": "diablo"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14460,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HkCt5Nx5KFE/ZIzT9MyOQtI/AAAAAAAA-Qk/dL5s5RfV8IIJTRrD0qbMV3aBRU7JCk6gQCNcBGAsYHQ/s270/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HkCt5Nx5KFE/ZIzT9MyOQtI/AAAAAAAA-Qk/dL5s5RfV8IIJTRrD0qbMV3aBRU7JCk6gQCNcBGAsYHQ/s270/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pNYv0amC6yg/ZIzWX9MajeI/AAAAAAAA-a8/zqpJe8TvpcsGULsfkayImdEs8UkwbOWXgCNcBGAsYHQ/s135/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zOVubzOi4C8/ZIzWYU140eI/AAAAAAAA-bA/ZxfF8HlzKcU1oNqDyWNWqLFLLjZAXDq6ACNcBGAsYHQ/s135/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sScY3iPWxQc/ZIzWY8Ub_8I/AAAAAAAA-bE/aPIyd9gSM9kj5GqerXN1ZgSK870b2d3-QCNcBGAsYHQ/s135/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aLBw5zvFyjQ/ZIzWZXtEz_I/AAAAAAAA-bI/J2EUMpTkkDE13eEZGHJxxUOC3O9Z71NuQCNcBGAsYHQ/s135/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QhMNZHZY3Eg/ZIzWZmPCdQI/AAAAAAAA-bM/5z3eeb8c-48AarGUgxaiK7R8ou08w1cpQCNcBGAsYHQ/s135/2180-Demon-Hunter-Diablo-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2180/",
+      "fetched_at": "2026-05-16T19:10:33.886Z",
+      "raw_id": "/nendoroid/details/n2180/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.848Z",
+      "raw_id": "Nendoroid/2100-2199/2180.json"
+    }
+  ]
+}

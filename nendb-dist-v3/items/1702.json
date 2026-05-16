@@ -1,0 +1,70 @@
+{
+  "num": "1702",
+  "name": {
+    "en": "Nendoroid Snow White",
+    "ja": "ねんどろいど 白雪姫 (ねんどろいど しらゆきひめ)",
+    "ko": "백설공주"
+  },
+  "series": {
+    "en": "Snow White and the Seven Dwarfs",
+    "ja": "白雪姫",
+    "ko": "백설공주와 일곱 난쟁이",
+    "code": "snow-white-and-the-seven-dwarfs"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11672,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8I9cCqoeUlo/YWSHaH9nrwI/AAAAAAAA0-o/HMjid0mwYFcvqC9wSBh4UZ0Z1d9VOsxcwCLcBGAsYHQ/s270/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8I9cCqoeUlo/YWSHaH9nrwI/AAAAAAAA0-o/HMjid0mwYFcvqC9wSBh4UZ0Z1d9VOsxcwCLcBGAsYHQ/s270/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aCQSmmNe_v4/YWSaYKQgsJI/AAAAAAAA1CE/mXqXJkXl9PouNXpAWTSSYKA_i4VYyQMqQCLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-r-3pOqdOjmY/YWSaYQE-zYI/AAAAAAAA1CI/3_Mzh-PxdFwebUXrTC8ccrV_cHTl4Xb5ACLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MbIcsrfZDk4/YWSaYlyseaI/AAAAAAAA1CM/6BoIKT3i2-gYJzsNXOMm4Pj5dGvidSF9QCLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZY7bIEU-IhA/YWSaY7pTHtI/AAAAAAAA1CQ/y-Af-pBgJm0K1zxjJI68BIXeXcJLwYFYwCLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2pEbUHuaez0/YWSaZESKwDI/AAAAAAAA1CU/iv_bAobpbSMyHZPRIbFspZs7kha2MDH3ACLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zWv6jUmuUDM/YWSaZaFaIsI/AAAAAAAA1CY/liQp4Fg8Cu4aEIu3vQrua6NDIHhN24uUACLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ssLfAMNoIgM/YWSaZc70ZnI/AAAAAAAA1Cc/2AGS5o0JB5cKZsT6X0OtoiY4EBRQ6csJQCLcBGAsYHQ/s135/1702-Snow-White-Snow-White-and-the-Seven-Dwarfs-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1702/",
+      "fetched_at": "2026-05-16T19:10:33.595Z",
+      "raw_id": "/nendoroid/details/n1702/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.730Z",
+      "raw_id": "Nendoroid/1700-1799/1702.json"
+    }
+  ]
+}

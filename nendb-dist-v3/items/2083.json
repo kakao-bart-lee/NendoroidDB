@@ -1,0 +1,68 @@
+{
+  "num": "2083",
+  "name": {
+    "en": "Nendoroid Akiha Tohno",
+    "ja": "ねんどろいど 遠野秋葉 (ねんどろいど とおのあきは)",
+    "ko": "토오노 아키하"
+  },
+  "series": {
+    "en": "TSUKIHIME -A piece of blue glass moon-",
+    "ja": "月姫 -A piece of blue glass moon-",
+    "ko": "월희",
+    "code": "tsukihime-a-piece-of-blue-glass-moon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14045,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8kQpBm_ghi4/ZA3eEI4m8qI/AAAAAAAA9LQ/bbB0pH18YxYQiVz-0BELyNida1CxlP5ywCNcBGAsYHQ/s270/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8kQpBm_ghi4/ZA3eEI4m8qI/AAAAAAAA9LQ/bbB0pH18YxYQiVz-0BELyNida1CxlP5ywCNcBGAsYHQ/s270/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tDgwHeMMX_Q/ZA3dNqe0iMI/AAAAAAAA9GI/tCn6YG0spU4yfgLnbeSO4bGkb41XQANEwCNcBGAsYHQ/s135/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3m-xEzNWyIw/ZA3dOK2kEoI/AAAAAAAA9GM/YGOGZ_0tl-A9mFgh2Wd0S3rNFaP7I_lKQCNcBGAsYHQ/s135/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yBU2Wi2tnYk/ZA3dOnKCZSI/AAAAAAAA9GQ/DJqXhu8FexYEJOeUWrMnmTb4BwJ3EPAkACNcBGAsYHQ/s135/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-njpYoZ-1kMg/ZA3dPDpZSVI/AAAAAAAA9GU/jy-XhFCU8uEBJEsdVKtev9QT4v7k4s7fACNcBGAsYHQ/s135/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Bo3R1QeFQHo/ZA3dPlUP-8I/AAAAAAAA9GY/B3H15IPEaykaTmdCy6i5y26y9tnZG29yACNcBGAsYHQ/s135/2083-Akiha-Tohno-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2083/",
+      "fetched_at": "2026-05-16T19:10:33.830Z",
+      "raw_id": "/nendoroid/details/n2083/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.822Z",
+      "raw_id": "Nendoroid/2000-2099/2083.json"
+    }
+  ]
+}

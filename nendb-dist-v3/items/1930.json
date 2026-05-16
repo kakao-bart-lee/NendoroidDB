@@ -1,0 +1,69 @@
+{
+  "num": "1930",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Empty SEKAI Ver.",
+    "ja": "ねんどろいど 初音ミク 誰もいないセカイVer. (ねんどろいど はつねみく だれもいないせかいVer.)",
+    "ko": "하츠네 미쿠: 아무도 없는 세계 Ver."
+  },
+  "series": {
+    "en": "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko": "하츠네 미쿠: 컬러풀 스테이지!",
+    "code": "hatsune-miku-colorful-stage"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SDw0hxv7V2s/Yw_WabsZXiI/AAAAAAAA6bU/pWTpEDW053QJ5-iVEG2Uo62gygFPhJ15ACNcBGAsYHQ/s270/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SDw0hxv7V2s/Yw_WabsZXiI/AAAAAAAA6bU/pWTpEDW053QJ5-iVEG2Uo62gygFPhJ15ACNcBGAsYHQ/s270/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hqn_YgJGTD8/YxEYKYlS0fI/AAAAAAAA6u8/gWukrOQFBDcS9i1xYLNzzC_j4DH8EqZaQCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-epQNlBmY6u8/YxEYK0cPnZI/AAAAAAAA6vA/A4vDHhYei4waPrrbtcXrmfJ-v3TD9fa3wCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7mjc9muNpaU/YxEYLUT0XAI/AAAAAAAA6vE/A_6AE7QdddYkD2R044O4KGjgZBoAHe_3QCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7iGdfqwxxrE/YxEYLyXo0FI/AAAAAAAA6vI/YDVeEbq7BqwAF7PmQfQRZOEmoIbQ6CFDQCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hX7fhiOSceI/YxEYMYDE81I/AAAAAAAA6vM/VNduBSBrEgsDYqcOfBSUmN6Nb0UHhJ1WgCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4tV7MHlOKHo/YxEYM0uUfTI/AAAAAAAA6vQ/3GDZBf8OAwgLs2V8uTvOtGvFUFZ-llzBwCNcBGAsYHQ/s135/1930-Hatsune-Miku-HATSUNE-MIKU-COLORFUL-STAGE-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1930/",
+      "fetched_at": "2026-05-16T19:10:33.736Z",
+      "raw_id": "/nendoroid/details/n1930/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.784Z",
+      "raw_id": "Nendoroid/1900-1999/1930.json"
+    }
+  ]
+}

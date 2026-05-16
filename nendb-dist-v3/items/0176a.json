@@ -1,0 +1,67 @@
+{
+  "num": "0176a",
+  "name": {
+    "en": "Nendoroid Alleyne (ねんどろいど あれいん)",
+    "ja": "ねんどろいど アレイン (ねんどろいど あれいん)",
+    "ko": "아레인"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3165,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aktyZaRJEy4/X4NKG4FbVhI/AAAAAAABlTA/dCJpTIBZ9BglXVMm8FMfHhqrR7LrBonigCLcBGAsYHQ/s270/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aktyZaRJEy4/X4NKG4FbVhI/AAAAAAABlTA/dCJpTIBZ9BglXVMm8FMfHhqrR7LrBonigCLcBGAsYHQ/s270/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xbEwmsRFrJ4/X4dTxHzU_BI/AAAAAAAAqH8/6QtW18q_uf8OQmMunHAO-qguEePPkz5ugCLcBGAsYHQ/s135/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JayzWCaV1QQ/X4dTxlxmGwI/AAAAAAAAqIA/s-rEBcjAz5get9c8iYngojCnggIoScm9wCLcBGAsYHQ/s135/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y-FhRQ4of78/X4dTyMYVUUI/AAAAAAAAqIE/fXQ5B1AMWyURmO_ObG6vUdxNlJl2iyidgCLcBGAsYHQ/s135/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vDt25lXojj8/X4dTyr6at2I/AAAAAAAAqII/R9QgYDyO_UA1dMgFFV8pzbUdhvkgVMmCACLcBGAsYHQ/s135/176A-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n176a/",
+      "fetched_at": "2026-05-16T19:10:33.636Z",
+      "raw_id": "/nendoroid/details/n176a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.309Z",
+      "raw_id": "Nendoroid/0100-0199/176a.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "2046",
+  "name": {
+    "en": "Nendoroid Seraphina",
+    "ja": "ねんどろいど セラフィナ (ねんどろいど せらふぃな)",
+    "ko": "세라피나"
+  },
+  "series": {
+    "en": "Legend of Mana: The Teardrop Crystal",
+    "ja": "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+    "ko": "성검전설 레전드 오브 마나: 더 티어드롭 크리스탈",
+    "code": "legend-of-mana-the-teardrop-crystal"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13796,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uU_3NxlpYdo/Y9mKAJD4UpI/AAAAAAAA8fA/e69IydtL3zsT4BGInLZ1tgBf93JiUAT0QCNcBGAsYHQ/s270/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uU_3NxlpYdo/Y9mKAJD4UpI/AAAAAAAA8fA/e69IydtL3zsT4BGInLZ1tgBf93JiUAT0QCNcBGAsYHQ/s270/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mZ4stsI-BdU/Y9mPI1022FI/AAAAAAAA8nI/lN8ePA5XdSUKh8E-vlJ9p5z9alqH1b3CgCNcBGAsYHQ/s135/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mlFNTm5AGdk/Y9mPJgSj4MI/AAAAAAAA8nQ/0VyaIB7uwKQb265uW3Cm3eKIhOvZBoa7gCNcBGAsYHQ/s135/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o8T3XRhXTJU/Y9mPJqmVitI/AAAAAAAA8nM/GpyhD5qJ8nIIvAQ18uY7RfOK_jN2IeF_ACNcBGAsYHQ/s135/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zzto1URxxao/Y9mPJ77y_3I/AAAAAAAA8nU/V3oYBHGqphUrNeFRN9LSfCCfSx4cRUMMACNcBGAsYHQ/s135/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6fNLio6lkxQ/Y9mPKdGJchI/AAAAAAAA8nc/lwLe9IjwJbo6L6BFfos7v0SUsMFxPyQSwCNcBGAsYHQ/s135/2046-Serafina-Legend-of-Mana-The-Teardrop-Crystal-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2046/",
+      "fetched_at": "2026-05-16T19:10:33.806Z",
+      "raw_id": "/nendoroid/details/n2046/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2046.json"
+    }
+  ]
+}

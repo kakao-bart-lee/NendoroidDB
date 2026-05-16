@@ -1,0 +1,71 @@
+{
+  "num": "0565",
+  "name": {
+    "en": "Nendoroid Venom Snake: Sneaking Suit Ver.",
+    "ja": "ねんどろいど ヴェノム・スネーク スニーキングスーツVer. (ねんどろいど ゔぇのむ・すねーく すにーきんぐすーつVer.)",
+    "ko": "베놈 스네이크 스니킹 슈트 Ver."
+  },
+  "series": {
+    "en": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "ja": "METAL GEAR SOLID V: THE PHANTOM PAIN（メタルギア ソリッド V ザ・ファントム・ペイン）",
+    "ko": "메탈기어 솔리드",
+    "code": "metal-gear-solid-v-the-phantom-pain"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5229,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EM6cXpI05RE/X4NOlsvpajI/AAAAAAABlxk/FF2yKG1zGB06BKyPpXGtUScNmvmjbnaYgCLcBGAsYHQ/s270/565-Venom-Snake-Metal-Gear-Solid-V-Sneaking-Suit-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EM6cXpI05RE/X4NOlsvpajI/AAAAAAABlxk/FF2yKG1zGB06BKyPpXGtUScNmvmjbnaYgCLcBGAsYHQ/s270/565-Venom-Snake-Metal-Gear-Solid-V-Sneaking-Suit-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t7pKjYbTeiA/X4itBYgZy3I/AAAAAAAAsRQ/q4m9Pqg3Uzwo1RDwOpYhQZEn8xwRd4DSQCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C9nikqF9H0I/X4itBkfrIyI/AAAAAAAAsRU/P2yVucaT6VQwjer6-TZmnqK1L9QhwiuAwCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vOcyrRe4dKI/X4itBjftB2I/AAAAAAAAsRY/mHpDnm9xTF8vQwGk85gyDA8OtBFh-I5qgCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Y8c3oS09D-8/X4itCGc-GVI/AAAAAAAAsRc/UAGB86wlgvEkxU4sWB8L7OxiizONXtgdwCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1RMXM23TsZ8/X4itCtQ3RwI/AAAAAAAAsRg/QbxUAztQkJkuMXQPhbSfl4d_4IzjJ1XrwCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BFzNasxnoxA/X4itDLmA6XI/AAAAAAAAsRk/YYWF0it-nJ4fvs0qe6VNZE9VDO1vp8ZUACLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pALyZ64TWjs/X4itDoNkGCI/AAAAAAAAsRo/ZtEUrAgiEcsQfSm8C-xWmai44nAYYkVzgCLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-nbuPMRx8cXo/X4itBNlYylI/AAAAAAAAsRM/MO1q48u1rNIuukcm6K4-Wr28Gkx9_olZACLcBGAsYHQ/s135/565-Venom-Snake-Metal-Gear-Solid-V-The-Phanton-Pain-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n565/",
+      "fetched_at": "2026-05-16T19:10:34.603Z",
+      "raw_id": "/nendoroid/details/n565/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.447Z",
+      "raw_id": "Nendoroid/0500-0599/565.json"
+    }
+  ]
+}

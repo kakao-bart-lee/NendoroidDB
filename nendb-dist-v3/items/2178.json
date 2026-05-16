@@ -1,0 +1,68 @@
+{
+  "num": "2178",
+  "name": {
+    "en": "Nendoroid Saichi Sugimoto",
+    "ja": "ねんどろいど 杉元佐一 (ねんどろいど すぎもとさいち)",
+    "ko": "스기모토 사이치"
+  },
+  "series": {
+    "en": "Golden Kamuy",
+    "ja": "ゴールデンカムイ",
+    "ko": "골든 카무이",
+    "code": "golden-kamuy"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14484,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5ymYmXmXxNk/ZKXXOVvjivI/AAAAAAAA-kI/nu6VFBQ-7OkPS_dDJ1CSprsAfvPU7qOpACNcBGAsYHQ/s270/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5ymYmXmXxNk/ZKXXOVvjivI/AAAAAAAA-kI/nu6VFBQ-7OkPS_dDJ1CSprsAfvPU7qOpACNcBGAsYHQ/s270/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jVhC5GSjZ6w/ZKXmEYbLn-I/AAAAAAAA--w/52DihSYwys8Gto2h51hHByB5p9MJdT_hwCNcBGAsYHQ/s135/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1z1SRZbtn0A/ZKXmEjbJAMI/AAAAAAAA--0/tOQG-M4zY5IPQgwTmA5q2OaPW2gBQRt9QCNcBGAsYHQ/s135/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ENlTZDYyz-4/ZKXmE1C3DAI/AAAAAAAA--4/ydhHxpHoXlElw-ISf8jcHUoOOKN1QajTgCNcBGAsYHQ/s135/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nIUCeAHHWNs/ZKXmE8toDXI/AAAAAAAA--8/0s8IYknR-7EyZ-nztZDSOdgDssaaNuNWQCNcBGAsYHQ/s135/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vjTUR7wt-Os/ZKXmFUbbKeI/AAAAAAAA-_A/mjbBMEacic8ZowSiSCe8nBG-7urueuoeACNcBGAsYHQ/s135/2178-Saichi-Sugimoto-Golden-Kamuy-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2178/",
+      "fetched_at": "2026-05-16T19:10:33.885Z",
+      "raw_id": "/nendoroid/details/n2178/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.848Z",
+      "raw_id": "Nendoroid/2100-2199/2178.json"
+    }
+  ]
+}

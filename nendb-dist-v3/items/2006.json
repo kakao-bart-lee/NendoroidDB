@@ -1,0 +1,72 @@
+{
+  "num": "2006",
+  "name": {
+    "en": "Nendoroid Nezumi",
+    "ja": "ねんどろいど ネズミ (ねんどろいど ねずみ)",
+    "ko": "네즈미"
+  },
+  "series": {
+    "en": "NO.6",
+    "ja": "NO.6",
+    "ko": "NO.6",
+    "code": "no-6"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13910,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_GNN8NMLaR8/ZA3d-Y0lQLI/AAAAAAAA9Jw/zyjElncPz40hWgp4Nrfeu3MnMQGB6qEEACNcBGAsYHQ/s270/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_GNN8NMLaR8/ZA3d-Y0lQLI/AAAAAAAA9Jw/zyjElncPz40hWgp4Nrfeu3MnMQGB6qEEACNcBGAsYHQ/s270/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WVp6azicaVA/ZA3cqWM4W8I/AAAAAAAA89g/Iovd_4V9iLAm17zxP9J9lYRhTlpi4QArgCNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WdZdJB3goRY/ZA3cqVgCi9I/AAAAAAAA89k/IfV0MD5xw3ghs3IYEtg72GEfVQUsftgMACNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xdzsWbS4RPw/ZA3cqnSBBLI/AAAAAAAA89o/7SMK2PrGSUsj4LtsqeMIff1lxXJhiwL1gCNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Rz6jQeWaRfE/ZA3cqo_-5CI/AAAAAAAA89s/Cqjy0eFcNqsVhAL4oVe9QpPEJolN0BGdQCNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4ahAhsx51-M/ZA3cqx2m0OI/AAAAAAAA89w/y3G1jg0AJqsnI0fY8ZByQY4SkHKiQLj0ACNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hDo6KP07IHM/ZA3cq6y_qpI/AAAAAAAA890/W7b-An9cLxYWCq1oYM_038FzO41ZkPgyQCNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-GGwIZcH8Ee0/ZA3crL8GypI/AAAAAAAA894/iC5Ao0J6kjA58iLssRV9d9qBoE9pTKXMACNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-ev0kyxjzuV8/ZA3cqMDHoFI/AAAAAAAA89Y/TxPKv0qMrJYFUD5nVFKJjSRFlu2ueor7ACNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-GJirZbd47N8/ZA3cqWkfsEI/AAAAAAAA89c/q2ryXWr3w8wAoofv5xV57bmtv8QL0mhIQCNcBGAsYHQ/s135/2006-Nezumi-NO.6-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2006/",
+      "fetched_at": "2026-05-16T19:10:33.781Z",
+      "raw_id": "/nendoroid/details/n2006/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.804Z",
+      "raw_id": "Nendoroid/2000-2099/2006.json"
+    }
+  ]
+}

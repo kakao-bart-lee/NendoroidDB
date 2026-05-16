@@ -1,0 +1,69 @@
+{
+  "num": "0313",
+  "name": {
+    "en": "Nendoroid Monokuma (ねんどろいど ものくま)",
+    "ja": "ねんどろいど モノクマ (ねんどろいど ものくま)",
+    "ko": "모노쿠마"
+  },
+  "series": {
+    "en": "Super Danganronpa 2: Sayonara Zetsubou Gakuen",
+    "ja": "スーパーダンガンロンパ２ さよなら絶望学園",
+    "ko": "단간론파",
+    "code": "super-danganronpa-2-sayonara-zetsubou-gakuen"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3849,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AqZJMFSgO4o/X4NMmNjId_I/AAAAAAABlgM/3OUseepDC_0BQlSC6-iXpBQF-EeHgeNKQCLcBGAsYHQ/s270/313-Monokuma-Super-Danganronpa-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AqZJMFSgO4o/X4NMmNjId_I/AAAAAAABlgM/3OUseepDC_0BQlSC6-iXpBQF-EeHgeNKQCLcBGAsYHQ/s270/313-Monokuma-Super-Danganronpa-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nhF0Y1gE3pA/X4daGfHUjeI/AAAAAAAAq3c/6LiuICMsIQo80p0YbwfK0rGQT-rbDhNmQCLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AqQKTs75xio/X4daGR_GAQI/AAAAAAAAq3g/RhUHoWlHhI8iZGfAEidgMxeggVF4nXozACLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wTSy50v1fbQ/X4daG7_op1I/AAAAAAAAq3k/bm84gZU-W_AEhNExVANrw0NboE7TdyiDACLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wYDkyu5LiKk/X4daHBRr-zI/AAAAAAAAq3o/kKS4cfzs8LopDADCKknifO_8PBMGGPrrQCLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-urFHN6wMOeo/X4daHCkRaII/AAAAAAAAq3s/VGf7LahwNtcFAF6IYn21GUTrOFs-aN_ewCLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Fu2hWB7eI8w/X4daHigqkcI/AAAAAAAAq3w/7_685_ZYoUAB2CxfXGeb-8gjQPavAiZqwCLcBGAsYHQ/s135/313-Monokuma-Super-Danganronpa-Sayonara-Zetsubou-Gakuen-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n313/",
+      "fetched_at": "2026-05-16T19:10:34.456Z",
+      "raw_id": "/nendoroid/details/n313/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.349Z",
+      "raw_id": "Nendoroid/0300-0399/313.json"
+    }
+  ]
+}

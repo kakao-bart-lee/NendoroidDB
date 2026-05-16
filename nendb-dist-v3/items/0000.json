@@ -1,0 +1,64 @@
+{
+  "num": "0000",
+  "name": {
+    "en": "Nendoroid Neko Arc : Convert! Grumbling Face Edition (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
+    "ja": "ねんどろいど ネコアルク 「換装！ブーブー顔」編 (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
+    "ko": "네코 알퀘이드"
+  },
+  "series": {
+    "en": "Neko Arc",
+    "ja": "ネコアルク",
+    "ko": "월희",
+    "code": "neko-arc"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2006",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3351,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8VCz2UV7oiw/X4MRu2hmABI/AAAAAAAApWU/CNmEltw04BI7qI39Fwa3mHxb6ansTI9HQCLcBGAsYHQ/s270/000-Neko%2BArc-Grumbling-Melty%2BBlood-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8VCz2UV7oiw/X4MRu2hmABI/AAAAAAAApWU/CNmEltw04BI7qI39Fwa3mHxb6ansTI9HQCLcBGAsYHQ/s270/000-Neko%2BArc-Grumbling-Melty%2BBlood-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DNr1T5JvK1k/X4GwL-e8jHI/AAAAAAAAo-I/H13V1KYu6owNCRVAUxFIFPv4lhmAQuDfgCLcBGAsYHQ/s135/000-Neko-Arc-Melty-Blood-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n000/",
+      "fetched_at": "2026-05-16T19:10:33.060Z",
+      "raw_id": "/nendoroid/details/n000/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.253Z",
+      "raw_id": "Nendoroid/0000-0099/000.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0597",
+  "name": {
+    "en": "Nendoroid Clear",
+    "ja": "ねんどろいど クリア (ねんどろいど くりあ)",
+    "ko": "클리어"
+  },
+  "series": {
+    "en": "DRAMAtical Murder",
+    "ja": "DRAMAtical Murder",
+    "ko": "드라마티컬 머더",
+    "code": "dramatical-murder"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5406,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MvpUu_biyx4/X4NOvDlhZ6I/AAAAAAABlzo/D-ygn6LoUiEG6kqtF4a2TlkR7w0d7LL6wCLcBGAsYHQ/s270/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MvpUu_biyx4/X4NOvDlhZ6I/AAAAAAABlzo/D-ygn6LoUiEG6kqtF4a2TlkR7w0d7LL6wCLcBGAsYHQ/s270/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6DLr6Ydnzv0/X4itqpiy_oI/AAAAAAAAscM/Go4OX74xSvcUdK63dwxgbZLfls5jSysAgCLcBGAsYHQ/s135/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ORSy9X9puRE/X4itq35uvaI/AAAAAAAAscQ/Gqb3zxFPPQMRwnYOw42oUqnOHRp2Hfn9ACLcBGAsYHQ/s135/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NPm-LkHLr-U/X4itrIyfpnI/AAAAAAAAscU/Klhxt-QCwxEGqBJFuQtTWP6xku9-iyvPwCLcBGAsYHQ/s135/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1b3cvKFFcRo/X4itrLcgblI/AAAAAAAAscY/kilogDGdf1wwpGGOD7onJM8q5ys6wUt1gCLcBGAsYHQ/s135/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BXOGUyIBLCg/X4itralhwPI/AAAAAAAAscc/HOK38g4DSxAHVgCcE6uIaxPScct14ld0ACLcBGAsYHQ/s135/597-Clear-DRAMAtical-Murder-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n597/",
+      "fetched_at": "2026-05-16T19:10:34.678Z",
+      "raw_id": "/nendoroid/details/n597/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.458Z",
+      "raw_id": "Nendoroid/0500-0599/597.json"
+    }
+  ]
+}

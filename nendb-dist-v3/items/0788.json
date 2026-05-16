@@ -1,0 +1,69 @@
+{
+  "num": "0788",
+  "name": {
+    "en": "Nendoroid Edward Elric",
+    "ja": "ねんどろいど エドワード・エルリック (ねんどろいど えどわーど・えるりっく)",
+    "ko": "에드워드 엘릭"
+  },
+  "series": {
+    "en": "Fullmetal Alchemist: Brotherhood",
+    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko": "강철의 연금술사",
+    "code": "fullmetal-alchemist-brotherhood"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6519,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CSTBSWrlpSk/X4NdJm7nnNI/AAAAAAABmBA/8QT6-NVvgoEQcFWCHMc0pb0ZqNkaNppJwCLcBGAsYHQ/s270/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CSTBSWrlpSk/X4NdJm7nnNI/AAAAAAABmBA/8QT6-NVvgoEQcFWCHMc0pb0ZqNkaNppJwCLcBGAsYHQ/s270/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hrGleS4JRyk/X4i5zvLL0cI/AAAAAAAAtmY/CY9HjBBsXeocZCdTAzHJyUj6G9CP54u6wCLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-e-sIUle27E4/X4i5z85ka5I/AAAAAAAAtmc/eQon_CgpXqEY3ap8ZYT2CP-kcyFqrTU8QCLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9fH7UEbKfgs/X4i50VamCTI/AAAAAAAAtmg/HMogDFlgXSg7Q3600LAXQLrdSMTbJo4hQCLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aPlZJ-g0NLo/X4i50Ub_7mI/AAAAAAAAtmk/T8EtDIyT5rEdL2w2F5nUZM2TF2K2HbU8ACLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-efIwGub4KUY/X4i50nuK8YI/AAAAAAAAtmo/nH7qvbkL3n0NQfC_s8Kz97BsXd0E3M3HwCLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ywclDlykZyo/X4i507Hlb6I/AAAAAAAAtms/Ow9qSGChFm4kUNofZLzMO3-WA71_6vyRgCLcBGAsYHQ/s135/788-Edward-Elric-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n788/",
+      "fetched_at": "2026-05-16T19:10:34.800Z",
+      "raw_id": "/nendoroid/details/n788/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.507Z",
+      "raw_id": "Nendoroid/0700-0799/788.json"
+    }
+  ]
+}

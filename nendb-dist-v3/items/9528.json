@@ -1,0 +1,55 @@
+{
+  "num": "9528",
+  "name": {
+    "en": "Nendoroid Doll archetype: Woman (Peach)",
+    "ja": "ねんどろいどどーる archetype：Woman（peach） (ねんどろいどどーる あーきたいぷ：うーまん（ぴーち）)",
+    "ko": "여성(피치)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2037,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9528,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200520/9528/73076/large/ea69c8cd0d03a1b29dd95e1c402f27a2.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.911Z",
+      "raw_id": "NendoroidDoll/Body/9528.json"
+    }
+  ]
+}

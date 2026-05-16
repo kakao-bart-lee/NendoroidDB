@@ -1,0 +1,69 @@
+{
+  "num": "1937",
+  "name": {
+    "en": "Nendoroid Hao",
+    "ja": "ねんどろいど ハオ (ねんどろいど はお)",
+    "ko": "하오"
+  },
+  "series": {
+    "en": "SHAMAN KING",
+    "ja": "SHAMAN KING",
+    "ko": "샤먼킹",
+    "code": "shaman-king"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13135,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DvognbHUvbI/Yw_Wc4P_QMI/AAAAAAAA6bo/k5RCpT7mqCIlnWV8Uk1yOu9qI2U5hWmcwCNcBGAsYHQ/s270/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DvognbHUvbI/Yw_Wc4P_QMI/AAAAAAAA6bo/k5RCpT7mqCIlnWV8Uk1yOu9qI2U5hWmcwCNcBGAsYHQ/s270/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sJkrxHL5Agc/YxEYV_MqegI/AAAAAAAA6ws/aUhVFGzCuJ8l9CJBnTyV9S3rOWrYXNJdgCNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1y29id7d9NM/YxEYWSVrNpI/AAAAAAAA6w0/enZHwccac9IZkkIiZ-7oWYWlxo5HgQyYgCNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7VT5HJUFYCs/YxEYWTjaBwI/AAAAAAAA6ww/S_Q6RfU97Mo7eXfoByZM4j6cH85eWx7mQCNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wk0_rZ1a7RM/YxEYWgwjgII/AAAAAAAA6w4/_XvlZA1f79UO-lNnfWoZhu5kEx_e46H7ACNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qHXYDn81vfg/YxEYXFu6W_I/AAAAAAAA6w8/iRFnBUbCns4CGAyiRMJdpqGVuY3F5LKzQCNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LIkU32cfYw8/YxEYXhfnmKI/AAAAAAAA6xE/_rH66S4OU8YWEApiZ9FvJHoZeQXk2TJYACNcBGAsYHQ/s135/1937-Hao-Shaman-King-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1937/",
+      "fetched_at": "2026-05-16T19:10:33.740Z",
+      "raw_id": "/nendoroid/details/n1937/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.786Z",
+      "raw_id": "Nendoroid/1900-1999/1937.json"
+    }
+  ]
+}

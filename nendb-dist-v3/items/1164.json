@@ -1,0 +1,68 @@
+{
+  "num": "1164",
+  "name": {
+    "en": "Nendoroid Zhou Zekai",
+    "ja": "ねんどろいど 周澤楷 (ねんどろいど しゅうたくかい)",
+    "ko": "주덕해"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8527,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8kUE4moyxBw/X4NgmKLlp5I/AAAAAAABmcs/ux-X00vFT3YYx4IXfHRKbN4SuQQTPR5WACLcBGAsYHQ/s270/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8kUE4moyxBw/X4NgmKLlp5I/AAAAAAABmcs/ux-X00vFT3YYx4IXfHRKbN4SuQQTPR5WACLcBGAsYHQ/s270/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dGMkvFUpYKY/X4rxATZhX1I/AAAAAAABpTs/X1ahYl2UGpI-SGkc3kHF7-HdxuQIUIV2wCLcBGAsYHQ/s135/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OiyeDtM0vxU/X4rxApruccI/AAAAAAABpTw/LCl_z6zqL5cjIAThLMt0emWmvOkB52zygCLcBGAsYHQ/s135/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ozZbr95ksDo/X4rxA0zLvWI/AAAAAAABpT0/qBzLmA0_-MIkjZQ-rmzYrgqRYvXYCJOewCLcBGAsYHQ/s135/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wzw1eqMtXGA/X4rxBHZ_X5I/AAAAAAABpT4/4Fig-YS80S4huamPA2U6d3yCUr9HCe7TgCLcBGAsYHQ/s135/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iG0YxC9dlCk/X4rxBeQucqI/AAAAAAABpT8/_J-b_IJ5mboOYdhKABCWMeGIMUbvtlxIACLcBGAsYHQ/s135/1164-Zhou-Zekai-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1164/",
+      "fetched_at": "2026-05-16T19:10:33.261Z",
+      "raw_id": "/nendoroid/details/n1164/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.600Z",
+      "raw_id": "Nendoroid/1100-1199/1164.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1921",
+  "name": {
+    "en": "Nendoroid Douki-chan",
+    "ja": "ねんどろいど 同期ちゃん (ねんどろいど どうきちゃん)",
+    "ko": "동기짱"
+  },
+  "series": {
+    "en": "Ganbare Doukichan",
+    "ja": "がんばれ同期ちゃん",
+    "ko": "힘내라 동기짱",
+    "code": "ganbare-doukichan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7150,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yDiV-Co_NdE/Yw_WVb2UwAI/AAAAAAAA6as/1ckaNBtV9B0y-1UBD8Zg_KqX5fd-t3YzgCNcBGAsYHQ/s270/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yDiV-Co_NdE/Yw_WVb2UwAI/AAAAAAAA6as/1ckaNBtV9B0y-1UBD8Zg_KqX5fd-t3YzgCNcBGAsYHQ/s270/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rSRfmDK4e8c/YxEXrI54MWI/AAAAAAAA6rE/9MluaVrLEIcXzwcu4-kXp4_vD5HT8RFaACNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ADL4yo4XXt0/YxEXriOzvVI/AAAAAAAA6rI/S7rFy2tAcuA0gnDTIiwkJAzpNq7261V0wCNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x5sK3P5R5OQ/YxEXsFEk3aI/AAAAAAAA6rM/_IDVG9pjzjgiP7nUVEv64JI_RLjUEW68QCNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PbVTQSGQ7ss/YxEXst5ejbI/AAAAAAAA6rQ/CHP4bHebJiMPqn7QZegyj8fBprYtbnIVwCNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-13FZV1GCeW0/YxEXtLxsisI/AAAAAAAA6rU/PM44_kgx0CQEnpccu9vc_kG45trKzYuVwCNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Q7Qq4ct87mQ/YxEXtudWJpI/AAAAAAAA6rY/AU6BEsEUpbQbHkHiTjqrBq-fJw6afDB6gCNcBGAsYHQ/s135/1921-Douki-chan-Ganbare-Doukichan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1921/",
+      "fetched_at": "2026-05-16T19:10:33.732Z",
+      "raw_id": "/nendoroid/details/n1921/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.783Z",
+      "raw_id": "Nendoroid/1900-1999/1921.json"
+    }
+  ]
+}

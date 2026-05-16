@@ -1,0 +1,68 @@
+{
+  "num": "0522",
+  "name": {
+    "en": "Nendoroid Uzuki Shimamura (ねんどろいど しまむらうづき)",
+    "ja": "ねんどろいど 島村卯月 (ねんどろいど しまむらうづき)",
+    "ko": "시마무라 우즈키"
+  },
+  "series": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "code": "the-idolm-ster-cinderella-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5006,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Zj8U-8nSQCk/X4NOaDyhV7I/AAAAAAABluw/3AycsJ9nkOUswIU0_nkESphwwdUXgiucACLcBGAsYHQ/s270/522-Uzuki-Shimamura-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Zj8U-8nSQCk/X4NOaDyhV7I/AAAAAAABluw/3AycsJ9nkOUswIU0_nkESphwwdUXgiucACLcBGAsYHQ/s270/522-Uzuki-Shimamura-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DdZYpbDhYWk/X4isE2njuhI/AAAAAAAAsB0/uWK3nN00dWclKzccLdReqzth48cs7N3QwCLcBGAsYHQ/s135/522-Uzuki-Shimamura-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GDiaLaCnmvo/X4isFOcvj0I/AAAAAAAAsB4/ufIVIbelLwM7qSKEYobr9YbYwfZF74v1ACLcBGAsYHQ/s135/522-Uzuki-Shimamura-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IR8mBLsRsJY/X4isFfNL79I/AAAAAAAAsB8/wCdEtK4dG2sBJP22nYcSpLJTTRwtbocqwCLcBGAsYHQ/s135/522-Uzuki-Shimamura-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x2B-1H7eIJw/X4isFgUWyCI/AAAAAAAAsCA/S9twJ51vknQbusbP6ExbIZe3DRfhmDWBwCLcBGAsYHQ/s135/522-Uzuki-Shimamura-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6W_7KEljT28/X4isGYIZ9pI/AAAAAAAAsCE/IbkaRCudd9s7hGEQthZMQidXo8Ze2XLfACLcBGAsYHQ/s135/522-Uzuki-Shimamura-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n522/",
+      "fetched_at": "2026-05-16T19:10:34.576Z",
+      "raw_id": "/nendoroid/details/n522/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.424Z",
+      "raw_id": "Nendoroid/0500-0599/522.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1713",
+  "name": {
+    "en": "Nendoroid Primal Demon Diablo",
+    "ja": "ねんどろいど 原初の悪魔ディアブロ (ねんどろいど でぃあぶろ)",
+    "ko": "디아블로"
+  },
+  "series": {
+    "en": "That Time I Got Reincarnated as a Slime",
+    "ja": "転生したらスライムだった件",
+    "ko": "전생했더니 슬라임이었던 건에 대하여",
+    "code": "that-time-i-got-reincarnated-as-a-slime"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11770,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VqrOju4Rkqk/YWSHdCNxYgI/AAAAAAAA0_U/MUPOzPPvBCMwNh0on3IG0EwWiMPTLVm_QCLcBGAsYHQ/s270/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VqrOju4Rkqk/YWSHdCNxYgI/AAAAAAAA0_U/MUPOzPPvBCMwNh0on3IG0EwWiMPTLVm_QCLcBGAsYHQ/s270/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PlHk-_6bG34/YWSapdzC6HI/AAAAAAAA1GU/ve1gOD48I2o9-NKecPzAxFFJOj04GYJRQCLcBGAsYHQ/s135/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k8m57Nh7F9A/YWSappmnsWI/AAAAAAAA1GY/w_oUCHZ5z3EDbScXrke0fdgotyLyLiKBQCLcBGAsYHQ/s135/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FdPF-OaOaZ0/YWSapwMjBFI/AAAAAAAA1Gc/tguniaPuvScTRs0vVUw-bercC97MsAvJgCLcBGAsYHQ/s135/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VTUF_ZVdHJE/YWSapx0eHwI/AAAAAAAA1Gg/s4taadm5Ym47gS2R7jZ5FV8j1jT5tHNaQCLcBGAsYHQ/s135/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4O8EjYAxZu0/YWSaqLPMnxI/AAAAAAAA1Gk/ADBRolHjNQwE5fDyqA60MYlrpCLoFoUDACLcBGAsYHQ/s135/1713-Diablo-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1713/",
+      "fetched_at": "2026-05-16T19:10:33.601Z",
+      "raw_id": "/nendoroid/details/n1713/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.733Z",
+      "raw_id": "Nendoroid/1700-1799/1713.json"
+    }
+  ]
+}

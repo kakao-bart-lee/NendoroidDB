@@ -1,0 +1,68 @@
+{
+  "num": "0159",
+  "name": {
+    "en": "Nendoroid Totori (ねんどろいど ととり)",
+    "ja": "ねんどろいど トトリ (ねんどろいど ととり)",
+    "ko": "토투리아 헬몰트"
+  },
+  "series": {
+    "en": "Atelier Totori: Alchemist of Arland 2",
+    "ja": "トトリのアトリエ －アーランドの錬金術士2－",
+    "ko": "토토리의 아틀리에",
+    "code": "atelier-totori-alchemist-of-arland-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3100,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lKaFHSWaaUA/X4NKBY2RT2I/AAAAAAABlRw/Yje_YcWUov4ZvxtPj8xwv-ZuD-xgHgbpQCLcBGAsYHQ/s270/159-Totori-Atelier-Totori-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lKaFHSWaaUA/X4NKBY2RT2I/AAAAAAABlRw/Yje_YcWUov4ZvxtPj8xwv-ZuD-xgHgbpQCLcBGAsYHQ/s270/159-Totori-Atelier-Totori-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-39_oOqgOFlY/X4dTU9QE-_I/AAAAAAAAqBY/vT1kfTzjBo0QJIxmtzEJ0Weox8NVDlmGwCLcBGAsYHQ/s135/159-Totori-Atelier-Arland-Atelier-Totori-Alchemist-of-Arland-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y_uXsOPo0hE/X4dTVMPLSLI/AAAAAAAAqBc/96R5LHfa4nQXoeAOGSrmwc8Cc-bzuJeUgCLcBGAsYHQ/s135/159-Totori-Atelier-Arland-Atelier-Totori-Alchemist-of-Arland-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UN7KiBYSLAw/X4dTVXdJVvI/AAAAAAAAqBg/uWwCqrKJ2wIVXQECOILkXX9O14RIkMLeACLcBGAsYHQ/s135/159-Totori-Atelier-Arland-Atelier-Totori-Alchemist-of-Arland-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6YZp8Kdhi5k/X4dTVs-00BI/AAAAAAAAqBk/JT4-CQEjizM0ggNK1YE1QQrlEr2wg_xqACLcBGAsYHQ/s135/159-Totori-Atelier-Arland-Atelier-Totori-Alchemist-of-Arland-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-p9eddUFPMg0/X4dTVwwHzqI/AAAAAAAAqBo/IF5uxlu0zaYH79c55XGKwtsi2Vj7KUxZgCLcBGAsYHQ/s135/159-Totori-Atelier-Arland-Atelier-Totori-Alchemist-of-Arland-2-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n159/",
+      "fetched_at": "2026-05-16T19:10:33.527Z",
+      "raw_id": "/nendoroid/details/n159/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.304Z",
+      "raw_id": "Nendoroid/0100-0199/159.json"
+    }
+  ]
+}

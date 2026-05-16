@@ -1,0 +1,70 @@
+{
+  "num": "2117",
+  "name": {
+    "en": "Nendoroid Apollo Justice",
+    "ja": "ねんどろいど 王泥喜法介 (ねんどろいど おどろきほうすけ)",
+    "ko": "오도로키 호우스케"
+  },
+  "series": {
+    "en": "Ace Attorney",
+    "ja": "逆転裁判",
+    "ko": "역전재판",
+    "code": "ace-attorney"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14259,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w9wGQCS3XO0/ZFqWZvLjsZI/AAAAAAAA9zM/fJ5NM4_Q0IoCqX7dAn2KpKrWmca0dztagCNcBGAsYHQ/s270/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w9wGQCS3XO0/ZFqWZvLjsZI/AAAAAAAA9zM/fJ5NM4_Q0IoCqX7dAn2KpKrWmca0dztagCNcBGAsYHQ/s270/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BAsiNwrV1RE/ZFqbxbi87wI/AAAAAAAA96I/AMflU6goquIqb7TbGTJhnfr6cHpRjvU5wCNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-a96znwKJmtU/ZFqbxpXTciI/AAAAAAAA96M/a1_-6R7AX0ElEFJSBnsQwsbbXmiFDuLbACNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NgXn2Pv3w0k/ZFqbxWYgLrI/AAAAAAAA96Q/UT9YbKsKWFAUFwPgFgxrq6v0noNDwE7dwCNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-F14-26VKFfk/ZFqbx1AaeFI/AAAAAAAA96Y/wswBoaKBW3kdoWF5aCdmc7l4D_UKiLoxACNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4PK9m_aUJHk/ZFqbxxYUsoI/AAAAAAAA96U/sex5QQeUnaMHL8w25jiYwbhH6IaTsQr_gCNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-p6HDliFt1do/ZFqbxzPELaI/AAAAAAAA96c/LVRjcYlYdCsTe0Z4pkX3phdhkVhiDZa-gCNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-UmNYDs842ig/ZFqbyYNn5DI/AAAAAAAA96g/7FaQEkKUicsREY04ZRw1OCOGEsuJFZGQwCNcBGAsYHQ/s135/2117-Apollo-Justice-Ace-Attorney-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2117/",
+      "fetched_at": "2026-05-16T19:10:33.849Z",
+      "raw_id": "/nendoroid/details/n2117/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.831Z",
+      "raw_id": "Nendoroid/2100-2199/2117.json"
+    }
+  ]
+}

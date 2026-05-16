@@ -1,0 +1,69 @@
+{
+  "num": "0099",
+  "name": {
+    "en": "Nendoroid Fate Testarossa: The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん)",
+    "ja": "ねんどろいど フェイト・テスタロッサ The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん )",
+    "ko": "페이트 테스타로사 극장판 Ver."
+  },
+  "series": {
+    "en": "Magical Girl Lyrical Nanoha The MOVIE 1st",
+    "ja": "魔法少女リリカルなのは The MOVIE 1st",
+    "ko": "마법소녀 리리컬 나노하",
+    "code": "magical-girl-lyrical-nanoha-the-movie-1st"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2743,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gnQwgJ4ixAQ/X4MSLqSLCSI/AAAAAAAApc0/ziiavMkD8Ko3lc9tu0l8l7mgv_Z_W8LHQCLcBGAsYHQ/s270/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gnQwgJ4ixAQ/X4MSLqSLCSI/AAAAAAAApc0/ziiavMkD8Ko3lc9tu0l8l7mgv_Z_W8LHQCLcBGAsYHQ/s270/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I23E4-dIZu0/X4GxTnm-1aI/AAAAAAAApTY/WaxR2J0a4HIA5Q0ZyHoblddkrBoEKJAbwCLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_VZ1ApChZ08/X4GxTthAHOI/AAAAAAAApTc/0hFCTRnPNxk0ffp9KlCLwtyAK7fVttMfACLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TRWubEvrLHs/X4GxUCsKz0I/AAAAAAAApTg/X_5qspiJbX8PUm8my6mQcXqXSNq3zIj1QCLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GTx2VgTEXlU/X4GxUcBuw-I/AAAAAAAApTk/pJGv5C-HQGsMyB5T4xqhuvk9HMgLZLqrACLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CLE-GoDm_Y8/X4GxUVWdzcI/AAAAAAAApTo/hJ9jlH1dsbgqMSfWlkW8k_z88rb-vMFzwCLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7-2T3xp5HbU/X4GxUQggBPI/AAAAAAAApTs/-UnbCax9EFwgQt8uiSYV0mf4H0gFmtOfgCLcBGAsYHQ/s135/099-Fate-Testarossa-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n099/",
+      "fetched_at": "2026-05-16T19:10:33.126Z",
+      "raw_id": "/nendoroid/details/n099/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.287Z",
+      "raw_id": "Nendoroid/0000-0099/099.json"
+    }
+  ]
+}

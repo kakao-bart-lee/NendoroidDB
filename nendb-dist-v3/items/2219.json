@@ -1,0 +1,70 @@
+{
+  "num": "2219",
+  "name": {
+    "en": "Nendoroid Bobobo-bo Bo-bobo",
+    "ja": "ねんどろいど ボボボーボ・ボーボボ (ねんどろいど ぼぼぼーぼ・ぼーぼぼ)",
+    "ko": "보보보보 보보보"
+  },
+  "series": {
+    "en": "Bobobo-bo Bo-bobo",
+    "ja": "ボボボーボ・ボーボボ",
+    "ko": "무적코털 보보보",
+    "code": "bobobo-bo-bo-bobo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14735,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wTCYiiS9i_I/ZM6yyvv60yI/AAAAAAABA9k/2DfJlVn_UmkhB0qYcPx6MVQj-P-kioduQCNcBGAsYHQ/s270/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wTCYiiS9i_I/ZM6yyvv60yI/AAAAAAABA9k/2DfJlVn_UmkhB0qYcPx6MVQj-P-kioduQCNcBGAsYHQ/s270/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QRIoxWzsI3s/ZNAWa4KkmJI/AAAAAAABBHs/tj0j-mZeXOY2i1itvVK78aLcwwYc0ZLkQCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-snz7tw8aMv4/ZNAWbE9-95I/AAAAAAABBHw/Xndn2OpJlE4tfFvsykV3Kn6fwj34vvtqwCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qbqf_O8CUXM/ZNAWbaXofVI/AAAAAAABBH0/eawdBRjGlQgAuXmz4nD0hBVvsIiMeIMogCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jHUfj0rQvBo/ZNAWblFimhI/AAAAAAABBH4/YisASw2McYcBnLkZhH3slQIRj78qnX3kgCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KyD_Rnrq5ZI/ZNAWb2H87cI/AAAAAAABBH8/NbE_2uSlRFAM0tmdK_0l2PU0U4tWXPZ-gCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pouNC3Z_fzw/ZNAWbwF--xI/AAAAAAABBIA/mwId6eWPWYwKaIO6STeWUABcyHHSzdvGQCNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-25Dxh_QcPig/ZNAWcWfcU3I/AAAAAAABBIE/BIPVfDG2ZdwMU2xxjPNU9sR5wMNMJTWEACNcBGAsYHQ/s135/2219-Bobobo-bo-Bo-bobo-Bobobo-bo-Bo-bobo-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2219/",
+      "fetched_at": "2026-05-16T19:10:33.924Z",
+      "raw_id": "/nendoroid/details/n2219/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.857Z",
+      "raw_id": "Nendoroid/2200-2299/2219.json"
+    }
+  ]
+}

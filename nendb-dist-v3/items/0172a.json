@@ -1,0 +1,69 @@
+{
+  "num": "0172a",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": "ねんどろいど レーシングミク 2011ver. (ねんどろいど れーしんぐみく 2011ver.)",
+    "ko": "레이싱 미쿠 2011 Ver."
+  },
+  "series": {
+    "en": "Racing Miku",
+    "ja": "初音ミク GTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "racing-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3135,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-O6Jsk2D5lQc/X4dCd40kmhI/AAAAAAAApkM/fIpARreJBUgfjoxG0ssQqx9ObrKXuKHxwCLcBGAsYHQ/s270/172A-Hatsune-Miku-2011-Racing-V2-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-O6Jsk2D5lQc/X4dCd40kmhI/AAAAAAAApkM/fIpARreJBUgfjoxG0ssQqx9ObrKXuKHxwCLcBGAsYHQ/s270/172A-Hatsune-Miku-2011-Racing-V2-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RuU2xvrR-u4/X4dTpWAHcoI/AAAAAAAAqGY/b-6jyT4T0eobytXe4fJlbmDYyPPkgfxagCLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dZATKAVHPxE/X4dTp-r_g5I/AAAAAAAAqGc/kQj3TWV-ikgKUjyT7ddEt-1Ngdsw9RLUwCLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vcD82_lNX_I/X4dTqA7fG8I/AAAAAAAAqGg/yMgqkIFia3gkuJ1J0wbTSJUvm9582P39ACLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DrzkRpLlZY0/X4dTqkM_-VI/AAAAAAAAqGk/eEYGuNJc6Nk5DNVjutcn_yOZ4JK3f8wKACLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-McRHI2EwgOM/X4dTq6Erq7I/AAAAAAAAqGo/GlivsCpLwhgCJYJExfsSUiXYqjYbdKENgCLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Feq5LzzvApw/X4dTq1MubGI/AAAAAAAAqGs/P9oxpUh82IgcxvETIaDqotNETq6f_SRTwCLcBGAsYHQ/s135/172A-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n172a/",
+      "fetched_at": "2026-05-16T19:10:33.611Z",
+      "raw_id": "/nendoroid/details/n172a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.308Z",
+      "raw_id": "Nendoroid/0100-0199/172a.json"
+    }
+  ]
+}

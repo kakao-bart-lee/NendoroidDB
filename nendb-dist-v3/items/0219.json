@@ -1,0 +1,68 @@
+{
+  "num": "0219",
+  "name": {
+    "en": "Nendoroid Popura Taneshima (ねんどろいど たねしまぽぷら)",
+    "ja": "ねんどろいど 種島ぽぷら (ねんどろいど たねしまぽぷら)",
+    "ko": "타네시마 포푸라"
+  },
+  "series": {
+    "en": "WORKING!!",
+    "ja": "WORKING!!",
+    "ko": "WORKING!!",
+    "code": "working"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3422,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kTiyXDbpxts/X4NLIq6a_fI/AAAAAAABlWc/sfdB3q8agqUErGOQEz8M4fWteigx2DNmACLcBGAsYHQ/s270/219-Taneshima-Popura-Working%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kTiyXDbpxts/X4NLIq6a_fI/AAAAAAABlWc/sfdB3q8agqUErGOQEz8M4fWteigx2DNmACLcBGAsYHQ/s270/219-Taneshima-Popura-Working%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eH2FsWG5kDY/X4dXHGUUC_I/AAAAAAAAqX8/0vOvV_INUBwS6OOnwyKc5eXfSYvYlod4gCLcBGAsYHQ/s135/219-Popura-Taneshima-Working-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ezxPdH_W8Bw/X4dXHg-Aq5I/AAAAAAAAqYA/8Nur1mla3VcYoKSNw90Fia1H1ibRSzUHwCLcBGAsYHQ/s135/219-Popura-Taneshima-Working-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r4UyWPpMdQQ/X4dXH44bZ1I/AAAAAAAAqYE/fzpa5fqs6jMMkaKE-MjS0thqIdV3oervwCLcBGAsYHQ/s135/219-Popura-Taneshima-Working-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AfbS11Vub-4/X4dXIABGleI/AAAAAAAAqYI/-CmN-jQKybwxm2yurfbj0jurjmpLgx67ACLcBGAsYHQ/s135/219-Popura-Taneshima-Working-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-r4VVt57_Bxo/X4dXIeS7ypI/AAAAAAAAqYM/bcXgyjVwKtAmFzNdFowSBgaHM7f_XubYQCLcBGAsYHQ/s135/219-Popura-Taneshima-Working-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n219/",
+      "fetched_at": "2026-05-16T19:10:33.903Z",
+      "raw_id": "/nendoroid/details/n219/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.323Z",
+      "raw_id": "Nendoroid/0200-0299/219.json"
+    }
+  ]
+}

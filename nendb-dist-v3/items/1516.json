@@ -1,0 +1,70 @@
+{
+  "num": "1516",
+  "name": {
+    "en": "Nendoroid Caesar Anthonio Zeppeli",
+    "ja": "ねんどろいど シーザー・A・ツェペリ (ねんどろいど しーざー・A・つぇぺり)",
+    "ko": "시저 안토니오 체펠리"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10368,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IMzYavLQXXM/X62Y6qaClkI/AAAAAAAAugU/Ix9VkDhd5noy0JMOoHweNKCeX_WJ84-TQCLcBGAsYHQ/s270/1516-Caesar-Zeppeli-Jojo-Bizzarde-Adventure-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IMzYavLQXXM/X62Y6qaClkI/AAAAAAAAugU/Ix9VkDhd5noy0JMOoHweNKCeX_WJ84-TQCLcBGAsYHQ/s270/1516-Caesar-Zeppeli-Jojo-Bizzarde-Adventure-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gHXMUaq-_SU/X62aNTOrUoI/AAAAAAAAuiU/Izph_ZBpqSYXWfCXxbiiCO9zHzaF6vO1QCLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-o7rxredOI3U/X62aNgvtw4I/AAAAAAAAuiY/IcBG60OFyHwyUxCXV-bwWhDM3HP8z1kmACLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zlKxtk3mIFw/X62aN5r1nxI/AAAAAAAAuic/Jo6qpST-YE0uIOQyO4Qeqw-6-ZmKguppQCLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-176-1PuouNI/X62aOH23gWI/AAAAAAAAuig/UW673Q_UP5UPd4jKMPFi3wBnCJuA_e-iQCLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Gg1WarJA6lU/X62aOT5PTGI/AAAAAAAAuik/-aq_gew7KfI11m7YXUtQZ0asivOXQljZwCLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--nej1YMxAYs/X62aOqd1GWI/AAAAAAAAuio/rHDOeAu_u4g_jo6P4sKYebqHRDEnqXfOACLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mhZgiSmqYfg/X62aO7SdMXI/AAAAAAAAuis/savMnCzkFtwG_3fk2YvN1g08v_vSQ9PMgCLcBGAsYHQ/s135/1516-Anthonio-Zeppeli-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1516/",
+      "fetched_at": "2026-05-16T19:10:33.477Z",
+      "raw_id": "/nendoroid/details/n1516/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.685Z",
+      "raw_id": "Nendoroid/1500-1599/1516.json"
+    }
+  ]
+}

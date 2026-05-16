@@ -1,0 +1,70 @@
+{
+  "num": "1733",
+  "name": {
+    "en": "Nendoroid Long Kui / Blue",
+    "ja": "ねんどろいど 龍葵・藍 (ねんどろいど りゅうき·あお)",
+    "ko": "홍규 남"
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝三",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11904,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6j-vVmd7gTU/YYBKBacsd6I/AAAAAAAA1jE/6dRroiZ9kCg0GWDajOPbPZ0WyWA8d2kzwCLcBGAsYHQ/s270/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6j-vVmd7gTU/YYBKBacsd6I/AAAAAAAA1jE/6dRroiZ9kCg0GWDajOPbPZ0WyWA8d2kzwCLcBGAsYHQ/s270/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OD82QAE7ab4/YYBOsODvFeI/AAAAAAAA1ms/l6ND2Wv_fyc7-c8yuZnhBBcQa7x1EFr7wCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AqdptUzfsxA/YYBOsIM2SjI/AAAAAAAA1mw/wXRZycKdJoAHgqz4vkXMG8dSjN42E00nQCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ggvpcBF8YsY/YYBOsUWYxPI/AAAAAAAA1m0/fK95QajQH1AQfTlA_pUACzxl2JGmhWA2ACLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fYDJYzICb0c/YYBOsjoZy1I/AAAAAAAA1m4/HhXwPk26C2cloK9eATAq0pQvv-jeHWWowCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Jm0EkRKCIWA/YYBOszgfIII/AAAAAAAA1m8/CDozUjsetRAslRy1M3TVI-4ETu8eH6czwCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-f4_Pph07n-U/YYBOtE01N5I/AAAAAAAA1nA/SFkzF6e2xJQo4rWxDemfNipjdJw6MwGKwCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-tpcvOols9Lk/YYBOtNfZe0I/AAAAAAAA1nE/dq7RBVdN8skWJ2JZVPsr5GoaCR3NTO2cgCLcBGAsYHQ/s135/1733-Long-Kui-Blue-Chinese-Paladin-Sword-and-Fairy-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1733/",
+      "fetched_at": "2026-05-16T19:10:33.614Z",
+      "raw_id": "/nendoroid/details/n1733/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.738Z",
+      "raw_id": "Nendoroid/1700-1799/1733.json"
+    }
+  ]
+}

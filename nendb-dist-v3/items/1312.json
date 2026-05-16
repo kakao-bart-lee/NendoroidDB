@@ -1,0 +1,68 @@
+{
+  "num": "1312",
+  "name": {
+    "en": "Nendoroid Judy Hopps",
+    "ja": "ねんどろいど ジュディ・ホップス (ねんどろいど じゅでぃ・ほっぷす)",
+    "ko": "주디 홉스"
+  },
+  "series": {
+    "en": "Zootopia",
+    "ja": "ズートピア",
+    "ko": "주토피아",
+    "code": "zootopia"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9368,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wKdqdSrphso/X4NjkV1O69I/AAAAAAABmzk/qdwKfBeOawU3laKWI4xd_DXUGS0bTGguwCLcBGAsYHQ/s270/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wKdqdSrphso/X4NjkV1O69I/AAAAAAABmzk/qdwKfBeOawU3laKWI4xd_DXUGS0bTGguwCLcBGAsYHQ/s270/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GQoYiydFsM4/X4s8pXIOubI/AAAAAAABqTw/lIRnqSz6hgUqRcRn2HHVuX-Pu0-SAdudACLcBGAsYHQ/s135/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Z1plcBeqo4A/X4s8pW0jQZI/AAAAAAABqT0/y8TPbst8zpc7QwiQVokQ8yP1UVkqnLjAwCLcBGAsYHQ/s135/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fDYrQVlRPzs/X4s8p-cgoRI/AAAAAAABqT4/UoN-lhC1jcQtHyepnbnrPQevP2xemXiRACLcBGAsYHQ/s135/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sUOjy3BSEtY/X4s8qMLcvQI/AAAAAAABqT8/Yp0lBPaD6PAOk7Ekprif0iQqJxv0j6lagCLcBGAsYHQ/s135/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HMPUWEPMjvI/X4s8qQ-15iI/AAAAAAABqUA/Bz9kYKOdkqc86eMoFocL393s0r1Uxk1UgCLcBGAsYHQ/s135/1312-Judy-Hopps-Zootopia-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1312/",
+      "fetched_at": "2026-05-16T19:10:33.351Z",
+      "raw_id": "/nendoroid/details/n1312/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.635Z",
+      "raw_id": "Nendoroid/1300-1399/1312.json"
+    }
+  ]
+}

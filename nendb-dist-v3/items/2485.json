@@ -1,0 +1,63 @@
+{
+  "num": "2485",
+  "name": {
+    "en": "Hellish Blizzard",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "One Punch Man",
+    "ja": null,
+    "ko": null,
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B-4aNdjKGGg/ZnsoeMtseeI/AAAAAAABE3U/Zt_hLYVsd_sx8L6IuHhu5gc7RdtYizS6wCNcBGAsYHQ/s270/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B-4aNdjKGGg/ZnsoeMtseeI/AAAAAAABE3U/Zt_hLYVsd_sx8L6IuHhu5gc7RdtYizS6wCNcBGAsYHQ/s270/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-T9XHREXLzKs/Zow583RafAI/AAAAAAABF7I/Pe8v1dSmR2AxhV56R70pIdX2m_xzZlJcwCNcBGAsYHQ/s135/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-afTzPv6-iNc/Zow59TrFCEI/AAAAAAABF7M/abSShxn9MEEs-wl0PmW8vITuyY-gx5XsgCNcBGAsYHQ/s135/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SS249Tcmpa8/Zow591fqwHI/AAAAAAABF7Q/s21MZG0kNvQ8Ih6VAx4ePGS4yULRO5AqwCNcBGAsYHQ/s135/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-suC0R6JiV4Q/Zow5-miX4yI/AAAAAAABF7U/5NN8HTa5O3kBI3gNO-jKRHcm2a7paFMtQCNcBGAsYHQ/s135/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fk2ptsB7DRQ/Zow5-9YlswI/AAAAAAABF7Y/kBQyEmeP2p4ENZ2JoWXa-jaZxh-mVV_XgCNcBGAsYHQ/s135/2485-Hellish-Blizzard-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2485/",
+      "fetched_at": "2026-05-16T19:10:34.090Z",
+      "raw_id": "/nendoroid/details/n2485/"
+    }
+  ]
+}

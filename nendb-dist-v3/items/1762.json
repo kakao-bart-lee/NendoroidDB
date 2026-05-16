@@ -1,0 +1,71 @@
+{
+  "num": "1762",
+  "name": {
+    "en": "Nendoroid Miles Edgeworth",
+    "ja": "ねんどろいど 御剣怜侍 (ねんどろいど みつるぎれいじ)",
+    "ko": "미츠루기 레이지"
+  },
+  "series": {
+    "en": "Phoenix Wright: Ace Attorney",
+    "ja": "逆転裁判",
+    "ko": "역전재판",
+    "code": "phoenix-wright-ace-attorney"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12051,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CKrzlQ58cC8/Ya-zMP2LzuI/AAAAAAAA2EE/sRlA_haIlTA34lakT21NZmcZAbSMNhl5QCNcBGAsYHQ/s270/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CKrzlQ58cC8/Ya-zMP2LzuI/AAAAAAAA2EE/sRlA_haIlTA34lakT21NZmcZAbSMNhl5QCNcBGAsYHQ/s270/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--4_f3Q2j9xc/Ya-2U2XM7rI/AAAAAAAA2MY/ljD2wZ02lxkN2NllbNC8V1wJOYUCYRNSACNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-z1oaZ8nnKts/Ya-2UyamMMI/AAAAAAAA2Mg/WqTGKna-xtoMLM9C7WHKwkPtjkMm0OTfACNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0cP61n1BAk8/Ya-2VSXfc7I/AAAAAAAA2Mk/q0ObuMnj1tkafKvipnhfOKA1UaczoDz0QCNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BPo3lH3QgVE/Ya-2VtbjPmI/AAAAAAAA2Mo/MjRBHOh9r0cS-NwaF0CuxgU4Y49plFRLQCNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cydjrFfk7V8/Ya-2VjlTSGI/AAAAAAAA2Ms/0cL22t4ZTJMGqwMMrWIH5n7DmgObXKq1ACNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-t8d4fZX8htk/Ya-2V-rSypI/AAAAAAAA2Mw/pktcTZIRq64L7nq0tCCqGn7zLZKOKMJEwCNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8NltsW9TwTQ/Ya-2WIZGQ7I/AAAAAAAA2M0/MbAGIct59JwIxM_tuqW5Dxqi_Fa1SLnsACNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-HjhqmFr0Nw8/Ya-2Ux3U3KI/AAAAAAAA2Mc/3WI7QyQDWD0AvjxAhdw1qI-f00T5N6EKACNcBGAsYHQ/s135/1762-Miles-Edgeworth-Phoenix-Wright-Ace-Attorney-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1762/",
+      "fetched_at": "2026-05-16T19:10:33.632Z",
+      "raw_id": "/nendoroid/details/n1762/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.745Z",
+      "raw_id": "Nendoroid/1700-1799/1762.json"
+    }
+  ]
+}

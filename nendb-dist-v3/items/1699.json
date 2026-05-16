@@ -1,0 +1,63 @@
+{
+  "num": "1699",
+  "name": {
+    "en": "Oxnard",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hamtaro",
+    "ja": null,
+    "ko": null,
+    "code": "hamtaro"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lOjd0L9evlw/Znsodbl5obI/AAAAAAABE3I/Si5IAQg4JUEU0C8zxid5hzD7pSwTMbmgQCNcBGAsYHQ/s270/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lOjd0L9evlw/Znsodbl5obI/AAAAAAABE3I/Si5IAQg4JUEU0C8zxid5hzD7pSwTMbmgQCNcBGAsYHQ/s270/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZVYAkjXXzfk/ZowzZ76gXwI/AAAAAAABFKg/Y45Gy5dtwmsaJXbOSu-ixguFcRna-bIRQCNcBGAsYHQ/s135/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-20I0V4Hxl7c/ZowzZ2ZSUqI/AAAAAAABFKc/oNxmruR3_eUrm80jqKVhuWF5UKs3qQsngCNcBGAsYHQ/s135/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-C3BPt9HTTeE/ZowzZ3PESoI/AAAAAAABFKY/PNhGCIAoUPMTJyjwqIZV_QY1Bqg0P-pXgCNcBGAsYHQ/s135/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-L8AX0-ezIJM/Zowy6S44r6I/AAAAAAABFEo/RsydTxPW07M2IjrTYsYTdVNe_1w8G2O7gCNcBGAsYHQ/s135/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_QWN0-HMJyI/Zowy6Q_Eh2I/AAAAAAABFEk/IyYT-WxR5_Mm016Zoe2kr1gwVM14TOz0gCNcBGAsYHQ/s135/1699-Oxnard-Hamtaro-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1699/",
+      "fetched_at": "2026-05-16T19:10:33.592Z",
+      "raw_id": "/nendoroid/details/n1699/"
+    }
+  ]
+}

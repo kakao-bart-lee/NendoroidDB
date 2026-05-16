@@ -1,0 +1,64 @@
+{
+  "num": "0425b",
+  "name": {
+    "en": "Trainer Red",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": null,
+    "ko": null,
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFcfQo5Ot90wsBOM1NjeFq59Xy-PPppZQfzQU0IePD0cN20yhyphenhyphenB7UOwXScqr_3BfXROsbusLdjarcuu4k6bJZYnBO0LDCCe5qXu_u6AgX5DFXuCeAUisK5Fy3jjiO2hPlJi_H0V3WfSglfU66LVANmT4BgKdLFcTK4J4EI-Ij64fpCHtIduXPxZ29QxFVX/s270/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFcfQo5Ot90wsBOM1NjeFq59Xy-PPppZQfzQU0IePD0cN20yhyphenhyphenB7UOwXScqr_3BfXROsbusLdjarcuu4k6bJZYnBO0LDCCe5qXu_u6AgX5DFXuCeAUisK5Fy3jjiO2hPlJi_H0V3WfSglfU66LVANmT4BgKdLFcTK4J4EI-Ij64fpCHtIduXPxZ29QxFVX/s270/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO00d_bEx7osnvfMJierGUO0VRfwyWGSCMA3mZN4e9WFrK2ocIZtR6go67kYjDRNuMt4eI2cwLnWrqK6zGj_9Q4UPxHPe5wwQvgB8dbzh8ZpqY7WnYSpmAsw9pUzzuPs3tmU_EPBXA1-VIC-k-5kofauGZMnQ2boiqlf4IVIiihdC_i-KpUM_KV8jcIgbV/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5xZopDMBJXgNgnKc_7HJRH31IAA29rduLIf2RmDf1vi3VUxDZGtTu9-HE5a4LdVUlwR-C-TF5WODOdkNxYc7GG1rP543hoOeA-lc6UOdGTi_3uVRgHAs8szNKb4RWrnMUGDU1mCHwogjlErvAyQczI6Px1EJmJiEvwMc9CNm2e6PH1xVQX74XGrHI3s6/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8MbvwBnyYjoI1fM6Wwgcv-YNf5CEB8p_Wl4Ks2M1TWKtVq9x8aQE6IfxZNQOJCjjZzZ4Xlac5aMNOcElHyfkE-NfMcauzDKa89uD6lUoBSgO1V5zELmWEFsTk3IEhJnM0GGndpHpgGNzY6GYk5v7mC1UaU7WAFXj1vtxC7m-GLPzqKAzhRWR_hjJ7Arr/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5TEdlH9V3Rya5KHGvwcno7_DFAe5VqLC0JsE03c-uGe8vdLnp9vQ5URFYzhrN581UOqY34JRD7bS2syN7gGeOYA2hgfhLzfOwPI14AQBh3_n0e2wDMLqcmB0NyH9IumVdeYWvGevN-77iuR3XBMOdcUowFUCv6cbDkb2UWt3BXpnfhqOw_q6bNVM7IDsL/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt3vglmWDgUPFr5gNKpXen5mG58DRRmiUZO-HMnIsSKkZujP7PemOHc2y7eDn-0NbDbSX3-5vYXHqOpfhiv0PX21oaAYLcaAE8O56RFfpu4TnRVjwB-ODOHeQtiA1xIm4S8Sl_xX04w-v7eC2MF4WI4nWDA237pKpjsePIBmlj6AK1X_5B88EsoxDhWW3m/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPD-Jv5JpL80yinXZ0-HZG3mwsmqV1VvcrWp6V464gI5YWGVck_0uj0BWKPDt9d3DLqmHqpLzSGZb02CNwoa87ylUEYIQjC4QfpEmc1ztF_QRKROVV2S4tL98w0WkYO3OMkusgwcXK3u_ne9WGP1uvBIlEZ7QGz0M402F1tAZVNpWWwEuzkCXzAdn4sesg/s135/425-b-Trainer-Red-Pok%C3%A9mon-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n425b/",
+      "fetched_at": "2026-05-16T19:10:34.522Z",
+      "raw_id": "/nendoroid/details/n425b/"
+    }
+  ]
+}

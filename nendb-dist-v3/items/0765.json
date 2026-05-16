@@ -1,0 +1,68 @@
+{
+  "num": "0765",
+  "name": {
+    "en": "Nendoroid Tadashi Yamaguchi",
+    "ja": "ねんどろいど 山口忠 (ねんどろいど やまぐちただし)",
+    "ko": "야마구치 타다시"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6399,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hDb0TBgink8/X4NdEH3uJAI/AAAAAAABl_k/lM3eSpRnPZIgvr-kiVc3UUHPARLaubfewCLcBGAsYHQ/s270/765-Tadashi-Yamaguchi-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hDb0TBgink8/X4NdEH3uJAI/AAAAAAABl_k/lM3eSpRnPZIgvr-kiVc3UUHPARLaubfewCLcBGAsYHQ/s270/765-Tadashi-Yamaguchi-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-26jtPVP0qH8/X4i5PgZS4KI/AAAAAAAAtec/5-FF-fwHcCM7oCQGg8alwVnvIxo9LWquACLcBGAsYHQ/s135/765-Tadashi-Yamaguchi-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1uOXwzG7r2c/X4i5P5fPxeI/AAAAAAAAteg/wqs80Kdc19IzvncRDOGS5Lfyoxyv1cWZwCLcBGAsYHQ/s135/765-Tadashi-Yamaguchi-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rS9lwGSTPsg/X4i5QBNUfZI/AAAAAAAAtek/w8Y3PkOuFgYYSU3GE_VhC49x7FWMyBO8wCLcBGAsYHQ/s135/765-Tadashi-Yamaguchi-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-h0biulCx5SM/X4i5QfPGN5I/AAAAAAAAteo/1SwMKpfuuRMi0V83qvomQgqMvcdfbESdgCLcBGAsYHQ/s135/765-Tadashi-Yamaguchi-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xaSUj4yGwvw/X4i5Quwc2nI/AAAAAAAAtes/6TOsbJ28OWoY8xS6FBfEth6PNhYyXp6KACLcBGAsYHQ/s135/765-Tadashi-Yamaguchi-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n765/",
+      "fetched_at": "2026-05-16T19:10:34.786Z",
+      "raw_id": "/nendoroid/details/n765/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.502Z",
+      "raw_id": "Nendoroid/0700-0799/765.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0757",
+  "name": {
+    "en": "Nendoroid Mei: Classic Skin Edition",
+    "ja": "ねんどろいど メイ クラシックスキン・エディション (ねんどろいど めい くらしっくすきん・えでぃしょん)",
+    "ko": "메이"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6351,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X6k29EyOv0s/X4NdBTUcSGI/AAAAAAABl_E/aVsCgrvPONYu_lss_gNfeMXyZ_MAZklkQCLcBGAsYHQ/s270/757-Mei-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X6k29EyOv0s/X4NdBTUcSGI/AAAAAAABl_E/aVsCgrvPONYu_lss_gNfeMXyZ_MAZklkQCLcBGAsYHQ/s270/757-Mei-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cHM0SR2kTc4/X4i49wn7xPI/AAAAAAAAtbo/QGRDrg6UT20Y5Iv60JoVhwcdl5RS3pmDgCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Su6WE7RE644/X4i4-kVA5wI/AAAAAAAAtbs/WlJ55pSsH_gxat8kvJCjLbovPQmGgT5RwCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-crF8uOQqook/X4i4_B8AjtI/AAAAAAAAtbw/vgLvKxoH9iM4qDJGn0vxv7HmE_xlvP_7wCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dQU4uVRFZd4/X4i4_oG_TpI/AAAAAAAAtb0/y_spJ7uZzzIGARGxMF1YaEkVLzfgxXuzgCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_mPc33JNR0w/X4i5AIg2xdI/AAAAAAAAtb4/PYrAyw8pcf4kw1ckcCKuhf6grgGFxTEZQCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9sLt7jESN80/X4i5AklcGVI/AAAAAAAAtb8/EUyYQTk-_IQ3q9H_V1rKJy-FWGWSXjrXwCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-lSsiCkRLY8o/X4i5BMuPcWI/AAAAAAAAtcA/O4i8m2ShS3wWSb1PJjOba5urubTRNRi9wCLcBGAsYHQ/s135/757-Mei-Overwatch-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n757/",
+      "fetched_at": "2026-05-16T19:10:34.781Z",
+      "raw_id": "/nendoroid/details/n757/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.500Z",
+      "raw_id": "Nendoroid/0700-0799/757.json"
+    }
+  ]
+}

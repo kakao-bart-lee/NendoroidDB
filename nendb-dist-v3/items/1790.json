@@ -1,0 +1,68 @@
+{
+  "num": "1790",
+  "name": {
+    "en": "Nendoroid Kano",
+    "ja": "ねんどろいど 鹿乃 (ねんどろいど かの)",
+    "ko": "카노"
+  },
+  "series": {
+    "en": "Kano",
+    "ja": "鹿乃",
+    "ko": "버츄얼 유튜버",
+    "code": "kano"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12152,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8avDODLqyes/YdGwS_s966I/AAAAAAAA2eU/BryLYVLI2FMkkyma1nlZeWc6e5iRry6mACNcBGAsYHQ/s270/1790-Kano-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8avDODLqyes/YdGwS_s966I/AAAAAAAA2eU/BryLYVLI2FMkkyma1nlZeWc6e5iRry6mACNcBGAsYHQ/s270/1790-Kano-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Arot0_3iPhc/YdGzbU5AyQI/AAAAAAAA2jI/_CzhZIa2t6UWAUspL8j4k43-7nyIHjuXgCNcBGAsYHQ/s135/1790-Kano-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-37aka0Eowv0/YdGzbq4_EII/AAAAAAAA2jM/sZMCZkz9sxMW0nifWzNfGS4OtZqVaz1lwCNcBGAsYHQ/s135/1790-Kano-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-II90U5hpk6g/YdGzboK6AhI/AAAAAAAA2jQ/R7jg0anbil42eugMaqDyvyTpbFRZPkO0gCNcBGAsYHQ/s135/1790-Kano-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PK5y2gpFSi4/YdGzb2JqJNI/AAAAAAAA2jU/qy5RvTGivpkVBPmf6vzErMU42CpYmbiFwCNcBGAsYHQ/s135/1790-Kano-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4b02798Jmjs/YdGzcK2KafI/AAAAAAAA2jY/FYIOnKa-d4EqgPZvHbhqIuOBym6veo7pwCNcBGAsYHQ/s135/1790-Kano-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1790/",
+      "fetched_at": "2026-05-16T19:10:33.648Z",
+      "raw_id": "/nendoroid/details/n1790/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.751Z",
+      "raw_id": "Nendoroid/1700-1799/1790.json"
+    }
+  ]
+}

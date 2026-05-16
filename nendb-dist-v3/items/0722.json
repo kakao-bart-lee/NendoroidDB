@@ -1,0 +1,68 @@
+{
+  "num": "0722",
+  "name": {
+    "en": "Nendoroid Homura Akemi: Haregi Ver.",
+    "ja": "ねんどろいど 暁美ほむら 晴着Ver. (ねんどろいど あけみほむら はれぎVer.)",
+    "ko": "아케미 호무라 하레기 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6175,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y-rqPIPw0qY/X4Nc3Ur0_4I/AAAAAAABl8s/tQciRINJZMEaMmeXkK4SKwnkSrFnPU0WQCLcBGAsYHQ/s270/722-Homura-Akemi-Kimono-Ver-Puella-Magi-Madoka-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y-rqPIPw0qY/X4Nc3Ur0_4I/AAAAAAABl8s/tQciRINJZMEaMmeXkK4SKwnkSrFnPU0WQCLcBGAsYHQ/s270/722-Homura-Akemi-Kimono-Ver-Puella-Magi-Madoka-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1X9PDH4PVOc/X4i34xA-3HI/AAAAAAAAtOI/HggHcM0yROIOh3hAmyed4AdypzRvT-TIwCLcBGAsYHQ/s135/722-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9lzbrt3RRaI/X4i35M2enZI/AAAAAAAAtOM/YCUEQl8AJx4L-aHBCENCZOOZQ_kRAmj3gCLcBGAsYHQ/s135/722-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1bon67ZyP7c/X4i35cEzHqI/AAAAAAAAtOQ/ngjqv4CkQe8Vh2NxDlYZMqIsdREsQhziACLcBGAsYHQ/s135/722-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZOXKHpF68Z0/X4i350uy7dI/AAAAAAAAtOU/UG1XEmXOkoAn3-CJHBcrftdFMRhNngISQCLcBGAsYHQ/s135/722-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-z1CD_Q8rKjU/X4i36f2mGuI/AAAAAAAAtOY/RpH8lTvQQ84zvV92wapPFVmVJCEFiGLOACLcBGAsYHQ/s135/722-Homura-Akemi-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n722/",
+      "fetched_at": "2026-05-16T19:10:34.761Z",
+      "raw_id": "/nendoroid/details/n722/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.492Z",
+      "raw_id": "Nendoroid/0700-0799/722.json"
+    }
+  ]
+}

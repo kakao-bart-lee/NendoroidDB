@@ -1,0 +1,64 @@
+{
+  "num": "2384",
+  "name": {
+    "en": "Shylily",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KRS_Hx8eJVs/Ziq-ua_qUCI/AAAAAAABD_U/kb5bUOMAdKwMvbisL_Boy5uRH_c9HTcVgCNcBGAsYHQ/s270/2384-Shylily-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KRS_Hx8eJVs/Ziq-ua_qUCI/AAAAAAABD_U/kb5bUOMAdKwMvbisL_Boy5uRH_c9HTcVgCNcBGAsYHQ/s270/2384-Shylily-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JMneFOQ_goM/Zow0YBBJtnI/AAAAAAABFRI/yL6X-LNZuAo_s3Dx0QYWw1SsIhLtFFrYQCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l9F4h4VEQVg/Zow0YoqoYjI/AAAAAAABFRM/MErJBheEG04jfjytEQ7tsIrH-_vx7Y9_gCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nvOdj3rIM1k/Zow0ZKYrcGI/AAAAAAABFRQ/oH6gxmXzfT8nnfleaniF2MH3091mBFcsgCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HLjKaU54olw/Zow0ZgZ8hcI/AAAAAAABFRU/jgufZ3bc2Ck2c4HQeLPkkFpV7mptLYnEgCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Lnu5ljpoD1E/Zow0aRX6GRI/AAAAAAABFRY/WSYOO7g4M34XQF39StQE8iB_a-ZHwihjQCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7wxSXpTzKxc/Zow0ahCzC9I/AAAAAAABFRc/ScvHP_iONvYTZ92ZdziIyKe3xdas0mVIwCNcBGAsYHQ/s135/2384-Shylily-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2384/",
+      "fetched_at": "2026-05-16T19:10:34.024Z",
+      "raw_id": "/nendoroid/details/n2384/"
+    }
+  ]
+}

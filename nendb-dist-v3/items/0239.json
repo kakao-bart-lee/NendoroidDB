@@ -1,0 +1,67 @@
+{
+  "num": "0239",
+  "name": {
+    "en": "Nendoroid Racing Miku 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
+    "ja": "ねんどろいど レーシングミク 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
+    "ko": "레이싱 미쿠 2012 Ver."
+  },
+  "series": {
+    "en": "Racing Miku 2012 ver.",
+    "ja": "初音ミク GTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "racing-miku-2012-ver"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3503,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ulvzjSgfjL0/X4NLOuCnHdI/AAAAAAABlXo/p0hALSxW_ssltZZaaTYhP5YQ3cu-2PDUwCLcBGAsYHQ/s270/239-Hatsune-Miku-2012-Racing-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ulvzjSgfjL0/X4NLOuCnHdI/AAAAAAABlXo/p0hALSxW_ssltZZaaTYhP5YQ3cu-2PDUwCLcBGAsYHQ/s270/239-Hatsune-Miku-2012-Racing-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sPD0g31pQUw/X4dXekJCBSI/AAAAAAAAqd8/DspD_1O_UwA3PNG6CO4p46WQClShPqctgCLcBGAsYHQ/s135/239-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FAePLY1zSy0/X4dXfH75lEI/AAAAAAAAqeA/zbYB2JIpHVg-byfM6rrVVXsooqFobH-egCLcBGAsYHQ/s135/239-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-S-XhtNMDx5w/X4dXfMHeX2I/AAAAAAAAqeE/ltH3RcbkxP8YGQsDv9A0CoUWeuhfhfH3gCLcBGAsYHQ/s135/239-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BFvg80FD9mE/X4dXfeuk_HI/AAAAAAAAqeI/S9YpI7lFpr4dbEkD8TfLUE60sV48hPssACLcBGAsYHQ/s135/239-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n239/",
+      "fetched_at": "2026-05-16T19:10:34.034Z",
+      "raw_id": "/nendoroid/details/n239/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.330Z",
+      "raw_id": "Nendoroid/0200-0299/239.json"
+    }
+  ]
+}

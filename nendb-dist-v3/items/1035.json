@@ -1,0 +1,70 @@
+{
+  "num": "1035",
+  "name": {
+    "en": "Nendoroid Atago",
+    "ja": "ねんどろいど 愛宕 (ねんどろいど あたご)",
+    "ko": "아타고 Mk.2"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7028,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7833,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--4RYS68FMzI/X4Nfou4FcZI/AAAAAAABmTU/yGAx3Rsh9o4HLUx1etaNGmlzu4dZOKUqQCLcBGAsYHQ/s270/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--4RYS68FMzI/X4Nfou4FcZI/AAAAAAABmTU/yGAx3Rsh9o4HLUx1etaNGmlzu4dZOKUqQCLcBGAsYHQ/s270/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Tolze_eS2pY/X4rr15aIaiI/AAAAAAABoeg/5Rc5a6afj0QGpjsW4-GEG312lB2YI3SWgCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dB79yifG5EI/X4rr2CFQeDI/AAAAAAABoek/mRp-W7VeGiIvIUXbDyT7DNksY1_Qr-BzgCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N0KdzxbEFlg/X4rr2QHLfgI/AAAAAAABoeo/zPfJF4aWybYGzMG7CtF6P5iuK76n7SoLwCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ibQFxDhtPYA/X4rr2on0NkI/AAAAAAABoes/ufWYWcuwL9gsFBia1qEUYjIuaAPIZaMmwCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RzAsrJn8xIU/X4rr20opVjI/AAAAAAABoew/LPdwzLbvk6kchRAQ7SxeSi8bRzOK8_axACLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-h8KOdIkWee4/X4rr3EqCnyI/AAAAAAABoe0/levjdD0ltf8DonHytVylpMuuXDLlRLF8wCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-efm00stZ3rY/X4rr3aL7zZI/AAAAAAABoe4/C5xSAKKiTRs6Fl4Dgw4BMyn32JtkdAPRwCLcBGAsYHQ/s135/1035-Atago-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1035/",
+      "fetched_at": "2026-05-16T19:10:33.160Z",
+      "raw_id": "/nendoroid/details/n1035/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.569Z",
+      "raw_id": "Nendoroid/1000-1099/1035.json"
+    }
+  ]
+}

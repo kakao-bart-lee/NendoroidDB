@@ -1,0 +1,67 @@
+{
+  "num": "0571",
+  "name": {
+    "en": "Nendoroid Hotaru Ichijo",
+    "ja": "ねんどろいど 一条蛍 (ねんどろいど いちじょうほたる)",
+    "ko": "이치죠 호타루"
+  },
+  "series": {
+    "en": "Non Non Biyori Repeat",
+    "ja": "のんのんびより りぴーと",
+    "ko": "논논비요리",
+    "code": "non-non-biyori-repeat"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5259,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KGFk9SG2IqQ/X4NOmzgc80I/AAAAAAABlx8/zpaQ7jyelHAhy0i08g14jKqHH_uklh5EACLcBGAsYHQ/s270/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KGFk9SG2IqQ/X4NOmzgc80I/AAAAAAABlx8/zpaQ7jyelHAhy0i08g14jKqHH_uklh5EACLcBGAsYHQ/s270/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uP4-Rdvz1hI/X4itJEo9yuI/AAAAAAAAsTY/86xuJF4v7hs-Uyw1oLMU7b87yV_zHS1TgCLcBGAsYHQ/s135/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gEi4CYcS25I/X4itJc6Jr8I/AAAAAAAAsTc/5NnBSZQn9Vo2aYngFMVE7tbLGXKyv9mkgCLcBGAsYHQ/s135/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--wHiO5ByWsg/X4itJq3mbpI/AAAAAAAAsTg/ohfx6a35sCEIZNx60CgxqKCUkFUYRp7zgCLcBGAsYHQ/s135/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jIkNf3mm4OU/X4itJ3wtWuI/AAAAAAAAsTk/LXutKIX-n7M2Tqyv8Tk_3FVaM6EWehMywCLcBGAsYHQ/s135/571-Hotaru-Ichijo-Non-Non-Biyori-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n571/",
+      "fetched_at": "2026-05-16T19:10:34.614Z",
+      "raw_id": "/nendoroid/details/n571/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.449Z",
+      "raw_id": "Nendoroid/0500-0599/571.json"
+    }
+  ]
+}

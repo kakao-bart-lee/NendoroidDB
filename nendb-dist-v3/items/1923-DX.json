@@ -1,0 +1,55 @@
+{
+  "num": "1923-DX",
+  "name": {
+    "en": "Nendoroid Laffey DX",
+    "ja": "ねんどろいど ラフィー DX (ねんどろいど らふぃー DX)",
+    "ko": "라피 DX"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12982,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220715/12982/101540/large/a8e54050fbb94e1c389272c7ff9c5735.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.783Z",
+      "raw_id": "Nendoroid/1900-1999/1923-DX.json"
+    }
+  ]
+}

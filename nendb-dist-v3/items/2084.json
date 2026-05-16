@@ -1,0 +1,69 @@
+{
+  "num": "2084",
+  "name": {
+    "en": "Nendoroid Ladybug",
+    "ja": "ねんどろいど レディバグ (ねんどろいど れでぃばぐ)",
+    "ko": "레이디버그"
+  },
+  "series": {
+    "en": "Miraculous: Tales Of Ladybug & Cat Noir",
+    "ja": "ミラキュラス レディバグ&シャノワール",
+    "ko": "미라큘러스: 레이디버그와 블랙캣",
+    "code": "miraculous-tales-of-ladybug-cat-noir"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14058,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YAUYr2nkc-U/ZA3eEDgrGpI/AAAAAAAA9LM/yjHdTQtLf_0cUaKvagsB0LxdTicIUueWQCNcBGAsYHQ/s270/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YAUYr2nkc-U/ZA3eEDgrGpI/AAAAAAAA9LM/yjHdTQtLf_0cUaKvagsB0LxdTicIUueWQCNcBGAsYHQ/s270/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lh8tplU2sFs/ZA3dP4EY_sI/AAAAAAAA9Gg/KCfBPwxfG70pPtepwB8n_dSYXCPCMfE9ACNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2p-MIUctEIU/ZA3dQt3oowI/AAAAAAAA9Gc/WYF4zppi0LkEX_ZDBHZGI5cvtMccZvDWwCNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5mpypgt5FfM/ZA3dRBQQ40I/AAAAAAAA9Gk/G2bD2W4QS0I_YsahGIea8qbcmW8k_ka9ACNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yYJyoYSI0no/ZA3dRKG1veI/AAAAAAAA9Go/AaNA1S-23bglsunACcZ6iog7Trsbnh6LwCNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bCqsGFW8sy0/ZA3dRRgZ4GI/AAAAAAAA9Gs/tYukFf5tguQI5zak-LWJlDyR_VZRUtC7gCNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fxrAGnRm4sE/ZA3dRWtkudI/AAAAAAAA9Gw/Zy2mkwQjAewcSXfX4PC1jgVjbQwDp3CiACNcBGAsYHQ/s135/2084-Ladybug-Miraculous-Tales-Of-Ladybug-and-Cat-Noir-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2084/",
+      "fetched_at": "2026-05-16T19:10:33.830Z",
+      "raw_id": "/nendoroid/details/n2084/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.823Z",
+      "raw_id": "Nendoroid/2000-2099/2084.json"
+    }
+  ]
+}

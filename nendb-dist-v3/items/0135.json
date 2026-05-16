@@ -1,0 +1,69 @@
+{
+  "num": "0135",
+  "name": {
+    "en": "Nendoroid Ui Hirasawa (ねんどろいど ひらさわうい)",
+    "ja": "ねんどろいど 平沢 憂 (ねんどろいど ひらさわうい)",
+    "ko": "히라사와 우이"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2982,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wgFr5KnERZ8/X4NJ46TpphI/AAAAAAABlQI/ICz_9vjt-wYPagQPVJYcT_IXMJquiPBBwCLcBGAsYHQ/s270/135-Ui%2BHirasawa-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wgFr5KnERZ8/X4NJ46TpphI/AAAAAAABlQI/ICz_9vjt-wYPagQPVJYcT_IXMJquiPBBwCLcBGAsYHQ/s270/135-Ui%2BHirasawa-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7L7QTnMkexo/X4dSpRPl6jI/AAAAAAAAp4E/AlPe2muxt_sARXige96rMv3reTnDCQaTgCLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4UIQJhZZ2EE/X4dSppqRyQI/AAAAAAAAp4I/-ESLuId4rgwob6jByuAIsywd724IOfN2QCLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LYcibq1PFwU/X4dSqNehy0I/AAAAAAAAp4M/RejFBOXmiggqFi8koiVDoyqPepaIXtsVwCLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eCQ8r2T_NM0/X4dSqevv8cI/AAAAAAAAp4Q/sAOvb8xcLCAwLhEKTAiRHB2kNL_VuQbJACLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vigjT3iXHkM/X4dSqd4dAUI/AAAAAAAAp4U/XsiNl4OsSlM6pBGEWbUji5dqG-oJZ9XOACLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sHuzabAubo0/X4dSqq1RH7I/AAAAAAAAp4Y/ZfauytcudaI9MKw1cWnmHYMwtfe5H339ACLcBGAsYHQ/s135/135-Ui-Hirasawa-K-ON-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n135/",
+      "fetched_at": "2026-05-16T19:10:33.381Z",
+      "raw_id": "/nendoroid/details/n135/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.297Z",
+      "raw_id": "Nendoroid/0100-0199/135.json"
+    }
+  ]
+}

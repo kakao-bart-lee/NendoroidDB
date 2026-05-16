@@ -1,0 +1,70 @@
+{
+  "num": "0176b",
+  "name": {
+    "en": "Alleyne",
+    "ja": "ねんどろいど アレイン2PカラーVer. (ねんどろいど あれいん2PからーVer.)",
+    "ko": "아레인 2P 컬러 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3418,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PtBiCzicWX0/X4NKHC1hUrI/AAAAAAABlS8/MWRife3Srgk8x5UIjrggEt4bcMPW_eAuACLcBGAsYHQ/s270/176B-Alleyne-Queens-2P-Version-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PtBiCzicWX0/X4NKHC1hUrI/AAAAAAABlS8/MWRife3Srgk8x5UIjrggEt4bcMPW_eAuACLcBGAsYHQ/s270/176B-Alleyne-Queens-2P-Version-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CsYb86BfpPM/X4dTzHkKQ9I/AAAAAAAAqIM/DKvVqh5ug3QWWUTmeIWEXTDzcsBZhD-eACLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YNXNU0K4fIc/X4dTztZw1lI/AAAAAAAAqIQ/DN0GLOROay4jf0V76fTzFjBlT8oZArfpACLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uM2aYe-AoCM/X4dTzyJWEKI/AAAAAAAAqIU/2G7vGyWKKs8KWCuPJUv8kYtka_JwQEhJACLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x4gHDwDvgHY/X4dT0kpBadI/AAAAAAAAqIY/-Fjqc9PxD_8dzr6PQFPQtYO1iqfAfuTrgCLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5jgrfdvK3-Y/X4dT1F1YeeI/AAAAAAAAqIc/KctHAkNiicwAPvQLbJyWRxdbjGvbMZRfgCLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-FeJBMQswczE/X4dT1boSgeI/AAAAAAAAqIg/opjAMTxrOccThE4L-RkgbrgBd24pXrrVgCLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bYofE0MFCHo/X4dT2OttuVI/AAAAAAAAqIk/umDAzRIDnrQYC06eTo3KJCOhOgOGvljDACLcBGAsYHQ/s135/176B-Alleyne-Queens-Blade-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n176b/",
+      "fetched_at": "2026-05-16T19:10:33.636Z",
+      "raw_id": "/nendoroid/details/n176b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.309Z",
+      "raw_id": "Nendoroid/0100-0199/176b.json"
+    }
+  ]
+}

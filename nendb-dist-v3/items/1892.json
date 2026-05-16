@@ -1,0 +1,70 @@
+{
+  "num": "1892",
+  "name": {
+    "en": "Nendoroid Zapp Renfro",
+    "ja": "ねんどろいど ザップ・レンフロ (ねんどろいど ざっぷ・れんふろ)",
+    "ko": "재프 렌프로"
+  },
+  "series": {
+    "en": "Blood Blockade Battlefront & Beyond",
+    "ja": "血界戦線＆BEYOND",
+    "ko": "혈계전선",
+    "code": "blood-blockade-battlefront-beyond"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12772,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PIvY8D3WWQ8/Yw_WLOTRySI/AAAAAAAA6ZI/hmgsaLbkJ20diKQGOHjJ1pcT-bIfQF6oQCNcBGAsYHQ/s270/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PIvY8D3WWQ8/Yw_WLOTRySI/AAAAAAAA6ZI/hmgsaLbkJ20diKQGOHjJ1pcT-bIfQF6oQCNcBGAsYHQ/s270/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uYB_i4v4wj8/YxEWq4XfzsI/AAAAAAAA6ic/d5Hz1NK1e4QHt6ZGi96F4bm5ZZM4tktWQCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T1SFSGxyoMo/YxEWrYFAyTI/AAAAAAAA6ig/WAfTsC21swkptQpO8qPZj4sfSReego5MQCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KGETU-rs0ro/YxEWrxi9RSI/AAAAAAAA6ik/tf5s3DZ-VXQSVKrolrO6eY8WOY616UydQCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--UMnpSklfFg/YxEWsc99ajI/AAAAAAAA6io/tpSLiUJpWDIo7Ai7JVk2QdthSfYT94sIACNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jd4CS4kRQ3A/YxEWs-yoc0I/AAAAAAAA6is/TSr8I4PmBpUsQCfC11UaMxbWV3lw68TbgCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ydZYe6ZT6dk/YxEWtYgLUFI/AAAAAAAA6iw/ZOjrs5cLykUK2uhQz9MdFN8KDW3n-4oEQCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7PhJJc_ae6A/YxEWt4uFBuI/AAAAAAAA6i0/jP-jH3iPwUMSQMZDufsHkhoBXACjFkvigCNcBGAsYHQ/s135/1892-Zapp-Renfro-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1892/",
+      "fetched_at": "2026-05-16T19:10:33.714Z",
+      "raw_id": "/nendoroid/details/n1892/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.776Z",
+      "raw_id": "Nendoroid/1800-1899/1892.json"
+    }
+  ]
+}

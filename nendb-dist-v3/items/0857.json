@@ -1,0 +1,68 @@
+{
+  "num": "0857",
+  "name": {
+    "en": "Nendoroid Japanese Crested Ibis (Nendoroid Toki)",
+    "ja": "ねんどろいど トキ (ねんどろいど とき)",
+    "ko": "따오기"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6914,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_gi9VWsml8g/X4Nd4iJZqpI/AAAAAAABmGQ/FXXMgdGEREgurim-Rg7hcNCpprc1qT-vwCLcBGAsYHQ/s270/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_gi9VWsml8g/X4Nd4iJZqpI/AAAAAAABmGQ/FXXMgdGEREgurim-Rg7hcNCpprc1qT-vwCLcBGAsYHQ/s270/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ymlSnWDZgG8/X4rjU6yv6WI/AAAAAAABnUU/xMkqnluSFv4QzsWntrnZ_YvtKb3wzc_PgCLcBGAsYHQ/s135/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W0zmCqJev3k/X4rjVMZL-GI/AAAAAAABnUY/FMJzfxv8gx8rQrbx8ZrKHne-eYlZSXqQQCLcBGAsYHQ/s135/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4DZ7RfR0K5U/X4rjVbJs9LI/AAAAAAABnUc/slvAOCHng20YhAdl1SFahZFqvjEjwMbFgCLcBGAsYHQ/s135/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5ovQSQxAD1I/X4rjVr1rfWI/AAAAAAABnUg/KL1TYCmM1PwTyPMhJWrbuf7wdFGg99WrgCLcBGAsYHQ/s135/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S84OPakxObI/X4rjV6lBRsI/AAAAAAABnUk/N_3VRQ2EoVQrVnQ3QOhcWnz9HaOv97QKQCLcBGAsYHQ/s135/857-Japanese-Crested-Ibis-Kemono-Friends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n857/",
+      "fetched_at": "2026-05-16T19:10:34.839Z",
+      "raw_id": "/nendoroid/details/n857/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.523Z",
+      "raw_id": "Nendoroid/0800-0899/857.json"
+    }
+  ]
+}

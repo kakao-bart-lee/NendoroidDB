@@ -1,0 +1,67 @@
+{
+  "num": "0383",
+  "name": {
+    "en": "Nendoroid May'n (ねんどろいど めいん)",
+    "ja": "ねんどろいど May'n (ねんどろいど めいん)",
+    "ko": "May'n"
+  },
+  "series": {
+    "en": "May'n",
+    "ja": "May'n",
+    "ko": "May'n",
+    "code": "may-n"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4610,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4218,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jcTx0LuWB7I/X4NNDNLxliI/AAAAAAABlkw/40bSiNKS4Jk2a8SXCdDBkLNJSZKg2mwAgCLcBGAsYHQ/s270/383-Mayn-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jcTx0LuWB7I/X4NNDNLxliI/AAAAAAABlkw/40bSiNKS4Jk2a8SXCdDBkLNJSZKg2mwAgCLcBGAsYHQ/s270/383-Mayn-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_hyq1KfU8a8/X4dbeQT-rGI/AAAAAAAArOo/S0UeC7XcHnci40mMs4MrBBzj_1EbjAD5ACLcBGAsYHQ/s135/383-Mayn-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LCTGAdGSHEA/X4dbeo1hzdI/AAAAAAAArOs/F8Qu6BSfrigAq6n_MXIxJoaYdbhvP4O6gCLcBGAsYHQ/s135/383-Mayn-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XmETXm4OTmQ/X4dbewj88RI/AAAAAAAArOw/ia2J2dGXMoMXCPc3EpBjsxa8n1dv8MSVACLcBGAsYHQ/s135/383-Mayn-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-chqsed13iUA/X4dbe1E798I/AAAAAAAArO0/gO1TDx6XTEAUTn-VSfT0EZtaK02hALwoQCLcBGAsYHQ/s135/383-Mayn-Celebrity-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n383/",
+      "fetched_at": "2026-05-16T19:10:34.497Z",
+      "raw_id": "/nendoroid/details/n383/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.367Z",
+      "raw_id": "Nendoroid/0300-0399/383.json"
+    }
+  ]
+}

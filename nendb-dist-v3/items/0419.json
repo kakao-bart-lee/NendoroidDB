@@ -1,0 +1,68 @@
+{
+  "num": "0419",
+  "name": {
+    "en": "Nendoroid Iona (ねんどろいど いおな)",
+    "ja": "ねんどろいど イオナ (ねんどろいど いおな)",
+    "ko": "이오나"
+  },
+  "series": {
+    "en": "Arpeggio of Blue Steel -Ars Nova-",
+    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "ko": "푸른 강철의 아르페지오",
+    "code": "arpeggio-of-blue-steel-ars-nova"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4406,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6bmdhz3iQtM/X4NNsNIcOaI/AAAAAAABlns/pmg6u_eoLswDw5WU4JTraRDri99Ne8qMQCLcBGAsYHQ/s270/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6bmdhz3iQtM/X4NNsNIcOaI/AAAAAAABlns/pmg6u_eoLswDw5WU4JTraRDri99Ne8qMQCLcBGAsYHQ/s270/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s8XrugVjS2k/X4ddlWkIVOI/AAAAAAAArcY/tPX2YC3ymG09wmkYWZiBQdxTF5hIpCqZwCLcBGAsYHQ/s135/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-li1bcY4JhEc/X4ddlbJkvOI/AAAAAAAArcc/tEtxO0yRuI4yWVV5I4NzG04XNrj1k_HCwCLcBGAsYHQ/s135/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Edax9JhdzzE/X4ddlu09yCI/AAAAAAAArcg/LOEs8rqA-DISv4m7J0xVdxA0idq-oxFfACLcBGAsYHQ/s135/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e5u3q5tQpaE/X4ddlrUxVWI/AAAAAAAArck/MvbEDi5lbTIz-vrFs2aLx9tDQshAG80VgCLcBGAsYHQ/s135/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tYZoNlCdogU/X4ddlzTallI/AAAAAAAArco/7k9XbSxEJb4FP8vND69Nj2oFGDitaXnOgCLcBGAsYHQ/s135/419-Iona-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n419/",
+      "fetched_at": "2026-05-16T19:10:34.517Z",
+      "raw_id": "/nendoroid/details/n419/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.375Z",
+      "raw_id": "Nendoroid/0400-0499/419.json"
+    }
+  ]
+}

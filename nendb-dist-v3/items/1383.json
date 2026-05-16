@@ -1,0 +1,68 @@
+{
+  "num": "1383",
+  "name": {
+    "en": "Nendoroid Jean Kirstein",
+    "ja": "ねんどろいど ジャン・キルシュタイン (ねんどろいど じゃん・きるしゅたいん)",
+    "ko": "장 키르슈타인"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13665,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fm9WnX6pr2s/Y69BKLtcb2I/AAAAAAAA8O0/dDD-QajAebAjo3cQM_ZIuRegWPj5ldXwgCNcBGAsYHQ/s270/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fm9WnX6pr2s/Y69BKLtcb2I/AAAAAAAA8O0/dDD-QajAebAjo3cQM_ZIuRegWPj5ldXwgCNcBGAsYHQ/s270/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ujxiYdUUUhw/Y684OJOGPRI/AAAAAAAA8Es/-kQJ0qDqL4MMab75XivaYxf0IHFb0JZHgCNcBGAsYHQ/s135/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YO9T9jyEsK4/Y684OOnQStI/AAAAAAAA8Ew/ItGgqNg4wrI7M8v6CqFo56pfmMhNDtljQCNcBGAsYHQ/s135/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A49FORvNWdo/Y684OBrEWsI/AAAAAAAA8E0/dXbR0sgjJ9Ux9G-XbP3V2cdpB9YHUOC4gCNcBGAsYHQ/s135/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4Tl3rOJ1ozU/Y684O9XQ11I/AAAAAAAA8E4/QYBZM1ld8m03VEQfAxKLQoTs3Z4SmGK2wCNcBGAsYHQ/s135/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-X8MkfU-tNvw/Y684PQZyjKI/AAAAAAAA8E8/RCNFeayrkMI9SowfNH7gRx9tD04ROerAACNcBGAsYHQ/s135/1383-Jean-Kirstein-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1383/",
+      "fetched_at": "2026-05-16T19:10:33.395Z",
+      "raw_id": "/nendoroid/details/n1383/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.652Z",
+      "raw_id": "Nendoroid/1300-1399/1383.json"
+    }
+  ]
+}

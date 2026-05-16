@@ -1,0 +1,68 @@
+{
+  "num": "0453",
+  "name": {
+    "en": "Nendoroid Hana Mutou (ねんどろいど むとうはな)",
+    "ja": "ねんどろいど 夢塔ハナ (ねんどろいど むとうはな)",
+    "ko": "무토 하나"
+  },
+  "series": {
+    "en": "Captain Earth",
+    "ja": "キャプテン・アース",
+    "ko": "캡틴 어스",
+    "code": "captain-earth"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4579,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EHQMtjwDAzU/X4NN0183kPI/AAAAAAABlp4/2gP3F4IslcgP7sPEteeCq4QK8IZ_lJ0wACLcBGAsYHQ/s270/453-Hana%2BMutou-Captain%2BEarth-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EHQMtjwDAzU/X4NN0183kPI/AAAAAAABlp4/2gP3F4IslcgP7sPEteeCq4QK8IZ_lJ0wACLcBGAsYHQ/s270/453-Hana%2BMutou-Captain%2BEarth-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--8GgpGMyoj8/X4deZxf6O8I/AAAAAAAArnk/vne_6R3FptkI3vuPe5xMWN53g2oLy43BgCLcBGAsYHQ/s135/453-Hana-Mutou-Captain-Earth-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Mmgn9hxNPIU/X4deaT0Zf8I/AAAAAAAArno/b_us0BUsQ-gw52Bq-_4t7_XrbURdDAbiACLcBGAsYHQ/s135/453-Hana-Mutou-Captain-Earth-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eZpYc2dKH2I/X4dea4phMOI/AAAAAAAArns/S9yBXx3vmvYmv9Y-16bFtmQ_pjctuuiRgCLcBGAsYHQ/s135/453-Hana-Mutou-Captain-Earth-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xT7dwUIfvIc/X4debb5iuKI/AAAAAAAArnw/PjUHjyhT6IUmnYWUkK2tZ2jB3UA1ZVGnQCLcBGAsYHQ/s135/453-Hana-Mutou-Captain-Earth-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ms52k_SC42k/X4decIHHkbI/AAAAAAAArn0/wFPSzslu2FAfxvlmE-PgCVGU2V0K46FlgCLcBGAsYHQ/s135/453-Hana-Mutou-Captain-Earth-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n453/",
+      "fetched_at": "2026-05-16T19:10:34.538Z",
+      "raw_id": "/nendoroid/details/n453/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.383Z",
+      "raw_id": "Nendoroid/0400-0499/453.json"
+    }
+  ]
+}

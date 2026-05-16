@@ -1,0 +1,70 @@
+{
+  "num": "1718",
+  "name": {
+    "en": "Nendoroid Traveler (Lumine)",
+    "ja": "ねんどろいど 旅人（蛍） (ねんどろいど たびびと（ほたる）)",
+    "ko": "루미네"
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": "原神",
+    "ko": "원신",
+    "code": "genshin-impact"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11782,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FfarnsNuWUk/Ya-zDYseGuI/AAAAAAAA2C8/JEKOdtYzR0I_Nk8UaE9gFxI9XxvzUPZ5wCNcBGAsYHQ/s270/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FfarnsNuWUk/Ya-zDYseGuI/AAAAAAAA2C8/JEKOdtYzR0I_Nk8UaE9gFxI9XxvzUPZ5wCNcBGAsYHQ/s270/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PZp1jisggvQ/Ya-19UnkhFI/AAAAAAAA2Fs/bo3NrcYD0LAupeCthMjQuMvbh4es8A37QCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FJcniVOLqG4/Ya-19vsoCAI/AAAAAAAA2Fw/VY4J77qwRsAXvWvRgl80Y5fI2BNlANizwCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ub_AYUGqDIM/Ya-19gU4U4I/AAAAAAAA2F0/9CesSRwGS3IJZ3VPMmTDq3NXKsDzss9mQCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-clYeZ-mnXKU/Ya-19xfImDI/AAAAAAAA2F4/D4lhNhslCPICMGG_Pos9CkvBp7AGLt67gCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Gp9NlOsoxVs/Ya-1-FYmOjI/AAAAAAAA2F8/zhFT8IA4s9MXkLMeY0MUgRHxUBUn-0wpgCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-YIe9V_D1p68/Ya-1-JJf3uI/AAAAAAAA2GA/IRPkccjVERMUzOZyUTicPjXBft7FofaowCNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-_JnC76AMI8Y/Ya-1-aW075I/AAAAAAAA2GE/NdloMzZVJJUSzE3a_dKKp76l2-y0HJ93ACNcBGAsYHQ/s135/1718-Traveler-Lumine-Genshin-Impact-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1718/",
+      "fetched_at": "2026-05-16T19:10:33.605Z",
+      "raw_id": "/nendoroid/details/n1718/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.734Z",
+      "raw_id": "Nendoroid/1700-1799/1718.json"
+    }
+  ]
+}

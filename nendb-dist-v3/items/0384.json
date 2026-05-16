@@ -1,0 +1,68 @@
+{
+  "num": "0384",
+  "name": {
+    "en": "Nendoroid Suruga Kanbaru (ねんどろいど かんばるするが)",
+    "ja": "ねんどろいど 神原駿河 (ねんどろいど かんばるするが)",
+    "ko": "칸바루 스루가"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3871,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4123,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-goCy6WGSbAo/X4NNDnz4xwI/AAAAAAABlk0/7Pgoljwhq0k1_r_KWpQY-9-JB9iPg94cgCLcBGAsYHQ/s270/384-Suruga-Kanbaru-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-goCy6WGSbAo/X4NNDnz4xwI/AAAAAAABlk0/7Pgoljwhq0k1_r_KWpQY-9-JB9iPg94cgCLcBGAsYHQ/s270/384-Suruga-Kanbaru-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yxHpiQyqpHg/X4dbfJ7ByxI/AAAAAAAArO4/Wbj-Pl5VDSQdEImwDg0vyK51UxfCgKxIgCLcBGAsYHQ/s135/384-Suruga-Kanbaru-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LSZZgJcPSvc/X4dbfrkHKGI/AAAAAAAArO8/JXZmjOY2KhULzJq551nN5Eo3hLTnWDupQCLcBGAsYHQ/s135/384-Suruga-Kanbaru-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kepRyhxseKI/X4dbf-vAcuI/AAAAAAAArPA/KZlixlCoAXEMx_LHJpz4M2Dkn13MwAk1wCLcBGAsYHQ/s135/384-Suruga-Kanbaru-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3lnNVNw4psw/X4dbf1AWHkI/AAAAAAAArPI/ynJq3p2HCLYfxG2mb_VjqsqBSA_2Fme8wCLcBGAsYHQ/s135/384-Suruga-Kanbaru-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ze0kAVfVebM/X4dbf3_5QaI/AAAAAAAArPE/NQTTxApIKmI5sfZyg9GYx7fESAjmUrWRwCLcBGAsYHQ/s135/384-Suruga-Kanbaru-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n384/",
+      "fetched_at": "2026-05-16T19:10:34.497Z",
+      "raw_id": "/nendoroid/details/n384/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.367Z",
+      "raw_id": "Nendoroid/0300-0399/384.json"
+    }
+  ]
+}

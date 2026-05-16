@@ -1,0 +1,69 @@
+{
+  "num": "1409",
+  "name": {
+    "en": "Nendoroid Optimus Prime",
+    "ja": "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
+    "ko": "옵티머스 프라임"
+  },
+  "series": {
+    "en": "Bumblebee",
+    "ja": "バンブルビー",
+    "ko": "트랜스포머",
+    "code": "bumblebee"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9776,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HCt4PO47ZDA/X4NkaziVGdI/AAAAAAABm48/HyVoUOxOe-gDwwoB2LOHyMbQPV6VNNtUwCLcBGAsYHQ/s270/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HCt4PO47ZDA/X4NkaziVGdI/AAAAAAABm48/HyVoUOxOe-gDwwoB2LOHyMbQPV6VNNtUwCLcBGAsYHQ/s270/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xHC330T1nkU/X4tAA4oGgyI/AAAAAAABqv0/fFzmvuUQLUALuz-zyNssiSVM1gd2O-LgQCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GHQTnmmpG3Q/X4tABGrMjxI/AAAAAAABqv4/JbSvOjxqxmEyClJ2M9RM5RCFci2RvrqXwCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cdDnR38wzvc/X4tABY5_iqI/AAAAAAABqv8/FsSvBP6gDVA2whpTE7d1pIBK_lluvay4wCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-b-O-3mJOPhI/X4tABhV5RLI/AAAAAAABqwA/pjF-C1rFE8gg6sAFgUdgJZCVA3vfSUQxwCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HQwt2FNB_z0/X4tAByyv62I/AAAAAAABqwE/YvwSmDG3InQaopcYFebfLi98fgkT2l9YQCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uDdJfdUsqbY/X4tACBpWIJI/AAAAAAABqwI/IWTbZZq7r4MkcudhVvXhaFJ9vX81MRJFQCLcBGAsYHQ/s135/1409-Optimus-Prime-Transformers-Bumblebee-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1409/",
+      "fetched_at": "2026-05-16T19:10:33.413Z",
+      "raw_id": "/nendoroid/details/n1409/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.658Z",
+      "raw_id": "Nendoroid/1400-1499/1409.json"
+    }
+  ]
+}

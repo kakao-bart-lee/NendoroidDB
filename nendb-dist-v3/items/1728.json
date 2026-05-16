@@ -1,0 +1,69 @@
+{
+  "num": "1728",
+  "name": {
+    "en": "Nendoroid Mei Kamino",
+    "ja": "ねんどろいど 神野銘 (ねんどろいど かみのめい)",
+    "ko": "카미노 메이"
+  },
+  "series": {
+    "en": "Godzilla Singular Point",
+    "ja": "ゴジラS.P＜シンギュラポイント＞",
+    "ko": "고질라: 싱귤러 포인트",
+    "code": "godzilla-singular-point"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11878,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5MiOO0Lt4J8/YYBJ-uJeLxI/AAAAAAAA1iw/-mm6dWLZiBIm3e5WnDLQdBF7EVN9bbUFgCLcBGAsYHQ/s270/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5MiOO0Lt4J8/YYBJ-uJeLxI/AAAAAAAA1iw/-mm6dWLZiBIm3e5WnDLQdBF7EVN9bbUFgCLcBGAsYHQ/s270/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IYwoDhFUZFA/YYBOmGnp21I/AAAAAAAA1k8/RyiiSzvWhk40hAhYogZjCM-k8wZdB8OBACLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Qr5yW2sMdqY/YYBOmc00V4I/AAAAAAAA1lA/TtXGH7YMwpMjrKPXyoCbqZELeDS25wXRQCLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IwhJNiFDzjE/YYBOmkX_8RI/AAAAAAAA1lE/3rOrjyJdTccU1DONCiKghDmpqGL_6TJCQCLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YP9u3rp0gBw/YYBOm8SNKNI/AAAAAAAA1lI/wa5GXAjjKc437ZrCrHNxs01R8JFB7nNxQCLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QMDYfUMx6Rg/YYBOnOSlQjI/AAAAAAAA1lM/hR1J5DEF4xMegzX9_tzHCZfx3CXbo67ogCLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QE4KfyJ9LeM/YYBOnFyPIZI/AAAAAAAA1lQ/qVBENnd5IxUFJULbau1niNT9QihkgLN8ACLcBGAsYHQ/s135/1728-Mei-Kamino-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1728/",
+      "fetched_at": "2026-05-16T19:10:33.611Z",
+      "raw_id": "/nendoroid/details/n1728/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.737Z",
+      "raw_id": "Nendoroid/1700-1799/1728.json"
+    }
+  ]
+}

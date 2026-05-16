@@ -1,0 +1,68 @@
+{
+  "num": "1235",
+  "name": {
+    "en": "Nendoroid Shinra Kusakabe",
+    "ja": "ねんどろいど 森羅日下部 (ねんどろいど しんらくさかべ)",
+    "ko": "신라 쿠사카베"
+  },
+  "series": {
+    "en": "Fire Force",
+    "ja": "炎炎ノ消防隊",
+    "ko": "불꽃소방대",
+    "code": "fire-force"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8992,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OLHU72qcqB0/X4NiPmi8EFI/AAAAAAABmo8/9_k6ngx9780_I4nhL5vPlgqD18gtdySrgCLcBGAsYHQ/s270/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OLHU72qcqB0/X4NiPmi8EFI/AAAAAAABmo8/9_k6ngx9780_I4nhL5vPlgqD18gtdySrgCLcBGAsYHQ/s270/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pDwnjtTbg_k/X4rzuiLkK9I/AAAAAAABpy0/iJbQEd8Hxe4ZKcW0W0AYggyqQD1GRUTYgCLcBGAsYHQ/s135/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LiUPuxRiuTA/X4rzu7i7d0I/AAAAAAABpy4/lanJOGSYNX8mxPE_bdGw_rJc9t2ZmlA0QCLcBGAsYHQ/s135/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vuMc4MFIPdw/X4rzvYpWJfI/AAAAAAABpy8/QMrzTkEvozswVRvmnVKeHeua_MlD25YcwCLcBGAsYHQ/s135/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Y6hLBFSJpAA/X4rzvoyjuDI/AAAAAAABpzA/MsPUGKPPr0ICPzU-oEAn5OLp0grT8-tFQCLcBGAsYHQ/s135/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RE9J1_J8KRY/X4rzvzUUeoI/AAAAAAABpzE/BJIvvKByGi0PL9SR44lJaz3-pJlYeJkvQCLcBGAsYHQ/s135/1235-Shinra-Kusakabe-Fire-Force-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1235/",
+      "fetched_at": "2026-05-16T19:10:33.303Z",
+      "raw_id": "/nendoroid/details/n1235/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.617Z",
+      "raw_id": "Nendoroid/1200-1299/1235.json"
+    }
+  ]
+}

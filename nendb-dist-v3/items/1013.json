@@ -1,0 +1,68 @@
+{
+  "num": "1013",
+  "name": {
+    "en": "Nendoroid Envy",
+    "ja": "ねんどろいど エンヴィー (ねんどろいど えんゔぃー)",
+    "ko": "엔비"
+  },
+  "series": {
+    "en": "Fullmetal Alchemist: Brotherhood",
+    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko": "강철의 연금술사",
+    "code": "fullmetal-alchemist-brotherhood"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7665,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GHiZBvBlIXE/X4Nfiq9UpTI/AAAAAAABmR4/vJ68zpRRC-YcSAnCGc8OBAqsUT49cRdlQCLcBGAsYHQ/s270/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GHiZBvBlIXE/X4Nfiq9UpTI/AAAAAAABmR4/vJ68zpRRC-YcSAnCGc8OBAqsUT49cRdlQCLcBGAsYHQ/s270/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oAYh25IiD8Q/X4rrVG59NqI/AAAAAAABoWk/QgZEfmOkgrA8jfix286fBY7ylvAwPyQaACLcBGAsYHQ/s135/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-E4QqQQ_JcZg/X4rrV0AxjLI/AAAAAAABoWo/EK1QVekMyXs5LesE_lHkxb3J0kA9Y-TkgCLcBGAsYHQ/s135/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KenJFaWECtE/X4rrWPyx1bI/AAAAAAABoWs/DXX084gqXd0Jj6bIVt2efeoiiHtsWbTAACLcBGAsYHQ/s135/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2UL4DbjVw4k/X4rrWMGMjvI/AAAAAAABoWw/Ehmv3yAZAWMIKbOTvkJz4Wvk-Rszw_ajACLcBGAsYHQ/s135/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--V8cPKNbsj8/X4rrWeS_I7I/AAAAAAABoW0/cQCFkDAnQGkWgDOp0kXapCtb8zfZ3k0EACLcBGAsYHQ/s135/1013-Envy-Fullmetal-Alchemist-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1013/",
+      "fetched_at": "2026-05-16T19:10:33.135Z",
+      "raw_id": "/nendoroid/details/n1013/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.564Z",
+      "raw_id": "Nendoroid/1000-1099/1013.json"
+    }
+  ]
+}

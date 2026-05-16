@@ -1,0 +1,68 @@
+{
+  "num": "2175",
+  "name": {
+    "en": "Nendoroid Madara Uchiha",
+    "ja": "ねんどろいど うちはマダラ (ねんどろいど うちはまだら)",
+    "ko": "우치하 마다라"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토 질풍전",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_067Hv_ctS8/ZIzT7yR2mJI/AAAAAAAA-QQ/0aMfLXZIt40LW8P7TQxfQ2UvNDY8z6poACNcBGAsYHQ/s270/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_067Hv_ctS8/ZIzT7yR2mJI/AAAAAAAA-QQ/0aMfLXZIt40LW8P7TQxfQ2UvNDY8z6poACNcBGAsYHQ/s270/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aXsQAayQHHo/ZIzWMW2PySI/AAAAAAAA-Y0/KsS3ZHBHs7E-WRmLFJpBg0DqjlEW9cjggCNcBGAsYHQ/s135/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jc8T1QY41lA/ZIzWMsgeawI/AAAAAAAA-Y4/LvTo_kpF4F8rOMG6I0nPiNAFBxvWpzUAACNcBGAsYHQ/s135/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-moDABsjXfrI/ZIzWMyLuLlI/AAAAAAAA-Y8/gbpLw8YiE742NDS4I4tFncXQijbMbTC0ACNcBGAsYHQ/s135/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DDfsTtptuc0/ZIzWNUan7uI/AAAAAAAA-ZA/N9sEAFcW5gcfH3um4WrKSkUIPmhe6TK-QCNcBGAsYHQ/s135/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s4RHOtYNcu4/ZIzWNoom0wI/AAAAAAAA-ZE/aKXQ12Ld68sj3xtPiiLAoNaYzw7okWazwCNcBGAsYHQ/s135/2175-Madara-Uchiha-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2175/",
+      "fetched_at": "2026-05-16T19:10:33.882Z",
+      "raw_id": "/nendoroid/details/n2175/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.846Z",
+      "raw_id": "Nendoroid/2100-2199/2175.json"
+    }
+  ]
+}

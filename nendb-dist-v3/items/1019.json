@@ -1,0 +1,68 @@
+{
+  "num": "1019",
+  "name": {
+    "en": "Nendoroid Tenn Kujo",
+    "ja": "ねんどろいど 九条天 (ねんどろいど くじょうてん)",
+    "ko": "쿠죠 텐"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7726,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gssGmCO2WTw/X4NfkNgMoMI/AAAAAAABmSQ/8HwUBMemYJkVx9ZAd3TiPpbROqJXOmW-gCLcBGAsYHQ/s270/1019-Tenn-Kujo-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gssGmCO2WTw/X4NfkNgMoMI/AAAAAAABmSQ/8HwUBMemYJkVx9ZAd3TiPpbROqJXOmW-gCLcBGAsYHQ/s270/1019-Tenn-Kujo-IDOLiSH7-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MIQm_276TcY/X4rrd2s-RRI/AAAAAAABoYs/STZgfJsv9Ks9euVVriF9zRmwpJ27tmasACLcBGAsYHQ/s135/1019-Tenn-Kujo-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2Cw0D4QP-3s/X4rreMB2erI/AAAAAAABoYw/eodg6VMC7mkX2JFbKGd7oz9R-v0B1cAeQCLcBGAsYHQ/s135/1019-Tenn-Kujo-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-j2UDwH95rT8/X4rregqCd-I/AAAAAAABoY0/di4HKDVj7PQJgchp-r67Ahv0PSJDon55gCLcBGAsYHQ/s135/1019-Tenn-Kujo-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xO04IdsNvmA/X4rrewziuzI/AAAAAAABoY4/1g_Wn50Pnbo3MTv70BPNd4c2sStYKw5_QCLcBGAsYHQ/s135/1019-Tenn-Kujo-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FOkVjWqbMv8/X4rrfKASQlI/AAAAAAABoY8/AfgvowquGrsC-h6V_gAqnZaNBlWfGAJEACLcBGAsYHQ/s135/1019-Tenn-Kujo-IDOLiSH7-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1019/",
+      "fetched_at": "2026-05-16T19:10:33.138Z",
+      "raw_id": "/nendoroid/details/n1019/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.566Z",
+      "raw_id": "Nendoroid/1000-1099/1019.json"
+    }
+  ]
+}

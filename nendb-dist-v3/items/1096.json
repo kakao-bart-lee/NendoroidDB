@@ -1,0 +1,67 @@
+{
+  "num": "1096",
+  "name": {
+    "en": "Nendoroid Hatoba Tsugu",
+    "ja": "ねんどろいど 鳩羽つぐ (ねんどろいど はとばつぐ)",
+    "ko": "하토바 츠구"
+  },
+  "series": {
+    "en": "Hatoba Tsugu",
+    "ja": "鳩羽つぐ",
+    "ko": "버츄얼 유튜버",
+    "code": "hatoba-tsugu"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8113,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qeqAPZVvvYo/X4Nf9ECbweI/AAAAAAABmXg/eo-rc3ZGwhk-wV9qRRb0rYa7PxHJQxNQQCLcBGAsYHQ/s270/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qeqAPZVvvYo/X4Nf9ECbweI/AAAAAAABmXg/eo-rc3ZGwhk-wV9qRRb0rYa7PxHJQxNQQCLcBGAsYHQ/s270/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-w4wyST9cz9U/X4rtiYz_XJI/AAAAAAABo2o/6WIUAxbpq4QSx6ToJdArAU03aSijiGzxQCLcBGAsYHQ/s135/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Fiu6bFzIhqE/X4rtiuc9QKI/AAAAAAABo2s/VIPRa5Sr4xEEmP9rOts-AqorWtDdeLUBACLcBGAsYHQ/s135/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-il5d-Ss7-LM/X4rti-JlTeI/AAAAAAABo2w/EKrSlg-YYhoA4BaOq98202PUV4r-IvkOQCLcBGAsYHQ/s135/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-J_P2rZnV9Rk/X4rtjePNUMI/AAAAAAABo20/kQ4b3ODs45Y_onqGBDSQhb_qzHGiOhPxgCLcBGAsYHQ/s135/1096-Hatoba-Tsugu-Virtual-Youtuber-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1096/",
+      "fetched_at": "2026-05-16T19:10:33.218Z",
+      "raw_id": "/nendoroid/details/n1096/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.583Z",
+      "raw_id": "Nendoroid/1000-1099/1096.json"
+    }
+  ]
+}

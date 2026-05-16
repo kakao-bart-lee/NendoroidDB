@@ -1,0 +1,67 @@
+{
+  "num": "0287",
+  "name": {
+    "en": "Nendoroid Horizon Ariadust: Uniform Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)",
+    "ja": "ねんどろいど ホライゾン・アリアダスト 制服Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)",
+    "ko": "호라이즌 아리아더스트 제복 Ver."
+  },
+  "series": {
+    "en": "Horizon in the Middle of Nowhere",
+    "ja": "境界線上のホライゾン",
+    "ko": "경계선상의 호라이즌",
+    "code": "horizon-in-the-middle-of-nowhere"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NHISYpNZpeg/X4NLavH60AI/AAAAAAABlaw/LtjlShoyoTEJooGY0UzQDmBGcKVuUatVACLcBGAsYHQ/s270/287-Horizon-Ariadust-Middle-if-Nowhere-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NHISYpNZpeg/X4NLavH60AI/AAAAAAABlaw/LtjlShoyoTEJooGY0UzQDmBGcKVuUatVACLcBGAsYHQ/s270/287-Horizon-Ariadust-Middle-if-Nowhere-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UQa5t4xgcUI/X4dYZYHNGSI/AAAAAAAAqsY/YDs5cXSaFT8hXylr_bT4vC2ca0jn06qUACLcBGAsYHQ/s135/287-Horizon-Ariadust-Horizon-in-the-Middle-of-Nowhere-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-imAas7WeHRo/X4dYZ3i-7zI/AAAAAAAAqsc/ghZnCwbbo8wo9d-Dpnw2O6UqTznofUY7gCLcBGAsYHQ/s135/287-Horizon-Ariadust-Horizon-in-the-Middle-of-Nowhere-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I2pl7R4vBqY/X4dYaAxswFI/AAAAAAAAqsg/SIfdjsNvsHg1t8KXyMWdRcBO5ZqzqusagCLcBGAsYHQ/s135/287-Horizon-Ariadust-Horizon-in-the-Middle-of-Nowhere-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PtXT8SAvINg/X4dYat6PaYI/AAAAAAAAqsk/eBk5Fnc1hDwUO4SGEzzOG3fAVg11bOWtgCLcBGAsYHQ/s135/287-Horizon-Ariadust-Horizon-in-the-Middle-of-Nowhere-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n287/",
+      "fetched_at": "2026-05-16T19:10:34.368Z",
+      "raw_id": "/nendoroid/details/n287/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.342Z",
+      "raw_id": "Nendoroid/0200-0299/287.json"
+    }
+  ]
+}

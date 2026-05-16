@@ -1,0 +1,92 @@
+{
+  "num": "2925",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": "ねんどろいど 初音ミク 深海少女Ver.",
+    "ko": null
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": null,
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "さかどん",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": "4580828668232",
+  "gsc_product_id": "1139829",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1139829",
+    "ja": "https://www.goodsmile.com/ja/product/1139829"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139829/5fbPWkgcm1UMsAp0qanSVDwQ6z9RdBJZ.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxyzafpBXN6ql0sdaW-VXb-CG_Ov795WZwGllmYeHmLwHy6Qa7iwKfCK-5tYUOufcKzkFwMXfK5WG0ouFi9EoSrbi34aWYW7JAZUPz-w5KDTnjD8cGy-sZJCy5Hhle2P6gu9XQB3fv7oQ2Yke1MmHeYY4rAKBCPQB4a07N6ZkZ8BvEBumf8qVtBbTxUuFq/s270/2925-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWZGIca2P5uGIvQLY3s0Fui2nYDjAtqRGQtt8TICo9W6Hh94MuB5OMjAKrynLD1QqqmIeuB331F685xEu4URSDNa4UVjpCMPd6r-9HXt_k6DpFwa_f5v_6k06ouzSU_AM-zK8ZvronYbYVkgeEaeCdLgvdGaSkoAS8SPWv98rf1dMFyVlVozu86yaCA9wp/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTgc1N39AsFbB_eCcpfuq2t6QMROwUnsVgNmYYgLVn7vogAoDQUGrEPZLcxyBZ8DEhKnaQFFQ5lkRTpkMm8lfNtbegGlNztNWsSFKEGQTp6neTEMLPrzggC-H7zYXIU5mata9lTmZBrpvDGSPQw0c6zb6rogt4GdNdogz26ikRrPmvk9cjmyQqUoePNZjR/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDEBAWa8fdtS74LgCl1fci5Y24Ap4FYLHhyphenhyphenuh0Cr4whQPePIJF8eVTxYMGICT4pT36i_39IthHV_oibP_l_SViCqNNrY3FZYF_qv_H1UiKgkm10lETqbkPa01QMsmzRncVM_XtaqC9SMKGMEP2_sOS05QPkslMN5Bzn2FeMH4Li85vsOEj44Qsw0I6U16C/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_olMIC_Je3IGXZddsoLb72leQ74WikhtNg6mQB5G1FNWSWW-PZp_qKXGjpV8jU8bdYLi9Y477zkih3iVom7KMQNXUp03ohh09ljbb9OjY7vkzUrKbRULgmd1wmtVtGyut50izhqUwH7j24Ei6mTWoJF3hdzKs1RgkpjU5dxkmBSrcDIDS1uwo3V_HqPr/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKxXP3q3vVM_7Pvqt3fEFk8hYQP3r8kJrWmCJ9GCAUBJ3SXPLIJ79tr2FWVP6OJTeqqfyzoA6i0-aMJBl-x4IWoyhiSZDg_5HIcYmNdkS5JVaWTyRLuZE76lg28nN8GqI3VUYP-mFZz9jtv479DH4sDQQikrkt8YQd8b_4tUJeRcoPC2_S4o000kKpG3Ww/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6qnu7p8I0iPPQeOJ3c1YFuZ4AK3YBUJOdbskdM1sF-XG2IvX9WCW1Fy934MZfEJxcBn0vQTRShTH8rGwpbGjKMnWfvwqKqhS_nwePJpMZSao9MMR5WIiFfw03uFucWUDjlws0IfbuEBmz6pGNrXILa4-rlY5pAFUNVjVYBQwXYF6LYKcCdpT5yKmstTiG/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1QdtQTS_Gsxjh6V7iDKfK8CFKx38OD1ORdsIQJsck1Rkwq82VH69FX5PEaSqiOFINAl2hODSIWQsrBEP68nkC09Px5yo6r_sxIK0ASD6FKwnqig_UE1nf7BqEl9BrMikkILVa61OfpN-cdA-3OVWJi-kcKNf4W5SZWHgDSvOrt2v2YMb00_Umar-OzxKF/s135/2925-Hatsune-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139829/6CycgbG1WstNAKaQUnxPDek7jmwRvTBX.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139829/5fbPWkgcm1UMsAp0qanSVDwQ6z9RdBJZ.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1139829",
+      "price_local": 8000,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:21:33.132Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1139829",
+      "fetched_at": "2026-05-16T12:21:33.132Z",
+      "raw_id": "1139829"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1139829",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1139829"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2925/",
+      "fetched_at": "2026-05-16T19:10:34.391Z",
+      "raw_id": "/nendoroid/details/n2925/"
+    }
+  ]
+}

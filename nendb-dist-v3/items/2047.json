@@ -1,0 +1,69 @@
+{
+  "num": "2047",
+  "name": {
+    "en": "Nendoroid Surtr",
+    "ja": "ねんどろいど スルト (ねんどろいど すると)",
+    "ko": "수르트"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13788,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5iRGFIRl60o/Y9mKAlmEGyI/AAAAAAAA8fE/DOFnSNMsffcxDEXbIRTQv7Fh4GlSZ7l_gCNcBGAsYHQ/s270/2047-Surtr-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5iRGFIRl60o/Y9mKAlmEGyI/AAAAAAAA8fE/DOFnSNMsffcxDEXbIRTQv7Fh4GlSZ7l_gCNcBGAsYHQ/s270/2047-Surtr-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZWEC98DO73k/Y9mPKZDA0eI/AAAAAAAA8nY/DUkdK_AE4uIiycvg8QtiQMwV-CJ-G5K7QCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rx8Sejl-2hI/Y9mPKs7x6DI/AAAAAAAA8ng/x6-6dSRM9J0AFuPQj3EhYZfhuaBq-ui1wCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-w9KdgiPmdsw/Y9mPLO0K9KI/AAAAAAAA8nk/p_vL3B0B93kRK6VhEUg0UsdklgFjLIktgCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g4tBEW2qlwA/Y9mPLh38NMI/AAAAAAAA8no/HVhXXvrd4KA475usH4GtkVpQzQTTXrc7gCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dF7pqkPhCE4/Y9mPMMhojWI/AAAAAAAA8ns/ryTCVEKQtfoXzV-Im9Emlm7G8fkxGtvVwCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AIWC9O0DvMM/Y9mPMhcjoSI/AAAAAAAA8nw/6oBBpBDdQqozB0vJEI4R_rZwdT1cwRLAgCNcBGAsYHQ/s135/2047-Surtr-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2047/",
+      "fetched_at": "2026-05-16T19:10:33.807Z",
+      "raw_id": "/nendoroid/details/n2047/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2047.json"
+    }
+  ]
+}

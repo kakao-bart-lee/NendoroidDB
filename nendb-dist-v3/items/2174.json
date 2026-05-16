@@ -1,0 +1,69 @@
+{
+  "num": "2174",
+  "name": {
+    "en": "Nendoroid Chise Hatori: Season 2 Ver.",
+    "ja": "ねんどろいど 羽鳥チセ SEASON2 Ver. (ねんどろいど はとりちせ しーずん2 Ver.)",
+    "ko": "하토리 치세 SEASON2 Ver."
+  },
+  "series": {
+    "en": "The Ancient Magus' Bride Season 2",
+    "ja": "魔法使いの嫁 SEASON2",
+    "ko": "마법사의 신부",
+    "code": "the-ancient-magus-bride-season-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14450,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OnLLFGPGJIs/ZIzT78oXV2I/AAAAAAAA-QM/wDSMAELQOGMiSehyGHF0kY2T0t3ueR5NwCNcBGAsYHQ/s270/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OnLLFGPGJIs/ZIzT78oXV2I/AAAAAAAA-QM/wDSMAELQOGMiSehyGHF0kY2T0t3ueR5NwCNcBGAsYHQ/s270/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZQ8Szfl_LlY/ZIzWLB_rA9I/AAAAAAAA-Yc/ylCNvoq_mRQwywdlR1ClgURvB2wKGrKWQCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vFg1MA6Umsk/ZIzWLWHqygI/AAAAAAAA-Yg/U0232_8MvcgO1uDaFSaq9Do8di_kWRj8gCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8MU1rZmtvu8/ZIzWLhyxymI/AAAAAAAA-Yk/uPlEW9_TgeYXfPT3M45PssSrLf5eHFKCwCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W3_yiaBuDlY/ZIzWLy4RzgI/AAAAAAAA-Yo/shRVkq7PKkAs_lJdyWlMe2jkHfnMQaoHgCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1Fwr738EnAI/ZIzWL3JJt3I/AAAAAAAA-Ys/0ZuHvVak7Ao2KX6kL5K7hK3PuNxZW0IzgCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5dsWsjJW2HU/ZIzWMCHFAZI/AAAAAAAA-Yw/c3N-rVuMIlsPPlR_DaI4HrGywyuyoIugwCNcBGAsYHQ/s135/2174-Chise-Hatori-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2174/",
+      "fetched_at": "2026-05-16T19:10:33.882Z",
+      "raw_id": "/nendoroid/details/n2174/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.846Z",
+      "raw_id": "Nendoroid/2100-2199/2174.json"
+    }
+  ]
+}

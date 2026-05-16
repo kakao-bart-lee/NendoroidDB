@@ -1,0 +1,68 @@
+{
+  "num": "0298",
+  "name": {
+    "en": "Nendoroid Hoshikuzu Witch Meruru (ねんどろいど ほしくず★うぃっち めるる)",
+    "ja": "ねんどろいど 星くず★うぃっち メルル (ねんどろいど ほしくず★うぃっち めるる)",
+    "ko": "메루루"
+  },
+  "series": {
+    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja": "俺の妹がこんなに可愛いわけがない",
+    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
+    "code": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3780,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pSxGgOYZxz8/X4NLdTcRZRI/AAAAAAABlbc/QsyjScEv_-YvwVuQY4ZeRvvz7QXnCXs3QCLcBGAsYHQ/s270/298-Hoshikuzu%2BWitch-Oreimo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pSxGgOYZxz8/X4NLdTcRZRI/AAAAAAABlbc/QsyjScEv_-YvwVuQY4ZeRvvz7QXnCXs3QCLcBGAsYHQ/s270/298-Hoshikuzu%2BWitch-Oreimo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nM1zXhB_dh4/X4dYlz-9a4I/AAAAAAAAqv8/NqQAFDJF7U08xENPKJV97Q7M8sUmUdl8wCLcBGAsYHQ/s135/298-Hoshikuzu-Witch-Meruru-Oreimo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kt-uBRQyzEc/X4dYmaJ-6YI/AAAAAAAAqwA/tgEAX9ayF1wL3_5UeZQRYDQfDnmho4kcgCLcBGAsYHQ/s135/298-Hoshikuzu-Witch-Meruru-Oreimo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5y228k0fzmA/X4dYmm75hII/AAAAAAAAqwI/Wpf2q7Ubrd4DQOAhVA7P5Z4DUopCUmeSQCLcBGAsYHQ/s135/298-Hoshikuzu-Witch-Meruru-Oreimo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EqID4DU48D8/X4dYmnFUhSI/AAAAAAAAqwE/L0IQB8Ozhw0D7AF_l_CridMP5RBRdlQkQCLcBGAsYHQ/s135/298-Hoshikuzu-Witch-Meruru-Oreimo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HqC9YWwMKOY/X4dYnBhLUtI/AAAAAAAAqwM/s9x5bWrV-g8d5OAp0T5CgbdP-7StQnXzgCLcBGAsYHQ/s135/298-Hoshikuzu-Witch-Meruru-Oreimo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n298/",
+      "fetched_at": "2026-05-16T19:10:34.418Z",
+      "raw_id": "/nendoroid/details/n298/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.345Z",
+      "raw_id": "Nendoroid/0200-0299/298.json"
+    }
+  ]
+}

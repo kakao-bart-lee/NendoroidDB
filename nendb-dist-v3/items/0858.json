@@ -1,0 +1,68 @@
+{
+  "num": "0858",
+  "name": {
+    "en": "Nendoroid BB-8",
+    "ja": "ねんどろいど BB-8 (ねんどろいど びーびーえいと)",
+    "ko": "BB-8"
+  },
+  "series": {
+    "en": "Star Wars: The Last Jedi",
+    "ja": "スター・ウォーズ／最後のジェダイ",
+    "ko": "스타워즈",
+    "code": "star-wars-the-last-jedi"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6952,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-D0PgWWYZi-U/X4Nd5DA7DnI/AAAAAAABmGU/R9CLvXA8et8Aa0KMkmJ2ugywhEL6Kw6CACLcBGAsYHQ/s270/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-D0PgWWYZi-U/X4Nd5DA7DnI/AAAAAAABmGU/R9CLvXA8et8Aa0KMkmJ2ugywhEL6Kw6CACLcBGAsYHQ/s270/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DdwqhWSXoXs/X4rjWKZCybI/AAAAAAABnUo/-YFVyarNcXMK1eGXbKeq-ltKFtbCj8FtACLcBGAsYHQ/s135/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OroV3H9KM50/X4rjWTmrTzI/AAAAAAABnUs/A9HBVE6ra4QTEmYmcoaGPp1LrbSN_Rn3QCLcBGAsYHQ/s135/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LvUkIfcprMA/X4rjWkkrx3I/AAAAAAABnUw/RENMtFawn8IeRh8Y0-hovghrCiLsw-1oACLcBGAsYHQ/s135/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hu1zgCUZc6Q/X4rjWoHt9dI/AAAAAAABnU0/adM9mOhEOAc0vJ-oESZzJFJbSMsLFh3GwCLcBGAsYHQ/s135/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-My-oQHZr47g/X4rjXPu3gNI/AAAAAAABnU4/05nUK-sv_Wwlq1LO4UAWSb6W9fU5bLMRACLcBGAsYHQ/s135/858-BB-8-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n858/",
+      "fetched_at": "2026-05-16T19:10:34.839Z",
+      "raw_id": "/nendoroid/details/n858/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.523Z",
+      "raw_id": "Nendoroid/0800-0899/858.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0152",
+  "name": {
+    "en": "Nendoroid Akito Takagi (ねんどろいど たかぎあきと)",
+    "ja": "ねんどろいど 高木秋人 (ねんどろいど たかぎあきと)",
+    "ko": "타카기 아키토"
+  },
+  "series": {
+    "en": "Bakuman",
+    "ja": "バクマン。",
+    "ko": "바쿠만",
+    "code": "bakuman"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3059,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4WFFW3x-gVk/X4NJ_95R1mI/AAAAAAABlRQ/_x_mBaBLJAwLXOlrnlTw9Bhgdq0ctyegwCLcBGAsYHQ/s270/152-Akito%2BTakagi-Bakuman-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4WFFW3x-gVk/X4NJ_95R1mI/AAAAAAABlRQ/_x_mBaBLJAwLXOlrnlTw9Bhgdq0ctyegwCLcBGAsYHQ/s270/152-Akito%2BTakagi-Bakuman-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8kLcGS1OULQ/X4dTG4pCtJI/AAAAAAAAp-Y/mB71r7r6gzE4EhVVe8hKUDOEpvpCpz85QCLcBGAsYHQ/s135/152-Akito-Takagi-Bakuman-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Tcuv924ij_A/X4dTHFN0QrI/AAAAAAAAp-c/6PF98JHPR1sWvx1GLX8RAV62A7ia06WEQCLcBGAsYHQ/s135/152-Akito-Takagi-Bakuman-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-L-JU6TJq4rQ/X4dTHa8bkpI/AAAAAAAAp-g/1ceq3T0_UPkPbKrSPqkq9RnNwFgu5GDigCLcBGAsYHQ/s135/152-Akito-Takagi-Bakuman-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JPEhKV195MI/X4dTHgHOKsI/AAAAAAAAp-k/CDWlcf2x50MM2d8OW38dAxYUxOpsaR3fwCLcBGAsYHQ/s135/152-Akito-Takagi-Bakuman-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n152/",
+      "fetched_at": "2026-05-16T19:10:33.485Z",
+      "raw_id": "/nendoroid/details/n152/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.302Z",
+      "raw_id": "Nendoroid/0100-0199/152.json"
+    }
+  ]
+}

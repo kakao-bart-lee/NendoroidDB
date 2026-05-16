@@ -1,0 +1,67 @@
+{
+  "num": "0140",
+  "name": {
+    "en": "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)",
+    "ja": "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
+    "ko": "아사쿠라 네무"
+  },
+  "series": {
+    "en": "D.C ~Da Capo~",
+    "ja": "D.C.～ダ・カーポ～",
+    "ko": "다카포",
+    "code": "d-c-da-capo"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3008,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vPLsTTEZWzM/X4NJ6uLPn3I/AAAAAAABlQc/735GYJgtXoEQx9p8q2shNFOFRQFtYYFMgCLcBGAsYHQ/s270/140-Nemu%2BAsakura-D.C.%2BDa.Capo-Loveplus-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vPLsTTEZWzM/X4NJ6uLPn3I/AAAAAAABlQc/735GYJgtXoEQx9p8q2shNFOFRQFtYYFMgCLcBGAsYHQ/s270/140-Nemu%2BAsakura-D.C.%2BDa.Capo-Loveplus-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-B6XFGHOBejQ/X4dS0U9q_bI/AAAAAAAAp6g/VN2QoRXvJLIIoHTOuMPLy6vOEGdWkeGlQCLcBGAsYHQ/s135/140-Nemu-Asakura-D.C.-Da.Capo-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ike_oZ-w860/X4dS0pxxxBI/AAAAAAAAp6k/1vDwJvxz8j8jq5nnQflgBarWyiP_hBTVQCLcBGAsYHQ/s135/140-Nemu-Asakura-D.C.-Da.Capo-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ud0SmVcDV4w/X4dS1EHlR4I/AAAAAAAAp6o/BYPgWZMq9o8uVJ7BQtb54PdSPcywmXdgwCLcBGAsYHQ/s135/140-Nemu-Asakura-D.C.-Da.Capo-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3jRJgYuoGiU/X4dS1AsSFmI/AAAAAAAAp6s/OPH-g36bEKQwyPQ3y7xE7nWDzD1yRM8EwCLcBGAsYHQ/s135/140-Nemu-Asakura-D.C.-Da.Capo-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n140/",
+      "fetched_at": "2026-05-16T19:10:33.413Z",
+      "raw_id": "/nendoroid/details/n140/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.299Z",
+      "raw_id": "Nendoroid/0100-0199/140.json"
+    }
+  ]
+}

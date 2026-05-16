@@ -1,0 +1,70 @@
+{
+  "num": "2018",
+  "name": {
+    "en": "Nendoroid Gachapin",
+    "ja": "ねんどろいど ガチャピン (ねんどろいど がちゃぴん)",
+    "ko": "가챠핀"
+  },
+  "series": {
+    "en": "Gachapin",
+    "ja": "ガチャピン",
+    "ko": "가챠핀",
+    "code": "gachapin"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13631,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BxQpMENDHds/Y69BNPHhljI/AAAAAAAA8Pg/7yEPYMBieRkJd4sGJToJP3d_kZ5jtbCXgCNcBGAsYHQ/s270/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BxQpMENDHds/Y69BNPHhljI/AAAAAAAA8Pg/7yEPYMBieRkJd4sGJToJP3d_kZ5jtbCXgCNcBGAsYHQ/s270/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-g42N-CVoj80/Y684jmNhe6I/AAAAAAAA8Iw/s-AoMmMDDyILORlfuB2e3vdmfKj-RNdTACNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NnNare14YRI/Y684kGK7zaI/AAAAAAAA8I4/PG5f8YrtlwYTfDtUgxydE5ZSm_wR3NZGACNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1GA75_QSzzY/Y684kamYkTI/AAAAAAAA8I0/Dav7PFbFi8gWpQ8VaS5lRn8gbuYfCCQmgCNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WT0R17x3yoU/Y684kjgQZhI/AAAAAAAA8I8/ZbVJPNTmnpYnIqP99hi2Uw7y3DIY3xH9QCNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-122N2P0bjoE/Y684lOR8hDI/AAAAAAAA8JA/NbDVkxxmdsIE0d6I1fCi1HDgmBkfoJb1QCNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-dd48SVqP6lM/Y684lWcwDCI/AAAAAAAA8JE/wS0zAGyS80g7MRyLUq17f03dW_WWpAZoQCNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-lrzb7EzgMMQ/Y684lk8ZFfI/AAAAAAAA8JI/yvXCbXNJiZUBXnBB5BIVcGF0Qn0WBiH-wCNcBGAsYHQ/s135/2018-Gachapin-Hirake-Ponkikki-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2018/",
+      "fetched_at": "2026-05-16T19:10:33.787Z",
+      "raw_id": "/nendoroid/details/n2018/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.807Z",
+      "raw_id": "Nendoroid/2000-2099/2018.json"
+    }
+  ]
+}

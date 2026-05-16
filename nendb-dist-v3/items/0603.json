@@ -1,0 +1,70 @@
+{
+  "num": "0603",
+  "name": {
+    "en": "Nendoroid Akashi Kai",
+    "ja": "ねんどろいど 明石改 (ねんどろいど あかしかい)",
+    "ko": "아카시"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5461,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PJIVuM4NGeE/X4NPlwozUPI/AAAAAAABl0g/6k6mCde8ebk6IHElSYyPURjq4VlTQuSuACLcBGAsYHQ/s270/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PJIVuM4NGeE/X4NPlwozUPI/AAAAAAABl0g/6k6mCde8ebk6IHElSYyPURjq4VlTQuSuACLcBGAsYHQ/s270/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XCb26uTzMHE/X4izeVCqeZI/AAAAAAAAshI/pxsJ-VnWC5MIvA1vVxCojxZNGFTQSG3IgCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sjX-JVfn6gM/X4izerp_s3I/AAAAAAAAshM/PFQo2NkdrncqEwrafJ5YUgOJgEB_z13bQCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QHkyrkvL3F4/X4izexvA9TI/AAAAAAAAshQ/rFJMncyxn3QuvCsMchSsXw_2Np66A0KkgCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--UFGJH0e-gI/X4izfB54NGI/AAAAAAAAshU/8MaMiiHqyrsVN9qVYGSLp9KY3p55DtxUQCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wp6VgRE-RRc/X4izfemYf_I/AAAAAAAAshY/drKn4i7pI74JzHK41FLQxQ43DWMa3r_IACLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gkPuVN2gqXM/X4izfi7mqxI/AAAAAAAAshc/CbeA2zmaNNwHlmachhJpUoc0b9459HSVwCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BpSxy5AyYIQ/X4izfilkbBI/AAAAAAAAshg/jR6Ps0dMZWAZphotaxwmCPDdCCOglZIsQCLcBGAsYHQ/s135/603-Akashi-Kai-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n603/",
+      "fetched_at": "2026-05-16T19:10:34.684Z",
+      "raw_id": "/nendoroid/details/n603/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.459Z",
+      "raw_id": "Nendoroid/0600-0699/603.json"
+    }
+  ]
+}

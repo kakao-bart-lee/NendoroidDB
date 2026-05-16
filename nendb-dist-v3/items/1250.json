@@ -1,0 +1,95 @@
+{
+  "num": "1250",
+  "name": {
+    "en": "Nendoroid Snow Miku: Snow Parade Ver.",
+    "ja": "ねんどろいど 雪ミク Snow Parade Ver. (ねんどろいど ゆきみく すのう ぱれーど Ver.)",
+    "ko": "유키 미쿠 Snow Parade Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Taketomo",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": "4580416909570",
+  "gsc_product_id": "6707",
+  "gsc_product_num": 9000,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/6707",
+    "ja": "https://www.goodsmile.com/ja/product/6707"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20191119/9000/65737/large/1e30c504cd18466f9c8593cbeb58af10.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YypqBk9JKz4/X4NiUGc1XxI/AAAAAAABmp0/nxqDleFowM0kJi34KARhKVHuCeOTzGnzACLcBGAsYHQ/s270/1250-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2uqyEvzMr0E/X4r0B3mYdmI/AAAAAAABp3g/7pDIUnCwqik6M02v39r3NK35xL9NsWqCQCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fZpuUApNcEo/X4r0CImmIYI/AAAAAAABp3o/07vkjOwkJZUqGpbymjsozfk8HPE0OLljACLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-K8KabDhMeO4/X4r0CTNlJ_I/AAAAAAABp3k/gy8GTpMQaIo4HZ7qInCHvkzu40SgsGrAgCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dMClxaRC-YE/X4r0Cqc2lqI/AAAAAAABp3s/sqt0cXPaVzo_o-fWCCOq8_fLQzQ4kx5WgCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-o7ouc9dPtio/X4r0C3cyCZI/AAAAAAABp3w/vnq2qY9tTd8YN8tAeGUMTOFUcYq46HtBgCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tXXgnkZFYfI/X4r0DJqUh4I/AAAAAAABp30/5rlx0Dh0T04lCoNd_7PDdRm5yct66S3WgCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7Z6XlTeN1a0/X4r0DY2V2kI/AAAAAAABp34/Id6ODTQa_44AhUmMe9mjMw8f64vjczQYwCLcBGAsYHQ/s135/1250-Snow-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20191119/9000/65745/large/cdac290f450b8d4efb05554b626497ca.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20191119/9000/65737/large/1e30c504cd18466f9c8593cbeb58af10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6707",
+      "price_local": 5500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:50:22.760Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6707",
+      "fetched_at": "2026-05-16T11:50:22.760Z",
+      "raw_id": "6707"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/6707",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "6707"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1250/",
+      "fetched_at": "2026-05-16T19:10:33.313Z",
+      "raw_id": "/nendoroid/details/n1250/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.621Z",
+      "raw_id": "Nendoroid/1200-1299/1250.json"
+    }
+  ]
+}

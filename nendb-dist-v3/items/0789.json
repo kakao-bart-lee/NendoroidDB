@@ -1,0 +1,69 @@
+{
+  "num": "0789",
+  "name": {
+    "en": "Nendoroid Wakatoshi Ushijima",
+    "ja": "ねんどろいど 牛島若利 (ねんどろいど うしじまわかとし)",
+    "ko": "우시지마 와카토시"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6548,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pH_lsUMgJiM/X4NdJ7JsroI/AAAAAAABmBE/-hyf91Toabch9Gg5m_P8C-wxguNbev6UgCLcBGAsYHQ/s270/789-Wakatoshi-Ushijima-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pH_lsUMgJiM/X4NdJ7JsroI/AAAAAAABmBE/-hyf91Toabch9Gg5m_P8C-wxguNbev6UgCLcBGAsYHQ/s270/789-Wakatoshi-Ushijima-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nLLpbXVjujE/X4i51NUD6UI/AAAAAAAAtmw/SqcWYqhHB240r5MZ73MwQJZDA6ZOotNBgCLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C22yhx8-B2E/X4i51cYPrOI/AAAAAAAAtm0/aHLTgXdNm30CA41hYlV3o-yvP5fGTgSeACLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AHH0fe8L6kI/X4i5191EKwI/AAAAAAAAtm4/bXArbrkw2i8u8_dksZQB6118dLr4yX5BACLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f_ep_GnTyJE/X4i51zBTMrI/AAAAAAAAtm8/ltRZQBEmCj0zfkaot3uzoVRBsIzA5PazQCLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--yi2OV1ghVs/X4i52ObhqCI/AAAAAAAAtnA/CApFUGrHdFEGcuoiBbKFnPE2yqX9M9hlACLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2daOyqh-nbs/X4i52gg1V8I/AAAAAAAAtnE/aDFYfAkYbz89K_JkIWWjrsn2WKKaGPjDgCLcBGAsYHQ/s135/789-Wakatoshi-Ushijima-Haikyu-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n789/",
+      "fetched_at": "2026-05-16T19:10:34.800Z",
+      "raw_id": "/nendoroid/details/n789/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.508Z",
+      "raw_id": "Nendoroid/0700-0799/789.json"
+    }
+  ]
+}

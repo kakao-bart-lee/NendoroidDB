@@ -1,0 +1,63 @@
+{
+  "num": "1785",
+  "name": {
+    "en": "Nata De Cotton",
+    "ja": "ねんどろいど ナタ・デ・コットン（「コットンロックンロール コットンシリーズ30周年記念特別限定版」同梱） (ねんどろいど なた・で・こっとん)",
+    "ko": "나타 데 코튼"
+  },
+  "series": {
+    "en": "Cotton",
+    "ja": "コットン",
+    "ko": "코튼 로큰롤",
+    "code": "cotton"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10780,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11422,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXJutvs1retT4-L40WK4vjS0Z_XdXqwhnqVfU0cW6EtUn6DtwfadfSLsTyhPmJgVFPQSCKccGqLIMIfWpvHHkJhyphenhyphenOknF2XzFQrruHs0j1b65_gt4MoV3rv2dflVzv-DwEZjrUNTtbDC1iifmgSA2nzqRT14BAqlrKoDI3KRyvotaIaEHIOc6CodDsncgt/s270/1785-Nata-De-Cotton-Cotton-Rock-n-Roll-Superlative-Night-Dreams-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXJutvs1retT4-L40WK4vjS0Z_XdXqwhnqVfU0cW6EtUn6DtwfadfSLsTyhPmJgVFPQSCKccGqLIMIfWpvHHkJhyphenhyphenOknF2XzFQrruHs0j1b65_gt4MoV3rv2dflVzv-DwEZjrUNTtbDC1iifmgSA2nzqRT14BAqlrKoDI3KRyvotaIaEHIOc6CodDsncgt/s270/1785-Nata-De-Cotton-Cotton-Rock-n-Roll-Superlative-Night-Dreams-Video-Games-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1785/",
+      "fetched_at": "2026-05-16T19:10:33.645Z",
+      "raw_id": "/nendoroid/details/n1785/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.750Z",
+      "raw_id": "Nendoroid/1700-1799/1785.json"
+    }
+  ]
+}

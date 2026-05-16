@@ -1,0 +1,68 @@
+{
+  "num": "1133",
+  "name": {
+    "en": "Nendoroid Rorona",
+    "ja": "ねんどろいど ロロナ (ねんどろいど ろろな)",
+    "ko": "로로나"
+  },
+  "series": {
+    "en": "Atelier Rorona: The Alchemist of Arland",
+    "ja": "ロロナのアトリエ 〜アーランドの錬金術士〜",
+    "ko": "로로나의 아틀리에",
+    "code": "atelier-rorona-the-alchemist-of-arland"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8332,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WkKNPNQCHCc/X4NgZ2VKMDI/AAAAAAABmak/6gWKdYE4FFASOroB3s2L3Vrhv2qX1aOUACLcBGAsYHQ/s270/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WkKNPNQCHCc/X4NgZ2VKMDI/AAAAAAABmak/6gWKdYE4FFASOroB3s2L3Vrhv2qX1aOUACLcBGAsYHQ/s270/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AowgkH2sNoA/X4rwJoUh48I/AAAAAAABpHA/QJSmyrZPQE0OyyNvUrszN7-gk7k10SVeACLcBGAsYHQ/s135/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Hd6i2xe9dJ8/X4rwJ0mnsRI/AAAAAAABpHE/SE1OoNjYrDEMQcoy9RCbf1gnXKkZhOecACLcBGAsYHQ/s135/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-idKBzCSyXZ8/X4rwKMAH2bI/AAAAAAABpHI/ZrO3zEE_YtopQKZD8l3XK-vpqpm1BUH5QCLcBGAsYHQ/s135/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HawlMoqyBYc/X4rwKXJy-GI/AAAAAAABpHM/WJkNzryw7k8CNhBpo-aq7kjPM4qWAWKtQCLcBGAsYHQ/s135/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-W9awLYUpHZU/X4rwKmoTocI/AAAAAAABpHQ/dETuCZW2njAkjpw62IH1EbobU0HRJyBQwCLcBGAsYHQ/s135/1133-Rorona-Atelier-Arland-Atelier-Rorona-The-Alchemist-of-Arland-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1133/",
+      "fetched_at": "2026-05-16T19:10:33.241Z",
+      "raw_id": "/nendoroid/details/n1133/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.593Z",
+      "raw_id": "Nendoroid/1100-1199/1133.json"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "num": "0657",
+  "name": {
+    "en": "Nendoroid Osamu Dazai",
+    "ja": "ねんどろいど 太宰治 (ねんどろいど だざいおさむ)",
+    "ko": "다자이 오사무"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": "4580828665941",
+  "gsc_product_id": "3553",
+  "gsc_product_num": 5809,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/3553",
+    "ja": "https://www.goodsmile.com/ja/product/3553"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20160720/5809/40132/large/9bc81920bc83a67eb30e3e58cec2a30c.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZrJwxCkqJ_4/X4NP0xPFhPI/AAAAAAABl4A/TOvgC5CZLU0PdkM8N7mzF8fBXxY8ZcJCgCLcBGAsYHQ/s270/657-Osamu-Dazai-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wCv5wct3pJM/X4i1GEKb6XI/AAAAAAAAs0g/0IQyquNoTwsq-1XLgvNt9vSrgGmYWvGawCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q_29a0q8tZ4/X4i1GSzCY2I/AAAAAAAAs0k/7Inl1CEfHAcQeJrqvQoVjnFAG-LWjfT_wCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YuhuB6NnVdU/X4i1GmuH2VI/AAAAAAAAs0o/3jcKAGOwhREiliuZHcp5czp_vIIhnqNtQCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rE7VRa5E57s/X4i1G7s9LEI/AAAAAAAAs0s/-DqO1Y0caXA8m_4X00sinBJrMmm9xl4EwCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ID85X4BcYpI/X4i1G2-9lmI/AAAAAAAAs0w/qjaHnDaoztwsVOxTAGsAWtAWz6nyWyjoQCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5KwnvwNgOqc/X4i1HM4QdzI/AAAAAAAAs00/A8nzRuX4Ox41TmlZNmwPpIeq6O4q7wVjQCLcBGAsYHQ/s135/657-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20160720/5809/40139/large/22825f163b30d06859279b90c3464dc0.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20160720/5809/40132/large/9bc81920bc83a67eb30e3e58cec2a30c.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3553",
+      "price_local": 5800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:14:40.084Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3553",
+      "fetched_at": "2026-05-16T12:14:40.084Z",
+      "raw_id": "3553"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/3553",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "3553"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n657/",
+      "fetched_at": "2026-05-16T19:10:34.726Z",
+      "raw_id": "/nendoroid/details/n657/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.475Z",
+      "raw_id": "Nendoroid/0600-0699/657.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0363",
+  "name": {
+    "en": "Nendoroid Saber Alter: Super Movable Edition",
+    "ja": "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
+    "ko": "세이버 얼터 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4035,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lO_uCyoAR4k/X4NM6uaRevI/AAAAAAABljc/6G6Ec93lkkAU6PClblUqDkayPmNas0M4ACLcBGAsYHQ/s270/363-Saber-Alter-Super-Movable-Edition-Fate-Stay-Night-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lO_uCyoAR4k/X4NM6uaRevI/AAAAAAABljc/6G6Ec93lkkAU6PClblUqDkayPmNas0M4ACLcBGAsYHQ/s270/363-Saber-Alter-Super-Movable-Edition-Fate-Stay-Night-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dD8CErK8y08/X4dbHMLnWuI/AAAAAAAArH0/hlaJRtKK57AkAufdIM5IzYJa_cb8w97QgCLcBGAsYHQ/s135/363-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Acx1BQJNb14/X4dbHNzGLxI/AAAAAAAArH4/yStSkGwfXsUm5YPGPI_XdgHlUj6VV7xQwCLcBGAsYHQ/s135/363-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uFVcPF2EfKs/X4dbHeKkrkI/AAAAAAAArH8/eIenYskf7UcQVELiW76O0xD0-42MxSu3QCLcBGAsYHQ/s135/363-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fTysMCVG89Y/X4dbHgRretI/AAAAAAAArIA/_rilISdSjFswTGue6F5tGFNNVIGprVJggCLcBGAsYHQ/s135/363-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-61gxEGs3YJ0/X4dbHmQmXqI/AAAAAAAArIE/ayCecW4dfPYeljtBAIp6pMy-BD4DmKYHwCLcBGAsYHQ/s135/363-Saber-Fate-Stay-Night-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n363/",
+      "fetched_at": "2026-05-16T19:10:34.484Z",
+      "raw_id": "/nendoroid/details/n363/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.362Z",
+      "raw_id": "Nendoroid/0300-0399/363.json"
+    }
+  ]
+}

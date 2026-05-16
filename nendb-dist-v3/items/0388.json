@@ -1,0 +1,67 @@
+{
+  "num": "0388",
+  "name": {
+    "en": "Nendoroid Akari Taiyo (ねんどろいど たいようあかり)",
+    "ja": "ねんどろいど 太陽あかり (ねんどろいど たいようあかり)",
+    "ko": "타이요 아카리"
+  },
+  "series": {
+    "en": "Day Break Illusion",
+    "ja": "幻影ヲ駆ケル太陽",
+    "ko": "환영을 달리는 태양",
+    "code": "day-break-illusion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4141,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cSL4wiaqa9Q/X4NNFjDaMQI/AAAAAAABllE/WKrssfpW15Unq366JUKZv4PLF5jFHOD7gCLcBGAsYHQ/s270/388-Akrai-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cSL4wiaqa9Q/X4NNFjDaMQI/AAAAAAABllE/WKrssfpW15Unq366JUKZv4PLF5jFHOD7gCLcBGAsYHQ/s270/388-Akrai-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZWHldnvWa_I/X4dbkkauhII/AAAAAAAArQM/2T4xde7VmA80S8_7XWV-bnfxD3u5XfXYACLcBGAsYHQ/s135/388-Akari-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0u6BGYGnyhE/X4dbkzjmlvI/AAAAAAAArQQ/2NUknkZ0tiwXRhHypwVRy7i873AZBvbEACLcBGAsYHQ/s135/388-Akari-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-urOZgMvwybQ/X4dbk8UDVVI/AAAAAAAArQU/jMuFXuqYZ0EUileIsxurU4WbOSKg9xUegCLcBGAsYHQ/s135/388-Akari-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rFE_ecpjFJ8/X4dblBeK4KI/AAAAAAAArQY/Oa7xklbR9Rok6sp31LSHXS4KaiO4CxLvQCLcBGAsYHQ/s135/388-Akari-Taiyo-Day-Break-Illusion-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n388/",
+      "fetched_at": "2026-05-16T19:10:34.500Z",
+      "raw_id": "/nendoroid/details/n388/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.368Z",
+      "raw_id": "Nendoroid/0300-0399/388.json"
+    }
+  ]
+}

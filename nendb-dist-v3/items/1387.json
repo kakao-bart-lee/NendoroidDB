@@ -1,0 +1,69 @@
+{
+  "num": "1387",
+  "name": {
+    "en": "Nendoroid Daisy Duck",
+    "ja": "ねんどろいど デイジーダック (ねんどろいど でいじーだっく)",
+    "ko": "데이지 덕"
+  },
+  "series": {
+    "en": "Daisy Duck",
+    "ja": "デイジーダック",
+    "ko": "데이지 덕",
+    "code": "daisy-duck"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13055,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sNLXlQbKF-w/Yw_WHyF4TLI/AAAAAAAA6YU/JShid30cqIAHoLOi-SjK8XNyc2vMp_LHQCNcBGAsYHQ/s270/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sNLXlQbKF-w/Yw_WHyF4TLI/AAAAAAAA6YU/JShid30cqIAHoLOi-SjK8XNyc2vMp_LHQCNcBGAsYHQ/s270/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MT7_qdHEajg/YxEWKxbQV-I/AAAAAAAA6dQ/yJ8SgHCaJusVg6THPO3pHP46kcG0d7wKQCNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J-CgnluTji8/YxEWLbYLgrI/AAAAAAAA6dU/VVIDmzRsaJ8ieh3aCAXhDtVy6aaguUZ_QCNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZFyr2kguAq4/YxEWL4L218I/AAAAAAAA6dY/XD2ilG2qpuYduJTK0AXA8z8HrUhDULHEgCNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hQpCFkX4UcU/YxEWMZvJkxI/AAAAAAAA6dc/D5MKdvLza2cjoDnW9PCumXLKBVQCzglPACNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mVOXqwsVbJw/YxEWMwM3ycI/AAAAAAAA6dg/kw6LO0P0eyMZhtYS-9Qb1H9_2ig1q95aACNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PMGqj0jo39k/YxEWNZhm-RI/AAAAAAAA6dk/dH1kpqe5QA84HD9gh69qU4Z1UL3yNpKeQCNcBGAsYHQ/s135/1387-Daisy-Duck-Donald-Duck-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1387/",
+      "fetched_at": "2026-05-16T19:10:33.397Z",
+      "raw_id": "/nendoroid/details/n1387/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.653Z",
+      "raw_id": "Nendoroid/1300-1399/1387.json"
+    }
+  ]
+}

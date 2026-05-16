@@ -1,0 +1,71 @@
+{
+  "num": "1331",
+  "name": {
+    "en": "Nendoroid Ryuko Matoi: Souvenir Jacket Ver.",
+    "ja": "ねんどろいど 纏流子 スカジャンVer. (ねんどろいど まといりゅうこ すかじゃんVer.)",
+    "ko": "마토이 류코 스카쟌 Ver."
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11021,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xwo5GRu1RDE/YHSSU6e-2TI/AAAAAAAAwo8/AKis0niJiK8ypS-kw1lHLqmACfX83vOXQCLcBGAsYHQ/s270/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xwo5GRu1RDE/YHSSU6e-2TI/AAAAAAAAwo8/AKis0niJiK8ypS-kw1lHLqmACfX83vOXQCLcBGAsYHQ/s270/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aRR3EZVtSSg/YHSWsbEvA1I/AAAAAAAAwp8/zJQgw2qR8ew_F33XyOjjgwMtQkGLMR9dwCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VVv3nmcft2Q/YHSWsU2XRkI/AAAAAAAAwp0/0dxuft6kpxwMRbUBJAdQ0hTrlDSWkIEygCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AiiF6V9GRfk/YHSWs1L1E1I/AAAAAAAAwqA/JN7nIskl7Tk1qKEu6L2Gop7vKzHazGbOwCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z0XHtugf-TU/YHSWtOduxxI/AAAAAAAAwqE/Cu8uNf0qJ3EzE-BGMw0tudAIE3FfsD8-wCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xdrGJ6tU9uw/YHSWtUxhWrI/AAAAAAAAwqI/qDQneNa24AcMsMcWUSox9n12wqGUcYXQACLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-E6NnELSk6wc/YHSWtm_vAWI/AAAAAAAAwqM/1QMicqsAdrwHoc8LpEXT_9az3h32lKdaQCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-GEBwNkEyXB4/YHSWtq759oI/AAAAAAAAwqQ/8gjf3vfE4DEMOVzA-S9uRrZWXVyQ9vtpQCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-5uNJXpiEawA/YHSWscNtE4I/AAAAAAAAwp4/7YHlBgLdM2UXNbcODIIHE7SejkBCZ32nwCLcBGAsYHQ/s135/1331-Ryuko-Matoi-Kill-la-Kill-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1331/",
+      "fetched_at": "2026-05-16T19:10:33.363Z",
+      "raw_id": "/nendoroid/details/n1331/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.641Z",
+      "raw_id": "Nendoroid/1300-1399/1331.json"
+    }
+  ]
+}

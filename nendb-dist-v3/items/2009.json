@@ -1,0 +1,71 @@
+{
+  "num": "2009",
+  "name": {
+    "en": "Nendoroid Shiranui Flare",
+    "ja": "ねんどろいど 不知火フレア (ねんどろいど しらぬいふれあ)",
+    "ko": "시라누이 후레아"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13582,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XYyqoAJJS3A/Y45wWjXwZ0I/AAAAAAAA7so/1b0WeXYmnVA092RLN6A_IpgPsc6BRYxUwCNcBGAsYHQ/s270/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XYyqoAJJS3A/Y45wWjXwZ0I/AAAAAAAA7so/1b0WeXYmnVA092RLN6A_IpgPsc6BRYxUwCNcBGAsYHQ/s270/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5kO9ySIg0Dg/Y4517_dbKkI/AAAAAAAA77A/BErOfJha0fs2BlI5N1cFpduGa0qif7c4wCNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qhGPI4jWhlU/Y4518JdIfSI/AAAAAAAA77E/jnndWbGpHdA-G8ihjRv2vXMdTblNASFfACNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8NEqArBTIOs/Y4518SsQLvI/AAAAAAAA77I/7rrecA7lIBkIK7-nLhnT6tPOEF8PUJEwgCNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cyxY8CHMu6o/Y4518paKNZI/AAAAAAAA77M/8bPl-SvrFBse9gamShjCygpFwjncxUYswCNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7kbQbZhonYo/Y45186YeSpI/AAAAAAAA77Q/WT5sGN4Jk4MdczIL-uHUYsyf4KIBMrXQgCNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-J0K0DPb-N-Q/Y4519FwjyKI/AAAAAAAA77U/gliAVzpiRpoB7Q1fJzncVdp7BL7bQur3QCNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-TdBVA3_95G4/Y4519WeEViI/AAAAAAAA77Y/9pHpXsH10osBqgOrlNf5gM8vBi-SGUgoACNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-awnbheHCLts/Y4517fE5XAI/AAAAAAAA768/2W6bjkV2TrQ1s2Wyi5T9UJpyhjrOJX1aACNcBGAsYHQ/s135/2009-Shiranui-Flare-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2009/",
+      "fetched_at": "2026-05-16T19:10:33.782Z",
+      "raw_id": "/nendoroid/details/n2009/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.804Z",
+      "raw_id": "Nendoroid/2000-2099/2009.json"
+    }
+  ]
+}

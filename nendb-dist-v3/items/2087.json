@@ -1,0 +1,69 @@
+{
+  "num": "2087",
+  "name": {
+    "en": "Nendoroid Sakunosuke Oda",
+    "ja": "ねんどろいど 織田作之助 (ねんどろいど おださくのすけ)",
+    "ko": "오다 사쿠노스케"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14133,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LMkxASrqQD8/ZCnVYdVJ42I/AAAAAAAA9Tw/RAzY_0N4MEs78z9jqCDy8TWcSCanTPFIQCNcBGAsYHQ/s270/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LMkxASrqQD8/ZCnVYdVJ42I/AAAAAAAA9Tw/RAzY_0N4MEs78z9jqCDy8TWcSCanTPFIQCNcBGAsYHQ/s270/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hAim5CPxGfg/ZCnZi2p3w7I/AAAAAAAA9VE/oXnwhldbF3I_W5TZWeMhmI0uGgr4pIPJQCNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bLII4YL1IX0/ZCnZiylhD2I/AAAAAAAA9VI/3XpFkBY_53UrAsQ5VLhvbtQx2Mi2B8AnwCNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OEQzumoBWHQ/ZCnZiyaKe-I/AAAAAAAA9VM/YeZWUOG9ufYfFK4weCD86BaMxwtaWcLVwCNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-a_Xluyvott8/ZCnZjaMk9wI/AAAAAAAA9VQ/42R35I6X9w8G7xI7s1emT8X_QKNvcH6CQCNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5NXHcwBXzm4/ZCnZj9XWE5I/AAAAAAAA9VU/wDJydQ2lCuwF_-9FTLsiYmSP216FUieJACNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Bg-z2s2LOQw/ZCnZkCB_-nI/AAAAAAAA9VY/QnpXcVzZE60tMvv9yP0qzNBhUtuSFJ_pgCNcBGAsYHQ/s135/2087-Sakunosuke-Oda-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2087/",
+      "fetched_at": "2026-05-16T19:10:33.832Z",
+      "raw_id": "/nendoroid/details/n2087/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.823Z",
+      "raw_id": "Nendoroid/2000-2099/2087.json"
+    }
+  ]
+}

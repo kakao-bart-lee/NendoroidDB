@@ -1,0 +1,68 @@
+{
+  "num": "1180",
+  "name": {
+    "en": "Nendoroid Miles Morales: Spider-Verse Edition Standard Ver.",
+    "ja": "ねんどろいど マイルス・モラレス スパイダーバース・エディション スタンダードVer. (ねんどろいど まいるす・もられす すぱいだーばーす・えでぃしょん すたんだーどVer.)",
+    "ko": "마일스 모랄레스 스파이더 버스 에디션 스탠다드 Ver."
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8610,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FnALXhKkDgY/X4NgsJs9-AI/AAAAAAABmd0/144l8OMCwJk0gzA0Kw7WO70S8Uku1mvoACLcBGAsYHQ/s270/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FnALXhKkDgY/X4NgsJs9-AI/AAAAAAABmd0/144l8OMCwJk0gzA0Kw7WO70S8Uku1mvoACLcBGAsYHQ/s270/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wOR2D0hYGT4/X4rxe4agzBI/AAAAAAABpaw/rjiTX68UyTEcHpFGWO1nSirNlT_92LdrgCLcBGAsYHQ/s135/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DAOOFqmTa5Q/X4rxfBhP1JI/AAAAAAABpa0/b5s6UlHFnTQmF88Ikg7WWDZjhYOYPQ3hQCLcBGAsYHQ/s135/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YWlBt-p17EQ/X4rxfRuT0cI/AAAAAAABpa4/rQVf_2GkAR4pd-kcr1FKRBQYH4Z2PGb4QCLcBGAsYHQ/s135/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G1eCRn4cTvM/X4rxftqAnbI/AAAAAAABpa8/Fy_RrjFwKSUun4X7bz9ah433b7e5jKQTACLcBGAsYHQ/s135/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6chM3sw3SaU/X4rxf24nQzI/AAAAAAABpbA/J3q_pLkqPCEYRytHK1Nr4WhDdvCPgMENwCLcBGAsYHQ/s135/1180-Miles-Morales-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1180/",
+      "fetched_at": "2026-05-16T19:10:33.271Z",
+      "raw_id": "/nendoroid/details/n1180/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.604Z",
+      "raw_id": "Nendoroid/1100-1199/1180.json"
+    }
+  ]
+}

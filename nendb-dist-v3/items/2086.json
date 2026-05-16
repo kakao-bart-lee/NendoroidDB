@@ -1,0 +1,68 @@
+{
+  "num": "2086",
+  "name": {
+    "en": "Nendoroid Genjo Sanzo",
+    "ja": "ねんどろいど 玄奘三蔵 (ねんどろいど げんじょうさんぞう)",
+    "ko": "현장 삼장"
+  },
+  "series": {
+    "en": "Saiyuki RELOAD ZEROIN",
+    "ja": "最遊記RELOAD -ZEROIN-",
+    "ko": "최유기 RELOAD",
+    "code": "saiyuki-reload-zeroin"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14080,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1eD3DExJssg/ZA3eElbub2I/AAAAAAAA9Lc/i7DrdrXL1qIvl8QSgxaW5qoJHni4jwYXgCNcBGAsYHQ/s270/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1eD3DExJssg/ZA3eElbub2I/AAAAAAAA9Lc/i7DrdrXL1qIvl8QSgxaW5qoJHni4jwYXgCNcBGAsYHQ/s270/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-q-E9-kbLVzg/ZA3dS6HvMwI/AAAAAAAA9HI/A6lbj6LqZdM7K_pgLpxhQ26HsYvXs1r6gCNcBGAsYHQ/s135/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MjXjEeJAa6U/ZA3dTLx6hBI/AAAAAAAA9HQ/uFDWlx1lkeUBC9NG1IKmoJBLs2aciud2ACNcBGAsYHQ/s135/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XXC2kOmyrSk/ZA3dTLLa6pI/AAAAAAAA9HM/SylPuKBMKHwLGbs2Uxk2FjIqYxvykjHCwCNcBGAsYHQ/s135/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ugU_SDPTtig/ZA3dTCxbcvI/AAAAAAAA9HU/6N-cm5P-4gAqrcPzZeExsUojsbt4cbVKQCNcBGAsYHQ/s135/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WtnKBofKOKI/ZA3dTp9-19I/AAAAAAAA9HY/ra4JaArIfXEebeaFPmEO1lRccPmjpn4lgCNcBGAsYHQ/s135/2086-Genjo-Sanzo-Saiyuki-RELOAD-ZEROIN-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2086/",
+      "fetched_at": "2026-05-16T19:10:33.832Z",
+      "raw_id": "/nendoroid/details/n2086/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.823Z",
+      "raw_id": "Nendoroid/2000-2099/2086.json"
+    }
+  ]
+}

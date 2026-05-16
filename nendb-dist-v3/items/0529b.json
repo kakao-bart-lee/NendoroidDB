@@ -1,0 +1,68 @@
+{
+  "num": "0529b",
+  "name": {
+    "en": "Nendoroid Tobio Kageyama: Jersey Ver.",
+    "ja": "ねんどろいど 影山飛雄 ジャージVer. (ねんどろいど かげやまとびお じゃーじVer.)",
+    "ko": "카게야마 토비오 츄리닝 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nlE37k6ysfA/X4NOb5pfMAI/AAAAAAABlvM/7tEOzYk_6u4M5NMGkSdgZpQ-m6OK3GdcwCLcBGAsYHQ/s270/529B-Tobio-Kageyama-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nlE37k6ysfA/X4NOb5pfMAI/AAAAAAABlvM/7tEOzYk_6u4M5NMGkSdgZpQ-m6OK3GdcwCLcBGAsYHQ/s270/529B-Tobio-Kageyama-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I7jXiQ1UwjQ/X4isRdzu0aI/AAAAAAAAsEo/Pk0vRjKsTAk7EdvwfF3SkiaowJLYySHRACLcBGAsYHQ/s135/529B-Tobio-Kageyama-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s9k6pwKfPq8/X4isRhSBqnI/AAAAAAAAsEs/Y9Z0t_UKhJAiet7fm1RaqkEo9faldm9wgCLcBGAsYHQ/s135/529B-Tobio-Kageyama-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dRwKCmfo35s/X4isRi3zd0I/AAAAAAAAsEw/S3cbLUrU0VM3778J6msAMxirc98ReG1fACLcBGAsYHQ/s135/529B-Tobio-Kageyama-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ylujEl8zbC0/X4isR_MAxyI/AAAAAAAAsE0/vzMwOEZckiI5P2DGBSo4MmkEWIYeP1SWwCLcBGAsYHQ/s135/529B-Tobio-Kageyama-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CbbuuM-dejg/X4isSPKxmvI/AAAAAAAAsE4/onMgNOeddNkGav7Kv8UTZzFr9uoIEmiRwCLcBGAsYHQ/s135/529B-Tobio-Kageyama-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n529b/",
+      "fetched_at": "2026-05-16T19:10:34.581Z",
+      "raw_id": "/nendoroid/details/n529b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.429Z",
+      "raw_id": "Nendoroid/0500-0599/529b.json"
+    }
+  ]
+}

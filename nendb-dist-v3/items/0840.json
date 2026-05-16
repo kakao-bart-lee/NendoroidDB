@@ -1,0 +1,68 @@
+{
+  "num": "0840",
+  "name": {
+    "en": "Nendoroid Suzu",
+    "ja": "ねんどろいど すずさん",
+    "ko": "스즈 씨"
+  },
+  "series": {
+    "en": "In This Corner of the World",
+    "ja": "この世界の片隅に",
+    "ko": "이 세상의 한 구석에",
+    "code": "in-this-corner-of-the-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6811,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7Mzz4jZdRCw/X4Ndz14tA9I/AAAAAAABmFI/7J7kQFsPg3gItLMnKr2L1V_KF9wX75fGwCLcBGAsYHQ/s270/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7Mzz4jZdRCw/X4Ndz14tA9I/AAAAAAABmFI/7J7kQFsPg3gItLMnKr2L1V_KF9wX75fGwCLcBGAsYHQ/s270/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LTlR5bZNFqo/X4ri3nKHw8I/AAAAAAABnN8/cA6W6kZl0OEU_l9ehvvwl05B27TuBRd6gCLcBGAsYHQ/s135/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qVz5SUiS_fw/X4ri33ob1gI/AAAAAAABnOA/V4WppLF8A3QYwlHZcMTDPG_zaRP_4o27ACLcBGAsYHQ/s135/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d2URUMJslno/X4ri4OhGFsI/AAAAAAABnOE/Ja_KVCs4f4EmbEmqnTrVN-aTPTL1bvihQCLcBGAsYHQ/s135/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KeGEMiTcmxA/X4ri4RvW5dI/AAAAAAABnOI/SmP4pYSJ8PMI0Ic3WSYO3dc1oTwAA2OEwCLcBGAsYHQ/s135/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t2HZuVFRLSU/X4ri4iZyMtI/AAAAAAABnOM/_ipqV5-BtSITxmHyk0YPURhxChWmWgDSgCLcBGAsYHQ/s135/840-Suzu-In-This-Corner-of-the-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n840/",
+      "fetched_at": "2026-05-16T19:10:34.830Z",
+      "raw_id": "/nendoroid/details/n840/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.519Z",
+      "raw_id": "Nendoroid/0800-0899/840.json"
+    }
+  ]
+}

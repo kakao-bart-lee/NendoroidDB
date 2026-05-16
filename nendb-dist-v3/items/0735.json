@@ -1,0 +1,68 @@
+{
+  "num": "0735",
+  "name": {
+    "en": "Nendoroid Yuuka Kazami",
+    "ja": "ねんどろいど 風見幽香 (ねんどろいど かざみゆうか)",
+    "ko": "카자미 유카"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6229,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dA06JACgi68/X4Nc6S507CI/AAAAAAABl9k/0coCc_pJvKocXme8WfdF4v9CUvldrDPFgCLcBGAsYHQ/s270/735-Yuuka-Kazami-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dA06JACgi68/X4Nc6S507CI/AAAAAAABl9k/0coCc_pJvKocXme8WfdF4v9CUvldrDPFgCLcBGAsYHQ/s270/735-Yuuka-Kazami-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jFfRWzQlSLA/X4i4ajBEmTI/AAAAAAAAtTI/pWyTiW87bao8KUxET10rii0dJ9nFg4o0QCLcBGAsYHQ/s135/735-Yuuka-Kazami-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-amJIS3Ol0KA/X4i4a1ynW7I/AAAAAAAAtTM/CCHcc6jvToIkQX2E9P19VvRdb4ztICtAQCLcBGAsYHQ/s135/735-Yuuka-Kazami-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_DqbFRX26co/X4i4bUzcxAI/AAAAAAAAtTQ/8LBAf0rVNAkxzt0QnXTTOM-Gs7jC70oEQCLcBGAsYHQ/s135/735-Yuuka-Kazami-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GwbIwvod-Dc/X4i4bakhRBI/AAAAAAAAtTU/6pROeYquiwQBP1NtyI05hP9Teq35ny1ygCLcBGAsYHQ/s135/735-Yuuka-Kazami-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-u3Fc4JaLuV8/X4i4btu62CI/AAAAAAAAtTY/l-24Sv7ojxkqBpSpYFi95Tpdn9yOHhZXACLcBGAsYHQ/s135/735-Yuuka-Kazami-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n735/",
+      "fetched_at": "2026-05-16T19:10:34.768Z",
+      "raw_id": "/nendoroid/details/n735/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.495Z",
+      "raw_id": "Nendoroid/0700-0799/735.json"
+    }
+  ]
+}

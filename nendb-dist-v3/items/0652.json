@@ -1,0 +1,68 @@
+{
+  "num": "0652",
+  "name": {
+    "en": "Nendoroid Sora",
+    "ja": "ねんどろいど 空(『ノーゲーム・ノーライフ プラクティカルウォーゲーム ねんどろいど 空付き特装版』同梱) (ねんどろいど そら(『のーげーむ・のーらいふ ぷらくてぃかるうぉーげーむ ねんどろいど そらつきとくそうばん』どうこん))",
+    "ko": "소라"
+  },
+  "series": {
+    "en": "No Game No Life",
+    "ja": "ノーゲーム・ノーライフ",
+    "ko": "노게임 노라이프",
+    "code": "no-game-no-life"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5794,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-59ZKfBIVo1A/X4NPzN3kOhI/AAAAAAABl3s/hTdu85_-FYEZF9OJQObJkq3-r2Ds8KpQQCLcBGAsYHQ/s270/652-Sora-No-Game-No-Life-Anime-and-Manga-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-59ZKfBIVo1A/X4NPzN3kOhI/AAAAAAABl3s/hTdu85_-FYEZF9OJQObJkq3-r2Ds8KpQQCLcBGAsYHQ/s270/652-Sora-No-Game-No-Life-Anime-and-Manga-1.jpg",
+      "https://1.bp.blogspot.com/-XOAbgi0Pbh4/X4i04-auvnI/AAAAAAAAsys/LlKEwida5X4WYEXc6BZoUZFzHqsXwfOtwCLcBGAsYHQ/s135/652-Sora-No-Game-No-Life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qTZ5dhv1kiQ/X4i04wfMYII/AAAAAAAAsyw/yqwPLY7FhlsSBDzxAh5wlADPUOvRT3O6ACLcBGAsYHQ/s135/652-Sora-No-Game-No-Life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AmeiwiOkVVM/X4i05fdkZrI/AAAAAAAAsy0/vgp0do9-yJQk7gfHLs4x0anKrp51D7tvACLcBGAsYHQ/s135/652-Sora-No-Game-No-Life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IDBANq3IL-Y/X4i0571VikI/AAAAAAAAsy4/L6ASogQk0ygU0HktkB0Qy5et5-u20ZurACLcBGAsYHQ/s135/652-Sora-No-Game-No-Life-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5qjYgujiQfI/X4i06bQPcAI/AAAAAAAAsy8/SJx2Rpl6IooUpL8P9-MdyYb22ZTciP-1gCLcBGAsYHQ/s135/652-Sora-No-Game-No-Life-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n652/",
+      "fetched_at": "2026-05-16T19:10:34.722Z",
+      "raw_id": "/nendoroid/details/n652/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.474Z",
+      "raw_id": "Nendoroid/0600-0699/652.json"
+    }
+  ]
+}

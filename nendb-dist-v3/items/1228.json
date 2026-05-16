@@ -1,0 +1,67 @@
+{
+  "num": "1228",
+  "name": {
+    "en": "Nendoroid Spider-Gwen: Spider-Verse Ver.",
+    "ja": "ねんどろいど スパイダーグウェン スパイダーバースVer. (ねんどろいど ぱいだーぐうぇん すぱいだーばーすVer.)",
+    "ko": "스파이더 그웬 스파이더 버스 Ver."
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8940,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-px-VGG3SJMo/X4NiMxm3Y2I/AAAAAAABmog/sbiwPASs0AcE83iaF1vbFae2ySOBZmIjwCLcBGAsYHQ/s270/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-px-VGG3SJMo/X4NiMxm3Y2I/AAAAAAABmog/sbiwPASs0AcE83iaF1vbFae2ySOBZmIjwCLcBGAsYHQ/s270/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fxTlOyNy41I/X4rzi0LY9RI/AAAAAAABpwE/xa1p2XrSTsUimxRT6ym74KiRI8ijvnDkgCLcBGAsYHQ/s135/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l7ZIRhTZsyQ/X4rzjKjHKzI/AAAAAAABpwI/aoT3M-E_10kKJkBgyhuZOAMvMuBBT2ylgCLcBGAsYHQ/s135/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cCg8R92wzjg/X4rzjljBDDI/AAAAAAABpwM/8aYt8OGy6A0wkA7Try5EHFd44D_g9YdXwCLcBGAsYHQ/s135/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Gh0AsvfjrZM/X4rzjwbd7OI/AAAAAAABpwQ/AG_H3-IlWFc75ieye3R9wtUHQg0_EG4nQCLcBGAsYHQ/s135/1228-Spider-Gwen-Spider-Man-Into-the-Spider-Verse-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1228/",
+      "fetched_at": "2026-05-16T19:10:33.299Z",
+      "raw_id": "/nendoroid/details/n1228/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.615Z",
+      "raw_id": "Nendoroid/1200-1299/1228.json"
+    }
+  ]
+}

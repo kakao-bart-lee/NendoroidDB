@@ -1,0 +1,70 @@
+{
+  "num": "1468",
+  "name": {
+    "en": "Nendoroid Shen Qingqiu",
+    "ja": "ねんどろいど 沈清秋 (ねんどろいど しんせんしゅう)",
+    "ko": "심청추"
+  },
+  "series": {
+    "en": "ChuanShuZiJiuZhiNan",
+    "ja": "穿書自救指南",
+    "ko": "인사반파자구계통",
+    "code": "chuanshuzijiuzhinan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10120,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--ahTxdhVr-s/X4NkozznL9I/AAAAAAABm8U/i81DZJ9cQLYx6jmEQLJeu4fjkfsFylKqQCLcBGAsYHQ/s270/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--ahTxdhVr-s/X4NkozznL9I/AAAAAAABm8U/i81DZJ9cQLYx6jmEQLJeu4fjkfsFylKqQCLcBGAsYHQ/s270/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JH1Zw8WL4oc/X4tBRaiFquI/AAAAAAABrCw/MDrkIvGJZ9Y0W-quX8aDNcjzZ-c2sZ11gCLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q7Knd7PIL9k/X4tBRgrVSpI/AAAAAAABrC0/FVhRH862GCQJHw2l0qovU50aoC-SkxiswCLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-j0Lxrt25c5o/X4tBRyzjhKI/AAAAAAABrC4/4TAvNRKnxRQqDvHbTLVq1px3rNr979KTACLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VYW0lIwUjkU/X4tBSC1WevI/AAAAAAABrC8/cd1JgzGlanIYJ8uRVfUuDxnESfkB81PNACLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cGcMLXgeeL0/X4tBSRaSucI/AAAAAAABrDA/2eUuJzBNgyEp0ox7YTSTSbq7Ydq4p2SrQCLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xCmodyBBgkI/X4tBShAaVVI/AAAAAAABrDE/14bi-zjFQwgIx5WSNn6yN0uSyAQS33wigCLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Zlk85Lqof9o/X4tBS9JDCGI/AAAAAAABrDI/eIUBf8qbXgEX3GDZgOvg-bQV6D4KMXPowCLcBGAsYHQ/s135/1468-Shen-Qingqiu-Scumbag-System-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1468/",
+      "fetched_at": "2026-05-16T19:10:33.449Z",
+      "raw_id": "/nendoroid/details/n1468/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.673Z",
+      "raw_id": "Nendoroid/1400-1499/1468.json"
+    }
+  ]
+}

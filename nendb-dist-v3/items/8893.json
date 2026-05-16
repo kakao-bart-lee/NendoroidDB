@@ -1,0 +1,55 @@
+{
+  "num": "8893",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Gryffindor Uniform - Girl)",
+    "ja": "ねんどろいどどーる おようふくセット（グリフィンドール制服：Girl） (ねんどろいどどーる おようふくせっと（ぐりふぃんどーるせいふく：がーる）)",
+    "ko": "그리핀도르 의상(여)"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8893,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191009/8893/64500/large/f3b32b8cbb9c4c751350fb99e99178c8.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.942Z",
+      "raw_id": "NendoroidDoll/Clothes/8893.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0097",
+  "name": {
+    "en": "Nendoroid Snow Miku (ねんどろいど ゆきみく)",
+    "ja": "ねんどろいど 雪ミク (ねんどろいど ゆきみく )",
+    "ko": "유키 미쿠"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Miku Hatsune",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-miku-hatsune"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2777,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AU8Q_JoRs1s/X4MSKj_wNNI/AAAAAAAApco/5-nRdRJQvBsY5eUoZ6rvm2cgx1O-eQ7mQCLcBGAsYHQ/s270/097-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AU8Q_JoRs1s/X4MSKj_wNNI/AAAAAAAApco/5-nRdRJQvBsY5eUoZ6rvm2cgx1O-eQ7mQCLcBGAsYHQ/s270/097-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jPUPzij1j7A/X4GxRmU0OKI/AAAAAAAApSs/y1GK82ZIzRs8gm7YksB54PZNvDztEdKDwCLcBGAsYHQ/s135/097-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MmCJd4Oi2Mg/X4GxSGvl7sI/AAAAAAAApS0/pof8JOj9qHwcamIIqG3L3lBfGaihnDocQCLcBGAsYHQ/s135/097-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uMErNzn-iXE/X4GxSYGF82I/AAAAAAAApS4/vsGjM2s5EoAVOSTavJhIRLtNbNiMVL61wCLcBGAsYHQ/s135/097-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-biQOtIk1BNQ/X4GxSn1REcI/AAAAAAAApS8/SCFWAr0qLZcDZf1STa99NLHqf6Vx8wXyQCLcBGAsYHQ/s135/097-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n097/",
+      "fetched_at": "2026-05-16T19:10:33.125Z",
+      "raw_id": "/nendoroid/details/n097/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.287Z",
+      "raw_id": "Nendoroid/0000-0099/097.json"
+    }
+  ]
+}

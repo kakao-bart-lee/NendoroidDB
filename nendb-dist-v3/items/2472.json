@@ -1,0 +1,66 @@
+{
+  "num": "2472",
+  "name": {
+    "en": "Chisei Kuzuryu",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Paradox Live",
+    "ja": null,
+    "ko": null,
+    "code": "paradox-live"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NHB2rYpfvEg/Zor7hf_7wqI/AAAAAAABFDM/KGS3GC9pQQscCFQ8Qq-F-_G9TMcR2Zc2gCNcBGAsYHQ/s270/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NHB2rYpfvEg/Zor7hf_7wqI/AAAAAAABFDM/KGS3GC9pQQscCFQ8Qq-F-_G9TMcR2Zc2gCNcBGAsYHQ/s270/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MEDlBIG0gSU/Zow4-7AiIsI/AAAAAAABF0Q/OycR20VK1WUQ_CLeBso_s-gaqSzFydEzQCNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aut_arFAdeo/Zow4_c57fdI/AAAAAAABF0U/aqUfG0szXfI8TMfnZO0K50PrtyaF9PuBQCNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0ESY7qdBlxw/Zow4_wxnmgI/AAAAAAABF0Y/p3FR3nkedPMuhXxVY_yAvx-FhV-kAG7YgCNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5FL3t7VuW6g/Zow5A0McndI/AAAAAAABF0c/Qs6_z00btyQ7UiLFmnbIdT_VxDcvj7FKACNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v4i22fUpo3c/Zow5A6DvNpI/AAAAAAABF0g/Q6YU-PgE3tkIa97SyRYCBWd2x4gISMJtACNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-STOLRrQZw2Q/Zow5BHpJEGI/AAAAAAABF0k/gP30UtveDhk_vr78qgbmXqvXWtTQuL4HACNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-3l65yXGV1TA/Zow5BQ2AMzI/AAAAAAABF0o/kAqFx8q8_M4MWkdrAN7-meToYvvpbv1uwCNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-JZU9tT69EQI/Zow4-YZSj6I/AAAAAAABF0M/9Bor4PLKWGYvb1pQ82rHVPTqn57nfnmqwCNcBGAsYHQ/s135/2472-Chisei-Kuzuryu-Paradox-Live-Others-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2472/",
+      "fetched_at": "2026-05-16T19:10:34.081Z",
+      "raw_id": "/nendoroid/details/n2472/"
+    }
+  ]
+}

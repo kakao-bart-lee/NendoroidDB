@@ -1,0 +1,68 @@
+{
+  "num": "1369",
+  "name": {
+    "en": "Nendoroid Beef Boss",
+    "ja": "ねんどろいど ビーフボス (ねんどろいど びーふぼす)",
+    "ko": "비프 보스"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9706,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ciOuf4LjDQQ/X4Nj0wn82UI/AAAAAAABm3E/ENlmSdIujDQvFytN79Qwiw5NqO6IjGv5QCLcBGAsYHQ/s270/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ciOuf4LjDQQ/X4Nj0wn82UI/AAAAAAABm3E/ENlmSdIujDQvFytN79Qwiw5NqO6IjGv5QCLcBGAsYHQ/s270/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-x114bS4we64/X4s98sIGdbI/AAAAAAABqnc/ZtHIUy3UjBMzhYmFLhB0IFGJniYuYy1gQCLcBGAsYHQ/s135/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ICDvpYIIIIE/X4s986L8sQI/AAAAAAABqng/zl6SVMRKC74mEuDkVW472qbcJZK6wrJegCLcBGAsYHQ/s135/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wodu5tLZLzs/X4s99DMaS5I/AAAAAAABqnk/ZqvQVXpa9_0rHuOhnTXJCNbgKdS3ca-QACLcBGAsYHQ/s135/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fi1FzDJlydo/X4s99Abk9OI/AAAAAAABqno/c9Z0Gs5vPpg_pw465OtUCbWCd2KTM4GCQCLcBGAsYHQ/s135/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XFsycMuMVZE/X4s99QkX5GI/AAAAAAABqns/zA3Wmo_3aioUC1TkGck3X2-1BPymOSDeACLcBGAsYHQ/s135/1369-Beef-Boss-Fortnite-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1369/",
+      "fetched_at": "2026-05-16T19:10:33.386Z",
+      "raw_id": "/nendoroid/details/n1369/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.649Z",
+      "raw_id": "Nendoroid/1300-1399/1369.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "7842",
+  "name": {
+    "en": "Nendoroid Doll: Avenger/Jeanne d'Arc (Alter) Shinjuku Ver.",
+    "ja": "ねんどろいどどーる アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver. (ねんどろいどどーる あゔぇんじゃー/じゃんぬ・だるく〔おるた〕しんじゅくVer.)",
+    "ko": "어벤저/잔 다르크[얼터] 신주쿠 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "Fate/Grand Order",
+    "code": "fate-grand-order"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7842,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181127/7842/56273/large/9ec955672d153b68f211edad428c80ef.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.965Z",
+      "raw_id": "NendoroidDoll/Doll/7842.json"
+    }
+  ]
+}

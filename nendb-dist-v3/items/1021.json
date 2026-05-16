@@ -1,0 +1,69 @@
+{
+  "num": "1021",
+  "name": {
+    "en": "Nendoroid Hinata Miyake",
+    "ja": "ねんどろいど 三宅日向 (ねんどろいど みやけひなた)",
+    "ko": "미야케 히나타"
+  },
+  "series": {
+    "en": "A Place Further Than the Universe",
+    "ja": "宇宙よりも遠い場所",
+    "ko": "우주보다 먼 곳",
+    "code": "a-place-further-than-the-universe"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7725,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WYMcSZMwB_w/X4Nfkkob2WI/AAAAAAABmSY/WFGIai6023UwL0xU633ZsY7LUSV7vJGRQCLcBGAsYHQ/s270/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WYMcSZMwB_w/X4Nfkkob2WI/AAAAAAABmSY/WFGIai6023UwL0xU633ZsY7LUSV7vJGRQCLcBGAsYHQ/s270/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-anTAfanHtIM/X4rrgYEP9UI/AAAAAAABoZU/Eyq_Xka1YekI__hzZ4dFsJVLGxVzFCjGQCLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iKvQ83uv0ik/X4rrg7a81XI/AAAAAAABoZY/48f7cgZFUe8PIkLIHhQXbDCUUTZdQl7qQCLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-j0qQX0oGG_A/X4rrhE1FJtI/AAAAAAABoZc/w-mIDbsA-OUnqP-ACsximl2Cx8IxSF_YACLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Lc1sC27vA-A/X4rrhUkXilI/AAAAAAABoZg/3QXQE1Iz_b88l3Dwz-3Mv0vKLrYnJ7TPgCLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7EIlMezIyak/X4rrhj1KgkI/AAAAAAABoZk/IbFCA7-338cdbrdZuswsivvHb6_j0RwCACLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vdujnHnoK8o/X4rrh_Vm3kI/AAAAAAABoZo/D8KFp6X_khEpLQ5u3D2orx8_wjjiB_AHgCLcBGAsYHQ/s135/1021-Hinata-Miyake-A-Place-Further-Than-the-Universe-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1021/",
+      "fetched_at": "2026-05-16T19:10:33.139Z",
+      "raw_id": "/nendoroid/details/n1021/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.566Z",
+      "raw_id": "Nendoroid/1000-1099/1021.json"
+    }
+  ]
+}

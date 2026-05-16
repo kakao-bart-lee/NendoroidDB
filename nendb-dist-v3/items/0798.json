@@ -1,0 +1,68 @@
+{
+  "num": "0798",
+  "name": {
+    "en": "Nendoroid Cocoa",
+    "ja": "ねんどろいど ココア (ねんどろいど ここあ)",
+    "ko": "호토 코코아"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6597,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SnTibpFxYp8/X4NdM1qFLAI/AAAAAAABmBs/doSCpkOVgBkyY3Y5ojsA2P83jLTKGGAswCLcBGAsYHQ/s270/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SnTibpFxYp8/X4NdM1qFLAI/AAAAAAABmBs/doSCpkOVgBkyY3Y5ojsA2P83jLTKGGAswCLcBGAsYHQ/s270/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iwEU4cXW1E4/X4i6GqQXyyI/AAAAAAAAtrA/lPLrvvY1j9g6lVuGc6aqtXKnsSrFQFeWwCLcBGAsYHQ/s135/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IUs5x01wrcg/X4i6G-cZ2HI/AAAAAAAAtrE/QOMrfz_iNXAFwAqPz-e4xuDpeW9UWj3uACLcBGAsYHQ/s135/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fRdWM5hoqdk/X4i6HHIEy5I/AAAAAAAAtrI/VGV1faAghXQdW4gENOzGhW6DCR2jOBBiQCLcBGAsYHQ/s135/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-J66UGW3kQA4/X4i6HeAr4XI/AAAAAAAAtrM/jNUbeyMKkScoC6M4ZdAAWyZZF_C632e3QCLcBGAsYHQ/s135/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kcLZPkPlYLc/X4i6Hi1nnnI/AAAAAAAAtrQ/Ej7cBk2JE38094MD9rocCj0oYMg-oMc3ACLcBGAsYHQ/s135/798-Cocoa-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n798/",
+      "fetched_at": "2026-05-16T19:10:34.806Z",
+      "raw_id": "/nendoroid/details/n798/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.510Z",
+      "raw_id": "Nendoroid/0700-0799/798.json"
+    }
+  ]
+}

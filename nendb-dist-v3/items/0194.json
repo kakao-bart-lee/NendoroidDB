@@ -1,0 +1,67 @@
+{
+  "num": "0194",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Append (ねんどろいど はつねみく・あぺんど)",
+    "ja": "ねんどろいど 初音ミク・アペンド (ねんどろいど はつねみく・あぺんど)",
+    "ko": "하츠네 미쿠 어펜드"
+  },
+  "series": {
+    "en": "Hatsune Miku: Append",
+    "ja": "初音ミク・アペンド",
+    "ko": "하츠네미쿠",
+    "code": "hatsune-miku-append"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3270,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WOjHEnrhDps/X4NKNmYD8UI/AAAAAAABlUM/j0ynlnoTG1IgTHiMrtF4V6a9RXhoh5plQCLcBGAsYHQ/s270/194-Hatsune-Miku-Append-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WOjHEnrhDps/X4NKNmYD8UI/AAAAAAABlUM/j0ynlnoTG1IgTHiMrtF4V6a9RXhoh5plQCLcBGAsYHQ/s270/194-Hatsune-Miku-Append-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JOjerX3xukQ/X4dUkGevSxI/AAAAAAAAqOM/xJXSoa1SGKwu1UEDN69Bqx_PVHPI3oEPgCLcBGAsYHQ/s135/194-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RhYHbMVnLgU/X4dUkbrqv0I/AAAAAAAAqOQ/a3VD_ZPdAbgPVqXKf-k4yEMW3kzzj88rQCLcBGAsYHQ/s135/194-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-U7WbeJPch1o/X4dUkhQSRTI/AAAAAAAAqOU/1wGsCI33rsoXPnwIh9R7trugDrP8UBq_wCLcBGAsYHQ/s135/194-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-owkfRSWr8yA/X4dUloRdA2I/AAAAAAAAqOY/ww_dpEVwtuUq0fu8otpRRiiHq2azKdw5wCLcBGAsYHQ/s135/194-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n194/",
+      "fetched_at": "2026-05-16T19:10:33.747Z",
+      "raw_id": "/nendoroid/details/n194/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.317Z",
+      "raw_id": "Nendoroid/0100-0199/194.json"
+    }
+  ]
+}

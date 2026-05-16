@@ -1,0 +1,70 @@
+{
+  "num": "1707",
+  "name": {
+    "en": "Nendoroid Tokino Sora",
+    "ja": "ねんどろいど ときのそら (ねんどろいど ときのそら)",
+    "ko": "토키노 소라"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11724,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FEEPDC9Zatk/YWSHbTI_PVI/AAAAAAAA0-8/9BBtj3A2RWQmDNhEt9fZln326rpa9vVXwCLcBGAsYHQ/s270/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FEEPDC9Zatk/YWSHbTI_PVI/AAAAAAAA0-8/9BBtj3A2RWQmDNhEt9fZln326rpa9vVXwCLcBGAsYHQ/s270/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9_9eVKtr6hM/YWSae6GQRqI/AAAAAAAA1EE/CNV18Yf2mJgEO2FmGzYd0t1EU6f-Jt30ACLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zlEwnn0nbdo/YWSafPRZzFI/AAAAAAAA1EI/f25REAksXf8FKEs5doiwg5jtq6dOOR_ywCLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aoWTXay2fV8/YWSafUfM2EI/AAAAAAAA1EM/eZkif_H4U0QjWwkq_Z-w89vEr4gwmRjHQCLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-a3EyNmb0Tiw/YWSafoDd2AI/AAAAAAAA1EQ/gHg86so_Qd46l0IEX_lMcU--dUYvzjrtQCLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XgMu9_gjzKQ/YWSafmycQ3I/AAAAAAAA1EU/ABC3Sn0QfagZlj0pjlSHY8kkLHsIn0K0QCLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-D_hjsuKwVH8/YWSaf4c9s_I/AAAAAAAA1EY/lfxu94gcDS0yaTLXZTAIk-QRuuik5rv0wCLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-qWHv7K-OOPs/YWSagMZt0sI/AAAAAAAA1Eg/8WQy8ohkTvI0RiDNecIWKgNViftJUbSUACLcBGAsYHQ/s135/1707-Tokino-Sora-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1707/",
+      "fetched_at": "2026-05-16T19:10:33.598Z",
+      "raw_id": "/nendoroid/details/n1707/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.731Z",
+      "raw_id": "Nendoroid/1700-1799/1707.json"
+    }
+  ]
+}

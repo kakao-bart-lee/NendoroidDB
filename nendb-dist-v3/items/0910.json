@@ -1,0 +1,69 @@
+{
+  "num": "0910",
+  "name": {
+    "en": "Nendoroid Taikogane Sadamune",
+    "ja": "ねんどろいど 太鼓鐘貞宗 (ねんどろいど たいこがねさだむね)",
+    "ko": "타이코가네 사다무네"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7202,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-A77iFPkdyzA/X4NecyHB2dI/AAAAAAABmKQ/oP0J330kEXw0u6J-2Av4-r95C1aE0bP8wCLcBGAsYHQ/s270/910-Taikogana-Sadamune-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-A77iFPkdyzA/X4NecyHB2dI/AAAAAAABmKQ/oP0J330kEXw0u6J-2Av4-r95C1aE0bP8wCLcBGAsYHQ/s270/910-Taikogana-Sadamune-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PgN21wXQ9DU/X4rnfjKaUGI/AAAAAAABnrA/IL-iWRtnoJMyJv6reHsIMj_hMcbgWn_tgCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LQqtJukWgAI/X4rngI8_88I/AAAAAAABnrE/Lekph4jWcKE-LzfEedTdXGCM0mLHglKZgCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Is0CB87NrR0/X4rngXH4LfI/AAAAAAABnrI/wL086OIoJvInVNYa-b8DWwsQBbBeRFQoQCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nUuro1GTyBs/X4rngsuCXBI/AAAAAAABnrM/ZxleQbv3cR4ODuaYEYAT9vk8wT8A0CQggCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-x1rTmw7N7X4/X4rng5A1EwI/AAAAAAABnrQ/x9aV_euZEYody9KbXNQleALgOmug5_DLwCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7RGxyGMcla4/X4rnhGXHnqI/AAAAAAABnrU/qt1t21c5rWYs2UP7-06oiO_bMqs6T69VQCLcBGAsYHQ/s135/910-Taikogane-Sadamune-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n910/",
+      "fetched_at": "2026-05-16T19:10:34.868Z",
+      "raw_id": "/nendoroid/details/n910/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.536Z",
+      "raw_id": "Nendoroid/0900-0999/910.json"
+    }
+  ]
+}

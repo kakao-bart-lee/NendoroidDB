@@ -1,0 +1,69 @@
+{
+  "num": "0342a",
+  "name": {
+    "en": "Nendoroid Nozomu Itoshiki 1.5 (ねんどろいど いとしきのぞむ 1.5)",
+    "ja": "ねんどろいど 糸色望 1.5 (ねんどろいど いとしきのぞむ 1.5)",
+    "ko": "이토시키 노조무 1.5"
+  },
+  "series": {
+    "en": "(Zoku) Sayonara, Zetsubou-Sensei",
+    "ja": "【俗・】さよなら絶望先生",
+    "ko": "안녕 절망선생",
+    "code": "zoku-sayonara-zetsubou-sensei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mudXXa6-t9E/X4NMx_ZG5xI/AAAAAAABliE/sp3sRccF1eYh-nf3Cdheyd6yXzTJ8lReACLcBGAsYHQ/s270/342A-Nozomu%2BItoshiki-Sayonara%252C%2BZetsubou-Sensei-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mudXXa6-t9E/X4NMx_ZG5xI/AAAAAAABliE/sp3sRccF1eYh-nf3Cdheyd6yXzTJ8lReACLcBGAsYHQ/s270/342A-Nozomu%2BItoshiki-Sayonara%252C%2BZetsubou-Sensei-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KAyGiDiD8uA/X4daph4Df2I/AAAAAAAArAg/aMqzKXUFJk8mN-VU-GphiUmusozD9H9dACLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U5_MGG0PoiM/X4daqMhfz4I/AAAAAAAArAk/JFvjnYXktSI4R0nWhwQ9cNEqeeEJ0QKbwCLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OQy-pcdVx48/X4daqluEVGI/AAAAAAAArAo/pYdLiuIgYVQwzhryYzvSbfslmjpAcWb0gCLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dhhzyxV8L58/X4darcngsCI/AAAAAAAArAs/JYnonnV8B8kCSbfoUrUgqVbrjge534UFgCLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jJgPgqC54_E/X4darlZzEAI/AAAAAAAArAw/zvk4ECXzzGs7ixjvDmBlVefrneGvgMNtgCLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-U1kplVMl7dM/X4dasbn5A4I/AAAAAAAArA0/qqhfNlp2gFQmI0s4OX-mERl4g1YfdyifQCLcBGAsYHQ/s135/342A-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n342a/",
+      "fetched_at": "2026-05-16T19:10:34.472Z",
+      "raw_id": "/nendoroid/details/n342a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.356Z",
+      "raw_id": "Nendoroid/0300-0399/342a.json"
+    }
+  ]
+}

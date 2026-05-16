@@ -1,0 +1,69 @@
+{
+  "num": "1473",
+  "name": {
+    "en": "Nendoroid Chizuru Mizuhara",
+    "ja": "ねんどろいど 水原千鶴 (ねんどろいど みずはらちづる)",
+    "ko": "미즈하라 치즈루"
+  },
+  "series": {
+    "en": "Rent-a-Girlfriend",
+    "ja": "彼女、お借りします",
+    "ko": "여친, 빌리겠습니다",
+    "code": "rent-a-girlfriend"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10103,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PFlAJ29ccLQ/X4Nkp9RdxPI/AAAAAAABm8c/pMKo8dfyWawyEQDecSbLpUwcES2xnfawQCLcBGAsYHQ/s270/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PFlAJ29ccLQ/X4Nkp9RdxPI/AAAAAAABm8c/pMKo8dfyWawyEQDecSbLpUwcES2xnfawQCLcBGAsYHQ/s270/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-01xcd3rsMz0/X4tBW5wP4aI/AAAAAAABrD0/x6pFhg-Yka4A9Pq8mhdHcVJ_ZXM4wEU7ACLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OPyqMrNQt8c/X4tBXH0xtCI/AAAAAAABrD4/v3zHyBUFBKENFsQ1r0GKPnzs9rTPMBzeQCLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cg9KJOZkjOs/X4tBXWw2luI/AAAAAAABrD8/KTiTwmyP4ZcXs2sgdvUE3w7Ya_LPB6r-QCLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-edJe6Zhk64E/X4tBXix8xeI/AAAAAAABrEA/KJo7jZ0wes8Q-Gk--x58blqwdVnqMrsOwCLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_QiWGDaas2k/X4tBX-We0SI/AAAAAAABrEE/Vnd1bvFEmeEm6OXHm-C5XriTSatnUmi2QCLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Bjyu8-Ve0mk/X4tBYG03sAI/AAAAAAABrEI/yqg82uleKektVluQ8xXk2ndEHYN9B3ieACLcBGAsYHQ/s135/1473-Chizuru-Mizuhara-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1473/",
+      "fetched_at": "2026-05-16T19:10:33.452Z",
+      "raw_id": "/nendoroid/details/n1473/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.674Z",
+      "raw_id": "Nendoroid/1400-1499/1473.json"
+    }
+  ]
+}

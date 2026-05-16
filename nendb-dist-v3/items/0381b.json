@@ -1,0 +1,66 @@
+{
+  "num": "0381b",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Sailor Uniform Ver. Special Color (ねんどろいど はつねみく せーらーふくVer. すぺしゃるからー)",
+    "ja": "ねんどろいど 初音ミク セーラー服Ver. Special color (ねんどろいど はつねみく せーらーふくVer. すぺしゃるからー)",
+    "ko": "하츠네 미쿠 세라복 스페셜 컬러Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4195,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-th87K2tp0eM/X4NNCOtLcHI/AAAAAAABlko/n1uYRW3O1Jk8URdiCEbF7Ik_nmBUsTH0wCLcBGAsYHQ/s270/381B-Hatsune-Miku-Sailor-Suit-Special-Color-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-th87K2tp0eM/X4NNCOtLcHI/AAAAAAABlko/n1uYRW3O1Jk8URdiCEbF7Ik_nmBUsTH0wCLcBGAsYHQ/s270/381B-Hatsune-Miku-Sailor-Suit-Special-Color-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5hfRxfNd4x8/X4dbc1qsmTI/AAAAAAAArOM/oMJMTz1K7J46w7Dv61DiGzOW6bHegEtkwCLcBGAsYHQ/s135/381B-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rR3DjDu0ze0/X4dbdNTc5MI/AAAAAAAArOQ/SQB9pxOWMK4-Atl58OYAZ7JMSeabdItIgCLcBGAsYHQ/s135/381B-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8ZftTQeBZ5g/X4dbdhIIyXI/AAAAAAAArOU/Xj1YXse5a5EIy7tu6-j7llNfoT3JLNVJACLcBGAsYHQ/s135/381B-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n381b/",
+      "fetched_at": "2026-05-16T19:10:34.496Z",
+      "raw_id": "/nendoroid/details/n381b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.366Z",
+      "raw_id": "Nendoroid/0300-0399/381b.json"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "num": "2337",
+  "name": {
+    "en": "Leon S. Kennedy",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Resident Evil",
+    "ja": null,
+    "ko": null,
+    "code": "resident-evil"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JJWeLPFpuro/ZZcfDFuJNgI/AAAAAAABDI0/tBHuUiBN894aOz3VNdWEVIhfY9RV7fBlACNcBGAsYHQ/s270/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JJWeLPFpuro/ZZcfDFuJNgI/AAAAAAABDI0/tBHuUiBN894aOz3VNdWEVIhfY9RV7fBlACNcBGAsYHQ/s270/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8s3Wy2RiQOA/ZZSMPBvjABI/AAAAAAABC8I/gcGigY3UmbQEkqZTx9_T61zGV6vD8PjJwCNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oxvyqllj1Bo/ZZSMPkhZ74I/AAAAAAABC8M/eTAkLfe3gvIoeSEwDySjSkMTJJdbOPbuQCNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Mu6DwWBNXo0/ZZSMQGmnmAI/AAAAAAABC8Q/paH_RaUaYaglXyzmnkpFib2CR-AaOL9lACNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oaDre95sj3A/ZZSMQpwVs9I/AAAAAAABC8U/-EAcZbvVyrQSAt5Zcx29V_IfeYmFyVeDwCNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IevhFTzFhjk/ZZSMRM1tz-I/AAAAAAABC8Y/3tKt-yJCXXAaywhNO7rJUvyf-ouC-ewJACNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QJus5vDX-LU/ZZSMRkGcFhI/AAAAAAABC8c/9nshKiHHccYUpw6gD9p0qUg9G7hnJuumACNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Fg5x0kePlmA/ZZSMSL0-uSI/AAAAAAABC8g/PwxijIEeDLcDI1TlacGQN-wjLXNaIt3EgCNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-9aPKS6LjcC0/ZZSMOaAtndI/AAAAAAABC8E/hDErztNBrekMFZ3bCdy8cocQRkm5uNymgCNcBGAsYHQ/s135/2337-Leon-S.-Kennedy-Resident-Evil-4-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2337/",
+      "fetched_at": "2026-05-16T19:10:33.995Z",
+      "raw_id": "/nendoroid/details/n2337/"
+    }
+  ]
+}

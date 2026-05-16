@@ -1,0 +1,69 @@
+{
+  "num": "2099",
+  "name": {
+    "en": "Nendoroid Akito Izuki",
+    "ja": "ねんどろいど 伊月暁人 (ねんどろいど いづきあきと)",
+    "ko": "이즈키 아키토"
+  },
+  "series": {
+    "en": "Ghostwire: Tokyo",
+    "ja": "Ghostwire: Tokyo",
+    "ko": "고스트와이어: 도쿄",
+    "code": "ghostwire-tokyo"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14146,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LYjd2IN6MZo/ZCnVcGh39eI/AAAAAAAA9UY/B-BOYNll55QSYJHNrXuaW2KX1WZSGxNwgCNcBGAsYHQ/s270/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LYjd2IN6MZo/ZCnVcGh39eI/AAAAAAAA9UY/B-BOYNll55QSYJHNrXuaW2KX1WZSGxNwgCNcBGAsYHQ/s270/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YS_c4pa-0Lg/ZCnZ7iYf1SI/AAAAAAAA9Y4/Y3ZJHff5UXITnomXbFi9I-GaG_Al5AVkQCNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1so1_WS_2W8/ZCnZ8LKogcI/AAAAAAAA9Y8/-EMcuMe0sQciwQ0rgmkHzhNdFjV49_tigCNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2S4czIHSyaA/ZCnZ8sRGr8I/AAAAAAAA9ZA/HRXyEEHb4LI4NQeMtJQMD607QiD3AxLPQCNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-29CnDpNAHWE/ZCnZ843CPJI/AAAAAAAA9ZE/uPNRTX7WAhALD0MWe7FD6R9fMwzaF4oVwCNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S63dKKsKB00/ZCnZ89ssAcI/AAAAAAAA9ZI/shz6aLUFwu8K7rHfFzFEs8j9Vb-2mdqxACNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gaS04VYLuqg/ZCnZ9MFRZwI/AAAAAAAA9ZM/6xKWxgnHSNkmg2VwtYb-bRlhvY-8wc1ogCNcBGAsYHQ/s135/2099-Akito-Izuki-Ghostwire-Tokyo-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2099/",
+      "fetched_at": "2026-05-16T19:10:33.839Z",
+      "raw_id": "/nendoroid/details/n2099/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.826Z",
+      "raw_id": "Nendoroid/2000-2099/2099.json"
+    }
+  ]
+}

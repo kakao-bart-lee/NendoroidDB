@@ -1,0 +1,69 @@
+{
+  "num": "1664",
+  "name": {
+    "en": "Nendoroid Tsukasa Yuzaki",
+    "ja": "ねんどろいど 由崎司 (ねんどろいど ゆざきつかさ)",
+    "ko": "유자키 츠카사"
+  },
+  "series": {
+    "en": "TONIKAWA: Over the Moon for You",
+    "ja": "トニカクカワイイ",
+    "ko": "어쨋든 귀여워",
+    "code": "tonikawa-over-the-moon-for-you"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UFCNLlikE8Y/YONqRIkircI/AAAAAAAAzEU/EBI4ea4BwNU0ppPwn13NvdWhmsDEvVP5QCLcBGAsYHQ/s270/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UFCNLlikE8Y/YONqRIkircI/AAAAAAAAzEU/EBI4ea4BwNU0ppPwn13NvdWhmsDEvVP5QCLcBGAsYHQ/s270/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VdmT96JPpsA/YONsNaMuUcI/AAAAAAAAzJQ/fmvUyZHE4X0iBCruTaxAAbmHFHLMmdRCQCLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QQCTsx_MsJc/YONsNjza0vI/AAAAAAAAzJM/Q0oe30AbLLU8e11rmXmZ2pcd7BSHkazUgCLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HdvmelcyMNU/YONsNu4S1TI/AAAAAAAAzJU/kVZITpLrsYUo75XUEl1TrBrRb8JyMW5jACLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MbPLGzwv8xE/YONsOPSNWcI/AAAAAAAAzJY/y7PQvghjeEwhJSimNbyTWe5lyKoRVByYACLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HPvYq68HsPw/YONsOdPhG7I/AAAAAAAAzJc/g2N11mUQDyQA3b_9mz9GvYHTvWweYaOhQCLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VtKixTVz2OY/YONsOm4PaII/AAAAAAAAzJg/Y9WnPJ3LJcQq-8RGyN5CCV70IO3dgRnGACLcBGAsYHQ/s135/1664-Tsukasa-Yuzaki-TONIKAWA-Over-the-Moon-for-You-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1664/",
+      "fetched_at": "2026-05-16T19:10:33.568Z",
+      "raw_id": "/nendoroid/details/n1664/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.721Z",
+      "raw_id": "Nendoroid/1600-1699/1664.json"
+    }
+  ]
+}

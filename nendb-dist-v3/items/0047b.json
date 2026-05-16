@@ -1,0 +1,63 @@
+{
+  "num": "0047b",
+  "name": {
+    "en": "Shana",
+    "ja": "ねんどろいど シャナ 電撃大王Ver. (ねんどろいど しゃな でんげきだいおうVer.)",
+    "ko": "샤나 전격대왕 Ver."
+  },
+  "series": {
+    "en": "Shakugan No Shana II",
+    "ja": "灼眼のシャナⅡ",
+    "ko": "작안의 샤나",
+    "code": "shakugan-no-shana-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wzX2IcwFCzc/X4MR9DxYgPI/AAAAAAAApZY/HBB3lLT953gNlU5kvAUYL1sCohxKht7owCLcBGAsYHQ/s270/047B-Shana-Dengeki-Daioh-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wzX2IcwFCzc/X4MR9DxYgPI/AAAAAAAApZY/HBB3lLT953gNlU5kvAUYL1sCohxKht7owCLcBGAsYHQ/s270/047B-Shana-Dengeki-Daioh-Shakugan-no-Shana-II-Anime-and-Manga-Nendoroid-1.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n047b/",
+      "fetched_at": "2026-05-16T19:10:33.094Z",
+      "raw_id": "/nendoroid/details/n047b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.274Z",
+      "raw_id": "Nendoroid/0000-0099/047b.json"
+    }
+  ]
+}

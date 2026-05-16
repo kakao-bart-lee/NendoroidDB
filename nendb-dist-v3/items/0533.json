@@ -1,0 +1,68 @@
+{
+  "num": "0533",
+  "name": {
+    "en": "Nendoroid Mio Honda (ねんどろいど ほんだみお)",
+    "ja": "ねんどろいど 本田未央 (ねんどろいど ほんだみお)",
+    "ko": "혼다 미오"
+  },
+  "series": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "code": "the-idolm-ster-cinderella-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5071,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_sILidi9iBo/X4NOcwuvyNI/AAAAAAABlvc/h4zHFweQlJc6PabxsjALNgnsgkeWrxFUwCLcBGAsYHQ/s270/533-Mio-Honda-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_sILidi9iBo/X4NOcwuvyNI/AAAAAAABlvc/h4zHFweQlJc6PabxsjALNgnsgkeWrxFUwCLcBGAsYHQ/s270/533-Mio-Honda-The-Idolmaster-Cinderalla-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-onW9FfQl7pY/X4isWdDM56I/AAAAAAAAsF4/jzUQnt_YVhUpmcXnWqg_6RnnhYpo_L8aACLcBGAsYHQ/s135/533-Mio-Honda-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9cjQQRJSQ24/X4isWlP8YbI/AAAAAAAAsF8/xhTUIaCzoXYLYOLW4IOJ_iL0xaP915GKwCLcBGAsYHQ/s135/533-Mio-Honda-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-E9KbCzn9E_4/X4isW6jVrBI/AAAAAAAAsGA/qh8vfjBH77MRRjB38b4AJSlePTrmLeyXgCLcBGAsYHQ/s135/533-Mio-Honda-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pX9NCs8Ffo0/X4isW2mkmBI/AAAAAAAAsGE/xBOSvRbtkA4dSCLYBXdCtPindLy4do16QCLcBGAsYHQ/s135/533-Mio-Honda-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sQX6ClJOTJ0/X4isXL9bL-I/AAAAAAAAsGI/W7DibaL6-Ls5atObn9CxzzhPqGzn7YLxwCLcBGAsYHQ/s135/533-Mio-Honda-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n533/",
+      "fetched_at": "2026-05-16T19:10:34.583Z",
+      "raw_id": "/nendoroid/details/n533/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.432Z",
+      "raw_id": "Nendoroid/0500-0599/533.json"
+    }
+  ]
+}

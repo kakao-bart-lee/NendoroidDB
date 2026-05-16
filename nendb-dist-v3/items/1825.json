@@ -1,0 +1,70 @@
+{
+  "num": "1825",
+  "name": {
+    "en": "Nendoroid Harry \"Galahad\" Hart",
+    "ja": "ねんどろいど ハリー・“ガラハッド”・ハート (ねんどろいど はりー・“がらはっど”・はーと)",
+    "ko": "해리 갤러해드 하트"
+  },
+  "series": {
+    "en": "Kingsman: The Golden Circle",
+    "ja": "キングスマン：ゴールデン・サークル",
+    "ko": "킹스맨:골든 서클",
+    "code": "kingsman-the-golden-circle"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12368,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l6EnWb0A4AI/YliNI-5qQ-I/AAAAAAAA5No/lnldIOegnYopsXeUDk7icGilCRcnTCNiQCNcBGAsYHQ/s270/1825-Harry-Galahad-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l6EnWb0A4AI/YliNI-5qQ-I/AAAAAAAA5No/lnldIOegnYopsXeUDk7icGilCRcnTCNiQCNcBGAsYHQ/s270/1825-Harry-Galahad-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZjQlbXW-ARU/YliU_9gXrzI/AAAAAAAA5PM/L6n8xu2X_vcpCqIZGr8ws-vXMIRMybIHACNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_C5sNhg3nvE/YliVAKT8mNI/AAAAAAAA5PQ/3f3O5-jXvcsT69PdD5vPatudnLipEXI7wCNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-86GYvxt56Mg/YliVAeLF1kI/AAAAAAAA5PU/w4YuhENOnHkiwmEO061KELqE-F397U4_ACNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SeuzvajmyVE/YliVAnGhR9I/AAAAAAAA5PY/or0JrBdITD4MmyrDGNvdTHgncymi8CksACNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VJM8cfVUGwE/YliVBCkbSdI/AAAAAAAA5Pc/cMceAcJgGb8swECg5N0FdxgW5RNUgdY5gCNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PzmSDqO8638/YliVBknQywI/AAAAAAAA5Pg/vhoVswhS03ozG3BwrgnmZssARdEd9MY6QCNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-JxrJ2gAI3S8/YliVCMqU8aI/AAAAAAAA5Pk/wL10zvB2g-wVXTige-ZJKlNFF-ukiR0uQCNcBGAsYHQ/s135/1825-Harry-_Galahad_-Hart-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1825/",
+      "fetched_at": "2026-05-16T19:10:33.670Z",
+      "raw_id": "/nendoroid/details/n1825/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.760Z",
+      "raw_id": "Nendoroid/1800-1899/1825.json"
+    }
+  ]
+}

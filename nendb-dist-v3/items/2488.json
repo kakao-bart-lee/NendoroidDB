@@ -1,0 +1,65 @@
+{
+  "num": "2488",
+  "name": {
+    "en": "MEMcho",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Oshi No Ko",
+    "ja": null,
+    "ko": null,
+    "code": "oshi-no-ko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BBE-rOe8i1s/ZljX8_p7_qI/AAAAAAABEgo/QOFkskwrrKIfDsq-y8Z4iKT1EIsZmEPQACNcBGAsYHQ/s270/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BBE-rOe8i1s/ZljX8_p7_qI/AAAAAAABEgo/QOFkskwrrKIfDsq-y8Z4iKT1EIsZmEPQACNcBGAsYHQ/s270/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-geN0uOf3jfA/Zow6GBRjABI/AAAAAAABF8Q/Wqt240fWUn8YdQpLdYxng4WykUpWluY_QCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DGodQvGsgPw/Zow6Gl-UT5I/AAAAAAABF8U/UM6vV4Q_1icOS5EhAfthnWF311diQxioQCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IVCg9V8u5f0/Zow6HKF_7MI/AAAAAAABF8Y/Y5YRR4vnunM3XXq_Jss3n8X7fdS2nb6RwCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BV0IbJFW9ME/Zow6HnJ0GEI/AAAAAAABF8c/K9sc6CQGpfw6oxyoiG6G5b7lIU4Rx2trACNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vVowOjO0ePg/Zow6IMQEhZI/AAAAAAABF8g/3KwFnn6O_8w3rXCzcBndraEDAzC8uHOgwCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xvSGG4U-QgI/Zow6IokSbMI/AAAAAAABF8k/Z4NBGsv5ylYbxKsznLizKaZtKxYhlhZogCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-sxzirmrCux8/Zow6JCNn48I/AAAAAAABF8o/AnxVbrky6N0SREh5_WN3q2lt3WalvTikwCNcBGAsYHQ/s135/2488-MEMcho-Oshi-no-Ko-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2488/",
+      "fetched_at": "2026-05-16T19:10:34.091Z",
+      "raw_id": "/nendoroid/details/n2488/"
+    }
+  ]
+}

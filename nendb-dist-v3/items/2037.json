@@ -1,0 +1,69 @@
+{
+  "num": "2037",
+  "name": {
+    "en": "Nendoroid Mejiro McQueen",
+    "ja": "ねんどろいど メジロマックイーン (ねんどろいど めじろまっくいーん)",
+    "ko": "메지로 맥퀸"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13647,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zF0eXb7aLso/Y9mJ8CcHn-I/AAAAAAAA8eg/oTkwtpuQMQMZvuRxzwpy6JQ2BmL0LfHMQCNcBGAsYHQ/s270/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zF0eXb7aLso/Y9mJ8CcHn-I/AAAAAAAA8eg/oTkwtpuQMQMZvuRxzwpy6JQ2BmL0LfHMQCNcBGAsYHQ/s270/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c5fgRY5ElQM/Y9mO6GNeftI/AAAAAAAA8j4/HGMrwMkj850wUfb-9cEhWepZCVanvorwwCNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VA75AyELgy8/Y9mO6s-LAwI/AAAAAAAA8j8/XTzMDQiggAYjMKnBAz9-QcADls0-EunCwCNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PCLMNvu2-WU/Y9mO7PcRz0I/AAAAAAAA8kA/O_pFXMGX20gsreQ4bE4181erj8RyLfxAACNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Omde1TeuGOU/Y9mO7oMZxQI/AAAAAAAA8kE/koKv0mBfy6EcJYEqPgU81KZkk_k3fs8fACNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qZSqnbWfrIA/Y9mO8LzjP4I/AAAAAAAA8kI/3Aqen4vbTcohtnmu7PWIlyknHJzdeEagACNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VBxKzOjnQ8o/Y9mO8k4e1OI/AAAAAAAA8kM/E8ndQ3rQApAopeQXlTQjbbGF4UGDys32wCNcBGAsYHQ/s135/2037-Mejiro-McQueen-Umamusume-Pretty-Derby-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2037/",
+      "fetched_at": "2026-05-16T19:10:33.802Z",
+      "raw_id": "/nendoroid/details/n2037/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.811Z",
+      "raw_id": "Nendoroid/2000-2099/2037.json"
+    }
+  ]
+}

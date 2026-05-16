@@ -1,0 +1,63 @@
+{
+  "num": "2269",
+  "name": {
+    "en": "Kikuri Hiroi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Bocchi The Rock!",
+    "ja": null,
+    "ko": null,
+    "code": "bocchi-the-rock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WJlwiPcCH-Q/ZZce_VMeeQI/AAAAAAABDIQ/JHAjwnQCABQ5qzB4vFGx9YS2QZohO2u1gCNcBGAsYHQ/s270/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WJlwiPcCH-Q/ZZce_VMeeQI/AAAAAAABDIQ/JHAjwnQCABQ5qzB4vFGx9YS2QZohO2u1gCNcBGAsYHQ/s270/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PjkrV0I0N10/ZZSL4MjU4iI/AAAAAAABC4Y/fx0WYREr50s5YJLI1qnH4uuWNE8wRe7AwCNcBGAsYHQ/s135/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s35pHmSvIuE/ZZSL4AwYdyI/AAAAAAABC4U/yQWVEK8muCgSTyCrcwk-WaJuKBzHnL-YwCNcBGAsYHQ/s135/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7AOTtshF8x0/ZZSL31lhWpI/AAAAAAABC4Q/LpsuOokIx3AZxjA6KZIJnvqiafi3T1glgCNcBGAsYHQ/s135/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Aowbl_75rFQ/ZZSL4mzog4I/AAAAAAABC4c/DSOEMEyZgykuRR7ltSEJdCGPRVEX9oX6QCNcBGAsYHQ/s135/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MSdRJFZwEO4/ZZSL5PgfjwI/AAAAAAABC4g/uDhe67At42sC8z7eufS5F6W9pqKX-NdigCNcBGAsYHQ/s135/2269-Kikuri-Hiroi-Bocchi-the-Rock-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2269/",
+      "fetched_at": "2026-05-16T19:10:33.955Z",
+      "raw_id": "/nendoroid/details/n2269/"
+    }
+  ]
+}

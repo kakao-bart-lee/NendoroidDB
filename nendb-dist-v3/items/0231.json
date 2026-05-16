@@ -1,0 +1,67 @@
+{
+  "num": "0231",
+  "name": {
+    "en": "Nendoroid Nee-san: Blu-ray Set/DVD Set (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)",
+    "ja": "ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)",
+    "ko": "언니"
+  },
+  "series": {
+    "en": "+TIC ELDER SISTER",
+    "ja": "+チック姉さん（ぷらすちっくねえさん）",
+    "ko": " +틱 언니 ",
+    "code": "tic-elder-sister"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3467,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ndM38Xiubg4/X4NLMqjcYtI/AAAAAAABlXM/oKjnHFVOq2kJx2bBA4iX9zGxbBc_eWR6ACLcBGAsYHQ/s270/231-Nee-San-Blu-Ray-Set-Tic-Elder-Sister-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ndM38Xiubg4/X4NLMqjcYtI/AAAAAAABlXM/oKjnHFVOq2kJx2bBA4iX9zGxbBc_eWR6ACLcBGAsYHQ/s270/231-Nee-San-Blu-Ray-Set-Tic-Elder-Sister-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dv1GWFJSzVM/X4dXWbhIi6I/AAAAAAAAqbg/6VQvJi8gJKwGX4zgtfLU1lBNTv_jBPwLACLcBGAsYHQ/s135/231-Nee-san-TIC-ELDER-SISTER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wRtrXmQ1DS4/X4dXWXglpWI/AAAAAAAAqbk/6XZh_HeBBSULAjnYSbxGt7IYks2JxIfJwCLcBGAsYHQ/s135/231-Nee-san-TIC-ELDER-SISTER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tS9RKJwrxGU/X4dXW1fpAdI/AAAAAAAAqbo/GLFcsSd8lk0VRQ6qqdaXAAjxB4Nz5uZfACLcBGAsYHQ/s135/231-Nee-san-TIC-ELDER-SISTER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--ys2m57JvGg/X4dXXEYGd5I/AAAAAAAAqbs/X18Isbk5INUdh65hMi7bGYNmTOuchvMJwCLcBGAsYHQ/s135/231-Nee-san-TIC-ELDER-SISTER-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n231/",
+      "fetched_at": "2026-05-16T19:10:33.984Z",
+      "raw_id": "/nendoroid/details/n231/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.327Z",
+      "raw_id": "Nendoroid/0200-0299/231.json"
+    }
+  ]
+}

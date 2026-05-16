@@ -1,0 +1,68 @@
+{
+  "num": "0538",
+  "name": {
+    "en": "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ja": "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ko": "라이덴 MGS2 Ver."
+  },
+  "series": {
+    "en": "METAL GEAR SOLID 2: SONS OF LIBERTY",
+    "ja": "METAL GEAR SOLID2: SONS OF LIBERTY",
+    "ko": "메탈기어 솔리드",
+    "code": "metal-gear-solid-2-sons-of-liberty"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5114,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jUGiJ7rjlk8/X4NOep-Qg9I/AAAAAAABlv0/xO_FedAjHegPoa7zCHM7kWhfCX1O3bsDQCLcBGAsYHQ/s270/538-Raiden-MGS2-Ver-Metal-Gear-Solid-2-Sons-of-Liberty-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jUGiJ7rjlk8/X4NOep-Qg9I/AAAAAAABlv0/xO_FedAjHegPoa7zCHM7kWhfCX1O3bsDQCLcBGAsYHQ/s270/538-Raiden-MGS2-Ver-Metal-Gear-Solid-2-Sons-of-Liberty-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nbYhIPhzhvQ/X4isfz5444I/AAAAAAAAsHs/I7EWd4J9890ZvLT-3-Jh9w-UuPDPkPdSwCLcBGAsYHQ/s135/538-Raiden-Metal-Gear-Solid-Sons-of-Liberty-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-I4RjT6Ja3pU/X4isgdZus2I/AAAAAAAAsHw/0y5CaetKOecbSU35WvnFUpBlhBcDmcJxgCLcBGAsYHQ/s135/538-Raiden-Metal-Gear-Solid-Sons-of-Liberty-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-y8eioE2KYuo/X4isgVMgNTI/AAAAAAAAsH0/OAI1h3UMN30tWCXY4DAHFTBcs1nSY0jjACLcBGAsYHQ/s135/538-Raiden-Metal-Gear-Solid-Sons-of-Liberty-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3Wnqa7HBosk/X4isgeiXQ5I/AAAAAAAAsH4/U-p42MHEOL45ZRatymfzMCfd05Eom2wnwCLcBGAsYHQ/s135/538-Raiden-Metal-Gear-Solid-Sons-of-Liberty-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CwCjYc3EKXY/X4ishGgdIyI/AAAAAAAAsH8/8B7inPL05BMGhdLHcuzl3bJhTM4fQz-fgCLcBGAsYHQ/s135/538-Raiden-Metal-Gear-Solid-Sons-of-Liberty-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n538/",
+      "fetched_at": "2026-05-16T19:10:34.586Z",
+      "raw_id": "/nendoroid/details/n538/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.435Z",
+      "raw_id": "Nendoroid/0500-0599/538.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1830",
+  "name": {
+    "en": "Nendoroid Tengen Uzui",
+    "ja": "ねんどろいど 宇髄天元 (ねんどろいど うずいてんげん)",
+    "ko": "우즈이 텐겐"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12366,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2IfRfwYiUcs/YliMhLTLlcI/AAAAAAAA5LQ/yIJiS5GYgzYl-Xy2qMFJxmGN3KQLOKGuACNcBGAsYHQ/s270/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2IfRfwYiUcs/YliMhLTLlcI/AAAAAAAA5LQ/yIJiS5GYgzYl-Xy2qMFJxmGN3KQLOKGuACNcBGAsYHQ/s270/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lqcU1nSJiyw/YliVKXM-e6I/AAAAAAAA5Qs/WmXLMz3E_Qw_xDzV92rciTuf0wqSAaxRwCNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Kdg68D7nBvY/YliVKsjYAbI/AAAAAAAA5Qw/XMLbaqejtxoUj1hrI_FntIF4BZK95_r8ACNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lzHj38BXxWE/YliVKx-RM9I/AAAAAAAA5Q0/3hq42cuFUmwt8TEuNQySq_m-R6MGNuqTgCNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WC2FPdeXMgM/YliVLDYzJKI/AAAAAAAA5Q4/Pr9fkGGSWc061YvtnaIHUWg0YnTmmo2nQCNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-feLgJ9wnMF8/YliVLamYk7I/AAAAAAAA5Q8/gxA6c6vJ_EI5zPRXl6lS-ZIX7iKVZ_OIwCNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lIYj5hHVmQA/YliVLiBawhI/AAAAAAAA5RA/HwfI59eT8zQ3AbgjZ1_4vG36bmVLr3LAgCNcBGAsYHQ/s135/1830-Tengen-Uzui-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1830/",
+      "fetched_at": "2026-05-16T19:10:33.674Z",
+      "raw_id": "/nendoroid/details/n1830/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.762Z",
+      "raw_id": "Nendoroid/1800-1899/1830.json"
+    }
+  ]
+}

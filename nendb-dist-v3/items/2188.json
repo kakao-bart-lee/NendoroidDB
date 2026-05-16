@@ -1,0 +1,69 @@
+{
+  "num": "2188",
+  "name": {
+    "en": "Nendoroid King",
+    "ja": "ねんどろいど King (ねんどろいど きんぐ)",
+    "ko": "King"
+  },
+  "series": {
+    "en": "Tears of Themis",
+    "ja": "未定事件簿",
+    "ko": "미해결사건부",
+    "code": "tears-of-themis"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14519,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sBnTPa8sEe8/ZKXXQpiZyzI/AAAAAAAA-ko/9bT1x7XKXy069ok3cswUgbFJRxwOwKZbgCNcBGAsYHQ/s270/2188-King-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sBnTPa8sEe8/ZKXXQpiZyzI/AAAAAAAA-ko/9bT1x7XKXy069ok3cswUgbFJRxwOwKZbgCNcBGAsYHQ/s270/2188-King-Tears-of-Themis-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ooiQIedmjm0/ZKXmaT8yAfI/AAAAAAAA_B0/6Fpx9_Qct0MXVAEp9lCyrWhgiLkIHo03gCNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kSOOS8F8dLs/ZKXma7R79BI/AAAAAAAA_B4/b4aX13ScDhs2QZ59AnsOyG-3JBDxfqR8gCNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-k5W80x2oDDc/ZKXmbah8klI/AAAAAAAA_B8/TfJDYJpWuZQD-Si4Juhexs9Eu1ISFvkJwCNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KfWJBYIihTg/ZKXmbxEkeKI/AAAAAAAA_CA/o1eu0441DMoqjYSiusU4hF9Ivfvd71QGgCNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2GkDfKBd0jc/ZKXmcbDFdkI/AAAAAAAA_CE/m_c6rFJnI1IAd6VZIguIYEs_0ff0snuNwCNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-eS3adI8TEnI/ZKXmcym9vKI/AAAAAAAA_CI/QaAUK1VjU9UWiKCfHpa4jqbdc_ay1WYGACNcBGAsYHQ/s135/2188-King-Tears-of-Themis-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2188/",
+      "fetched_at": "2026-05-16T19:10:33.891Z",
+      "raw_id": "/nendoroid/details/n2188/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.850Z",
+      "raw_id": "Nendoroid/2100-2199/2188.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2013",
+  "name": {
+    "en": "Nendoroid Lize Helesta",
+    "ja": "ねんどろいど リゼ・ヘルエスタ (ねんどろいど りぜ・へるえすた)",
+    "ko": "리제 헬레스타"
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": "にじさんじ",
+    "ko": "니지산지",
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13621,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3QHUBJo4Fb8/Y69BMPTLSRI/AAAAAAAA8PU/7CZW9XS0vfY71tMvHjms2DflpTiGSdt1gCNcBGAsYHQ/s270/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3QHUBJo4Fb8/Y69BMPTLSRI/AAAAAAAA8PU/7CZW9XS0vfY71tMvHjms2DflpTiGSdt1gCNcBGAsYHQ/s270/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Klsfqg7lG1E/Y684esNQcHI/AAAAAAAA8Hs/AFJcrQFgUrcf4DUMzkyuTZx1Ck-LtKgFgCNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AnJFoYr6JWU/Y684ejJUe9I/AAAAAAAA8Hw/5H1UCWd7Ea8s1j2tTOTsdyd-iitX7njRQCNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-66eDLkit_lo/Y684e3GmJAI/AAAAAAAA8H0/BOqbhfYGsc8TrMo6rUUvlhp3r10C5oGcACNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3cqAzCNq5x4/Y684fJruoFI/AAAAAAAA8H4/uX7syiZMfcwaFSz2P0RO3mbnfzVtSbV4wCNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-A5n3lEBzMXg/Y684fddJo8I/AAAAAAAA8H8/JRXE4GvDx5MyD6JDcVRXVplfmQv5PFs4wCNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3b-JnmjZ78M/Y684fsBzNKI/AAAAAAAA8IA/sEYCz6UHJSwrTKVTJJzUTyWFbJlptzQVACNcBGAsYHQ/s135/2013-Lize-Helesta-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2013/",
+      "fetched_at": "2026-05-16T19:10:33.785Z",
+      "raw_id": "/nendoroid/details/n2013/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.805Z",
+      "raw_id": "Nendoroid/2000-2099/2013.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1815",
+  "name": {
+    "en": "Nendoroid Jolyne Cujoh",
+    "ja": "ねんどろいど 空条徐倫 (ねんどろいど くうじょうジョリーン)",
+    "ko": "쿠죠 죠린"
+  },
+  "series": {
+    "en": "JoJo’s Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12240,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0c_5BU0_9YE/YhAE4FQfbBI/AAAAAAAA3lo/IeTz0rvBYbUIxZxzzk_TrJjyeN44n8VrQCNcBGAsYHQ/s270/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0c_5BU0_9YE/YhAE4FQfbBI/AAAAAAAA3lo/IeTz0rvBYbUIxZxzzk_TrJjyeN44n8VrQCNcBGAsYHQ/s270/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YB5tqte2PxE/YhAMSFmYZbI/AAAAAAAA3v8/V_z0Siytp-IPkL_CJpKJS0R4aaT06imUQCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_MW-odQiwpY/YhAMS8deKeI/AAAAAAAA3wA/tuq90tc1o8IGH1ZDTjsB0a1jMqboUXg0wCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BqGlQI4Ki-8/YhAMTGVgZ2I/AAAAAAAA3wE/A4YZ-qoWHgsHWMku4ZvLS_8YXUxDA_6qQCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1vGvn3NDXOw/YhAMTSPzTiI/AAAAAAAA3wI/xu_IOHuA1Y0Oq__isP2ATZq7Rxa51eEDwCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-daqBhpS2zvQ/YhAMTuUZKWI/AAAAAAAA3wM/FpOoQ2YtGfwpx2N4TtsDKJ1ukXliF_djwCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-n5q3HY-wYMM/YhAMT7Wk77I/AAAAAAAA3wQ/FEjWpK_kSpY-b9kB3s37hySwLde8EqDSQCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rRG5EQSTTE8/YhAMUO4BlFI/AAAAAAAA3wU/mxWL0k6sPRwd9oKC8f_xYgTRochAUhYJgCNcBGAsYHQ/s135/1815-Jolyne-Cujoh-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1815/",
+      "fetched_at": "2026-05-16T19:10:33.665Z",
+      "raw_id": "/nendoroid/details/n1815/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.758Z",
+      "raw_id": "Nendoroid/1800-1899/1815.json"
+    }
+  ]
+}

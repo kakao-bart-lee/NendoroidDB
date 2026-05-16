@@ -1,0 +1,67 @@
+{
+  "num": "0398",
+  "name": {
+    "en": "Nendoroid Seira Hoshikawa (ねんどろいど ほしかわせいら)",
+    "ja": "ねんどろいど 星河せいら (ねんどろいど ほしかわせいら)",
+    "ko": "호시카와 세이라"
+  },
+  "series": {
+    "en": "Day Break Illusion",
+    "ja": "幻影ヲ駆ケル太陽",
+    "ko": "환영을 달리는 태양",
+    "code": "day-break-illusion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4216,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aAd6BTmxhtY/X4NNIWUQyxI/AAAAAAABlls/JKOn4xMp6pUELGbw2z7Rnns0SgXCf1TsgCLcBGAsYHQ/s270/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aAd6BTmxhtY/X4NNIWUQyxI/AAAAAAABlls/JKOn4xMp6pUELGbw2z7Rnns0SgXCf1TsgCLcBGAsYHQ/s270/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1h5q7PwQZ7U/X4dbzfI4EAI/AAAAAAAArTU/U9sTPIKe6po_5kLowm-epDndHhfdGEUfQCLcBGAsYHQ/s135/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xHvJAqr8kN0/X4dbzqFGKuI/AAAAAAAArTY/HdMmLMCfUgkqtC35jW1E8Va7GwwpeeHWACLcBGAsYHQ/s135/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-u2Jx4QxvLXc/X4dbzjunS2I/AAAAAAAArTc/F0SYiOCpGAQQ0h_4kBZe3Br-QeFYjRBHACLcBGAsYHQ/s135/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EXv61jDRtLk/X4dbz3F8ldI/AAAAAAAArTg/beDL-OhHODgA9K4BoOm-D07Z8C7URoCIQCLcBGAsYHQ/s135/398-Seira-Hoshikawa-Day-Break-Illusion-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n398/",
+      "fetched_at": "2026-05-16T19:10:34.506Z",
+      "raw_id": "/nendoroid/details/n398/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.370Z",
+      "raw_id": "Nendoroid/0300-0399/398.json"
+    }
+  ]
+}

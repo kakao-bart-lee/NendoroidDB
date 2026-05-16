@@ -1,0 +1,68 @@
+{
+  "num": "0258",
+  "name": {
+    "en": "Nendoroid Saber : Zero Ver. (ねんどろいど せいばー Zero Ver.)",
+    "ja": "ねんどろいど セイバー Zero Ver. (ねんどろいど せいばー Zero Ver.)",
+    "ko": "세이버 Zero Ver."
+  },
+  "series": {
+    "en": "Fate/Zero",
+    "ja": "Fate/Zero",
+    "ko": "페이트 시리즈",
+    "code": "fate-zero"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3592,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Gp32bRKiONs/X4NLTexq29I/AAAAAAABlY4/fnqRfbQk5gU6RewDnnhlk0Y9NNdftdk8gCLcBGAsYHQ/s270/258-Saber-Zero-Ver-Fate-Zero-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Gp32bRKiONs/X4NLTexq29I/AAAAAAABlY4/fnqRfbQk5gU6RewDnnhlk0Y9NNdftdk8gCLcBGAsYHQ/s270/258-Saber-Zero-Ver-Fate-Zero-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DAnWFDEQCV8/X4dX21RFXsI/AAAAAAAAqj0/ejotqIkXrOo2xWtSFFfTdqb-PF5p17alwCLcBGAsYHQ/s135/258-Saber-Fate-Zero-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UO9DgoHbuhk/X4dX3EF6TUI/AAAAAAAAqj4/nN5JYYHGI6MkFv0zWOn7hA7P5llLwnixACLcBGAsYHQ/s135/258-Saber-Fate-Zero-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4XMz0qHUiME/X4dX3uCvoGI/AAAAAAAAqj8/w2WwHAJMhlExMfnNOJyTn228_8WjYYXnwCLcBGAsYHQ/s135/258-Saber-Fate-Zero-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BICucQCamNA/X4dX3yNyAuI/AAAAAAAAqkA/hKJpOlc3PTgkDq0oOj-IcxDgYHbg1oiqgCLcBGAsYHQ/s135/258-Saber-Fate-Zero-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-acpciWKKdcA/X4dX331iD4I/AAAAAAAAqkE/RMMSDcdjGsErK9wxO1SapyGc-c0FMoqxwCLcBGAsYHQ/s135/258-Saber-Fate-Zero-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n258/",
+      "fetched_at": "2026-05-16T19:10:34.152Z",
+      "raw_id": "/nendoroid/details/n258/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.334Z",
+      "raw_id": "Nendoroid/0200-0299/258.json"
+    }
+  ]
+}

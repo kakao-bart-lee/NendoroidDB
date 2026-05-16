@@ -1,0 +1,69 @@
+{
+  "num": "0810",
+  "name": {
+    "en": "Nendoroid Okanehira",
+    "ja": "ねんどろいど 大包平 (ねんどろいど おおかねひら)",
+    "ko": "오오카네히라"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6621,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X36h7Pt0VQc/X4Nds1sG1yI/AAAAAAABmDQ/77xfqj0E4hQPvRlWndfeCPFKYvJrC-ZRQCLcBGAsYHQ/s270/810-Okanehira-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X36h7Pt0VQc/X4Nds1sG1yI/AAAAAAABmDQ/77xfqj0E4hQPvRlWndfeCPFKYvJrC-ZRQCLcBGAsYHQ/s270/810-Okanehira-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wED3YLaTY9U/X4riIeG9LOI/AAAAAAABnCw/3OMW9RuJXBEMdVTnCgxx2OphZmA6HbkKgCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_VDJ5WvsmG8/X4riItRh9-I/AAAAAAABnC0/F5jVIEf47cU1AXB8eUcyyii3FhnSicijQCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gfiyFV5wf10/X4riI7wyDiI/AAAAAAABnC4/9m_LOFJLNYA-14OX1CLvfFuuyCOZ2jy2gCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-P68Hvqh8AlQ/X4riJFgKuRI/AAAAAAABnC8/lQTalL351x0mnaF9uQBXpnQSFM6xwAUzwCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LnpdwfZd31k/X4riJYIedTI/AAAAAAABnDA/4DXEef9TfWABq49Ja3NRc02tR4CWToO0QCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kVYxWUgTu4Q/X4riJpmAViI/AAAAAAABnDE/pM4YJjL_roQqldnTNddG9qYwYcwj__Y_QCLcBGAsYHQ/s135/810-Okanehira-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n810/",
+      "fetched_at": "2026-05-16T19:10:34.813Z",
+      "raw_id": "/nendoroid/details/n810/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.513Z",
+      "raw_id": "Nendoroid/0800-0899/810.json"
+    }
+  ]
+}

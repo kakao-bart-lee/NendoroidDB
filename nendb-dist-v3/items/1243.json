@@ -1,0 +1,68 @@
+{
+  "num": "1243",
+  "name": {
+    "en": "Nendoroid Ginko Sora",
+    "ja": "ねんどろいど 空銀子 (ねんどろいど そらぎんこ)",
+    "ko": "소라 긴코"
+  },
+  "series": {
+    "en": "The Ryuo's Work is Never Done!",
+    "ja": "りゅうおうのおしごと！",
+    "ko": "용왕이 하는 일!",
+    "code": "the-ryuo-s-work-is-never-done"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9017,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-L-AESV1R-cM/X4NiRaHGUEI/AAAAAAABmpY/hG5pXFiHiFQ3l4upegWgvumGXCRYGkqfACLcBGAsYHQ/s270/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-L-AESV1R-cM/X4NiRaHGUEI/AAAAAAABmpY/hG5pXFiHiFQ3l4upegWgvumGXCRYGkqfACLcBGAsYHQ/s270/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--TqG942pIbQ/X4rz4MQoRoI/AAAAAAABp1I/d200PNcub0QrjQe0C_ZP0nTba9UX5rBmQCLcBGAsYHQ/s135/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C_lfxGRBZvM/X4rz4KXiKNI/AAAAAAABp1M/GDCcLAYVhBsjq5TlvyiLWDWIPyXxp0bqQCLcBGAsYHQ/s135/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bhImS8k_E5w/X4rz4qzNI3I/AAAAAAABp1Q/SZ1MwwdbyNAIYzyxUNj1TQmNZw0MImA0wCLcBGAsYHQ/s135/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j_rhr1qX514/X4rz4xZ-mfI/AAAAAAABp1U/-QDX84xcf9wWf8VsZ8GZ870rG7RhfJyWQCLcBGAsYHQ/s135/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aWd3Gp2LJpI/X4rz5HHha9I/AAAAAAABp1Y/5xd88B-6rOMjjkOR1sjfN-G93CSKp9W-QCLcBGAsYHQ/s135/1243-Ginko-Sora-The-Ryuos-Work-is-Never-Done-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1243/",
+      "fetched_at": "2026-05-16T19:10:33.308Z",
+      "raw_id": "/nendoroid/details/n1243/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.619Z",
+      "raw_id": "Nendoroid/1200-1299/1243.json"
+    }
+  ]
+}

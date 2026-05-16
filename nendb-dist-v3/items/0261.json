@@ -1,0 +1,92 @@
+{
+  "num": "0261",
+  "name": {
+    "en": "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ja": "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ko": "하츠네 미쿠 유카타 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Yukiwo Ageta (Max Factory), Maruhige",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC塗装済み可動フィギュア・ノンスケール・専用台座付属・全高 ： 約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": "4582191969459",
+  "gsc_product_id": "1474",
+  "gsc_product_num": 3643,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1474",
+    "ja": "https://www.goodsmile.com/ja/product/1474"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20120816/3643/19918/large/3ce24dcd6cf701d992fed245583a407d.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gPEMXdAR3dc/X4NLUSP64wI/AAAAAAABlZE/gTWiDs061DcQhRVkjyOBkcEkxekVSsW8QCLcBGAsYHQ/s270/261-Hatsune-Miku-Yukata-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XmtpW2Q8uGs/X4dX5-Ot7MI/AAAAAAAAqkw/Q3kxg56r2R8mAvBjiosvtsnZ9525Be69wCLcBGAsYHQ/s135/261-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qLKDDgo5A1A/X4dX6eSdMcI/AAAAAAAAqk0/mUvBiSf0ZrMfPX8WFgOAfhQtR3h4GNhBwCLcBGAsYHQ/s135/261-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ugsSCr_44wg/X4dX6kO0i-I/AAAAAAAAqk4/QOawATcEXFIh1a6ZJs6Jm4wjuesB_ZFMwCLcBGAsYHQ/s135/261-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-061CGlz9jyw/X4dX6gbPMJI/AAAAAAAAqk8/gzjS-5i60xs5LyH5v-7ooFtkHmtD5b0awCLcBGAsYHQ/s135/261-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20120816/3643/19917/large/7b5ad2a39ec8dbc1a510d894dcc4bc49.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20120816/3643/19918/large/3ce24dcd6cf701d992fed245583a407d.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1474",
+      "price_local": 3143,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:04.018Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1474",
+      "fetched_at": "2026-05-16T11:49:04.018Z",
+      "raw_id": "1474"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1474",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1474"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n261/",
+      "fetched_at": "2026-05-16T19:10:34.170Z",
+      "raw_id": "/nendoroid/details/n261/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.335Z",
+      "raw_id": "Nendoroid/0200-0299/261.json"
+    }
+  ]
+}

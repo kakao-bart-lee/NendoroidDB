@@ -1,0 +1,69 @@
+{
+  "num": "1136",
+  "name": {
+    "en": "Nendoroid Raphtalia",
+    "ja": "ねんどろいど ラフタリア (ねんどろいど らふたりあ)",
+    "ko": "라프타리아"
+  },
+  "series": {
+    "en": "The Rising of the Shield Hero",
+    "ja": "盾の勇者の成り上がり",
+    "ko": "방패 용사 성공담",
+    "code": "the-rising-of-the-shield-hero"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8343,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ku-tOOEbMdc/X4NgbImGQRI/AAAAAAABmaw/X7SCudwvgkUL1y8yHhnmYkoOLksrjD1ZwCLcBGAsYHQ/s270/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ku-tOOEbMdc/X4NgbImGQRI/AAAAAAABmaw/X7SCudwvgkUL1y8yHhnmYkoOLksrjD1ZwCLcBGAsYHQ/s270/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OOoAehNQz0w/X4rwOW6ArAI/AAAAAAABpIM/Jf3r65IK35cpVDcIAnzTwSDf4SHhWzHeACLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JpnYhYygfTA/X4rwOmJxefI/AAAAAAABpIQ/twtgmkBk9_8HLItoPXhMUtx3RiVJsCFCwCLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NNprwq0ZdMc/X4rwO9GU7vI/AAAAAAABpIU/8vBsevWZUOMtzUrY9ugCIrnawvXbO0VkACLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wNThxCFbEcg/X4rwPdkinNI/AAAAAAABpIY/3H9hfRdiMdM4e2f19g7LdmcldAXUs6jcwCLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vwQ0FdmTCXU/X4rwPVBgaQI/AAAAAAABpIc/_1cfF5uflUI4JNnQKd_Mx50nBac597qhQCLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pCAIOrOtH2s/X4rwPoQwiCI/AAAAAAABpIg/iNYdawjuYBA7C7YG011k_YiSeNC3rTJngCLcBGAsYHQ/s135/1136-Raphtalia-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1136/",
+      "fetched_at": "2026-05-16T19:10:33.243Z",
+      "raw_id": "/nendoroid/details/n1136/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.593Z",
+      "raw_id": "Nendoroid/1100-1199/1136.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2233",
+  "name": {
+    "en": "Nendoroid Mitsuki Izumi",
+    "ja": "ねんどろいど 和泉三月 (ねんどろいど いずみみつき)",
+    "ko": "이즈미 미츠키"
+  },
+  "series": {
+    "en": "IDOLiSH7",
+    "ja": "アイドリッシュセブン",
+    "ko": "아이돌리쉬 세븐",
+    "code": "idolish7"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14745,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zc3f0pof6X8/ZM6y1B7pRbI/AAAAAAABA-A/bAIsV1Sr7VoPrFth3s_TPx6s_cBppbEJwCNcBGAsYHQ/s270/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zc3f0pof6X8/ZM6y1B7pRbI/AAAAAAABA-A/bAIsV1Sr7VoPrFth3s_TPx6s_cBppbEJwCNcBGAsYHQ/s270/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-F6sK7TeCzI0/ZNAWpO1C0iI/AAAAAAABBKI/eiZpwQQjWGQ16MwZVfKffTzKQ51_OSebgCNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5kOupvJxlvA/ZNAWpYfwCSI/AAAAAAABBKM/ElN89_kldyk7BYrd1Iuck7dgEITqedybACNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nq3BMH0ocys/ZNAWptXG2RI/AAAAAAABBKQ/QPKT6xEFCAo-JvR3mAmC2gfQwen3BskiACNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RloPGW6k7PM/ZNAWp50XM2I/AAAAAAABBKU/j1ntHgQmEEM6Gx3MmIpX5ZFMfGvb1OdIwCNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WYy0yvWuLXE/ZNAWqFLw9kI/AAAAAAABBKY/KEzqzIdWQl0vLIQv4uc1TJAbBRqSwCbIACNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-azbEaB4W538/ZNAWqa9hjsI/AAAAAAABBKc/BVTqofC4VfAmlBri1WWfIpiY52N3xFsrwCNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-2JlesT7eMw4/ZNAWq3AZRLI/AAAAAAABBKg/TzpVJwYD1F4DscVKn3OcHVN3E4siM8xxACNcBGAsYHQ/s135/2233-Mitsuki-Izumi-IDOLiSH7-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2233/",
+      "fetched_at": "2026-05-16T19:10:33.934Z",
+      "raw_id": "/nendoroid/details/n2233/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.861Z",
+      "raw_id": "Nendoroid/2200-2299/2233.json"
+    }
+  ]
+}

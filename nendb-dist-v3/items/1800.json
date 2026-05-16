@@ -1,0 +1,70 @@
+{
+  "num": "1800",
+  "name": {
+    "en": "Nendoroid Snow Miku: Grand Voyage Ver.",
+    "ja": "ねんどろいど 雪ミク Grand Voyage Ver. (ねんどろいど ゆきみく ぐらんど ぼやーじゅVer.)",
+    "ko": "유키 미쿠 Grand Voyage Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12151,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gkS7ikH3mFs/YeXRSEqQnCI/AAAAAAAA3FY/6OWgm6GpbDw0Eg_s8XZ-KTSZbbIPHBFIwCNcBGAsYHQ/s270/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gkS7ikH3mFs/YeXRSEqQnCI/AAAAAAAA3FY/6OWgm6GpbDw0Eg_s8XZ-KTSZbbIPHBFIwCNcBGAsYHQ/s270/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vbsM_-TwjCw/YeXSsDD1jMI/AAAAAAAA3GE/rMyOVYX3REkbuEHv7jS_EoGjCJx0GFQfwCNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ckOd-0MiI1c/YeXSsirtXiI/AAAAAAAA3GI/wv2rRYp1PNos-WeWpA8ooauinST-z1ZPACNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pd01TDBYprQ/YeXStAyJ1MI/AAAAAAAA3GM/1jaukGSszmowKUMZnno8lpoUFSjHzbGuACNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fjza_K9wpxI/YeXStc8ywKI/AAAAAAAA3GQ/RyXRNAfcpEUJJ0PiZyIwcXlQSzzQyoR7ACNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UOUnrhIRf5o/YeXStR4YTDI/AAAAAAAA3GU/T4K__Darzw0TVxRkvD1cC6d20dxrgqGCACNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-FyMeONe6Ik8/YeXStr6BVrI/AAAAAAAA3GY/jFGqJ4p0mFUQ3dmyahujMWAgNZ-idoYugCNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-YFMM5k0IDQY/YeXSrpktUII/AAAAAAAA3GA/xR_wKcSBVM4XxyIWHxil0LXAlwhNWGxgwCNcBGAsYHQ/s135/1800-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1800/",
+      "fetched_at": "2026-05-16T19:10:33.655Z",
+      "raw_id": "/nendoroid/details/n1800/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.754Z",
+      "raw_id": "Nendoroid/1800-1899/1800.json"
+    }
+  ]
+}

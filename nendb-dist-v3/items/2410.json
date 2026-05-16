@@ -1,0 +1,64 @@
+{
+  "num": "2410",
+  "name": {
+    "en": "Chuya Nakahara",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": null,
+    "ko": null,
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fa0kva48ov0/Ziq-zmIOX7I/AAAAAAABEAE/s6J0xOtuPb0h8ibF6u0JOfwX6FqIx_fqQCNcBGAsYHQ/s270/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fa0kva48ov0/Ziq-zmIOX7I/AAAAAAABEAE/s6J0xOtuPb0h8ibF6u0JOfwX6FqIx_fqQCNcBGAsYHQ/s270/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-czB2vt2WFoY/Zow1hUkfZsI/AAAAAAABFa4/j_qwh3L64Ng3anfFgng3_DVjNxlMik-3QCNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-p1mBAUVOkDQ/Zow1hmV_8sI/AAAAAAABFa8/TjijEOV7QrA2cWSlzQVxneJ3VanhgvMZgCNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uzVnF8WuAm0/Zow1h-xjcsI/AAAAAAABFbA/mcn_S-bb0i04nGcelCh6V2Lol_i6VHd4ACNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8JIKBR_fsvo/Zow1h2Em5wI/AAAAAAABFbE/kpOWjwy7TTMAIVQQMnlJTFgBtACt6iuggCNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Sr0u3SOeJW8/Zow1iC78yXI/AAAAAAABFbI/WiidYLV_sRsd19L6I2_kwqRyIcSiIiybwCNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5zXbVcoM6L8/Zow1iFux5cI/AAAAAAABFbM/VxIeIqUU1Pk6eW-ePlzEFeukgaKBtwE5ACNcBGAsYHQ/s135/2410-Chuya-Nakahara-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2410/",
+      "fetched_at": "2026-05-16T19:10:34.041Z",
+      "raw_id": "/nendoroid/details/n2410/"
+    }
+  ]
+}

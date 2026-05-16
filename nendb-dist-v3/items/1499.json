@@ -1,0 +1,68 @@
+{
+  "num": "1499",
+  "name": {
+    "en": "Nendoroid Assassin/Shuten-Douji",
+    "ja": "ねんどろいど アサシン/酒呑童子 (ねんどろいど あさしん/しゅてんどうじ)",
+    "ko": "어쌔신/슈탠도지"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10342,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mQLNWsjSUn8/X6l_dZGFJWI/AAAAAAAAuYQ/eR5u7-xaaowCq75DrK6rJNhSBIXanPLcgCLcBGAsYHQ/s270/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mQLNWsjSUn8/X6l_dZGFJWI/AAAAAAAAuYQ/eR5u7-xaaowCq75DrK6rJNhSBIXanPLcgCLcBGAsYHQ/s270/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6OWeDkARO6o/X6l_v4V6xeI/AAAAAAAAuY8/UMrTNNZ8zysqMA7R7Rk1LuuGX_ZBVAEuACLcBGAsYHQ/s135/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PGGH4ac8l3I/X6l_wOqAZBI/AAAAAAAAuZA/LzPyBNgtMoM-_-YnBLlWxG4MIbpWC1NugCLcBGAsYHQ/s135/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3xV4c_bdUMM/X6l_wRhtZgI/AAAAAAAAuZE/aFWVQagShlARtoz8cwF8xrbBG-nu8RXswCLcBGAsYHQ/s135/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5DkxBF3zNAU/X6l_wi2pS1I/AAAAAAAAuZI/rvfy4M2M0wIqjQ8fL2nx0z60EkH2ztKoACLcBGAsYHQ/s135/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zZRN7MEkn7c/X6l_wxTZ4oI/AAAAAAAAuZM/hP4k0FHniwgAi3X-t-7RN6Iuxlgd0Sn9gCLcBGAsYHQ/s135/1499-Assassin-Shuten-Douji-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1499/",
+      "fetched_at": "2026-05-16T19:10:33.467Z",
+      "raw_id": "/nendoroid/details/n1499/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.681Z",
+      "raw_id": "Nendoroid/1400-1499/1499.json"
+    }
+  ]
+}

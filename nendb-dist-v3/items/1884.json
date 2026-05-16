@@ -1,0 +1,71 @@
+{
+  "num": "1884",
+  "name": {
+    "en": "Nendoroid Justice",
+    "ja": "ねんどろいど ジャスティス (ねんどろいど じゃすてぃす)",
+    "ko": "저스티스"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12756,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LCnwf3FXEC0/Yw_WJhJ_57I/AAAAAAAA6Ys/phsm_xPUM4caM_SHZFZR0XE8QoX5cUjWQCNcBGAsYHQ/s270/1884-Justice-Helltaker-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LCnwf3FXEC0/Yw_WJhJ_57I/AAAAAAAA6Ys/phsm_xPUM4caM_SHZFZR0XE8QoX5cUjWQCNcBGAsYHQ/s270/1884-Justice-Helltaker-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kn3HeRQ9RA8/YxEWXct-MdI/AAAAAAAA6fc/vRcafgpfj9AoShp4aYdo-vWzbF-PDA_xwCNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kq4syx0Nq7w/YxEWXkaFxcI/AAAAAAAA6fg/qyc5W9kHZ-0gokd-KvEvGv5G12hVbNBHwCNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tOOvSPvwu1I/YxEWX9H1g1I/AAAAAAAA6fk/m0uyeHf1blI5s0JQggHhZuNmm4qG8b1BACNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eT3vMqYO27w/YxEWYPaFU0I/AAAAAAAA6fo/jSPAUUCJl04P5U6W6IP5Cd1AoenRWAR1gCNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TWOPab3-zOI/YxEWYrepvAI/AAAAAAAA6fs/IJScherEl5YTSgKZ_l53JMHhqnH61RcPACNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7-HK3eRtCRY/YxEWZDmoA8I/AAAAAAAA6fw/MxWhdJ-VC9Yjh-gILgg5MlDH_vaczt7PwCNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Lw5QrUq7770/YxEWZj_Q9vI/AAAAAAAA6f0/sEE9c6x0RTQEj7G4JESTHCElmSBvOijaACNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-kKFZz_Ysxhw/YxEWXNd-vzI/AAAAAAAA6fY/GQtFdIu0nGMBS5MbY1ZxhESUi5_KiCHeQCNcBGAsYHQ/s135/1884-Justice-Helltaker-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1884/",
+      "fetched_at": "2026-05-16T19:10:33.709Z",
+      "raw_id": "/nendoroid/details/n1884/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.775Z",
+      "raw_id": "Nendoroid/1800-1899/1884.json"
+    }
+  ]
+}

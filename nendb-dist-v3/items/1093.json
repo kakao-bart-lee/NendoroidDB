@@ -1,0 +1,68 @@
+{
+  "num": "1093",
+  "name": {
+    "en": "Nendoroid Wang Jiexi",
+    "ja": "ねんどろいど 王傑希 (ねんどろいど わんじえしー)",
+    "ko": "왕 젠시"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8114,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YDpImpKGGJA/X4Nf8W5YnqI/AAAAAAABmXQ/BIdAiD-eAO4qmDK1hFYJKg4MCDZzGm9nQCLcBGAsYHQ/s270/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YDpImpKGGJA/X4Nf8W5YnqI/AAAAAAABmXQ/BIdAiD-eAO4qmDK1hFYJKg4MCDZzGm9nQCLcBGAsYHQ/s270/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-F0CuyXCtONY/X4rtcF-F8RI/AAAAAAABo1M/2fUEwBUGpvAU8g1muva9xHDVuVGH3dg3ACLcBGAsYHQ/s135/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_DQM8wbAhus/X4rtcsUmSTI/AAAAAAABo1Q/h_shY7ILsGY9Jqo6unQp9o8SieedqF2PACLcBGAsYHQ/s135/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xTWuicivrV0/X4rtdMhCrbI/AAAAAAABo1U/kveX8opZz1YCeaPsIBSUx1Y9RjVwION9gCLcBGAsYHQ/s135/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KZBBJxHiv3k/X4rtddS45-I/AAAAAAABo1Y/G2kOUmiavP0IiBTXw6bo6cLYdjpikJjnwCLcBGAsYHQ/s135/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GVtU_klkgQk/X4rtdTaperI/AAAAAAABo1c/L72LQjSocPYZYZlKeJPlzdAF-iGmpF6NwCLcBGAsYHQ/s135/1093-Wang-Jiexi-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1093/",
+      "fetched_at": "2026-05-16T19:10:33.215Z",
+      "raw_id": "/nendoroid/details/n1093/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.583Z",
+      "raw_id": "Nendoroid/1000-1099/1093.json"
+    }
+  ]
+}

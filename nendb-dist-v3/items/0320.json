@@ -1,0 +1,69 @@
+{
+  "num": "0320",
+  "name": {
+    "en": "Nendoroid Sasami Tsukuyomi (ねんどろいど つくよみささみ)",
+    "ja": "ねんどろいど 月読鎖々美 (ねんどろいど つくよみささみ)",
+    "ko": "츠쿠요미 사사미"
+  },
+  "series": {
+    "en": "Sasami-san@Ganbaranai",
+    "ja": "ささみさん＠がんばらない",
+    "ko": "사사미양@노력하지않아",
+    "code": "sasami-san-ganbaranai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3872,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IMnLQYcdi5Y/X4NMoZjxM2I/AAAAAAABlgo/duWPx6pAK3QZHuaraQhJM4UVbepCz_aoQCLcBGAsYHQ/s270/320-Sasami-Tsukuyomi-Sasami-San-Ganbaranai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IMnLQYcdi5Y/X4NMoZjxM2I/AAAAAAABlgo/duWPx6pAK3QZHuaraQhJM4UVbepCz_aoQCLcBGAsYHQ/s270/320-Sasami-Tsukuyomi-Sasami-San-Ganbaranai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-T_QzoHW2C2w/X4daQd11nPI/AAAAAAAAq54/pgcLsrqWSP0UedJFBKJJ-Utx_JCd9iPHgCLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-In-gqTlruls/X4daQgyuqHI/AAAAAAAAq58/0yO7wYmI75kuHcpk3SgUnHKsJkWSHsheACLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bunfqAoLYOc/X4daQgtF87I/AAAAAAAAq6I/5FzVmrjacvU5FM_FC4By89fVvObpXmmZwCLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RCzpQ0qXsB8/X4daQwIWzFI/AAAAAAAAq6A/x-qFK3flyiML38b-Ccoa_5Q9tlNK7-BAgCLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9OB85XMk-bs/X4daROyVzEI/AAAAAAAAq6E/wUSbfMirp1QEQQKrvrYC0BwYGzMb4jV5gCLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-MPb8DRrd3y4/X4daRnYh7ZI/AAAAAAAAq6M/vMbEYcxC0Ow0tMZ-5WHK6xCcY1YAA5w2wCLcBGAsYHQ/s135/320-Sasami-Tsukuyomi-Sasami-san-Ganbaranai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n320/",
+      "fetched_at": "2026-05-16T19:10:34.459Z",
+      "raw_id": "/nendoroid/details/n320/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.351Z",
+      "raw_id": "Nendoroid/0300-0399/320.json"
+    }
+  ]
+}

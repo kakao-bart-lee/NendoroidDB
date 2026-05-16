@@ -1,0 +1,68 @@
+{
+  "num": "0679",
+  "name": {
+    "en": "Nendoroid Peko-chan: School Ver.",
+    "ja": "ねんどろいど ペコちゃん 通学Ver. (ねんどろいど ぺこちゃん つうがくVer.)",
+    "ko": "페코쨩 통학 Ver."
+  },
+  "series": {
+    "en": "Fujiya Peko-chan",
+    "ja": "不二家 ペコちゃん",
+    "ko": "후지야 페코쨩",
+    "code": "fujiya-peko-chan"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5975,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LIK0Aet5qTM/X4NP89J_MBI/AAAAAAABl5Y/XVnLjSzDTAY9rjCF_gG1OgrSftwyX7tmgCLcBGAsYHQ/s270/679-Peko-Chan-School-Uniform-Fujiya-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LIK0Aet5qTM/X4NP89J_MBI/AAAAAAABl5Y/XVnLjSzDTAY9rjCF_gG1OgrSftwyX7tmgCLcBGAsYHQ/s270/679-Peko-Chan-School-Uniform-Fujiya-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sGva2FJzuK0/X4i1uJ0-GzI/AAAAAAAAs8Y/Jtc_CzZ4Tw4Q7WJOxocMfXBYOTwJWfsigCLcBGAsYHQ/s135/679-Peko-chan-Fujiya-Mascots-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gWBTd1Vx6ck/X4i1ui4b03I/AAAAAAAAs8c/eK1HKRWGnQUDrKSoLYdq4H-ejxKPeLt1gCLcBGAsYHQ/s135/679-Peko-chan-Fujiya-Mascots-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-moCq4H9svhA/X4i1vPzNmfI/AAAAAAAAs8g/uMmCVpCL3C8DtmbKWuIjvdpAbGA4UoMDgCLcBGAsYHQ/s135/679-Peko-chan-Fujiya-Mascots-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_GZikGJjK7s/X4i1vps-jPI/AAAAAAAAs8k/mu8YxtXDcigF7AqvewMh5Ogv3oKVu-MAwCLcBGAsYHQ/s135/679-Peko-chan-Fujiya-Mascots-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IaF162eGQjs/X4i1wACuDmI/AAAAAAAAs8o/iMkttbYz2AUwpz14-2BaE7nPYH-Pet2LACLcBGAsYHQ/s135/679-Peko-chan-Fujiya-Mascots-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n679/",
+      "fetched_at": "2026-05-16T19:10:34.738Z",
+      "raw_id": "/nendoroid/details/n679/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.482Z",
+      "raw_id": "Nendoroid/0600-0699/679.json"
+    }
+  ]
+}

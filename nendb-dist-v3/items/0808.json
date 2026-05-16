@@ -1,0 +1,71 @@
+{
+  "num": "0808",
+  "name": {
+    "en": "Nendoroid Ai-chan",
+    "ja": "ねんどろいど アイちゃん (ねんどろいど あいちゃん)",
+    "ko": "아이쨩"
+  },
+  "series": {
+    "en": "Tawawa on Monday",
+    "ja": "月曜日のたわわ",
+    "ko": "월요일의 타와와",
+    "code": "tawawa-on-monday"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6617,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HVXWM9Z6Gp4/X4NdsdDL1cI/AAAAAAABmDI/rrzqpmsqy8QJ_zlLDHq9CmJE4XmMuGkpgCLcBGAsYHQ/s270/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HVXWM9Z6Gp4/X4NdsdDL1cI/AAAAAAABmDI/rrzqpmsqy8QJ_zlLDHq9CmJE4XmMuGkpgCLcBGAsYHQ/s270/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DJxl6Vhy8LY/X4riFUohP3I/AAAAAAABnCA/UeScj4n-hg0MgQwuRA3RawuIHSDfsolGwCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HfcUeYMwMRA/X4riFpT3S2I/AAAAAAABnCE/KL-duPrPvEIXtqGbZUCG2Upkq9-IY7cwQCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1T6LP7CaVmQ/X4riF2-l9XI/AAAAAAABnCI/g10BkFS9q8EYD9s4btNoEQM-mDox21higCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x4S6rxi_E_k/X4riGPcAEAI/AAAAAAABnCM/_V6UFsarPnkXco3C9NlETWBPGy9U_oc3QCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-u_CX1Oe4POQ/X4riGVnoPYI/AAAAAAABnCQ/0CHOIJAjkSAgq1xVflwMjdCo9j_8dDL_QCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-yVvqynJxHjE/X4riGqCzOOI/AAAAAAABnCU/CdfP_JUDEOc96lvB3K3gKcvubwFZofYowCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BixyoO3NKjg/X4riGzSNENI/AAAAAAABnCY/ofT2YIiDrAkZkgGVeoWsPWdVU77bMe6GQCLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-z5JE3YsmOlk/X4riFJw2WrI/AAAAAAABnB8/f9g9ZX2IRiAnRmnf-GqWtdHk5BpVntcaACLcBGAsYHQ/s135/808-Ai-chan-Tawawa-on-Monday-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n808/",
+      "fetched_at": "2026-05-16T19:10:34.811Z",
+      "raw_id": "/nendoroid/details/n808/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.512Z",
+      "raw_id": "Nendoroid/0800-0899/808.json"
+    }
+  ]
+}

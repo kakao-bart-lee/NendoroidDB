@@ -1,0 +1,70 @@
+{
+  "num": "1791c",
+  "name": {
+    "en": "Nendoroid Crewmate (Black)",
+    "ja": "ねんどろいど クルーメイト（黒） (ねんどろいど くるーめいと（くろ）)",
+    "ko": "쿨메이트(블랙)"
+  },
+  "series": {
+    "en": "Among Us",
+    "ja": "Among Us",
+    "ko": "어몽어스",
+    "code": "among-us"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12144,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bKdV9D2cJ50/YdGwUWIwjXI/AAAAAAAA2eg/CnPXwT47YSAe39ziLpA7seEUqSq74LxngCNcBGAsYHQ/s270/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bKdV9D2cJ50/YdGwUWIwjXI/AAAAAAAA2eg/CnPXwT47YSAe39ziLpA7seEUqSq74LxngCNcBGAsYHQ/s270/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-edf-WPYnnuM/YdGze18k5LI/AAAAAAAA2kU/LrZ1bTZUXAIqMLriyEYSMQ4H1OxiSR85wCNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1ukZrIIih6s/YdGzfDyI7WI/AAAAAAAA2kY/aFEpxq2F4LcNJCm2nE_LTwzstCfEk5DyACNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-V-DjZmBR8dY/YdGzfY-xciI/AAAAAAAA2kc/X1nsIJwyPVo2S3r2oug-Dx7pMNKnz_I4QCNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NJ22T3zALug/YdGzfep-WhI/AAAAAAAA2kg/G4OSmL6gzXor9qNquw8iEjpSIiA4n6IMACNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-F_-k22gMsDA/YdGzflYz8gI/AAAAAAAA2kk/stVXOApe9aMoGDQMQVkOKJsucP-8b5JzACNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qs8HZbF4CPw/YdGzgHF3G7I/AAAAAAAA2ko/kYtRSrX0seI4IUWWgIAEuI7BJb-yoZPhQCNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-KnEJ25PlGLc/YdGzgTlljGI/AAAAAAAA2ks/bG4j-TpqG3k4wg6ygiZQG-qkp5v1wNkEwCNcBGAsYHQ/s135/1791c-Crewmate-Black-Among-Us-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1791c/",
+      "fetched_at": "2026-05-16T19:10:33.650Z",
+      "raw_id": "/nendoroid/details/n1791c/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.752Z",
+      "raw_id": "Nendoroid/1700-1799/1791c.json"
+    }
+  ]
+}

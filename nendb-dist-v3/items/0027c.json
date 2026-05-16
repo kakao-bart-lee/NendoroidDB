@@ -1,0 +1,64 @@
+{
+  "num": "0027c",
+  "name": {
+    "en": "Izumi Konata",
+    "ja": "ねんどろいど 泉 こなた（キャラアニVer.） (ねんどろいど いずみ こなた（きゃらあにVer.）)",
+    "ko": "이즈미 코나타 캐러애니 Ver."
+  },
+  "series": {
+    "en": "Lucky Star",
+    "ja": "TVアニメ らき☆すた",
+    "ko": "럭키스타",
+    "code": "lucky-star"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3357,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YvJt97enIu4/X4MR1KFoqCI/AAAAAAAApYE/5POd7vSwjtg0TnIZ9407SUlX5jVUBx4FgCLcBGAsYHQ/s270/027C-Izumi-Konata-Chara-Ani-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YvJt97enIu4/X4MR1KFoqCI/AAAAAAAApYE/5POd7vSwjtg0TnIZ9407SUlX5jVUBx4FgCLcBGAsYHQ/s270/027C-Izumi-Konata-Chara-Ani-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4xO3H8svELM/X4GwWiYJhaI/AAAAAAAApBA/MuNA_28Ghvs-7U4-q29SAVAZDfMRTtrfgCLcBGAsYHQ/s135/027C-Izumi-Konata-Lucky-Star-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n027c/",
+      "fetched_at": "2026-05-16T19:10:33.081Z",
+      "raw_id": "/nendoroid/details/n027c/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.266Z",
+      "raw_id": "Nendoroid/0000-0099/027c.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0774",
+  "name": {
+    "en": "Nendoroid Sagiri Izumi",
+    "ja": "ねんどろいど 和泉紗霧 (ねんどろいど いずみさぎり)",
+    "ko": "이즈미 사기리"
+  },
+  "series": {
+    "en": "Eromanga Sensei",
+    "ja": "エロマンガ先生",
+    "ko": "에로망가 선생",
+    "code": "eromanga-sensei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6467,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TQLHB77FwTs/X4NdGFDgMvI/AAAAAAABmAI/QzOQKEEgnSIEfB8T5SaDqDzX201qJdryACLcBGAsYHQ/s270/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TQLHB77FwTs/X4NdGFDgMvI/AAAAAAABmAI/QzOQKEEgnSIEfB8T5SaDqDzX201qJdryACLcBGAsYHQ/s270/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-1.jpg",
+      "https://1.bp.blogspot.com/-iGznlnOFf3M/X4i5cnRyrXI/AAAAAAAAthQ/Of2IlqJ-WDUwu_qZ1bU-vzEKUVZGNLDvwCLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yQSAqi4WpWY/X4i5dNq-kuI/AAAAAAAAthU/hC03g8vyPg46P9Q6b7QQyM98HXvbR76tACLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LZknQJencRo/X4i5d8JK6_I/AAAAAAAAthY/i1oGQ2cplhEUmRNNnvYma26dVNoC6wsPQCLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XaeL3Obm-NM/X4i5eaMZCmI/AAAAAAAAthc/GDSos2ntLhQWIqdF8ILmfJltx5ZsfvCWgCLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QBqKALRE9sw/X4i5e5i7-oI/AAAAAAAAthg/rrLPSCmoeJIaO00ghp3ajBu7Z1dz3yQkQCLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WHxAqBviijQ/X4i5fZxwcII/AAAAAAAAthk/KcVDkkCWqSsVSFrBnVcR2cpzdMjuWMeEACLcBGAsYHQ/s135/774-Sagiri-Izumi-Eromanga-Sensei-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n774/",
+      "fetched_at": "2026-05-16T19:10:34.790Z",
+      "raw_id": "/nendoroid/details/n774/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.504Z",
+      "raw_id": "Nendoroid/0700-0799/774.json"
+    }
+  ]
+}

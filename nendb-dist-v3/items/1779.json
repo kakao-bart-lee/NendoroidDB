@@ -1,0 +1,69 @@
+{
+  "num": "1779",
+  "name": {
+    "en": "Nendoroid Wu Siyue",
+    "ja": "ねんどろいど 武思月 (ねんどろいど ぶしげつ)",
+    "ko": "무사월"
+  },
+  "series": {
+    "en": "FENG QI LUO YANG",
+    "ja": "風起洛陽",
+    "ko": "풍기낙양",
+    "code": "feng-qi-luo-yang"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12095,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-axI9axONW8A/YdGwPkN3JkI/AAAAAAAA2d8/TR1xAIDOMXAJ5CIsoGbeghxLImeKxhG5wCNcBGAsYHQ/s270/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-axI9axONW8A/YdGwPkN3JkI/AAAAAAAA2d8/TR1xAIDOMXAJ5CIsoGbeghxLImeKxhG5wCNcBGAsYHQ/s270/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rdeaK56KWC0/YdGzUNMnIwI/AAAAAAAA2g4/Ca1CQVfuH0sPMg1EI6nP1cX6-_coTx8AgCNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aLrjls4WQ9A/YdGzUUDjazI/AAAAAAAA2g8/9LXQou2aYzwf9b8cwDvjzeiICIR1SjHRACNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YmWw19zd9NQ/YdGzUa2IPmI/AAAAAAAA2hA/T0-Dvkw-ARgdABRs22kzfUykeBEsbinfACNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4oIe63tA9XI/YdGzUoNxPLI/AAAAAAAA2hE/9DfVsrB3-Jsd-Z1S-tB2ueWSBafzBfSjACNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pZ2-e6N5-8E/YdGzU-EKQpI/AAAAAAAA2hM/JLlgcsbz7ZcSG3Bu88V379oGN9rzWp7xwCNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qBCP6Im0jqY/YdGzUwtY3ZI/AAAAAAAA2hI/WVkAokwgpz0FYyCezj_VKS7TweyIsqBhwCNcBGAsYHQ/s135/1779-Wu-Siyue-Feng-Qi-Luo-Yang-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1779/",
+      "fetched_at": "2026-05-16T19:10:33.641Z",
+      "raw_id": "/nendoroid/details/n1779/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.749Z",
+      "raw_id": "Nendoroid/1700-1799/1779.json"
+    }
+  ]
+}

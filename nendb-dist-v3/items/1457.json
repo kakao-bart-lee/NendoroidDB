@@ -1,0 +1,70 @@
+{
+  "num": "1457",
+  "name": {
+    "en": "Nendoroid Mercenary",
+    "ja": "ねんどろいど 傭兵 (ねんどろいど ようへい)",
+    "ko": "나이브 수베다르"
+  },
+  "series": {
+    "en": "Identity V",
+    "ja": "identityV 第五人格",
+    "ko": "제5인격",
+    "code": "identity-v"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10300,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QfkIyt5xjEU/X58Yh3nU4EI/AAAAAAAAuFA/KaWwje7N-Is14y3yCnCfYMP5qQr1CPYcgCLcBGAsYHQ/s270/1457-Mercenary-Identity-V-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QfkIyt5xjEU/X58Yh3nU4EI/AAAAAAAAuFA/KaWwje7N-Is14y3yCnCfYMP5qQr1CPYcgCLcBGAsYHQ/s270/1457-Mercenary-Identity-V-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dUQujKacy6c/X58Z1NyKgyI/AAAAAAAAuGc/B-RoMIQyNrQBwSDmGd0wtHHRGTL3CnCJgCLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XAlt7xhfAT8/X58Z1vMO3dI/AAAAAAAAuGg/J3ro-ghW_0k10LfCrAY5ZyT-G7sS3U7rgCLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WF7Lu2mGJ3M/X58Z2Lw7UOI/AAAAAAAAuGk/U6MOoZHZwEcjX-tZUgGX4sDTzBSgi27iACLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NevQQk0gS5Y/X58Z2dUONtI/AAAAAAAAuGo/xDfmrWS2cXYH0TkXV8rgj3-xSJHdnUhvgCLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eqTNMKWl1r8/X58Z2nqzdWI/AAAAAAAAuGs/-aNwPxD2_owVeWWmILOStVDLx78f9FVcACLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bTu1HOx7N-s/X58Z2wylSnI/AAAAAAAAuGw/2jAtTH7Rb2E8Y9UQ0dbzOvIP44E_KFycwCLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-PVlpzdkrYJg/X58Z3C1NsRI/AAAAAAAAuG0/28rlAHWWnUYmsO9HbV0DZTqMZiN9-kOOgCLcBGAsYHQ/s135/1457-Mercenary-Identity-V-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1457/",
+      "fetched_at": "2026-05-16T19:10:33.442Z",
+      "raw_id": "/nendoroid/details/n1457/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.670Z",
+      "raw_id": "Nendoroid/1400-1499/1457.json"
+    }
+  ]
+}

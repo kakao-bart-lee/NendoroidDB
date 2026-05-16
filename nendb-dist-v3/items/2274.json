@@ -1,0 +1,68 @@
+{
+  "num": "2274",
+  "name": {
+    "en": "Nendoroid Special Week: Renewal Ver.",
+    "ja": "ねんどろいど スペシャルウィーク リニューアルVer. (ねんどろいど すぺしゃるうぃーく りにゅーあるVer.)",
+    "ko": "스페셜 위크 리뉴얼 ver."
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14960,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mwygS8FsEnI/ZSHUqFpv_JI/AAAAAAABCAU/CJQEwRtbRTcnltdzgprm9Hcn--bKo4hHQCNcBGAsYHQ/s270/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mwygS8FsEnI/ZSHUqFpv_JI/AAAAAAABCAU/CJQEwRtbRTcnltdzgprm9Hcn--bKo4hHQCNcBGAsYHQ/s270/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8iKd5nkrQMI/ZSHVnnQ9GYI/AAAAAAABCDo/m19YB4RcZIIkmlVU5_IBG_hUyHb9H4efgCNcBGAsYHQ/s135/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dGFZJLnobJc/ZSHVn_mfOeI/AAAAAAABCDw/6O-otAIFC8sS5G94x7fCEv_T_8E3uII_QCNcBGAsYHQ/s135/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tP2Cx8Gxz9s/ZSHVoKpeD_I/AAAAAAABCDs/Ujj6PdXLRDk8KHI1JQ6h6g56HS3Ks0pZgCNcBGAsYHQ/s135/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4-9O74vT2yM/ZSHVoazNWuI/AAAAAAABCD0/hD1f3GZGBiczWjuYkxovKwnqhO8sUhxcgCNcBGAsYHQ/s135/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LrNsarUpkkY/ZSHVowOZViI/AAAAAAABCD4/Kh7QCc65excvActfWAX_QDQGCqe-4-DOgCNcBGAsYHQ/s135/2274-Special-Week-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2274/",
+      "fetched_at": "2026-05-16T19:10:33.958Z",
+      "raw_id": "/nendoroid/details/n2274/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.869Z",
+      "raw_id": "Nendoroid/2200-2299/2274.json"
+    }
+  ]
+}

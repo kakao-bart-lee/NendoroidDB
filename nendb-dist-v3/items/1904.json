@@ -1,0 +1,68 @@
+{
+  "num": "1904",
+  "name": {
+    "en": "Nendoroid Cinnamoroll",
+    "ja": "ねんどろいど シナモロール (ねんどろいど しなもろーる)",
+    "ko": "시나모롤"
+  },
+  "series": {
+    "en": "Cinnamoroll",
+    "ja": "シナモロール",
+    "ko": "시나모롤",
+    "code": "cinnamoroll"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13646,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nfXWW-DIlRI/Y69BLNzvN0I/AAAAAAAA8PE/g0zxGpx5tyE_rVhBHlMmDBbCmRMzVaL4wCNcBGAsYHQ/s270/1904-Cinnamoroll-Sanrio-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nfXWW-DIlRI/Y69BLNzvN0I/AAAAAAAA8PE/g0zxGpx5tyE_rVhBHlMmDBbCmRMzVaL4wCNcBGAsYHQ/s270/1904-Cinnamoroll-Sanrio-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HLDdbq0bP3Q/Y684WbmHQOI/AAAAAAAA8GI/NCqcqDD-YvIZOb-fZ8n-ldICYHoUKqYzwCNcBGAsYHQ/s135/1904-Cinnamoroll-Sanrio-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ahdCdF_CiD4/Y684Wo2vwaI/AAAAAAAA8GM/1uohD-tj17QyCKtMLQtnaG07434gkWuigCNcBGAsYHQ/s135/1904-Cinnamoroll-Sanrio-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ozot39Zb0ng/Y684WzxN4wI/AAAAAAAA8GQ/Ectj3dnHkkAvnw8wPsM3lgr1Sq_HTHTtACNcBGAsYHQ/s135/1904-Cinnamoroll-Sanrio-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zJvqRji5OyM/Y684XRvS55I/AAAAAAAA8GU/vRofIC-uRacDrVqAUVE_A7lPUkYGsYUyACNcBGAsYHQ/s135/1904-Cinnamoroll-Sanrio-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iNkGRmnsPgo/Y684XkdcOhI/AAAAAAAA8GY/h2517lcE5rQGMXJs__6D5Bqi_ix-N4qWgCNcBGAsYHQ/s135/1904-Cinnamoroll-Sanrio-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1904/",
+      "fetched_at": "2026-05-16T19:10:33.720Z",
+      "raw_id": "/nendoroid/details/n1904/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.779Z",
+      "raw_id": "Nendoroid/1900-1999/1904.json"
+    }
+  ]
+}

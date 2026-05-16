@@ -1,0 +1,64 @@
+{
+  "num": "2383",
+  "name": {
+    "en": "Sunraku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Shangri-La Frontier",
+    "ja": null,
+    "ko": null,
+    "code": "shangri-la-frontier"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lwRzlMoaLz4/ZcqeupHstfI/AAAAAAABDY0/CAh_LBBd2yYAxFJH2Xe2SKZSNaBh1l9EQCNcBGAsYHQ/s270/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lwRzlMoaLz4/ZcqeupHstfI/AAAAAAABDY0/CAh_LBBd2yYAxFJH2Xe2SKZSNaBh1l9EQCNcBGAsYHQ/s270/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TppLxBHyW7k/Zow0VNnvzqI/AAAAAAABFQw/Vqmp7DPNFhorQY-LWGctuQ77p_MWBr3DgCNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1cgvitDu5Nk/Zow0VivmmgI/AAAAAAABFQ0/JOKQMBuFQjsFARJV6jK8iPMP9GmaEcPDgCNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xGp4YrKkpkQ/Zow0WGwxOgI/AAAAAAABFQ4/Ci82J3173sc8N_JDh9PBygtGLG6sNWhxwCNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-70G57A3kKtI/Zow0WsbEU2I/AAAAAAABFQ8/Vo3wCJipfyIsGEr7Ehm7GbZ4o8T1DdDjACNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Bstni_Jdcco/Zow0XLgNfNI/AAAAAAABFRA/BIMIE3I94EojtPnBUUyaRGyydsnnhDNOgCNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ICA22KmxHds/Zow0XjLLYCI/AAAAAAABFRE/vODwUc5MJ_kS3XgvWlftkZHHd01MQXw9wCNcBGAsYHQ/s135/2383-Sunraku-Shangri-La-Frontier-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2383/",
+      "fetched_at": "2026-05-16T19:10:34.024Z",
+      "raw_id": "/nendoroid/details/n2383/"
+    }
+  ]
+}

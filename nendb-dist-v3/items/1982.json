@@ -1,0 +1,69 @@
+{
+  "num": "1982",
+  "name": {
+    "en": "Nendoroid Keisuke Baji",
+    "ja": "ねんどろいど 場地圭介 (ねんどろいど ばじけいすけ)",
+    "ko": "바지 케이스케"
+  },
+  "series": {
+    "en": "Tokyo Revengers",
+    "ja": "東京リベンジャーズ",
+    "ko": "도쿄 리벤저스",
+    "code": "tokyo-revengers"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eEK7sINlXZY/Y45wS6j-z7I/AAAAAAAA7rg/kroEwfhhwtQxY5dwCaq1obQoUeMj_XY3gCNcBGAsYHQ/s270/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eEK7sINlXZY/Y45wS6j-z7I/AAAAAAAA7rg/kroEwfhhwtQxY5dwCaq1obQoUeMj_XY3gCNcBGAsYHQ/s270/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7-BD8BqBjQI/Y451YOXmXFI/AAAAAAAA70A/NvIEd5vUzKI6jRAucBBTuLFMO2HgDvp8gCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BeHjysAIUcY/Y451YqYktGI/AAAAAAAA70E/ymbg-Q6duAAm1Omucpc_-OFu3Bad5y8_QCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wMIBWmbHsIQ/Y451ZAj2T2I/AAAAAAAA70I/2ItdLEt6sXc7NPvNRJbYbzSclhOLJ0ybgCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HHrxfPCmpyQ/Y451ZsPW0OI/AAAAAAAA70M/d6ll7YmwLfkF1blNsutFc_Y14hgyFGsQgCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0liIGJhJ-Ps/Y451aNh9W0I/AAAAAAAA70Q/SFoEqEcQEiISxp4UiVwg1tVlp3-nFH0mgCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jvF_Y0AbsPE/Y451agXPJfI/AAAAAAAA70U/IIiU_0Vf4qAk17rqyn2ZElM9JUPP1RyqwCNcBGAsYHQ/s135/1982-Keisuke-Baji-Tokyo-Revengers-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1982/",
+      "fetched_at": "2026-05-16T19:10:33.767Z",
+      "raw_id": "/nendoroid/details/n1982/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.797Z",
+      "raw_id": "Nendoroid/1900-1999/1982.json"
+    }
+  ]
+}

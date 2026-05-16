@@ -1,0 +1,69 @@
+{
+  "num": "0392",
+  "name": {
+    "en": "Nendoroid Iron Patriot: Hero's Edition (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ja": "ねんどろいど アイアン・パトリオット ヒーローズ・エディション (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ko": "아이언 패트리어트 히어로즈 에디션"
+  },
+  "series": {
+    "en": "Iron Man 3",
+    "ja": "アイアンマン3",
+    "ko": "아이언맨3",
+    "code": "iron-man-3"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4174,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Tikq3FjBwDg/X4NNG9Ni0uI/AAAAAAABllU/YIqyGBtc3BsUzippN7mDjGyCyDTm3sLAQCLcBGAsYHQ/s270/392-Iron-Patriot-Hero-Edition-Iron-Man-3-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Tikq3FjBwDg/X4NNG9Ni0uI/AAAAAAABllU/YIqyGBtc3BsUzippN7mDjGyCyDTm3sLAQCLcBGAsYHQ/s270/392-Iron-Patriot-Hero-Edition-Iron-Man-3-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L4LLVfH6DTU/X4dbpRF1taI/AAAAAAAArRY/u2OjKAMntX0Dsn7N0Lcg-9Di1eErdmMRACLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s5Cff5UUH_o/X4dbpzfZkXI/AAAAAAAArRc/9BDMAlmBbWQ0I4euGuhVOdKxUPNqEV70wCLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8PkqwPY0naU/X4dbqUlk9fI/AAAAAAAArRg/Y2kjMpLkcqQlKOCNWEQxxtxT1Fhko2s_wCLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tieIwYzYpo0/X4dbrLYTCKI/AAAAAAAArRk/B7sdp5jCj445Fqy0OEFLDF0hmzC9ZBD4ACLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zSqeTSVMh90/X4dbrLjkSxI/AAAAAAAArRo/pLnca24ZLZ8WWxSwo7bSeETcYe0vgt3_ACLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UXM2Ytnr-Ks/X4dbrNZCjkI/AAAAAAAArRs/IzNdcfbxNY06GxK9cTxOisM3Hhbv68ZKQCLcBGAsYHQ/s135/392-Iron-Patriot-Iron-Man-Iron-Man-3-Marvel-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n392/",
+      "fetched_at": "2026-05-16T19:10:34.502Z",
+      "raw_id": "/nendoroid/details/n392/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.369Z",
+      "raw_id": "Nendoroid/0300-0399/392.json"
+    }
+  ]
+}

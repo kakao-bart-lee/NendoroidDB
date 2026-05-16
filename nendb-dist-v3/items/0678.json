@@ -1,0 +1,68 @@
+{
+  "num": "0678",
+  "name": {
+    "en": "Nendoroid Tatsumaki",
+    "ja": "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
+    "ko": "전율의 타츠마키"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5956,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KXQrEGKTozs/X4NP8n2B0LI/AAAAAAABl5U/eBojmAcU0eMkf0g_akqm4KK-LVItcabtwCLcBGAsYHQ/s270/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KXQrEGKTozs/X4NP8n2B0LI/AAAAAAABl5U/eBojmAcU0eMkf0g_akqm4KK-LVItcabtwCLcBGAsYHQ/s270/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NR21HzBpP9U/X4i1riVpTkI/AAAAAAAAs8E/mQrtP_tBLPMG5Cz5CKLn59H-oF28mVHiwCLcBGAsYHQ/s135/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CPcXwgsAbFE/X4i1sJ7vldI/AAAAAAAAs8I/cu6IxErqfxM9OjOxDn9WxdjrhZlWbtVjACLcBGAsYHQ/s135/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sfOKTQEeB40/X4i1ste39QI/AAAAAAAAs8M/Zp_KBb3mnWYOvYI6UVrbyaVfg1vzkidjACLcBGAsYHQ/s135/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hFrk_va2Vx8/X4i1tFOHMBI/AAAAAAAAs8Q/5aHRomywKHATSlkn9nEGrzMc_CoWJv3MACLcBGAsYHQ/s135/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zSoLsRPWnis/X4i1trJxTYI/AAAAAAAAs8U/3miR5yhSsvMhoh9bq4FaTH6NkXIs3BPTQCLcBGAsYHQ/s135/678-Tatsumaki-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n678/",
+      "fetched_at": "2026-05-16T19:10:34.738Z",
+      "raw_id": "/nendoroid/details/n678/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.482Z",
+      "raw_id": "Nendoroid/0600-0699/678.json"
+    }
+  ]
+}

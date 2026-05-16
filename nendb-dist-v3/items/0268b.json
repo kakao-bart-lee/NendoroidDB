@@ -1,0 +1,65 @@
+{
+  "num": "0268b",
+  "name": {
+    "en": "Nendoroid Akari Akaza: Akariiin Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
+    "ja": "ねんどろいど 赤座あかり ＼アッカリ～ン／Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
+    "ko": "아카자 아카리 \\앗카린/ Ver."
+  },
+  "series": {
+    "en": "YuruYuri",
+    "ja": "ゆるゆり",
+    "ko": "유루유리",
+    "code": "yuruyuri"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7150,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3862,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-y9LW-WmiYo8/X4NLWHDirCI/AAAAAAABlZk/_6Gqw-_0COU4_lJSG6ekbx1WmDA9i72FQCLcBGAsYHQ/s270/268B-Akari-Akaza-Akariin-YuruYuri-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-y9LW-WmiYo8/X4NLWHDirCI/AAAAAAABlZk/_6Gqw-_0COU4_lJSG6ekbx1WmDA9i72FQCLcBGAsYHQ/s270/268B-Akari-Akaza-Akariin-YuruYuri-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iUhnJZ5u64Y/X4dYBVHLRTI/AAAAAAAAqm8/wL_PK_nUI-QAmTAA1LhywJn4yrbENr2AACLcBGAsYHQ/s135/268B-Akari-Akaza-YuriYuri-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BakrNRjEigk/X4dYB0qfVLI/AAAAAAAAqnA/HfX4aXj2SWIcuXRswcD7MoIkT7JNJBCfgCLcBGAsYHQ/s135/268B-Akari-Akaza-YuriYuri-Anime-and-Manga-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n268b/",
+      "fetched_at": "2026-05-16T19:10:34.218Z",
+      "raw_id": "/nendoroid/details/n268b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.337Z",
+      "raw_id": "Nendoroid/0200-0299/268b.json"
+    }
+  ]
+}

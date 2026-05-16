@@ -1,0 +1,68 @@
+{
+  "num": "1200",
+  "name": {
+    "en": "Nendoroid L 2.0",
+    "ja": "ねんどろいど L 2.0 (ねんどろいど える 2.0)",
+    "ko": "L 2.0"
+  },
+  "series": {
+    "en": "DEATH NOTE",
+    "ja": "DEATH NOTE",
+    "ko": "데스노트",
+    "code": "death-note"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8743,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DUMoKIzLsgs/X4NgyQL1ZTI/AAAAAAABmfE/hIXZNlOCxOUtw7hEibcsY0LCve7gJR4WgCLcBGAsYHQ/s270/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DUMoKIzLsgs/X4NgyQL1ZTI/AAAAAAABmfE/hIXZNlOCxOUtw7hEibcsY0LCve7gJR4WgCLcBGAsYHQ/s270/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cUJWEVnqmsM/X4rx_MaRWaI/AAAAAAABph0/C-EfNLLZ_pgXXGEUxLdMZAinsQscni9mwCLcBGAsYHQ/s135/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dz-jdWi2-nE/X4rx_hbd0rI/AAAAAAABph4/MU2D-PIGtQYcmrxZ_arIi4fycGLOOmj4QCLcBGAsYHQ/s135/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x83x6NJ70zU/X4rx_uFW7gI/AAAAAAABph8/-LWWEH8SxvIyx0r8RGpihx26b_gmNoG-gCLcBGAsYHQ/s135/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EmEgh6L_dkw/X4rx_xBOHrI/AAAAAAABpiA/4EFUpUCgg0QzpCllwJ-Gk-dmqrfBJMi1ACLcBGAsYHQ/s135/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Za5Vhq9HBWM/X4ryANQS-nI/AAAAAAABpiE/qDqsRofAzhkyvIhHD_oF3BSu4oE5yKi-QCLcBGAsYHQ/s135/1200-L-2.0-Death-Note-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1200/",
+      "fetched_at": "2026-05-16T19:10:33.282Z",
+      "raw_id": "/nendoroid/details/n1200/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.608Z",
+      "raw_id": "Nendoroid/1200-1299/1200.json"
+    }
+  ]
+}

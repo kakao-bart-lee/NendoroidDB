@@ -1,0 +1,68 @@
+{
+  "num": "2029",
+  "name": {
+    "en": "Nendoroid Megaera",
+    "ja": "ねんどろいど メガイラ (ねんどろいど めがいら)",
+    "ko": "메가이라"
+  },
+  "series": {
+    "en": "Hades",
+    "ja": "ハデス",
+    "ko": "하데스",
+    "code": "hades"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13707,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F0dKemu_mew/Y69BQN86-_I/AAAAAAAA8QI/Tl27OGMSJFgk6gUP97Ayx3YL33hgxXvBgCNcBGAsYHQ/s270/2029-Megaera-Hades-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F0dKemu_mew/Y69BQN86-_I/AAAAAAAA8QI/Tl27OGMSJFgk6gUP97Ayx3YL33hgxXvBgCNcBGAsYHQ/s270/2029-Megaera-Hades-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Aa7nSbRJfRY/Y6840deZrUI/AAAAAAAA8MI/ujqCAd4Y7MI_2qQ9qd0A2S7vjm0ZsUteQCNcBGAsYHQ/s135/2029-Megaera-Hades-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U8llih_7qLo/Y6840_jAPLI/AAAAAAAA8MM/XDrcLfVQIn8Pt0uc1ZARtJ2Cs0-xgppMQCNcBGAsYHQ/s135/2029-Megaera-Hades-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0d9AhowrkB0/Y6841H_BzaI/AAAAAAAA8MQ/JUjjyJKDKcgzvf2U9D-f4ZtUx_-3Yc_xQCNcBGAsYHQ/s135/2029-Megaera-Hades-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0vuzHLkUolk/Y6841cYSqtI/AAAAAAAA8MU/s5qq3nnTAScih1XofLAv26Eb-2jAOJeHwCNcBGAsYHQ/s135/2029-Megaera-Hades-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mLUFkAMNibc/Y6841hyLkFI/AAAAAAAA8MY/8RSL19BdJMcwJwbM8c-VtUfnN0JjjKFtQCNcBGAsYHQ/s135/2029-Megaera-Hades-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2029/",
+      "fetched_at": "2026-05-16T19:10:33.794Z",
+      "raw_id": "/nendoroid/details/n2029/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.810Z",
+      "raw_id": "Nendoroid/2000-2099/2029.json"
+    }
+  ]
+}

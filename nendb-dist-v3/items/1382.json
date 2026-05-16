@@ -1,0 +1,69 @@
+{
+  "num": "1382",
+  "name": {
+    "en": "Nendoroid Armin Arlert: Survey Corps Ver.",
+    "ja": "ねんどろいど アルミン・アルレルト 調査兵団 Ver. (ねんどろいど あるみん・あるれると ちょうさへいだん Ver.)",
+    "ko": "아르민 알레르토: 조사병단 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13971,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X3yv7Gh3NDU/ZA3d9rLGEzI/AAAAAAAA9JY/GFEWD_as8mUTSUzRwz5vBDe1z6aB5JaFACNcBGAsYHQ/s270/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X3yv7Gh3NDU/ZA3d9rLGEzI/AAAAAAAA9JY/GFEWD_as8mUTSUzRwz5vBDe1z6aB5JaFACNcBGAsYHQ/s270/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O9vgzSlVgCU/ZA3ceZ8nnoI/AAAAAAAA87Y/o58k2UQ8-T0rJlokJfGXbeYRGswc_9fPQCNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-92F7MKhbX0c/ZA3ceuzJCFI/AAAAAAAA87c/Ewz7sgpMBb8YlYkp4v2mQlz0zcgOxbNnACNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9cwGhb3vZ6Y/ZA3cfMirLaI/AAAAAAAA87g/vRTrUpSdzIorAxOzG0pCUMz5nT1eqj_pwCNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yRrgYE4HXVk/ZA3cfpqoP0I/AAAAAAAA87k/wdqdK5rfrBQw8IPQxu21NfzGOmthtMuGgCNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-77_GI7VKwbo/ZA3cgC9kYoI/AAAAAAAA87o/qYWW1H4lf2sGh-whtDhPiYzKtaiOG5_zwCNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-U_4HN-Vyqd8/ZA3cgmpZxJI/AAAAAAAA87s/MSQlgK9ibLsJKeS4W1eqhMqle-nJXA0KgCNcBGAsYHQ/s135/1382-Armin-Arlert-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1382/",
+      "fetched_at": "2026-05-16T19:10:33.395Z",
+      "raw_id": "/nendoroid/details/n1382/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.652Z",
+      "raw_id": "Nendoroid/1300-1399/1382.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0373",
+  "name": {
+    "en": "Nendoroid Mana Kamaishi (ねんどろいど かまいしまな)",
+    "ja": "ねんどろいど 釜石まな (ねんどろいど かまいしまな)",
+    "ko": "카마이시 마나"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4070,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4081,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NvBHegLW2hs/X4NM-i7fR2I/AAAAAAABlkE/JB0SGfqUo5MDu0we1tEmy2s3QaeJQYSmACLcBGAsYHQ/s270/373-Mana-Kamaishi-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NvBHegLW2hs/X4NM-i7fR2I/AAAAAAABlkE/JB0SGfqUo5MDu0we1tEmy2s3QaeJQYSmACLcBGAsYHQ/s270/373-Mana-Kamaishi-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kFCJ0rmP4HA/X4dbRWCWwYI/AAAAAAAArLQ/EaizhMueVz8Wg63891V21Uoe7amZbEbyQCLcBGAsYHQ/s135/373-Mana-Kamaishi-Tetsudou-Musume-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LHUzAK_IHVs/X4dbRWPLPRI/AAAAAAAArLM/ACeRPDEfRJAjcdKZh1lArwefrotogNFKQCLcBGAsYHQ/s135/373-Mana-Kamaishi-Tetsudou-Musume-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PCuDMEsKxYA/X4dbRuLdJoI/AAAAAAAArLU/zHeyvp0wlGEEmMzUQt7os12p38ADDpumwCLcBGAsYHQ/s135/373-Mana-Kamaishi-Tetsudou-Musume-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-V_atR2ct0Ds/X4dbR9fjjVI/AAAAAAAArLY/tTHVIT188Mo7ntWnkQl0ZutkXcplxnPEgCLcBGAsYHQ/s135/373-Mana-Kamaishi-Tetsudou-Musume-Video-Game-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n373/",
+      "fetched_at": "2026-05-16T19:10:34.490Z",
+      "raw_id": "/nendoroid/details/n373/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.364Z",
+      "raw_id": "Nendoroid/0300-0399/373.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "2189",
+  "name": {
+    "en": "Nendoroid Nadeshiko Kagamihara: School Uniform Ver.",
+    "ja": "ねんどろいど 各務原なでしこ 制服Ver. (ねんどろいど かがみはらなでしこ せいふくVer.)",
+    "ko": "카가미하라 나데시코 교복Ver."
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠Δ",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14487,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-I1r2pGoDc70/ZKXXRO0jLII/AAAAAAAA-ks/aIByH73Vd0IephaCkXGDnS_rRcPTa4-VACNcBGAsYHQ/s270/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-I1r2pGoDc70/ZKXXRO0jLII/AAAAAAAA-ks/aIByH73Vd0IephaCkXGDnS_rRcPTa4-VACNcBGAsYHQ/s270/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7ropShh2XAc/ZKXmddkuTYI/AAAAAAAA_CM/rsCHHbMRUQIlCJdT84AHh2xg32f9NSzyACNcBGAsYHQ/s135/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T75Z_rycvS0/ZKXmd9cdXhI/AAAAAAAA_CQ/ORQu-UUtxQsr1wp1xwKY8-1Mx9uXLn35gCNcBGAsYHQ/s135/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6y6WvPJM7KA/ZKXmeS-pMUI/AAAAAAAA_CU/Fu-3pCoVo7UtAIXlbFxqRvc2pqUfnKOWQCNcBGAsYHQ/s135/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x8kxUHBUQJk/ZKXmeqMG9wI/AAAAAAAA_CY/RtAFA4XdyasuXEnpa3sxMOMLb05DzoWrgCNcBGAsYHQ/s135/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3vGdphMGFWI/ZKXme8OsA-I/AAAAAAAA_Cc/24baOQ9r4lAQy0-i8pF-jW-8MtobB9z6ACNcBGAsYHQ/s135/2189-Nadeshiko-Kagamihara-Laid-Back-Camp-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2189/",
+      "fetched_at": "2026-05-16T19:10:33.891Z",
+      "raw_id": "/nendoroid/details/n2189/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.850Z",
+      "raw_id": "Nendoroid/2100-2199/2189.json"
+    }
+  ]
+}

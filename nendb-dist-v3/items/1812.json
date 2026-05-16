@@ -1,0 +1,71 @@
+{
+  "num": "1812",
+  "name": {
+    "en": "Nendoroid Kento Nanami",
+    "ja": "ねんどろいど 七海建人 (ねんどろいど ななみけんと)",
+    "ko": "나나미 켄토"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12289,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--D2XOBfd0IQ/YhAE2kvluCI/AAAAAAAA3lY/_YR-N78liTgOtiQ4JhNIUsfXEh2VIYgaACNcBGAsYHQ/s270/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--D2XOBfd0IQ/YhAE2kvluCI/AAAAAAAA3lY/_YR-N78liTgOtiQ4JhNIUsfXEh2VIYgaACNcBGAsYHQ/s270/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9Lie4OtUzyc/YhAMMc4_oSI/AAAAAAAA3u0/0EJq0W5BSx4I0Uo0nPo0ggMEO_JFj1exgCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Fy_1E-Mfgw0/YhAMMYfFaiI/AAAAAAAA3uw/OtjnI9EH2FwvYMnwdl3u_8DjmznI631vgCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8oES7b1uZZo/YhAMM0OnfmI/AAAAAAAA3u4/q8D0pGm9f8glZwF-4aAsg2lj1XWs7KOvwCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Cx7zbLf87sM/YhAMNeHG8xI/AAAAAAAA3u8/fMzeJ93CHlU4pPf4WgNKRh8ltfWXK7IjgCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tzro3nobs-Y/YhAMNpQoJKI/AAAAAAAA3vE/2nw8VXjvYuEzgkAdMJHBxwI-PsqWKZCUQCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-F_tJNP4jlrQ/YhAMNuC5sbI/AAAAAAAA3vA/E-Dpwo9bsR05FF0ApgkD__mniPbYr5lVwCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-so54xVKqioI/YhAMOFJQVLI/AAAAAAAA3vI/6ZPbBt9rswUZ7ijWKD6SP3yLJMWQo3G0gCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-ocV7tdzuwNs/YhAMLxKUURI/AAAAAAAA3us/qr5PW6qF0049ygU19lMhznUPfPWr1quPQCNcBGAsYHQ/s135/1812-Kento-Nanami-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1812/",
+      "fetched_at": "2026-05-16T19:10:33.663Z",
+      "raw_id": "/nendoroid/details/n1812/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.757Z",
+      "raw_id": "Nendoroid/1800-1899/1812.json"
+    }
+  ]
+}

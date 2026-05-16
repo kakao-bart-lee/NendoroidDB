@@ -1,0 +1,69 @@
+{
+  "num": "1124",
+  "name": {
+    "en": "Nendoroid Mai Sakurajima",
+    "ja": "ねんどろいど 桜島麻衣 (ねんどろいど さくらじままい)",
+    "ko": "사쿠라지마 마이"
+  },
+  "series": {
+    "en": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "ja": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "ko": "청춘 돼지 시리즈",
+    "code": "rascal-does-not-dream-of-bunny-girl-senpai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8321,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AfjtMhMPJ9w/X4NgXsmH9JI/AAAAAAABmaA/G7r41EPgFl8KtkxfB7ENITx7-irTgKzVACLcBGAsYHQ/s270/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AfjtMhMPJ9w/X4NgXsmH9JI/AAAAAAABmaA/G7r41EPgFl8KtkxfB7ENITx7-irTgKzVACLcBGAsYHQ/s270/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sJm5zANzM7s/X4rv7OaRi3I/AAAAAAABpDc/3Xc9rIAbz0Q_bygqjjhpDp4vErlyC_NBwCLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Hv2R2TVZX3A/X4rv7YssjbI/AAAAAAABpDg/HhkW3aoMnKQb0gNYO1a_30RWt06ronnTQCLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tfHD87erdnw/X4rv7vZrDzI/AAAAAAABpDk/LCzsVpQQn9sfMOCjsIx7pLDnqRb0kZ2qACLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Nm20i4IKxag/X4rv79toTNI/AAAAAAABpDo/qPX9ilelHyM6wu3ZuOqgW41rQ9pzL4UkACLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DOlcWfNZPuE/X4rv8BdIJYI/AAAAAAABpDs/cFCTOIWyvVY49lpkv1e9LUq4VzUMod90ACLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WGQx914Smbk/X4rv8RSA7AI/AAAAAAABpDw/hDZ15lxD5y0mZFPeZhtmOpiRHMs9ykDdQCLcBGAsYHQ/s135/1124-Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1124/",
+      "fetched_at": "2026-05-16T19:10:33.235Z",
+      "raw_id": "/nendoroid/details/n1124/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.590Z",
+      "raw_id": "Nendoroid/1100-1199/1124.json"
+    }
+  ]
+}

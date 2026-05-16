@@ -1,0 +1,68 @@
+{
+  "num": "1514",
+  "name": {
+    "en": "Nendoroid Sesshomaru",
+    "ja": "ねんどろいど 殺生丸 (ねんどろいど せっしょうまる)",
+    "ko": "셋쇼마루"
+  },
+  "series": {
+    "en": "Inuyasha",
+    "ja": "犬夜叉",
+    "ko": "이누야샤",
+    "code": "inuyasha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10398,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uNSgfdP1nik/X67o2XXjJ7I/AAAAAAAAukQ/bXnXqxDU8tIXOwwoaMRVA1XyoEQ9Ha3PwCLcBGAsYHQ/s270/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uNSgfdP1nik/X67o2XXjJ7I/AAAAAAAAukQ/bXnXqxDU8tIXOwwoaMRVA1XyoEQ9Ha3PwCLcBGAsYHQ/s270/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UXoUut3iUz4/X67pKu1NOyI/AAAAAAAAulA/X7papGTWUToGNCWeigQdbC53Z5MBY4jdACLcBGAsYHQ/s135/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yo8uC-UNDCs/X67pLM5DucI/AAAAAAAAulE/ifErrCr21KYvADmxeHEcdmVd_El74dKpwCLcBGAsYHQ/s135/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Aew0HAnGdvw/X67pLkMKgVI/AAAAAAAAulI/h6UKya1ZOvIl6YUnzqHOB3Phl09X0KkGgCLcBGAsYHQ/s135/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wQuai6n8Ykk/X67pMDrY0hI/AAAAAAAAulM/WGfrt5pZaToNRBS1bPclYq4hNtAsIfvPQCLcBGAsYHQ/s135/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oDGsxm0J9XQ/X67pMsxmQoI/AAAAAAAAulQ/9FoleE8NcY4bJOeKEjkKIcf5Ti3lLy6QwCLcBGAsYHQ/s135/1514-Sesshomaru-Inuyasha-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1514/",
+      "fetched_at": "2026-05-16T19:10:33.476Z",
+      "raw_id": "/nendoroid/details/n1514/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.684Z",
+      "raw_id": "Nendoroid/1500-1599/1514.json"
+    }
+  ]
+}

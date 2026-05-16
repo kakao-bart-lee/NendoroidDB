@@ -1,0 +1,70 @@
+{
+  "num": "1832",
+  "name": {
+    "en": "Nendoroid Jack Howl",
+    "ja": "ねんどろいど ジャック・ハウル (ねんどろいど じゃっく・はうる)",
+    "ko": "잭 하울"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12346,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-42xxPZUctWA/YliMh7AqelI/AAAAAAAA5LY/rTmZtOonWsAeNdFtKv7vkRHGqlnnzxLmgCNcBGAsYHQ/s270/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-42xxPZUctWA/YliMh7AqelI/AAAAAAAA5LY/rTmZtOonWsAeNdFtKv7vkRHGqlnnzxLmgCNcBGAsYHQ/s270/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yY-zeppzCNY/YliVObDHPoI/AAAAAAAA5Rg/GASeBOYfkhULRCyQ5h-pzhFWRhuW_2ukwCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1WYdLjw8p60/YliVOlxSjOI/AAAAAAAA5Rk/oD1qNbt1EjcnYxN6UWhv_fVrhAHThRDaACNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6lw16lj5lQw/YliVPJqUY-I/AAAAAAAA5Ro/IgKYErnnRFA8MlFljlE7f35c6URgVix8QCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-80P9AY9ATmI/YliVPu_KODI/AAAAAAAA5Rs/EMCN2W17ai0IzQVZL3sSQr81peoU8MKMwCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dmJLTPiAyCQ/YliVP9Fz4SI/AAAAAAAA5Rw/jEzxqQtjGd4EfDj_THdnS77BITa7yqsMQCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pEg6ahMS0dA/YliVQKTB6yI/AAAAAAAA5R0/EkFlQnr88FUjBreQElpyKuu9-p_ndDUuQCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mbq1t7sJ8xo/YliVQaqlYOI/AAAAAAAA5R4/6pqFNuwjSa8hcyrXBg83kxXK1qx2QERqQCNcBGAsYHQ/s135/1832-Jack-Howl-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1832/",
+      "fetched_at": "2026-05-16T19:10:33.675Z",
+      "raw_id": "/nendoroid/details/n1832/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.762Z",
+      "raw_id": "Nendoroid/1800-1899/1832.json"
+    }
+  ]
+}

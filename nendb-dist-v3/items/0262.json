@@ -1,0 +1,67 @@
+{
+  "num": "0262",
+  "name": {
+    "en": "Nendoroid Ricotta Elmar (ねんどろいど りこった・えるまーる)",
+    "ja": "ねんどろいど リコッタ・エルマール (ねんどろいど りこった・えるまーる)",
+    "ko": "리코타 엘마르"
+  },
+  "series": {
+    "en": "DOG DAYS",
+    "ja": "DOG DAYS",
+    "ko": "DOG DAYS",
+    "code": "dog-days"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3602,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9e567qdJrxc/X4NLUnqJc_I/AAAAAAABlZI/631fzHoTTtkNsmYogz7XRjIWQO4HXnITwCLcBGAsYHQ/s270/262-Ricotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9e567qdJrxc/X4NLUnqJc_I/AAAAAAABlZI/631fzHoTTtkNsmYogz7XRjIWQO4HXnITwCLcBGAsYHQ/s270/262-Ricotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5XU4VNXBFYs/X4dX7BYYnXI/AAAAAAAAqlA/gfMuY7F0JEYbqdkm_Ntsetcbqzjm-LlKgCLcBGAsYHQ/s135/262-Riccotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-D2KFHnvLY3Q/X4dX7fdXTGI/AAAAAAAAqlE/YMcbEzQnzK89WxSE2osVf-5qTlZopjvbACLcBGAsYHQ/s135/262-Riccotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8kENKdwbjrc/X4dX7h1gtSI/AAAAAAAAqlI/4lpT9QjZ5_0zssLSMl7UeIv6xKJ3QlgzACLcBGAsYHQ/s135/262-Riccotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wOWydkpttLc/X4dX71mRuOI/AAAAAAAAqlM/15kPKjPTruwt0myCiKCh4cPQpqx6esCGwCLcBGAsYHQ/s135/262-Riccotta-Elmar-Dog-Days-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n262/",
+      "fetched_at": "2026-05-16T19:10:34.176Z",
+      "raw_id": "/nendoroid/details/n262/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.335Z",
+      "raw_id": "Nendoroid/0200-0299/262.json"
+    }
+  ]
+}

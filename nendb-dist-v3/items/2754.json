@@ -1,0 +1,60 @@
+{
+  "num": "2754",
+  "name": {
+    "en": "P3R Protagonist",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Persona",
+    "ja": null,
+    "ko": null,
+    "code": "persona"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajDqdHhI-pOjfaY10bHhA5ZyVEKdUgDS7CHNsg-Jfc98LNCPsQ7XIQ6z_BKxBheYEt2MatDlSK1TlTirFTrv_7VyXdQHm8ohtbnd8_Ap5w3d7_BJdXPtT2KSDKY8neFjBF6DFjJSBJfm7rR8rMPIeLqVOwwVfSMSpz3PkuIWXOB3AvVKKvNhf8UT_6G9n/s270/2754-P3R-Protagonist-Persona-3-Reload-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajDqdHhI-pOjfaY10bHhA5ZyVEKdUgDS7CHNsg-Jfc98LNCPsQ7XIQ6z_BKxBheYEt2MatDlSK1TlTirFTrv_7VyXdQHm8ohtbnd8_Ap5w3d7_BJdXPtT2KSDKY8neFjBF6DFjJSBJfm7rR8rMPIeLqVOwwVfSMSpz3PkuIWXOB3AvVKKvNhf8UT_6G9n/s270/2754-P3R-Protagonist-Persona-3-Reload-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGs8Kapsg0Qw3sW7btDIx-pL_C5qcShkYze3TsRES995cHHmQ6CDD-uytKIIBqsbQgoJgSmLRSmQV4SNuKP1mr33VH7InMmTL3rY2tDs4Br1q_ES4wJKe8agwRZJNyeGYJEp_4pvMVo9ZtVODEtJaffM-ko-dE_4LIrNDq_tVxUlSOx5oBkCmGZCK40oi/s135/2754-P3R-Protagonist-Persona-3-Reload-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitpLxqV7qtyyOMdBto_GG1-ZSuQiy-tIXnu9ePI3wmEoiw1iLOimtWi5H4us_GC2ZpGJ_4c55sv1TTPVlKw4j8tMCzL7E-0dHQoDMM5YtsoGNnZHVKTH4FEY6Oc1FQYpAO8WKZWQjKxZX2EooO2Lpuh6o2Y3Dpl5SjlRqqaLLS-E_iSuMxAyZupU3erW6o/s135/2754-P3R-Protagonist-Persona-3-Reload-Video-Games-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2754/",
+      "fetched_at": "2026-05-16T19:10:34.273Z",
+      "raw_id": "/nendoroid/details/n2754/"
+    }
+  ]
+}

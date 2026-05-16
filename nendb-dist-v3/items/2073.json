@@ -1,0 +1,70 @@
+{
+  "num": "2073",
+  "name": {
+    "en": "Nendoroid Sariel",
+    "ja": "ねんどろいど Sariel (ねんどろいど さりえる)",
+    "ko": "치스리"
+  },
+  "series": {
+    "en": "Light and Night",
+    "ja": "光と夜の恋",
+    "ko": "광여야지연",
+    "code": "light-and-night"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14801,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oFTkvgwMf2c/ZQoU0-ls0_I/AAAAAAABBik/cAb9Ao6SR2o2axwXCVXlllSCsh7MCsnyACNcBGAsYHQ/s270/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oFTkvgwMf2c/ZQoU0-ls0_I/AAAAAAABBik/cAb9Ao6SR2o2axwXCVXlllSCsh7MCsnyACNcBGAsYHQ/s270/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-amqvNutlBwQ/ZQsgPAX1_TI/AAAAAAABBmI/qVRVEGryw8EfVOgqm_JeigfVgJjWx8OTACNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R_13pImRW9E/ZQsgPWourbI/AAAAAAABBmM/tCn7eebZFwo9Vwl5R_t-H8R89MkPATmagCNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YIKph6XObcw/ZQsgP7EDhsI/AAAAAAABBmQ/29jxOJ1hcyQY3tspH2pw3LVIbahIm6szwCNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x_H6wAAy9Ko/ZQsgQU16M2I/AAAAAAABBmU/njzSeTEhWhAgCehiv4M8WiyOH7JCFbTvwCNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--myf5ZjT8sg/ZQsgQ3Kj4sI/AAAAAAABBmY/RFmLiUg3be0_aZ08T6xKC68DNr61RQlYACNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-A9ocyb9Vw5M/ZQsgRcZdWwI/AAAAAAABBmc/Mcp7NxwGJngMPiQ-wFx4aj365UE1LbrEQCNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-B6F6aEs0UMU/ZQsgRz6dXhI/AAAAAAABBmg/VECfgoPzc1og76Y8UX0XXt-uwo5lH-o2gCNcBGAsYHQ/s135/2073-Sariel-Light-and-Night-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2073/",
+      "fetched_at": "2026-05-16T19:10:33.823Z",
+      "raw_id": "/nendoroid/details/n2073/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.820Z",
+      "raw_id": "Nendoroid/2000-2099/2073.json"
+    }
+  ]
+}

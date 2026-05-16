@@ -1,0 +1,61 @@
+{
+  "num": "3004",
+  "name": {
+    "en": "Sayaka Miki",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": null,
+    "ko": null,
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqC217SF8xNmJ4zScR4cUywFkOvhdMCnTallrhh2HDN3U_8eNybDC1xfx7o9fweWy7E1ALR5SCbb2Psf35cPwUpQUCdllyKH1LA8b53fQo3q1jPhsx7Bak2X-x1jla1RFaeNJu9DPVtjMvvyUg9XlBgvzVW7mc4lqVTu5tKSl1e27z6oqOvw_xsyUO79hH/s270/3004-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqC217SF8xNmJ4zScR4cUywFkOvhdMCnTallrhh2HDN3U_8eNybDC1xfx7o9fweWy7E1ALR5SCbb2Psf35cPwUpQUCdllyKH1LA8b53fQo3q1jPhsx7Bak2X-x1jla1RFaeNJu9DPVtjMvvyUg9XlBgvzVW7mc4lqVTu5tKSl1e27z6oqOvw_xsyUO79hH/s270/3004-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbeTgj6Dt_ycDF8eftIWEwGho2CJlstedF0o50Zrc-LgWYQv5vgH-Ua_Ute0L8bFBCmn22QScrFlaTfWFaZ9IppqUEuAQ_4UpMY3gO2_aObXUe_QlLe8tC8KWlmklyfeiUaHelQMgZF2O0XouXOsEwJi_w-vRioKWvCLzG8rnHp7WXPeIkYOgF6_v1t5U/s135/3004-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzzh0WWs-8CWCoSCh1-12ireLtPrX_-f-D-JHLGCqJBKIDqtKtkXH5Txf6ukyMuLeopr7uJ32n2wJTmXmQkrp9MuDiieS_XHmIsuATTAYyyrDdEcznBZi013lG7PldL3N0W7kbSjNeVvD_3gN0tWoVN2Ced0aoOSR19dTFZRpqAon1mK7pN6ZKVVQu0Pyg/s135/3004-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBfS68CTvhQ_UsjBAxrknCyrdXz_Fp-NeyRD5Iv-I7mUXGGq2C0HDSoDQR0MfzFlZuZIDiXdAlS3MY_EWLlpoPq3SLhp19qDEAEwYqlSdVEBgkH1dtn8Apg9pX5kzxlqmn4yCaQ4ShXV4ve_bXueGxr1HYxWXK0-Parss630XHLJf1Fbgyo1lSl6WlyMVU/s135/3004-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Walpurgisnacht-Rising-Anime-and-Manga-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3004/",
+      "fetched_at": "2026-05-16T19:10:34.426Z",
+      "raw_id": "/nendoroid/details/n3004/"
+    }
+  ]
+}

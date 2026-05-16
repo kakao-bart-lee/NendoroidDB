@@ -1,0 +1,69 @@
+{
+  "num": "0852",
+  "name": {
+    "en": "Nendoroid Lana",
+    "ja": "ねんどろいど スイレン (ねんどろいど すいれん)",
+    "ko": "수련"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6851,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-blbw6ZWyh8c/X4Nd3KxcANI/AAAAAAABmF8/NC03pC4b8PU4Jjzirgk4SML-tBTTbJLLwCLcBGAsYHQ/s270/852-Lana-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-blbw6ZWyh8c/X4Nd3KxcANI/AAAAAAABmF8/NC03pC4b8PU4Jjzirgk4SML-tBTTbJLLwCLcBGAsYHQ/s270/852-Lana-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2iDP_6nu2jY/X4rjNkgrSaI/AAAAAAABnSs/K5uXGxzjL6IZuBF3cKTd4GElY1ryi29zwCLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yG7QPeQa250/X4rjNvohRuI/AAAAAAABnSw/-QNCOq4eXr0Z95BqMrqE80kJmnkAV2upQCLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-C-FYWeitGYA/X4rjOJlnZJI/AAAAAAABnS0/K9pf72u_VSAlaov6idwYEPDdVurlWpTbwCLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pWre6QiERzI/X4rjOKKjerI/AAAAAAABnS4/vaoJUFdxmnQT6HYz1jRXCbhbR2b27h3OACLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gNxszjrnzJQ/X4rjOYvnupI/AAAAAAABnS8/s1w7Y8FrrHQWuWBQ2XbLJzERbCf8IotTgCLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JbexW8jpyQ0/X4rjO2TQsjI/AAAAAAABnTA/FexXhMVjg5UwqQG78XdGoQnfjFUn0pCLACLcBGAsYHQ/s135/852-Lana-Pokemon-Sun-and-Moon-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n852/",
+      "fetched_at": "2026-05-16T19:10:34.836Z",
+      "raw_id": "/nendoroid/details/n852/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.522Z",
+      "raw_id": "Nendoroid/0800-0899/852.json"
+    }
+  ]
+}

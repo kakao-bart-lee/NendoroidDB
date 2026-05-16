@@ -1,0 +1,71 @@
+{
+  "num": "1648",
+  "name": {
+    "en": "Nendoroid Sei Takanashi",
+    "ja": "ねんどろいど 小鳥遊 聖 (ねんどろいど たかなし せい)",
+    "ko": "타카나시 세이"
+  },
+  "series": {
+    "en": "The Saint's Magic Power is Omnipotent",
+    "ja": "聖女の魔力は万能です",
+    "ko": "성녀의 마력은 만능입니다",
+    "code": "the-saint-s-magic-power-is-omnipotent"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11242,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tsWwYfvkaYU/YL_Ux_o35KI/AAAAAAAAyQM/CERQydM-CL4FiY-ZKGftvj2msBQtjxMKACLcBGAsYHQ/s270/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tsWwYfvkaYU/YL_Ux_o35KI/AAAAAAAAyQM/CERQydM-CL4FiY-ZKGftvj2msBQtjxMKACLcBGAsYHQ/s270/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wgEBxTctCoo/YL_dIaKGX4I/AAAAAAAAyZc/pNwIz-grH-cmiYLRKvD3c-zBf3j6gCCFwCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t9qRegdRuNE/YL_dIf2j8mI/AAAAAAAAyZg/9rqgxfZrQGsUxpiv5Nh1UVA3VyAd7s9yQCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CXAeiFa3tik/YL_dIvnc7dI/AAAAAAAAyZo/-uOLqVcvobYdOMGIYQ2rMaL8G4eL9W_4QCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G4KslnDYfBg/YL_dI2ouZiI/AAAAAAAAyZk/JxMP84MMruEg9dxsmZT6EwMAV7OQ6f0zACLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FuwQOX6_8MM/YL_dI5eAQAI/AAAAAAAAyZs/bxdUFv7OOvAGa7HA6-XliufTbN97oMGzQCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pjApqii4wSQ/YL_dJiE9eHI/AAAAAAAAyZw/t4CgCIj2NUM0a2j_lujObnhz7DeaVTfnQCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-gWf54axQg-w/YL_dKEbr3fI/AAAAAAAAyZ0/QBM9pMBv2TQcAhAp65VXUJTLqjuNgOkowCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-Hg3MLcEGAj4/YL_dIG6tBnI/AAAAAAAAyZY/zNuumtCmA6QORoJbduFv1beX2mB1VHPvwCLcBGAsYHQ/s135/1648-Sei-Takanashi-The-Saints-Magic-Power-is-Omnipotent-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1648/",
+      "fetched_at": "2026-05-16T19:10:33.558Z",
+      "raw_id": "/nendoroid/details/n1648/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.717Z",
+      "raw_id": "Nendoroid/1600-1699/1648.json"
+    }
+  ]
+}

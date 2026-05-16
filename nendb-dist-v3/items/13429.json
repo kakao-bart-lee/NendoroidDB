@@ -1,0 +1,55 @@
+{
+  "num": "13429",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Rem/Ram",
+    "ja": "ねんどろいどどーる おようふくセット レム・ラム (ねんどろいどどーる おようふくせっと れむ・らむ)",
+    "ko": "렘/람 의상"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re:제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13429,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221019/13429/106196/large/32b8f4f6ba36edcc5e51d94c770213f3.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.932Z",
+      "raw_id": "NendoroidDoll/Clothes/13429.json"
+    }
+  ]
+}

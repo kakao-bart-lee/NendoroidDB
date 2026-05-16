@@ -1,0 +1,68 @@
+{
+  "num": "2132",
+  "name": {
+    "en": "Nendoroid Elias Ainsworth: Season 2 Ver.",
+    "ja": "ねんどろいど エリアス・エインズワース SEASON2 Ver. (ねんどろいど えりあす・えいんずわーす しーずん2 Ver.)",
+    "ko": "엘리아스 에인스워스 시즌2 Ver."
+  },
+  "series": {
+    "en": "The Ancient Magus' Bride Season 2",
+    "ja": "魔法使いの嫁 SEASON2",
+    "ko": "마법사의 신부",
+    "code": "the-ancient-magus-bride-season-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14350,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sQ8_d-CGBN4/ZIzT3GpDu-I/AAAAAAAA-PU/SoM18XUJFAUH4OWtZhCzMJ2MMrrjLlXMwCNcBGAsYHQ/s270/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sQ8_d-CGBN4/ZIzT3GpDu-I/AAAAAAAA-PU/SoM18XUJFAUH4OWtZhCzMJ2MMrrjLlXMwCNcBGAsYHQ/s270/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oEP-4Ck5IdA/ZIzVugwLqBI/AAAAAAAA-To/544BhF_KP2wWA4HPLVcC5PsGGZP9P8KcgCNcBGAsYHQ/s135/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HHtctR5w14g/ZIzVu9gXf3I/AAAAAAAA-Ts/WzMJvu__u1kJPHM5crPkpu0z5wEa4P6AwCNcBGAsYHQ/s135/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LJYJeTjkSNs/ZIzVvDDoM3I/AAAAAAAA-Tw/3mV7uJnmuP0uOLEJf8OuYWxIgR_MYbqRwCNcBGAsYHQ/s135/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QRKMELUi2wg/ZIzVva9NhsI/AAAAAAAA-T0/J25uGOc7EnIa42HZ7x9pbR0TcajPFGRugCNcBGAsYHQ/s135/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BFqJ2MLkVmI/ZIzVvoFTDWI/AAAAAAAA-T4/viqoQYn48RUdSOZFlb9opxZRTL9V-uPTACNcBGAsYHQ/s135/2132-Elias-Ainsworth-The-Ancient-Magus-Bride-Season-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2132/",
+      "fetched_at": "2026-05-16T19:10:33.858Z",
+      "raw_id": "/nendoroid/details/n2132/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.834Z",
+      "raw_id": "Nendoroid/2100-2199/2132.json"
+    }
+  ]
+}

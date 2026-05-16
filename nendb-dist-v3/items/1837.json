@@ -1,0 +1,70 @@
+{
+  "num": "1837",
+  "name": {
+    "en": "Nendoroid Tetsuro Kuroo: Second Uniform Ver.",
+    "ja": "ねんどろいど 黒尾鉄朗 セカンドユニフォームVer. (ねんどろいど くろおてつろう せかんどゆにふぉーむVer.)",
+    "ko": "쿠로오 테츠로 세컨드 유니폼 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12388,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-aSrT7NMq8q4/YliMi2_3_oI/AAAAAAAA5Ls/a1K0deW3_0YJAuv7gr7l_tSxD9VzcTa1ACNcBGAsYHQ/s270/1837-Tetsuro-Kuroo-Second-Uniform-Ver-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-aSrT7NMq8q4/YliMi2_3_oI/AAAAAAAA5Ls/a1K0deW3_0YJAuv7gr7l_tSxD9VzcTa1ACNcBGAsYHQ/s270/1837-Tetsuro-Kuroo-Second-Uniform-Ver-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4WZk5bJmzrw/YliVaGYCtEI/AAAAAAAA5To/JE8JRbDtQe0FeicT6KN3sYgTLpGlaOIAQCNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EwV_iFjh2i4/YliVad_dIqI/AAAAAAAA5Ts/xp2Z2_zSmcsyXzZSaY3tffQID1jMyNHwACNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eMeYr-XeVCc/YliVaq4WNSI/AAAAAAAA5Tw/NiDdy6JuPNQIl4dC8u6yN2sMi0VwSw5VACNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-E7dxjOrAPg4/YliVbLDGomI/AAAAAAAA5T0/OcpNcq0bYbEYHUfubAAd5D8bSvghY9OZQCNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Q5ObXrRfJWk/YliVbWK1VaI/AAAAAAAA5T4/NCxq8gMFVn4F0EOW9ilNhLARj3xVoXXQwCNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BF1NO_VzOf8/YliVbfAnCBI/AAAAAAAA5T8/YRr_dCU3AS0QRL3KLYjvbTElpsDoSKYLQCNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-jlbcxxAkl_s/YliVbm8lvJI/AAAAAAAA5UA/OBJBi3ooWU0Rkjth3WackgnR5jeHTpY0wCNcBGAsYHQ/s135/1837-Tetsuro-Kuroo-Haikyu-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1837/",
+      "fetched_at": "2026-05-16T19:10:33.677Z",
+      "raw_id": "/nendoroid/details/n1837/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.764Z",
+      "raw_id": "Nendoroid/1800-1899/1837.json"
+    }
+  ]
+}

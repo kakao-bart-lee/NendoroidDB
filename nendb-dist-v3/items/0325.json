@@ -1,0 +1,69 @@
+{
+  "num": "0325",
+  "name": {
+    "en": "Nendoroid Demon King (ねんどろいど まおう)",
+    "ja": "ねんどろいど 魔王 (ねんどろいど まおう)",
+    "ko": "마왕"
+  },
+  "series": {
+    "en": "DEMON KING AND HERO",
+    "ja": "まおゆう魔王勇者",
+    "ko": "마오유우 마왕용사",
+    "code": "demon-king-and-hero"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3896,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_Zly3HA033Y/X4NMpv-P4aI/AAAAAAABlg8/KdtD3xqfe6gwedCYUPXL6Mokc9PYuDr2QCLcBGAsYHQ/s270/325-Demon%2BKing-DEMON%2BKING%2BAND%2BHERO-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_Zly3HA033Y/X4NMpv-P4aI/AAAAAAABlg8/KdtD3xqfe6gwedCYUPXL6Mokc9PYuDr2QCLcBGAsYHQ/s270/325-Demon%2BKing-DEMON%2BKING%2BAND%2BHERO-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2tjsbGpA0wo/X4daV2O0bII/AAAAAAAAq7g/8sUFGUbwZvEuGVS7aWRvyneWx1ZCnnqyQCLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6_tIapBE2ok/X4daVxUezoI/AAAAAAAAq7o/Q8UYdvdXrUYNj_KJXCRnsiYxfVGF2VzGACLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5Oq0e75D9Ok/X4daWBGyCfI/AAAAAAAAq7k/oo9h86XWzjUwgHDtYZNvEBp6jqS-91lZgCLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j8fgXJf_WVo/X4daWc0_LTI/AAAAAAAAq7s/1Iv8U_rVMEsquT1xOmYPHXjcdu9mgRUWQCLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EwQXSLtc55I/X4daWt4N2FI/AAAAAAAAq7w/mdUcqtABh10eZojOzpLxGQ80UjG1cwDwwCLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-KZUzF0usU9Y/X4daW5FJOgI/AAAAAAAAq70/ku88yZVtsLc1dQHkq6tqPQQNHzIdIRbdACLcBGAsYHQ/s135/325-Demon-King-DEMON-KING-AND-HERO-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n325/",
+      "fetched_at": "2026-05-16T19:10:34.462Z",
+      "raw_id": "/nendoroid/details/n325/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.352Z",
+      "raw_id": "Nendoroid/0300-0399/325.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "0953",
+  "name": {
+    "en": "Nendoroid Maria Teruyasu",
+    "ja": "ねんどろいど 照安鞠亜 (ねんどろいど てるやすまりあ)",
+    "ko": "테루야스 마리아"
+  },
+  "series": {
+    "en": "Little Armory",
+    "ja": "リトルアーモリー",
+    "ko": "리틀 아머리",
+    "code": "little-armory"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7382,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BvCFee-bdg0/X4NerkPoIkI/AAAAAAABmNE/HRSGkIVOspEHus2qA_BZGTp_3K-uRq7UwCLcBGAsYHQ/s270/953-Maria-Teruyasu-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BvCFee-bdg0/X4NerkPoIkI/AAAAAAABmNE/HRSGkIVOspEHus2qA_BZGTp_3K-uRq7UwCLcBGAsYHQ/s270/953-Maria-Teruyasu-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OREp-PAxDM0/X4rojtAl4KI/AAAAAAABn7s/EHG59-hXlnsYuX4xGsms_LNA0cM309_IQCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sPFcQ7RRaTk/X4roj1RpwQI/AAAAAAABn7w/F3xYGLU47IsJI0PwTN501PVPcbQRPFQEACLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7G8FFZ4k9qY/X4rokRsvHsI/AAAAAAABn70/Mqu4pyAWrpgXcB5swW5R-seqj9JlMXRmACLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hDMOkMKCpWk/X4rokVyXNJI/AAAAAAABn74/HC0ahcqDeq4iqUuZsEjB5g51MK9KxSVZQCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mZio8gYNQhY/X4rokwp46dI/AAAAAAABn78/LkHOOS3Caw8OB6Yx0lwtReWHaLg4EXobgCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0lmS1oiVls0/X4rok_TFTYI/AAAAAAABn8A/GQkfsH5Tl-Ejw8I85IIL3k20TEKoJmF4wCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6i901hi9Ue0/X4rolOFljfI/AAAAAAABn8E/FriKouK5FTID5l75dwe3MFhAmoOs6X5jwCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-xnWlrQtZK4c/X4rojutoIZI/AAAAAAABn7o/gkozExgJyD03If8_yaNO-baUt0KezXmigCLcBGAsYHQ/s135/953-Maria-Teruyasu-Little-Armory-Toyline-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n953/",
+      "fetched_at": "2026-05-16T19:10:34.892Z",
+      "raw_id": "/nendoroid/details/n953/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.547Z",
+      "raw_id": "Nendoroid/0900-0999/953.json"
+    }
+  ]
+}

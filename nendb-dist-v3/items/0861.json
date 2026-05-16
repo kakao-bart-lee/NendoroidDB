@@ -1,0 +1,68 @@
+{
+  "num": "0861",
+  "name": {
+    "en": "Nendoroid Beatrice",
+    "ja": "ねんどろいど ベアトリス (ねんどろいど べあとりす)",
+    "ko": "베아트리스"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6917,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-q5QpPWlCAUc/X4Nd6qh6-CI/AAAAAAABmGg/afgd8d2E1Z0vrJnq9Vx7x1wVdIBATBXcQCLcBGAsYHQ/s270/861-Beatrice-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-q5QpPWlCAUc/X4Nd6qh6-CI/AAAAAAABmGg/afgd8d2E1Z0vrJnq9Vx7x1wVdIBATBXcQCLcBGAsYHQ/s270/861-Beatrice-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WD9PPqkNiXw/X4rjZ6v6omI/AAAAAAABnVk/AsEUW7hpU_srVlnUkQj5gCn92Rjf6poVwCLcBGAsYHQ/s135/861-Beatrice-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0RZTw8T3tLI/X4rjaDNoKXI/AAAAAAABnVo/aRzvg2N9lT8GuQsg1vvqxy7ep8ZdO9kQQCLcBGAsYHQ/s135/861-Beatrice-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Hc6_DncFrp4/X4rjaXMCx6I/AAAAAAABnVs/zypud2ellLoOkMtnmQBPEMz4X8-VsttdQCLcBGAsYHQ/s135/861-Beatrice-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wAl_6fUrb3k/X4rjaisUJ2I/AAAAAAABnVw/Jha0yM6jD8krgYVrScNt10a0bXo5LOnvwCLcBGAsYHQ/s135/861-Beatrice-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WzcXQUYtyck/X4rja2j6MxI/AAAAAAABnV0/FAn-FxvIugItr4dNI36DxhwmuDTS87y9wCLcBGAsYHQ/s135/861-Beatrice-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n861/",
+      "fetched_at": "2026-05-16T19:10:34.840Z",
+      "raw_id": "/nendoroid/details/n861/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.524Z",
+      "raw_id": "Nendoroid/0800-0899/861.json"
+    }
+  ]
+}

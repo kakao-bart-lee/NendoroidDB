@@ -1,0 +1,64 @@
+{
+  "num": "2521",
+  "name": {
+    "en": "Kurisu Makise",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Steins;Gate",
+    "ja": null,
+    "ko": null,
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ubljrXWz5DQ/Znspuj_XX1I/AAAAAAABE5Y/U4_RuBO5t_oImcm4miaLkisnUxvkbKuJwCNcBGAsYHQ/s270/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ubljrXWz5DQ/Znspuj_XX1I/AAAAAAABE5Y/U4_RuBO5t_oImcm4miaLkisnUxvkbKuJwCNcBGAsYHQ/s270/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WF1QvaDkF4w/Zow9HvIs1CI/AAAAAAABGKA/Le4s_8KrE_YiQ8NBfNLlA8klkS91cpU6QCNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-94T0I4Beq_I/Zow-GPUyheI/AAAAAAABGPc/mIa19HySjYwWxPF6oC8f_o84o4SAHqlZQCNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KUXpsi_Wf78/Zow9Il_bEOI/AAAAAAABGKI/F9BG7_tMmIord_QSRxL-hV8fhG0gMUkFACNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OdAAS0ZzxvM/Zow9JLMPWCI/AAAAAAABGKM/cffTkdqb-eE3Q-Gnv3dfYo28vSsyQ23qQCNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ddEw2_-7QiY/Zow9Jsh4uMI/AAAAAAABGKQ/A_XX2fACUps7l8PS9jSSV_vSWcB6T92OgCNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xM76wHqDqbE/Zow9KCF8TfI/AAAAAAABGKU/30XAZSUM0TM-GAdsMn6YoE1f-czjbV_0ACNcBGAsYHQ/s135/2521-Kurisu-Makise-Steins%253BGate-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2521/",
+      "fetched_at": "2026-05-16T19:10:34.111Z",
+      "raw_id": "/nendoroid/details/n2521/"
+    }
+  ]
+}

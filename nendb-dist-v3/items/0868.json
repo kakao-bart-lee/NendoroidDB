@@ -1,0 +1,68 @@
+{
+  "num": "0868",
+  "name": {
+    "en": "Nendoroid Kyoko Sakura: Maiko Ver.",
+    "ja": "ねんどろいど 佐倉杏子 舞妓Ver. (ねんどろいど さくらきょうこ まいこVer.)",
+    "ko": "사쿠라 쿄코 마이코 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lIPs7Gyy5fo/X4Nd82_j7oI/AAAAAAABmG8/W9ltVJ1OmWUIngXnZgfU547Y8aPiSK4WACLcBGAsYHQ/s270/868-Kyouko-Sakura-Maiko-Puella-Magi-Madoka-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lIPs7Gyy5fo/X4Nd82_j7oI/AAAAAAABmG8/W9ltVJ1OmWUIngXnZgfU547Y8aPiSK4WACLcBGAsYHQ/s270/868-Kyouko-Sakura-Maiko-Puella-Magi-Madoka-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6qa9W2h_jrs/X4rjrYKu_8I/AAAAAAABnZY/XbtJgWiUwcciPX95Wp8XgLYtp8zUGl29wCLcBGAsYHQ/s135/868-Kyouko-Sakura-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gFkc33rQrzg/X4rjrp-uNuI/AAAAAAABnZc/kzcBdIK929I2Za-ywqs0-zaFRoT1YVY-ACLcBGAsYHQ/s135/868-Kyouko-Sakura-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9e461ipi92E/X4rjr5N00OI/AAAAAAABnZg/n0QL1Qh011gQdD1oBLcy5dWjdnqAUnZywCLcBGAsYHQ/s135/868-Kyouko-Sakura-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QrHzSVaDUrA/X4rjsEVb99I/AAAAAAABnZk/f6ZOonWPLXQFKs5fG6O3RLvCKEGn09VVwCLcBGAsYHQ/s135/868-Kyouko-Sakura-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TOSfFb2_X3A/X4rjsWpCEEI/AAAAAAABnZo/SSKCrts3mjw8xjIZzodVxo_TXwLeGjM3QCLcBGAsYHQ/s135/868-Kyouko-Sakura-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n868/",
+      "fetched_at": "2026-05-16T19:10:34.844Z",
+      "raw_id": "/nendoroid/details/n868/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.526Z",
+      "raw_id": "Nendoroid/0800-0899/868.json"
+    }
+  ]
+}

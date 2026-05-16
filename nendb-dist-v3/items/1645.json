@@ -1,0 +1,72 @@
+{
+  "num": "1645",
+  "name": {
+    "en": "Nendoroid Venom",
+    "ja": "ねんどろいど ヴェノム (ねんどろいど ゔぇのむ)",
+    "ko": "베놈"
+  },
+  "series": {
+    "en": "Marvel Comics",
+    "ja": "Marvel Comics",
+    "ko": "마블 코믹스",
+    "code": "marvel-comics"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11436,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mdIV81UDeGY/YS6Jp5iC_6I/AAAAAAAAz8U/yrpdgHqtFikphQLSr6a7NKPhRzvjEpY3gCLcBGAsYHQ/s270/1645-Venom-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mdIV81UDeGY/YS6Jp5iC_6I/AAAAAAAAz8U/yrpdgHqtFikphQLSr6a7NKPhRzvjEpY3gCLcBGAsYHQ/s270/1645-Venom-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qX8VBJMj9IA/YS6MLAdUpaI/AAAAAAAA0A4/7lTnNWYzhQQ1ic7xWq6MkiDl-uIeDLMcQCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wtj4PCm__3c/YS6MLU6PTVI/AAAAAAAA0A8/owjeojQroRA3K9na5iWsS6p0ZqwoywMlACLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2lUvLfo1vH8/YS6MLTJdcZI/AAAAAAAA0BA/CqazAbYgsXcR85y0rY65R6jUeSxFuAeOwCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MRnVekZVhgc/YS6ML7aLiXI/AAAAAAAA0BE/fI3R9NYV5VEBS1NgpQxLmVa1eKNSCaHBQCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i_zMM4YZySc/YS6MMBSpAtI/AAAAAAAA0BI/b_moVKsiCz09P4KNcVv7s9kNI6IZMrjHQCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tczWYqEZ6ug/YS6MMR3kcsI/AAAAAAAA0BM/6ZEJGx9dJFceWMiBi5oNbGguAVL0hS49wCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Fd3rL_Skp_A/YS6MMYo4_BI/AAAAAAAA0BQ/RDkedgzHeZs-__kvOwvnzsgU4EkaRsGgACLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-Eraf9KhAess/YS6MKrdeTeI/AAAAAAAA0Aw/dTf3qhdC5tsyRlc6UTRRvnve0PPhhtWSwCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-3SIb2N3Eqmo/YS6MK8Z0HII/AAAAAAAA0A0/lZVCp6ydQZo3vn_KqA_Ah0S1ef9Rd7zaQCLcBGAsYHQ/s135/1645-Venom-Venom-Marvel-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1645/",
+      "fetched_at": "2026-05-16T19:10:33.556Z",
+      "raw_id": "/nendoroid/details/n1645/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.717Z",
+      "raw_id": "Nendoroid/1600-1699/1645.json"
+    }
+  ]
+}

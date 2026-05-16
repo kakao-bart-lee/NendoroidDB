@@ -1,0 +1,68 @@
+{
+  "num": "0595",
+  "name": {
+    "en": "Nendoroid Nao Kamiya",
+    "ja": "ねんどろいど 神谷奈緒 (ねんどろいど かみやなお)",
+    "ko": "카미야 나오"
+  },
+  "series": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "code": "the-idolm-ster-cinderella-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5396,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nMHY16VXmHc/X4NOuXcmd8I/AAAAAAABlzg/W-D2lKNWv5ImbuhfdhnPVKkZs_3TtIbrgCLcBGAsYHQ/s270/595-Nao-Kamiya-The-Idolmaster-Cinderalla-Girls-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nMHY16VXmHc/X4NOuXcmd8I/AAAAAAABlzg/W-D2lKNWv5ImbuhfdhnPVKkZs_3TtIbrgCLcBGAsYHQ/s270/595-Nao-Kamiya-The-Idolmaster-Cinderalla-Girls-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_1q5dH-2Bok/X4itoqnibAI/AAAAAAAAsbg/ZUmYv0g569skTT4CdQaqk2O6NKZs33hpgCLcBGAsYHQ/s135/595-Nao-Kamiya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-F8s3O7HwEQc/X4ito4F4ezI/AAAAAAAAsbk/tRfIZZKS-e8UTV6kaMfljt_GfA3XJsFHQCLcBGAsYHQ/s135/595-Nao-Kamiya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2Ckk2stE_5M/X4itpOTjRUI/AAAAAAAAsbo/Xsw8_8_z-g0AwxQVicyz7hVprUiCDoP0ACLcBGAsYHQ/s135/595-Nao-Kamiya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--J9cYaMcIjU/X4itpSg4N7I/AAAAAAAAsbs/G6xswasPdZYEb6tBHtFQyNpp0AoVtf9FwCLcBGAsYHQ/s135/595-Nao-Kamiya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-H7DOnUH5EC8/X4itpRMbuNI/AAAAAAAAsbw/f5n8GtZjO8EzN8ZXX2iWy9gEQ2Q5hs6rgCLcBGAsYHQ/s135/595-Nao-Kamiya-The-Idolm%2540ster-Cinderella-Girls-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n595/",
+      "fetched_at": "2026-05-16T19:10:34.675Z",
+      "raw_id": "/nendoroid/details/n595/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.458Z",
+      "raw_id": "Nendoroid/0500-0599/595.json"
+    }
+  ]
+}

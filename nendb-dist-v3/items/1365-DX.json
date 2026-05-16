@@ -1,0 +1,55 @@
+{
+  "num": "1365-DX",
+  "name": {
+    "en": "Nendoroid Amaterasu DX Ver.",
+    "ja": "ねんどろいど アマテラス DX Ver. (ねんどろいど あまてらす でらっくす Ver.)",
+    "ko": "아마테라스"
+  },
+  "series": {
+    "en": "Okami",
+    "ja": "大神",
+    "ko": "오오카미",
+    "code": "okami"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9428,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200416/9428/69058/large/a4f8a5fd3cffa40cc25e9a6b232a6b49.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.648Z",
+      "raw_id": "Nendoroid/1300-1399/1365-DX.json"
+    }
+  ]
+}

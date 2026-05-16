@@ -1,0 +1,66 @@
+{
+  "num": "0251",
+  "name": {
+    "en": "Nendoroid Hatsune Miku : FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
+    "ja": "ねんどろいど 初音ミク FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
+    "ko": "하츠네 미쿠 패밀리마트 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01 : Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01　初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3558,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KQvC7hHjhqI/X4NLR2lu6tI/AAAAAAABlYc/8uWA1p4eg8QP96NPKqh-BXwfTC7lPMhZwCLcBGAsYHQ/s270/251-Hatsune-Miku-FamilyMart-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KQvC7hHjhqI/X4NLR2lu6tI/AAAAAAABlYc/8uWA1p4eg8QP96NPKqh-BXwfTC7lPMhZwCLcBGAsYHQ/s270/251-Hatsune-Miku-FamilyMart-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EosCqcvua04/X4dXvcThA4I/AAAAAAAAqho/qnZFsz9AvpQqIDsKX06AIJxaraubcpDaQCLcBGAsYHQ/s135/251-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OJHWiMcfV4s/X4dXvfhQDYI/AAAAAAAAqhs/jjSDe1F2r5EUTwQkDqnT903XDZisW6WugCLcBGAsYHQ/s135/251-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-poCF_kHIqJw/X4dXvvsTjRI/AAAAAAAAqhw/irGk7TGyU4QrDCQNlrxlYCrtFq1dkvsqgCLcBGAsYHQ/s135/251-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n251/",
+      "fetched_at": "2026-05-16T19:10:34.110Z",
+      "raw_id": "/nendoroid/details/n251/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.333Z",
+      "raw_id": "Nendoroid/0200-0299/251.json"
+    }
+  ]
+}

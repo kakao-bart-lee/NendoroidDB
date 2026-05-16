@@ -1,0 +1,68 @@
+{
+  "num": "0125",
+  "name": {
+    "en": "Nendoroid Hinagiku Katsura (ねんどろいど かつらひなぎく)",
+    "ja": "ねんどろいど 桂ヒナギク (ねんどろいど かつらひなぎく)",
+    "ko": "카츠라 히나기쿠"
+  },
+  "series": {
+    "en": "Hayate the Combat Butler",
+    "ja": "ハヤテのごとく!!",
+    "ko": "하야테처럼!",
+    "code": "hayate-the-combat-butler"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2918,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OlPDuxJVxRc/X4NJ1LO95LI/AAAAAAABlPY/YS2tTH-0oc8Orjuk2iQeBsHNU_1N_bvSgCLcBGAsYHQ/s270/125-Katsura-Hinagiku-Hayate-The-Combat-Butler-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OlPDuxJVxRc/X4NJ1LO95LI/AAAAAAABlPY/YS2tTH-0oc8Orjuk2iQeBsHNU_1N_bvSgCLcBGAsYHQ/s270/125-Katsura-Hinagiku-Hayate-The-Combat-Butler-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SI3gmIpuD8E/X4dSYJRxSVI/AAAAAAAAp0k/Xi1Z4wQ1FQMRM3mgES5YcI-AGoIQQRnRACLcBGAsYHQ/s135/125-Katsura-Hinagiku-Hayate-the-Combat-Butler-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YzVCUXklruU/X4dSYpgNClI/AAAAAAAAp0o/VbZer_FYcNsmNj6-XKpkojXZaj-1u1hJwCLcBGAsYHQ/s135/125-Katsura-Hinagiku-Hayate-the-Combat-Butler-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iTP9AN4wQ5s/X4dSYlUEByI/AAAAAAAAp0s/X0j_Q2V2YOMZ-My7VUfjSbdjZU1vx1g4ACLcBGAsYHQ/s135/125-Katsura-Hinagiku-Hayate-the-Combat-Butler-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uW8zCwSyiV8/X4dSYzMJilI/AAAAAAAAp0w/Q6SEtKM0xOMoNLiJcMwcRwdFEyDsp5GzgCLcBGAsYHQ/s135/125-Katsura-Hinagiku-Hayate-the-Combat-Butler-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tciYb48O_JA/X4dSZCyDK4I/AAAAAAAAp00/5ATcyRmMsRYyy5NP7IqbnMVpZOGNyYmEgCLcBGAsYHQ/s135/125-Katsura-Hinagiku-Hayate-the-Combat-Butler-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n125/",
+      "fetched_at": "2026-05-16T19:10:33.318Z",
+      "raw_id": "/nendoroid/details/n125/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.294Z",
+      "raw_id": "Nendoroid/0100-0199/125.json"
+    }
+  ]
+}

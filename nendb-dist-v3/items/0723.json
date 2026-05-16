@@ -1,0 +1,69 @@
+{
+  "num": "0723",
+  "name": {
+    "en": "Nendoroid Keiji Akaashi",
+    "ja": "ねんどろいど 赤葦京治 (ねんどろいど あかあしけいじ)",
+    "ko": "아카아시 케이지"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6176,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-i2NXP9rRGXs/X4Nc3fa-mdI/AAAAAAABl8w/U3xE9uemiwwlrgRDs-7Yk8ZLcnPUFB6dQCLcBGAsYHQ/s270/723-Keiji-Akaashi-Haikyu%2521%2521-Second-Season-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i2NXP9rRGXs/X4Nc3fa-mdI/AAAAAAABl8w/U3xE9uemiwwlrgRDs-7Yk8ZLcnPUFB6dQCLcBGAsYHQ/s270/723-Keiji-Akaashi-Haikyu%2521%2521-Second-Season-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bSPvLZOwH2g/X4i3629dbtI/AAAAAAAAtOc/OIyClF0eBs4jkC5ZtvLIjlVA0ElJFzcUACLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aNLoJEGuUXU/X4i37YvOG5I/AAAAAAAAtOg/BVM_VXuHNlcVyLmetyF3HFiEX-5JTVY7QCLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MaxPMLTOP3E/X4i377If3TI/AAAAAAAAtOk/X5oiYSd4LMwSGREv0mafjt9sDQ5To0SRQCLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qvQ9nJKO85Y/X4i38QfnIPI/AAAAAAAAtOo/QLpjNScf0Y03lsdcXtzFKWjCz8WE5YnSQCLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FYJsswHCq7Y/X4i38wktgdI/AAAAAAAAtOs/8nc_Ghk_XjUaFWyD152Ez6f4XlMPSrUJQCLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-TNWaYloYTTw/X4i39VrQNWI/AAAAAAAAtOw/z1T_g2EBllUc5tKowInV45MkeNQzkW_yACLcBGAsYHQ/s135/723-Keiji-Akaashi-Haikyu-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n723/",
+      "fetched_at": "2026-05-16T19:10:34.762Z",
+      "raw_id": "/nendoroid/details/n723/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.492Z",
+      "raw_id": "Nendoroid/0700-0799/723.json"
+    }
+  ]
+}

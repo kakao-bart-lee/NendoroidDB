@@ -1,0 +1,69 @@
+{
+  "num": "0963",
+  "name": {
+    "en": "Nendoroid Futaba Sakura",
+    "ja": "ねんどろいど 佐倉双葉 (ねんどろいど さくらふたば)",
+    "ko": "사쿠라 후타바"
+  },
+  "series": {
+    "en": "Persona5",
+    "ja": "ペルソナ５",
+    "ko": "페르소나5",
+    "code": "persona5"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7404,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-e-O-u1sCZ0M/X4NeuEZIWlI/AAAAAAABmNs/lMm2GF4v6r0daJBpKRqNpj-I8xaJ3UijwCLcBGAsYHQ/s270/963-Futaba-Sakura-Persona-5-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-e-O-u1sCZ0M/X4NeuEZIWlI/AAAAAAABmNs/lMm2GF4v6r0daJBpKRqNpj-I8xaJ3UijwCLcBGAsYHQ/s270/963-Futaba-Sakura-Persona-5-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YTFflHKdaqk/X4ro4QwJE1I/AAAAAAABoAA/FHPduux4n4Uv4X1W_Wvdcnnv6BHJO_K7gCLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UQiqfiRi3R8/X4ro4iFJUlI/AAAAAAABoAE/s5dIqiZHo7UCjwx5_7eTwYJa6Hags5xFwCLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oTWwi58LLk4/X4ro4_zVWaI/AAAAAAABoAI/lOIvkDTlgjwiGaQUYCxr2z10ceu6tILUgCLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5aGevMUj8pA/X4ro5HeSUmI/AAAAAAABoAM/wwc1GJy-RiEE9CZigcCCmE38r_GVHb2_ACLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-b9SLeUdNqc8/X4ro5S8vg6I/AAAAAAABoAQ/tJKxCkucWCYqKL2fuHN0oM-npSRx7w5WQCLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-D-dgWV-lJBc/X4ro5nZ6-eI/AAAAAAABoAU/oEmaqhk5RpYTHx4WCCBbItj2nG8HDNCrQCLcBGAsYHQ/s135/963-Futaba-Sakura-Persona-Persona-5-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n963/",
+      "fetched_at": "2026-05-16T19:10:34.898Z",
+      "raw_id": "/nendoroid/details/n963/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.550Z",
+      "raw_id": "Nendoroid/0900-0999/963.json"
+    }
+  ]
+}

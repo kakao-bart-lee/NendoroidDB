@@ -1,0 +1,96 @@
+{
+  "num": "1123",
+  "name": {
+    "en": "Nendoroid Hange Zoë",
+    "ja": "ねんどろいど ハンジ・ゾエ (ねんどろいど はんじ・ぞえ)",
+    "ko": "한지 조에"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Miden",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4571697187801",
+  "gsc_product_id": "5959",
+  "gsc_product_num": 8251,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/5959",
+    "ja": "https://www.goodsmile.com/ja/product/5959"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190417/8251/59539/large/43e37e15774febe8fadbf9687e1c029c.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4dZ-pxztbBc/X4NgXYiPpmI/AAAAAAABmZ8/M_7P-rFzUBMh55EV1cH3uMe0PgppZdQ1gCLcBGAsYHQ/s270/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_h0IUBiU9xc/X4rv5lSFymI/AAAAAAABpDE/9fPPREo4a2YLlU6cJ-v2f8PvSYvpV92dwCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-h0qTl-F9DYw/X4rv5xJMGcI/AAAAAAABpDI/2PSw56LkuA423xy7BpHJxrSlA9_3rNawgCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1-bADdC8D8s/X4rv6AJU-OI/AAAAAAABpDM/8p9lgaunHi8PoIl8k0nWS2YFSkLLQY1TgCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8Rb1GnINRKo/X4rv6eE-nQI/AAAAAAABpDQ/Gy0iNqZz8DkQOempHkKVpRTy0qOVJ4pjwCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2AhuwyGxww8/X4rv6pYZ6eI/AAAAAAABpDU/z1ippMkhcRsz-BpbAWYrlgc8BSmMx_ZPQCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O8wWCK_fnPM/X4rv61Pv-SI/AAAAAAABpDY/9Ie-T8soMt4ea8mwUKCNcTY8IxVqTCoFgCLcBGAsYHQ/s135/1123-Hange-Zo%25C3%25AB-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190417/8251/59545/large/eba4261d326c7e3bb55dcfb20858e2ea.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190417/8251/59539/large/43e37e15774febe8fadbf9687e1c029c.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5959",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:55:31.064Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5959",
+      "fetched_at": "2026-05-16T11:55:31.064Z",
+      "raw_id": "5959"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/5959",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "5959"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1123/",
+      "fetched_at": "2026-05-16T19:10:33.235Z",
+      "raw_id": "/nendoroid/details/n1123/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.590Z",
+      "raw_id": "Nendoroid/1100-1199/1123.json"
+    }
+  ]
+}

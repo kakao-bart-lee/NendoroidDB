@@ -1,0 +1,68 @@
+{
+  "num": "2124",
+  "name": {
+    "en": "Nendoroid Lily",
+    "ja": "ねんどろいど リリィ (ねんどろいど りりぃ)",
+    "ko": "릴리"
+  },
+  "series": {
+    "en": "Spy Classroom",
+    "ja": "スパイ教室",
+    "ko": "스파이 교실",
+    "code": "spy-classroom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14265,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-I6uzf_1dVGw/ZFqWbX2cZaI/AAAAAAAA9zc/s_EY7eNtNxEr-dp5Yn_OgxARf_oQek-uQCNcBGAsYHQ/s270/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-I6uzf_1dVGw/ZFqWbX2cZaI/AAAAAAAA9zc/s_EY7eNtNxEr-dp5Yn_OgxARf_oQek-uQCNcBGAsYHQ/s270/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IKAX_O4zDW4/ZFqb5FvxkfI/AAAAAAAA98E/8r0Uu-B4LXobHtaEu_Xy-Kjx1Kmusb0NQCNcBGAsYHQ/s135/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6gwGduvC7L8/ZFqb5q6cJYI/AAAAAAAA98A/7TTlsBYXl_cAF8itfRreHbQUgHbQ1dpEgCNcBGAsYHQ/s135/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zqOtEmVYLys/ZFqb6B7odWI/AAAAAAAA98I/hnpMuiWHl8Ms0nxbNcGw8evwuyqNxQe4QCNcBGAsYHQ/s135/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vWPgPsDGGqA/ZFqb6OddNrI/AAAAAAAA98M/V_NKOO947U8SYkC54I58PYBunMe7IwmSgCNcBGAsYHQ/s135/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZzrJpq1w37w/ZFqb6X5nr_I/AAAAAAAA98Q/oF2pE-BlIUMuO9-5WZ-vtlB10ggdFN1BgCNcBGAsYHQ/s135/2124-Lily-Spy-Classroom-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2124/",
+      "fetched_at": "2026-05-16T19:10:33.854Z",
+      "raw_id": "/nendoroid/details/n2124/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.832Z",
+      "raw_id": "Nendoroid/2100-2199/2124.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1594",
+  "name": {
+    "en": "Nendoroid Axel: Kingdom Hearts III Ver.",
+    "ja": "ねんどろいど アクセル キングダム ハーツⅢVer. (ねんどろいど あくせる きんぐだむ はーつⅢVer.)",
+    "ko": "액셀 킹덤 하츠 III Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts III",
+    "ja": "キングダム ハーツⅢ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-iii"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10949,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ySqD3tLd0ys/YHSSV-coOSI/AAAAAAAAwpE/GPXaZZYeG5QpGOMy-153zFU-Pu8RFSt2gCLcBGAsYHQ/s270/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ySqD3tLd0ys/YHSSV-coOSI/AAAAAAAAwpE/GPXaZZYeG5QpGOMy-153zFU-Pu8RFSt2gCLcBGAsYHQ/s270/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AuYGPUP7yOc/YHSWxptanQI/AAAAAAAAwrc/2MCtEtDOWnQuKBcmfW-iCbOXEOusgYjowCLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rTTf9qtJtyI/YHSWxmY8NlI/AAAAAAAAwrg/w_yF3OzyaPUb0WhPT4Fx5pmJqR2m5oQ6wCLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_5Rss2b79U0/YHSWyCT2fLI/AAAAAAAAwrk/CCThhhOlWcYsyudQz_AleP2BPmBN41UTQCLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3dK7T95ST2I/YHSWyHSpzzI/AAAAAAAAwro/bQ5HltcLesott2nwT2w63NlowGYrHpblwCLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MZdXQ0NCY_0/YHSWyeFizYI/AAAAAAAAwrs/BpOpBTJqpTEdNGSzEhYez9wHh2zfvMYhACLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-D9QF0QrDGAU/YHSWyso-3eI/AAAAAAAAwrw/UVLp8ehJvDY3ZW7R7lctPa6vw4gPWEqOACLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-tCUKDqtXLwE/YHSWzMGOE-I/AAAAAAAAwr0/MX7fhFS9aiQo-_cyavXuglcMF6UAiu0owCLcBGAsYHQ/s135/1594-Axel-Kingdom-Hearts-III-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1594/",
+      "fetched_at": "2026-05-16T19:10:33.524Z",
+      "raw_id": "/nendoroid/details/n1594/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.703Z",
+      "raw_id": "Nendoroid/1500-1599/1594.json"
+    }
+  ]
+}

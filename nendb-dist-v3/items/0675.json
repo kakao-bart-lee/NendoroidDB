@@ -1,0 +1,68 @@
+{
+  "num": "0675",
+  "name": {
+    "en": "Nendoroid Lin Setsu A",
+    "ja": "ねんどろいど 凜雪鴉 (ねんどろいど りんせつあ)",
+    "ko": "늠설아"
+  },
+  "series": {
+    "en": "Thunderbolt Fantasy Sword Seekers",
+    "ja": "Thunderbolt Fantasy 東離劍遊紀",
+    "ko": "Thunderbolt Fantasy 동리검유기",
+    "code": "thunderbolt-fantasy-sword-seekers"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5947,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GLvotKMnDis/X4NP8JxwlWI/AAAAAAABl5I/hCLBxwbuy14XGUwaNuAQ7UeJldbtKrq9QCLcBGAsYHQ/s270/675-Lin-Setsu-A-Thunderbolt-Fantasy-TV-Movies-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GLvotKMnDis/X4NP8JxwlWI/AAAAAAABl5I/hCLBxwbuy14XGUwaNuAQ7UeJldbtKrq9QCLcBGAsYHQ/s270/675-Lin-Setsu-A-Thunderbolt-Fantasy-TV-Movies-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j1bCDCtVdJQ/X4i1lrgXMzI/AAAAAAAAs7E/MNQ-msKZaXARI2p7y8GP9rJGGMAgY0iVwCLcBGAsYHQ/s135/675-Lin-Setsu-A-Thunderbolt-Fantasy-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lPDuiW57k70/X4i1mGyWwhI/AAAAAAAAs7I/9TwkK9ZEE1g-6CEwbOWZDcCdxPC_Q_IvQCLcBGAsYHQ/s135/675-Lin-Setsu-A-Thunderbolt-Fantasy-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NhMTIcHJdeo/X4i1mnHlrWI/AAAAAAAAs7M/HCKkPNH9hR0_DTJyjcDSRw610pyCg6IJQCLcBGAsYHQ/s135/675-Lin-Setsu-A-Thunderbolt-Fantasy-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xzobwf8zKcg/X4i1nH3JA5I/AAAAAAAAs7Q/wJpHg5WIHCYlZBchc2YH0IQEKgPqIiyqACLcBGAsYHQ/s135/675-Lin-Setsu-A-Thunderbolt-Fantasy-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IiTjJmLtDxs/X4i1nv_SRBI/AAAAAAAAs7U/GOZiFdQfKmEYjBYpeRu8hupTuyx-QFFzgCLcBGAsYHQ/s135/675-Lin-Setsu-A-Thunderbolt-Fantasy-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n675/",
+      "fetched_at": "2026-05-16T19:10:34.736Z",
+      "raw_id": "/nendoroid/details/n675/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.481Z",
+      "raw_id": "Nendoroid/0600-0699/675.json"
+    }
+  ]
+}

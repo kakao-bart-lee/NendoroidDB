@@ -1,0 +1,68 @@
+{
+  "num": "1287",
+  "name": {
+    "en": "Nendoroid Shun Imaoji",
+    "ja": "ねんどろいど 今大路峻 (ねんどろいど いまおおじしゅん)",
+    "ko": "이마오오지 슌"
+  },
+  "series": {
+    "en": "Stand My Heroes",
+    "ja": "スタンドマイヒーローズ",
+    "ko": "스탠드 마이 히어로즈",
+    "code": "stand-my-heroes"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9247,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fpomKiEAoeg/X4NihTHG9SI/AAAAAAABmsY/4m35Fjje1eMrVMnhjHH8Al5G6ucYXWQVgCLcBGAsYHQ/s270/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fpomKiEAoeg/X4NihTHG9SI/AAAAAAABmsY/4m35Fjje1eMrVMnhjHH8Al5G6ucYXWQVgCLcBGAsYHQ/s270/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-X-1WJMYGggg/X4r1E8eMn5I/AAAAAAABqGs/zclkT6O0A7s8ZvuJsmjL9kTNjDuWFx0jwCLcBGAsYHQ/s135/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jvMtWjFtv_8/X4r1E8vI6KI/AAAAAAABqGw/ot3NphWmet8ggCAhEDpWEhxUEUNsa8-EwCLcBGAsYHQ/s135/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SciF1EzYdtY/X4r1FO9zLcI/AAAAAAABqG0/CkWBUcrpoRYh7PJJNhZC9zHBUrBBB_J8gCLcBGAsYHQ/s135/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j9U5eo_e1V0/X4r1Fb-J6UI/AAAAAAABqG4/vxxoFmejo6Y3zdiVeFMN5bIXKd4TzvJ6wCLcBGAsYHQ/s135/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nA0ViYSl0BM/X4r1F48CUnI/AAAAAAABqG8/YXvYp--GFdgfdTeLQenRgI_yqDV7DSt8ACLcBGAsYHQ/s135/1287-Shun-Imaoji-Stand-My-Heroes-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1287/",
+      "fetched_at": "2026-05-16T19:10:33.335Z",
+      "raw_id": "/nendoroid/details/n1287/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.630Z",
+      "raw_id": "Nendoroid/1200-1299/1287.json"
+    }
+  ]
+}

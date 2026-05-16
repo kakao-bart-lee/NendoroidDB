@@ -1,0 +1,69 @@
+{
+  "num": "1777",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Maneki Miku Ver.",
+    "ja": "ねんどろいど 初音ミク 招きミクVer. (ねんどろいど はつねみく まねきみくVer.)",
+    "ko": "하츠네 미쿠 마네키 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12108,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w5xiEpqiX48/YdGwPPMP_5I/AAAAAAAA2d4/vSPAu-cz0_EA5MIc21twbm1TgdR9HarmQCNcBGAsYHQ/s270/1777-Hatsune-Miku-Maneki-Miku-Ver-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w5xiEpqiX48/YdGwPPMP_5I/AAAAAAAA2d4/vSPAu-cz0_EA5MIc21twbm1TgdR9HarmQCNcBGAsYHQ/s270/1777-Hatsune-Miku-Maneki-Miku-Ver-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mnYXEJbzMPs/YdGzSq2KNiI/AAAAAAAA2gg/G-5DYcJPC54AEp0fKSP4thrSsf-x__pJgCNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AdvvymS5pxM/YdGzSwgVO3I/AAAAAAAA2gk/6t4OrYFcgT8tz78GJBw_dYSgg-6HRFYOwCNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VbJXueZkdjo/YdGzTNkKwYI/AAAAAAAA2go/7DmRv7tPiwc_cyr-GNz-8n-wAQ3rVJDSACNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DTPbbSeG-bY/YdGzTQOyZoI/AAAAAAAA2gs/Z2MVM5re5Gwm356vOLMJgbcDezSn0-hPgCNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6ys7YU7rR-k/YdGzTlITYpI/AAAAAAAA2gw/YrRTfFWgnWYNY4EYGmdg8t_Sn86IFpLrgCNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SKygeIS2txI/YdGzTjcCgWI/AAAAAAAA2g0/ZrdyLJIq9zsmnui0h9NfvyL9WyL5X73EgCNcBGAsYHQ/s135/1777-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1777/",
+      "fetched_at": "2026-05-16T19:10:33.640Z",
+      "raw_id": "/nendoroid/details/n1777/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.748Z",
+      "raw_id": "Nendoroid/1700-1799/1777.json"
+    }
+  ]
+}

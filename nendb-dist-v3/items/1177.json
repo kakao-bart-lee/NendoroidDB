@@ -1,0 +1,68 @@
+{
+  "num": "1177",
+  "name": {
+    "en": "Nendoroid Altria Pendragon: Racing Ver.",
+    "ja": "ねんどろいど アルトリア・ペンドラゴン レーシングVer. (ねんどろいど せいばー/あるとりあ・ぺんどらごん れーしんぐVer.)",
+    "ko": "알트리아 펜드래곤 레이싱 Ver."
+  },
+  "series": {
+    "en": "GOODSMILE RACING & TYPE-MOON RACING",
+    "ja": "GOODSMILE RACING ＆ TYPE-MOON RACING",
+    "ko": "페이트 시리즈",
+    "code": "goodsmile-racing-type-moon-racing"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8532,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2GEj60WC4GE/X4NgrTnkJZI/AAAAAAABmdo/ObjgvRHk8KQNGWe-NIxZrVudzPLmpeBhACLcBGAsYHQ/s270/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2GEj60WC4GE/X4NgrTnkJZI/AAAAAAABmdo/ObjgvRHk8KQNGWe-NIxZrVudzPLmpeBhACLcBGAsYHQ/s270/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NyYQdA-XPkg/X4rxYnzBNFI/AAAAAAABpZQ/NmT486MlelcQ-MDMYi5B9fHUpD-dNI8NQCLcBGAsYHQ/s135/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KHV_lGNtBvw/X4rxZO6w8bI/AAAAAAABpZU/MNdmqlrKBqgjrfUUoBfUtOhw-cq8bNGMwCLcBGAsYHQ/s135/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qq7whGHs8uU/X4rxZO-FeUI/AAAAAAABpZY/3eK_wuF98RA9k9bRX7_Yta7XJB9iUizSwCLcBGAsYHQ/s135/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jHKDeAVcbI0/X4rxZkwlhfI/AAAAAAABpZc/6DR93kkVY6sEj66QCBF38krd2ZBL8A0YACLcBGAsYHQ/s135/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mgQylk7eKAw/X4rxZhX-fbI/AAAAAAABpZg/6wBS0RqmwtY9WI_gVre3EKyfx9lDDxKFQCLcBGAsYHQ/s135/1177-Saber-Altria-Pendragon-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1177/",
+      "fetched_at": "2026-05-16T19:10:33.269Z",
+      "raw_id": "/nendoroid/details/n1177/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.603Z",
+      "raw_id": "Nendoroid/1100-1199/1177.json"
+    }
+  ]
+}

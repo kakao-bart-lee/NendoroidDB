@@ -1,0 +1,55 @@
+{
+  "num": "9591",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Gym Clothes - Red)",
+    "ja": "ねんどろいどどーる おようふくセット たいそうふく（あか） (ねんどろいどどーる おようふくせっと たいそうふく（あか）)",
+    "ko": "체육복(빨강)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9591,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200601/9591/70310/large/3cda99a708c5d62f0c685ccd44f7dae6.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.944Z",
+      "raw_id": "NendoroidDoll/Clothes/9591.json"
+    }
+  ]
+}

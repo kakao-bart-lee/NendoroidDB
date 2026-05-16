@@ -1,0 +1,68 @@
+{
+  "num": "1094",
+  "name": {
+    "en": "Nendoroid Atsushi Murasakibara",
+    "ja": "ねんどろいど 紫原 敦 (ねんどろいど むらさきばら あつし)",
+    "ko": "무라사키바라 아츠시"
+  },
+  "series": {
+    "en": "Kuroko's Basketball",
+    "ja": "黒子のバスケ",
+    "ko": "쿠로코의 농구",
+    "code": "kuroko-s-basketball"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8109,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YLaeoeBCO_U/X4Nf8nswq2I/AAAAAAABmXU/PXxzM1Mmg0YPyOD4OJIeaS-m4cbgGvfWgCLcBGAsYHQ/s270/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YLaeoeBCO_U/X4Nf8nswq2I/AAAAAAABmXU/PXxzM1Mmg0YPyOD4OJIeaS-m4cbgGvfWgCLcBGAsYHQ/s270/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tu57Zlh-jdk/X4rtd1cnkII/AAAAAAABo1g/mKSQqgfC19ckFGUzOqNNiP5g7ZM0YzxTACLcBGAsYHQ/s135/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KQjhZt8qurg/X4rteJ8c5RI/AAAAAAABo1k/0VLdHf87PR8B8hKkvxXCOQwR6FPje2VQACLcBGAsYHQ/s135/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-As6tVtQb08o/X4rteWUVgAI/AAAAAAABo1o/TZE7ZF-tjc8BEqTrdkuT1g2zpHOwbjWPQCLcBGAsYHQ/s135/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eaf_J6cdzJ0/X4rtepjcHzI/AAAAAAABo1s/_b8TAUaa3M0E34OfCk7uZrJ_4tNxM5yjgCLcBGAsYHQ/s135/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bUtDUo9XI18/X4rte8x4emI/AAAAAAABo1w/ud3X9aTZMHQtGyPZ-7W6G_cGlXFTinqZQCLcBGAsYHQ/s135/1094-Atsushi-Murasakibara-Kurokos-Basketball-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1094/",
+      "fetched_at": "2026-05-16T19:10:33.216Z",
+      "raw_id": "/nendoroid/details/n1094/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.583Z",
+      "raw_id": "Nendoroid/1000-1099/1094.json"
+    }
+  ]
+}

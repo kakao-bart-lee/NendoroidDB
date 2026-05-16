@@ -1,0 +1,70 @@
+{
+  "num": "1143",
+  "name": {
+    "en": "Nendoroid Ann Takamaki: Phantom Thief Ver.",
+    "ja": "ねんどろいど 高巻杏 怪盗服Ver. (ねんどろいど たかまきあん かいとうふくVer.)",
+    "ko": "타카마키 안 괴도복 Ver."
+  },
+  "series": {
+    "en": "PERSONA5 the Animation",
+    "ja": "PERSONA5 the Animation",
+    "ko": "페르소나5",
+    "code": "persona5-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8384,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-V_pBsP04JBY/X4NgdHm3rQI/AAAAAAABmbQ/ig5ibq2a-YE0ClBfNJ4Hcwzp2jXMXAEdwCLcBGAsYHQ/s270/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-V_pBsP04JBY/X4NgdHm3rQI/AAAAAAABmbQ/ig5ibq2a-YE0ClBfNJ4Hcwzp2jXMXAEdwCLcBGAsYHQ/s270/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5kzBMkaBfLM/X4rwZo3lqkI/AAAAAAABpK0/JbL4Nfd2ZioLOTah5kbNp_c71v2ndRNvQCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-44_xJUF1tqY/X4rwZw0WlzI/AAAAAAABpK4/apiFh8bxYzAiZO2kdy2YOu9OuKGjZ9k6gCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1BjdJkEVKHA/X4rwaCDKAcI/AAAAAAABpK8/zTVTmvCmpKszo20hJaQa67fJ1-GJgZPZQCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-x8o0AsG1L8M/X4rwaX4s6cI/AAAAAAABpLA/3WNMigKmWnYmTGNe8KVdGkAMqeAda_ZKwCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YAgIWC8hZJw/X4rwakbW8oI/AAAAAAABpLE/SqcQDGO4ITIQ5D4WfaJPZ1vTl71blFOnQCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-dSLdB4VNwQA/X4rwa3cVzNI/AAAAAAABpLI/9-fDRTgVr5038In9Nhow-7-P3aDDjC9sQCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-FGqNfRkJTVI/X4rwbD6wn3I/AAAAAAABpLM/8839gtN6CjA16CI7hB40o1d-4eUMVQ_fwCLcBGAsYHQ/s135/1143-Ann-Takamaki-PERSONA-Persona-5-the-Animation-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1143/",
+      "fetched_at": "2026-05-16T19:10:33.247Z",
+      "raw_id": "/nendoroid/details/n1143/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.595Z",
+      "raw_id": "Nendoroid/1100-1199/1143.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0077",
+  "name": {
+    "en": "Nendoroid Saber Lily (ねんどろいど せいばー・りりぃ)",
+    "ja": "ねんどろいど セイバー・リリィ (ねんどろいど せいばー・りりぃ)",
+    "ko": "세이버 릴리"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2499,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ONmQu_c9wc4/X4MSEofPoCI/AAAAAAAApbY/nMBP0-Zv2ZIJCVAbt1LRuu1QBnjCcvPRwCLcBGAsYHQ/s270/077-Saber-Lily-Fate-Unlimited-Codes-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ONmQu_c9wc4/X4MSEofPoCI/AAAAAAAApbY/nMBP0-Zv2ZIJCVAbt1LRuu1QBnjCcvPRwCLcBGAsYHQ/s270/077-Saber-Lily-Fate-Unlimited-Codes-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TAC2KB5sots/X4Gw6dxZ3vI/AAAAAAAApL0/mhjqcPOjaLwFwJFfgMKUoEkAv5Yd4vylQCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zcFkKlnDOek/X4Gw62hI6II/AAAAAAAApL4/hs_A7nAXCFAp11dt8mhDs6t2WiP9HtgrwCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fvN2Ash8gQU/X4Gw7Pn2M3I/AAAAAAAApL8/w859dYCPNMc_DM7AywaQi025c5seNDcAQCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FJgiGu9Dyw0/X4Gw7WNyH1I/AAAAAAAApMA/aB4MIU6-U9sWJPNuGVx07-zJOfIze2yvwCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5OomLZWqRMA/X4Gw7TmWsvI/AAAAAAAApME/2eK_Q_3vJcQ9wmrmHwTzQ724jWKmBw56QCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NU60cnLAxLg/X4Gw78hD2LI/AAAAAAAApMI/u5GorTfRQ1YWKQMN7Ox9BSwYlSnvh5mOQCLcBGAsYHQ/s135/077-Saber-Lily-Fate-Unlimited-Codes-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n077/",
+      "fetched_at": "2026-05-16T19:10:33.113Z",
+      "raw_id": "/nendoroid/details/n077/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.282Z",
+      "raw_id": "Nendoroid/0000-0099/077.json"
+    }
+  ]
+}

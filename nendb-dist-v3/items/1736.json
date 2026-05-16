@@ -1,0 +1,69 @@
+{
+  "num": "1736",
+  "name": {
+    "en": "Nendoroid Sango",
+    "ja": "ねんどろいど 珊瑚 (ねんどろいど さんご)",
+    "ko": "산고"
+  },
+  "series": {
+    "en": "Inuyasha",
+    "ja": "犬夜叉",
+    "ko": "이누야샤",
+    "code": "inuyasha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11910,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jvVIRiOPWIU/YYBKBmDB5FI/AAAAAAAA1jM/-aEpbBYDdKc7Wj8jLOJMgli0A5B4ZGluwCLcBGAsYHQ/s270/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jvVIRiOPWIU/YYBKBmDB5FI/AAAAAAAA1jM/-aEpbBYDdKc7Wj8jLOJMgli0A5B4ZGluwCLcBGAsYHQ/s270/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5eYzF66w6to/YYBOvfMPXNI/AAAAAAAA1ng/ij0VpHaYhNgyZ4Kvl_r0AvwzSL-5eS6TACLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Yvw7zF5BVTM/YYBOviH5_ZI/AAAAAAAA1no/VkI2fha9kGQVv86co4TnOLBjZfs5tvaogCLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gwDH4Z8XqVk/YYBOvkJSiDI/AAAAAAAA1nk/SvjQE3nzUzEwtgEmxak_NdCTv7c68X0QQCLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WfiNNsoFM1Y/YYBOv5TsKfI/AAAAAAAA1ns/-L05s2Cvel8O4M3IxEx1uBaHRXDh1DFjgCLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JnOCPD7P6lI/YYBOwKZ37II/AAAAAAAA1nw/vNeaE9pPcwUAYmN0rwKLe858JsJui9SUgCLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jm0vJp6Jc2s/YYBOwSO7nZI/AAAAAAAA1n0/64-M4l0VS5kST9m0pI0rKwIpk9bDXn32ACLcBGAsYHQ/s135/1736-Sango-Inuyasha-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1736/",
+      "fetched_at": "2026-05-16T19:10:33.616Z",
+      "raw_id": "/nendoroid/details/n1736/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.739Z",
+      "raw_id": "Nendoroid/1700-1799/1736.json"
+    }
+  ]
+}

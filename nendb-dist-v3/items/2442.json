@@ -1,0 +1,64 @@
+{
+  "num": "2442",
+  "name": {
+    "en": "96Neko",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zMWaWd5AE6w/Ziq--AUqn3I/AAAAAAABEB0/PP0YFDEBVLAEmJungsxI86_aEW1jC2b9ACNcBGAsYHQ/s270/2442-96Neko-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zMWaWd5AE6w/Ziq--AUqn3I/AAAAAAABEB0/PP0YFDEBVLAEmJungsxI86_aEW1jC2b9ACNcBGAsYHQ/s270/2442-96Neko-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_pzdXAXTrgI/Zow3JmXBvTI/AAAAAAABFoA/jA8rzXZ5HV4FwxY8PiyRONYxv5a1P8fQACNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ieJ_-Ym6yaU/Zow3KM0ncqI/AAAAAAABFoE/9OCTP9qxcOUORiLjglCbngwJkdaDS6OpQCNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nKASjD7ogrA/Zow3KlrwniI/AAAAAAABFoI/e1BiDt1tS4s3Y63X6spXyRcK77B95itOQCNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lhNbwNrmHLg/Zow3LFwNzEI/AAAAAAABFoM/ovrJBkfEQ0o7YE78ef4iV-a5SFD-XY1IQCNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-roW6xzHBSUY/Zow3LkP9cvI/AAAAAAABFoQ/WgVhUSO7B8QVcsdCJFxgTG39olPDXRfIwCNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jpcAmFU_3R8/Zow3MISIi1I/AAAAAAABFoU/UC2riSt80IIjrLw_iuD1YuV-UCFm-HEpQCNcBGAsYHQ/s135/2442-96Neko-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2442/",
+      "fetched_at": "2026-05-16T19:10:34.060Z",
+      "raw_id": "/nendoroid/details/n2442/"
+    }
+  ]
+}

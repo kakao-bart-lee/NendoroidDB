@@ -1,0 +1,69 @@
+{
+  "num": "0610",
+  "name": {
+    "en": "Nendoroid Cyan",
+    "ja": "ねんどろいど シアン (ねんどろいど しあん)",
+    "ko": "시안"
+  },
+  "series": {
+    "en": "SHOW BY ROCK!!",
+    "ja": "SHOW BY ROCK!!",
+    "ko": "SHOW BY ROCK!!",
+    "code": "show-by-rock"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5524,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QAGbNStJvA0/X4NPn9BxDZI/AAAAAAABl1E/wiCQaUajGb4MWKuN6NYz0rwVERUF0muYwCLcBGAsYHQ/s270/610-Cyan-SHOW%2BBY%2BROCK%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QAGbNStJvA0/X4NPn9BxDZI/AAAAAAABl1E/wiCQaUajGb4MWKuN6NYz0rwVERUF0muYwCLcBGAsYHQ/s270/610-Cyan-SHOW%2BBY%2BROCK%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0Qc8Hdwr5IQ/X4izqUzbeEI/AAAAAAAAsjk/iJTIwgJCcwYXxt4mKo3GMsgSoVHPQI8OgCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-m4Dq-35Y2mU/X4izq1qhCvI/AAAAAAAAsjo/s22f93_2jPUC7tlM8B3nNpbAb5fuIFzawCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-insNbcjLFlk/X4izrYuJ9wI/AAAAAAAAsjs/RiPhZB7Ax0oiXQHktGfUqc48wYTVN5P_wCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jHtdu5KRT0w/X4izr0nKh1I/AAAAAAAAsjw/hVdsOjQb-WwtXIMe1mEBOGMdz0gDpHq5QCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UJUjn4bGTMs/X4izsez4gEI/AAAAAAAAsj0/xw5CXGH4zY49t2sD-H__NHNEvoyWcy2mQCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-w27ANqoLBGU/X4izs8ZohQI/AAAAAAAAsj4/FVVw2NfCHtYY_zIbsJPcQk2L2A4TfW9XgCLcBGAsYHQ/s135/610-Cyan-SHOW-BY-ROCK-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n610/",
+      "fetched_at": "2026-05-16T19:10:34.689Z",
+      "raw_id": "/nendoroid/details/n610/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.462Z",
+      "raw_id": "Nendoroid/0600-0699/610.json"
+    }
+  ]
+}

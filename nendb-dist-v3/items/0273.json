@@ -1,0 +1,68 @@
+{
+  "num": "0273",
+  "name": {
+    "en": "Nendoroid Hunter: Female Swordsman - Bario X Edition (ねんどろいど はんたー♀けんし べりおX・えでぃしょん)",
+    "ja": "ねんどろいど ハンター♀剣士 ベリオX・エディション (ねんどろいど はんたー♀けんし べりおX・えでぃしょん)",
+    "ko": "헌터♀검사 베리오X 에디션"
+  },
+  "series": {
+    "en": "Monster Hunter Tri G",
+    "ja": "モンスターハンター3（トライ）G",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-tri-g"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3676,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pa1PlIu4Nc8/X4NLXT3swII/AAAAAAABlZ4/Gq5LuNssenIdKKwGvPgHYme3B5PFk0zMACLcBGAsYHQ/s270/273-Female-Swordsman-Bario-X-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pa1PlIu4Nc8/X4NLXT3swII/AAAAAAABlZ4/Gq5LuNssenIdKKwGvPgHYme3B5PFk0zMACLcBGAsYHQ/s270/273-Female-Swordsman-Bario-X-Edition-Monster-Hunter-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xKMd4pNs3dE/X4dYKDm0D7I/AAAAAAAAqoU/NZTwwwsTXRwcMFdWSE_Q22CeEtVtt9jPwCLcBGAsYHQ/s135/273-Female-Swordsman-Monster-Hunter-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v977Sb0bNXQ/X4dYKN0B52I/AAAAAAAAqoY/F5uADzaC24ka_z4UgcgPJC4Bfu1j4qKXgCLcBGAsYHQ/s135/273-Female-Swordsman-Monster-Hunter-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z5P0F65ikes/X4dYKlF0gPI/AAAAAAAAqoc/hW75KH5yvfcc5Nr65p2jndUdF5s5hS6xQCLcBGAsYHQ/s135/273-Female-Swordsman-Monster-Hunter-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kqcJnw-049M/X4dYKsZHXDI/AAAAAAAAqok/XeKfGxos6mMXwraZSk28pFm3o22rgIbrACLcBGAsYHQ/s135/273-Female-Swordsman-Monster-Hunter-Video-Game-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-U7sF8SyBjT4/X4dYKsrtOTI/AAAAAAAAqog/MNWd9bIwqo8qW65Jz4fx64CMRJ9hGpE8ACLcBGAsYHQ/s135/273-Female-Swordsman-Monster-Hunter-Video-Game-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n273/",
+      "fetched_at": "2026-05-16T19:10:34.262Z",
+      "raw_id": "/nendoroid/details/n273/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.338Z",
+      "raw_id": "Nendoroid/0200-0299/273.json"
+    }
+  ]
+}

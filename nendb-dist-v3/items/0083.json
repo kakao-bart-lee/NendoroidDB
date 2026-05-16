@@ -1,0 +1,68 @@
+{
+  "num": "0083",
+  "name": {
+    "en": "Nendoroid Churuya-san (ちゅるやさん ねんどろいど)",
+    "ja": "ねんどろいど ちゅるやさん (ちゅるやさん ねんどろいど)",
+    "ko": "츄루야 상"
+  },
+  "series": {
+    "en": "The Melancholy of Haruhi Suzumiya-chan & Nyoron Churuya-san",
+    "ja": "「涼宮ハルヒちゃんの憂鬱」＆「にょろーんちゅるやさん」",
+    "ko": "뇨롱☆츄루야씨",
+    "code": "the-melancholy-of-haruhi-suzumiya-chan-nyoron-churuya-san"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2580,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S4nT7CNlYnk/X4MSFzNxOEI/AAAAAAAApbo/kjHV1SMOasAr-pTVglWILQ7MBw6o_fxoQCLcBGAsYHQ/s270/083-Tsuruya-San-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S4nT7CNlYnk/X4MSFzNxOEI/AAAAAAAApbo/kjHV1SMOasAr-pTVglWILQ7MBw6o_fxoQCLcBGAsYHQ/s270/083-Tsuruya-San-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0Lr3pwFdDxM/X4GxB-u6kDI/AAAAAAAApN4/6S3G35sMKb8-RHGcSOmHV0WyzNQWO9jWACLcBGAsYHQ/s135/083-Tsuruya-san-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j3HupW_qUG0/X4GxCFSnl5I/AAAAAAAApN8/2uHZ6nuYPf8oriCfyV0mTGtb2iotu2e4ACLcBGAsYHQ/s135/083-Tsuruya-san-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PlEzZbYShws/X4GxCg7j_bI/AAAAAAAApOA/ukmOim5cjxs4lrhRhxe0zS4kk5NoyT6twCLcBGAsYHQ/s135/083-Tsuruya-san-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lAfxUToF5hk/X4GxDHoBcWI/AAAAAAAApOE/8O3r30YQ6QAXcVtZY97gAL4M082u3_uuwCLcBGAsYHQ/s135/083-Tsuruya-san-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wbpUKdy-Lv4/X4GxDl0UHZI/AAAAAAAApOI/V8fz4OKbQ289-QQGDtu9uTBc5e6svMvogCLcBGAsYHQ/s135/083-Tsuruya-san-Suzumiya-Haruhi-no-Yuutsu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n083/",
+      "fetched_at": "2026-05-16T19:10:33.117Z",
+      "raw_id": "/nendoroid/details/n083/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.283Z",
+      "raw_id": "Nendoroid/0000-0099/083.json"
+    }
+  ]
+}

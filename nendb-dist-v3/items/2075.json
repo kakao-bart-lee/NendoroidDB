@@ -1,0 +1,70 @@
+{
+  "num": "2075",
+  "name": {
+    "en": "Nendoroid Evan",
+    "ja": "ねんどろいど Evan (ねんどろいど えゔぁん)",
+    "ko": "루천"
+  },
+  "series": {
+    "en": "Light and Night",
+    "ja": "光と夜の恋",
+    "ko": "광여야지연",
+    "code": "light-and-night"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14803,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GMbce_iDIcA/ZQoU1Xg0DEI/AAAAAAABBis/Yyp9tyvHEtA1CaXkC2TCups4HPF6pPz5QCNcBGAsYHQ/s270/2075-Evan-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GMbce_iDIcA/ZQoU1Xg0DEI/AAAAAAABBis/Yyp9tyvHEtA1CaXkC2TCups4HPF6pPz5QCNcBGAsYHQ/s270/2075-Evan-Light-and-Night-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z_1ZssSGKKM/ZQsgV5tksOI/AAAAAAABBnA/e3riYjTtdHEM-xeSdGzIk2OO4Vwwh2NxwCNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4FwOo3bcXOo/ZQsgWvUyfpI/AAAAAAABBnE/1aqOJ9K2Zs8VZShmYHI_K5iTqCbA48C6ACNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9jxGwihB6FU/ZQsgWz8g6aI/AAAAAAABBnI/XUsPUeVUcDwyrC0VIE8c2AS0hpzntQdlACNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GHyYwSP1B_0/ZQsgXjWSqOI/AAAAAAABBnM/mQMiM4nRl1IYrVd1EkzSZqH93bcT6FPjgCNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g8rkPXvH3uQ/ZQsgXzzWmyI/AAAAAAABBnQ/uYak1AuJdzIz9W-Gg8XAwydHZjTiJPkoQCNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kSoDui8lKt4/ZQsgYvkjVAI/AAAAAAABBnU/jG32A913iqoAVN6u14GoVqvpVY-wwsa1wCNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BUfdQJRfJpI/ZQsgZGhdZjI/AAAAAAABBnY/7d9_I9CmHQ8XO5_2S_e-oGXJvoEyKL8MwCNcBGAsYHQ/s135/2075-Evan-Light-and-Night-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2075/",
+      "fetched_at": "2026-05-16T19:10:33.824Z",
+      "raw_id": "/nendoroid/details/n2075/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.821Z",
+      "raw_id": "Nendoroid/2000-2099/2075.json"
+    }
+  ]
+}

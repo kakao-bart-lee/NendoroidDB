@@ -1,0 +1,69 @@
+{
+  "num": "0957",
+  "name": {
+    "en": "Nendoroid Diana Cavendish",
+    "ja": "ねんどろいど ダイアナ・キャベンディッシュ (ねんどろいど だいあな・きゃべんでぃっしゅ)",
+    "ko": "다이애나 캐번디시"
+  },
+  "series": {
+    "en": "Little Witch Academia",
+    "ja": "リトルウィッチアカデミア",
+    "ko": "리틀 위치 아카데미아",
+    "code": "little-witch-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7400,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wm38IE-uNx0/X4Nest4omII/AAAAAAABmNU/ObBC47WbBHEF8Qiuf2hhhK0Pt8kA-4rJgCLcBGAsYHQ/s270/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wm38IE-uNx0/X4Nest4omII/AAAAAAABmNU/ObBC47WbBHEF8Qiuf2hhhK0Pt8kA-4rJgCLcBGAsYHQ/s270/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9_FtjgraeEc/X4rowJ8MgcI/AAAAAAABn98/TRynwi7_BUMzhqvTgsVTOyjncPL_DXjngCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cVUqkCOz5V4/X4rowfHvsWI/AAAAAAABn-A/aD-waTZnma8xarWUsFcx_ig4DpAzO56twCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-myOX3cePBiY/X4rowvEQ7PI/AAAAAAABn-E/jE8av9P19EQ-KAxsLxYvZz2jmjaUWODjgCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yZEO2NMQR-k/X4row5pVFwI/AAAAAAABn-I/FhJpQfHPrhMhew3uYMDF15tCYWYS-vR7gCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t7Pak6LUMGA/X4roxAn4YhI/AAAAAAABn-M/b-b0NDi0IC8ALso-8oBbw_R5Blw_R_dTQCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JlPr0a9gPYw/X4roxUc5OzI/AAAAAAABn-Q/cHIlB9e3h54-MzLPMFus55AJ-ZcdVyvtwCLcBGAsYHQ/s135/957-Diana-Cavendish-Little-Witch-Academia-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n957/",
+      "fetched_at": "2026-05-16T19:10:34.895Z",
+      "raw_id": "/nendoroid/details/n957/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.548Z",
+      "raw_id": "Nendoroid/0900-0999/957.json"
+    }
+  ]
+}

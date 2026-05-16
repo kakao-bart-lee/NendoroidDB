@@ -1,0 +1,69 @@
+{
+  "num": "2255",
+  "name": {
+    "en": "Nendoroid Spamton",
+    "ja": "ねんどろいど スパムトン (ねんどろいど すぱむとん)",
+    "ko": "스팸톤"
+  },
+  "series": {
+    "en": "DELTARUNE",
+    "ja": "DELTARUNE",
+    "ko": "DELTARUNE",
+    "code": "deltarune"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14951,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DrpNiZ1kKdA/ZQoU7SSFB6I/AAAAAAABBkA/nTCotULtdAYZBo8YHu7wt6fM7OLx9_9iACNcBGAsYHQ/s270/2255-Spamton-Deltarune-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DrpNiZ1kKdA/ZQoU7SSFB6I/AAAAAAABBkA/nTCotULtdAYZBo8YHu7wt6fM7OLx9_9iACNcBGAsYHQ/s270/2255-Spamton-Deltarune-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0KwCSHYJBiU/ZQshNzKbduI/AAAAAAABBvA/PEV8dgZlVvEA3HK-Husjq8-QbERE0cwcwCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZTAHmu9hC-o/ZQshON3KESI/AAAAAAABBu8/DCHny7wXUeclrvnwfWydn-jC0879Hrw_wCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WZFVro5EtVY/ZQshOCBvoxI/AAAAAAABBvE/5GNN4dnQudMfp_Ptha8A4tFuY-M9R43egCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--bHoIfSga_c/ZQshOwJk0qI/AAAAAAABBvI/TA0vUwaWlm0Q8uDlwRcLVa9KTpqJHFhRwCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wESBhETzdh4/ZQshPJtw8aI/AAAAAAABBvM/rewdHycBjQwhi0HztjrcVyjddfCIY3pkwCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6riRSuFippg/ZQshPbUowUI/AAAAAAABBvQ/VAUZF4HmQ_4nFcHLM5ArXVsS8wgOPWkcgCNcBGAsYHQ/s135/2255-Spamton-Deltarune-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2255/",
+      "fetched_at": "2026-05-16T19:10:33.946Z",
+      "raw_id": "/nendoroid/details/n2255/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.866Z",
+      "raw_id": "Nendoroid/2200-2299/2255.json"
+    }
+  ]
+}

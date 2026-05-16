@@ -1,0 +1,68 @@
+{
+  "num": "0157",
+  "name": {
+    "en": "Nendoroid Erika Sendou (ねんどろいど せんどうえりか)",
+    "ja": "ねんどろいど 千堂瑛里華 (ねんどろいど せんどうえりか)",
+    "ko": "센도 에리카"
+  },
+  "series": {
+    "en": "Fortune Arterial",
+    "ja": "FORTUNE ARTERIAL",
+    "ko": "Fortune Arterial",
+    "code": "fortune-arterial"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3089,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zLFtpZIVZ3c/X4NKBB0YK6I/AAAAAAABlRo/jdjoyZU9F58L0Dw3ylvq7G3PSaZBCKzJACLcBGAsYHQ/s270/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zLFtpZIVZ3c/X4NKBB0YK6I/AAAAAAABlRo/jdjoyZU9F58L0Dw3ylvq7G3PSaZBCKzJACLcBGAsYHQ/s270/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Lyebo-Dbs-w/X4dTScTFyaI/AAAAAAAAqAw/9rskt_PCmMUw6xMLjVFb02lIpqAcWgkrACLcBGAsYHQ/s135/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PPtugusfZDw/X4dTSllzFZI/AAAAAAAAqA0/kef5C9nTpGY3Bh3cUlLxrsLfvkW7uN0dwCLcBGAsYHQ/s135/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lMiNKajVNwA/X4dTS0tELkI/AAAAAAAAqA4/Yg9BQfW-F0kOuJRKF1kBLy1tmlI-zLzVgCLcBGAsYHQ/s135/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nRk_4w0xf4k/X4dTSyr78oI/AAAAAAAAqA8/WLsDmzwQLtopDSHOpc_5gO5K4cu0s4I1wCLcBGAsYHQ/s135/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MYj8FMb8jNg/X4dTTcxZPcI/AAAAAAAAqBA/4JWzvPMZdPIk2fnZyFpvvcp2Zk0LX4jlQCLcBGAsYHQ/s135/157-Erika-Sendou-Fortune-Arterial-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n157/",
+      "fetched_at": "2026-05-16T19:10:33.516Z",
+      "raw_id": "/nendoroid/details/n157/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.303Z",
+      "raw_id": "Nendoroid/0100-0199/157.json"
+    }
+  ]
+}

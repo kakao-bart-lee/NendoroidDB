@@ -1,0 +1,68 @@
+{
+  "num": "1130",
+  "name": {
+    "en": "Nendoroid Eriri Spencer Sawamura: Kimono Ver.",
+    "ja": "ねんどろいど 澤村・スペンサー・英梨々 和服Ver. (ねんどろいど さわむら・すぺんさー・えりり わふくVer.)",
+    "ko": "사와무라 에리리 기모노 Ver."
+  },
+  "series": {
+    "en": "Saekano: How to Raise a Boring Girlfriend Fine",
+    "ja": "冴えない彼女の育てかた Fine",
+    "ko": "시원찮은 그녀를 위한 육성방법",
+    "code": "saekano-how-to-raise-a-boring-girlfriend-fine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8345,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MI8ETnmI1HQ/X4NgZOw4_CI/AAAAAAABmaY/IuXq97W1KFIyw6H2qIAuIk5xO0l_q2yDwCLcBGAsYHQ/s270/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MI8ETnmI1HQ/X4NgZOw4_CI/AAAAAAABmaY/IuXq97W1KFIyw6H2qIAuIk5xO0l_q2yDwCLcBGAsYHQ/s270/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-W5GRmooJ58k/X4rwFQ2oPFI/AAAAAAABpGA/ZGqhDBuCLQA_M50fitqZDNYwYrorrV9PgCLcBGAsYHQ/s135/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-f7r3DwW5xnU/X4rwFrXlvOI/AAAAAAABpGE/Bmjvdqgbrmwi584IMfvao8sMnbBX9TOOQCLcBGAsYHQ/s135/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vNXP8gNawX8/X4rwF70Q4PI/AAAAAAABpGI/utoOfBO9hGQZV5nmr6ZAhydAoYaw9oaAgCLcBGAsYHQ/s135/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hQ9seMA5hUk/X4rwGJW0gBI/AAAAAAABpGM/kfH4CWyZCCE_xyVw7ks8v7eLtAMo3ZDxACLcBGAsYHQ/s135/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OkvaholVcqQ/X4rwGdzfWpI/AAAAAAABpGQ/J9K_ejc6JmQgvycNl7fTK2KFqksvMfT-ACLcBGAsYHQ/s135/1130-Eriri-Spencer-Sawamura-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1130/",
+      "fetched_at": "2026-05-16T19:10:33.239Z",
+      "raw_id": "/nendoroid/details/n1130/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.592Z",
+      "raw_id": "Nendoroid/1100-1199/1130.json"
+    }
+  ]
+}

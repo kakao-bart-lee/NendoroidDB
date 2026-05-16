@@ -1,0 +1,68 @@
+{
+  "num": "1306",
+  "name": {
+    "en": "Nendoroid Miku Nakano",
+    "ja": "ねんどろいど 中野三玖 (ねんどろいど なかのみく)",
+    "ko": "나카노 미쿠"
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁",
+    "ko": "5등분의 신부",
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9365,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-P_0LTG3hszU/X4NjiOuClbI/AAAAAAABmzM/9U4nxzzsqWwnAgV4CGOTP6hUf6R00muLgCLcBGAsYHQ/s270/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-P_0LTG3hszU/X4NjiOuClbI/AAAAAAABmzM/9U4nxzzsqWwnAgV4CGOTP6hUf6R00muLgCLcBGAsYHQ/s270/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AfXob3VgTzs/X4s8hDLlWgI/AAAAAAABqRs/q9vNNyjwljwSGJolm2Hfj82Ffo9oTntZQCLcBGAsYHQ/s135/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tjFT3GnYb-M/X4s8hWYvspI/AAAAAAABqRw/jTVmWACRMi0K8UATLLLU8LuxD-h-zOSWQCLcBGAsYHQ/s135/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-imAkBIfDi-Q/X4s8ht5CMEI/AAAAAAABqR0/O4OuxlqHt7ce51NRlZ2wyG1tro9-IfbxQCLcBGAsYHQ/s135/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EQPmTUevWW4/X4s8h7KMKQI/AAAAAAABqR4/NRmR8CMhL_k47EuHj4aoIEYpx0XdBy80gCLcBGAsYHQ/s135/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Kd4S-k_MNI4/X4s8iKZIzQI/AAAAAAABqR8/pqPp6B3QlyQ5pcCmJoqdw2OIUPf-EPRewCLcBGAsYHQ/s135/1306-Miku-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1306/",
+      "fetched_at": "2026-05-16T19:10:33.347Z",
+      "raw_id": "/nendoroid/details/n1306/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.634Z",
+      "raw_id": "Nendoroid/1300-1399/1306.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2491",
+  "name": {
+    "en": "Inui Toko",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RcUFme09xOc/ZnsoerQv-UI/AAAAAAABE3g/EDpskYYVPB0fTgHhSsNIlPpSlcQWCxZqQCNcBGAsYHQ/s270/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RcUFme09xOc/ZnsoerQv-UI/AAAAAAABE3g/EDpskYYVPB0fTgHhSsNIlPpSlcQWCxZqQCNcBGAsYHQ/s270/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ONiL2WJNUSc/Zow6ffYT16I/AAAAAAABF-A/dC7hCsQ5Hf8-nSAiex27PZ0AJJTE8HVVwCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7zN23p2cPFw/Zow6fVZgFRI/AAAAAAABF98/TOLlezV53wQQ-kSX7MPdBHi-tpDOfwG4wCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vLgRALrQv7Y/Zow6fV795qI/AAAAAAABF-E/-G5KvuwJ_ksJXU5yafDBDgt1bZo-gYTPgCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PG7tKVlmiaE/Zow6gDNQBcI/AAAAAAABF-I/kcCj-ey8-pcCMU-fhNbYDKh1Ra22NKc6wCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3YgB0CxTFIk/Zow6gu2j4iI/AAAAAAABF-M/ONRXiFj19305aCAOHDx1jJ3iMItQNVo1QCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xeFYDnFafRQ/Zow6hFetMlI/AAAAAAABF-Q/oZvEvXUcYXAKYPqxDxmoqh4NRsQlAW_CQCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-yFSlk45RwQA/Zow6hrXyiPI/AAAAAAABF-U/05oapz6J6pQzUDYC6_fuCxWipuyCn9PZwCNcBGAsYHQ/s135/2491-Inui-Toko-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2491/",
+      "fetched_at": "2026-05-16T19:10:34.093Z",
+      "raw_id": "/nendoroid/details/n2491/"
+    }
+  ]
+}

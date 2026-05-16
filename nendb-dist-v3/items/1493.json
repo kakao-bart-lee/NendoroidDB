@@ -1,0 +1,69 @@
+{
+  "num": "1493",
+  "name": {
+    "en": "Nendoroid Black Frost",
+    "ja": "ねんどろいど じゃあくフロスト (ねんどろいど じゃあくふろすと)",
+    "ko": "잭 프로스트"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10254,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xhOfSUCytn4/X5LZpX5S_QI/AAAAAAAAt8M/aCPe31mVRn8ikqXGdsfvXmUt_lFOAAxSACLcBGAsYHQ/s270/1493-Black-Frost-Shin%2BMegami%2BTensei-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xhOfSUCytn4/X5LZpX5S_QI/AAAAAAAAt8M/aCPe31mVRn8ikqXGdsfvXmUt_lFOAAxSACLcBGAsYHQ/s270/1493-Black-Frost-Shin%2BMegami%2BTensei-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--J6jERyQL-0/X5LZXUIlIjI/AAAAAAAAt7M/bV8FQK5k1jYhVoVeTc2U5cqrY9dRuSXpgCLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZGi27taZoI8/X5LZXeDoiII/AAAAAAAAt7Q/G9AxLhFFn2MNzWjxiyJ-1U4BhWSLTg9swCLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-J39i62RJFyA/X5LZXyb3UUI/AAAAAAAAt7U/zc8CKaDPgt4CzaLdANpIaTnfvSNFU5v9ACLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-adF0ciASmMg/X5LZYWvVz2I/AAAAAAAAt7Y/P8WEuYpTxoQELN77VccvLMOWGyTx2JwbQCLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Fwaz2DidWV4/X5LZYuORu5I/AAAAAAAAt7c/LKtvKYMJGeE-tbIjML5h7ZxPXHQMYcFggCLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Xjcf-Y3IE7A/X5LZYiqJiNI/AAAAAAAAt7g/nMvivl0ZZDsS8B_g2JR3inoMALVt5VAkgCLcBGAsYHQ/s135/1493-Black-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1493/",
+      "fetched_at": "2026-05-16T19:10:33.464Z",
+      "raw_id": "/nendoroid/details/n1493/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.679Z",
+      "raw_id": "Nendoroid/1400-1499/1493.json"
+    }
+  ]
+}

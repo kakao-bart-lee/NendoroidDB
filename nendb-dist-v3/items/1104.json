@@ -1,0 +1,68 @@
+{
+  "num": "1104",
+  "name": {
+    "en": "Nendoroid Yukina Minato: Stage Outfit Ver.",
+    "ja": "ねんどろいど 湊友希那 ステージ衣装Ver. (ねんどろいど みなとゆきな すてーじいしょうVer.)",
+    "ko": "미나토 유키나 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8154,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NmsO2MViq2w/X4NgRrBSkCI/AAAAAAABmYs/AbDj2BO4PsgvdNw2QaEKVIyAXDjsn2zgQCLcBGAsYHQ/s270/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NmsO2MViq2w/X4NgRrBSkCI/AAAAAAABmYs/AbDj2BO4PsgvdNw2QaEKVIyAXDjsn2zgQCLcBGAsYHQ/s270/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Rgsp-u7p0Hs/X4rvbrBch0I/AAAAAAABo8E/uxF4aJK8pkYX19mIsiBAHuqto4vEIGwLgCLcBGAsYHQ/s135/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KAwbHRajRmU/X4rvb0cqF3I/AAAAAAABo8I/defvw4AvEX0tI6ALZaetE4uVAwVrYn5lACLcBGAsYHQ/s135/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RH8dZcWHh3A/X4rvcBdDVHI/AAAAAAABo8M/d8AF02e0uzoq1qEnUc56OXirDiscXNiDACLcBGAsYHQ/s135/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bdRlnPS7L4k/X4rvcejCCTI/AAAAAAABo8Q/YM1DtrYQb0gvx-4ce9pEQwS5L1VHSxlIgCLcBGAsYHQ/s135/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aYzLkzBaN5c/X4rvcsRPOzI/AAAAAAABo8U/6j1rRCAvKMoh-OPnNjSYjJBy1PuKNUnOgCLcBGAsYHQ/s135/1104-Yukina-Minato-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1104/",
+      "fetched_at": "2026-05-16T19:10:33.223Z",
+      "raw_id": "/nendoroid/details/n1104/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.585Z",
+      "raw_id": "Nendoroid/1100-1199/1104.json"
+    }
+  ]
+}

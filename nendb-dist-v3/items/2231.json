@@ -1,0 +1,68 @@
+{
+  "num": "2231",
+  "name": {
+    "en": "Nendoroid Yayoi Hozuki",
+    "ja": "ねんどろいど 寳月夜宵 (ねんどろいど ほうづきやよい)",
+    "ko": "호우즈키 야요이"
+  },
+  "series": {
+    "en": "Dark Gathering",
+    "ja": "ダークギャザリング",
+    "ko": "다크 개더링",
+    "code": "dark-gathering"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14819,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fhRGU39PJJk/ZQoU3SCmL4I/AAAAAAABBjM/9bc15KeVs3EYbx2agCek1ocYlniLFWmnACNcBGAsYHQ/s270/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fhRGU39PJJk/ZQoU3SCmL4I/AAAAAAABBjM/9bc15KeVs3EYbx2agCek1ocYlniLFWmnACNcBGAsYHQ/s270/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Okulji0Sg3A/ZQsgsv6iSRI/AAAAAAABBqI/kUKLLt-9zP8afOU7S5hRt2A2LPCGby5HQCNcBGAsYHQ/s135/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AWdZDr2KceQ/ZQsgtKVymeI/AAAAAAABBqM/AMfeuImllts0wwmOnTZtkKZDjxfIxG5PACNcBGAsYHQ/s135/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7GZJh8XgCfE/ZQsgtnFRSII/AAAAAAABBqQ/jqEcSvj53WwfXPNKrKG8urBpDSHdwC-nwCNcBGAsYHQ/s135/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Wb2wBxrCMgQ/ZQsguUl-i4I/AAAAAAABBqU/99b8gFB8m4kYzqdUOJ8S483HUZkSp1cnQCNcBGAsYHQ/s135/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HJclKg6g15w/ZQsguy2lHGI/AAAAAAABBqY/uLo1SbjoBKY0ERC7wcyF5sUzD-LnDLhhwCNcBGAsYHQ/s135/2231-Yayoi-Hozuki-Dark-Gathering-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2231/",
+      "fetched_at": "2026-05-16T19:10:33.933Z",
+      "raw_id": "/nendoroid/details/n2231/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.860Z",
+      "raw_id": "Nendoroid/2200-2299/2231.json"
+    }
+  ]
+}

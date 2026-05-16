@@ -1,0 +1,68 @@
+{
+  "num": "2134",
+  "name": {
+    "en": "Nendoroid Guts",
+    "ja": "ねんどろいど ガッツ (ねんどろいど がっつ)",
+    "ko": "가츠"
+  },
+  "series": {
+    "en": "Berserk",
+    "ja": "TVアニメ「ベルセルク」",
+    "ko": "베르세르크",
+    "code": "berserk"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14342,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OqZ_ZKzBzJ0/ZFqWczkn5qI/AAAAAAAA9z0/t7zQBHyko14b8BpkU86SXDI5DPjz185oQCNcBGAsYHQ/s270/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OqZ_ZKzBzJ0/ZFqWczkn5qI/AAAAAAAA9z0/t7zQBHyko14b8BpkU86SXDI5DPjz185oQCNcBGAsYHQ/s270/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8t68g12cOpk/ZFqb-0-geMI/AAAAAAAA9-I/bp0UrMqqzXUibeuWL7j8-Z7QqtOktNa9QCNcBGAsYHQ/s135/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cXBxpqznwH4/ZFqb_SdZRiI/AAAAAAAA9-M/MPQm9CHXcVs2wTawOQdaXiysKBvCQTFxwCNcBGAsYHQ/s135/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-t4iIoxx71kg/ZFqb__P_EoI/AAAAAAAA9-U/5sE2-ZAOK4cxM3ymo3cWZpPj_FA2ftO8gCNcBGAsYHQ/s135/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RbOauQZmRDc/ZFqb_1E_jcI/AAAAAAAA9-Y/LssnllfWV2QsjksgihiBG7YNxxx85vEJgCNcBGAsYHQ/s135/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4nbcQzErHWs/ZFqb_wZxPcI/AAAAAAAA9-Q/puyjSSnDCxoBHWw26LTZUbMqF5Debm1pACNcBGAsYHQ/s135/2134-Guts-Berserk-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2134/",
+      "fetched_at": "2026-05-16T19:10:33.859Z",
+      "raw_id": "/nendoroid/details/n2134/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.835Z",
+      "raw_id": "Nendoroid/2100-2199/2134.json"
+    }
+  ]
+}

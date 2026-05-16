@@ -1,0 +1,68 @@
+{
+  "num": "1520",
+  "name": {
+    "en": "Nendoroid Black Widow: Black Widow Ver.",
+    "ja": "ねんどろいど ブラックウィドウ Black Widow Ver. (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver.)",
+    "ko": "블랙위도우 Black Widow Ver."
+  },
+  "series": {
+    "en": "Black Widow",
+    "ja": "ブラックウィドウ",
+    "ko": "블랙 위도우",
+    "code": "black-widow"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10420,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VK4cfScqJY8/X8AK9QgN9sI/AAAAAAAAuu8/-N_ddnC1KAAIk0eL-qYiLw6CdsLgXnlpQCLcBGAsYHQ/s270/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VK4cfScqJY8/X8AK9QgN9sI/AAAAAAAAuu8/-N_ddnC1KAAIk0eL-qYiLw6CdsLgXnlpQCLcBGAsYHQ/s270/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JaG8-c1OP4I/X8AN8Qlz6pI/AAAAAAAAuws/zG_1_-u_8a8KhBNy_-p7tfSvkFgxktKUACLcBGAsYHQ/s135/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aCsF71HToLY/X8AN8tMEkoI/AAAAAAAAuww/jBy5SBrLitUuZgfNnQkZTUEHq5EVR4xiACLcBGAsYHQ/s135/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RX1QcS8F98U/X8AN8zBUD2I/AAAAAAAAuw0/cJ6TXEAydA8MqnDDPTXHRigV6lCCc07sgCLcBGAsYHQ/s135/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qWeNNhay2gQ/X8AN9PjcTxI/AAAAAAAAuw4/OHbUoYw6TkklagdcWUTs2dfQdDkKGz24ACLcBGAsYHQ/s135/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Am6A2Ejp93Q/X8AN9eTjfMI/AAAAAAAAuw8/c-0Ha2bC8zIJwhcxvAo12ROTBNgE-LC6QCLcBGAsYHQ/s135/1520-Black-Widow-Black-Widow-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1520/",
+      "fetched_at": "2026-05-16T19:10:33.480Z",
+      "raw_id": "/nendoroid/details/n1520/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.686Z",
+      "raw_id": "Nendoroid/1500-1599/1520.json"
+    }
+  ]
+}

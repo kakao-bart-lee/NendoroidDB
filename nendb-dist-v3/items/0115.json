@@ -1,0 +1,68 @@
+{
+  "num": "0115",
+  "name": {
+    "en": "Nendoroid Remilia Scarlet (ねんどろいど れみりあ・すかーれっと)",
+    "ja": "ねんどろいど レミリア・スカーレット (ねんどろいど れみりあ・すかーれっと)",
+    "ko": "레밀리아 스칼렛"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2859,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1-z1wLvWxL4/X4NJwV_XtRI/AAAAAAABlOw/2G9h-ldO_lkgFyYG4PxNQ2KByRox3eWfACLcBGAsYHQ/s270/115-Remilia-Scarlet-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1-z1wLvWxL4/X4NJwV_XtRI/AAAAAAABlOw/2G9h-ldO_lkgFyYG4PxNQ2KByRox3eWfACLcBGAsYHQ/s270/115-Remilia-Scarlet-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5kJ-kDxYKzU/X4dSNOKzayI/AAAAAAAApx8/Tbbad0_HssEbK8IE2Ky0UPxU7CfqWEfbACLcBGAsYHQ/s135/115-Remilia-Scarlet-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KZDHsa6K1kw/X4dSNfZFEII/AAAAAAAApyA/EMPunxn2ipI4BZI4PrqQ6iqZqT2WKWGtACLcBGAsYHQ/s135/115-Remilia-Scarlet-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UhPrPaDf2js/X4dSN-GJ9rI/AAAAAAAApyE/TlBD4j64cjEK5YuzwJAtSz21WUQyf-AAwCLcBGAsYHQ/s135/115-Remilia-Scarlet-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g0mWb4G08JU/X4dSOBlMaEI/AAAAAAAApyI/OdAVWxGeIZ8spD6_W8VM3OHvQ6MLn-AiwCLcBGAsYHQ/s135/115-Remilia-Scarlet-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KPbnbYGPJ1Y/X4dSOCyPUMI/AAAAAAAApyM/O-GeytOSEK89_zhSGUFVJbjyrenuFZZfQCLcBGAsYHQ/s135/115-Remilia-Scarlet-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n115/",
+      "fetched_at": "2026-05-16T19:10:33.258Z",
+      "raw_id": "/nendoroid/details/n115/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.292Z",
+      "raw_id": "Nendoroid/0100-0199/115.json"
+    }
+  ]
+}

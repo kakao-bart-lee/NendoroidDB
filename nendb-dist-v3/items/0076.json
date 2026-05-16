@@ -1,0 +1,69 @@
+{
+  "num": "0076",
+  "name": {
+    "en": "Nendoroid Riannon (りあんのん ねんどろいど)",
+    "ja": "ねんどろいど リアンノン (りあんのん ねんどろいど)",
+    "ko": "리안논"
+  },
+  "series": {
+    "en": "Tears To Tiara",
+    "ja": "ティアーズ・トゥ・ティアラ",
+    "ko": "티어즈 투 티아라",
+    "code": "tears-to-tiara"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2495,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WItBNKnkC2Y/X4MSEZ6sbhI/AAAAAAAApbU/L5KZIRkd06MdT7GsK8PZ1EZ-PQDwO8zQgCLcBGAsYHQ/s270/076-Riannon-Tears-To-Tiara-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WItBNKnkC2Y/X4MSEZ6sbhI/AAAAAAAApbU/L5KZIRkd06MdT7GsK8PZ1EZ-PQDwO8zQgCLcBGAsYHQ/s270/076-Riannon-Tears-To-Tiara-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lD4PyZDdlKk/X4Gw5NIwNAI/AAAAAAAApLc/MNN5nGWEjR8-PU4ElqC5vpsR9DsJsayPgCLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_2dkS9tgvhk/X4Gw5SAgOQI/AAAAAAAApLg/I-Ncw2c8b3UnDu5Xj6q-efpG3dBncM0rACLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-54C-e1G7EJY/X4Gw5ltQMrI/AAAAAAAApLk/3OZt3OyTGe0MoRoqB9xfnSy5bBqFJjfqQCLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6FRfNJxGGUc/X4Gw5iADbAI/AAAAAAAApLo/qquOvojQysUOhJAWBHE1JWsStYIv3xQDACLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0wExENd3NUg/X4Gw51ao8xI/AAAAAAAApLs/4bFq_YdMSaY6vTEYG7QGjMuiRdZqeVfEgCLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SHC_aX9Gf2Y/X4Gw58bf36I/AAAAAAAApLw/vfDRiGlG_f0Dn5N1OTrS0jC-wNAkMdvUACLcBGAsYHQ/s135/076-Riannon-Tears-to-Tiara-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n076/",
+      "fetched_at": "2026-05-16T19:10:33.112Z",
+      "raw_id": "/nendoroid/details/n076/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.282Z",
+      "raw_id": "Nendoroid/0000-0099/076.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "2198",
+  "name": {
+    "en": "Nendoroid Shizuma Ikushima",
+    "ja": "ねんどろいど 生嶋静真 (ねんどろいど いくしましずま)",
+    "ko": "이쿠시마 시즈마"
+  },
+  "series": {
+    "en": "Therapy Game",
+    "ja": "セラピーゲーム",
+    "ko": "테라피 게임",
+    "code": "therapy-game"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14589,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SyQ_2e3Fu0E/ZKXXTTx8p-I/AAAAAAAA-lM/oSUQRXgIe_sTKbIofIPspwpuLeHMO4WAgCNcBGAsYHQ/s270/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SyQ_2e3Fu0E/ZKXXTTx8p-I/AAAAAAAA-lM/oSUQRXgIe_sTKbIofIPspwpuLeHMO4WAgCNcBGAsYHQ/s270/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Oqy15zWjvKM/ZKXm2JJo1yI/AAAAAAAA_FI/X4cqApUwIfEr_NMRz9JhLacQCPCwkdgTACNcBGAsYHQ/s135/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Lo2uNoOAuq0/ZKXm2svMl2I/AAAAAAAA_FM/pxveL-zNTEQuYbRGjGlx9kb7P06KP29VwCNcBGAsYHQ/s135/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0BmzCiDlf8s/ZKXm3PeIs2I/AAAAAAAA_FQ/ojv06jQST6oRdruc1aualvF831Ydu9i5gCNcBGAsYHQ/s135/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--pInQk2p8Vo/ZKXm3ZT_QeI/AAAAAAAA_FU/8q7gsavdNVY-o5r_nQjEF0dgf62Fn2mdACNcBGAsYHQ/s135/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GFCDW2KYjdw/ZKXm3s7FvCI/AAAAAAAA_FY/MaW2_NsQ5HkMJeUxjqaCNWOioWekLJNfQCNcBGAsYHQ/s135/2198-Shizuma-Ikushima-Therapy-Game-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2198/",
+      "fetched_at": "2026-05-16T19:10:33.901Z",
+      "raw_id": "/nendoroid/details/n2198/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.852Z",
+      "raw_id": "Nendoroid/2100-2199/2198.json"
+    }
+  ]
+}

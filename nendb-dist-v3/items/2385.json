@@ -1,0 +1,64 @@
+{
+  "num": "2385",
+  "name": {
+    "en": "Marcille",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Delicious In Dungeon",
+    "ja": null,
+    "ko": null,
+    "code": "delicious-in-dungeon"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qAJZJb-BfuM/ZcqevHj3KII/AAAAAAABDY4/v-vGg4wWUfURYu88WMtSKDKGK6u-kg5WQCNcBGAsYHQ/s270/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qAJZJb-BfuM/ZcqevHj3KII/AAAAAAABDY4/v-vGg4wWUfURYu88WMtSKDKGK6u-kg5WQCNcBGAsYHQ/s270/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wtv1dAQ8aeo/Zow0bZlFwmI/AAAAAAABFRg/XQ_4MwgQ8mQUQs9m7gDsHjBEcKJPZuiAgCNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tyHaou1RMzM/Zow0b4yRrdI/AAAAAAABFRk/ZO883EkxyE4DQn9LVwdEh-rMHhcqOC69gCNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qr4tX-PO_uk/Zow0cZQq5PI/AAAAAAABFRo/dW8YKJmCLOc-q-f1HflPTb4F68TYo2VXQCNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BIls3-RCDJs/Zow0cyFOEWI/AAAAAAABFRs/VjH8y-z-q38QdPZt4QhpDoXa0s2agUtiwCNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lcR-NhaeaMo/Zow0diB4AZI/AAAAAAABFRw/n16sb31pt-kLHwWjSv4GswddWkvgmFQGgCNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1qZQJWuBiqI/Zow0d_xgZWI/AAAAAAABFR0/4I70PoeRmDI4kxEgBV3fOUka66O0EHrmACNcBGAsYHQ/s135/2385-Marcille-Delicious-in-Dungeon-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2385/",
+      "fetched_at": "2026-05-16T19:10:34.025Z",
+      "raw_id": "/nendoroid/details/n2385/"
+    }
+  ]
+}

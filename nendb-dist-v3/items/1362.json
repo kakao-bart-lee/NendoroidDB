@@ -1,0 +1,68 @@
+{
+  "num": "1362",
+  "name": {
+    "en": "Nendoroid Hina Hikawa: Stage Outfit Ver.",
+    "ja": "ねんどろいど 氷川日菜 ステージ衣装Ver. (ねんどろいど ひかわひな すてーじいしょうVer.)",
+    "ko": "히카와 히나 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9595,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KwEf_Pwrte4/X4NjzO9uYpI/AAAAAAABm2o/3kmI0I5LmNA98eJDne07kLeRbYZlz_y3QCLcBGAsYHQ/s270/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KwEf_Pwrte4/X4NjzO9uYpI/AAAAAAABm2o/3kmI0I5LmNA98eJDne07kLeRbYZlz_y3QCLcBGAsYHQ/s270/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Mm9s7D-O1oY/X4s9yOHInMI/AAAAAAABqk4/vTIqMhloeZ8-TeMw4F8Ydx_WznilQzOBwCLcBGAsYHQ/s135/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-O0gPVVru8nk/X4s9yWfBxwI/AAAAAAABqk8/eRSjMPCmgE4oSoH0ALwDrM6xIL88jL1XwCLcBGAsYHQ/s135/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d2U9CvEhGmM/X4s9yryYV8I/AAAAAAABqlA/bWWdOyMX8o812VPCCh3sNdIxtAsMd7f8wCLcBGAsYHQ/s135/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CRQb1LiZezU/X4s9zDNnjcI/AAAAAAABqlE/RnDNa0GiuHU4_KFNy35Y8jIZPX7ANXR2QCLcBGAsYHQ/s135/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fbQqfFA3g00/X4s9zPdm0eI/AAAAAAABqlI/Zr1QyRW6L8MW-tt5ECbxUSidIW8qcfR1gCLcBGAsYHQ/s135/1362-Hina-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1362/",
+      "fetched_at": "2026-05-16T19:10:33.382Z",
+      "raw_id": "/nendoroid/details/n1362/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.648Z",
+      "raw_id": "Nendoroid/1300-1399/1362.json"
+    }
+  ]
+}

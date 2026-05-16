@@ -1,0 +1,68 @@
+{
+  "num": "1009",
+  "name": {
+    "en": "Nendoroid Arale Norimaki: Cat Ears Ver. & Gacchan",
+    "ja": "ねんどろいど 則巻アラレ 猫耳Ver.＆ガッちゃん (ねんどろいど のりまきあられ ねこみみVer.＆がっちゃん)",
+    "ko": "노리마키 아라레 고양이귀 Ver. &갓짱"
+  },
+  "series": {
+    "en": "Dr.SLUMP ARALE CHAN",
+    "ja": "Dr.スランプ アラレちゃん",
+    "ko": "닥터 슬럼프",
+    "code": "dr-slump-arale-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7654,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JxMyPDsKJos/X4NfhUi3bbI/AAAAAAABmRk/3LeT2vs0pC0_YM5T4-U8yKPUB-zIRsGFACLcBGAsYHQ/s270/1009-Arale-Norimaki-Cat-Ears-Ver-Dr-Slump-Arale-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JxMyPDsKJos/X4NfhUi3bbI/AAAAAAABmRk/3LeT2vs0pC0_YM5T4-U8yKPUB-zIRsGFACLcBGAsYHQ/s270/1009-Arale-Norimaki-Cat-Ears-Ver-Dr-Slump-Arale-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SGweJZvrET4/X4rrOMiVmqI/AAAAAAABoVA/PvfnXXjUbsceMYKTwYsk-fRT0CHygS8cACLcBGAsYHQ/s135/1009-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sxHtWT-fEUY/X4rrOCyVdoI/AAAAAAABoVE/FsdJPCu-W1oFD8S6cryo4LyUR813-Ky4QCLcBGAsYHQ/s135/1009-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_vMWHmeTazg/X4rrOVeHxDI/AAAAAAABoVI/i4pLUmalvTI12v1zN-ps_fa7T6YYLiuWgCLcBGAsYHQ/s135/1009-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gt-6GThvLxE/X4rrO233wsI/AAAAAAABoVM/yR5M_hDJH-EgRLFWjqDY1ymv-t6XBlqSwCLcBGAsYHQ/s135/1009-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mzK5Q6ca2_E/X4rrPWi5ifI/AAAAAAABoVQ/FGLAvu9sPbMyZ_P3HqWSZcqwJO4w1xi0QCLcBGAsYHQ/s135/1009-Arale-Norimaki-Dr.SLUMP-ARALE-CHAN-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1009/",
+      "fetched_at": "2026-05-16T19:10:33.132Z",
+      "raw_id": "/nendoroid/details/n1009/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.563Z",
+      "raw_id": "Nendoroid/1000-1099/1009.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0978",
+  "name": {
+    "en": "Nendoroid Huang Shaotian",
+    "ja": "ねんどろいど 黄少天 (ねんどろいど ふぁんしゃおてん)",
+    "ko": "황샤오텐"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7518,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mXPeE_r7vPs/X4Ney3s7EZI/AAAAAAABmOs/n7p1Elgnr24DrebcA0Io8ET2MQ0uXlyyQCLcBGAsYHQ/s270/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mXPeE_r7vPs/X4Ney3s7EZI/AAAAAAABmOs/n7p1Elgnr24DrebcA0Io8ET2MQ0uXlyyQCLcBGAsYHQ/s270/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-u9Dd6HbceVI/X4rpO5zZttI/AAAAAAABoFg/fAQ0xXHsbiE6kvpBnUzpwCvw5fyygBbXgCLcBGAsYHQ/s135/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vrJ96QPEUWA/X4rpPJ0iUuI/AAAAAAABoFk/YLIaQINFLk8xZ8EFX3FKeqYD78cDjjkXACLcBGAsYHQ/s135/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XUnunAOcyjc/X4rpPmBZfiI/AAAAAAABoFo/_g8tqgtOEwcrlAhinhXnmm2jkMy4g_fTgCLcBGAsYHQ/s135/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cFCduBrE0ss/X4rpP4_QcqI/AAAAAAABoFs/CsTwUlZ9Wdwue97CI1w9kcqYKQeJbhNAgCLcBGAsYHQ/s135/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GeHliuGjNf4/X4rpQPZy9kI/AAAAAAABoFw/YfHqQjQcvn4cqbpVcSTE6Y_mD5SyCE0DQCLcBGAsYHQ/s135/978-Huang-Shaotian-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n978/",
+      "fetched_at": "2026-05-16T19:10:34.906Z",
+      "raw_id": "/nendoroid/details/n978/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.555Z",
+      "raw_id": "Nendoroid/0900-0999/978.json"
+    }
+  ]
+}

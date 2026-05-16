@@ -1,0 +1,67 @@
+{
+  "num": "0155a",
+  "name": {
+    "en": "Nendoroid Aldora (ねんどろいど あるどら)",
+    "ja": "ねんどろいど アルドラ (ねんどろいど あるどら)",
+    "ko": "알드라"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3084,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ikZOq5RbYu4/X4NKAcyibLI/AAAAAAABlRc/0WG6r_4DOKEAgUsGJMR5sOv1Ai3M1z_iACLcBGAsYHQ/s270/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ikZOq5RbYu4/X4NKAcyibLI/AAAAAAABlRc/0WG6r_4DOKEAgUsGJMR5sOv1Ai3M1z_iACLcBGAsYHQ/s270/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e-5sTw8tMs0/X4dTOEvILOI/AAAAAAAAp_4/yQ1Cl7yBXSctYxH_CUMcn56NvnxkJ1aMgCLcBGAsYHQ/s135/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qYieNnbBGho/X4dTOc-cfYI/AAAAAAAAp_8/odR-meCiMYMK0LLn6_eCqMIoJL4K70fxgCLcBGAsYHQ/s135/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-amjXZQ__muE/X4dTOhArg5I/AAAAAAAAqAA/Ib8vgEZJ4CkT0muLrUKjsD8hO-rTQMjBwCLcBGAsYHQ/s135/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MB-Znr9Kpx4/X4dTOxgtkKI/AAAAAAAAqAE/uBLdNClANgIZ0Cpjf7HbjC9CvlQbI86JQCLcBGAsYHQ/s135/155A-Aldra-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n155a/",
+      "fetched_at": "2026-05-16T19:10:33.503Z",
+      "raw_id": "/nendoroid/details/n155a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.303Z",
+      "raw_id": "Nendoroid/0100-0199/155a.json"
+    }
+  ]
+}

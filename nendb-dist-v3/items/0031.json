@@ -1,0 +1,64 @@
+{
+  "num": "0031",
+  "name": {
+    "en": "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)",
+    "ja": "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
+    "ko": "L 순록 Ver."
+  },
+  "series": {
+    "en": "DEATH NOTE",
+    "ja": "DEATH NOTE",
+    "ko": "데스노트",
+    "code": "death-note"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2619,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jVmNJSeBvZc/X4MR3XL0i6I/AAAAAAAApYc/imr0jfJaMLEK2oMLaxVrInoai0feLcFHgCLcBGAsYHQ/s270/031-L-Lawliet-Reindeer-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jVmNJSeBvZc/X4MR3XL0i6I/AAAAAAAApYc/imr0jfJaMLEK2oMLaxVrInoai0feLcFHgCLcBGAsYHQ/s270/031-L-Lawliet-Reindeer-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ot2uFbpOFM0/X4GwX47butI/AAAAAAAApBU/eAVQMnmIm3AZdFjLQCaETOJo1hnu5diwQCLcBGAsYHQ/s135/031-L-Lawliet-Death-Note-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n031/",
+      "fetched_at": "2026-05-16T19:10:33.084Z",
+      "raw_id": "/nendoroid/details/n031/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.269Z",
+      "raw_id": "Nendoroid/0000-0099/031.json"
+    }
+  ]
+}

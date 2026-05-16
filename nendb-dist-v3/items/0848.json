@@ -1,0 +1,68 @@
+{
+  "num": "0848",
+  "name": {
+    "en": "Nendoroid Tatara Fujita",
+    "ja": "ねんどろいど 富士田多々良 (ねんどろいど ふじたたたら)",
+    "ko": "후지타 타타라"
+  },
+  "series": {
+    "en": "Welcome to the Ballroom",
+    "ja": "ボールルームへようこそ",
+    "ko": "볼룸에 오신 것을 환영합니다",
+    "code": "welcome-to-the-ballroom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6863,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5OtMN80qQVQ/X4Nd2IfTMSI/AAAAAAABmFs/q4-MjWFZXdgAYFuhGfjL4eAWQtBKqJWXQCLcBGAsYHQ/s270/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5OtMN80qQVQ/X4Nd2IfTMSI/AAAAAAABmFs/q4-MjWFZXdgAYFuhGfjL4eAWQtBKqJWXQCLcBGAsYHQ/s270/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZaCzPIUi2lY/X4rjH7xoLGI/AAAAAAABnRY/_RbYQvMRTCYnC78vHKThpifV36lfd4X9gCLcBGAsYHQ/s135/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1Lj1Cha9iHc/X4rjIJDV3BI/AAAAAAABnRc/IIASzJgcSrgk6AuMFQoxVohYVQN9IzkMwCLcBGAsYHQ/s135/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d0nIkggVFH8/X4rjImCwr-I/AAAAAAABnRg/fLNi2YCSmxQwhLM_z-XUBt8DuN4ivLfyACLcBGAsYHQ/s135/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LGXbxO85LcA/X4rjI-sE2II/AAAAAAABnRk/ltAVZgoicRgygjzPQABFfkhsch3NBXH7ACLcBGAsYHQ/s135/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uoyvwuIkZbo/X4rjI8HackI/AAAAAAABnRo/m8Fq5iAxcAAx0fcBoadBR4Ol10IoFVfEwCLcBGAsYHQ/s135/848-Tatara-Fujita-Welcome-to-the-Ballroom-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n848/",
+      "fetched_at": "2026-05-16T19:10:34.834Z",
+      "raw_id": "/nendoroid/details/n848/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.521Z",
+      "raw_id": "Nendoroid/0800-0899/848.json"
+    }
+  ]
+}

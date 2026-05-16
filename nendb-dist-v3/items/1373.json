@@ -1,0 +1,68 @@
+{
+  "num": "1373",
+  "name": {
+    "en": "Nendoroid Sasori",
+    "ja": "ねんどろいど サソリ (ねんどろいど さそり)",
+    "ko": "사소리"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9624,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mE41k3LMLZM/X4Nj11mwK9I/AAAAAAABm3U/NlSHItqpnrApiavxeDSYYY-AnYBzdOihwCLcBGAsYHQ/s270/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mE41k3LMLZM/X4Nj11mwK9I/AAAAAAABm3U/NlSHItqpnrApiavxeDSYYY-AnYBzdOihwCLcBGAsYHQ/s270/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-q9s1h94HHuY/X4s-BXmFcSI/AAAAAAABqow/i7gilRBWyoELJDGoGyxmO2IBZpdDrbAZgCLcBGAsYHQ/s135/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1ItV4IKS2lg/X4s-Bu5Qx4I/AAAAAAABqo0/xH4N8Uzu7b4fqaLzr3Hmkj7gsq3gPzP_ACLcBGAsYHQ/s135/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JmK2RKodUsw/X4s-CCm_7dI/AAAAAAABqo4/Vhh0z-FUTQYv8byi3Ate5a46VGC7Qa_YwCLcBGAsYHQ/s135/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rZ6Y5xuPeIc/X4s-CahgS7I/AAAAAAABqpA/6qvncPaNDLUawj6wcseMW2NY6wfw_RzFACLcBGAsYHQ/s135/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CA11evhqrNU/X4s-CVLhXFI/AAAAAAABqo8/hhV7o6eirGggMFtgkqvQpyjgcUS2IqLzgCLcBGAsYHQ/s135/1373-Sasori-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1373/",
+      "fetched_at": "2026-05-16T19:10:33.389Z",
+      "raw_id": "/nendoroid/details/n1373/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.650Z",
+      "raw_id": "Nendoroid/1300-1399/1373.json"
+    }
+  ]
+}

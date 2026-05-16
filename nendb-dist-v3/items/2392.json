@@ -1,0 +1,64 @@
+{
+  "num": "2392",
+  "name": {
+    "en": "Hoshiguma",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": null,
+    "ko": null,
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NCKe5MWUXiM/Ziq-uSPS5oI/AAAAAAABD_M/gMbaD6loCQsOR_kURgKq0PTCY_jPG5BeACNcBGAsYHQ/s270/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NCKe5MWUXiM/Ziq-uSPS5oI/AAAAAAABD_M/gMbaD6loCQsOR_kURgKq0PTCY_jPG5BeACNcBGAsYHQ/s270/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3Cmh4PVH5J8/Zow0sonzqpI/AAAAAAABFTo/ob87mK_GV-gFL5znVBLNEeZwVizxV6RVACNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cbBvyY7Dwq4/Zow0tJoOVUI/AAAAAAABFTs/hnrtKXlY9vwfjEOok-PkkAUCygKqZpDVQCNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7qiwKjcoHOM/Zow0toCWbhI/AAAAAAABFTw/Jntop0VtMZ44x175PWoX_5p5AdYCelGOgCNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ivv9mTZKIYA/Zow0uOIqtiI/AAAAAAABFT0/nI6Rv2mWJcQo7ANRL3AFmJgRI3spVxyBACNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-K8niO6RIJcM/Zow0ug5T7oI/AAAAAAABFT4/eiFqPABrf243etwUFs_Iul5ZUuGXjzTJQCNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--8zYjy9VEjc/Zow0vEb-7cI/AAAAAAABFUA/OGq3sUjr_wUO-rgJD50L-liJdXW3qB_jwCNcBGAsYHQ/s135/2392-Hoshiguma-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2392/",
+      "fetched_at": "2026-05-16T19:10:34.029Z",
+      "raw_id": "/nendoroid/details/n2392/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1969",
+  "name": {
+    "en": "Nendoroid Mito",
+    "ja": "ねんどろいど ミト (ねんどろいど みと)",
+    "ko": "미토"
+  },
+  "series": {
+    "en": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+    "ja": "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
+    "ko": "소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 -",
+    "code": "sword-art-online-the-movie-progressive-aria-of-a-starless-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13282,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Cuhqnu6eH3c/Y02wHSRELwI/AAAAAAAA7AM/-gjhFwolIS0iYzKR4ZNBPZUSIOD46FC9QCNcBGAsYHQ/s270/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Cuhqnu6eH3c/Y02wHSRELwI/AAAAAAAA7AM/-gjhFwolIS0iYzKR4ZNBPZUSIOD46FC9QCNcBGAsYHQ/s270/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-P60wrM3QTTk/Y028IVS9h4I/AAAAAAAA7Xc/xJG7nR95Cs4NZivNOIo8c81CxFsZH0S3wCNcBGAsYHQ/s135/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FAAUyQokuec/Y028I179XYI/AAAAAAAA7Xg/lZgbDI4qsxcAuGUkxBQFA_L9PNZGAoviQCNcBGAsYHQ/s135/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yUwjv06qiNw/Y028JO8w6FI/AAAAAAAA7Xk/ppOPY_f_RxA2CGN5ah-R3YfDImnVh6r_QCNcBGAsYHQ/s135/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6hWQ5BG8VcQ/Y028JYEj-nI/AAAAAAAA7Xo/3bvlo8-JcdcBjYlMMo9xwUR12Uq6Xii6wCNcBGAsYHQ/s135/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uvaiQ6G4nr0/Y028JYAe8uI/AAAAAAAA7Xs/3NZoLpxTcXgRRA41qd81Kfbg1m4-tXeFQCNcBGAsYHQ/s135/1969-Mito-Sword-Art-Online-Progressive-Aria-of-a-Starless-Night-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1969/",
+      "fetched_at": "2026-05-16T19:10:33.759Z",
+      "raw_id": "/nendoroid/details/n1969/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.794Z",
+      "raw_id": "Nendoroid/1900-1999/1969.json"
+    }
+  ]
+}

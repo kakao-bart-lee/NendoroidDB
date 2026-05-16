@@ -1,0 +1,68 @@
+{
+  "num": "1159",
+  "name": {
+    "en": "Nendoroid Garou: Super Movable Edition",
+    "ja": "ねんどろいど ガロウ スーパームーバブル・エディション (ねんどろいど がろう すーぱーむーばぶる・えでぃしょん)",
+    "ko": "가로우 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8476,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8RuqeXGo6ZQ/X4NgjsYoHwI/AAAAAAABmcY/KcMt5lpazP4MeThsNWvMHcJFUvj8g-0vwCLcBGAsYHQ/s270/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8RuqeXGo6ZQ/X4NgjsYoHwI/AAAAAAABmcY/KcMt5lpazP4MeThsNWvMHcJFUvj8g-0vwCLcBGAsYHQ/s270/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1O4Tp4KEGN8/X4rw3xwrTvI/AAAAAAABpR0/nhNnn1BhH-02tznnEVJEVKA8cpGFr2rZACLcBGAsYHQ/s135/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JOuGrXl7AtU/X4rw4djIJnI/AAAAAAABpR4/yFwDC8cnLGYrDabn4fwELYanldoPCGIpQCLcBGAsYHQ/s135/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wGsDfLDcGbs/X4rw43BRE5I/AAAAAAABpR8/TEIZqzow8uAc_f6HSayy5H9wSBEfha9mACLcBGAsYHQ/s135/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zfVp3iLSGD4/X4rw5YW5nZI/AAAAAAABpSA/Rmpb2_bEb-Uf0nGetP_9Ql36HDtR6cZPgCLcBGAsYHQ/s135/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ehRqy8WyMrM/X4rw5-4VS1I/AAAAAAABpSE/VLRHw5yRYzw0i5C9WXXab6X6yE488juGQCLcBGAsYHQ/s135/1159-Garou-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1159/",
+      "fetched_at": "2026-05-16T19:10:33.258Z",
+      "raw_id": "/nendoroid/details/n1159/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.599Z",
+      "raw_id": "Nendoroid/1100-1199/1159.json"
+    }
+  ]
+}

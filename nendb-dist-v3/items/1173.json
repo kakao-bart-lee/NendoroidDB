@@ -1,0 +1,67 @@
+{
+  "num": "1173",
+  "name": {
+    "en": "Nendoroid Jiu Yue",
+    "ja": "ねんどろいど 九月 (ねんどろいど きゅうげつ)",
+    "ko": "구월"
+  },
+  "series": {
+    "en": "Fei Ren Zai",
+    "ja": "非人哉",
+    "ko": "비인재",
+    "code": "fei-ren-zai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8585,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PN9dU4ly5_s/X4NgqeNyscI/AAAAAAABmdY/EtWGzhQ86gkszgt6ygzc3hblXj8MOufqwCLcBGAsYHQ/s270/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PN9dU4ly5_s/X4NgqeNyscI/AAAAAAABmdY/EtWGzhQ86gkszgt6ygzc3hblXj8MOufqwCLcBGAsYHQ/s270/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DhUHS7mc-eo/X4rxS2UPv7I/AAAAAAABpX0/Ek6KxkpAPIw8Ccr75Xklz-sKR3AtxE4MgCLcBGAsYHQ/s135/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zRC4F94cN58/X4rxTNwaqWI/AAAAAAABpX4/uY2I-Ir7VggcTqH65JsCRdxq_RcVRAYDACLcBGAsYHQ/s135/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P15tYLhPV8E/X4rxTY1mGiI/AAAAAAABpX8/gm8eVAl84Rwt7iuMoMmnQvgrjy8Fj8V7wCLcBGAsYHQ/s135/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ECXJLEaBS3U/X4rxTg5fOqI/AAAAAAABpYA/1ICHLUWYbt86eS-LBgYb9XyNOLY34rVNQCLcBGAsYHQ/s135/1173-Jiu-Yue-Fei-Ren-Zai-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1173/",
+      "fetched_at": "2026-05-16T19:10:33.266Z",
+      "raw_id": "/nendoroid/details/n1173/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.602Z",
+      "raw_id": "Nendoroid/1100-1199/1173.json"
+    }
+  ]
+}

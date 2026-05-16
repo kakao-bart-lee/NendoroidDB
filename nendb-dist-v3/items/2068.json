@@ -1,0 +1,96 @@
+{
+  "num": "2068",
+  "name": {
+    "en": "Nendoroid Boyfriend",
+    "ja": "ねんどろいど ボーイフレンド (ねんどろいど ぼーいふれんど)",
+    "ko": "남자친구"
+  },
+  "series": {
+    "en": "Friday Night Funkin'",
+    "ja": "Friday Night Funkin'",
+    "ko": "프라이데이 나이트 펑킨",
+    "code": "friday-night-funkin"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": "4571697188136",
+  "gsc_product_id": "11665",
+  "gsc_product_num": 13980,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11665",
+    "ja": "https://www.goodsmile.com/ja/product/11665"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230215/13980/111672/large/29a5ff338c156495f3b8053e52005a1e.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FwJA0TUx0Ys/ZA3eCn_ZUsI/AAAAAAAA9Kg/UCWWp9myx1EIe61V8xXXw1TJ5wo2Mp7nwCNcBGAsYHQ/s270/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DVLyKDtZbtA/ZA3c613VWQI/AAAAAAAA9B4/M1pX6Lrv_vQm5KMu3z_kA-acGGjD-f4hwCNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rQwns49XAhw/ZA3c7Uj7RcI/AAAAAAAA9B8/t-yrio1S9EQkUpjOFPkmzCUd2TLJ45eLwCNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z8b0CHqv6rQ/ZA3c7_N7w9I/AAAAAAAA9CA/Zy-I1h4pNUwXjsLHIjV6Y1w_NGgs-W0DACNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZjOp9Cx8vIo/ZA3c8TAGZpI/AAAAAAAA9CE/88hvO1tn9EMWNcBFDATsrZzzJCh5OYI1QCNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-e8yVvQV-KNA/ZA3c8x04rJI/AAAAAAAA9CI/uwKG50VRFxUJNDWZLbKkpQWZqt8jmMebQCNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JfxRNZ_uSZ4/ZA3c9UJYNKI/AAAAAAAA9CM/tbMM_ByO4J0kDLtR6V_ssoKIvdU47a6IQCNcBGAsYHQ/s135/2068-Boyfriend-Friday-Night-Funkin-Video-Games-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230215/13980/111679/large/1886c8d05d2ec920f015b75d57b198fd.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230215/13980/111672/large/29a5ff338c156495f3b8053e52005a1e.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11665",
+      "price_local": 6600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:00:18.053Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11665",
+      "fetched_at": "2026-05-16T12:00:18.053Z",
+      "raw_id": "11665"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11665",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11665"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2068/",
+      "fetched_at": "2026-05-16T19:10:33.821Z",
+      "raw_id": "/nendoroid/details/n2068/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.819Z",
+      "raw_id": "Nendoroid/2000-2099/2068.json"
+    }
+  ]
+}

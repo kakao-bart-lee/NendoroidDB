@@ -1,0 +1,68 @@
+{
+  "num": "1436",
+  "name": {
+    "en": "Nendoroid Saphentite Neikes",
+    "ja": "ねんどろいど サーフェンティット・ネイクス (ねんどろいど さーふぇんてぃっと・ねいくす)",
+    "ko": "사펜디드"
+  },
+  "series": {
+    "en": "Monster Girl Doctor",
+    "ja": "モンスター娘のお医者さん",
+    "ko": "몬스터 아가씨의 의사 선생님",
+    "code": "monster-girl-doctor"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9957,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-08gNgX5qaCo/X4NkiJZ-HEI/AAAAAAABm6s/0HBLDQzQicUkRkdYPGTcbyilrlcSD9T-QCLcBGAsYHQ/s270/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-08gNgX5qaCo/X4NkiJZ-HEI/AAAAAAABm6s/0HBLDQzQicUkRkdYPGTcbyilrlcSD9T-QCLcBGAsYHQ/s270/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_lRYcvBNvRM/YJKxTz_4LHI/AAAAAAAAxsU/J-mDyc6a3fUJWvNvYspkMByfMVpzFIPIACLcBGAsYHQ/s135/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KA8ZJWDI02E/YJKxUEAZZXI/AAAAAAAAxsY/68U3o6Xnc_0GbOn787U-QTMJGd0CTjcegCLcBGAsYHQ/s135/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N1J55qOEOjo/YJKxUuomRRI/AAAAAAAAxsc/sTRWd_rs_mcFvpVMJEO6_Jcd3o97KZiTwCLcBGAsYHQ/s135/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p1wK0hXC9gY/YJKxU1qJdXI/AAAAAAAAxsg/yvIZkEXzr2cAm9_QDlnrwCnl9EU2vjGWACLcBGAsYHQ/s135/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TMCLtkJgPgc/YJKxU66sHBI/AAAAAAAAxsk/F75G2oYZ5REH60piEJNlhHC63a4H53pEwCLcBGAsYHQ/s135/1436-Saphentite-Neikes-Monster-Girl-Doctor-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1436/",
+      "fetched_at": "2026-05-16T19:10:33.429Z",
+      "raw_id": "/nendoroid/details/n1436/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.665Z",
+      "raw_id": "Nendoroid/1400-1499/1436.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0921",
+  "name": {
+    "en": "Nendoroid Mike & Boo Set: Standard Ver.",
+    "ja": "ねんどろいど マイク＆ブーセット スタンダードVer. (ねんどろいど まいく＆ぶーせっと すたんだーどVer.)",
+    "ko": "마이크 와조스키 & 부"
+  },
+  "series": {
+    "en": "Monsters, Inc.",
+    "ja": "モンスターズ・インク",
+    "ko": "몬스터 주식회사",
+    "code": "monsters-inc"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7274,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y-k7LTXYV0A/X4NeiZgeh2I/AAAAAAABmLA/-fvanrao1l8hMzpYjNunsO6yFt2gARz5QCLcBGAsYHQ/s270/921-Mike-and-Boo-Standard-Ver-Monster-Inc-Disney-Cartoons-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y-k7LTXYV0A/X4NeiZgeh2I/AAAAAAABmLA/-fvanrao1l8hMzpYjNunsO6yFt2gARz5QCLcBGAsYHQ/s270/921-Mike-and-Boo-Standard-Ver-Monster-Inc-Disney-Cartoons-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Y8tFBNaDAXY/X4rnzl7nLiI/AAAAAAABnv8/0DXcMEf5PzYgdEzAdFy-Ho3yOUpX0KmswCLcBGAsYHQ/s135/921-Mike-and-Boo-Monsters-Inc.-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yuqm6Ii00p0/X4rnz6pMQRI/AAAAAAABnwA/dwEG4JYuvFoX1BGQ60lC7a_g-yJzUjwJACLcBGAsYHQ/s135/921-Mike-and-Boo-Monsters-Inc.-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gM2XmF-cIiw/X4rn0BvKrJI/AAAAAAABnwE/U4X1qoxAa0oFFb8Z586qcupAVrcRCCZogCLcBGAsYHQ/s135/921-Mike-and-Boo-Monsters-Inc.-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aJ8B-kWes_Y/X4rn0UzO0DI/AAAAAAABnwI/JYs2jsz184kn1NnVNPwH94Vck47KAM9MwCLcBGAsYHQ/s135/921-Mike-and-Boo-Monsters-Inc.-Disney-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n921/",
+      "fetched_at": "2026-05-16T19:10:34.874Z",
+      "raw_id": "/nendoroid/details/n921/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.539Z",
+      "raw_id": "Nendoroid/0900-0999/921.json"
+    }
+  ]
+}

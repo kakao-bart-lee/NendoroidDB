@@ -1,0 +1,68 @@
+{
+  "num": "1613",
+  "name": {
+    "en": "Nendoroid Kenshin Himura",
+    "ja": "ねんどろいど 緋村剣心 (ねんどろいど ひむらけんしん)",
+    "ko": "히무라 켄신"
+  },
+  "series": {
+    "en": "Rurouni Kenshin",
+    "ja": "るろうに剣心─明治剣客浪漫譚─",
+    "ko": "바람의 검심",
+    "code": "rurouni-kenshin"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11094,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-29JaMo_eFdg/YJK30zve93I/AAAAAAAAxuc/oV_QQ6L3KPUUbB8gN5LuHFcuZgRhfX4ogCLcBGAsYHQ/s270/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-29JaMo_eFdg/YJK30zve93I/AAAAAAAAxuc/oV_QQ6L3KPUUbB8gN5LuHFcuZgRhfX4ogCLcBGAsYHQ/s270/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fdnzYxdSNGE/YJK7szvpc-I/AAAAAAAAxx4/A3cUsFRLSeEZ3cTVloAICehP2C7uOIkYgCLcBGAsYHQ/s135/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mqkHlsuir_M/YJK7tQSz9kI/AAAAAAAAxx8/fMolIuNaItgH6ig34VAngrCRbS4uc2lHACLcBGAsYHQ/s135/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mlQjErAv4KE/YJK7tmD0kII/AAAAAAAAxyA/RtkRYoq3nFAmBriVbt1NKgPgYxHf6s8ygCLcBGAsYHQ/s135/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nyX1WR5qxWw/YJK7t_2SihI/AAAAAAAAxyE/IIFCFVYr8r4UnpB354S54P0SeopZb7BkgCLcBGAsYHQ/s135/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qgAGlZhabKE/YJK7t89ff4I/AAAAAAAAxyI/UX5ur7haD64zAUbw0Da2bOD0tLjo2qlCQCLcBGAsYHQ/s135/1613-Kenshin-Himura-Rurouni-Kenshin-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1613/",
+      "fetched_at": "2026-05-16T19:10:33.536Z",
+      "raw_id": "/nendoroid/details/n1613/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.707Z",
+      "raw_id": "Nendoroid/1600-1699/1613.json"
+    }
+  ]
+}

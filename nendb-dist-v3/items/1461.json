@@ -1,0 +1,68 @@
+{
+  "num": "1461",
+  "name": {
+    "en": "Nendoroid Echidna",
+    "ja": "ねんどろいど エキドナ (ねんどろいど えきどな)",
+    "ko": "에키드나"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10059,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uhqvy3awbBw/X4NknBZ9MJI/AAAAAAABm78/-UbZhsu8-q431qyAePzcSef-m90RDuwTgCLcBGAsYHQ/s270/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uhqvy3awbBw/X4NknBZ9MJI/AAAAAAABm78/-UbZhsu8-q431qyAePzcSef-m90RDuwTgCLcBGAsYHQ/s270/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PQPgD6mx0sQ/X4tBJmx8UvI/AAAAAAABrA0/c7Ci_5uJDJstlQx8CP92RV4TfNhXBSnkgCLcBGAsYHQ/s135/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MDaiG3ZoezU/X4tBJ4EsrLI/AAAAAAABrA4/QX5_VJb1FvE3pUz3AEZPvt0alN0OtNE0QCLcBGAsYHQ/s135/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yUD1Mi8tP-Q/X4tBKPObGTI/AAAAAAABrA8/lGLgUPmQXpoiU0ujhlsHA41dkHdfAdXPQCLcBGAsYHQ/s135/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Pl-Xjr122fo/X4tBKYjmwaI/AAAAAAABrBA/CJnmJBckdQMF16IlQacFROveivnLUaCJACLcBGAsYHQ/s135/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Yw1gj0YmNn0/X4tBKioft0I/AAAAAAABrBE/En6Jumx7Ll4umwd3SAC6PoWLIHGaeRO0gCLcBGAsYHQ/s135/1461-Echidna-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1461/",
+      "fetched_at": "2026-05-16T19:10:33.445Z",
+      "raw_id": "/nendoroid/details/n1461/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.671Z",
+      "raw_id": "Nendoroid/1400-1499/1461.json"
+    }
+  ]
+}

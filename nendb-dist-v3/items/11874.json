@@ -1,0 +1,55 @@
+{
+  "num": "11874",
+  "name": {
+    "en": "Nendoroid Doll Zenitsu Agatsuma",
+    "ja": "ねんどろいどどーる 我妻善逸 (ねんどろいどどーる あがつまぜんいつ)",
+    "ko": "아가츠마 젠이츠"
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11874,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20211006/11874/91036/large/f1a0a96fe7dface3915aa7611aa8ff81.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.955Z",
+      "raw_id": "NendoroidDoll/Doll/11874.json"
+    }
+  ]
+}

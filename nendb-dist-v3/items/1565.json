@@ -1,0 +1,68 @@
+{
+  "num": "1565",
+  "name": {
+    "en": "Nendoroid Shinnosuke Nohara: Pajama Ver. & Himawari",
+    "ja": "ねんどろいど 野原しんのすけ パジャマVer. ＆ ひまわり (ねんどろいど のはらしんのすけ ぱじゃまVer. ＆ ひまわり)",
+    "ko": "짱구 파자마 Ver. & 짱아"
+  },
+  "series": {
+    "en": "Crayon Shin-chan",
+    "ja": "クレヨンしんちゃん",
+    "ko": "짱구는 못말려",
+    "code": "crayon-shin-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10788,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rfFey7pGn5g/YFXx-lxbyvI/AAAAAAAAwLk/fSU8FgIvU6QdhCG6CdyXtJwhHFHlSs6RACLcBGAsYHQ/s270/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rfFey7pGn5g/YFXx-lxbyvI/AAAAAAAAwLk/fSU8FgIvU6QdhCG6CdyXtJwhHFHlSs6RACLcBGAsYHQ/s270/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AzHNjCed3xo/YD1fs9jlNkI/AAAAAAAAv7g/2euqINDhjMoDDBL0MtvjNOfRHiFcTmqtwCLcBGAsYHQ/s135/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oWa3Wrh0KQI/YD1ftP6RkSI/AAAAAAAAv7k/_pskAPaZ8h8iD11MhrXyEVg7yhUtrh9uwCLcBGAsYHQ/s135/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--V3awKbOKis/YD1ftv3D4BI/AAAAAAAAv7o/W2KlKAUI8v8PU_L_4MXdD3Wy4RwEgF8UwCLcBGAsYHQ/s135/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-864NFdoYO0I/YD1ftjYupnI/AAAAAAAAv7s/2klGtFFuwjU6DO1jCP5wwJEDb76VVFLwwCLcBGAsYHQ/s135/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v0bZq9LMToY/YD1fuBffy-I/AAAAAAAAv7w/wPVbqNXc9ccpwszOZOs7HkT1StmehOo0QCLcBGAsYHQ/s135/1565-Shinnosuke-Nohara-and-Himawari-Crayon-Shin-chan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M&F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1565/",
+      "fetched_at": "2026-05-16T19:10:33.507Z",
+      "raw_id": "/nendoroid/details/n1565/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.697Z",
+      "raw_id": "Nendoroid/1500-1599/1565.json"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "num": "3041",
+  "name": {
+    "en": "Reze",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": null,
+    "ko": null,
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcja0oAua0-yh2xcNaciqQH4YdcfGpPbcG6b6CYN5TSrzZPJFQNyWI2VJez2SSdeBSaIcBlLT2hDrA-kdl6esBfqMLgLWaUDJT6RZuZOmnD_DAQ_0O34kTl2pBIqM4oPQ8XoxkKc5JBhbJ1OMQ74IL2ZQmCf9sqwZUatzxsM7iHDOCPNhkrbmsuSfagdlJ/s270/3041-Reze-Chainsaw-Man-The-Movie-Reze-Arc-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcja0oAua0-yh2xcNaciqQH4YdcfGpPbcG6b6CYN5TSrzZPJFQNyWI2VJez2SSdeBSaIcBlLT2hDrA-kdl6esBfqMLgLWaUDJT6RZuZOmnD_DAQ_0O34kTl2pBIqM4oPQ8XoxkKc5JBhbJ1OMQ74IL2ZQmCf9sqwZUatzxsM7iHDOCPNhkrbmsuSfagdlJ/s270/3041-Reze-Chainsaw-Man-The-Movie-Reze-Arc-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbALsWcvR4sVevWtMClv-F2GL5O44WVaZ9Ld55dndrBuqFO-HwGHotU3x6xJ2BOWry_QP4w_X3eF8eFeiGGU2OzK7Qbe-RrId9JXEjKkv61_5lkerH2WNjRuYe3lC_rpPI2Sevl9_VksHAjIxusjAfOrWg3LLoFjJST2mFw6hoIQW8OyuAgfTiSz5eQqoO/s135/3041-Reze-Chainsaw-Man-The-Movie-Reze-Arc-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK3_fPUlB_T-YqCuPRSHLXqa1Yalrpb81YfVTohYuZXt97KXq0I7SNQH2EBVObH7l7XeSqyvyrphLlSneH-GEvL591h9CjkxdVXdI2Q92Z-5tWg2MRPl43aWYdhC71yrNONWG9swsjkf_pyHGJDLnasuMlPB3cpAdRCkUXrIw4Qz91sIPNIljLznw2eUgL/s135/3041-Reze-Chainsaw-Man-The-Movie-Reze-Arc-Anime-and-Manga-Nendoroid-4.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3041/",
+      "fetched_at": "2026-05-16T19:10:34.444Z",
+      "raw_id": "/nendoroid/details/n3041/"
+    }
+  ]
+}

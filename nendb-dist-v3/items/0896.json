@@ -1,0 +1,68 @@
+{
+  "num": "0896",
+  "name": {
+    "en": "Nendoroid Itaru Chigasaki",
+    "ja": "ねんどろいど 茅ヶ崎至 (ねんどろいど ちがさきいたる)",
+    "ko": "치가사키 이타루"
+  },
+  "series": {
+    "en": "A3!",
+    "ja": "A3!",
+    "ko": "A3!",
+    "code": "a3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7111,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-39zv7oKhoL0/X4NeFuf8CTI/AAAAAAABmIs/iGLFVKZt0NcwZzgEDqSoDk5KvOKg7BLGACLcBGAsYHQ/s270/896-Itaru-Chigasaki-A3-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-39zv7oKhoL0/X4NeFuf8CTI/AAAAAAABmIs/iGLFVKZt0NcwZzgEDqSoDk5KvOKg7BLGACLcBGAsYHQ/s270/896-Itaru-Chigasaki-A3-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-l0DTm7w563A/X4rkWKcLowI/AAAAAAABni4/yqCgGrI15qonwJhLacxZwqiUjJYURuk3QCLcBGAsYHQ/s135/896-Itaru-Chigasaki-A3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1PJiPoJJvEg/X4rkWRWfMDI/AAAAAAABni8/NOiaf-0IHz0b8aCaPz9tJcZYmzjDmwwTACLcBGAsYHQ/s135/896-Itaru-Chigasaki-A3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z5rjrN9rPe4/X4rkW4repCI/AAAAAAABnjA/i8Fj7n9HvcYjudlIUcoxvEus6aOqBnxFQCLcBGAsYHQ/s135/896-Itaru-Chigasaki-A3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T11pK9s-lnY/X4rkW52FOXI/AAAAAAABnjE/wiM7w0egk58YrzDW2ix98RWqNm_iMd1ZQCLcBGAsYHQ/s135/896-Itaru-Chigasaki-A3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QVExNZsdhII/X4rkXBIuBoI/AAAAAAABnjI/VeOql2xuU-wBXGihaOJYOu1Q6c6tSUILgCLcBGAsYHQ/s135/896-Itaru-Chigasaki-A3-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n896/",
+      "fetched_at": "2026-05-16T19:10:34.860Z",
+      "raw_id": "/nendoroid/details/n896/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.533Z",
+      "raw_id": "Nendoroid/0800-0899/896.json"
+    }
+  ]
+}

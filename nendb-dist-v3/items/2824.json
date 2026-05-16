@@ -1,0 +1,96 @@
+{
+  "num": "2824",
+  "name": {
+    "en": "X",
+    "ja": "ねんどろいど X",
+    "ko": null
+  },
+  "series": {
+    "en": "Reverse: 1999",
+    "ja": "リバース：1999",
+    "ko": null,
+    "code": "reverse-1999"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Arts Shanghai",
+  "sculptor": "Hashi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": "preorder",
+  "price_jpy": 6800,
+  "gtin": "4571697189836",
+  "gsc_product_id": "1138986",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138986",
+    "ja": "https://www.goodsmile.com/ja/product/1138986"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138986/iNTQUV3qd8x1YckCEajGezKmwvZ9uFRA.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUN6m1NEDWHiTt2gyFK4MbLoKnGEdpernQE7x9v0qHWXUKB3KzRqceYHyofMfNl3ZO7hkBu0dUlBaka9kcMyhLzSbKl6sXuUiosW4PfhryE6UqDMrBNptCXuBGrrr5E-5YTDJMcxLzh3K41oVmw3d4qVmlS-c677pEGwEDoUv5VhtSN1WM26TYhxRxYb7m/s270/2824-X-Reverse-1999-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGtY5JZdHfmhPKljfuAARfw-98KLbnkLgByEfcUw4mmh0M4RgU0UmIcBB0_ovbw5PuGj2VsczkPODcQ6hO4g6-ER4yZgl-IvW_CEx234WLumd6NeckbeO8zWfbWMU-PjsbVx3_FbOjpg62M8-pxC54mP693lP5QckdbwOJsKtYa8IWMGoP1TJnx8Hwd346/s135/2824-X-Reverse-3.jpg999-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4lsPdsqwScbJb6pzs7gs8AxUQwHXJW0gem26CJ1TKC9VxB3T03mOD-uG0WRfU4wv2q61Oo-Xk1ArIBtGgP0cpFV-lhIoQy-3-bZMO_ETyyuSsBauXRpWKrCm1IJPLfsYxcBxx1zS1SPleWcslk-8Dc2zWpS1Xg7deYmunLAqHJoYP11RTMPyZfTWMoZ0t/s135/2824-X-Reverse-4.jpg999-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTmvBNlUFPo_hyw3LP5iSFjdChs4Fxk7kWM9py3Pwp5j-D00uKTNVK43yItn3B3D2jR_sXtopglSCt0XUDgjqG5O8_6HKgJamlj_jwWGyqsSLs1_0BLXomdr5Ld5pOTW6v4OpgdUM_gk1bBA4_arN_NxMMXtRaubn2xYe2rG-U7oI6efF98zTUBg9oer9P/s135/2824-X-Reverse-5.jpg999-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtb7COlS_yCy8DalK3Ku7eQcjTV7XF3wMMedjeKIwyQu90UKFBpkDZ25-vdwvmgqWiZBRgVJXLTNcEzX3EGYbBm5-ZDCP-2MZ-SkbAnMyjjIVkbYajUU44NzLzxQowXrOAhqOU6Krsqu6fSdX0td_STNb2T77gNfBEkRbsUzLGjFU6WL8Y4mVfH_ZT8MnB/s135/2824-X-Reverse-6.jpg999-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv_BMcRDzWuuFSEWqW2NhnOYvO2WA3hQrSnaNyg85R36fQwnCLlfviaBEdDwpVDQJClnE4ekDmYJAku1PcvSPMcikDM8hb_Gp2RiqKDuYMfbtIy2RjjLq88uPo5nMOTN4_LeVfoWfk_kpCIboerSPGHuq9QyHQAOI8b7akUnDHHKIGG6Isq3WQ30bjAWFt/s135/2824-X-Reverse-7.jpg999-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfonX4sZ7COt_hPIrCmelnb4m7XFiREHIBKK8lFMru0DxSxeHdnbluIivBSIQXnBSAhQnys99cbHSlp2H0-i7EfKWysdxLjspN3MzFlAoPy8KQFAEDOZTwPTVEbhEVmMYiMJMPoJF6EDBI6b8qKfo4D-JP7PyJLFMk_On5ZayyYCWxd-6oIKQAlFvZYvIN/s135/2824-X-Reverse-8.jpg999-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT1_JaDV-8UkReLTexHZfv6BIaWBvwS69erm1-b3oFP83bd9oCDaZPo71diQyBaYnx3CwXJ-wEZMKtFDtu3gGtDIB_Zf-ITMHim0bJqgT-BFhldCanm-IhP5zszFJyQ1vSDeksA8oeJJCzEqX6_fGFeFxJqgYcNlhVgNxMYNyl1JETAr7T2A7RXUvyRi69/s135/2824-X-Reverse-9.jpg999-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggz5NoPSoNsFG7bVYExQl1huGZdYqZLZ8tFhOOW_cx7t66ra1br2SXvAVNyA_xmgygeP2Bo1o-Gr1b0-2yhuGcVCH68TIQPEyTpyVNQmNIS70J0OSa34yfGm_ya4gFR30-liK6LH7AH0j82AqB6DyFZz33sj4rOaE3ZaUzq3WvTz1pLYk6pXb-_GNZjUP/s135/2824-X-Reverse-10.jpg999-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmvtl2-kEOx9ShyphenhyphenXWNsxtTisVI_jlvBffhpsrX1mFcNQ0h-YuKCtc3Q96SSz-W2Fd0L46sT2dyEztQS2WOHEJ6RvWVIWhwUohdfrmWJ2MXjI6ITLNUChfk3BR-DAvUyMvwwsNQD08v0Tu1C_pu7Svnlv0fv49t_Yk0un-75-pHWRhpnjXRBS7D6et7qaFF/s135/2824-X-Reverse-11.jpg999-Video-Games-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1EtXWiiFXXkqrhuifHMH7lCzvYAUoIa6UW8IFd-ZnLHr7MgiI7d5wlKJ3KI2VgeI4mwiCnLrRN1oN0zhyphenhyphenQK_WuFe9FO-1qLtdKSwJjvIg4DNlpeeh5wGftq24AQtF8zyYMAq9uKLyFVv5WQ9EcaWT49yB4yYc47Sf-YfyX2Ri-iETcGqpkXioK0lc4n_U/s135/2824-X-Reverse-12.jpg999-Video-Games-Nendoroid-12.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138986/6Uzs7HQdNCYp0jquMcRViD1fTxSv5GK9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138986/iNTQUV3qd8x1YckCEajGezKmwvZ9uFRA.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Preorders Open Now",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138986",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:00:07.933Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138986",
+      "fetched_at": "2026-05-16T12:00:07.933Z",
+      "raw_id": "1138986"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138986",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138986"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2824/",
+      "fetched_at": "2026-05-16T19:10:34.333Z",
+      "raw_id": "/nendoroid/details/n2824/"
+    }
+  ]
+}

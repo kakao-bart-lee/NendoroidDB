@@ -1,0 +1,67 @@
+{
+  "num": "2055",
+  "name": {
+    "en": "Nendoroid Aoi Izumisawa",
+    "ja": "ねんどろいど 和泉沢愛生 (ねんどろいど いずみさわあおい)",
+    "ko": "이즈미사와 아오이"
+  },
+  "series": {
+    "en": "Love Flops",
+    "ja": "恋愛フロップス",
+    "ko": "연애 플롭스",
+    "code": "love-flops"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13816,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1L8SIu9w43E/Y9mKEFqjjSI/AAAAAAAA8fg/Tk2-QvIRjvA5G-UOEpxM6wLkpaqv0H1AQCNcBGAsYHQ/s270/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1L8SIu9w43E/Y9mKEFqjjSI/AAAAAAAA8fg/Tk2-QvIRjvA5G-UOEpxM6wLkpaqv0H1AQCNcBGAsYHQ/s270/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-p9N7jTcD578/Y9mPd05W1LI/AAAAAAAA8qQ/nJFBr_zUrJwFLxX9StXcReyWTdzq8xkgQCNcBGAsYHQ/s135/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_zca1g_VuXs/Y9mPeKbQZyI/AAAAAAAA8qU/DOSXmi7JfrQxxJkXs54GS6K6yVRW2h6ewCNcBGAsYHQ/s135/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XG6BBb6rnOM/Y9mPeHRQHpI/AAAAAAAA8qY/mggGEyDEl6gS18qwie3h7ZuNIqCPS9XdACNcBGAsYHQ/s135/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xu3bdb59NeQ/Y9mPedqtL0I/AAAAAAAA8qc/JriTbe5SPHIyn5JwMKh39sI658CaQcQXwCNcBGAsYHQ/s135/2055-Aoi-Izumisawa-Love-Flops-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2055/",
+      "fetched_at": "2026-05-16T19:10:33.812Z",
+      "raw_id": "/nendoroid/details/n2055/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.816Z",
+      "raw_id": "Nendoroid/2000-2099/2055.json"
+    }
+  ]
+}

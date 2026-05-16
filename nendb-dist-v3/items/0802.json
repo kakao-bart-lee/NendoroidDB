@@ -1,0 +1,69 @@
+{
+  "num": "0802",
+  "name": {
+    "en": "Nendoroid Mitsuha Miyamizu",
+    "ja": "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
+    "ko": "미야미즈 미츠하"
+  },
+  "series": {
+    "en": "Your Name.",
+    "ja": "君の名は。",
+    "ko": "너의 이름은.",
+    "code": "your-name"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6596,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nclKeLnHgEI/X4NdquycY3I/AAAAAAABmCs/tyCHUUuoxaUqEY36ZViYj2YzxTWVFfhIwCLcBGAsYHQ/s270/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nclKeLnHgEI/X4NdquycY3I/AAAAAAABmCs/tyCHUUuoxaUqEY36ZViYj2YzxTWVFfhIwCLcBGAsYHQ/s270/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SG1L-fy5XcM/X4rh8wNFvGI/AAAAAAABm_4/ef35fAjBSXYuSn-FqwLIEzjPF9RI4boXQCLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x_XN-9xUJNE/X4rh9L_wuuI/AAAAAAABm_8/ZannVorda4cNK2UcMyfWJ2ubfgatBfuzQCLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z2FQzfmYGv4/X4rh9a5Yh3I/AAAAAAABnAA/6f98JAN6he8PnoJhDeSUKTgmddolZfKAACLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UVS_F52MCVQ/X4rh9dWXr4I/AAAAAAABnAE/ar0fyN_6WOkudQ7YHZcZDXJXoRR3sBY4ACLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-njsHRBGkYdU/X4rh93qC35I/AAAAAAABnAI/zDM4lX_repoq-VfVCIQGnBx8mQfbW3BmQCLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xnOq_U6tO8w/X4rh9yk_PdI/AAAAAAABnAM/_Qb5H6jsN04A3AVJO8rSPvlA4Ftj9_s-QCLcBGAsYHQ/s135/802-Mitsuha-Miyamizu-Your-Name-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n802/",
+      "fetched_at": "2026-05-16T19:10:34.808Z",
+      "raw_id": "/nendoroid/details/n802/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.511Z",
+      "raw_id": "Nendoroid/0800-0899/802.json"
+    }
+  ]
+}

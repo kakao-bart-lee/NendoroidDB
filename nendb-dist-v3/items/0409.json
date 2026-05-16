@@ -1,0 +1,94 @@
+{
+  "num": "0409",
+  "name": {
+    "en": "Nendoroid Rin Tohsaka",
+    "ja": "ねんどろいど 遠坂凛 (ねんどろいど とおさかりん)",
+    "ko": "토오사카 린"
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Kataharaitashi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC塗装済み可動フィギュア・ノンスケール・専用台座付属・全高 ： 約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4571697187764",
+  "gsc_product_id": "37314",
+  "gsc_product_num": 4274,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/37314",
+    "ja": "https://www.goodsmile.com/ja/product/37314"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/37314/DPY7xHBnEqUmMQRXfdakitsThVSuJv2W.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uI_WroyRKeo/X4NNp2kgJFI/AAAAAAABlnE/5xKkQcFuAlE1-tJXIajpb1Gjh2AsDnp1QCLcBGAsYHQ/s270/409-Rin-Tohsaka-Fate-Stay-Night-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IqqKE_mOBNw/X4ddYkxemLI/AAAAAAAArZo/FTd5224LiewXA_8eMmdl9bKK8d8rdN2KQCLcBGAsYHQ/s135/409-Rin-Tohsaka-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jmJzZI_9bIU/X4ddZP9ltCI/AAAAAAAArZs/ug4mvfUJwuIWQnWloqhXQZQFXcDluJdWQCLcBGAsYHQ/s135/409-Rin-Tohsaka-Fate-Stay-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UJm_d5OFDXA/X4ddZm5kS_I/AAAAAAAArZw/lKC4Mo-phtMsDxi9s8yT8JgV7w3NqtXGACLcBGAsYHQ/s135/409-Rin-Tohsaka-Fate-Stay-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QEe4xhzsp2s/X4ddaGJgwtI/AAAAAAAArZ0/qDJLLFZeu0AJ-BfyAZ1sUhXdo5aLzpLewCLcBGAsYHQ/s135/409-Rin-Tohsaka-Fate-Stay-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/37314/Z0XQmBD5uMdqhNGi9sWjUcRrLagyT14A.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/37314/DPY7xHBnEqUmMQRXfdakitsThVSuJv2W.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/37314",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:54:52.070Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/37314",
+      "fetched_at": "2026-05-16T11:54:52.070Z",
+      "raw_id": "37314"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/37314",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "37314"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n409/",
+      "fetched_at": "2026-05-16T19:10:34.512Z",
+      "raw_id": "/nendoroid/details/n409/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.373Z",
+      "raw_id": "Nendoroid/0400-0499/409.json"
+    }
+  ]
+}

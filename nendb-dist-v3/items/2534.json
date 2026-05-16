@@ -1,0 +1,65 @@
+{
+  "num": "2534",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "SEGA Feat. Hatsune Miku Project",
+    "ja": null,
+    "ko": null,
+    "code": "sega-feat-hatsune-miku-project"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Nhb6eG4Rd1E/Zor7kwIYY3I/AAAAAAABFDw/GkjXnMWTOikuiQjTNxKRMgzCIbOIlYbtACNcBGAsYHQ/s270/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Nhb6eG4Rd1E/Zor7kwIYY3I/AAAAAAABFDw/GkjXnMWTOikuiQjTNxKRMgzCIbOIlYbtACNcBGAsYHQ/s270/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iaJsTew-kuE/Zow9dO9LcrI/AAAAAAABGMo/Zo1MhUVwNMcCGfM87o1M6QbaIvnmu7CXwCNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OhTmUPlGcb4/Zow9dtsT8pI/AAAAAAABGMs/NV_pXEA9kIwLst8AXPS6tY_MesQcoVJdQCNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SnwmAGGibT0/Zow9eAyIIrI/AAAAAAABGMw/s6fQ6NdxX6cGZXGIB-Sf5ArJukFP1xp9ACNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bCQ0rLZkGOE/Zow9eqYX0EI/AAAAAAABGM0/tlAvfd1YL6Aq8eI2QQ9DkA7y0B1nz3eggCNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zysnHsTQz3I/Zow9fGqp-oI/AAAAAAABGM4/dkD97xqmMS0NBd9WShH8j36Y_NEiO-g5wCNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cjUIs4ovU6I/Zow9fgrQnCI/AAAAAAABGM8/ZSOkl41rG5UybXVqP80xgZ_g87_EvMJXACNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-5LRLzwiGb5A/Zow9gJfR5WI/AAAAAAABGNA/VuXGMDqCtR87JnQISreB81-_qyqgecDlQCNcBGAsYHQ/s135/2534-Hatsune-Miku-SEGA-feat.-Hatsune-Miku-Project-Vocaloid-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2534/",
+      "fetched_at": "2026-05-16T19:10:34.118Z",
+      "raw_id": "/nendoroid/details/n2534/"
+    }
+  ]
+}

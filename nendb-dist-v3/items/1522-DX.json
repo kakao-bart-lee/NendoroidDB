@@ -1,0 +1,55 @@
+{
+  "num": "1522-DX",
+  "name": {
+    "en": "Nendoroid Peni Parker: Spider-Verse Ver. DX",
+    "ja": "ねんどろいど ペニー・パーカー スパイダーバースVer. DX (ねんどろいど ぺにー・ぱーかー すぱいだーばーすVer. DX)",
+    "ko": "페니 파커 스파이더 버스 DX Ver."
+  },
+  "series": {
+    "en": "Spider-Man: Into the Spider-Verse",
+    "ja": "スパイダーマン：スパイダーバース",
+    "ko": "스파이더맨: 뉴 유니버스",
+    "code": "spider-man-into-the-spider-verse"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10257,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201020/10257/77495/thumb/878c6adf472a36a232fdb8085534dd4b.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.686Z",
+      "raw_id": "Nendoroid/1500-1599/1522-DX.json"
+    }
+  ]
+}

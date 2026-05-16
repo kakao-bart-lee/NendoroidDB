@@ -1,0 +1,68 @@
+{
+  "num": "1787",
+  "name": {
+    "en": "Nendoroid Sylphiette",
+    "ja": "ねんどろいど シルフィエット (ねんどろいど しるふぃえっと)",
+    "ko": "실피에트"
+  },
+  "series": {
+    "en": "Mushoku Tensei: Jobless Reincarnation",
+    "ja": "無職転生 ～異世界行ったら本気だす～",
+    "ko": "무직전생 ~이세계에 갔으면 최선을 다한다~",
+    "code": "mushoku-tensei-jobless-reincarnation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13991,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-By7ubb3VxTg/ZA3d96z1zzI/AAAAAAAA9Jk/rxC7E6SQ8MYvRJwgbMA4DngWg6gqLuxgQCNcBGAsYHQ/s270/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-By7ubb3VxTg/ZA3d96z1zzI/AAAAAAAA9Jk/rxC7E6SQ8MYvRJwgbMA4DngWg6gqLuxgQCNcBGAsYHQ/s270/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BRzpPgoUzSo/ZA3cjRWN5bI/AAAAAAAA88I/8GyDRHwnVzc2f9zsOzABjbpb4ZOARrNxgCNcBGAsYHQ/s135/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9ECf-9hLi3w/ZA3cj_T2GdI/AAAAAAAA88M/FN4LExh--y47L_30UnuzdKxu246Qg_2YwCNcBGAsYHQ/s135/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YitN6CPYJVI/ZA3ckYFC7zI/AAAAAAAA88Q/W1z0dw8c5Tg5lhKH-TMJe_iE3mNJypu-ACNcBGAsYHQ/s135/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T16SaUpOdQA/ZA3ck1PDfLI/AAAAAAAA88U/7fuo0H_fjVAVqYLsjGPHy52S9nJaFJ_VACNcBGAsYHQ/s135/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qQ31UxYMg_E/ZA3clXTzCbI/AAAAAAAA88c/JoLNl7ABuMszAke5KtQKWh_cxPEFyLItwCNcBGAsYHQ/s135/1787-Sylphiette-Mushoku-Tensei-Jobless-Reincarnation-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1787/",
+      "fetched_at": "2026-05-16T19:10:33.646Z",
+      "raw_id": "/nendoroid/details/n1787/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.750Z",
+      "raw_id": "Nendoroid/1700-1799/1787.json"
+    }
+  ]
+}

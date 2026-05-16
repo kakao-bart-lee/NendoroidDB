@@ -1,0 +1,68 @@
+{
+  "num": "0988",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 50: Infinity Edition",
+    "ja": "ねんどろいど アイアンマン マーク50 インフィニティ・エディション (ねんどろいど あいあんまん まーく50 いんふぃにてぃ・えでぃしょん)",
+    "ko": "아이언맨 mk.50 어벤져스 인피니티 워 에디션"
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7560,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bXyL_pstKH8/X4Ne45eaDOI/AAAAAAABmPc/JojTnKATiQU7KW87MjjfMRDL0zRSodfJACLcBGAsYHQ/s270/988-Iron-Man-Mark-50-Infinity-Edition-Infinity-War-Marvel-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bXyL_pstKH8/X4Ne45eaDOI/AAAAAAABmPc/JojTnKATiQU7KW87MjjfMRDL0zRSodfJACLcBGAsYHQ/s270/988-Iron-Man-Mark-50-Infinity-Edition-Infinity-War-Marvel-1.jpg",
+      "https://1.bp.blogspot.com/-78sm0qJ-z-k/X4rpo3bdqOI/AAAAAAABoJ8/WAE5D1BjHj0G95InnzQEuHH1ok4R3mQEwCLcBGAsYHQ/s135/988-Iron-Man-Avengers-Infinity-War-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_1iGqS7fSwg/X4rppNL9M0I/AAAAAAABoKA/oa7-AH5s-KoXlrxsIU2N4scwCASru9SFQCLcBGAsYHQ/s135/988-Iron-Man-Avengers-Infinity-War-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LeeqooyQKG0/X4rppRRmlgI/AAAAAAABoKE/Le6Fv5PaHhkH7RocUoq638BAMOnIyDjmgCLcBGAsYHQ/s135/988-Iron-Man-Avengers-Infinity-War-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XYKUzV2fCeg/X4rppnWcG5I/AAAAAAABoKI/sJAY5aDlCkc-HJm402Xr_7Led2FSAXlAQCLcBGAsYHQ/s135/988-Iron-Man-Avengers-Infinity-War-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PmnxxWyylaU/X4rppzGHkTI/AAAAAAABoKM/fmUrlpyAWgYvHgxhdg5AG4aOBmlzwy1RQCLcBGAsYHQ/s135/988-Iron-Man-Avengers-Infinity-War-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n988/",
+      "fetched_at": "2026-05-16T19:10:34.911Z",
+      "raw_id": "/nendoroid/details/n988/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.557Z",
+      "raw_id": "Nendoroid/0900-0999/988.json"
+    }
+  ]
+}

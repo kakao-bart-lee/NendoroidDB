@@ -1,0 +1,68 @@
+{
+  "num": "1469",
+  "name": {
+    "en": "Nendoroid Bedivere",
+    "ja": "ねんどろいど ベディヴィエール (ねんどろいど べでぃゔぃえーる)",
+    "ko": "베디비어"
+  },
+  "series": {
+    "en": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+    "ja": "劇場版「Fate/Grand Order -神聖円卓領域キャメロット-」",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order-the-movie-divine-realm-of-the-round-table-camelot"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10086,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Jam0-z9qtEU/X6l_dacFjYI/AAAAAAAAuYU/3grI-fc85AES1FFlAPuBkEQ7Ts-RCoJGACLcBGAsYHQ/s270/1469-Bedivere-Fate-Grand-Movie-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Jam0-z9qtEU/X6l_dacFjYI/AAAAAAAAuYU/3grI-fc85AES1FFlAPuBkEQ7Ts-RCoJGACLcBGAsYHQ/s270/1469-Bedivere-Fate-Grand-Movie-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mnQsnEvRf5Y/X6l_umfmfNI/AAAAAAAAuYw/7HqFz2HURZY-PfuOA2zDggV0aozKCfzawCLcBGAsYHQ/s135/1469-Bedivere-Fate-Grand-Order-The-Movie-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZitdQuqpQPg/X6l_ugRW9OI/AAAAAAAAuYs/2PmywbksfNcH18Xlk9ywkttgVib1Jdq4ACLcBGAsYHQ/s135/1469-Bedivere-Fate-Grand-Order-The-Movie-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jMpwGpVWzqg/X6l_uoJVrAI/AAAAAAAAuYo/HJJAn4cJw9AY3USB5eW9k-IJhGlkNtjPwCLcBGAsYHQ/s135/1469-Bedivere-Fate-Grand-Order-The-Movie-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-niHEz6dk7fE/X6l_vQ1J2eI/AAAAAAAAuY0/8hOD0bIanQAiSKS9ndCiB7aTBdYFH0QvgCLcBGAsYHQ/s135/1469-Bedivere-Fate-Grand-Order-The-Movie-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DGMqVLYlS-k/X6l_vmL1URI/AAAAAAAAuY4/BobhU9goLzcivxh2x32YYrKimkJi2yhZACLcBGAsYHQ/s135/1469-Bedivere-Fate-Grand-Order-The-Movie-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1469/",
+      "fetched_at": "2026-05-16T19:10:33.449Z",
+      "raw_id": "/nendoroid/details/n1469/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.673Z",
+      "raw_id": "Nendoroid/1400-1499/1469.json"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "num": "2371",
+  "name": {
+    "en": "Nino Nakano",
+    "ja": "ねんどろいど 中野二乃 ウエディングドレスVer.",
+    "ko": null
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁∽",
+    "ko": null,
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Design COCO",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580590178755",
+  "gsc_product_id": "56345",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/56345",
+    "ja": "https://www.goodsmile.com/ja/product/56345"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56345/ub8p5g9xUdGmYDQ2fA0q1VHj4wPrJca7.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FcNHEt3hC3M/ZZcfLN5r_2I/AAAAAAABDKQ/-EYnARTWyWwohUePO-Ieu1Ipyl6MhO1zgCNcBGAsYHQ/s270/2371-Nino-Nakano-The-Quintessential-Quintuplets-%257E-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bPDGA_-vHJQ/ZZSNNQoSOxI/AAAAAAABDFY/yZIq6r4jjz4nL3EQe4Hu-pz2u102soFLgCNcBGAsYHQ/s135/2371-Nino-Nakano-The-Quintessential-Quintuplets-_-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rvIFfeFIjK0/ZZSNNyu9vyI/AAAAAAABDFc/VO5qjwE18K8xIbnqwd95PJjcLmwUBff8QCNcBGAsYHQ/s135/2371-Nino-Nakano-The-Quintessential-Quintuplets-_-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nCyNNP70d4w/ZZSNOKWfiZI/AAAAAAABDFg/GnzWF8eFx04NIurQdo9D7a3-Fb55RSlyACNcBGAsYHQ/s135/2371-Nino-Nakano-The-Quintessential-Quintuplets-_-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cDlQS6DYgDY/ZZSNOSjxtlI/AAAAAAABDFk/6OP-4PFZKpcDaYDfiEAOESPqtHzSSowDACNcBGAsYHQ/s135/2371-Nino-Nakano-The-Quintessential-Quintuplets-_-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Te5i82zseJc/ZZSNOtLcFqI/AAAAAAABDFo/i4-YkIx5y_owskxiB9A83rdibiBuPC7aQCNcBGAsYHQ/s135/2371-Nino-Nakano-The-Quintessential-Quintuplets-_-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56345/G03W8dr7miFHpR2s1aV6eYQPLjTAv4Kc.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56345/ub8p5g9xUdGmYDQ2fA0q1VHj4wPrJca7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/56345",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:33.424Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/56345",
+      "fetched_at": "2026-05-16T11:51:33.424Z",
+      "raw_id": "56345"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/56345",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "56345"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2371/",
+      "fetched_at": "2026-05-16T19:10:34.016Z",
+      "raw_id": "/nendoroid/details/n2371/"
+    }
+  ]
+}

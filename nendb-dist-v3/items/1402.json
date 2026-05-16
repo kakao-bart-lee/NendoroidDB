@@ -1,0 +1,69 @@
+{
+  "num": "1402",
+  "name": {
+    "en": "Nendoroid Connor",
+    "ja": "ねんどろいど コナー (ねんどろいど こなー)",
+    "ko": "코너"
+  },
+  "series": {
+    "en": "Detroit: Become Human",
+    "ja": "Detroit: Become Human",
+    "ko": "디트로이트 비컴 휴먼",
+    "code": "detroit-become-human"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9689,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WfO_P2TsJ6k/X4NkZBOpp5I/AAAAAAABm4g/HjX0ZxTj_koVm5_f9jW7sH7tTnNbQK4mACLcBGAsYHQ/s270/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WfO_P2TsJ6k/X4NkZBOpp5I/AAAAAAABm4g/HjX0ZxTj_koVm5_f9jW7sH7tTnNbQK4mACLcBGAsYHQ/s270/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iNRsJqkwMfY/X4s_4EUC4iI/AAAAAAABqto/3EEKfMCIA-E3FTY-s6wmzspT-UToSXLRQCLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7ne0lPe-46g/X4s_4bMdz0I/AAAAAAABqts/QY0I3_cj5V0c60yRHu6SXRZEuF6RjDORACLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OqZDvr-HfFQ/X4s_4tQ79KI/AAAAAAABqtw/tWrHIfZM3r4y-ekb2Vggx9BAAiY7oKaMACLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g3l-uZ-FA1Q/X4s_46kR7_I/AAAAAAABqt0/UCYFQlpBp3IpUHcHwxVYsSUXUIdBrORkwCLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ITXmoNGyEJs/X4s_5NFhMmI/AAAAAAABqt4/XfYhHocKhUo8NRRmayHTOLSFY9tTu6UcgCLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ndbwkq5c6EY/X4s_5eRiQ9I/AAAAAAABqt8/9Grs9Pt0HM8BuGhczHcd77hUHkVQjjK1QCLcBGAsYHQ/s135/1402-Connor-Detroit-Become-Human-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1402/",
+      "fetched_at": "2026-05-16T19:10:33.409Z",
+      "raw_id": "/nendoroid/details/n1402/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.657Z",
+      "raw_id": "Nendoroid/1400-1499/1402.json"
+    }
+  ]
+}

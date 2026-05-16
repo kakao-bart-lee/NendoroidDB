@@ -1,0 +1,70 @@
+{
+  "num": "0750",
+  "name": {
+    "en": "Nendoroid Kirito & Asuna: O.S Ver.",
+    "ja": "ねんどろいど キリト＆アスナ O.S Ver. (ねんどろいど きりと＆あすな おーでぃなる・すけーる ver.)",
+    "ko": "키리토&아스나 O.S Ver."
+  },
+  "series": {
+    "en": "Sword Art Online The Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko": "소드 아트 온라인",
+    "code": "sword-art-online-the-movie-ordinal-scale"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6475,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-H2pVpRW6D_0/X4Nc-wLyaJI/AAAAAAABl-g/1HYsmrsEuiopSM6SEKI_ww2r1J36uan7ACLcBGAsYHQ/s270/750-Kirito-Asuna-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-H2pVpRW6D_0/X4Nc-wLyaJI/AAAAAAABl-g/1HYsmrsEuiopSM6SEKI_ww2r1J36uan7ACLcBGAsYHQ/s270/750-Kirito-Asuna-Ordinal-Scale-Ver-Yui-Ordinal-Scale-Ver-Sword-Art-Online-the-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qJN0-eVE6zY/X4i4xzjX59I/AAAAAAAAtYk/dFUYKAmitXwY1l_QjeHeYNvPoV8WmOURACLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y2s3pt6Q_x4/X4i4yAZrLXI/AAAAAAAAtYo/so1beX7Kx2Qm-oBH69RcSvpWjaRDCbqxACLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lvmynRbreD0/X4i4yRym8KI/AAAAAAAAtYs/QtNqiiYrYw8ccTjyrkKcNJl7Em_6T_ueQCLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-INJaLqsBazI/X4i4yjGaaLI/AAAAAAAAtYw/prhl10Gznm02wwXKVb0LTLLYEzzMxyPyACLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fI9SlXNAkgo/X4i4yyNn2nI/AAAAAAAAtY0/ewKZdtEX-8ERcbrY-YUIjwvxu-JAdbo2QCLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-h89zUJzTKkA/X4i4zIe38kI/AAAAAAAAtY4/5hvALFpelZcoBF0HnZ8f0q03IFWE5QNRwCLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-vWWJg3EZihQ/X4i4zTR7iZI/AAAAAAAAtY8/-Al2MYVEXgMZJC3oH4TN2Wl6wHgfQ7IRACLcBGAsYHQ/s135/750-Kirito-and-Asuna-Sword-Art-Online-The-Movie-Ordinal-Scale-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M&F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n750/",
+      "fetched_at": "2026-05-16T19:10:34.776Z",
+      "raw_id": "/nendoroid/details/n750/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.499Z",
+      "raw_id": "Nendoroid/0700-0799/750.json"
+    }
+  ]
+}

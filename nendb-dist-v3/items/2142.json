@@ -1,0 +1,68 @@
+{
+  "num": "2142",
+  "name": {
+    "en": "Nendoroid Nano Shinonome: Keiichi Arawi Ver.",
+    "ja": "ねんどろいど 東雲なの あらゐけいいちVer. (ねんどろいど しののめなの あらゐけいいちVer.)",
+    "ko": "시노노메 나노 아라이 케이이치 Ver."
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": "日常",
+    "ko": "일상",
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14327,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-J8P8GKPaSRY/ZFqWgChXHgI/AAAAAAAA90Q/GnukX1YIB6Qzo9hOpU03Q47zsNOzfOtJQCNcBGAsYHQ/s270/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-J8P8GKPaSRY/ZFqWgChXHgI/AAAAAAAA90Q/GnukX1YIB6Qzo9hOpU03Q47zsNOzfOtJQCNcBGAsYHQ/s270/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LD725zxrWpc/ZFqcNVIM4MI/AAAAAAAA-A0/FGfqYvGIBis-0zJxOanwuWuBa22B7oJUACNcBGAsYHQ/s135/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-w5nkpSvHzhs/ZFqcNxVtjwI/AAAAAAAA-A4/fNmF9Xdo6RcnF3JRO9P1c-97v5wJB1moQCNcBGAsYHQ/s135/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Hk7OsZecVLo/ZFqcOQIf8WI/AAAAAAAA-A8/juj1w4BdKFcbIVxvNNhzVYkeVr6lFxaSQCNcBGAsYHQ/s135/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vV-sv4jJ_kA/ZFqcO5wcqyI/AAAAAAAA-BA/q4eVb7XVn-00eoIWVtpVummmtTEKRcSnQCNcBGAsYHQ/s135/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zGmjHVVKt4c/ZFqcPApp43I/AAAAAAAA-BE/rpU7p9InsTkGvlaaGOqmrsq1YU7n3dAHACNcBGAsYHQ/s135/2142-Nano-Shinonome-Nichijou-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2142/",
+      "fetched_at": "2026-05-16T19:10:33.864Z",
+      "raw_id": "/nendoroid/details/n2142/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.837Z",
+      "raw_id": "Nendoroid/2100-2199/2142.json"
+    }
+  ]
+}

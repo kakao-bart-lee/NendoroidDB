@@ -1,0 +1,97 @@
+{
+  "num": "1688",
+  "name": {
+    "en": "Nendoroid Gawr Gura",
+    "ja": "ねんどろいど がうる・ぐら (ねんどろいど がうる・ぐら)",
+    "ko": "가우르 구라"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shinya Iguchi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580590191075",
+  "gsc_product_id": "9305",
+  "gsc_product_num": 11616,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/9305",
+    "ja": "https://www.goodsmile.com/ja/product/9305"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/9305/ee3173b587f5590cfc6b4a97b4aab535.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LSeXtbYxcXc/YS6JxGWQfRI/AAAAAAAAz90/_wHpui0XvuglXEyEr2sCO5scON9KGMjNQCLcBGAsYHQ/s270/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AwM9_ppgW-s/YS6M03YYC-I/AAAAAAAA0KI/FqkKAG4F2csXKeLoWadXh7Th4IyLMT8CgCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FB4JG1bg7g4/YS6M1S0Mc8I/AAAAAAAA0KM/JTsSpD9w6QoPvDLHEedvHCNwsV1MJAjVwCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dh4DqwYquRM/YS6M12-n2XI/AAAAAAAA0KQ/WDIj9ZVaik4FmncBO2Jd9oTuarKiNXe0QCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d0W0Bl4v2A8/YS6M2XD2aEI/AAAAAAAA0KU/eo-jGU5NXHw2RWMAf2eDlQURcWuLppxiwCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-A0_tF4Wtw2Q/YS6M2zOZJBI/AAAAAAAA0KY/thELXh4BBa4p1vNTS9VJZgquwK4o8I57QCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4hTcnu6d-No/YS6M3eMKGkI/AAAAAAAA0Kc/L7RxIXD02L4DgG8p5TiV7h-iLE6Zfn1qACLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/--90o5ZseGPQ/YS6M33oKmFI/AAAAAAAA0Kg/PvH93BmcEEE2tl4MH3CqU5fIy--5yTE1QCLcBGAsYHQ/s135/1688-Gawr-Gura-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210803/11616/88286/large/c273ec7140f7ff4d2be2dfc2f1aafe2b.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/9305/ee3173b587f5590cfc6b4a97b4aab535.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9305",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:43.452Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9305",
+      "fetched_at": "2026-05-16T11:51:43.452Z",
+      "raw_id": "9305"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/9305",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "9305"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1688/",
+      "fetched_at": "2026-05-16T19:10:33.585Z",
+      "raw_id": "/nendoroid/details/n1688/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.727Z",
+      "raw_id": "Nendoroid/1600-1699/1688.json"
+    }
+  ]
+}

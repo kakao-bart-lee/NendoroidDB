@@ -1,0 +1,63 @@
+{
+  "num": "2271",
+  "name": {
+    "en": "Ruby",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Oshi No Ko",
+    "ja": null,
+    "ko": null,
+    "code": "oshi-no-ko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-j2d5nsEprsM/ZWZfjFoQfeI/AAAAAAABCbM/7Z8N-MQRcqoGHHH_fYidJIZcT3-fIv7qQCNcBGAsYHQ/s270/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-j2d5nsEprsM/ZWZfjFoQfeI/AAAAAAABCbM/7Z8N-MQRcqoGHHH_fYidJIZcT3-fIv7qQCNcBGAsYHQ/s270/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6spgKJYRSEU/ZWZoXo7ITwI/AAAAAAABCfk/GiZQp8jETCcG477Bd5emAn0PDu8V_sYqgCNcBGAsYHQ/s135/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dUzkzJ0A-i4/ZWZoYThuvzI/AAAAAAABCfs/skHNbs2JEYUKyY_Khk6LVX69N8rjXsT8QCNcBGAsYHQ/s135/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mmDr23RW-qY/ZWZoeYvRiYI/AAAAAAABCgM/EbvQSsmnM0ce8va5Kz8ijAMaoaC0TGKoQCNcBGAsYHQ/s135/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pXjMoUd4O7k/ZWZoZU9EbTI/AAAAAAABCf0/N52Xjbhg1IoI24aLqiVZoMSDDW8Yf9vtwCNcBGAsYHQ/s135/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zmLXVszMflw/ZWZoZYKmQTI/AAAAAAABCfw/WEHnCpt93rgI52zHtbVX9NgY0zCBcCbOwCNcBGAsYHQ/s135/2271-Ruby-Oshi-no-Ko-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2271/",
+      "fetched_at": "2026-05-16T19:10:33.956Z",
+      "raw_id": "/nendoroid/details/n2271/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1716",
+  "name": {
+    "en": "Nendoroid Spider-Man (Toei Version)",
+    "ja": "ねんどろいど スパイダーマン (東映バージョン) (ねんどろいど すぱいだーまん (とうえいばーじょん))",
+    "ko": "스파이더맨"
+  },
+  "series": {
+    "en": "Toei TV Series \"Spider-Man\"",
+    "ja": "『スパイダーマン』東映TVシリーズ",
+    "ko": "특촬 스파이더맨",
+    "code": "toei-tv-series-spider-man"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11791,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OGwNbCZq3SY/YWSHenA5zJI/AAAAAAAA0_g/1RiB5HpGe4En5--eu4PvQpRvGHsGM9csQCLcBGAsYHQ/s270/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OGwNbCZq3SY/YWSHenA5zJI/AAAAAAAA0_g/1RiB5HpGe4En5--eu4PvQpRvGHsGM9csQCLcBGAsYHQ/s270/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Pgc8o2QdZS4/YWSau85JpAI/AAAAAAAA1Ho/wxRtqU5e1dsXDDS1cTOjIkGKisvi0TPRQCLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YyadZqIwRUE/YWSavpooRKI/AAAAAAAA1Hs/iqN4g4mUQlI84M37TAZMB4JD4Q8_ppOhACLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zmf1mrLPcVI/YWSavyT-xXI/AAAAAAAA1Hw/t8InwhKyUpYcdlXHxoneeeErsJyGw-dUQCLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nghkGeHcXFY/YWSawat8W_I/AAAAAAAA1H0/WXeEwWoc_IQyYSBW7GBJ2rjY7V8pIhddwCLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WqyKUs4tvxI/YWSaw3UxRaI/AAAAAAAA1H4/nnubZ1QQAYEJItdWnV4VsRhvUsCvrLY4ACLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sWpWNFo4Ndk/YWSaxu8XTgI/AAAAAAAA1H8/JDedGXlF0Scx52I0Sz7YsO6rrEQLIiZvQCLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-_FqiND0KSgY/YWSayJiVUJI/AAAAAAAA1IA/tdal6DQW7aE03OiIOSrOdWmIzjB-xbfyQCLcBGAsYHQ/s135/1716-Spider-Man-Toei-TV-Series-Spider-Man-Marvel-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1716/",
+      "fetched_at": "2026-05-16T19:10:33.603Z",
+      "raw_id": "/nendoroid/details/n1716/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.734Z",
+      "raw_id": "Nendoroid/1700-1799/1716.json"
+    }
+  ]
+}

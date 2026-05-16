@@ -1,0 +1,68 @@
+{
+  "num": "2223",
+  "name": {
+    "en": "Nendoroid Bendy & Ink Demon",
+    "ja": "ねんどろいど ベンディー＆インクデーモン (ねんどろいど べんでぃー＆いんくでーもん)",
+    "ko": "벤디 & 잉크 악마"
+  },
+  "series": {
+    "en": "Bendy and the Ink Machine",
+    "ja": "Bendy and the Ink Machine",
+    "ko": "Bendy and the Ink Machine",
+    "code": "bendy-and-the-ink-machine"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14740,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-inK8nPfxuiI/ZM6y0bdlu1I/AAAAAAABA90/ovyMk0XsYl44PSyf2D_SHaHlrhfgS4qHQCNcBGAsYHQ/s270/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-inK8nPfxuiI/ZM6y0bdlu1I/AAAAAAABA90/ovyMk0XsYl44PSyf2D_SHaHlrhfgS4qHQCNcBGAsYHQ/s270/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9tJGxcahxsk/ZNAWjTOKauI/AAAAAAABBJM/SUsxTcmw-pszFAs0ESL-cW-83mM0jqyDQCNcBGAsYHQ/s135/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dnlzfozEhT4/ZNAWjpuTc9I/AAAAAAABBJQ/NhtBtj5s-10PNNCQlIulhhh3mal0KK47QCNcBGAsYHQ/s135/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-k58NGp5D10I/ZNAWkIpq7qI/AAAAAAABBJU/KdtX5QnicD0I6ypQaV78HkQ_HxDLddFywCNcBGAsYHQ/s135/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XvQENZJsC9k/ZNAWkVxYGfI/AAAAAAABBJY/F4SohZR1LccMYEt9gnjdJtIE8DVfzVcsgCNcBGAsYHQ/s135/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MurlkINVG2c/ZNAYJ7lIqMI/AAAAAAABBLk/ygX7FVY6ThU8dl6xPXkLzVRTjFhwBvegQCNcBGAsYHQ/s135/2223-Bendy-and-Ink-Demon-Bendy-and-the-Ink-Machine-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2223/",
+      "fetched_at": "2026-05-16T19:10:33.927Z",
+      "raw_id": "/nendoroid/details/n2223/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.859Z",
+      "raw_id": "Nendoroid/2200-2299/2223.json"
+    }
+  ]
+}

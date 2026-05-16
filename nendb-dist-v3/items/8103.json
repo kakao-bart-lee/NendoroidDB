@@ -1,0 +1,63 @@
+{
+  "num": "8103",
+  "name": {
+    "en": "Nendoroid Doll: Customizable Head (Peach/Cinnamon/Cream)",
+    "ja": "ねんどろいどどーる かすたむヘッド（peach/cinnamon/cream） (ねんどろいどどーる かすたむへっど（ぴーち/しなもん/くりーむ）)",
+    "ko": "커스텀 헤드(피치/시나몬/크림)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-07",
+      "status": "released"
+    },
+    {
+      "date": "2020-11",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8103,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190222/8103/58376/large/d95352a172a5ab8fd8eb1ab5869fc7c9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.949Z",
+      "raw_id": "NendoroidDoll/Customizing/8103.json"
+    }
+  ]
+}

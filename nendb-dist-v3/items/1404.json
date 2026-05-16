@@ -1,0 +1,68 @@
+{
+  "num": "1404",
+  "name": {
+    "en": "Nendoroid Orphen",
+    "ja": "ねんどろいど オーフェン (ねんどろいど おーふぇん)",
+    "ko": "오펜"
+  },
+  "series": {
+    "en": "Sorcerous Stabber Orphen",
+    "ja": "魔術士オーフェンはぐれ旅",
+    "ko": "마술사 오펜",
+    "code": "sorcerous-stabber-orphen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9735,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jXzGhlu5_74/X4NkaGdeaeI/AAAAAAABm4s/LwOexn4JFe0A9CczbMvYTgP5fRPTYKUwgCLcBGAsYHQ/s270/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jXzGhlu5_74/X4NkaGdeaeI/AAAAAAABm4s/LwOexn4JFe0A9CczbMvYTgP5fRPTYKUwgCLcBGAsYHQ/s270/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_b__hu0_L7g/X4s_6yMiWxI/AAAAAAABquU/9AyOpq24gVU8jzpRsysFrsuRzwZ5pZZUwCLcBGAsYHQ/s135/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mwLLFyBpXS8/X4s_69791oI/AAAAAAABquY/OHmp94ld91YUZ38BrCzK1dAWVY5UzojlACLcBGAsYHQ/s135/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1SkkfEEONUI/X4s_7GNmNUI/AAAAAAABquc/RjRaj8WDx4kAIhqMuS5sp2-I4qBXDWZigCLcBGAsYHQ/s135/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UYt5hywspv4/X4s_7rmL8zI/AAAAAAABqug/hrks4tUFHV8SO-aovxPA869cTieb93S8wCLcBGAsYHQ/s135/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Zj0esg-ZJLk/X4s_7zFMwSI/AAAAAAABquk/BBkB87yOEgAYO7wHBxaluJI9VpmGJiYMQCLcBGAsYHQ/s135/1404-Orphen-Sorcerous-Stabber-Orphen-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1404/",
+      "fetched_at": "2026-05-16T19:10:33.410Z",
+      "raw_id": "/nendoroid/details/n1404/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.657Z",
+      "raw_id": "Nendoroid/1400-1499/1404.json"
+    }
+  ]
+}

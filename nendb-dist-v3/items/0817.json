@@ -1,0 +1,70 @@
+{
+  "num": "0817",
+  "name": {
+    "en": "Nendoroid Asato Miyo",
+    "ja": "ねんどろいど 朝戸未世 (ねんどろいど あさとみよ)",
+    "ko": "아사토 미요"
+  },
+  "series": {
+    "en": "Little Armory",
+    "ja": "リトルアーモリー",
+    "ko": "리틀 아머리",
+    "code": "little-armory"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5060,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6660,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sCuvxcsC0OQ/X4NduRGr8WI/AAAAAAABmDs/TgNjeZ9q5gga3uFIVxkJN3SDf6G1MImsACLcBGAsYHQ/s270/817-Asato-Miyo-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sCuvxcsC0OQ/X4NduRGr8WI/AAAAAAABmDs/TgNjeZ9q5gga3uFIVxkJN3SDf6G1MImsACLcBGAsYHQ/s270/817-Asato-Miyo-Little-Armory-Company-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xVfXvC40Nfw/X4riS0WyEII/AAAAAAABnFY/NqYPdxLM9Y8016don0oW_LMyhZ7cVCSWACLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ul1wO899PiY/X4riTGCRLjI/AAAAAAABnFc/4cDv7wC6QhsoKXqoOTjVht8omq5YlfemwCLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-67UN-kHQ2NU/X4riTcpO2-I/AAAAAAABnFg/NFnwJ7Ur0QIocsJ3jr5G1Cmo9Y-zZJz5gCLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eilJzKPuNbM/X4riTs5tpFI/AAAAAAABnFk/rTna-n4e_RIoOjxJvWpRlES8OUUFiXRkwCLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0O09NcM3ABk/X4riT4Fe8qI/AAAAAAABnFo/ui_4sJKPelMeFTWTJUnWzOQmIvOnUElagCLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tlu8eJ2Ebo4/X4riUIzuG-I/AAAAAAABnFs/7qQlz1G-lrMn-avZHeTqhlSH7JqFGhL0gCLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-IC0yCde2OyM/X4riUTOo_MI/AAAAAAABnFw/JC5X83o4HDse1fgReD-qqJEd_pEyuBU7ACLcBGAsYHQ/s135/817-Asato-Miyo-Little-Armory-Toyline-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n817/",
+      "fetched_at": "2026-05-16T19:10:34.817Z",
+      "raw_id": "/nendoroid/details/n817/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.514Z",
+      "raw_id": "Nendoroid/0800-0899/817.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1580",
+  "name": {
+    "en": "Nendoroid Power",
+    "ja": "ねんどろいど パワー (ねんどろいど ぱわー)",
+    "ko": "파워"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10834,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OTuKAPKNsBk/YFXyDzYwTtI/AAAAAAAAwMQ/ih_MxLpMgMsB3duUvc9HEj6emA3YwMg8gCLcBGAsYHQ/s270/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OTuKAPKNsBk/YFXyDzYwTtI/AAAAAAAAwMQ/ih_MxLpMgMsB3duUvc9HEj6emA3YwMg8gCLcBGAsYHQ/s270/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YR4JN-WtN7c/YD1f-G0sFfI/AAAAAAAAv_c/NAm66-ibc2Ubf8xgDtoQqXaUcd_k1iivQCLcBGAsYHQ/s135/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cnj7Pm1kdWY/YD1f-H06jPI/AAAAAAAAv_g/9cVnWLucJ3s14mwcZ2DXfMNjP5QghYb6ACLcBGAsYHQ/s135/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VsxBSQoxaH0/YD1f-a5YejI/AAAAAAAAv_k/PtlPQUBZQ9QczVtegUKTNcw8-t5KSK4hQCLcBGAsYHQ/s135/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d4_nT939_Pk/YD1f-RyGX_I/AAAAAAAAv_o/qMilIDelX18w4QcQD5hU8XtgJ0O0w3ajACLcBGAsYHQ/s135/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2tDr5O0bXvM/YD1f-kT6trI/AAAAAAAAv_s/shLgr7hVCLY7H3ZoIjtLpuMhbLtDvEgggCLcBGAsYHQ/s135/1580-Power-Chainsaw-Man-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1580/",
+      "fetched_at": "2026-05-16T19:10:33.516Z",
+      "raw_id": "/nendoroid/details/n1580/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.700Z",
+      "raw_id": "Nendoroid/1500-1599/1580.json"
+    }
+  ]
+}

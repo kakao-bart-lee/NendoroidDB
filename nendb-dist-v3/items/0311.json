@@ -1,0 +1,68 @@
+{
+  "num": "0311",
+  "name": {
+    "en": "Nendoroid Kana Minami (ねんどろいど みなみ かな)",
+    "ja": "ねんどろいど 南 夏奈 (ねんどろいど みなみ かな)",
+    "ko": "미나미 카나"
+  },
+  "series": {
+    "en": "Minamike",
+    "ja": "みなみけ ただいま",
+    "ko": "미나미가",
+    "code": "minamike"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3829,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-v1clGtjpv5k/X4NMlDYPcwI/AAAAAAABlgE/BI055THvZk4JTVDEEQ2MLD8gPbSmX0y5gCLcBGAsYHQ/s270/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-v1clGtjpv5k/X4NMlDYPcwI/AAAAAAABlgE/BI055THvZk4JTVDEEQ2MLD8gPbSmX0y5gCLcBGAsYHQ/s270/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r3oJM7RSzgU/X4daDgt_UQI/AAAAAAAAq24/mxrGjLZtwOQlwfDoWdH5nlwumpuSe5RpwCLcBGAsYHQ/s135/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KC70vvu4Vm4/X4daEHqYH1I/AAAAAAAAq28/VYAVpsLtn18WDWMuLdOUF6CNfySppKy9wCLcBGAsYHQ/s135/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fyP3iK6dIeg/X4daEWEr42I/AAAAAAAAq3A/EJJM6m1DyekGhYdGDvJ2MM2aUaXcEYsqACLcBGAsYHQ/s135/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7Sv06QmQRmo/X4daFNzOgyI/AAAAAAAAq3E/CBR9W5KH3VgC8tWSTw0YgD7nSRSaeuA1wCLcBGAsYHQ/s135/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s_mLKnjJHAg/X4daFm4ZiBI/AAAAAAAAq3I/Herg55ul87cwQizqZCwrq-PvpWr7kXL5ACLcBGAsYHQ/s135/311-Minami-Kana-Minamike-Tadaima-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n311/",
+      "fetched_at": "2026-05-16T19:10:34.454Z",
+      "raw_id": "/nendoroid/details/n311/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.348Z",
+      "raw_id": "Nendoroid/0300-0399/311.json"
+    }
+  ]
+}

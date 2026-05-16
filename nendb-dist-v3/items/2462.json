@@ -1,0 +1,65 @@
+{
+  "num": "2462",
+  "name": {
+    "en": "Kagura",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Gintama",
+    "ja": null,
+    "ko": null,
+    "code": "gintama"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHql8dTOeuxUTxAiecZSZwsD5MqTfBzhWC656dbIIWaPRwu8nr2QsTVtanfilsz3TQQYBmP0ZjzamHggM-n_JZx0NkuJZC9WNcnaD5xV_5PhBfTi9sQZEYt5fSwPXtxTAx-Omnr4EvBSoIufF8ek3LPlqA8T42vDcb_pCSpICKG6wsJRhMxNnbglk2xF55/s270/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHql8dTOeuxUTxAiecZSZwsD5MqTfBzhWC656dbIIWaPRwu8nr2QsTVtanfilsz3TQQYBmP0ZjzamHggM-n_JZx0NkuJZC9WNcnaD5xV_5PhBfTi9sQZEYt5fSwPXtxTAx-Omnr4EvBSoIufF8ek3LPlqA8T42vDcb_pCSpICKG6wsJRhMxNnbglk2xF55/s270/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-1Jln-YaSnQyGCtccQ8N35gyvXiu3bEnMi-8TOKD9hbJIngBZ8DBMUdW2u1X-c09CSn8Sc3eUSi6lsvSR7zoZC1yfSadx1VpJEqGwwQndtKFKkLWdFdAAf5n33b-esfObw9Wifk1UNWosNwVx8ud0C5WWNwV321D_tlvZlBO-mhD9c7n-PNZcQK8m0nrT/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoy6ReYLwxBD9TrS7VGoMPJTHowwgvGQ1lxwoa-zRlZmw7kh4OwKZ6-O_zJew5vN5EGPsUQd1q6M14G_dnwLKOrmgccwckEoXUIc3E7elP8-WEORM9Z8rP8Ceyh1JitPXPBg2eEJoCqh3TVgbQuUDOD4TpWW56PrzqQiuDSC7sxCNkJyBo0w4n4JYvDz47/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5oaDc-HCnYpwW2XKi8OwKSK9teai2hR7hMNmUJOHPHUp5eHmpInvd3cz1e8NypA5zTxX1qwDx-e5NKvgEStN3waLkYvhuzlI2ONQKGHvu-s3lfD5fy0yWcbPRamnReWaR1PwuaFYk6ObGe3Cq23P6HvG0iW0YsNLqe4EauUvheJlXwyWtOjHqMceLJC_a/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxwwMtwD2_LJ0UezWJw-mzrHJiM1AC9Dz8uptaribvykvCJEOg_9mXD7qfqoQmmLexQ69562SwVXSY22GSmqr2HzPqvHqjLjqjUVl_BYncZwppU18zf9hgUMVwHhOWxdEugvIFz5fBG_goKyLqHZpEVz4KUy2GANjj5swTl8GwfPZYe9LWwULEL9UF_WI/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeec60TkclQBsPjORSIFhyphenhyphennJvrhEORcIokcHzuyVUonOd2T_HMRBvRTV4gXCUKoGDh6jZDp9aLexx23buzMDipHgjv-l9V_rmjbs0ugs2SZbton1V1CBxIs9MK1HrDZ-IEnStMkt_9-9bhl6jJJYgt9m_fhYoZP9CE44E3cM-asWTnahgRu2qd3P9DtHl0/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh11bYgqy573S3GLD4xTPsBKxy-VhcILN5VMeMsEd2BkdkLxGss6LKWwy8yG0OkYyASXRbIXHAYYg_dmAquVhcIsskqe8zjcbKKqSWdiqdssSAv3w1RRtFuaE5w7X1fh785gv6ySDx4VfpQSTu98QyErT07-p0vuyUzqxfPJc5itsltMJbpk_nKApQm1qtE/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTdlOVzQZ7S29T7k69z2565nOLl0YFoiUNxG8dPCUexB8bRaU094x9coKWt-FBvHSpr6m70QT66u9N1NtRJ96Zr_PNaO8jdTOOQRlh1tGnyS2F9f14UXfOJiThyphenhyphenyLJLc3mCz8RPi4pTX2RvyXYUsuyQXRQfIv20cnR3BkUttHXBvQ1LWihvY5vOKHrfQ9/s135/2462-Kagura-Gintama-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2462/",
+      "fetched_at": "2026-05-16T19:10:34.074Z",
+      "raw_id": "/nendoroid/details/n2462/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0446",
+  "name": {
+    "en": "Nendoroid Mashiro Mitsumine (ねんどろいど みつみねましろ)",
+    "ja": "ねんどろいど 三峰真白 (ねんどろいど みつみねましろ)",
+    "ko": "미츠미네 마시로"
+  },
+  "series": {
+    "en": "Mikakunin de Shinkoukei",
+    "ja": "未確認で進行形",
+    "ko": "미확인으로 진행형",
+    "code": "mikakunin-de-shinkoukei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4510,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y3s4kGzbEtM/X4NNyr7KSTI/AAAAAAABlpY/ECcBEPK9wF0Ow-3TD8pnnTGhuP-5ts9EQCLcBGAsYHQ/s270/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y3s4kGzbEtM/X4NNyr7KSTI/AAAAAAABlpY/ECcBEPK9wF0Ow-3TD8pnnTGhuP-5ts9EQCLcBGAsYHQ/s270/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pzGFA57Mh1M/X4deOfh1QEI/AAAAAAAArk4/A8XlLHrtRSwH1XbKJ8fCTqpQGFzj1NjawCLcBGAsYHQ/s135/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mC1gCRQJC2Q/X4deOiq9pGI/AAAAAAAArk8/uJ-wgaWucQgbLNuObMT_fPR6wekIPjW8gCLcBGAsYHQ/s135/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kDSquYfM1r0/X4deOsaapjI/AAAAAAAArlA/C1e23djW7Ywv5QSwRavcJrwr6_ZSpLaywCLcBGAsYHQ/s135/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Zp2Ke4BWER8/X4deOyg_QoI/AAAAAAAArlE/gPICyJjQ0JU4EsLBbWymYrZXVVaCAUQvACLcBGAsYHQ/s135/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IKZF7kDqOFM/X4deO7m2cCI/AAAAAAAArlI/ryCb5uUl1zMWtWpkt2Un7xc_mbjFIO5YwCLcBGAsYHQ/s135/446-Mashiro-Mitsumine-Mikakunin-de-Shinkoukei-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n446/",
+      "fetched_at": "2026-05-16T19:10:34.534Z",
+      "raw_id": "/nendoroid/details/n446/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.381Z",
+      "raw_id": "Nendoroid/0400-0499/446.json"
+    }
+  ]
+}

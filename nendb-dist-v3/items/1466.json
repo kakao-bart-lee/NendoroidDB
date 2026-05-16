@@ -1,0 +1,70 @@
+{
+  "num": "1466",
+  "name": {
+    "en": "Nendoroid Yui Yuigahama",
+    "ja": "ねんどろいど 由比ヶ浜結衣 (ねんどろいど ゆいがはまゆい)",
+    "ko": "유이가하마 유이"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10066,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FtmofN5bSNo/X4NkoPlEwyI/AAAAAAABm8M/uipFQI4gQe45nM_W0pHCAw_PicpTvoCMQCLcBGAsYHQ/s270/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FtmofN5bSNo/X4NkoPlEwyI/AAAAAAABm8M/uipFQI4gQe45nM_W0pHCAw_PicpTvoCMQCLcBGAsYHQ/s270/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DLTXkx_bu7w/X4tBOaZ4T1I/AAAAAAABrCA/ajfeQ3hyUcUhJIbscldT6O4-JlfCNm5kACLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-b5UGvHIqvsg/X4tBOq-TCiI/AAAAAAABrCE/ZmTouYGsiqkdtwPctp8rWNOkamQF9LDxwCLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6NvNIMbMYMw/X4tBO8GYdFI/AAAAAAABrCI/r3uKDQLRItAYRE1A75zl8TP-p4WsHOS8wCLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lgpArM-hcLM/X4tBPKybh4I/AAAAAAABrCM/HKNbKyuOdz8LHG_uORzLg0xwkshUwxKXQCLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HTXdHZ6jhjw/X4tBPcsoA_I/AAAAAAABrCQ/e1wSSOfBs3M1GNUgXDCaP-EBh5zO2rSoACLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nXQ3nKxbeog/X4tBPqsc5TI/AAAAAAABrCU/mLZIbpbL5rAuhg9DFg4wse-CDugKOjtTwCLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-8nWYiHM9kyg/X4tBP7tn_RI/AAAAAAABrCY/A8uCGnrmT3ATfAErTd5dbVRyKZndva1rgCLcBGAsYHQ/s135/1466-Yui-Yuigahama-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1466/",
+      "fetched_at": "2026-05-16T19:10:33.448Z",
+      "raw_id": "/nendoroid/details/n1466/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.672Z",
+      "raw_id": "Nendoroid/1400-1499/1466.json"
+    }
+  ]
+}

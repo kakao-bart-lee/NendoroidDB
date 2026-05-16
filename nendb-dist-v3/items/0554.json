@@ -1,0 +1,69 @@
+{
+  "num": "0554",
+  "name": {
+    "en": "Nendoroid Koujaku (ねんどろいど こうじゃく)",
+    "ja": "ねんどろいど 紅雀 (ねんどろいど こうじゃく)",
+    "ko": "코우자쿠"
+  },
+  "series": {
+    "en": "DRAMAtical Murder",
+    "ja": "DRAMAtical Murder",
+    "ko": "드라마티컬 머더",
+    "code": "dramatical-murder"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5183,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Hewvy8IbV4s/X4NOivoTYgI/AAAAAAABlw0/howO8OCECC8kMAFRyytG5YaRPiiydYYgQCLcBGAsYHQ/s270/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Hewvy8IbV4s/X4NOivoTYgI/AAAAAAABlw0/howO8OCECC8kMAFRyytG5YaRPiiydYYgQCLcBGAsYHQ/s270/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Uu-6j4NTq8w/X4is07kpZiI/AAAAAAAAsNM/CkMiwSHxeaEe5wJ8516OWuS7zxloXNxCgCLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PXMUSn59Y2E/X4is0-0Zz0I/AAAAAAAAsNQ/m3BCscGvSh4-CVQ_Uwf6KeXSwl_HKsUNACLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HWrV6gROyls/X4is1MezpbI/AAAAAAAAsNU/OlVNDfb34kkN6Cd4enGfsyxy10F_xAZ8QCLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_9bLmR-IwQw/X4is1XHCmCI/AAAAAAAAsNY/mpPmdkDRX9kgqOywWfHVypmMTiraPA_RQCLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Nk1hfWFpWvE/X4is1jPsDoI/AAAAAAAAsNc/t_wgm9K310IWLHPdKWKeDk_V5ScnpQIxwCLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-J3cysRjUgVU/X4is1wOIbnI/AAAAAAAAsNg/K1Rrv2C7B94Xg7MHlmy5NtgJwkdkI5RZgCLcBGAsYHQ/s135/554-Koujaku-DRAMAtical-Murder-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n554/",
+      "fetched_at": "2026-05-16T19:10:34.596Z",
+      "raw_id": "/nendoroid/details/n554/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.443Z",
+      "raw_id": "Nendoroid/0500-0599/554.json"
+    }
+  ]
+}

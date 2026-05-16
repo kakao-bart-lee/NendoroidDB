@@ -1,0 +1,69 @@
+{
+  "num": "0965",
+  "name": {
+    "en": "Nendoroid Sora",
+    "ja": "ねんどろいど ソラ (ねんどろいど そら)",
+    "ko": "소라"
+  },
+  "series": {
+    "en": "Kingdom Hearts",
+    "ja": "キングダム ハーツ",
+    "ko": "킹덤하츠",
+    "code": "kingdom-hearts"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7466,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h6RZZH98ENs/X4Neuvlxa1I/AAAAAAABmN0/mg8bAixzt5cZhVo_Ugy0e7YrropVGXufgCLcBGAsYHQ/s270/965-Sora-Kingdom-Hearts-Disney-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h6RZZH98ENs/X4Neuvlxa1I/AAAAAAABmN0/mg8bAixzt5cZhVo_Ugy0e7YrropVGXufgCLcBGAsYHQ/s270/965-Sora-Kingdom-Hearts-Disney-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Kuo_7JN8tAA/X4ro7Fy5ZTI/AAAAAAABoAs/Aj187Xr1w1I3sXpDvzNKfbqfeDO2ihKyACLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RXKqlR26ghQ/X4ro7cPPAuI/AAAAAAABoAw/vq3TLCUU6h0eNbhmCJw69Q_n0mWUV_lnACLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cdA0eKh41Fw/X4ro7mJk21I/AAAAAAABoA0/NxEqsL1-njMyImRSSizn4kKT_ulBnwynwCLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DbnaaeqV2Yo/X4ro73xcTII/AAAAAAABoA4/diTLQFjQ10giBNMhmuyYfKoxDNhqK_VgACLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-N1VddfhXYkk/X4ro8Nz4BUI/AAAAAAABoA8/rHXePCuSq3IzcsmBYluiBDFQYxQvAbDJQCLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-arkBapEunss/X4ro8fQ_SlI/AAAAAAABoBA/OmJk2Ht2D-wWGU2CT_NIWLFS_M-gKlv7wCLcBGAsYHQ/s135/965-Sora-Kingdom-Hearts-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n965/",
+      "fetched_at": "2026-05-16T19:10:34.899Z",
+      "raw_id": "/nendoroid/details/n965/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.550Z",
+      "raw_id": "Nendoroid/0900-0999/965.json"
+    }
+  ]
+}

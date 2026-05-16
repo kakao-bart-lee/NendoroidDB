@@ -1,0 +1,67 @@
+{
+  "num": "0248",
+  "name": {
+    "en": "Nendoroid Ichika Takatsuki (ねんどろいど たかつきいちか)",
+    "ja": "ねんどろいど 貴月イチカ (ねんどろいど たかつきいちか)",
+    "ko": "타카츠키 이치카"
+  },
+  "series": {
+    "en": "Waiting in the Summer",
+    "ja": "あの夏で待ってる",
+    "ko": "그 여름에서 기다릴게",
+    "code": "waiting-in-the-summer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3560,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HYy-0FSOYTs/X4NLRPdnznI/AAAAAAABlYQ/k9oiadLvscMg5nzEBx6lp27O9kvWKXUnACLcBGAsYHQ/s270/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HYy-0FSOYTs/X4NLRPdnznI/AAAAAAABlYQ/k9oiadLvscMg5nzEBx6lp27O9kvWKXUnACLcBGAsYHQ/s270/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rBJt1ul_DhQ/X4dXs716vmI/AAAAAAAAqg4/_AogD5wBGsovjGZHvl2nPsW-Qavfda4zQCLcBGAsYHQ/s135/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ERM8RPoWsQM/X4dXtLYxwCI/AAAAAAAAqg8/EAHiaaFIzLs0Q4CHVNnfkwz06foeBU0BwCLcBGAsYHQ/s135/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2BE-XaBIWOQ/X4dXtAqIlII/AAAAAAAAqhA/p6-0n8ZVexMYow5bnJlKF0ZMGqGdJlMdwCLcBGAsYHQ/s135/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4zl3pCRkx7U/X4dXtcDzpNI/AAAAAAAAqhE/OPxYDBC9dmY6epfevN5iPzCKYTZZr91FQCLcBGAsYHQ/s135/248-Ichika-Takatsuki-Waiting-in-the-Summer-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n248/",
+      "fetched_at": "2026-05-16T19:10:34.092Z",
+      "raw_id": "/nendoroid/details/n248/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.332Z",
+      "raw_id": "Nendoroid/0200-0299/248.json"
+    }
+  ]
+}

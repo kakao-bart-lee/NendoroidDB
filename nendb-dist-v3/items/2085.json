@@ -1,0 +1,68 @@
+{
+  "num": "2085",
+  "name": {
+    "en": "Nendoroid Mugen",
+    "ja": "ねんどろいど ムゲン (ねんどろいど むげん)",
+    "ko": "무겐"
+  },
+  "series": {
+    "en": "Samurai Champloo",
+    "ja": "サムライチャンプルー",
+    "ko": "사무라이 참프루",
+    "code": "samurai-champloo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14059,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DUiFcoBfHiA/ZA3eEU17MrI/AAAAAAAA9LU/DVJOSDEUBrIukLuhvZBviyLM2kGSsoZGgCNcBGAsYHQ/s270/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DUiFcoBfHiA/ZA3eEU17MrI/AAAAAAAA9LU/DVJOSDEUBrIukLuhvZBviyLM2kGSsoZGgCNcBGAsYHQ/s270/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ioZVxpdM9kk/ZA3dR5LF33I/AAAAAAAA9G0/1B96DrkYPQEGcK9C_6b4rsoNqG3eByxiwCNcBGAsYHQ/s135/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iNgbU2g_6Mc/ZA3dScgJgCI/AAAAAAAA9G4/t1QR-0kXJZ4cbQBPvXynrWNDOE97Xt8OQCNcBGAsYHQ/s135/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SPPLVgFYPMk/ZA3dSZXCL9I/AAAAAAAA9G8/UqOe1KoPtR8qLuoldBge_ePWVgkJ1Oq6QCNcBGAsYHQ/s135/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4e1bNh2KiB0/ZA3dSpBfr1I/AAAAAAAA9HE/ouPQHGeVP3sviizOxChi7G_wotwTUVHMQCNcBGAsYHQ/s135/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sgUlyHZPRfA/ZA3dSmFZBrI/AAAAAAAA9HA/i2CC1IDfMWUx8N1KGJZrRO--x12IcKSjACNcBGAsYHQ/s135/2085-Mugen-Samurai-Champloo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2085/",
+      "fetched_at": "2026-05-16T19:10:33.831Z",
+      "raw_id": "/nendoroid/details/n2085/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.823Z",
+      "raw_id": "Nendoroid/2000-2099/2085.json"
+    }
+  ]
+}

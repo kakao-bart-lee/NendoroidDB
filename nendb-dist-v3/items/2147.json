@@ -1,0 +1,69 @@
+{
+  "num": "2147",
+  "name": {
+    "en": "Nendoroid Nazuna Nanakusa",
+    "ja": "ねんどろいど 七草ナズナ (ねんどろいど ななくさなずな)",
+    "ko": "나나쿠사 나즈나"
+  },
+  "series": {
+    "en": "Call of the Night",
+    "ja": "よふかしのうた",
+    "ko": "철야의 노래",
+    "code": "call-of-the-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14486,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QHIBi9M5HUA/ZKXXMo8gX4I/AAAAAAAA-j0/X46CofS1AR853IJxIRgYCB-Km0EyzAqiACNcBGAsYHQ/s270/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QHIBi9M5HUA/ZKXXMo8gX4I/AAAAAAAA-j0/X46CofS1AR853IJxIRgYCB-Km0EyzAqiACNcBGAsYHQ/s270/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MG2_BLm1v6A/ZKXl0-LJBZI/AAAAAAAA-9Q/sPXWzGIgdfUPehE3q6X8R-GCID51eRu3gCNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--cj7FHB-jLM/ZKXl1ORzLdI/AAAAAAAA-9U/HdIVxCZTGqoqAp6UMCCkENriTo9YWMaLwCNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6ALyBzgLGTM/ZKXl1QpG0CI/AAAAAAAA-9Y/YRqhC6n9VL8xl0q2U9QIA6tqzVyHNVo-wCNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7N9fSW5nH-A/ZKXl11zU58I/AAAAAAAA-9c/FoOjJvRfTL4wY--cia7P39Bm7r1ugb2rACNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KDeCmWY3mOU/ZKXl1yLUhII/AAAAAAAA-9g/JcTPgNJyykkcWn1R5FIiKMHl6PktYG4YQCNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hUKWdUJ_naA/ZKXl2d119ZI/AAAAAAAA-9k/kOFMoANYNr00R0zlM8QbB7Ki81Fy-CcKgCNcBGAsYHQ/s135/2147-Nazuna-Nanakusa-Call-of-the-Night-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2147/",
+      "fetched_at": "2026-05-16T19:10:33.867Z",
+      "raw_id": "/nendoroid/details/n2147/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.838Z",
+      "raw_id": "Nendoroid/2100-2199/2147.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0417",
+  "name": {
+    "en": "Nendoroid Levi: Cleaning Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
+    "ja": "ねんどろいど リヴァイ お掃除Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
+    "ko": "리바이 청소 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4434,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YxAgkxJZZ-c/X4NNrdsUSWI/AAAAAAABlnk/SGmq8Im7CZYcPVBKxonIL8-TVlEKci6WQCLcBGAsYHQ/s270/417-Levi-Cleaning-Ver-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YxAgkxJZZ-c/X4NNrdsUSWI/AAAAAAABlnk/SGmq8Im7CZYcPVBKxonIL8-TVlEKci6WQCLcBGAsYHQ/s270/417-Levi-Cleaning-Ver-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oRR6GdUNoJ4/X4ddiw5ONJI/AAAAAAAArb0/R3d8Zw9lurErSSzHw2ey47mwAa9j0DiQACLcBGAsYHQ/s135/417-Levi-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Joj8oKJlnTk/X4ddjE7wP9I/AAAAAAAArb4/IKjUnDvGnYoJIITxyUCM02eReWtOuKlWACLcBGAsYHQ/s135/417-Levi-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a4eMTnqJsQA/X4ddjLlDlVI/AAAAAAAArb8/MXo8F1f4KbsSyEp8pztjXaGE1d6X-1CfgCLcBGAsYHQ/s135/417-Levi-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9kDnQrG5Cyg/X4ddjXPe4vI/AAAAAAAArcA/0qIFzvgLEcInxShT0SVRmY52NKsYgNy1gCLcBGAsYHQ/s135/417-Levi-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n417/",
+      "fetched_at": "2026-05-16T19:10:34.516Z",
+      "raw_id": "/nendoroid/details/n417/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.374Z",
+      "raw_id": "Nendoroid/0400-0499/417.json"
+    }
+  ]
+}

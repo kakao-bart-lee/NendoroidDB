@@ -1,0 +1,68 @@
+{
+  "num": "0343",
+  "name": {
+    "en": "Nendoroid Faris Nyannyan (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ja": "ねんどろいど フェイリス・ニャンニャン (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ko": "페이리스 냥냥"
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3940,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TsZcmaXXoYI/X4NMyyweYrI/AAAAAAABliM/EURXbVoXpfoHyyvQGUWuBA2HyXPfMSeYwCLcBGAsYHQ/s270/343-Faris%2BNyannyan-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TsZcmaXXoYI/X4NMyyweYrI/AAAAAAABliM/EURXbVoXpfoHyyvQGUWuBA2HyXPfMSeYwCLcBGAsYHQ/s270/343-Faris%2BNyannyan-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fOqrJMytIVM/X4datQiDYAI/AAAAAAAArBQ/HcLLADGaw2cXK7brqp89fpGiKOJ74obXgCLcBGAsYHQ/s135/343-Faris-Nyannyan-Steins%253BGate-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QOqQNH2ZSRc/X4dat1b9PEI/AAAAAAAArBU/XfetnVlUx6clHFo5ad4m3QRkde1GzZ3XgCLcBGAsYHQ/s135/343-Faris-Nyannyan-Steins%253BGate-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mFd_ghPYNbk/X4dauCUnfiI/AAAAAAAArBY/cmYfvp7QwxkBD1IIFHiXb5CRDPE91tOmQCLcBGAsYHQ/s135/343-Faris-Nyannyan-Steins%253BGate-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pAw_yTr8BOo/X4dauIXW83I/AAAAAAAArBc/fqPCwPJxkowW-iie8ON-HRAUouYwdwHxQCLcBGAsYHQ/s135/343-Faris-Nyannyan-Steins%253BGate-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Imas1KKER7E/X4daub8d0FI/AAAAAAAArBg/lorqc12AXhktpwpPPR1kHZt12uy3QPjgQCLcBGAsYHQ/s135/343-Faris-Nyannyan-Steins%253BGate-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n343/",
+      "fetched_at": "2026-05-16T19:10:34.473Z",
+      "raw_id": "/nendoroid/details/n343/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.357Z",
+      "raw_id": "Nendoroid/0300-0399/343.json"
+    }
+  ]
+}

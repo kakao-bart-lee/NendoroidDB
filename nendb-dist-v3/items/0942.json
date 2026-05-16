@@ -1,0 +1,68 @@
+{
+  "num": "0942",
+  "name": {
+    "en": "Nendoroid Ram & Rem: Childhood Ver.",
+    "ja": "ねんどろいど ラム＆レム 幼少期Ver. (ねんどろいど らむ＆れむ ようしょうきVer.)",
+    "ko": "렘&람 어린시절 Ver."
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7285,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Fq05_ywQnOo/X4Nen1FCGaI/AAAAAAABmMY/vb6I5-2SnjkAHBtpAx9_AzDGx8x6v0AjQCLcBGAsYHQ/s270/942-Ram-Rem-Childhood-Ver-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Fq05_ywQnOo/X4Nen1FCGaI/AAAAAAABmMY/vb6I5-2SnjkAHBtpAx9_AzDGx8x6v0AjQCLcBGAsYHQ/s270/942-Ram-Rem-Childhood-Ver-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Rr9rXmkSJ50/X4roR0R2VoI/AAAAAAABn3U/tMTIAz2ARbwkNfQ7cda-1GwuhgMfR2NswCLcBGAsYHQ/s135/942-Ram-and-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_hvkngcP7-A/X4roSNcFSQI/AAAAAAABn3Y/8tO7S3LE0xk3SDW3J9YD62iIQXq0Gl_zgCLcBGAsYHQ/s135/942-Ram-and-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LI9HdXFAq5U/X4roSXkgvKI/AAAAAAABn3c/SZRTMobcyQA3l8ZonORkKElBFczgGoAOQCLcBGAsYHQ/s135/942-Ram-and-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Jqzo4SLUYDE/X4roSr1HgmI/AAAAAAABn3g/fW7fEn_NL3kKiSKhUoKOuUuEFwCzja8PwCLcBGAsYHQ/s135/942-Ram-and-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9OivFfQpjwQ/X4roS2yAhrI/AAAAAAABn3k/EDSJWU4WWXMHW8dvX9p12MXTivri4HE4wCLcBGAsYHQ/s135/942-Ram-and-Rem-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n942/",
+      "fetched_at": "2026-05-16T19:10:34.886Z",
+      "raw_id": "/nendoroid/details/n942/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.544Z",
+      "raw_id": "Nendoroid/0900-0999/942.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1385",
+  "name": {
+    "en": "Nendoroid Annie Leonhart",
+    "ja": "ねんどろいど アニ・レオンハート (ねんどろいど あに・れおんはーと)",
+    "ko": "애니 레온하트"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13798,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E530vqnDy2E/Y9mJ4TzE6qI/AAAAAAAA8d8/yJL1STsJQIgZCanmuoFkDXDzREifKafhwCNcBGAsYHQ/s270/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E530vqnDy2E/Y9mJ4TzE6qI/AAAAAAAA8d8/yJL1STsJQIgZCanmuoFkDXDzREifKafhwCNcBGAsYHQ/s270/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-27b52eUPaWo/Y9mOpFdSpeI/AAAAAAAA8gM/bqlgptx2ds0Zr8dG0ia0LZg-OQNMWrQKACNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UMxksmdD-k4/Y9mOpJRBZgI/AAAAAAAA8gQ/ttqO823R378Md9BXqLYskP4rrLZZqmN9QCNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fKyHLmLeCGE/Y9mOpBu97cI/AAAAAAAA8gU/6yD4I3w5S4g2SjoyufIRaFS3TmDWHU0QwCNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0bUjIRRAF0s/Y9mOp1jRivI/AAAAAAAA8gY/G_fdZPJsugYqykSAJNytr95S-byOZWc0ACNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RBhQq9_4L7U/Y9mOqT-sboI/AAAAAAAA8gc/QEry9Rw2kVcnEuzPddp1arKdtDKdsLPqQCNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-heLxtyJhfCs/Y9mOqznPiCI/AAAAAAAA8gg/dek4MrKfUkkdp8DvjkZmlwnBO9CgGN22gCNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7EKM7quSJgI/Y9mOrfxA8mI/AAAAAAAA8gk/MVezXIWNmjoMKpsS4I00Kcl5bHsf5jtAACNcBGAsYHQ/s135/1385-Annie-Leonhart-Attack-on-Titan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1385/",
+      "fetched_at": "2026-05-16T19:10:33.396Z",
+      "raw_id": "/nendoroid/details/n1385/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.653Z",
+      "raw_id": "Nendoroid/1300-1399/1385.json"
+    }
+  ]
+}

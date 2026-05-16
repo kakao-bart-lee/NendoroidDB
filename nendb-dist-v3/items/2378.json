@@ -1,0 +1,64 @@
+{
+  "num": "2378",
+  "name": {
+    "en": "Yukio Okumura",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Exorcist",
+    "ja": null,
+    "ko": null,
+    "code": "blue-exorcist"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LEwfN32GdUs/ZcqethDsfMI/AAAAAAABDYo/WsweQOUJCpMMQWkkApRf4iTcgyP699swACNcBGAsYHQ/s270/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LEwfN32GdUs/ZcqethDsfMI/AAAAAAABDYo/WsweQOUJCpMMQWkkApRf4iTcgyP699swACNcBGAsYHQ/s270/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-So-ooXdb4Ss/Zow0GI_KV2I/AAAAAAABFO0/3pMil8sAFfIrQwV0FmZttmSdVAcRxHZzQCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8vIAXiHSvdg/Zow0GVJn-oI/AAAAAAABFO4/VSnMOT3cV1Y7DNWtxgHqrxS4ODYzOfjDQCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IiMhzCbzfXY/Zow0G7Ln6PI/AAAAAAABFO8/-WLepKx7-GkpSomVcSTSw9LZAFhAwTsKwCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jSyvalbSL68/Zow0HPkRUEI/AAAAAAABFPA/ZgFWSdoOiE0IxEwAt4mqx17QGeDLhs2bQCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tcELTx2Lwko/Zow0Hz3uP_I/AAAAAAABFPE/cmiJKDOGqRcxztjUC5kuDvIJVs-HRZPXQCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JpajuG9URkc/Zow0IC7j8mI/AAAAAAABFPI/Sqjr8fR8vmcAbH_HM1_9A_U7_O7nmA7_wCNcBGAsYHQ/s135/2378-Yukio-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2378/",
+      "fetched_at": "2026-05-16T19:10:34.020Z",
+      "raw_id": "/nendoroid/details/n2378/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0672",
+  "name": {
+    "en": "Nendoroid Harley Quinn: Suicide Edition",
+    "ja": "ねんどろいど ハーレイ・クイン スーサイド・エディション (ねんどろいど はーれい・くいん すーさいど・えでぃしょん)",
+    "ko": "할리퀸 수어사이드 에디션"
+  },
+  "series": {
+    "en": "Suicide Squad",
+    "ja": "スーサイド・スクワッド",
+    "ko": "수어사이드 스쿼드",
+    "code": "suicide-squad"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5911,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-x33eO4X60-U/X4NP7FlCVBI/AAAAAAABl48/rmn7-_2qFdooDuVPcWp3NGP95mVaehhXACLcBGAsYHQ/s270/672-Harley-Quinn-Suicide-Edition-Suicide-Squad-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-x33eO4X60-U/X4NP7FlCVBI/AAAAAAABl48/rmn7-_2qFdooDuVPcWp3NGP95mVaehhXACLcBGAsYHQ/s270/672-Harley-Quinn-Suicide-Edition-Suicide-Squad-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Wyd4pubAGpE/X4i1izOBm9I/AAAAAAAAs6E/y2sRdy-b_ZAf6V4UEa8O05fMXdEYDCj4ACLcBGAsYHQ/s135/672-Harley-Quinn-Suicide-Squad-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5i-ztSPNyKI/X4i1jFAkQpI/AAAAAAAAs6I/YF82ojzyvkYBIF2tg3AymDwhAO2EiFQYQCLcBGAsYHQ/s135/672-Harley-Quinn-Suicide-Squad-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-A2Wh3pzQwb0/X4i1jCZkMBI/AAAAAAAAs6M/4AAm-20wh3sZtn0QjpvHDkZu5Ay319ekwCLcBGAsYHQ/s135/672-Harley-Quinn-Suicide-Squad-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pldIIfa-rJY/X4i1jbOS7eI/AAAAAAAAs6Q/_4Vr4HZ7kT4IJxnxSVzRSIdNBj3RxQWYQCLcBGAsYHQ/s135/672-Harley-Quinn-Suicide-Squad-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0dn3pmSzYLA/X4i1jQJziWI/AAAAAAAAs6U/BkC1FRWb478Ba0PAwhgfQVnHwJTXvh3mACLcBGAsYHQ/s135/672-Harley-Quinn-Suicide-Squad-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n672/",
+      "fetched_at": "2026-05-16T19:10:34.735Z",
+      "raw_id": "/nendoroid/details/n672/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.480Z",
+      "raw_id": "Nendoroid/0600-0699/672.json"
+    }
+  ]
+}

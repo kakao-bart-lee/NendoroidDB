@@ -1,0 +1,68 @@
+{
+  "num": "1202",
+  "name": {
+    "en": "Nendoroid Asuka Shikinami Langley",
+    "ja": "ねんどろいど 式波・アスカ・ラングレー (ねんどろいど しきなみ・あすか・らんぐれー)",
+    "ko": "시키나미 아스카 랑그레이"
+  },
+  "series": {
+    "en": "Rebuild of Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "ko": "에반게리온",
+    "code": "rebuild-of-evangelion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wkgcoaFUwFg/X4NiBeLiiZI/AAAAAAABmm0/T_QEuSDyWcIWkn-C8zw2KqCEEU6-dMixQCLcBGAsYHQ/s270/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wkgcoaFUwFg/X4NiBeLiiZI/AAAAAAABmm0/T_QEuSDyWcIWkn-C8zw2KqCEEU6-dMixQCLcBGAsYHQ/s270/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-u06uvqUIes8/X4ry0clYz1I/AAAAAAABplQ/BFXkEg4-qv0675OWDBEvs70TZoh8aR2EwCLcBGAsYHQ/s135/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HBBs9HiVKA0/X4ry0_2q9rI/AAAAAAABplU/ckio4t3rZuMND5IM0ny2pD7Z3u_o-7HhgCLcBGAsYHQ/s135/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-w7mWXsaNhkA/X4ry1RUaKiI/AAAAAAABplY/tZcNsyq1rCEqtShxPaXgNTIvbhW8onI5QCLcBGAsYHQ/s135/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nNg5JW3RoSA/X4ry10tIIII/AAAAAAABplc/tP9ddC_BM1QzPbjYtkfSk2q8OJOc0rFnwCLcBGAsYHQ/s135/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AMQq49sv7ig/X4ry2EHvDHI/AAAAAAABplg/8rslUevKVrwyqVG-qAtmzg2DcrbHbiInQCLcBGAsYHQ/s135/1202-Asuka-Shikinami-Langley-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1202/",
+      "fetched_at": "2026-05-16T19:10:33.283Z",
+      "raw_id": "/nendoroid/details/n1202/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.609Z",
+      "raw_id": "Nendoroid/1200-1299/1202.json"
+    }
+  ]
+}

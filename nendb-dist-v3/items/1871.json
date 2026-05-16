@@ -1,0 +1,70 @@
+{
+  "num": "1871",
+  "name": {
+    "en": "Nendoroid Neo",
+    "ja": "ねんどろいど ネオ (ねんどろいど ねお)",
+    "ko": "네오"
+  },
+  "series": {
+    "en": "The Matrix",
+    "ja": "マトリックス",
+    "ko": "매트릭스",
+    "code": "the-matrix"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12592,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvB8k6_UoTnIR4LxEZdjmV_qZNcddgtQZykB__uRtzE5HXeq3CFaDOgZy1dkCIPByGBt2l6Hd_Gk-l-NoJKm285JnJ3Wgq2mtUvzHsei9PesJux83_69AxA0EDFxjqnblxmgeuLgnDCTGsrOWuWgoCk9YMIjpyWofBlVEmFu7M9GNyTeGBHC4QxUiOXH_/s270/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvB8k6_UoTnIR4LxEZdjmV_qZNcddgtQZykB__uRtzE5HXeq3CFaDOgZy1dkCIPByGBt2l6Hd_Gk-l-NoJKm285JnJ3Wgq2mtUvzHsei9PesJux83_69AxA0EDFxjqnblxmgeuLgnDCTGsrOWuWgoCk9YMIjpyWofBlVEmFu7M9GNyTeGBHC4QxUiOXH_/s270/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIn_4JmW5-HYudPSeFyU18xpiqmJyHgLUOPqYNeNrI3tzV-uZBvwStMfi-6eyTRSxGxzWkven0rPQ4izFdXqLmD3ipYe5Yzc0GEjZJvGzGcMm820x8OsSSCzREsuanoQWDqpOzq0K8C-Vr1sfAyMLUhZIaK_ChenSlo-0oAz0KcRU-YhqzNbGjjdDwbpt2/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilc2Y-UEOD8xBr4JV7mw1xpB_IvqpA6WgHziU7hrtC0ybcFk4DVzGsBexygeyovACX724hO-KhQP7F_9iDVA2mrtswWoNMSawbSM22lbJF6VI49RxAgrp-REqeH0i2AUMx0qEfeNtyl5C8bfVBkJC1Li-Ox2sxE4eERbpc6hsB25kJlVFAHmYKfM18hxMS/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMseXMGH4yf0UOVKYAndYMW1rHrQBfiyhgq_GnPvnZZgjHhT6X3IMXN397M4YF7TyqUBuU_HYGnFVZJfKbypmsn-ANflw35QjusglK7ZDaQUIYCUKmxRO8aRFxTweX8YligLlqPYOkue0Cas0iISEuX0eSjyAH8T2u-HEb_yYpXf0cI6xf1HmXuZhLAPCX/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPAmlUJqjXTiDNsrbQ-FWmnhcfhxGmT2DXv6lFJDe7A-yTOd9q_XZ5RjQ8pzigQSETTFuCq4I2TkJrGI-Pd6_sRT0x4oHwd19zYP-geQgjhMQKZBqrhtsvhWjf9wq4a_DF9Th_fJ_I6JbX1Hl1DMhlVLAaY2gJl43BZ3kwR_O2QywsG8uWPYREVrYGahds/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52XZpWRGlwsb7PmK_SN21_MZZ7gVfkIAYOtisfO43H5cpbuQkphKVT0HvjHM6X3nCvShbIhbNZQLhXb9locxwUXdM8NjsqurVfmtTWj8GpoCnHvrYXXOudlgJ03Fli54vyM5yJgtxBFhbBenugX-StSeM8FC11F58Lii-5Wm3C76P1noaPjH4Ss7vyqvp/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgys2hHZ3rAg0E-YYmBqckGcYVOGgU7VUXqzd10cbOBRai-0BTYAtpb3puddq1VRT-D0jnRdnwKfrAMzGH3YfQBXqGbD_nm-KCJSIr8tkmMLCn0nFjsPR-FFGoOeronh6mnRyI0lXEUyRSs1Q2oX2csno9nteKjel2GqF4xXTHDDLJJld0PpgPQ5gqQOmL4/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vtshg_husLqnE4gZU59AUDL3fgEp832tj0FHi4kC1Gbd67Osa-MK_n95vT5LHQava3Jnf5aUQSDUkR2KBe1GlNg7CIWmFPz3xbw4TfVhSSxpMC2a6dA17-MIVJz7kWb51ygetDWP9C3KlTyfnJPOvXAVMLFkjyDCuqedV9fK49mw6oIRYUpSjqG1vOUq/s135/1871-Neo-The-Matrix-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1871/",
+      "fetched_at": "2026-05-16T19:10:33.700Z",
+      "raw_id": "/nendoroid/details/n1871/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.772Z",
+      "raw_id": "Nendoroid/1800-1899/1871.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "12450",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Saber/Arthur Pendragon (Prototype): Costume Dress -White Rose- Ver.",
+    "ja": "ねんどろいどどーる おようふくセット セイバー/アーサー・ペンドラゴン〔プロトタイプ〕霊衣開放-ホワイトローズ- Ver. (ねんどろいどどーる おようふくせっと せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕れいいかいほう-ほわいとろーず- Ver.)",
+    "ko": "세이버/아서 팬드래건 (프로토타입) 의상"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "Fate/Grand Order",
+    "code": "fate-grand-order"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12450,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220309/12450/96351/large/da0a9b6d6619ccaad04bec247e8e3b37.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.924Z",
+      "raw_id": "NendoroidDoll/Clothes/12450.json"
+    }
+  ]
+}

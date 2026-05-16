@@ -1,0 +1,69 @@
+{
+  "num": "2184",
+  "name": {
+    "en": "Nendoroid Gabimaru",
+    "ja": "ねんどろいど 画眉丸 (ねんどろいど がびまる)",
+    "ko": "가비마루"
+  },
+  "series": {
+    "en": "Hell's Paradise: Jigokuraku",
+    "ja": "地獄楽",
+    "ko": "지옥락",
+    "code": "hell-s-paradise-jigokuraku"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14505,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YFvAQG2AGug/ZKXXPS7TrvI/AAAAAAAA-kY/HhbjWQq7VWIL_yayGArLpGGNSJ4q2IVxACNcBGAsYHQ/s270/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YFvAQG2AGug/ZKXXPS7TrvI/AAAAAAAA-kY/HhbjWQq7VWIL_yayGArLpGGNSJ4q2IVxACNcBGAsYHQ/s270/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NkJHSc2HztE/ZKXmUR79-0I/AAAAAAAA_AY/n6YWZTfAa0Uka0_0k5KnrW_0TeJaLXWXACNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-krCvRSANsLk/ZKXmUkkxEVI/AAAAAAAA_Ac/tiY1UqeuznwD33_SGCtVY-ogug1vC-vmQCNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mbeNhGMkVRE/ZKXmVJASwhI/AAAAAAAA_Ag/pLVsAyv5SwY5YwjY608W0CgbrhuEiNI3QCNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-s3QciddiXnQ/ZKXmVNuweqI/AAAAAAAA_Ak/i9w04lejSFoDDduuMT28e5jzVweCmTI-ACNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tkDmBINgwGg/ZKXmVnRnCgI/AAAAAAAA_Ao/eSHP1K_CZA8x2IdEx02hwwk89G5PhFeUQCNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-n8ZmcY05oAk/ZKXmWI8kuOI/AAAAAAAA_As/nw6v5KzrZ8cDy4oar2ud_icD0PnBsXsYQCNcBGAsYHQ/s135/2184-Gabimaru-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2184/",
+      "fetched_at": "2026-05-16T19:10:33.888Z",
+      "raw_id": "/nendoroid/details/n2184/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.849Z",
+      "raw_id": "Nendoroid/2100-2199/2184.json"
+    }
+  ]
+}

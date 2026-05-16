@@ -1,0 +1,69 @@
+{
+  "num": "0497",
+  "name": {
+    "en": "Nendoroid Charlotte Dunois (ねんどろいど しゃるろっと・でゅのあ)",
+    "ja": "ねんどろいど シャルロット・デュノア (ねんどろいど しゃるろっと・でゅのあ)",
+    "ko": "샤를로트 뒤누아"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4932,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bTGIwoFjIto/X4NOBiQy8pI/AAAAAAABlso/lRhyjnSUYMQdO2dZ-F81juBXzpSjxKJ3gCLcBGAsYHQ/s270/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bTGIwoFjIto/X4NOBiQy8pI/AAAAAAABlso/lRhyjnSUYMQdO2dZ-F81juBXzpSjxKJ3gCLcBGAsYHQ/s270/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_LYooCJ9nhw/X4dfjp6yBFI/AAAAAAAAr2s/IOD5oSqEZWcJqHyo_mW0hmvSqI4ymR6lQCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8-ABhPv9tPI/X4dfj62EEXI/AAAAAAAAr2w/d-Rgdwx3P5kdct2CZLCCGVQBxRiuLVs0gCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wwiHIuKvHdk/X4dfkG9u9RI/AAAAAAAAr20/O5MJ3IGlWkM1RDeLzQtq_aFr7ARsMW3CgCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-npl1jDTZews/X4dfkUtq3XI/AAAAAAAAr24/3tp64mBlE2sX3v15fgNc3eTGRDEU_hodgCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JL98iSCo_qo/X4dfk5zxUMI/AAAAAAAAr28/AqXcG-JIHCw70qR22Q0mpXb1TGx8s_BigCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ivvGpdMLwfI/X4dflOoPeWI/AAAAAAAAr3A/LtJlz0OFEo45NmiRy8YE98sTS8Z9yuSZwCLcBGAsYHQ/s135/497-Charlotte-Dunois-Infinite-Stratos-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n497/",
+      "fetched_at": "2026-05-16T19:10:34.561Z",
+      "raw_id": "/nendoroid/details/n497/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.394Z",
+      "raw_id": "Nendoroid/0400-0499/497.json"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "num": "2890",
+  "name": {
+    "en": "Kasane Teto",
+    "ja": "ねんどろいど 重音テト 2.0",
+    "ko": null
+  },
+  "series": {
+    "en": "Kasane Teto",
+    "ja": "重音テト",
+    "ko": null,
+    "code": "kasane-teto"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4580828665187",
+  "gsc_product_id": "1138375",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138375",
+    "ja": "https://www.goodsmile.com/ja/product/1138375"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138375/AqmkahbrjP8XVKD4i7pzZsy5QBnGEH0R.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ-Q4xKMTIsUJjDGFoXwz68v9JanIUzzWzH5arWSAa15PhX831d8_NTEPOc3m9y2ZdrY_4IhfikXMtz6UdRNNCIkhpRfVe-Tv5Mnddx1irWR4J8FOUnuyhX1Qged9Zv8h_1NCW_En0THtD2K4te_tkJuNmEGNdum9LFsnzbIEJsRYi_4HASnskZVpzIR0u/s270/2890-Kasane-Teto-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP6zzHbjIAdMe3UhHapqQrMBF7FiULjUA0SFfVoShKdvDns3HcMF7YYWudqZgpuGTBolmc528ZbwxEh6IabxJNhUV2kgISkZ-PZUhcpeGMiCUo3NBqPP50ez1IANNHiW2TRoVIxX_9sVXFuAH42cFwJuzz9E9bJLh4ZiRX__9ebOMbAY8-iRTY3DvzdsJM/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB4jRYNJcBVTX90nG2w_ALP7LW7CM1WW5V4b-qiIfd3Qilap4OoLhRQm9FmNkdd_snzAVtAky8ipXwsOzEyLkbONpg1cCU0R08_74QKE6UGV0oqxhrDLi3M_Wa4wGtdXVjFHLfcW4Wz9415gj-0VuJhKVulQYKmV_bercCPJRiJRjuMY4OZhLAORYbtDli/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6GLJfRP7DFxIkSAI35Xk9LPHucba-wnczJvHXVMkKBCDkrhpsK3vbduhne8OcUbkRXV_RQ5hOmtI2JA8qcWFJiJI7u6XgFePUND6dwOfnTb2LHuE3dsd7hHCi_7dgnDd1uMgoDQt2Dj8_t_vB-UCsB9ForLo2yyclUz6US7m6p3Ygg9Yr1SKBHQBh7AYI/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sFfSyJANVggmoSNHmOSU852W5I7snydDsnxQX01P0LCPMXNjfsmhIaGxNNy_gCSrgQbaZA1g-YHZCoojaHme_Oy8UBvzB5JIwaB4P6eZSwtVEy6rV3-x_sQRa9BZ5z1uZ1pbY0r1HLVSbuxnfMW8W47R1gQYXutn40XY7Hph-C_mLaWHQOficDRBZWzP/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5xeCV_WZ2lhsmoZFoSvOwCZHSE7o9k3EprbKDNt0cITKzcwzTWAEqNbGHblTypxMznjZdAEYJZw0_InaOoty83QUfsa3_jngJ9L_eZ8Wx6gaxM66pqGUn-z89IKxlHDEBQHIakLydKqrTzTlIh5_yfhRhUYCTO8rMR2etl9Fn8JvkGLTQ8XzyYnTxtwX/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgroSQyir2VEGpULS5NWSLbRKLQn3hrQdz1NfMdwK7JvpUwCGfWc42UyNjxI2nQ5h9bedBT_i8VHs2R2H0Vvjw6Lbwv8wW9zz_-qKEnUToV3LQdYHZ77fuRbDT-AJhfOizLipCMpJu6ltLv1czXow4iob8HTVoUlvT2nreMNmLofk5uSwXCOVnyiBzv6b2B/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_I3a2BrjHBJe43F0H6-Ghs9jTgvM64-1lhXM9_Dy267rTrHCkWp_ULgVUKV_rYAQnvOXXDrYxv2m51oI4zALk2eY6ejenSwKynTvhjBFkvTv-6sWaptQbQjv5VGVouaN2WlA4FhRqjwqPlDrtJBDsWv3PTOz3QAHgpX8vy-ZDHir3qMqEfJs8pq5X5hF/s135/2890-Kasane-Teto-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138375/vkrhMAsUJHcPL1xF8dDq7bYCNza90wST.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138375/AqmkahbrjP8XVKD4i7pzZsy5QBnGEH0R.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138375",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:13:18.155Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138375",
+      "fetched_at": "2026-05-16T12:13:18.155Z",
+      "raw_id": "1138375"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138375",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138375"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2890/",
+      "fetched_at": "2026-05-16T19:10:34.374Z",
+      "raw_id": "/nendoroid/details/n2890/"
+    }
+  ]
+}

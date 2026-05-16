@@ -1,0 +1,68 @@
+{
+  "num": "0644",
+  "name": {
+    "en": "Nendoroid Luluco",
+    "ja": "ねんどろいど ルル子 (ねんどろいど るるこ)",
+    "ko": "루루코"
+  },
+  "series": {
+    "en": "Space Patrol Luluco",
+    "ja": "宇宙パトロールルル子",
+    "ko": "우주 패트롤 루루코",
+    "code": "space-patrol-luluco"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5745,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZHXqKQocW6Q/X4NPxTwOw_I/AAAAAAABl3M/r76fV-phMF4q9nNppx5G2jvSkJEo1RaYACLcBGAsYHQ/s270/644-Luluco-Space%2BPatrol%2BLuluco-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZHXqKQocW6Q/X4NPxTwOw_I/AAAAAAABl3M/r76fV-phMF4q9nNppx5G2jvSkJEo1RaYACLcBGAsYHQ/s270/644-Luluco-Space%2BPatrol%2BLuluco-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ot4mkLcWPm4/X4i0poo3IqI/AAAAAAAAsvs/Q1b5_ZRFpisn0m9jXDWo3novmGguq7dgACLcBGAsYHQ/s135/644-Luluco-Space-Patrol-Luluco-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-g-Ulr3oDRtw/X4i0pwH65HI/AAAAAAAAsvw/z_PvnXdd5w4-oiE8vqHaQjmCFVJOoSSAQCLcBGAsYHQ/s135/644-Luluco-Space-Patrol-Luluco-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yIiywiYfyc4/X4i0qMPQeNI/AAAAAAAAsv0/tese82nvyOIBJsAn6Q-YYzfrOTD8Jp5LQCLcBGAsYHQ/s135/644-Luluco-Space-Patrol-Luluco-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WI5FYi5z9Cc/X4i0qmoH6OI/AAAAAAAAsv4/MjTRLci6V7kwea1cgCFi23caslhP8xKuwCLcBGAsYHQ/s135/644-Luluco-Space-Patrol-Luluco-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Xyx_repf6jA/X4i0rL8hIdI/AAAAAAAAsv8/E4EdR8ipOicKH0T08rf873aq2S7zE-3IgCLcBGAsYHQ/s135/644-Luluco-Space-Patrol-Luluco-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n644/",
+      "fetched_at": "2026-05-16T19:10:34.718Z",
+      "raw_id": "/nendoroid/details/n644/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.472Z",
+      "raw_id": "Nendoroid/0600-0699/644.json"
+    }
+  ]
+}

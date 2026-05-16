@@ -1,0 +1,69 @@
+{
+  "num": "0594",
+  "name": {
+    "en": "Nendoroid Yagen Toshiro",
+    "ja": "ねんどろいど 薬研藤四郎 (ねんどろいど やげんとうしろう)",
+    "ko": "야겐 토시로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5379,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UFNkaGDNRSs/X4NOt5lZizI/AAAAAAABlzc/KV7NGmEnYeM9IH0TJoD3x5aIEo8_MjRcwCLcBGAsYHQ/s270/594-Yagen-Toushirou-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UFNkaGDNRSs/X4NOt5lZizI/AAAAAAABlzc/KV7NGmEnYeM9IH0TJoD3x5aIEo8_MjRcwCLcBGAsYHQ/s270/594-Yagen-Toushirou-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dMSSBxc3TMY/X4itnho3NdI/AAAAAAAAsbI/xx5KAwRxW7EyJkUwIXwno8D-qJbeKHoTQCLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-n-hLubtMk9Y/X4itnwjOfsI/AAAAAAAAsbM/g29QmvXvIW88Ov_ul7sr_OHGZCP3N4ELwCLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ThJkyZeRbN4/X4itn42gQ1I/AAAAAAAAsbQ/xdlQ5BSKafA8NtRvO_mo7fbMHPjT-4JrACLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VuKnzY1Kgx0/X4itoPaw4bI/AAAAAAAAsbU/QZU5jFLkxaA57OGz2n7x7CziCi-cdgSVwCLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vrWF4ZEzEkY/X4itobYO5sI/AAAAAAAAsbY/6XwXVcxZybkUhHOqJb-iQuwcLFqj3gZTACLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-O3-oQYFVZ9Y/X4itobL8MYI/AAAAAAAAsbc/sfORtRM4mIIX-9QqiEDnYNQoIEvZ-oIoQCLcBGAsYHQ/s135/594-Yagen-Toushirou-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n594/",
+      "fetched_at": "2026-05-16T19:10:34.675Z",
+      "raw_id": "/nendoroid/details/n594/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.457Z",
+      "raw_id": "Nendoroid/0500-0599/594.json"
+    }
+  ]
+}

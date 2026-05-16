@@ -1,0 +1,70 @@
+{
+  "num": "1803",
+  "name": {
+    "en": "Nendoroid SUGA",
+    "ja": "ねんどろいど SUGA",
+    "ko": "슈가"
+  },
+  "series": {
+    "en": "TinyTAN",
+    "ja": "TinyTAN",
+    "ko": "방탄소년단",
+    "code": "tinytan"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12184,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-w3q-vzkdcfM/YhAE0SB-DpI/AAAAAAAA3k8/zZRl0V4k4mQbgtCsKzrXTWTT7bsS9sQ_ACNcBGAsYHQ/s270/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-w3q-vzkdcfM/YhAE0SB-DpI/AAAAAAAA3k8/zZRl0V4k4mQbgtCsKzrXTWTT7bsS9sQ_ACNcBGAsYHQ/s270/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tC3AxLursNo/YhAL9eIL-GI/AAAAAAAA3rE/dSROMFzQskcjONs-JVwX6Gx7uHGwg5QrgCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-n5xEY80zZeI/YhAL9iFEmOI/AAAAAAAA3rI/dYqEj47irnEbqUTMImHVJV00tN1YJroNwCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FncPpcfVIck/YhAL9wMENiI/AAAAAAAA3rM/j8uswk4slKAjf5lLBYWxGBNWYYFJ_UYnQCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fT4Ej67KXJY/YhAL98DolxI/AAAAAAAA3rQ/m4qBkScf8ocUY8zNhah0N9YW6J3JgJkDACNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PzisflVwMEw/YhAL-a86HMI/AAAAAAAA3rU/QaHhrBHnMT4GMIgHXN00OCuoffwFuPWtwCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ajwOTHNhWts/YhAL-rqvTGI/AAAAAAAA3rY/H0mk1oNXtasOpze1BjS2m3L84sRA5FSkwCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Jpfcadql_Qk/YhAL-7m5Z8I/AAAAAAAA3rc/GkcsQzcXczM70X95y0EJCNWg3tN6W2JBwCNcBGAsYHQ/s135/1803-SUGA-BTS-TinyTAN-Celebrity-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1803/",
+      "fetched_at": "2026-05-16T19:10:33.657Z",
+      "raw_id": "/nendoroid/details/n1803/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.754Z",
+      "raw_id": "Nendoroid/1800-1899/1803.json"
+    }
+  ]
+}

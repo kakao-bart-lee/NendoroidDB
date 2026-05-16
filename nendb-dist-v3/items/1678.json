@@ -1,0 +1,69 @@
+{
+  "num": "1678",
+  "name": {
+    "en": "Nendoroid Pecorine",
+    "ja": "ねんどろいど ペコリーヌ (ねんどろいど ぺこりーぬ)",
+    "ko": "페코린느"
+  },
+  "series": {
+    "en": "Princess Connect! Re: Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "ko": "프린세스 커넥트! Re:Dive",
+    "code": "princess-connect-re-dive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11172,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Wx4oiFDyuyA/YS6JtRAlsqI/AAAAAAAAz9I/jUSgD16Qux0D0oTBi6hFRTNuMTNghBidACLcBGAsYHQ/s270/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Wx4oiFDyuyA/YS6JtRAlsqI/AAAAAAAAz9I/jUSgD16Qux0D0oTBi6hFRTNuMTNghBidACLcBGAsYHQ/s270/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eqoUN-8l4Pw/YS6Mf4KKIVI/AAAAAAAA0Fk/CMnDQiLkhNgK6L5fPMuH67Cmd9a7N3k3ACLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bccc6JZJT5Y/YS6MgZW85iI/AAAAAAAA0Fo/2MMd14xXvesS8ZYdnhuYr9Q3LOhLya-pwCLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3v0QtA1fIKk/YS6Mg3-KMiI/AAAAAAAA0Fs/DN09NFu3nt4_3cpWd0eaDydEu15_V-ZqgCLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NVFFwSs_4YQ/YS6MhSm7JUI/AAAAAAAA0Fw/nE-oB9KEauAanbgpavM_icwqcCk9VfAUwCLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--tGMAJps0LQ/YS6Mhuvem1I/AAAAAAAA0F0/rlgXKLhWapYJZUg9hGd0CoaTFVa96xQnQCLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GDP0pDWeslQ/YS6Mh9sChMI/AAAAAAAA0F8/YJL4FPBS57gIjM9DeQOrg4eQYXN1GVHNQCLcBGAsYHQ/s135/1678-Pecorine-Princess-Connect-Re-Dive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1678/",
+      "fetched_at": "2026-05-16T19:10:33.578Z",
+      "raw_id": "/nendoroid/details/n1678/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.724Z",
+      "raw_id": "Nendoroid/1600-1699/1678.json"
+    }
+  ]
+}

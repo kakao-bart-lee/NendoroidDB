@@ -1,0 +1,64 @@
+{
+  "num": "0019",
+  "name": {
+    "en": "Nendoroid Lazy Sakura (へたれさくら)",
+    "ja": "ねんどろいど へたれ桜 (へたれさくら)",
+    "ko": "헤사테 사쿠라"
+  },
+  "series": {
+    "en": "Fate/hollow ataraxia",
+    "ja": "Fate/hollow ataraxia",
+    "ko": "페이트 시리즈",
+    "code": "fate-hollow-ataraxia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 629,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-A99ypcZ69-8/X4MRyzypahI/AAAAAAAApXc/q17gPw3C0Fs_m_LIJbg6GKXeyOy3aesXgCLcBGAsYHQ/s270/019-Hetare-Sakura-Fate-Hollow-Ataraxia-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-A99ypcZ69-8/X4MRyzypahI/AAAAAAAApXc/q17gPw3C0Fs_m_LIJbg6GKXeyOy3aesXgCLcBGAsYHQ/s270/019-Hetare-Sakura-Fate-Hollow-Ataraxia-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jwBKAm88hbE/X4GwRi0fj_I/AAAAAAAAo_4/zGcJjRZmT6smKXGwp-0E78QjkeNup7GwwCLcBGAsYHQ/s135/019-Hetare-Sakura-Fate-Hollow-Ataraxia-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n019/",
+      "fetched_at": "2026-05-16T19:10:33.075Z",
+      "raw_id": "/nendoroid/details/n019/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.263Z",
+      "raw_id": "Nendoroid/0000-0099/019.json"
+    }
+  ]
+}

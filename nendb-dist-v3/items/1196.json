@@ -1,0 +1,68 @@
+{
+  "num": "1196",
+  "name": {
+    "en": "Nendoroid Fumino Furuhashi",
+    "ja": "ねんどろいど 古橋文乃 (ねんどろいど ふるはしふみの)",
+    "ko": "후루하시 후미노"
+  },
+  "series": {
+    "en": "We Never Learn: BOKUBEN",
+    "ja": "ぼくたちは勉強ができない",
+    "ko": "우리는 공부를 못해",
+    "code": "we-never-learn-bokuben"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8718,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tSa6XDbb_zQ/X4NgwdlB4yI/AAAAAAABme0/C0pyCVtS8PYBq2zGEgmZKEwolEztW_WyQCLcBGAsYHQ/s270/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tSa6XDbb_zQ/X4NgwdlB4yI/AAAAAAABme0/C0pyCVtS8PYBq2zGEgmZKEwolEztW_WyQCLcBGAsYHQ/s270/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Jt_tLG0L8pg/X4rx4UK8a9I/AAAAAAABpgc/F7x-n_btkXAxxRUuLiyNV0f2E5UNgTvLACLcBGAsYHQ/s135/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gDJ8s8dtwJU/X4rx4qc1t8I/AAAAAAABpgg/bxGsvgwbWxohKGNnNm7b5JBo1mm9uh8yACLcBGAsYHQ/s135/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-J9-Mq3I-ew8/X4rx46WwRHI/AAAAAAABpgk/W3B9-5MxnTQXx6c5798Jvls36nMMO7bMQCLcBGAsYHQ/s135/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qb226c2gQRI/X4rx5bLpY2I/AAAAAAABpgo/mf-A0bq2t04pqUbDAaGxoDS7Is6YOyp_wCLcBGAsYHQ/s135/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FAxz0IaeicY/X4rx5utbUVI/AAAAAAABpgs/zOns-BXX-iUg21ggMr_4dCt6mqn_jh1CgCLcBGAsYHQ/s135/1196-Fumino-Furuhashi-We-Never-Learn-BOKUBEN-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1196/",
+      "fetched_at": "2026-05-16T19:10:33.280Z",
+      "raw_id": "/nendoroid/details/n1196/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.608Z",
+      "raw_id": "Nendoroid/1100-1199/1196.json"
+    }
+  ]
+}

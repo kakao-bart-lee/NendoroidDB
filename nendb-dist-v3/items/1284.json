@@ -1,0 +1,67 @@
+{
+  "num": "1284",
+  "name": {
+    "en": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver.",
+    "ja": "ねんどろいど ハンター♀ ナルガα Ver. (ねんどろいど ハンター♀ なるがα Ver.)",
+    "ko": "헌터♀ 나르가α Ver."
+  },
+  "series": {
+    "en": "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world-iceborne"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9275,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bkmFaUPKWj0/X4NigTbO6YI/AAAAAAABmsM/vPmnnVH95AMmeLGwebxHxJRXdCeNkem7ACLcBGAsYHQ/s270/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborn-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bkmFaUPKWj0/X4NigTbO6YI/AAAAAAABmsM/vPmnnVH95AMmeLGwebxHxJRXdCeNkem7ACLcBGAsYHQ/s270/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborn-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0_jIo_cky7I/X4r1AejJjsI/AAAAAAABqFs/FsdC3MQFOtsIzavjAUqgJjISF9fSglIgQCLcBGAsYHQ/s135/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-K5SqJ-qEPLo/X4r1ATyZeCI/AAAAAAABqFw/Po_8WBHTuBYu2PppYc5Jwjl-wsh-qtbegCLcBGAsYHQ/s135/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o_9mdEuHdoQ/X4r1A-G7B4I/AAAAAAABqF0/VL2LSCa-Ot83s4v_S7iasa5qmnHF-0a9ACLcBGAsYHQ/s135/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vR6WG5EEhjo/X4r1BVvb97I/AAAAAAABqF4/nJUkWaUc5wwqnMVDV-UfRTaHGfXH49UUwCLcBGAsYHQ/s135/1284-Hunter-Female-Monster-Hunter-Monster-Hunter-World-Iceborne-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1284/",
+      "fetched_at": "2026-05-16T19:10:33.334Z",
+      "raw_id": "/nendoroid/details/n1284/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.629Z",
+      "raw_id": "Nendoroid/1200-1299/1284.json"
+    }
+  ]
+}

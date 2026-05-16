@@ -1,0 +1,64 @@
+{
+  "num": "2306",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-D6YzFJGWEvM/ZWZfpfmSmBI/AAAAAAABCcU/NBmDaCBnM6w_Q2Q25ZR5bHRde4u7oIaDgCNcBGAsYHQ/s270/2306-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-D6YzFJGWEvM/ZWZfpfmSmBI/AAAAAAABCcU/NBmDaCBnM6w_Q2Q25ZR5bHRde4u7oIaDgCNcBGAsYHQ/s270/2306-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bdCMkdhWEig/ZWZpAP9KgbI/AAAAAAABClw/I2j5CftBsuMVcXv0NfcpadtmWDOkbq5uwCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2IoBYruK51M/ZWZpAcn1CJI/AAAAAAABCl0/P-LnQxEsjlAED01lXMe98eMBvjTTDv7DgCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rqnwY5zvsdA/ZWZpAvE4E4I/AAAAAAABCl4/PYHrddicvbYFvCtz6GfLJQQmBqO063-VwCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QeAPzaErRd0/ZWZpA90fVzI/AAAAAAABCl8/69m2gcHASSgCARxZzMvEN7QYjZ0d3eQ_gCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tCJb9cPw-SI/ZWZpBVVz_aI/AAAAAAABCmA/F5pWURiKEKQ2ATuMM52jGz-C3e-kXBgmgCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DI2H59GMIdo/ZWZpBak3eGI/AAAAAAABCmE/1i4h25ozqnoJzRJZqnFfXEWjkzwUheSHgCNcBGAsYHQ/s135/2306-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2306/",
+      "fetched_at": "2026-05-16T19:10:33.977Z",
+      "raw_id": "/nendoroid/details/n2306/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1147",
+  "name": {
+    "en": "Nendoroid Mutsunokami Yoshiyuki",
+    "ja": "ねんどろいど 陸奥守吉行 (ねんどろいど むつのかみよしゆき)",
+    "ko": "무츠노카미 요시유키"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8433,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n9QZfcJaTWI/X4Ngd98aceI/AAAAAAABmbg/LyOFo7geSz86dAiyF-o7s8fMTO5b8d6SACLcBGAsYHQ/s270/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n9QZfcJaTWI/X4Ngd98aceI/AAAAAAABmbg/LyOFo7geSz86dAiyF-o7s8fMTO5b8d6SACLcBGAsYHQ/s270/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dsmhQRIYytY/X4rwfMR-53I/AAAAAAABpMM/2WpkesA8LKkF9PnhILsQpP2wcmF7agIrgCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N_HTbf461ak/X4rwfYVOM6I/AAAAAAABpMQ/E_A-5EAjW_EULc1RgEzTfL-nGg13RJ2bgCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NORLMAj-Mt0/X4rwfiKB9wI/AAAAAAABpMU/MCKAshX-AvE3OtgSxfV5_B4AJXKtkjJPQCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mRImEmnYTLw/X4rwfzGki-I/AAAAAAABpMY/CNuPvTpuGOUbGOoeDAh9ChQzqvpdj--GgCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Qbr_S3pwhMo/X4rwgGPX-mI/AAAAAAABpMc/JbQAvG3wbr4n3-Dj5V99M6hpyw7y43gpQCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-JTqVKtjCWT4/X4rwgdZFycI/AAAAAAABpMg/vvRfV_wXg18DxYIztmNzv4eM5wXIwyMOwCLcBGAsYHQ/s135/1147-Mutsunokami-Yoshiyuki-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1147/",
+      "fetched_at": "2026-05-16T19:10:33.249Z",
+      "raw_id": "/nendoroid/details/n1147/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.596Z",
+      "raw_id": "Nendoroid/1100-1199/1147.json"
+    }
+  ]
+}

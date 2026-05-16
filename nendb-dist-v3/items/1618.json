@@ -1,0 +1,67 @@
+{
+  "num": "1618",
+  "name": {
+    "en": "Nendoroid Captain America (Sam Wilson)",
+    "ja": "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん))",
+    "ko": "팔콘"
+  },
+  "series": {
+    "en": "The Falcon and The Winter Soldier",
+    "ja": "ファルコン&ウィンター・ソルジャー",
+    "ko": "팔콘과 윈터솔져",
+    "code": "the-falcon-and-the-winter-soldier"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11128,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Q0-Oeql237k/YJfilXA1-yI/AAAAAAAAx2g/JFIZ3e0qxhwNElJ9UZrkdSCkOmKpmlZnwCLcBGAsYHQ/s270/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Q0-Oeql237k/YJfilXA1-yI/AAAAAAAAx2g/JFIZ3e0qxhwNElJ9UZrkdSCkOmKpmlZnwCLcBGAsYHQ/s270/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6g_ZVpqPGCI/YJfkUe6ipTI/AAAAAAAAx4A/8opOXkAbMAAfyfEDRdjHtKiyaEEh5KyrACLcBGAsYHQ/s135/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kI94sK6KTS0/YJfkUW0OIWI/AAAAAAAAx4E/2avCjDjDW8kD8iCpdyTtQyksJVmiagzPQCLcBGAsYHQ/s135/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CnJ6GSdBOPU/YJfkU_K2lkI/AAAAAAAAx4I/_-lIml7VSoUgZzUa6EP5iwfzSG7A4v1TgCLcBGAsYHQ/s135/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TlYKP4wLnZY/YJfkVH08d7I/AAAAAAAAx4M/0LO8PdgYsCwGjw8eoVMHUK7E3P3rTK76QCLcBGAsYHQ/s135/1618-Captain-America-Sam-Wilson-The-Falcon-and-The-Winter-Soldier-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1618/",
+      "fetched_at": "2026-05-16T19:10:33.539Z",
+      "raw_id": "/nendoroid/details/n1618/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.709Z",
+      "raw_id": "Nendoroid/1600-1699/1618.json"
+    }
+  ]
+}

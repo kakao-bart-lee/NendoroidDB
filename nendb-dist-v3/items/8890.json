@@ -1,0 +1,55 @@
+{
+  "num": "8890",
+  "name": {
+    "en": "Nendoroid Doll Ron Weasley",
+    "ja": "ねんどろいどどーる ロン・ウィーズリー (ねんどろいどどーる ろん・うぃーずりー)",
+    "ko": "론 위즐리"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8890,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://special.goodsmile.info/harrypotter/images/griffondor_photo02.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.966Z",
+      "raw_id": "NendoroidDoll/Doll/8890.json"
+    }
+  ]
+}

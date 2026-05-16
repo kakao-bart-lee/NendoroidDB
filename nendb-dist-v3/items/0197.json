@@ -1,0 +1,68 @@
+{
+  "num": "0197",
+  "name": {
+    "en": "Nendoroid Kurisu Makise & Mayuri Shiina: Cheerful Ver. (ねんどろいど まきせくりす＆しいなまゆり おうえんVer.)",
+    "ja": "ねんどろいど 牧瀬紅莉栖＆椎名まゆり 応援Ver. (ねんどろいど まきせくりす＆しいなまゆり おうえんVer.)",
+    "ko": "마키세 크리스&시이나 마유리 응원 Ver."
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6286,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3278,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BS34a5IDwbg/X4NKOaUTe1I/AAAAAAABlUY/c26RIS1MdN4hoabGwewDjQ8K-en72KOegCLcBGAsYHQ/s270/197-Kurisu%2BMakise-Mayuri%2BShiina-Cheerful-Steins-Gate-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BS34a5IDwbg/X4NKOaUTe1I/AAAAAAABlUY/c26RIS1MdN4hoabGwewDjQ8K-en72KOegCLcBGAsYHQ/s270/197-Kurisu%2BMakise-Mayuri%2BShiina-Cheerful-Steins-Gate-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-a7pehwT2EMw/X4dUpQVUuxI/AAAAAAAAqO0/roqcoOLlxfo8z8cNJy1824MFxiPnKkJUACLcBGAsYHQ/s135/197-Kurisu-Makise-and-Mayuri-Shiina-Steins-Gate-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wZZN4lH98g8/X4dUp-o0DfI/AAAAAAAAqO4/Rl-zqDlIGygZvbiUcOTX1WKNgEMHMGPbgCLcBGAsYHQ/s135/197-Kurisu-Makise-and-Mayuri-Shiina-Steins-Gate-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sIbNlk6hPzU/X4dUqVsm5KI/AAAAAAAAqO8/YLlLXQruBxQizdBmiNdz_16bO_-NCl5OQCLcBGAsYHQ/s135/197-Kurisu-Makise-and-Mayuri-Shiina-Steins-Gate-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8FLleXrQrO0/X4dUrHEEyGI/AAAAAAAAqPA/AjWL0E4V9kUXoVChQli2Skjo0dAY8gprACLcBGAsYHQ/s135/197-Kurisu-Makise-and-Mayuri-Shiina-Steins-Gate-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XOKm_C7OMpg/X4dUrt3BClI/AAAAAAAAqPE/ZE5wKOAH7bsWWXSkKl5vfwkgw0wC-79ZACLcBGAsYHQ/s135/197-Kurisu-Makise-and-Mayuri-Shiina-Steins-Gate-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n197/",
+      "fetched_at": "2026-05-16T19:10:33.765Z",
+      "raw_id": "/nendoroid/details/n197/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.317Z",
+      "raw_id": "Nendoroid/0100-0199/197.json"
+    }
+  ]
+}

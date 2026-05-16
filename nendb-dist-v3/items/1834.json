@@ -1,0 +1,71 @@
+{
+  "num": "1834",
+  "name": {
+    "en": "Nendoroid Sukuna",
+    "ja": "ねんどろいど 宿儺 (ねんどろいど すくな)",
+    "ko": "스쿠나"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lDZ_rDWG1Y4/YliMiEYEFhI/AAAAAAAA5Lg/8AMVCUWRfaoiAyS-smborfNccYm6pz6tQCNcBGAsYHQ/s270/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lDZ_rDWG1Y4/YliMiEYEFhI/AAAAAAAA5Lg/8AMVCUWRfaoiAyS-smborfNccYm6pz6tQCNcBGAsYHQ/s270/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t1Zi94I0nOM/YliVTBhJivI/AAAAAAAA5Sc/FZVezbmB__s6XaxBb4HCVJBFywbooyAlQCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S2gJ2MLcvqc/YliVTnC73kI/AAAAAAAA5Sg/jVYezUUi3LAzM8XLfY3W5dFxxoyLphm9gCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uJPYtFQEcbA/YliVUIdLOPI/AAAAAAAA5Sk/9_WosmzmfFAgUrhSFyfuWMy68rIinzR7gCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yrYGjlQMmh4/YliVUqKN0EI/AAAAAAAA5So/cfmNE2FudsALG4WBC_0jwt1BcHqIIdNvQCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QpUzHqsCcXA/YliVVMiZQKI/AAAAAAAA5Ss/M365FZiARQ4iejii5d6AwsOTF0v2z406wCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-iyrOasTUiMY/YliVVo6nzBI/AAAAAAAA5Sw/aRdNtXbJ6yYnu7zKLsRB63wFGsDm_ZUIwCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rcUyolq7bB8/YliVWNNaVJI/AAAAAAAA5S0/uyM1J3X6RmgdppXArU2FbF-ktjlU7fk7wCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-5dtfq3s7jN0/YliVSiNJ47I/AAAAAAAA5SY/Qax8RULXOuIiIQatlkiY7HMiI-d6zk9gQCNcBGAsYHQ/s135/1834-Sukuna-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1834/",
+      "fetched_at": "2026-05-16T19:10:33.676Z",
+      "raw_id": "/nendoroid/details/n1834/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.763Z",
+      "raw_id": "Nendoroid/1800-1899/1834.json"
+    }
+  ]
+}

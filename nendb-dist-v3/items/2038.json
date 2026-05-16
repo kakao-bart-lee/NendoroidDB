@@ -1,0 +1,68 @@
+{
+  "num": "2038",
+  "name": {
+    "en": "Nendoroid Keke Tang",
+    "ja": "ねんどろいど 唐 可可 (ねんどろいど たん くぅくぅ)",
+    "ko": "탕 쿠쿠"
+  },
+  "series": {
+    "en": "Love Live! Superstar!!",
+    "ja": "ラブライブ！スーパースター!!",
+    "ko": "러브 라이브! 슈퍼스타!!",
+    "code": "love-live-superstar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13704,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-U9tnAoiJBd8/Y9mJ8gFWXkI/AAAAAAAA8ek/pTLo74blxUA09LlDp6oMXKeuktbgUkyTwCNcBGAsYHQ/s270/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-U9tnAoiJBd8/Y9mJ8gFWXkI/AAAAAAAA8ek/pTLo74blxUA09LlDp6oMXKeuktbgUkyTwCNcBGAsYHQ/s270/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mboqb77i35M/Y9mO9JS1nSI/AAAAAAAA8kQ/fIlNyzEXdBooKgV9Y25yR0G684HnBTZIwCNcBGAsYHQ/s135/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rv6R7vNPiqY/Y9mO9tplA-I/AAAAAAAA8kU/QU_DB41-IMw9r1zzqWGZyqPNQC_f9BNxQCNcBGAsYHQ/s135/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a8J6Trf2_-U/Y9mO9oW043I/AAAAAAAA8kY/7Rf5lHn48gU2eYeGn6kQ33QM2WYaeD-JQCNcBGAsYHQ/s135/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dg_a8dLN6bo/Y9mO9-lhQBI/AAAAAAAA8kc/wWFvayGPksUIepqTdppHpxl52-WtA8dMgCNcBGAsYHQ/s135/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bjb8LkqU0wQ/Y9mO-IE56SI/AAAAAAAA8kg/mhJUHMhj1vMgLA9QymPyoabUjWa19RpggCNcBGAsYHQ/s135/2038-Keke-Tang-Love-Live-Superstar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2038/",
+      "fetched_at": "2026-05-16T19:10:33.802Z",
+      "raw_id": "/nendoroid/details/n2038/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.812Z",
+      "raw_id": "Nendoroid/2000-2099/2038.json"
+    }
+  ]
+}

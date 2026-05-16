@@ -1,0 +1,73 @@
+{
+  "num": "0380",
+  "name": {
+    "en": "Nendoroid Snow Miku: Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)",
+    "ja": "ねんどろいど 雪ミク Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)",
+    "ko": "유키미쿠 Magical Snow Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4133,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GfYHBwASzH0/X4NNB4lMNGI/AAAAAAABlkk/e2EP11h-Pr4TL7binUWzqPb9FkElCC3YwCLcBGAsYHQ/s270/380-Hatsune-Miku-Snow-Miku-Magical-Snow-Ver-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GfYHBwASzH0/X4NNB4lMNGI/AAAAAAABlkk/e2EP11h-Pr4TL7binUWzqPb9FkElCC3YwCLcBGAsYHQ/s270/380-Hatsune-Miku-Snow-Miku-Magical-Snow-Ver-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-k3zZ1cri3Nw/X4dbabjidII/AAAAAAAArNY/5aa54STxzGI4HvGdkiiyfS5a-oyYuNE9gCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-F0_0Yd4JRv0/X4dbaxvxByI/AAAAAAAArNc/Y-T1wzu_8Us_NvkEOh5cYjXXU-l_Cqn6ACLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8DYIsiKqcoA/X4dbbAafrzI/AAAAAAAArNg/8bxxBaMFB3AdkWHcNcevNu1LdDD88sgmgCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KqAjh_N2A3c/X4dbbB1F4-I/AAAAAAAArNk/E69hHfhMWjUv81XGdbLIq7IeNmUPbLRcQCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bkOUkR73i5k/X4dbbVDghxI/AAAAAAAArNo/ZMQwoEDtNpc-d-DXcUhKH6CQem4UBZZywCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-YsZC8g_P_2Y/X4dbbshwcTI/AAAAAAAArNs/-mnZphhF1xUrE1XkoofFth71JmhjpfMIACLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-t-gZRL2Dh-k/X4dbbkOJYfI/AAAAAAAArNw/n0F0fcLgwrQE_T6_k_N5FPa3hv0CK8Q0wCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-bdUWRCGGMGY/X4dbZ8JzkuI/AAAAAAAArNM/G96XT-OHfWIz1S5IyT7JDj15dafDWH4RwCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-3jrzapt-VQw/X4dbaH0G1iI/AAAAAAAArNU/VmANT69CWf85a0gLqiSHoiyYJHnCZJH4QCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-RBfnjiN2haE/X4dbaOFz23I/AAAAAAAArNQ/xNThbaI1g3E6z7Xp4bxjIHkxA_D3tgvJgCLcBGAsYHQ/s135/380-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n380/",
+      "fetched_at": "2026-05-16T19:10:34.495Z",
+      "raw_id": "/nendoroid/details/n380/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.366Z",
+      "raw_id": "Nendoroid/0300-0399/380.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0797",
+  "name": {
+    "en": "Nendoroid Sayaka Miki: Maiko Ver.",
+    "ja": "ねんどろいど 美樹さやか 舞妓Ver. (ねんどろいど みきさやか まいこVer.)",
+    "ko": "미키 사아캬 마이코 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6587,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LjS1vCVS39c/X4NdMasOPeI/AAAAAAABmBo/KZf7jWK-sl4hSYt1j989CMkEy7-qCFg5QCLcBGAsYHQ/s270/797-Sayaka-Miko-Maiko-Ver-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LjS1vCVS39c/X4NdMasOPeI/AAAAAAABmBo/KZf7jWK-sl4hSYt1j989CMkEy7-qCFg5QCLcBGAsYHQ/s270/797-Sayaka-Miko-Maiko-Ver-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-v4J9anmjsJQ/X4i6FSUu2uI/AAAAAAAAtqs/8srtcn3DO0MGps0B-Xh22wimxEBPehKwQCLcBGAsYHQ/s135/797-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KQ3Auq6ijjs/X4i6FqANeXI/AAAAAAAAtqw/4xzJ6zKl_so7O3xCs1WujqIgcTxiO9rewCLcBGAsYHQ/s135/797-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OJsA07suwPM/X4i6F1eJZ9I/AAAAAAAAtq0/hWtX-hWcaFMvBQYX0UUoTrn3WMlMMBSlACLcBGAsYHQ/s135/797-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z08N4eZpxGk/X4i6GAP3v2I/AAAAAAAAtq4/NhPemh05ztY3bERoFX5rPhpy_c5f5VN2QCLcBGAsYHQ/s135/797-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rqidoInMvNU/X4i6GfIgt1I/AAAAAAAAtq8/VSZOTwV1f5MzXAyWHxVu7WEKfuKjHBR-gCLcBGAsYHQ/s135/797-Sayaka-Miki-Puella-Magi-Madoka-Magica-The-Movie-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n797/",
+      "fetched_at": "2026-05-16T19:10:34.805Z",
+      "raw_id": "/nendoroid/details/n797/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.510Z",
+      "raw_id": "Nendoroid/0700-0799/797.json"
+    }
+  ]
+}

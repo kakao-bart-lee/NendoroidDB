@@ -1,0 +1,68 @@
+{
+  "num": "1181",
+  "name": {
+    "en": "Nendoroid Shikamaru Nara",
+    "ja": "ねんどろいど 奈良シカマル (ねんどろいど ならしかまる)",
+    "ko": "나라 시카마루"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8644,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t1yFrScB138/X4NgsllGqAI/AAAAAAABmd4/_drAGCh3r5QNAelzaG6u_cLojOg0a2-VwCLcBGAsYHQ/s270/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t1yFrScB138/X4NgsllGqAI/AAAAAAABmd4/_drAGCh3r5QNAelzaG6u_cLojOg0a2-VwCLcBGAsYHQ/s270/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r3QacludWdE/X4rxgAFuCxI/AAAAAAABpbE/aFYXJn3BB_QbKAX-PD36qbcCS4x8qeEAwCLcBGAsYHQ/s135/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Ipme09z2Y-o/X4rxgXo4UhI/AAAAAAABpbI/MfPItUmp4HQTyiAz23qp0Q-4DD_tolH9ACLcBGAsYHQ/s135/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-meIWY90aRb4/X4rxg6MaSzI/AAAAAAABpbM/Pp7Q5-_8FLUaPcBAqTwWyVOCEMB0hLpswCLcBGAsYHQ/s135/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YSZ5WHUw16I/X4rxg4rk8zI/AAAAAAABpbQ/F0jM4fhcXXkOJG-ivFzGsbvztGph1F8OwCLcBGAsYHQ/s135/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VU_6M36Qz0Q/X4rxhS4Pf8I/AAAAAAABpbU/RGAIlb7w0G0R6X_VD8LGv7ifwuHlrPxlgCLcBGAsYHQ/s135/1181-Shikamaru-Nara-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1181/",
+      "fetched_at": "2026-05-16T19:10:33.271Z",
+      "raw_id": "/nendoroid/details/n1181/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.604Z",
+      "raw_id": "Nendoroid/1100-1199/1181.json"
+    }
+  ]
+}

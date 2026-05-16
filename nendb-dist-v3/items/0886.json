@@ -1,0 +1,68 @@
+{
+  "num": "0886",
+  "name": {
+    "en": "Nendoroid Jiraiya & Gamabunta Set",
+    "ja": "ねんどろいど 自来也＆ガマブン太セット (ねんどろいど じらいや＆がまぶんたせっと)",
+    "ko": "지라이야 & 가마분타"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7272,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AB8aRmPGTNw/X4NeCNLwiJI/AAAAAAABmIE/bxqwxbyk0ecoppWO2LRc2lPgqx3FaSA0gCLcBGAsYHQ/s270/886-Jiraiya-%2BGamabunta-Naruto-Shippuden-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AB8aRmPGTNw/X4NeCNLwiJI/AAAAAAABmIE/bxqwxbyk0ecoppWO2LRc2lPgqx3FaSA0gCLcBGAsYHQ/s270/886-Jiraiya-%2BGamabunta-Naruto-Shippuden-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Hi-67OxBFt0/X4rkGxSvltI/AAAAAAABnfY/Xr8dPAYo77MPHR5GKzISwF9Hv2Dfh98xwCLcBGAsYHQ/s135/886-Jiraiya-and-Gamabunta-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YTUcQKmAvJw/X4rkHOXxwiI/AAAAAAABnfc/AK1_moGsbKEI5z3p4GluYK5GWx7R2X1-gCLcBGAsYHQ/s135/886-Jiraiya-and-Gamabunta-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NlgwS8SXx0s/X4rkHXpGb2I/AAAAAAABnfg/PRMEVbTp6hkENwVtjJD5Xav1C9ob1VNwgCLcBGAsYHQ/s135/886-Jiraiya-and-Gamabunta-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_3m7wLe3C_Q/X4rkHkg_r7I/AAAAAAABnfk/CohJZ_V48zQeinPQ5QcG6aGlJybrcy1kQCLcBGAsYHQ/s135/886-Jiraiya-and-Gamabunta-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vkd0sukYW1s/X4rkH3uWaWI/AAAAAAABnfo/o9No6t4YzwAQ9JxGqgJzjyfbzMXBRkQRgCLcBGAsYHQ/s135/886-Jiraiya-and-Gamabunta-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n886/",
+      "fetched_at": "2026-05-16T19:10:34.854Z",
+      "raw_id": "/nendoroid/details/n886/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.530Z",
+      "raw_id": "Nendoroid/0800-0899/886.json"
+    }
+  ]
+}

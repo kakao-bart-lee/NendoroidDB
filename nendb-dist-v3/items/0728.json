@@ -1,0 +1,68 @@
+{
+  "num": "0728",
+  "name": {
+    "en": "Nendoroid Holo",
+    "ja": "ねんどろいど ホロ (ねんどろいど ほろ)",
+    "ko": "호로"
+  },
+  "series": {
+    "en": "Spice and Wolf",
+    "ja": "狼と香辛料",
+    "ko": "늑대와 향신료",
+    "code": "spice-and-wolf"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6194,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-POC05tT3prM/X4Nc4vC5flI/AAAAAAABl9E/NHUlC8H4wwc7-esSTcBZEAqagY186m8JgCLcBGAsYHQ/s270/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-POC05tT3prM/X4Nc4vC5flI/AAAAAAABl9E/NHUlC8H4wwc7-esSTcBZEAqagY186m8JgCLcBGAsYHQ/s270/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KdUbonQWOzA/X4i4EhoXO7I/AAAAAAAAtQM/8qGy5KMFrbMTN-j0rzdjUBbxxKcaY8AmwCLcBGAsYHQ/s135/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TkUtwSOcTt4/X4i4EkcwI8I/AAAAAAAAtQQ/wLCz9xB5xgAwzpOVzUQuFDw8tQw4HecGACLcBGAsYHQ/s135/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0ZX7pg7Nlyk/X4i4E2fPRqI/AAAAAAAAtQU/8r9rbXsKCpom21A0tKEX-jj5HBpbgEYmACLcBGAsYHQ/s135/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-obM7uW5c4-w/X4i4FZqIAAI/AAAAAAAAtQY/HPlc1ixfhqUfdyZTuCBroTZaOnvY0LpVwCLcBGAsYHQ/s135/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-o8fSZy3DKzk/X4i4F6RXosI/AAAAAAAAtQc/8kbsFWcjmLAJv5IsGCKAMFG05GHKCOgdgCLcBGAsYHQ/s135/728-Holo-Spice-and-Wolf-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n728/",
+      "fetched_at": "2026-05-16T19:10:34.764Z",
+      "raw_id": "/nendoroid/details/n728/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.493Z",
+      "raw_id": "Nendoroid/0700-0799/728.json"
+    }
+  ]
+}

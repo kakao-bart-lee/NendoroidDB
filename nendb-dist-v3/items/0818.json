@@ -1,0 +1,68 @@
+{
+  "num": "0818",
+  "name": {
+    "en": "Nendoroid Wonder Woman: Hero's Edition",
+    "ja": "ねんどろいど ワンダーウーマン ヒーローズ・エディション (ねんどろいど わんだーうーまん ひーろーず・えでぃしょん)",
+    "ko": "원더우먼 히어로즈 에디션"
+  },
+  "series": {
+    "en": "Wonder Woman",
+    "ja": "ワンダーウーマン",
+    "ko": "원더우먼",
+    "code": "wonder-woman"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6639,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_p7HlhJk4i4/X4NduvnNylI/AAAAAAABmDw/ytUkIacWDLQ3ca1CI1kgHVFFC-Cp-ChSwCLcBGAsYHQ/s270/818-Wonder-Woman-Hero-Edition-Wonder-Woman-DC-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_p7HlhJk4i4/X4NduvnNylI/AAAAAAABmDw/ytUkIacWDLQ3ca1CI1kgHVFFC-Cp-ChSwCLcBGAsYHQ/s270/818-Wonder-Woman-Hero-Edition-Wonder-Woman-DC-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Tkj8V5iVr-Y/X4riUjP10VI/AAAAAAABnF0/Bor_ZUJEtJQi4YI2vS1K1OLYBb9q12MlACLcBGAsYHQ/s135/818-Wonder-Woman-Wonder-Woman-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bSZwYWZTu4k/X4riU09sX2I/AAAAAAABnF4/6dMuSJl9c6E85EDvIDlXgLit0K4ps4QxACLcBGAsYHQ/s135/818-Wonder-Woman-Wonder-Woman-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XN3MVaVkurs/X4riVGC4w-I/AAAAAAABnF8/1edT3TU18DAXPRuZ9h6fGEOPo4X34XWSQCLcBGAsYHQ/s135/818-Wonder-Woman-Wonder-Woman-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-glDCu0MNZyo/X4riVdJxPOI/AAAAAAABnGA/hVbIUYEcueErSt5GPD7j5QtDTCfqIchzwCLcBGAsYHQ/s135/818-Wonder-Woman-Wonder-Woman-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lMbox9mw7vI/X4riVo3YfhI/AAAAAAABnGE/CCp2Fef_v8g6AmZrR4JjcJR1NjOu2YMUgCLcBGAsYHQ/s135/818-Wonder-Woman-Wonder-Woman-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n818/",
+      "fetched_at": "2026-05-16T19:10:34.818Z",
+      "raw_id": "/nendoroid/details/n818/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.515Z",
+      "raw_id": "Nendoroid/0800-0899/818.json"
+    }
+  ]
+}

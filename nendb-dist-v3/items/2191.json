@@ -1,0 +1,70 @@
+{
+  "num": "2191",
+  "name": {
+    "en": "Nendoroid Bruce Lee",
+    "ja": "ねんどろいど ブルース・リー (ねんどろいど ぶるーす・りー)",
+    "ko": "이소룡"
+  },
+  "series": {
+    "en": "Bruce Lee",
+    "ja": "ブルース・リー",
+    "ko": "이소룡",
+    "code": "bruce-lee"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14573,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ylfy7CWv30I/ZKXXRmgHXwI/AAAAAAAA-k0/Lnt-lbhtxtMyozkDk9ENtxq9rgnB90d9QCNcBGAsYHQ/s270/2191-Bruce-Lee-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ylfy7CWv30I/ZKXXRmgHXwI/AAAAAAAA-k0/Lnt-lbhtxtMyozkDk9ENtxq9rgnB90d9QCNcBGAsYHQ/s270/2191-Bruce-Lee-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E5D7PlPPm1Y/ZKXmo4R97rI/AAAAAAAA_DE/G7QRdnegXCsh3Hdl9bvJvxCQwGKSXHOeACNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q5aiSXTtQr0/ZKXmo2HrusI/AAAAAAAA_DA/n7R0o6fWM0kGif4U2URlji2yM_HcWk1JgCNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x7GLYXmfCiI/ZKXmo0ob2FI/AAAAAAAA_C8/tA36loNuflQUXGXvaeRwltFiR7V3z8qWACNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hiAsxSALDZI/ZKXmphU6rSI/AAAAAAAA_DI/-ccDgh97XCERL8Xn0zbxDFOKGxyTSXvlACNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pDMf6Vt0GK8/ZKXmpm_XaLI/AAAAAAAA_DM/Ks-QUcpl5NYHvH7yt15gEbO2WAQ1AWgMQCNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Lf4rG1nJAaE/ZKXmp9zxNWI/AAAAAAAA_DQ/HlE5iSM7z4YauUyWOLTFwzPvEiQv8y14ACNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-4WU8D9EEt_o/ZKXmqX9tmDI/AAAAAAAA_DU/SXnwXa01cboxy6fCa4ZHOlCEmTSpwThzgCNcBGAsYHQ/s135/2191-Bruce-Lee-Celebrity-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2191/",
+      "fetched_at": "2026-05-16T19:10:33.893Z",
+      "raw_id": "/nendoroid/details/n2191/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.851Z",
+      "raw_id": "Nendoroid/2100-2199/2191.json"
+    }
+  ]
+}

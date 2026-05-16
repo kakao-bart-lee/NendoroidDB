@@ -1,0 +1,72 @@
+{
+  "num": "1622",
+  "name": {
+    "en": "Nendoroid Lucifer",
+    "ja": "ねんどろいど ルシファー (ねんどろいど るしふぁー)",
+    "ko": "루시퍼"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11133,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_cL7nrhnFdI/YJK33aLbwKI/AAAAAAAAxu4/NWFxBNUdJjQm0q5qT9PKbDkkLNmZUc2DACLcBGAsYHQ/s270/1622-Lucifer-Helltaker-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_cL7nrhnFdI/YJK33aLbwKI/AAAAAAAAxu4/NWFxBNUdJjQm0q5qT9PKbDkkLNmZUc2DACLcBGAsYHQ/s270/1622-Lucifer-Helltaker-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BU_J5gk_v-c/YJK72qqspkI/AAAAAAAAx0g/fV_Da-2OKy4rJ_TxsDYh4-qIba_-45_PQCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-y82s1eBDXCM/YJK73EJ6zqI/AAAAAAAAx0k/s6NWACamDAw0CJWEsrqsZohVkTMFNz23QCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a8nQYDVCAdg/YJK73eBtH8I/AAAAAAAAx0o/yDTTBxy4qlA_21_I77tr6v4HLzMi2xXwQCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mqnEK3TW6Qw/YJK73sty4II/AAAAAAAAx0s/q9fXjlDwnbETecL6HeRl6v1vA_yJN_n5gCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QLJYIXKIAxk/YJK730E0jFI/AAAAAAAAx0w/YDb6TWq9-dw70OJy8Yl9D4Iuex7FEcHMACLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--IXQ8nEIqWg/YJK74MgiEmI/AAAAAAAAx00/TlmLK1iELJEHUMB0LZDZ7JhsTf1rcRrkwCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Ls3CE62BCxw/YJK74aGKkAI/AAAAAAAAx04/Ote7KrtKzSMJrygofCFwJeiZ1yQ2yKASQCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-9B9TZ1OUWpg/YJK72bVBVnI/AAAAAAAAx0Y/hBdiz_3QG1wnxBQw0eF5KFxwPgJdKdk6wCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-yFMJi7PVmTM/YJK72tGTVrI/AAAAAAAAx0c/e6bfGxR8yCAYRr63V4rOyeAxkYJxY-3bgCLcBGAsYHQ/s135/1622-Lucifer-Helltaker-Video-Games-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1622/",
+      "fetched_at": "2026-05-16T19:10:33.541Z",
+      "raw_id": "/nendoroid/details/n1622/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.710Z",
+      "raw_id": "Nendoroid/1600-1699/1622.json"
+    }
+  ]
+}

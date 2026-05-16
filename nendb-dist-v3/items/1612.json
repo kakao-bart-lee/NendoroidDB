@@ -1,0 +1,68 @@
+{
+  "num": "1612",
+  "name": {
+    "en": "Nendoroid Nino Nakano",
+    "ja": "ねんどろいど 中野二乃 (ねんどろいど なかのにの)",
+    "ko": "나카노 니노"
+  },
+  "series": {
+    "en": "The Quintessential Quintuplets",
+    "ja": "五等分の花嫁",
+    "ko": "5등분의 신부",
+    "code": "the-quintessential-quintuplets"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11059,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-d1oyBza3DzQ/YJfildzncZI/AAAAAAAAx2o/sNaquVSbxq8ajJE6QH4gdvp1olk5Vx_pACLcBGAsYHQ/s270/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-d1oyBza3DzQ/YJfildzncZI/AAAAAAAAx2o/sNaquVSbxq8ajJE6QH4gdvp1olk5Vx_pACLcBGAsYHQ/s270/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-430VzhA1Wk0/YJfkTb-fy2I/AAAAAAAAx3s/RSsTiGnRsz84DkSnldzpXQXygjMtbVQpACLcBGAsYHQ/s135/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hDBBL1YNeoo/YJfkTgyaqSI/AAAAAAAAx3w/2Yi2U0ZeF5Ml3gNZ8VwG2ToX82t2h4OmgCLcBGAsYHQ/s135/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gpcXr4x3OQI/YJfkT37hbnI/AAAAAAAAx30/Hp808v3YXuAJj0OTKHD8dVBDIiU4mNgPwCLcBGAsYHQ/s135/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZiQ-_ou5KyA/YJfkTw2qlYI/AAAAAAAAx34/QcKeQWc0fZUj2NLzyM99hAO6MK_TsOBvQCLcBGAsYHQ/s135/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RuTotMZ7ee0/YJfkUNmSviI/AAAAAAAAx38/E8XuEacq5UwrfQXmnLzi0g-fYSHjaNnUgCLcBGAsYHQ/s135/1612-Nino-Nakano-The-Quintessential-Quintuplets-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1612/",
+      "fetched_at": "2026-05-16T19:10:33.535Z",
+      "raw_id": "/nendoroid/details/n1612/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.707Z",
+      "raw_id": "Nendoroid/1600-1699/1612.json"
+    }
+  ]
+}

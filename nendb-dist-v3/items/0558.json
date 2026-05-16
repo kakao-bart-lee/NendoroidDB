@@ -1,0 +1,68 @@
+{
+  "num": "0558",
+  "name": {
+    "en": "Nendoroid Chino",
+    "ja": "ねんどろいど チノ (ねんどろいど ちの)",
+    "ko": "카후우 치노"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit?",
+    "ja": "ご注文はうさぎですか？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5211,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HlJnpjLkNwE/X4NOj7a2IrI/AAAAAAABlxI/WcSQ4ltNq8kQ0eUDHIBfzcsbwvxpH2-OQCLcBGAsYHQ/s270/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HlJnpjLkNwE/X4NOj7a2IrI/AAAAAAABlxI/WcSQ4ltNq8kQ0eUDHIBfzcsbwvxpH2-OQCLcBGAsYHQ/s270/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xZCxq8d702M/X4is6TrvBcI/AAAAAAAAsPA/_-rsQxf_BrMGKpezaxqZnTY9OsNjIz31gCLcBGAsYHQ/s135/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jmxGxhjoCRQ/X4is6vbwR4I/AAAAAAAAsPE/UWmdDgkZcgw-Ekf5_cpNzpWky8Mrmy8CgCLcBGAsYHQ/s135/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-O9OWYGFa3Cg/X4is6sbL4EI/AAAAAAAAsPI/79wRq9F_ixQCApbf0Ch6pHFfrX4vJXwgQCLcBGAsYHQ/s135/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7yYsiwPN8DY/X4is63IsE8I/AAAAAAAAsPM/Z1VkI5XysSMLnQEt_ccjcJCc0qqBBWvmQCLcBGAsYHQ/s135/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DhZeZ0jVr08/X4is7M4YtwI/AAAAAAAAsPQ/Ua0jD7Vg_gsSG4PNWSN6ZV7HsLodcxo8QCLcBGAsYHQ/s135/558-Chino-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n558/",
+      "fetched_at": "2026-05-16T19:10:34.599Z",
+      "raw_id": "/nendoroid/details/n558/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.445Z",
+      "raw_id": "Nendoroid/0500-0599/558.json"
+    }
+  ]
+}

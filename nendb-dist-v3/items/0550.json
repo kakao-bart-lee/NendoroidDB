@@ -1,0 +1,68 @@
+{
+  "num": "0550",
+  "name": {
+    "en": "Nendoroid Anna",
+    "ja": "ねんどろいど アナ (ねんどろいど あな)",
+    "ko": "안나"
+  },
+  "series": {
+    "en": "Frozen",
+    "ja": "アナと雪の女王",
+    "ko": "겨울왕국",
+    "code": "frozen"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5147,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xPIT9_whb_g/X4NOhhlTnSI/AAAAAAABlwk/o50nwhhW0-kOTcxdF0Qs9PNfcGgZf4I-wCLcBGAsYHQ/s270/550-Anna-Frozen-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xPIT9_whb_g/X4NOhhlTnSI/AAAAAAABlwk/o50nwhhW0-kOTcxdF0Qs9PNfcGgZf4I-wCLcBGAsYHQ/s270/550-Anna-Frozen-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Rjpw6puBGno/X4isvCWwTlI/AAAAAAAAsLw/0cBkf_UslFwDx8LOXsr2xNHKM3oNrZNEACLcBGAsYHQ/s135/550-Anna-Frozen-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-01LOdh4MjyI/X4isvpEj6aI/AAAAAAAAsL0/eCvJAHu6OuMFWZFw_M1oUVANGgWetgNywCLcBGAsYHQ/s135/550-Anna-Frozen-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1WjBfwTUym8/X4isvgE0A9I/AAAAAAAAsL4/Q1q9eSKIyXQJcDEmgG25k0zk8jQNsx20QCLcBGAsYHQ/s135/550-Anna-Frozen-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-obh2h5eNw7s/X4isv3ecmSI/AAAAAAAAsL8/_Ax-IYL-NtIoFfOkwX_6keeu0uiN6an-ACLcBGAsYHQ/s135/550-Anna-Frozen-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FzVsnkDEJXU/X4iswI1K-8I/AAAAAAAAsMA/Ywbc-DyvaZA3wjWgOs82Zas0hjQMqhILQCLcBGAsYHQ/s135/550-Anna-Frozen-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n550/",
+      "fetched_at": "2026-05-16T19:10:34.594Z",
+      "raw_id": "/nendoroid/details/n550/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.441Z",
+      "raw_id": "Nendoroid/0500-0599/550.json"
+    }
+  ]
+}

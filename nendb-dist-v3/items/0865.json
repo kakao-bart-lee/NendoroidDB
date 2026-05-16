@@ -1,0 +1,68 @@
+{
+  "num": "0865",
+  "name": {
+    "en": "Nendoroid Victor Nikiforov: Coach Ver.",
+    "ja": "ねんどろいど ヴィクトル・ニキフォロフ コーチVer. (ねんどろいど ゔぃくとる・にきふぉろふ こーちVer.)",
+    "ko": "빅토르 니키포르프 코치 Ver."
+  },
+  "series": {
+    "en": "YURI ON ICE",
+    "ja": "ユーリ!!! on ICE",
+    "ko": "유리!!! on ICE",
+    "code": "yuri-on-ice"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6953,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xL6vK_sj8n4/X4Nd8E4sTlI/AAAAAAABmGw/o4RUjM-cpcwrNqhvbbWgRs_Ec_tOS5xKQCLcBGAsYHQ/s270/865-Victor-Nikiforov-Coach-Ver-YURI%2521%2521%2521-on-ICE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xL6vK_sj8n4/X4Nd8E4sTlI/AAAAAAABmGw/o4RUjM-cpcwrNqhvbbWgRs_Ec_tOS5xKQCLcBGAsYHQ/s270/865-Victor-Nikiforov-Coach-Ver-YURI%2521%2521%2521-on-ICE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Jug5VBUZ_bs/X4rjjArXX_I/AAAAAAABnXk/xy3L73YZtdcZbg9Tdoy1_UNKBEVNo-e-gCLcBGAsYHQ/s135/865-Victor-Nikiforov-Yuri-on-ICE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kGM_IzfgOpo/X4rjjVHL9DI/AAAAAAABnXo/yfU_LYADGKw8Rx-sgD5Ap0Nf8umyiFmRQCLcBGAsYHQ/s135/865-Victor-Nikiforov-Yuri-on-ICE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_j8d1OvFAdo/X4rjjomFLOI/AAAAAAABnXs/G7pUs3hMbxw7ocURKtLmkWAOFMbCIpjlACLcBGAsYHQ/s135/865-Victor-Nikiforov-Yuri-on-ICE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NdYWnrfxP40/X4rjkIyO58I/AAAAAAABnXw/wBH6CdxpX8oWb60Caex4SOOwwJ0LUV2dQCLcBGAsYHQ/s135/865-Victor-Nikiforov-Yuri-on-ICE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UGc6Lbq-ulI/X4rjkbYVLLI/AAAAAAABnX0/f-KetQ9892cWf54OQ4f0Bfh0aZ6BinkYQCLcBGAsYHQ/s135/865-Victor-Nikiforov-Yuri-on-ICE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n865/",
+      "fetched_at": "2026-05-16T19:10:34.843Z",
+      "raw_id": "/nendoroid/details/n865/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.525Z",
+      "raw_id": "Nendoroid/0800-0899/865.json"
+    }
+  ]
+}

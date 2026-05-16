@@ -1,0 +1,69 @@
+{
+  "num": "1195",
+  "name": {
+    "en": "Nendoroid Hinata Hoshino",
+    "ja": "ねんどろいど 星野ひなた (ねんどろいど ほしのひなた)",
+    "ko": "호시노 히나타"
+  },
+  "series": {
+    "en": "Wataten!: An Angel Flew Down to Me",
+    "ja": "私に天使が舞い降りた！",
+    "ko": "나에게 천사가 내려왔다!",
+    "code": "wataten-an-angel-flew-down-to-me"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8720,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-a-3AAhx50Co/X4NgvtERsBI/AAAAAAABmew/tTi6uCdPfvATHACa63Y8soyGrfhn9xZfwCLcBGAsYHQ/s270/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-a-3AAhx50Co/X4NgvtERsBI/AAAAAAABmew/tTi6uCdPfvATHACa63Y8soyGrfhn9xZfwCLcBGAsYHQ/s270/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QsCDUb_XJVA/X4rx25UsXHI/AAAAAAABpgE/H0ZdIsUDsVAL-qVAVNpDH7BhgC725Bd9QCLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xlpPLhLbQx8/X4rx3F3UklI/AAAAAAABpgI/46bIlZQLcjcUAepazG-NFyuUfGnNWlNagCLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eo0_6uUXZMo/X4rx3Xvv2GI/AAAAAAABpgM/TXu68HAEqQ0oLb4GndGUbahRnyQtmQVMACLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xQzLnbFwJ8c/X4rx3uJTtyI/AAAAAAABpgQ/8B3Ws59uzuwcys7yqByZL534qpiKHAxiwCLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pD8IDvEpiSw/X4rx3wIttQI/AAAAAAABpgU/RTPCtsA_fbcIwtxMdxWZP19Tu6WPcHkigCLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ntVqdSIKuh8/X4rx4GiR_RI/AAAAAAABpgY/l_AYObqMU8kNFshcorSiTM34opYiegX0ACLcBGAsYHQ/s135/1195-Hinata-Hoshino-Wataten-An-Angel-Flew-Down-to-Me-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1195/",
+      "fetched_at": "2026-05-16T19:10:33.279Z",
+      "raw_id": "/nendoroid/details/n1195/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.607Z",
+      "raw_id": "Nendoroid/1100-1199/1195.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "0790",
+  "name": {
+    "en": "Nendoroid Mercy: Classic Skin Edition",
+    "ja": "ねんどろいど マーシー クラシックスキン・エディション (ねんどろいど まーしー くらしっくすきん・えでぃしょん)",
+    "ko": "메르시 클래식 스킨 에디션"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6518,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kx3myGnGAZ4/X4NdKMuZMYI/AAAAAAABmBI/UaSHfsWgW4cKBi0NWApPnISvjjbvthK4wCLcBGAsYHQ/s270/790-Mercy-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kx3myGnGAZ4/X4NdKMuZMYI/AAAAAAABmBI/UaSHfsWgW4cKBi0NWApPnISvjjbvthK4wCLcBGAsYHQ/s270/790-Mercy-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fsKNX1JFokc/X4i53H5T5UI/AAAAAAAAtnM/eVWuUydAAJMTmgNVEHmvC_tAxG9jYPTNQCLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VDfDfE20M_o/X4i53U7wiSI/AAAAAAAAtnQ/m73Rrgr1INYQbFk6Zt9nxrEK7f-0KvdlwCLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DQ8F_9HsthY/X4i53iiXwGI/AAAAAAAAtnU/3kQfhVebqX0PAd2APdyjLatzTfkyjvAzACLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AryQNe-cVjI/X4i535qIt5I/AAAAAAAAtnY/xgatotLVmZg9vsk9D_M8WoZUfCbWd5LngCLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EE98ng1INeU/X4i54cW3QUI/AAAAAAAAtnc/sXsuOc2sXbQqwOu698mLV1OwyJsnIzF6ACLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Cq_uG4ZZdi4/X4i54kQ3IZI/AAAAAAAAtng/ANCNTnGEHagg4R4PbPBTZDkayWCC0BZTgCLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-MRi2TfaAR6E/X4i549boguI/AAAAAAAAtnk/DvxZJ1r6hq0rv44yA4u1CavvJjBcvh7PACLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-eIucRz5oBlk/X4i52r2P6iI/AAAAAAAAtnI/6XSFcVXjFQUl4xAAetc0GgfZZKeBWMzAwCLcBGAsYHQ/s135/790-Mercy-Overwatch-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n790/",
+      "fetched_at": "2026-05-16T19:10:34.801Z",
+      "raw_id": "/nendoroid/details/n790/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.508Z",
+      "raw_id": "Nendoroid/0700-0799/790.json"
+    }
+  ]
+}

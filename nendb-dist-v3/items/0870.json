@@ -1,0 +1,69 @@
+{
+  "num": "0870",
+  "name": {
+    "en": "Nendoroid Klaus V Reinherz",
+    "ja": "ねんどろいど クラウス・V・ラインヘルツ (ねんどろいど くらうす・V・らいんへるつ)",
+    "ko": "크라우스 V. 라인헤르츠"
+  },
+  "series": {
+    "en": "Blood Blockade Battlefront & Beyond",
+    "ja": "血界戦線 ＆ BEYOND",
+    "ko": "혈계전선",
+    "code": "blood-blockade-battlefront-beyond"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6973,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8YJrAQnue68/X4Nd9TxrlWI/AAAAAAABmHE/_uybV5sfqDA7MhIxCD_wBMDl4iMlWfsdQCLcBGAsYHQ/s270/870-Klaur-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8YJrAQnue68/X4Nd9TxrlWI/AAAAAAABmHE/_uybV5sfqDA7MhIxCD_wBMDl4iMlWfsdQCLcBGAsYHQ/s270/870-Klaur-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-V6BJXbja0io/X4rjuBY5ZnI/AAAAAAABnaE/O4AhBbCIvUE3e318zuPWB6bb4UQoQNYBwCLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pDQSi3yuUjQ/X4rjuVs9oRI/AAAAAAABnaI/aRwc9k6yjZYg-4qAWVlNNWumAfIAQYSWgCLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mv7l8-NxLKA/X4rjuxoullI/AAAAAAABnaM/8cO99CFpLkE5Dkic5KJgFDPcC1uEle6oACLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AMMzhyxB-c4/X4rjvJBXqnI/AAAAAAABnaQ/M9NDOXMLYP4MRlrki5Ierm_IdnSevutPgCLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8PQ7xK2bM_8/X4rjvGEmfSI/AAAAAAABnaU/bcPxVvOAUWswOF-f5Phr8uH9_QW3sAugQCLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XmLkM-ciBDI/X4rjvbLo_eI/AAAAAAABnaY/fFEeRkYY48w5gMs3tippyay1fPv6C_w0ACLcBGAsYHQ/s135/870-Klaus-V-Reinherz-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n870/",
+      "fetched_at": "2026-05-16T19:10:34.845Z",
+      "raw_id": "/nendoroid/details/n870/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.527Z",
+      "raw_id": "Nendoroid/0800-0899/870.json"
+    }
+  ]
+}

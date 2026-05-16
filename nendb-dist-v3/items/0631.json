@@ -1,0 +1,68 @@
+{
+  "num": "0631",
+  "name": {
+    "en": "Nendoroid Ainz Ooal Gown",
+    "ja": "ねんどろいど アインズ・ウール・ゴウン (ねんどろいど あいんず・うーる・ごうん)",
+    "ko": "아인즈 울 고운"
+  },
+  "series": {
+    "en": "OVERLORD",
+    "ja": "オーバーロード",
+    "ko": "오버로드",
+    "code": "overlord"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5694,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0BBCBcvoQB4/X4NPtGBjZ8I/AAAAAAABl2Y/lpIRmUD8Zt4q_iGGo3_XO1dAS40ZCHScwCLcBGAsYHQ/s270/631-Ainz-Ooal-Gown-Overlord-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0BBCBcvoQB4/X4NPtGBjZ8I/AAAAAAABl2Y/lpIRmUD8Zt4q_iGGo3_XO1dAS40ZCHScwCLcBGAsYHQ/s270/631-Ainz-Ooal-Gown-Overlord-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sgBo974NtIc/X4i0TxevcKI/AAAAAAAAsq0/bpmm_V0-dPQxMgFRNBRDxUCruW1mrQsVgCLcBGAsYHQ/s135/631-Ainz-Ooal-Gown-OVERLORD-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N2PvcyqrBks/X4i0UZRI4ZI/AAAAAAAAsq4/URU40cUQbQ8CKftyAKcZJen-4SrJ1Qz9wCLcBGAsYHQ/s135/631-Ainz-Ooal-Gown-OVERLORD-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Vb5fKqPQuV8/X4i0UorSHiI/AAAAAAAAsq8/bLVQEQ7vZ1wV2O6LN9XZ4mJYjQKSmyozACLcBGAsYHQ/s135/631-Ainz-Ooal-Gown-OVERLORD-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xSEK3FLp7C8/X4i0U6V5syI/AAAAAAAAsrA/PgYAj2fVV60icBrS3ChKUVPbW9Iq1XA5QCLcBGAsYHQ/s135/631-Ainz-Ooal-Gown-OVERLORD-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J9oWt8_93no/X4i0U97cITI/AAAAAAAAsrE/3nV5flnd5F4xAcynn35cJqC7uplVvU5SQCLcBGAsYHQ/s135/631-Ainz-Ooal-Gown-OVERLORD-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n631/",
+      "fetched_at": "2026-05-16T19:10:34.709Z",
+      "raw_id": "/nendoroid/details/n631/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.468Z",
+      "raw_id": "Nendoroid/0600-0699/631.json"
+    }
+  ]
+}

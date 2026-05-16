@@ -1,0 +1,64 @@
+{
+  "num": "2894",
+  "name": {
+    "en": "Wilson",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Don't Starve",
+    "ja": null,
+    "ko": null,
+    "code": "don-t-starve"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLN3t3Nb5DI3gPgj0A86KOmDpt5YNFm5oGTfzVRVWJyMBRJXp1CfRSHsQQAtVud1zIy3h13d4_vS2nkAuT7zOOBNdiR6g0ua1FDCaTj2Y8sDayHBm30rluZhkPoRp_yrY2UbkCV0yagu4geA-1NEtqz7cQjlsIWO01KmN1ehVa8rc5xwyurdyS1N1xQUD/s270/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLN3t3Nb5DI3gPgj0A86KOmDpt5YNFm5oGTfzVRVWJyMBRJXp1CfRSHsQQAtVud1zIy3h13d4_vS2nkAuT7zOOBNdiR6g0ua1FDCaTj2Y8sDayHBm30rluZhkPoRp_yrY2UbkCV0yagu4geA-1NEtqz7cQjlsIWO01KmN1ehVa8rc5xwyurdyS1N1xQUD/s270/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5xy-qXk_9Tj-ncotNTx4WCTwWy22pO8PMpSNCRZJHwtEsc3YTqCVraJHNByn0b9vnvlXvVqYisT7PLRzFrdy4oZXKiJIneOMsBz_qSaZyxTphmZiqy-mhfIvtIfjdF-6if-F3ny5YOa4NdD9WjaJceLe_Pkblfj1AXkVlBBco0vT-tSaUgoBJ4G1hTsS-/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharPk9xtiurV1wD_KFfkSth-SG6bWew2UGumdfncSFgU7Y5tWQ2jf9KtYytjEITvI2-mgf3OND3DfNzSPbCIxMboxajGdKMj0ZBdXODmQ8NErYF-OFmKRo5rFBVxsGo7_iTot7ZFQuB3bmscHu2Yvld9lO-17tan8-Kybx2I4o2xUp67JP7Ash8A1cNSWM/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ghII41Iv_jB_KRt1by7OUigCsxNRHAPgW5QFwqtzYR7QyQJ9OKqLAOTacvTSRWJt1N7loB_KAa-7eXMyvGnb4c8huYbVyIdw2h54xogqeUw3OgYNMzqycsVct1NwkXRvAvGXibJ3P-M27SuFsKP1MCHWHJqf9GmOPYqS2REMBlptAL1vJxXhIj7n33Gz/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWczfC-hdhb6QuehSi2Eiw0Xp3H4-N6hvG1qtl7-d1BHNzM7nRlGpxw3XRy7H0fz8yWahlwVYI_AnsJckpTnalDCpgOKwpDzM7_iKXluVkKKXbr2pmJBF4vlUl_NS-tYWj2GYbxxxhGuDq6SfiWn4GqC800Ybh6w47r3H9Mclh8ZGrg0BhKIVJgs9Tzgk/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitT6I9LHs-N52SdHyZXodh5vKEjJsaaqTBZt77pYeV7ApzDuQq61AG8Fkx0oxeQQBEnLUAE432ThqzKOXQ1xOBLFjTqjesI1y70KJCfcrJo1Yodprj7ixTkDgpKpVafU4-CmMeQL-wEvIJuCfUw4hqVgSHV5phwOjP8Je0WWIautwC7QsZz564oYJ5yiJV/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik33MmRzPTWrFIuZcpWfwmMlGYOu5sT1kiMRRpEfrRkMRFaHFuPQkd99MSIvNXw8sE3W3sM7Rw9HM0fgGJX0653V7F16H8Tj0jJlVJsvwoZk9HwpSKyTpY8ffQE0uTTMP6Teew1iZdu_KZAhiSxDYBkcys12IdMx4XrbO9hsPZ_jCId8b21tLLBSNj-zLi/s135/2894-Wilson-Dont-Starve-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2894/",
+      "fetched_at": "2026-05-16T19:10:34.376Z",
+      "raw_id": "/nendoroid/details/n2894/"
+    }
+  ]
+}

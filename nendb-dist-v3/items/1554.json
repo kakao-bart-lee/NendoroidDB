@@ -1,0 +1,70 @@
+{
+  "num": "1554",
+  "name": {
+    "en": "Nendoroid Sora: Kingdom Hearts III Ver.",
+    "ja": "ねんどろいど ソラ キングダム ハーツⅢVer. (ねんどろいど そら きんぐだむ はーつⅢVer.)",
+    "ko": "소라 III Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts III",
+    "ja": "キングダム ハーツⅢ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-iii"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10683,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XZvx_5Hp28E/YA2BPw6_6rI/AAAAAAAAvdc/m9wU8e9Pjp8btMLQsnwgSZHJR1u8EszFACLcBGAsYHQ/s270/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XZvx_5Hp28E/YA2BPw6_6rI/AAAAAAAAvdc/m9wU8e9Pjp8btMLQsnwgSZHJR1u8EszFACLcBGAsYHQ/s270/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XDydFKQFjms/YA2EoF3GGAI/AAAAAAAAvkI/OETcDtt1Ab0-PeZsvYJSTAAmY_VEjsbFQCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0nXnfGn6EoI/YA2EoQuzVNI/AAAAAAAAvkM/V7G_zO6aQaI2AR1m67UK8fMx9x8L0tDIACLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9R9zNCx0dWM/YA2Eor5u_RI/AAAAAAAAvkQ/BQCcajkUw8AcbbgT97tMW3bc7jaWmox9gCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NsvnjWAZk98/YA2EouVes_I/AAAAAAAAvkU/Pz5kGcspB1UISvuUKucMaBnppvdjRb_dQCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QKYyACNrN3c/YA2EoxlvaVI/AAAAAAAAvkY/eygQDzmxwy0YW5YETwTLIWgJpzv7r75BgCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3FGRn4oy9P4/YA2Eo456zNI/AAAAAAAAvkc/TImV7W8h0aQ9y6ffhzlqbu6wp8zpZIoOQCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ctTN34qJA_A/YA2EpPlFG0I/AAAAAAAAvkg/oziuI465xwYxjDFQBHH42KO2aNqXWfa7wCLcBGAsYHQ/s135/1554-Sora-Kingdom-Hearts-III-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1554/",
+      "fetched_at": "2026-05-16T19:10:33.500Z",
+      "raw_id": "/nendoroid/details/n1554/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.694Z",
+      "raw_id": "Nendoroid/1500-1599/1554.json"
+    }
+  ]
+}

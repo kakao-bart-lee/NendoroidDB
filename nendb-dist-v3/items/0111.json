@@ -1,0 +1,68 @@
+{
+  "num": "0111",
+  "name": {
+    "en": "Nendoroid Manaka Takane (ねんどろいど たかねまなか)",
+    "ja": "ねんどろいど 高嶺愛花 (ねんどろいど たかねまなか)",
+    "ko": "타카네 마나카"
+  },
+  "series": {
+    "en": "Love Plus",
+    "ja": "ラブプラス",
+    "ko": "러브 플러스",
+    "code": "love-plus"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2842,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-08a3qdpxtgo/X4NJtjINAfI/AAAAAAABlOc/O6ggTU0Co2oYwPa8UF2o0wWhjR5iNskwwCLcBGAsYHQ/s270/111-Takane-Manaka-Loveplus-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-08a3qdpxtgo/X4NJtjINAfI/AAAAAAABlOc/O6ggTU0Co2oYwPa8UF2o0wWhjR5iNskwwCLcBGAsYHQ/s270/111-Takane-Manaka-Loveplus-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qs8_36LGnCU/X4dSHUnl58I/AAAAAAAApwc/Z6g5MBTpHysTsH98xqcTznM7I7smzsY6gCLcBGAsYHQ/s135/111-Takane-Manaka-Loveplus-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-G5Xzv7cJUtQ/X4dSHnGDfcI/AAAAAAAApwg/PYALyUBtczgXEvkeRFwNw0m4gjHGeDdygCLcBGAsYHQ/s135/111-Takane-Manaka-Loveplus-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c7_7xOwxhYI/X4dSH0paWPI/AAAAAAAApwk/cMvaNW7M7ucTcBLAvaSpVNrP1UGMvQ0JACLcBGAsYHQ/s135/111-Takane-Manaka-Loveplus-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-abLk8W0XTsE/X4dSIMY4LFI/AAAAAAAApwo/g5moYOy4-bc5TEdu09EeMO6SMJR0k7XJQCLcBGAsYHQ/s135/111-Takane-Manaka-Loveplus-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J-IW74O513E/X4dSIPRQi1I/AAAAAAAApws/jBjrFR_pbQkOeTFu0cE32ir-tULIJFSIQCLcBGAsYHQ/s135/111-Takane-Manaka-Loveplus-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n111/",
+      "fetched_at": "2026-05-16T19:10:33.232Z",
+      "raw_id": "/nendoroid/details/n111/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.291Z",
+      "raw_id": "Nendoroid/0100-0199/111.json"
+    }
+  ]
+}

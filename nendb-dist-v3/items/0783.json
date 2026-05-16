@@ -1,0 +1,70 @@
+{
+  "num": "0783",
+  "name": {
+    "en": "Nendoroid Warspite",
+    "ja": "ねんどろいど Warspite（ウォースパイト） (ねんどろいど うぉーすぱいと)",
+    "ko": "워스파이트"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7231,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6499,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lFFHbAfUXwU/X4NdIVOEE6I/AAAAAAABmAs/C_CVKn4ORyYFsdQ8SH3SEtLVfWVdKzFsACLcBGAsYHQ/s270/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lFFHbAfUXwU/X4NdIVOEE6I/AAAAAAABmAs/C_CVKn4ORyYFsdQ8SH3SEtLVfWVdKzFsACLcBGAsYHQ/s270/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LITADCLSUcs/X4i5rYeqCaI/AAAAAAAAtkU/TIZkK4QdlKQpBQPiw47DgDDTV3QbSfc_QCLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-__JL9d9jJnM/X4i5rnKHmDI/AAAAAAAAtkY/c5hZU9O3Xz8OYXHq8Hp-XNVhgNaVuGXqACLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dPl8nV1NSe0/X4i5r_OAUpI/AAAAAAAAtkc/NKpuqQGGmh4Z3xt9JsR4BgYGF9sg5d5hACLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PKz7Hf1wZww/X4i5sFvQ04I/AAAAAAAAtkg/3bksJe52QFwSiiZwP9J0XrfwIDFo1fFmACLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UU643WC_hBM/X4i5sQib5OI/AAAAAAAAtkk/veVF7KmGkHMiIob_4iaomQriAF1CbPPGgCLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fLPk7u7JPe8/X4i5su3A5sI/AAAAAAAAtko/BmHXtmOinLY9zRoyivbwgtHo_mwTGQRSQCLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6MFD5o3S1lw/X4i5sybMQ8I/AAAAAAAAtks/bGI-DY4zF300q-KUDDnC1PQKixVbTj2lgCLcBGAsYHQ/s135/783-Warspite-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n783/",
+      "fetched_at": "2026-05-16T19:10:34.797Z",
+      "raw_id": "/nendoroid/details/n783/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.506Z",
+      "raw_id": "Nendoroid/0700-0799/783.json"
+    }
+  ]
+}

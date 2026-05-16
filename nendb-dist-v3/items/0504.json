@@ -1,0 +1,68 @@
+{
+  "num": "0504",
+  "name": {
+    "en": "Nendoroid Tomoyo Kanzaki (ねんどろいど かんざきともよ)",
+    "ja": "ねんどろいど 神崎灯代 (ねんどろいど かんざきともよ)",
+    "ko": "칸자키 토모요"
+  },
+  "series": {
+    "en": "Inou Battle Within Everyday Life",
+    "ja": "異能バトルは日常系のなかで",
+    "ko": "이능배틀은 일상계 속에서",
+    "code": "inou-battle-within-everyday-life"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4848,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LNqG8xD7M1E/X4NOTQRbEnI/AAAAAAABltg/XdJPMMqxuesCH4gdymOLv9j4j58qCOhGgCLcBGAsYHQ/s270/504-Kanzaki-Tomoyo-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LNqG8xD7M1E/X4NOTQRbEnI/AAAAAAABltg/XdJPMMqxuesCH4gdymOLv9j4j58qCOhGgCLcBGAsYHQ/s270/504-Kanzaki-Tomoyo-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6HC63Nk3UA8/X4irucdpI0I/AAAAAAAAr74/dmJOK10fESoTEdrg1CTjIVRdekZHj-6WACLcBGAsYHQ/s135/504-Tomoyo-Kanzaki-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oFt926T7KfQ/X4irudaPZuI/AAAAAAAAr78/f4nvj7jhFwklB5X6aqinGsM1h1zhIkFXgCLcBGAsYHQ/s135/504-Tomoyo-Kanzaki-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tmEv7yc230g/X4irusY48DI/AAAAAAAAr8A/MB5ImgeK-x8XC0KwnPEPDuKzuIyOBlJiACLcBGAsYHQ/s135/504-Tomoyo-Kanzaki-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qfOSGm7a16U/X4iru7Rn2KI/AAAAAAAAr8E/JSoplX7o_8o2o6i0Egf3NzS0lj9TBBmhQCLcBGAsYHQ/s135/504-Tomoyo-Kanzaki-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fgRdMWpNqeA/X4iru54aLBI/AAAAAAAAr8I/VSrhXTUQpZw6Z0o8l3VwhbD3psqKNvdQQCLcBGAsYHQ/s135/504-Tomoyo-Kanzaki-Inou-Battle-Within-Everyday-Life-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n504/",
+      "fetched_at": "2026-05-16T19:10:34.566Z",
+      "raw_id": "/nendoroid/details/n504/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.400Z",
+      "raw_id": "Nendoroid/0500-0599/504.json"
+    }
+  ]
+}

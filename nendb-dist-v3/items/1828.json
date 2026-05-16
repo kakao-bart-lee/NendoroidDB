@@ -1,0 +1,71 @@
+{
+  "num": "1828",
+  "name": {
+    "en": "Nendoroid Wattson",
+    "ja": "ねんどろいど ワットソン (ねんどろいど わっとそん)",
+    "ko": "왓슨"
+  },
+  "series": {
+    "en": "Apex Legends",
+    "ja": "エーペックスレジェンズ",
+    "ko": "Apex 레전드",
+    "code": "apex-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12327,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sAhS-Rh0YSM/YhAE9xsaTdI/AAAAAAAA3mE/teLbukKImoUS2qEtByfJndnjTUNmrX9MwCNcBGAsYHQ/s270/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sAhS-Rh0YSM/YhAE9xsaTdI/AAAAAAAA3mE/teLbukKImoUS2qEtByfJndnjTUNmrX9MwCNcBGAsYHQ/s270/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sETPSbLcgF4/YhAMkzv9S4I/AAAAAAAA3zo/rekc0n6m-cIBy17JRuEwkCo-7bZ3zrDBACNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-D2MA_-cRKJs/YhAMlTAg2iI/AAAAAAAA3zs/xD6sxSvysLsKH3r5Z7PKUUpMR6AWRlE9gCNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6wpb3-vKuOY/YhAMl959A1I/AAAAAAAA3zw/jXh2Wr05vE4NsOJyXBNwXhe0SNrI9yf1ACNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mCQ8owyArlo/YhAMl0zNKnI/AAAAAAAA3z0/oUqfcMEX4Jwf7wwRpTwfuxAZLs5jwIElgCNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-y8a9__WWLek/YhAMmhbYfZI/AAAAAAAA3z4/T0mdpeLtxXoXyA2ny8pGJcj6LyRjcat3ACNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PwuS8pMpmrs/YhAMnMdnHnI/AAAAAAAA3z8/WWNobETf-1oOz8GoL8nujHkzV9e_yWyhwCNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-hFWQlDFxYb8/YhAMnN9GpyI/AAAAAAAA30A/uuv7HDjhZbkwMJ8gyTZkdvGan81upHgeACNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-rowG8lC02Nk/YhAMk2GVcII/AAAAAAAA3zk/vMWNRqxxB_olsuPiVRonDXvmnZ96IjEjwCNcBGAsYHQ/s135/1828-Wattson-Apex-Legends-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1828/",
+      "fetched_at": "2026-05-16T19:10:33.672Z",
+      "raw_id": "/nendoroid/details/n1828/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.761Z",
+      "raw_id": "Nendoroid/1800-1899/1828.json"
+    }
+  ]
+}

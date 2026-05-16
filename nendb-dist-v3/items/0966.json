@@ -1,0 +1,68 @@
+{
+  "num": "0966",
+  "name": {
+    "en": "Nendoroid Tomohisa Kitakado",
+    "ja": "ねんどろいど 北門倫毘沙 (ねんどろいど きたかどともひさ)",
+    "ko": "키타카도 토모히사"
+  },
+  "series": {
+    "en": "B-Project: ~ Kodou＊Ambitious ~",
+    "ja": "B-PROJECT ～鼓動＊アンビシャス～",
+    "ko": "B-PROJECT ~고동＊앰비셔스~",
+    "code": "b-project-kodou-ambitious"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7468,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-flSK9i6BuYw/X4Neu2gDebI/AAAAAAABmN4/TipCAZSCdPUXkgjxtlqGPG68WIhjxGHngCLcBGAsYHQ/s270/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-flSK9i6BuYw/X4Neu2gDebI/AAAAAAABmN4/TipCAZSCdPUXkgjxtlqGPG68WIhjxGHngCLcBGAsYHQ/s270/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aLwMlJaCk4o/X4ro8h8JGtI/AAAAAAABoBE/PqO1FeY-PY8woOa0yuBysyZ24aJug9XgwCLcBGAsYHQ/s135/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--EqEnmxFwnw/X4ro8zK5deI/AAAAAAABoBI/LRpe5tfzLDMoQGgJwE3Gc1bxj9_vfksJwCLcBGAsYHQ/s135/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RbkfI-hKNsc/X4ro9CqCHjI/AAAAAAABoBM/LDgDXIMVypsulVuSb4ykzfgcb203sJaAACLcBGAsYHQ/s135/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lhJVRGsEV88/X4ro9SyRzZI/AAAAAAABoBQ/W0OIwKXarAQgGyaSdWnmqKIkS9BPzbgJgCLcBGAsYHQ/s135/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-d6LY7HMzJnA/X4ro9v6HHeI/AAAAAAABoBU/-t6G-5xXJ-AKUNog3-0tEyxuLfFO9DHRQCLcBGAsYHQ/s135/966-Tomohisa-Kitakado-B-Project-Kodou-Ambitious-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n966/",
+      "fetched_at": "2026-05-16T19:10:34.899Z",
+      "raw_id": "/nendoroid/details/n966/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.550Z",
+      "raw_id": "Nendoroid/0900-0999/966.json"
+    }
+  ]
+}

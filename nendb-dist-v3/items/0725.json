@@ -1,0 +1,68 @@
+{
+  "num": "0725",
+  "name": {
+    "en": "Nendoroid Megumin",
+    "ja": "ねんどろいど めぐみん",
+    "ko": "메구밍"
+  },
+  "series": {
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "ko": "이 멋진 세계에 축복을!",
+    "code": "kono-subarashii-sekai-ni-syukufuku-wo-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6180,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cM04nYvk2A8/X4Nc36Es_TI/AAAAAAABl84/Fi8FkpMy0Nc8A35GExADxtWFndFCIubzACLcBGAsYHQ/s270/725-Megumin-Kono-Subarashii-Sekai-Ni-Syukufuku-Wo-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cM04nYvk2A8/X4Nc36Es_TI/AAAAAAABl84/Fi8FkpMy0Nc8A35GExADxtWFndFCIubzACLcBGAsYHQ/s270/725-Megumin-Kono-Subarashii-Sekai-Ni-Syukufuku-Wo-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7SDhB_uPGCk/X4i3_WmopuI/AAAAAAAAtPQ/MSenYPRaYmclUbY0kOa6FQ947kByiO5-QCLcBGAsYHQ/s135/725-Megumin-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RFN4vmzLaoc/X4i3_mU8U1I/AAAAAAAAtPU/kXGCLA8WXJ4VEfwMfhXyCYWvFajf5aFlgCLcBGAsYHQ/s135/725-Megumin-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-p8ssFh7mtRs/X4i3_43o1EI/AAAAAAAAtPY/rTl0k4R3UKEp7lcnWNiBvllEs9HzOCj2QCLcBGAsYHQ/s135/725-Megumin-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EXgT8hggK8s/X4i4ARljg0I/AAAAAAAAtPc/scggKqHucZMd9PancmXMagLswfxQxhxUwCLcBGAsYHQ/s135/725-Megumin-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qb1L-98Yqjk/X4i4AVn9teI/AAAAAAAAtPg/0H5_234Yr3QmVHrLZWkeMTZj1OQPan3bgCLcBGAsYHQ/s135/725-Megumin-KONO-SUBARASHII-SEKAI-NI-SYUKUFUKU-WO-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n725/",
+      "fetched_at": "2026-05-16T19:10:34.763Z",
+      "raw_id": "/nendoroid/details/n725/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.492Z",
+      "raw_id": "Nendoroid/0700-0799/725.json"
+    }
+  ]
+}

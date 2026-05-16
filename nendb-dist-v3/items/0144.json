@@ -1,0 +1,68 @@
+{
+  "num": "0144",
+  "name": {
+    "en": "Nendoroid Kuroneko (ねんどろいど くろねこ)",
+    "ja": "ねんどろいど 黒猫 (ねんどろいど くろねこ)",
+    "ko": "쿠로네코"
+  },
+  "series": {
+    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja": "俺の妹がこんなに可愛いわけがない",
+    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
+    "code": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PZNE92NEmwI/X4NJ9BCKZ2I/AAAAAAABlQw/Ftg1S7Z9VGMxIIb97kI_EopKYtm3NHnVACLcBGAsYHQ/s270/144-Kuroneko-Oreino-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PZNE92NEmwI/X4NJ9BCKZ2I/AAAAAAABlQw/Ftg1S7Z9VGMxIIb97kI_EopKYtm3NHnVACLcBGAsYHQ/s270/144-Kuroneko-Oreino-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LMnZg3e6yGM/X4dS7EWTNzI/AAAAAAAAp74/xeYy1X_R6IAwZhStKl2EEGAmfExNSh_YACLcBGAsYHQ/s135/144-Kuroneko-Oreimo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--csF13nIeGw/X4dS7UY-qWI/AAAAAAAAp78/64AkkHY1s3Qy0AmdQEn7oV0T9g3xFiEygCLcBGAsYHQ/s135/144-Kuroneko-Oreimo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RZL9rcgvgkw/X4dS7-y5ejI/AAAAAAAAp8A/AZ__oqD2s4MecvTt1eDoPaKyIe-G3NK2gCLcBGAsYHQ/s135/144-Kuroneko-Oreimo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ttD_dTp_W30/X4dS8S9Xx6I/AAAAAAAAp8E/arHAXRJb79ggVpRzmVjgWe77oZSoP4aDgCLcBGAsYHQ/s135/144-Kuroneko-Oreimo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mVHd9EscsVo/X4dS868qJuI/AAAAAAAAp8I/PqCOx8aWd-8YlchzS6BCIOJiej-yAyHiQCLcBGAsYHQ/s135/144-Kuroneko-Oreimo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n144/",
+      "fetched_at": "2026-05-16T19:10:33.438Z",
+      "raw_id": "/nendoroid/details/n144/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.300Z",
+      "raw_id": "Nendoroid/0100-0199/144.json"
+    }
+  ]
+}

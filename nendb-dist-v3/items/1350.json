@@ -1,0 +1,68 @@
+{
+  "num": "1350",
+  "name": {
+    "en": "Nendoroid Albus Dumbledore",
+    "ja": "ねんどろいど アルバス・ダンブルドア (ねんどろいど あるばす・だんぶるどあ)",
+    "ko": "알버스 덤블도어"
+  },
+  "series": {
+    "en": "Harry Potter",
+    "ja": "ハリー・ポッター",
+    "ko": "해리포터 시리즈",
+    "code": "harry-potter"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9515,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gIVP4DLrhG4/X4NjwKE-vLI/AAAAAAABm14/bcOMv_Dk-UoiyFVpAofguzMTNmrokg-RgCLcBGAsYHQ/s270/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gIVP4DLrhG4/X4NjwKE-vLI/AAAAAAABm14/bcOMv_Dk-UoiyFVpAofguzMTNmrokg-RgCLcBGAsYHQ/s270/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xR5i5tepqcs/X4s9fAyikAI/AAAAAAABqgc/aMThW0xiHQYq9WHV2L773OJ9taPVJFuXwCLcBGAsYHQ/s135/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4pYFpL_uW9Q/X4s9felNJuI/AAAAAAABqgg/9xGU2JzELfUfL3d2wHYcwQ7TMjxjuFnMgCLcBGAsYHQ/s135/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-liX3Y1nQ0P0/X4s9fnFX5xI/AAAAAAABqgk/bZuST2JRq3slHaUGqIAUcs3IyPGL5zu3gCLcBGAsYHQ/s135/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-10_oclKj2zI/X4s9fnBFTRI/AAAAAAABqgo/To9043c27BMJtY0t61iB6xQBtokwj_T9gCLcBGAsYHQ/s135/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sUeqOOM3YPs/X4s9gE5dCPI/AAAAAAABqgs/zxcc_hf4LM0q7-1vPgnrlz6k8795isPcQCLcBGAsYHQ/s135/1350-Albus-Dumbledore-Harry-Potter-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1350/",
+      "fetched_at": "2026-05-16T19:10:33.375Z",
+      "raw_id": "/nendoroid/details/n1350/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.645Z",
+      "raw_id": "Nendoroid/1300-1399/1350.json"
+    }
+  ]
+}

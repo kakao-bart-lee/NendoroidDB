@@ -1,0 +1,68 @@
+{
+  "num": "1024",
+  "name": {
+    "en": "Nendoroid Nekomiya Hinata",
+    "ja": "ねんどろいど 猫宮ひなた (ねんどろいど ねこみやひなた)",
+    "ko": "네코미야 히나타"
+  },
+  "series": {
+    "en": "Hinata Channel",
+    "ja": "ひなたチャンネル",
+    "ko": "버츄얼 유튜버",
+    "code": "hinata-channel"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7777,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-znhi7kSlHoE/X4NflYgKbHI/AAAAAAABmSk/2Pj8nB7tnTovxhwT_fsG8RmOeaxBf2s8gCLcBGAsYHQ/s270/1024-Nekomiya-Hinata-Hinata-Channel-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-znhi7kSlHoE/X4NflYgKbHI/AAAAAAABmSk/2Pj8nB7tnTovxhwT_fsG8RmOeaxBf2s8gCLcBGAsYHQ/s270/1024-Nekomiya-Hinata-Hinata-Channel-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U12PbaeUFH8/X4rrlJLnREI/AAAAAAABoaY/wQxAMokz4cMszn44_ORi-YbTU_Fw5rt2wCLcBGAsYHQ/s135/1024-Nekomiya-Hinata-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oaJF7L6wM_E/X4rrltvRCzI/AAAAAAABoac/MGV-BJEAThAcvImE5_l_WHU7r9n4akO9QCLcBGAsYHQ/s135/1024-Nekomiya-Hinata-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MMIj9fvJ8-o/X4rrl6pjEWI/AAAAAAABoag/n_dw_A4exwEHhrBLLWNWvF9ZHU4KB-B6wCLcBGAsYHQ/s135/1024-Nekomiya-Hinata-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-suaGvxKkBzQ/X4rrmA-QlLI/AAAAAAABoak/hyDefonCkpUaJ_N7KF_hoRHdqrnsJYeKwCLcBGAsYHQ/s135/1024-Nekomiya-Hinata-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YwoUaJI40Vw/X4rrmVv0iPI/AAAAAAABoao/JhjCymu2kJQF0qhVrnyXRDLjCdSxBDMbQCLcBGAsYHQ/s135/1024-Nekomiya-Hinata-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1024/",
+      "fetched_at": "2026-05-16T19:10:33.144Z",
+      "raw_id": "/nendoroid/details/n1024/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.567Z",
+      "raw_id": "Nendoroid/1000-1099/1024.json"
+    }
+  ]
+}

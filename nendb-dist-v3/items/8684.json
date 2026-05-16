@@ -1,0 +1,59 @@
+{
+  "num": "8684",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Suit (Navy)",
+    "ja": "ねんどろいどどーる おようふくセット スーツ（ネイビー） (ねんどろいどどーる おようふくせっと すーつ（ねいびー）)",
+    "ko": "네이비색 정장"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-04",
+      "status": "released"
+    },
+    {
+      "date": "2022-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8684,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190809/8684/62829/large/25c51ec8ff9ade28fddabd4edfb2449d.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.940Z",
+      "raw_id": "NendoroidDoll/Clothes/8684.json"
+    }
+  ]
+}

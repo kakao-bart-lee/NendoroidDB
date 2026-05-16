@@ -1,0 +1,96 @@
+{
+  "num": "0862",
+  "name": {
+    "en": "Nendoroid Hizamaru",
+    "ja": "ねんどろいど 膝丸 (ねんどろいど ひざまる)",
+    "ko": "히자마루"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Katanashi (toytec D.T.C)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": "4580416904759",
+  "gsc_product_id": "4657",
+  "gsc_product_num": 6936,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/4657",
+    "ja": "https://www.goodsmile.com/ja/product/4657"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171213/6936/49229/large/b3c59a193fcc2d0f0a520967dd992112.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wKOJ1wIbCzk/X4Nd7M7IGzI/AAAAAAABmGk/JU7d1OjOEjs0ta0B2Xtf9Un4sXKk3Dv2QCLcBGAsYHQ/s270/862-Hizamaru-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TrUAKkft-HQ/X4rjbIzfKkI/AAAAAAABnV4/fwbPtkVjvQMXh4WFY7afXjt4p6zMiC4uQCLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Zdb5Xf2t77g/X4rjbUcYFxI/AAAAAAABnV8/QkoYzTxFisg2l704ntV0aHaRrete9P_vgCLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h0VDf6Z6gZM/X4rjbuquLnI/AAAAAAABnWA/Uemcc9xKz2cbQiKgxve4_uCJTvhL7KxJgCLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WslC0jYwQAM/X4rjb6-CZaI/AAAAAAABnWE/Ii--DFTHI7Ed3iSjkMZrrJhXF02R7Y7FwCLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2wugU5MP9yM/X4rjcEor-FI/AAAAAAABnWI/fd0m8X5dXtgeeFy5zwxKDf7ggy9c-cy2ACLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-43igBZIewCk/X4rjcOKD4iI/AAAAAAABnWM/0GUeSuznARQuuKn88BvDLcHQ6vgM02ntwCLcBGAsYHQ/s135/862-Hizamaru-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171213/6936/49236/large/14f01e530dd1a4cd7ad18c695a364e7f.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20171213/6936/49229/large/b3c59a193fcc2d0f0a520967dd992112.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4657",
+      "price_local": 4685,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:47.974Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/4657",
+      "fetched_at": "2026-05-16T11:49:47.974Z",
+      "raw_id": "4657"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/4657",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "4657"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n862/",
+      "fetched_at": "2026-05-16T19:10:34.841Z",
+      "raw_id": "/nendoroid/details/n862/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.524Z",
+      "raw_id": "Nendoroid/0800-0899/862.json"
+    }
+  ]
+}

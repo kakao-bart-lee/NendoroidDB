@@ -1,0 +1,67 @@
+{
+  "num": "0304b",
+  "name": {
+    "en": "Nendoroid Rin & wooser: Light Ver. (ねんどろいど りん＆うーさー おてがるVer.)",
+    "ja": "ねんどろいど りん＆うーさー お手軽Ver. (ねんどろいど りん＆うーさー おてがるVer.)",
+    "ko": "린&우서 간편 Ver."
+  },
+  "series": {
+    "en": "wooser's hand-to-mouth life: phantasmagoric arc",
+    "ja": "うーさーのその日暮らし 夢幻編",
+    "ko": "우서의 하루살이",
+    "code": "wooser-s-hand-to-mouth-life-phantasmagoric-arc"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2852,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4888,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-R6zAvPQTAbI/X4NMhLXN9VI/AAAAAAABlfk/vYoqNGcejBQnewjmV4KFXjeLiFCcvapSwCLcBGAsYHQ/s270/304B-Rin-and-Wooser-Wooser-Hand-to-Mouth-Life-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-R6zAvPQTAbI/X4NMhLXN9VI/AAAAAAABlfk/vYoqNGcejBQnewjmV4KFXjeLiFCcvapSwCLcBGAsYHQ/s270/304B-Rin-and-Wooser-Wooser-Hand-to-Mouth-Life-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zPLUrBL5ie4/X4dZ7_TFYcI/AAAAAAAAq0k/LAoo6H0jeo0_MQs5PsdEjGTtX6Zgb6axwCLcBGAsYHQ/s135/304B-Rin-and-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-svYAxDzaJvc/X4dZ8L1YsNI/AAAAAAAAq0o/4E_u1_pGdd8T9EaoI5PEs5k1WEQqEOE5QCLcBGAsYHQ/s135/304B-Rin-and-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IwGoa4M_ZFw/X4dZ8fL8a2I/AAAAAAAAq0s/AZX1bCMQXCwOEKzFfx03G0Q2XALWBr-rACLcBGAsYHQ/s135/304B-Rin-and-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aRfflki7ZXY/X4dZ8X9EWUI/AAAAAAAAq0w/vUC1DIzeMyU00OHf8ydPIefgLVZQpoYZwCLcBGAsYHQ/s135/304B-Rin-and-wooser-woosers-hand-to-mouth-life-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n304b/",
+      "fetched_at": "2026-05-16T19:10:34.448Z",
+      "raw_id": "/nendoroid/details/n304b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.346Z",
+      "raw_id": "Nendoroid/0300-0399/304b.json"
+    }
+  ]
+}

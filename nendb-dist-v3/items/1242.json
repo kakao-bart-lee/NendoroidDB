@@ -1,0 +1,69 @@
+{
+  "num": "1242",
+  "name": {
+    "en": "Nendoroid Reaper: Classic Skin Edition",
+    "ja": "ねんどろいど リーパー クラシックスキン・エディション (ねんどろいど りーぱー くらしっくすきん・えでぃしょん)",
+    "ko": "리퍼"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8995,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ORfia6OqNII/X4NiRHcEIEI/AAAAAAABmpU/Kz-nAzobKG0HXrhHu4PRSWKJ5Xxf7PqigCLcBGAsYHQ/s270/1242-Reaper-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ORfia6OqNII/X4NiRHcEIEI/AAAAAAABmpU/Kz-nAzobKG0HXrhHu4PRSWKJ5Xxf7PqigCLcBGAsYHQ/s270/1242-Reaper-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MvJyO5HgJaY/X4rz2QSqnhI/AAAAAAABp0w/Rjr0IdIcS8oAeEhGsrEV9hxSxnBlpSOmgCLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Dk7TtWkaZqo/X4rz2zRwRbI/AAAAAAABp00/qOqYtNVtEgULSfc_tCF0w76eqLg8BtgdQCLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LWL0U5M2uTU/X4rz3A4OA3I/AAAAAAABp04/IJ0rDSnO_4UjP2x9dkq-eqEfOg-mWBthACLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bS27PcphDlM/X4rz3CCOyCI/AAAAAAABp08/XXrceb8L7wkUbe8x99UBfbUaYDtyStBwACLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JGw1aEnJoVI/X4rz3a3IG7I/AAAAAAABp1A/rItlKmYfHJAOsOtzWuc75-ECvuJLSdLjACLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Tq0lHHvRlwI/X4rz32i-RGI/AAAAAAABp1E/ejzdBFxgb08wJRHD6HkaFY5SQYRqXswWQCLcBGAsYHQ/s135/1242-Reaper-Overwatch-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1242/",
+      "fetched_at": "2026-05-16T19:10:33.308Z",
+      "raw_id": "/nendoroid/details/n1242/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.619Z",
+      "raw_id": "Nendoroid/1200-1299/1242.json"
+    }
+  ]
+}

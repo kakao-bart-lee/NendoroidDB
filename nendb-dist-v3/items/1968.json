@@ -1,0 +1,68 @@
+{
+  "num": "1968",
+  "name": {
+    "en": "Nendoroid Ruby Rose: Lucid Dream",
+    "ja": "ねんどろいど ルビー・ローズ・ルシードドリーム (ねんどろいど るびー・ろーず・るしーどどりーむ)",
+    "ko": "루비 로즈: 루시드 드림"
+  },
+  "series": {
+    "en": "RWBY: Ice Queendom",
+    "ja": "RWBY 氷雪帝国",
+    "ko": "RWBY: 빙설제국",
+    "code": "rwby-ice-queendom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13281,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Upl5ICWF7Ss/Y02wG5CIoyI/AAAAAAAA7AI/4H_vc52tG8cSPUoMc72l8hV9nEXT98p1QCNcBGAsYHQ/s270/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Upl5ICWF7Ss/Y02wG5CIoyI/AAAAAAAA7AI/4H_vc52tG8cSPUoMc72l8hV9nEXT98p1QCNcBGAsYHQ/s270/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pHtHVc5eMoI/Y028G7C_mHI/AAAAAAAA7XI/jtpK_TMPTrgqB6YEXn15wDK1DL13oVS3QCNcBGAsYHQ/s135/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gctJSBS4h3c/Y028HAPf8GI/AAAAAAAA7XM/p2nzgbwmiKQKYgHtT47AsSiHHhMTswMgACNcBGAsYHQ/s135/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2PvdMD-dumE/Y028HqbPmVI/AAAAAAAA7XQ/MTXbXvS1xkUPpL_3njb_qOS0B8l5dMvTgCNcBGAsYHQ/s135/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pbZGyuoFz0U/Y028H72JukI/AAAAAAAA7XY/-aiIkmczya8oT6a7NyiotqC9QLkNDUvHgCNcBGAsYHQ/s135/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hBi1ZBmNp8Y/Y028ICR6dHI/AAAAAAAA7XU/aYlh8cs-YjIQ745PGy9hqkrTVEfSI3eNwCNcBGAsYHQ/s135/1968-Ruby-Rose-RWBY-Ice-Queendom-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1968/",
+      "fetched_at": "2026-05-16T19:10:33.758Z",
+      "raw_id": "/nendoroid/details/n1968/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.793Z",
+      "raw_id": "Nendoroid/1900-1999/1968.json"
+    }
+  ]
+}

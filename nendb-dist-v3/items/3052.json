@@ -1,0 +1,65 @@
+{
+  "num": "3052",
+  "name": {
+    "en": "Kasane Teto",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8WwifsLvNp2m7ZGAvtDPKQ2t9PiGXA5mXHpnXqZ1ODO_zBAw5taD8eJJp7Lh_F1SL2gnfuV9VrAs9GZeLmeXHwluGbAaYpZhOnzMh6QetqdSKpSomhMnCqiR3JrYj5ivjGhzycTj1mSWHzWrmfk3CE6qKaFTsb5arSJ2VUaaR088mVYRB72yfjRUzK37/s270/3052-Kasane-Teto-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8WwifsLvNp2m7ZGAvtDPKQ2t9PiGXA5mXHpnXqZ1ODO_zBAw5taD8eJJp7Lh_F1SL2gnfuV9VrAs9GZeLmeXHwluGbAaYpZhOnzMh6QetqdSKpSomhMnCqiR3JrYj5ivjGhzycTj1mSWHzWrmfk3CE6qKaFTsb5arSJ2VUaaR088mVYRB72yfjRUzK37/s270/3052-Kasane-Teto-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijA2bfjK-5szl9X_XBVqV-EkqT-xLWKJD3cpJBPAhse4UWiADyvm4vADT8FeeGigX6qcwm1nx7QC98UzGGSjbcmSoxv8YmKlSzBC2LQj8N2iYcE5k7gEiHGlDIc2EhVrfY39S4YKDIUx-HCILSd8fZbC_CdIJt9QnUSbJ8HopKYFStFFeUjFuCmngpdT8R/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhmBWwmqZyOHm4R16a9X6DSFk0oBFzLsGEZRqwAt1XliYKfIChdyWq798SsR_Ebqek5-mUa6gomzBpwQ96sqhnSu8By4Xw_KHyZn8RemfSvw8qJG18xeCuXPboPrh5f3fRJIuGh6nQ3u4tV3DL7_2QVamz8cCrB-IE1k5wbTKa2hyyRu0aAlzDOVq1Gii/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUTWslkFkm6fCN-OudBjn_YzULnxf1xctlOsOKBCYjpo_qPWZwa4nd7uHAyRptGtcOrzm5gQUQR6HwYrRoLpSn60HKkq98b4NY5lxPD-78nIYh2L6sdxxsEymYOc5ndfZ4Z433vo6MlyZ41OxAG63gUJ2OvFmE68EUi8A6oGSvWPCqp96qvRsQjeg8CAeJ/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePIYmlmXSL-rTmIJD4NQ-Y3hE9ep1nWiH1qXYuL-ICJVOlJkctRaGyZ8bdl9NuUj1w8j1Gs4cVtXcQoAbcarKjatSBxYyv245UfVh_YlBIXZN4kwmkhH1Osh3-9DJAe8K8TA4B8UHCywrhl_7J2czu472O190LF2HfdZSz16h1LTDOlmFqNtTt13zVCbf/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQNreoO9LRmAVJ6mMPZSVAfZdzvfIMc9j7YD1mmueTRMHJbTo9CtqUOuCMuP7TKDuSmNiacYf8ZAJBhj9hJo_-hqPfM7z5qzdY6-jluk5Zn2Ipn9Pm2adQnavYvNjFDox_DMjSGF49AGE2t-TL77TBsQO39TOd3ZNxiuIPXA0cXvzeHohRYlNtFD6VxyM4/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYIFvnHBxC_WjMlJX5otFZRPqc5RP1xp4q8leNZd3JHmjAHd6LUvJrIhKOegCZ__byLjiD1sYWcJMbrvj9jdKaSYPqdjDRBewST4jBm2m4yRz_M-F0yv5A4PKuhgxKvGpoUSWhOpsoynpINRqYP2KWB-g-tlHlNhD5SKgUfn50vJPypeAj3BsRRN9CQ-0c/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9yXjdfAaFK8EBG6t3HX_cYS0hz5TTY1_SWOtpC1noPecoVHcIj3dWmR74zsaQ-k1zuS2A4NNvKmD_dcA2c8Ss7QUCvLaamnnl2zL5FVhIoincTTe4kNJUUms9DA2Dz66PeclcwJCqgHOxmbT5nbV4l1a2_Wibncj6PfGfac2qrr6Tk53V5aIYIqHBfr8/s135/3052-Kasane-Teto-Vocaloid-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3052/",
+      "fetched_at": "2026-05-16T19:10:34.450Z",
+      "raw_id": "/nendoroid/details/n3052/"
+    }
+  ]
+}

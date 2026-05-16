@@ -1,0 +1,70 @@
+{
+  "num": "0048",
+  "name": {
+    "en": "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)",
+    "ja": "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
+    "ko": "난교쿠 사쿠라"
+  },
+  "series": {
+    "en": "Penguin Girl Heart",
+    "ja": "ペンギン娘はぁと",
+    "ko": "펭귄 아가씨 하트",
+    "code": "penguin-girl-heart"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ec2hXx7ziV4/X4MR9dsNbLI/AAAAAAAApZc/xMRJlzKFNjQYpoWi97E0Ln6eD8NvU_uJACLcBGAsYHQ/s270/048-Sakura%2BNankyoku-Penguin%2BGirl%2BHeart-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ec2hXx7ziV4/X4MR9dsNbLI/AAAAAAAApZc/xMRJlzKFNjQYpoWi97E0Ln6eD8NvU_uJACLcBGAsYHQ/s270/048-Sakura%2BNankyoku-Penguin%2BGirl%2BHeart-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HOsKTAV_YRE/X4GwgrJq2II/AAAAAAAApD8/Os5qqVlR1OEiWcVDxRzrjNWOO9DgijddACLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LvozSna7s5M/X4Gwgi0JVpI/AAAAAAAApEA/tTcbPakO0x0qsCruykv2QKhPby9_ttMZgCLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AxK_1z4LRoo/X4Gwg7curJI/AAAAAAAApEE/2NyeiBa6dmUUhoKF4KmQvVDIBm4p5466ACLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7CCR8zuIUjs/X4GwhKA4CTI/AAAAAAAApEI/Jr2s3_EyUnI-BmiF1bCWmKkSUttdyUvRACLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mzsKDXiImek/X4GwhPNbHgI/AAAAAAAApEM/ERU3mni-lZ0Kqj8Hu1nIiUTsK5c38ozoQCLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DgZtcBxM4Fs/X4GwhQ6K-sI/AAAAAAAApEQ/UMduF2uaHFMUoj0xWAnHhBWA1lotttyNgCLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Y97jL9Dj5FM/X4Gwh9uuZQI/AAAAAAAApEU/QUs9-S6zcLk4Vxoo8_V4HiKsZlvCP_vOQCLcBGAsYHQ/s135/048-Sakura-Nankyoku-Penguin-Girl-Heart-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n048/",
+      "fetched_at": "2026-05-16T19:10:33.095Z",
+      "raw_id": "/nendoroid/details/n048/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.274Z",
+      "raw_id": "Nendoroid/0000-0099/048.json"
+    }
+  ]
+}

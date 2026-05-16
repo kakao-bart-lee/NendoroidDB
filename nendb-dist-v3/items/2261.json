@@ -1,0 +1,68 @@
+{
+  "num": "2261",
+  "name": {
+    "en": "Nendoroid Kokona Otori",
+    "ja": "ねんどろいど 鳳ここな (ねんどろいど おおとりここな)",
+    "ko": "오오토리 코코나"
+  },
+  "series": {
+    "en": "World Dai Star",
+    "ja": "ワールドダイスター",
+    "ko": "월드 다이 스타",
+    "code": "world-dai-star"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14935,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yCTaUb_PjvI/ZQoU8gNal-I/AAAAAAABBkQ/jVSfydyFUVEQK9XIM_hEJcf9NJvXqGUSQCNcBGAsYHQ/s270/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yCTaUb_PjvI/ZQoU8gNal-I/AAAAAAABBkQ/jVSfydyFUVEQK9XIM_hEJcf9NJvXqGUSQCNcBGAsYHQ/s270/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-i7H2Zhf5oqc/ZQshV5iIVxI/AAAAAAABBwg/xQMubdJujlY6GBGECarCYTOPFq73VLmSgCNcBGAsYHQ/s135/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZZKr22_T96E/ZQshWbyPyMI/AAAAAAABBwk/cl5XrqtSuRQSPi91XkofKaJw2MmPi0cuACNcBGAsYHQ/s135/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iFFZNUwmgEk/ZQshW2Fwt_I/AAAAAAABBwo/lYKX_jU0_c4ZLF7ZtDNLNkog_N69vbHTACNcBGAsYHQ/s135/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kLDhJOjzktg/ZQshXQAeGCI/AAAAAAABBws/l4BEXbGRyBE9SHnJwMPIxcfP-g5R66Y2wCNcBGAsYHQ/s135/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-d-mhtJ1r3zg/ZQshXx0UsAI/AAAAAAABBww/T_O4wxVcH_0-eTz-FT8R-x6jQj7sUbUZgCNcBGAsYHQ/s135/2261-Kokona-Otori-World-Dai-Star-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2261/",
+      "fetched_at": "2026-05-16T19:10:33.950Z",
+      "raw_id": "/nendoroid/details/n2261/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.867Z",
+      "raw_id": "Nendoroid/2200-2299/2261.json"
+    }
+  ]
+}

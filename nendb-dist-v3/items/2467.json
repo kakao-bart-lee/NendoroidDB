@@ -1,0 +1,65 @@
+{
+  "num": "2467",
+  "name": {
+    "en": "Shu Yamino",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JUDPJzdxVEc/Ziq_CZOC9RI/AAAAAAABECo/xHsvpLzrKO0JpytE_tkkDeJy3wsz2zUpQCNcBGAsYHQ/s270/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JUDPJzdxVEc/Ziq_CZOC9RI/AAAAAAABECo/xHsvpLzrKO0JpytE_tkkDeJy3wsz2zUpQCNcBGAsYHQ/s270/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1HzWMAUnBcU/Zow4wfeGqTI/AAAAAAABFyQ/Ll6atitZgJQdq4y5XG80Lx5WmLpZbAkewCNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jvdJXFkeUc8/Zow4wjU21eI/AAAAAAABFyU/2E9REfyuVKs2kZJMUpgsUUUeAFU-oMBRQCNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GUXbpToPEZs/Zow4w4L-wjI/AAAAAAABFyY/6IC_3YJzt0YAr_puEkhuze0JyI3UUBX3wCNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-C2bLjsEWOeQ/Zow4xDEWoNI/AAAAAAABFyc/NKkt7fAo2JUQ1S-jTSefV8MR0DtmBEF6ACNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ax6EAUMR_HU/Zow4xmSiJnI/AAAAAAABFyk/l8J3OgEJsHkdBaHDMWpsJ1a8RQ8HJPipwCNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HsNbsi_zq9E/Zow4xcPNhrI/AAAAAAABFyg/OstiW6BxVdYX0rKqxPEbeZpY4XDg772gACNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-cqbbCz4cQwc/Zow4x7NMDhI/AAAAAAABFyo/irl_EfNoZw0mrZLPX3A3zMQzl3FkzCUggCNcBGAsYHQ/s135/2467-Shu-Yamino-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2467/",
+      "fetched_at": "2026-05-16T19:10:34.077Z",
+      "raw_id": "/nendoroid/details/n2467/"
+    }
+  ]
+}

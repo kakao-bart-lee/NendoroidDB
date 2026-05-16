@@ -1,0 +1,68 @@
+{
+  "num": "0995",
+  "name": {
+    "en": "Nendoroid Lacia",
+    "ja": "ねんどろいど レイシア (ねんどろいど れいしあ)",
+    "ko": "레이시아"
+  },
+  "series": {
+    "en": "BEATLESS",
+    "ja": "BEATLESS",
+    "ko": "BEATLESS",
+    "code": "beatless"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7640,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Aa-xV_-PpQ8/X4Ne9TjxciI/AAAAAAABmQA/7-vlTLc4pDw6MnOrg_qpJzrvEfrhvYcmACLcBGAsYHQ/s270/995-Lacia-Beatless-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Aa-xV_-PpQ8/X4Ne9TjxciI/AAAAAAABmQA/7-vlTLc4pDw6MnOrg_qpJzrvEfrhvYcmACLcBGAsYHQ/s270/995-Lacia-Beatless-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DDx7OYbgzdk/X4rp4nXuUoI/AAAAAAABoNU/QW7cOH4W8B8_AiE6xtG7qB9KqBbLzSdIACLcBGAsYHQ/s135/995-Lacia-BEATLESS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/---h-bIcJSzQ/X4rp45hFwyI/AAAAAAABoNY/ofTzLJ59DZ4DkaQ0W6fYBYbb5pyJIWoSQCLcBGAsYHQ/s135/995-Lacia-BEATLESS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WB0KtPso_JE/X4rp5JGWjRI/AAAAAAABoNc/C0RZKT7iOv06X0uNKm4mHbpHzb6Dj8B5QCLcBGAsYHQ/s135/995-Lacia-BEATLESS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wZc04zApu8o/X4rp5YQ67YI/AAAAAAABoNg/zxams2rfDVAmr_GxMHO9cFtBD5OKwcuRgCLcBGAsYHQ/s135/995-Lacia-BEATLESS-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ctByEjt6zYs/X4rp5lk_ARI/AAAAAAABoNk/iYJpy_s0eu8HA3mMNBOAWuUI-5ngKIvIwCLcBGAsYHQ/s135/995-Lacia-BEATLESS-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n995/",
+      "fetched_at": "2026-05-16T19:10:34.915Z",
+      "raw_id": "/nendoroid/details/n995/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.559Z",
+      "raw_id": "Nendoroid/0900-0999/995.json"
+    }
+  ]
+}

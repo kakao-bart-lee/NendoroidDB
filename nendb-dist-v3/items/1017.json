@@ -1,0 +1,70 @@
+{
+  "num": "1017",
+  "name": {
+    "en": "Nendoroid Torbjörn: Classic Skin Edition",
+    "ja": "ねんどろいど トールビョーン クラシックスキン・エディション (ねんどろいど とーるびょーん くらしっくすきん・えでぃしょん)",
+    "ko": "토르비욘"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6009,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7693,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sjPbliJKodw/X4NfjnioJVI/AAAAAAABmSI/hoCtJwwcDgMtX4V_wbbhs2W-llO8vu0WwCLcBGAsYHQ/s270/1017-Torbjorn-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sjPbliJKodw/X4NfjnioJVI/AAAAAAABmSI/hoCtJwwcDgMtX4V_wbbhs2W-llO8vu0WwCLcBGAsYHQ/s270/1017-Torbjorn-Classic-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZQr1SZTl200/X4rra1WYZKI/AAAAAAABoX8/Nbdcv6ANGWInmI-QN8NnJLFbrxMXUSXXACLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--JFrHzBVKwU/X4rrbRi4PgI/AAAAAAABoYA/_p-21GvS5uYGVbf0MzmBYUtPZxJe2DtVACLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8LWTdo_xSTQ/X4rrbpFWWZI/AAAAAAABoYE/MDO5vaaiW10viKh3X31N939X20hPlLrnQCLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SMk4VSJxu_8/X4rrbzq08jI/AAAAAAABoYI/ZhRSWoUbrG8TZBrlvKkwV4K1qi3v2RbFwCLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lVIDD4YFc-Q/X4rrcM_KbFI/AAAAAAABoYM/7cTqvlgFRv0b6p1LSeqGmgVHliUJdV6FQCLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-r-JbEt7NsqA/X4rrcMIiDhI/AAAAAAABoYQ/vAH-kBbKHlstc4fu9sSovE8MWtTJPqNcwCLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-T-Ucsz935D0/X4rrcUev31I/AAAAAAABoYU/6HIO64-M92UxrMoK-mdOCQ7V3aIXzBLqQCLcBGAsYHQ/s135/1017-Torbjorn-Overwatch-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1017/",
+      "fetched_at": "2026-05-16T19:10:33.137Z",
+      "raw_id": "/nendoroid/details/n1017/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.565Z",
+      "raw_id": "Nendoroid/1000-1099/1017.json"
+    }
+  ]
+}

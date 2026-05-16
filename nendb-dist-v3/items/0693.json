@@ -1,0 +1,69 @@
+{
+  "num": "0693",
+  "name": {
+    "en": "Nendoroid Wilhelmina",
+    "ja": "ねんどろいど ヴィルヘルミーナ (ねんどろいど ゔぃるへるみーな)",
+    "ko": "빌헬미나"
+  },
+  "series": {
+    "en": "HIGH SCHOOL FLEET",
+    "ja": "ハイスクール・フリート",
+    "ko": "하이 스쿨 플릿",
+    "code": "high-school-fleet"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6068,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ppa8TFTFheE/X4NQAhyhU7I/AAAAAAABl6Q/hRLmvD3H8LQItZw_hNnNK8nyO5cF3c2_QCLcBGAsYHQ/s270/693-Wilhelmina-HIGH%2BSCHOOL%2BFLEET-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ppa8TFTFheE/X4NQAhyhU7I/AAAAAAABl6Q/hRLmvD3H8LQItZw_hNnNK8nyO5cF3c2_QCLcBGAsYHQ/s270/693-Wilhelmina-HIGH%2BSCHOOL%2BFLEET-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4E1YifGBcpE/X4i2Cfn32yI/AAAAAAAAtBQ/D4QRVZI4F5Al4j0jGAWsKL6WzTYtkJlmQCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ktQ-IjHmIg4/X4i2C82yhwI/AAAAAAAAtBU/zSXCi2jNRQUcCKY3QtpYYWAOJ2zJHFt9QCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wXZ3QjLQNfc/X4i2DdcurkI/AAAAAAAAtBY/tpXUKyasVQE6T70IIrj6e71S5AQzfAfLwCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--hmiyditrc4/X4i2DiD5J5I/AAAAAAAAtBc/2RhY_kBp9t4vYQkLeL-uzD4qP10CTnBAwCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-y23pCMxT6QU/X4i2D-1DUBI/AAAAAAAAtBg/aESXX9BscZU7hikmc_zUyV5PlALVIvKcwCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VFdOTmRQCdE/X4i2EKghmlI/AAAAAAAAtBk/nVzpty8cAWMs8jLol4lAE8cHLEdj80otwCLcBGAsYHQ/s135/693-Wilhelmina-HIGH-SCHOOL-FLEET-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n693/",
+      "fetched_at": "2026-05-16T19:10:34.746Z",
+      "raw_id": "/nendoroid/details/n693/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.485Z",
+      "raw_id": "Nendoroid/0600-0699/693.json"
+    }
+  ]
+}

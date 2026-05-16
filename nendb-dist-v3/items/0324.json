@@ -1,0 +1,68 @@
+{
+  "num": "0324",
+  "name": {
+    "en": "Nendoroid Akane Tsunemori (ねんどろいど つねもりあかね)",
+    "ja": "ねんどろいど 常守朱 (ねんどろいど つねもりあかね)",
+    "ko": "츠네모리 아카네"
+  },
+  "series": {
+    "en": "PSYCHO-PASS",
+    "ja": "PSYCHO-PASS",
+    "ko": "PSYCHO-PASS",
+    "code": "psycho-pass"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3892,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mr_Koq6fbbE/X4NMpSZ6vjI/AAAAAAABlg4/jkfIBsW_Cxopeg5fThyuJQwVgeRaqYL9gCLcBGAsYHQ/s270/324-Akane%2BTsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mr_Koq6fbbE/X4NMpSZ6vjI/AAAAAAABlg4/jkfIBsW_Cxopeg5fThyuJQwVgeRaqYL9gCLcBGAsYHQ/s270/324-Akane%2BTsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FE2Cwv43bhE/X4daUfKCkuI/AAAAAAAAq7M/b4nzd-Pxwf8Kr7nN-2sugh_dE3-txtuCACLcBGAsYHQ/s135/324-Akane-Tsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kTNxVAZ6ASE/X4daU5RwkgI/AAAAAAAAq7Q/SHixsklS8aEWLbMMQEZhICyTLLXBD0PFACLcBGAsYHQ/s135/324-Akane-Tsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6nOCE8dpNzk/X4daVXytZxI/AAAAAAAAq7U/YO9rkIesTasLx84fHL5-XWqfFozEPen2gCLcBGAsYHQ/s135/324-Akane-Tsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q141JfeewYI/X4daVTgc3sI/AAAAAAAAq7Y/Hb7dUR7gAPMP4JT_Y1zvzLIf0_ZsxI55ACLcBGAsYHQ/s135/324-Akane-Tsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Pf_y5_3XsdE/X4daVl3DmYI/AAAAAAAAq7c/RPeU8e_yoDQKh6lfwJ_ARGsOOizH7BFggCLcBGAsYHQ/s135/324-Akane-Tsunemori-PSYCHO-PASS-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n324/",
+      "fetched_at": "2026-05-16T19:10:34.462Z",
+      "raw_id": "/nendoroid/details/n324/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.351Z",
+      "raw_id": "Nendoroid/0300-0399/324.json"
+    }
+  ]
+}

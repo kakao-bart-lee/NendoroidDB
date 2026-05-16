@@ -1,0 +1,69 @@
+{
+  "num": "1663",
+  "name": {
+    "en": "Nendoroid Minato Aqua",
+    "ja": "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
+    "ko": "미나토 아쿠아"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2sJsbOeR0mY/YONqROtY_UI/AAAAAAAAzEQ/dZm9YiGtrtMvb9t54iraLH2Rn933pwGngCLcBGAsYHQ/s270/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2sJsbOeR0mY/YONqROtY_UI/AAAAAAAAzEQ/dZm9YiGtrtMvb9t54iraLH2Rn933pwGngCLcBGAsYHQ/s270/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eUedyEOk2OY/YONsMC2boBI/AAAAAAAAzI0/WuY0KWo4ERAzDDD8ixBhtIHQPt6w-XAjgCLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Mo6raiMNjL8/YONsMV3nxFI/AAAAAAAAzI4/0R0JtAHOUdkLPVmzzWxLYCI1xyP4NfLbwCLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tQ8MMBEQEvA/YONsMRa68CI/AAAAAAAAzI8/BHS45eNmfBMhfYQs3cf1ir5tMvxDwgQHQCLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VPhDYZJEVwk/YONsMlX7WPI/AAAAAAAAzJA/FtUQ3FzukFUf13-_-ixSc1YgfZFSERsLACLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_Kz-OvS6M5I/YONsM7KzsII/AAAAAAAAzJE/INVZhrr7bX0CpW3OcNkFAQuAKu2V7QqcQCLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fWVpVf1JLHY/YONsNFUxAtI/AAAAAAAAzJI/zwomdGo9rh8bpoXcKKG5B3Eu7llz3jxTgCLcBGAsYHQ/s135/1663-Minato-Aqua-hololive-production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1663/",
+      "fetched_at": "2026-05-16T19:10:33.567Z",
+      "raw_id": "/nendoroid/details/n1663/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.720Z",
+      "raw_id": "Nendoroid/1600-1699/1663.json"
+    }
+  ]
+}

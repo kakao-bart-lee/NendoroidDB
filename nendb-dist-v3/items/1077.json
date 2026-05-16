@@ -1,0 +1,96 @@
+{
+  "num": "1077",
+  "name": {
+    "en": "Nendoroid Ash Lynx",
+    "ja": "ねんどろいど アッシュ・リンクス (ねんどろいど あっしゅ・りんくす)",
+    "ko": "애쉬 링크스"
+  },
+  "series": {
+    "en": "BANANA FISH",
+    "ja": "BANANA FISH",
+    "ko": "바나나 피쉬",
+    "code": "banana-fish"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4571697188402",
+  "gsc_product_id": "50346",
+  "gsc_product_num": 8020,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/50346",
+    "ja": "https://www.goodsmile.com/ja/product/50346"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50346/yDu2SY9qpnFmrGfUvKVt7xi6XACRkNsg.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gqsqEOaZMpk/X4Nf3w5ywVI/AAAAAAABmWQ/ByOQ_6koI8YWYNDZ9mMedyzdopDZdh5LgCLcBGAsYHQ/s270/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-prodvLyTYRo/X4rtATS_kVI/AAAAAAABou8/rw9NFuhm5fw91l1HvdMDWLU5NrmDaSdOACLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wONZO4Loxx0/X4rtAhmA_OI/AAAAAAABovA/ctjDPrCR42Qtz4-BxawHPtw_OVTxnaORACLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oWLQyC_Bbjc/X4rtBDWXjDI/AAAAAAABovE/6E7kJq1wvogIDT6cTjHOPd7E5yQxDGjzQCLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UK8kUWvBtCc/X4rtBOKyobI/AAAAAAABovI/b8UJeKu_CeMXqSGRjLLiiZNBucf0kl0BACLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eHCvNvH3cY0/X4rtBdQWX2I/AAAAAAABovM/xPOdI5VVc84WTPawFSeGqxvpdybDkdZUgCLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5TBVLZzhcSY/X4rtBsbPRhI/AAAAAAABovQ/V3SX_njZIf4G7plMJR16TFU4hss2DqpwwCLcBGAsYHQ/s135/1077-Ash-Lynx-BANANA-FISH-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50346/BGZiY8W0eMcRL1kr9pTPtdD6bmfzsjAK.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50346/yDu2SY9qpnFmrGfUvKVt7xi6XACRkNsg.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/50346",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:57:31.755Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/50346",
+      "fetched_at": "2026-05-16T11:57:31.755Z",
+      "raw_id": "50346"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/50346",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "50346"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1077/",
+      "fetched_at": "2026-05-16T19:10:33.204Z",
+      "raw_id": "/nendoroid/details/n1077/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.579Z",
+      "raw_id": "Nendoroid/1000-1099/1077.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0503",
+  "name": {
+    "en": "Nendoroid Takao (ねんどろいど たかお)",
+    "ja": "ねんどろいど タカオ (ねんどろいど たかお)",
+    "ko": "타카오"
+  },
+  "series": {
+    "en": "Arpeggio of Blue Steel -Ars Nova-",
+    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "ko": "푸른 강철의 아르페지오",
+    "code": "arpeggio-of-blue-steel-ars-nova"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4835,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5no-OTcAggs/X4NOSPeKwcI/AAAAAAABltY/TehhyVHBTnAO9QCtEK8V4ZdCNi3xmGx4gCLcBGAsYHQ/s270/503-Takao-Arpeggio-of-Blue-Steel-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5no-OTcAggs/X4NOSPeKwcI/AAAAAAABltY/TehhyVHBTnAO9QCtEK8V4ZdCNi3xmGx4gCLcBGAsYHQ/s270/503-Takao-Arpeggio-of-Blue-Steel-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I46yoDU4nM8/X4irtW97fhI/AAAAAAAAr7k/eDMmYkdLKsg4tmVtI32yURSW_AMlG2ozwCLcBGAsYHQ/s135/503-Takao-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-W28mssrqnXA/X4irtpHEzBI/AAAAAAAAr7o/rIb8alC2r8Eb7-7IVnmsrDlaIC0vK4uNgCLcBGAsYHQ/s135/503-Takao-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Uxq01kNA5gY/X4irt7ggZHI/AAAAAAAAr7s/dCvEI1Mgy5g0pId65AEBksGm-lwzcNUYwCLcBGAsYHQ/s135/503-Takao-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dPRuJZTxr0o/X4irtz3jZpI/AAAAAAAAr7w/llrZ-9hwid4L2Y0QB9ChkzrmE7VbtHMnQCLcBGAsYHQ/s135/503-Takao-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MoRzaS1zt9k/X4iruK4UG4I/AAAAAAAAr70/JFTFu0v0y08kwTE77q_cg3AK3LFlD2YNQCLcBGAsYHQ/s135/503-Takao-Arpeggio-of-Blue-Steel-Ars-Nova-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n503/",
+      "fetched_at": "2026-05-16T19:10:34.566Z",
+      "raw_id": "/nendoroid/details/n503/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.400Z",
+      "raw_id": "Nendoroid/0500-0599/503.json"
+    }
+  ]
+}

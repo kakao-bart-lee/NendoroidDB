@@ -1,0 +1,64 @@
+{
+  "num": "0029",
+  "name": {
+    "en": "Nendoroid Al Azif (ある・あじふ ねんどろいど)",
+    "ja": "ねんどろいど アル・アジフ (ある・あじふ ねんどろいど)",
+    "ko": "알 아지프"
+  },
+  "series": {
+    "en": "Demonbane",
+    "ja": "斬魔大聖デモンベイン",
+    "ko": "참마대성 데몬베인",
+    "code": "demonbane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 403,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qCnxyqzEzx8/X4MR2XR8MQI/AAAAAAAApYU/LPiDljT7uYEGtRzA2Ur5XV9KInfvxVVywCLcBGAsYHQ/s270/029-Al-Azif-Demon-Bane-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qCnxyqzEzx8/X4MR2XR8MQI/AAAAAAAApYU/LPiDljT7uYEGtRzA2Ur5XV9KInfvxVVywCLcBGAsYHQ/s270/029-Al-Azif-Demon-Bane-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AHU40jO_wHU/X4GwXTzOreI/AAAAAAAApBQ/ZIiWbQcpoqkXcS7bwziy6FG8kVZgRsoDACLcBGAsYHQ/s135/029-Al-Azif-Demon-Bane-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n029/",
+      "fetched_at": "2026-05-16T19:10:33.083Z",
+      "raw_id": "/nendoroid/details/n029/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.268Z",
+      "raw_id": "Nendoroid/0000-0099/029.json"
+    }
+  ]
+}

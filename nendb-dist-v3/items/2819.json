@@ -1,0 +1,92 @@
+{
+  "num": "2819",
+  "name": {
+    "en": "Astarion",
+    "ja": "ねんどろいど アスタリオン",
+    "ko": null
+  },
+  "series": {
+    "en": "Baldur's Gate",
+    "ja": "Baldur&#039;s Gate III",
+    "ko": null,
+    "code": "baldur-s-gate"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": "4580828660380",
+  "gsc_product_id": "1138039",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138039",
+    "ja": "https://www.goodsmile.com/ja/product/1138039"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138039/1b915af0048af5658271321b60eda65d.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDAqVqKa7UIDmuCwPKboVHKflvoPxBvFEgMjGl2OXLnd97Gfrcpq6T7ZJM5pLFArLCfm8VBvMpB7qNxc2Q4qdkcjoEc4QL5sWLRJ3cGZyB_o-mqaxE8fZCUs46xZlUketPk3saWI3dv3L75hpFSJ2Eqf97AOLahYb8w_-H504zM9BxFrmxSBMf_qN_FGF/s270/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOqlN3H8nFXaE55cNv7BtK-Kbh_-b299abqXpvYlJGwhmXK6myACHrI2dhH0AGIbIC1Pt-ml6Ss30jOMFaQMdtWjhmINDahwWfEOTsRT189SGZASAj_1jD77bsdKUhGEeD8T2FBh4uy8aB5_Mf7upgIjFyN2EIinjX9t3lxhrIVTrFpjvvPDHd6fEtfmf/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-4B9L_QLSjUB1co2fCMjnhF6OWLrz3tc518caNta5N3Nda38ImsHdwH1aCCoM7mynN2xXh-DmolqtzwUWmFPItIR3h77rkBxSoMxXgRabNl-OlpF61uency-zxxyMQaYjvLpWLqaUpR6XNAVw5gWjwtdAmOUETYogV5Dc_HvwfKBAP0G9kdv3OnEoO6E8/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODLqIhmMPE9vFomlzmaPcnpmkZs2a7Q-4fYyEUtfND4HQuixYUF7741GGKUnioR28_GR-CGOK_It-oBWqNd_Wbj2PnQzHQ4eBOUWfTaALgLExDYvUtCQXlSDwNS51W1LP3YEqSqFtzRT_BHrfU52vzB3N8QO9Y81qkCWsqaOIjgaPpwUoYyZfWUn19b37/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjBmeniQybdt7dI6_lcWQmZFlff_CoeYdmVi9RO1T5m0BQ2_MhVya_vsN-Kg9_PCQplBT1C5nUQFEhPjbY0MRuBZGSXpEkfQEHG6cfIV2KCBDUdnPM6q_-Lq3L-kKwFhjtfs9u9195LUUfNnwhIhKAmhuYNoEori3je4PKlOVzIEJCg-YKTrtglCW2T6QQ/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk4HZ4-Bn3F9B6cSH2e2usf1vS7wepTGeKNfpgSbL6FUJXewoso9uKujh7LdCkKlgkXJtA1javp-_aaCsvVCiyuIyktir_Suek1yfZj0S0IOIQAgcLio41BvymknUYywyD9yQLs4R-r2jxxi3RYJ9nh_Tp1GE7qPB5VwtcXbW55eCqW3JH7i5v7sPjaIdK/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYzy99PXG7kKSZXKCiHumc0kEpZIn5e2HJVvUrN-R7iw1LkORtPPu9NZ8pA8H3zY41nbSXkH4-SDtbev5W5qSLChUUbLYhO8uoOfi1aqrd2khHwaj3YDYJyOjmJ0OAxR5ifh1Zy63frcI45kGeQbov2HIWiZwd8z8U6h4VbvojT8E-SeuCCI3VT2NmpjbK/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmGlIEh4gMiLlUfN58J29zB5fZPeww23yoiKX3GRr5TAyS2X2TrR5zGp0qomvXcLpin4QDklqZoDP9SADRvNPuhmhsIjQL3f3-php9Jti5JqzGGXHiKThTBaXPij2kKGGb8F0v8v1gz7n_h-TzjPnaHt7LKEvGgBguKzSmkdctgbd_ZY5AHlruiF7Mxxg/s135/2819-Astarion-Baldurs-Gate-III-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138039/cbd4958f769be385aa389ed79558e598.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138039/1b915af0048af5658271321b60eda65d.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138039",
+      "price_local": 6600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:00:27.227Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138039",
+      "fetched_at": "2026-05-16T12:00:27.227Z",
+      "raw_id": "1138039"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138039",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138039"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2819/",
+      "fetched_at": "2026-05-16T19:10:34.330Z",
+      "raw_id": "/nendoroid/details/n2819/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1168",
+  "name": {
+    "en": "Nendoroid Aiko Seno",
+    "ja": "ねんどろいど 妹尾あいこ (ねんどろいど せのおあいこ)",
+    "ko": "세노오 아이코"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오쟈마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8512,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_95A09n7CcI/X4Ngo3oNbQI/AAAAAAABmdA/193jMsThmaETHpHJMZvbg4pU_U7PQAs0ACLcBGAsYHQ/s270/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_95A09n7CcI/X4Ngo3oNbQI/AAAAAAABmdA/193jMsThmaETHpHJMZvbg4pU_U7PQAs0ACLcBGAsYHQ/s270/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Lack01Pb4Uw/X4rxHuns7nI/AAAAAAABpVg/6YS-_K75b7wXR2QVF602EpZWDsBhBZWogCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OOBmUMdKG8c/X4rxH2A2jpI/AAAAAAABpVk/FpMnXBOhbFYv6q1sDnWUFm6vQnFSpEpswCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qYaJ9TvuZ6s/X4rxIZNknKI/AAAAAAABpVo/bySNLSw507k0Ghv_XF13wclSqGM-lJEfQCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TdFDjiY_5eA/X4rxIpjM5PI/AAAAAAABpVs/U1IkjvxWOYkrgrsaq2S8HnAGG0HQH_GOgCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Gp5__CZh_sQ/X4rxIxqu69I/AAAAAAABpVw/_MM-J7EnK5cCs7vTXcZHSArcIQCxn5nEQCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rrS6ZrCzkEs/X4rxJIt2e9I/AAAAAAABpV0/GuNXo50WEiAuLM4HWa01zs8V4V7pZTo7wCLcBGAsYHQ/s135/1168-Aiko-Seno-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1168/",
+      "fetched_at": "2026-05-16T19:10:33.263Z",
+      "raw_id": "/nendoroid/details/n1168/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.601Z",
+      "raw_id": "Nendoroid/1100-1199/1168.json"
+    }
+  ]
+}

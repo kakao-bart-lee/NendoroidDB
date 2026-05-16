@@ -1,0 +1,68 @@
+{
+  "num": "0272",
+  "name": {
+    "en": "Nendoroid Sasara Kusugawa Valkyrie Ver. & Nendoroid Petite Maryan (ねんどろいど くすがわささら う゛ぁるきりー Ver. & ねんどろいどぷち まーりゃん)",
+    "ja": "ねんどろいど 久寿川ささら ヴァルキリー Ver. & ねんどろいどぷち まーりゃん (ねんどろいど くすがわささら う゛ぁるきりー Ver. & ねんどろいどぷち まーりゃん)",
+    "ko": "쿠스가와 사사라&마량"
+  },
+  "series": {
+    "en": "AQUAPAZZA",
+    "ja": "AQUAPAZZA",
+    "ko": "AQUAPAZZA",
+    "code": "aquapazza"
+  },
+  "category": "petit",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3657,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9NHS2f0Zm-Y/X4NLXOFAq1I/AAAAAAABlZ0/ErBw1y8gspsuTd1MYp_kLR67PIeJLiiQQCLcBGAsYHQ/s270/272-Kusugawa-Sasara-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9NHS2f0Zm-Y/X4NLXOFAq1I/AAAAAAABlZ0/ErBw1y8gspsuTd1MYp_kLR67PIeJLiiQQCLcBGAsYHQ/s270/272-Kusugawa-Sasara-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-053mlgwfaVI/X4dYIy8FwCI/AAAAAAAAqoA/-7P-fFFYh08rv0uGi26cUQ70j1-iLwViACLcBGAsYHQ/s135/272-Kusugawa-Sasara-and-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wOS5DuWXF_I/X4dYIz1JzzI/AAAAAAAAqoE/lryxvldsLJgb-YGoGDGosvwk4FX9vluDACLcBGAsYHQ/s135/272-Kusugawa-Sasara-and-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-e0iUO4UIWRo/X4dYJFuXXgI/AAAAAAAAqoI/xxcoasYK77MImYvc-PS_LrsfjiQsXrdQgCLcBGAsYHQ/s135/272-Kusugawa-Sasara-and-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6mAhKPYazSU/X4dYJv95BqI/AAAAAAAAqoM/bEG0YVA-GoUxG7TXSoq5aBpHHgi3BdZWwCLcBGAsYHQ/s135/272-Kusugawa-Sasara-and-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qNPe473Gb0o/X4dYJz3LlYI/AAAAAAAAqoQ/3_4nc6Ce_zAq5Mtlgrj0DazbjOv4KmrnwCLcBGAsYHQ/s135/272-Kusugawa-Sasara-and-Maryan-senpai-Aquapazza-Video-Game-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n272/",
+      "fetched_at": "2026-05-16T19:10:34.254Z",
+      "raw_id": "/nendoroid/details/n272/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.338Z",
+      "raw_id": "Nendoroid/0200-0299/272.json"
+    }
+  ]
+}

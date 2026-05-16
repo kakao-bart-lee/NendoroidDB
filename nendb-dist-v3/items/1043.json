@@ -1,0 +1,68 @@
+{
+  "num": "1043",
+  "name": {
+    "en": "Nendoroid Lancer/Karna",
+    "ja": "ねんどろいど ランサー/カルナ (ねんどろいど らんさー/かるな)",
+    "ko": "랜서/카르나"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7861,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-snY-z8LjVTY/X4NfraMNCTI/AAAAAAABmT0/bIA47A2Byc44YusxWaW-NauCB3dRcDxIwCLcBGAsYHQ/s270/1043-Lancer-Karna-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-snY-z8LjVTY/X4NfraMNCTI/AAAAAAABmT0/bIA47A2Byc44YusxWaW-NauCB3dRcDxIwCLcBGAsYHQ/s270/1043-Lancer-Karna-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ecSuvPnpAEQ/X4rsFQoC3LI/AAAAAAABohU/sLWHGW1N_kcErGTsskrl9DyN0nR3u64cQCLcBGAsYHQ/s135/1043-Lancer-Karna-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hXEz5O5zvKY/X4rsF89OWtI/AAAAAAABohY/qDJJ2TWOayUbPPuKZ5CpXeWhyxhUUJt4wCLcBGAsYHQ/s135/1043-Lancer-Karna-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qwlf5fA1ZEM/X4rsGBaNBpI/AAAAAAABohc/vFgwKFRRTB4PtuRGz7U2P3rWquUt8dcfwCLcBGAsYHQ/s135/1043-Lancer-Karna-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-68oPCgHUIVI/X4rsGU03rsI/AAAAAAABohg/sOi8AuC5kXQxXa9py44z0zP1Ff-InCCPgCLcBGAsYHQ/s135/1043-Lancer-Karna-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7Q-_WMtrSfg/X4rsGrJkLWI/AAAAAAABohk/d7iWy2nzdAgVNmt9Rx0VVfwo70YYWjIBwCLcBGAsYHQ/s135/1043-Lancer-Karna-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1043/",
+      "fetched_at": "2026-05-16T19:10:33.169Z",
+      "raw_id": "/nendoroid/details/n1043/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.571Z",
+      "raw_id": "Nendoroid/1000-1099/1043.json"
+    }
+  ]
+}

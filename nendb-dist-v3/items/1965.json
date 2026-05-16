@@ -1,0 +1,71 @@
+{
+  "num": "1965",
+  "name": {
+    "en": "Nendoroid E · Costello",
+    "ja": "ねんどろいど E・コステロ (ねんどろいど えるめぇす・こすてろ)",
+    "ko": "에르메스 코스텔로"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험: 스톤 오션",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13270,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8q78CHhgWK8/Y02wFb5Gb1I/AAAAAAAA6_8/Rj0RvdPO0FYAq95H3hulrALXcELoiTP2QCNcBGAsYHQ/s270/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8q78CHhgWK8/Y02wFb5Gb1I/AAAAAAAA6_8/Rj0RvdPO0FYAq95H3hulrALXcELoiTP2QCNcBGAsYHQ/s270/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DHMOXrDRTj0/Y028AZuAHlI/AAAAAAAA7Vw/NiMC2s386JARc3ccjAsE159N9levX2v5gCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ubzQxI38NMM/Y028A60samI/AAAAAAAA7V0/zS8qQxV2aKYOEVZTUHAvVqwu4vZ8h_cKgCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8jxmnT8aCA0/Y028BN6Hh_I/AAAAAAAA7V4/Har2xPwFqF0CFWcrZpQ6gnCoT01FcGkPgCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0Y-3eC_kOMI/Y028BHWi4YI/AAAAAAAA7V8/os59zJ8RvyAfWanrcWNdhHaCtY5F7GyOgCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nCf_8gG6dsg/Y028BdL03PI/AAAAAAAA7WA/0Q5uodcLPTQJc_A5_7XWFxYpJ3IL3Vo7QCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--PFhgeZfzs8/Y028COOZTXI/AAAAAAAA7WE/JQKYFtkiuWgqP2_vCmmWsdsXy7-_zCcPACNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-FX8S6DjzCFQ/Y028CQb_eNI/AAAAAAAA7WI/o7KEOrQaOtkiOCVHnrp9YxNcYuJqEoijACNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-LAGjNQ3TRmw/Y027_4XVlWI/AAAAAAAA7Vs/XB2gybMQ_hgjn9TjsFKWxyqQZziHldjogCNcBGAsYHQ/s135/1965-E.-Costello-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1965/",
+      "fetched_at": "2026-05-16T19:10:33.756Z",
+      "raw_id": "/nendoroid/details/n1965/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.793Z",
+      "raw_id": "Nendoroid/1900-1999/1965.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0748",
+  "name": {
+    "en": "Nendoroid Ushio Kai-II",
+    "ja": "ねんどろいど 潮改二 (ねんどろいど うしおかいに)",
+    "ko": "우시오 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6315,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7sSNoqNDIEo/X4Nc-SK5IUI/AAAAAAABl-Y/63qyKiq9efUxAwB8sNhoznYwWwYnVjmKACLcBGAsYHQ/s270/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7sSNoqNDIEo/X4Nc-SK5IUI/AAAAAAABl-Y/63qyKiq9efUxAwB8sNhoznYwWwYnVjmKACLcBGAsYHQ/s270/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yMoIpZvEwQk/X4i4vJA7AjI/AAAAAAAAtX4/5IIWLvRIdpg7z1srq1cKuB-k4p4Y7h-ugCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-q_jTjey7VPo/X4i4vZvWSnI/AAAAAAAAtX8/GH5f6dNlSHg_pHG29Fo4M3AICr2mFX76gCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ODGRVuVvLOI/X4i4vjyqQLI/AAAAAAAAtYA/ipVcCj1-M8czaHOSq_VD73c5rYu8FYUvQCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MGhwp_b1MM0/X4i4vyUmimI/AAAAAAAAtYE/ST1p-9SGZQgZGGZnDlbRmrhrR0aPcVdcwCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-t-xIajwVHQw/X4i4wJPWKXI/AAAAAAAAtYI/49wPAUiHUyIICQtrCprm_XjWUdt8UszOQCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-k81VLuJNIr8/X4i4wQqYRDI/AAAAAAAAtYM/0Q1mFtI7BDwweYwhdB8cBjtK66he9Rv2QCLcBGAsYHQ/s135/748-Ushio-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n748/",
+      "fetched_at": "2026-05-16T19:10:34.775Z",
+      "raw_id": "/nendoroid/details/n748/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.498Z",
+      "raw_id": "Nendoroid/0700-0799/748.json"
+    }
+  ]
+}

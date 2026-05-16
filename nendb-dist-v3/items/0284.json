@@ -1,0 +1,69 @@
+{
+  "num": "0284",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 7: Hero's Edition (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)",
+    "ja": "ねんどろいど アイアンマン マーク7 ヒーローズ・エディション (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)",
+    "ko": "아이언맨 마크7 히어로즈 에디션"
+  },
+  "series": {
+    "en": "The Avengers",
+    "ja": "アベンジャーズ",
+    "ko": "어벤져스",
+    "code": "the-avengers"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3711,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-m4JYlQEwJ28/X4NLZ6WCb9I/AAAAAAABlak/H0sFyZN9ugkOFcPsqvMSIcoL5R7h40ZnwCLcBGAsYHQ/s270/284-Iron-Man-Mark-7-Hero-Edition-The-Avengers-Marvel-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-m4JYlQEwJ28/X4NLZ6WCb9I/AAAAAAABlak/H0sFyZN9ugkOFcPsqvMSIcoL5R7h40ZnwCLcBGAsYHQ/s270/284-Iron-Man-Mark-7-Hero-Edition-The-Avengers-Marvel-1.jpg",
+      "https://1.bp.blogspot.com/-uy67SjIUNRY/X4dYVy4admI/AAAAAAAAqrg/idA-kB4-bd0MgG_ElPKr_13IVY73Z4NYQCLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6gKr00LIxDc/X4dYVxwLKyI/AAAAAAAAqrc/ycISzZFlZ1MNSKJMWnmTX8uIJSDvynO2QCLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--RYuYD9zC6o/X4dYWJyE70I/AAAAAAAAqrk/N_TyxCksJnQ92lgxdrOEXFqtKSkNELqKwCLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oHoXWI4UtxA/X4dYWvHCr_I/AAAAAAAAqro/SXgKtjATHXkRooz5Is-guUvSaA8aVpU7gCLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i5dxO6vWyT8/X4dYW29NuEI/AAAAAAAAqrs/KFEMeUV_kC0Du3y0ZyzXRgTBoB4zDnpaQCLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PfsxH_bf2fo/X4dYW0N1hzI/AAAAAAAAqrw/WNPwVGwwK5wSqav1hjy7q7HS6FEOouRCACLcBGAsYHQ/s135/284-Iron-Man-The-Avengers-Marvel-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n284/",
+      "fetched_at": "2026-05-16T19:10:34.350Z",
+      "raw_id": "/nendoroid/details/n284/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.342Z",
+      "raw_id": "Nendoroid/0200-0299/284.json"
+    }
+  ]
+}

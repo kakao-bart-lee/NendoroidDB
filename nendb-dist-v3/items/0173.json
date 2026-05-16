@@ -1,0 +1,68 @@
+{
+  "num": "0173",
+  "name": {
+    "en": "Nendoroid Imuka (ねんどろいど いむか)",
+    "ja": "ねんどろいど イムカ (ねんどろいど いむか)",
+    "ko": "이무카"
+  },
+  "series": {
+    "en": "Valkyria Chronicles 3",
+    "ja": "戦場のヴァルキュリア3",
+    "ko": "전장의 발큐리아3",
+    "code": "valkyria-chronicles-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3157,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Mdpd4YD1IiQ/X4NKGXOLoRI/AAAAAAABlSw/WOGNdrF1u9YtaF4I8pA_0Sx4-u4aFeZtgCLcBGAsYHQ/s270/173-Imka-Valkyria-Chronicles-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Mdpd4YD1IiQ/X4NKGXOLoRI/AAAAAAABlSw/WOGNdrF1u9YtaF4I8pA_0Sx4-u4aFeZtgCLcBGAsYHQ/s270/173-Imka-Valkyria-Chronicles-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EvHotIAx2KQ/X4dTs8NeyrI/AAAAAAAAqHI/3B62xDeuXgUa5QNo4GSDboIoznfJoAoxACLcBGAsYHQ/s135/173-Imka-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jzPLZk9fwvM/X4dTs7tZh9I/AAAAAAAAqHM/NRuJSsy5dIUUpwO7wtbQgUcbNSqK6W7UACLcBGAsYHQ/s135/173-Imka-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-23Z4_66aLOI/X4dTtVLaYeI/AAAAAAAAqHQ/zSbc3UfvCIAJ7E4dPjBg7sZHR6RRkC65gCLcBGAsYHQ/s135/173-Imka-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wscDpCjuOhU/X4dTtp9bxUI/AAAAAAAAqHU/JMahq-Sd6AEXZSJ_wYq6YD2Kx7Qm1ICZgCLcBGAsYHQ/s135/173-Imka-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5k3FX3VuCfY/X4dTtz1j4NI/AAAAAAAAqHY/2wQ234vg7BomFmUON5g26lywY7GOSruFQCLcBGAsYHQ/s135/173-Imka-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n173/",
+      "fetched_at": "2026-05-16T19:10:33.618Z",
+      "raw_id": "/nendoroid/details/n173/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.308Z",
+      "raw_id": "Nendoroid/0100-0199/173.json"
+    }
+  ]
+}

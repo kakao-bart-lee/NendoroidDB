@@ -1,0 +1,55 @@
+{
+  "num": "988-DX",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 50: Infinity Edition DX Ver.",
+    "ja": "ねんどろいど アイアンマン マーク50 インフィニティ・エディション DX Ver. (ねんどろいど あいあんまん まーく50 いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko": "아이언맨 mk.50 어벤져스 인피니티 워 에디션 DX"
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7944,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8101,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190222/8101/58357/large/99a92f3e6d48499e89ceb45b9627cc0b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.557Z",
+      "raw_id": "Nendoroid/0900-0999/988-DX.json"
+    }
+  ]
+}

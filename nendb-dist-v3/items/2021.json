@@ -1,0 +1,68 @@
+{
+  "num": "2021",
+  "name": {
+    "en": "Nendoroid Takopi",
+    "ja": "ねんどろいど タコピー (ねんどろいど たこぴー)",
+    "ko": "타코피"
+  },
+  "series": {
+    "en": "Takopi's Original Sin",
+    "ja": "タコピーの原罪",
+    "ko": "타코피의 원죄",
+    "code": "takopi-s-original-sin"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13620,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-isfwIJcMdnY/Y69BOcii-JI/AAAAAAAA8Ps/DOhIJDljl1kvEon1CjPjUlsVdkgKlVITACNcBGAsYHQ/s270/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-isfwIJcMdnY/Y69BOcii-JI/AAAAAAAA8Ps/DOhIJDljl1kvEon1CjPjUlsVdkgKlVITACNcBGAsYHQ/s270/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Nq058Ibr9tI/Y684qOWYUSI/AAAAAAAA8J8/7Q5G2QiA9b41XsqX6tgHHF-UXJxWIcAkQCNcBGAsYHQ/s135/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R9eEt2Bxl6M/Y684qSRUs6I/AAAAAAAA8KA/i2yqGyFStIwFboTNfdhBVQDFglkV18s2QCNcBGAsYHQ/s135/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-en0QK_4PFKk/Y684qkH9wxI/AAAAAAAA8KE/A8pyc3yz9vkjyis7BasayutiVeGVOB6TACNcBGAsYHQ/s135/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-b1v3BFF9U2U/Y684q_87LaI/AAAAAAAA8KI/nqiJ0wXVTdUD8KuvCXkNQb1ExSeTpbuFQCNcBGAsYHQ/s135/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q8xeJYIYYcM/Y684reOFVdI/AAAAAAAA8KM/4p1_BJsj4_A_PUhzWVJhfWSI4rBl3DUngCNcBGAsYHQ/s135/2021-Takopi-Takopis-Original-Sin-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2021/",
+      "fetched_at": "2026-05-16T19:10:33.789Z",
+      "raw_id": "/nendoroid/details/n2021/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.808Z",
+      "raw_id": "Nendoroid/2000-2099/2021.json"
+    }
+  ]
+}

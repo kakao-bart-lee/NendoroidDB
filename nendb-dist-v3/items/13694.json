@@ -1,0 +1,55 @@
+{
+  "num": "13694",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Tuxedo (White/Blue)",
+    "ja": "ねんどろいどどーる おようふくセット タキシード（ホワイト/ブルー） (ねんどろいどどーる おようふくせっと たきしーど（ほわいと/ぶるー）)",
+    "ko": "턱시도(화이트/블루)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13694,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20221215/13694/108841/large/81207b79985bdf29fd328e401f5109df.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.935Z",
+      "raw_id": "NendoroidDoll/Clothes/13694.json"
+    }
+  ]
+}

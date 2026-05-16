@@ -1,0 +1,71 @@
+{
+  "num": "0365",
+  "name": {
+    "en": "Nendoroid Mikasa Ackerman",
+    "ja": "ねんどろいど ミカサ・アッカーマン (ねんどろいど みかさ・あっかーまん)",
+    "ko": "미카사 아커만"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4048,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bagte72_brw/X4NM7v26JyI/AAAAAAABljk/jSkzEddWSoQoNJOn2EK4YK-IjqZstJx2gCLcBGAsYHQ/s270/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bagte72_brw/X4NM7v26JyI/AAAAAAABljk/jSkzEddWSoQoNJOn2EK4YK-IjqZstJx2gCLcBGAsYHQ/s270/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2MAZZ0PnlY4/X4dbJaF9owI/AAAAAAAArIk/9jQHK_lgX2AYJVUPusJCUrp2hA0V4JIfACLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0BqC4Mtq1x4/X4dbJsm1IRI/AAAAAAAArIo/ug9PgyNKsAEaPtruDX1ZK4_K1W-jaCRmQCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6_9aWi84Jnc/X4dbJmV4b1I/AAAAAAAArIs/J1jubUTnzCk9GflHAU2rmwXs5qK6olujgCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JkPkL4zR6ok/X4dbJ9d9qyI/AAAAAAAArIw/rdiOYAv0u-EUMVwn81j-xXO_YKk4c6qdgCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qLTlhUmS8H0/X4dbKLp-xoI/AAAAAAAArI0/qyk9QIvUI9MDYJTLifLC3GoDxyBA7jFFwCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_UI32LjLCUk/X4dbKLg6ShI/AAAAAAAArI4/fS435bNnhIYaiC5b3DWlXJ464eqv5S2ngCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-DX8LNAx7Cjw/X4dbKf_Zk2I/AAAAAAAArI8/hsjGdVuQ0iosabvTYNHwTgSenuT4AGUmwCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-vqoJ-fRZFPU/X4dbIlPSRdI/AAAAAAAArIg/GCpEmB9bkek58OfT5FIDwiiMQQsuagv4wCLcBGAsYHQ/s135/365-Mikasa-Ackerman-Attack-on-Titan-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n365/",
+      "fetched_at": "2026-05-16T19:10:34.485Z",
+      "raw_id": "/nendoroid/details/n365/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.362Z",
+      "raw_id": "Nendoroid/0300-0399/365.json"
+    }
+  ]
+}

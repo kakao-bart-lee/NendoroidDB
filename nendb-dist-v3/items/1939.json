@@ -1,0 +1,99 @@
+{
+  "num": "1939",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: 15th Anniversary Ver.",
+    "ja": "ねんどろいど 初音ミク 15th Anniversary Ver. (ねんどろいど はつねみく 15th あにばーさりー Ver.)",
+    "ko": "하츠네 미쿠 15th Anniversary Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shinya Iguchi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9400,
+  "gtin": "4580828660816",
+  "gsc_product_id": "10491",
+  "gsc_product_num": 12806,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/10491",
+    "ja": "https://www.goodsmile.com/ja/product/10491"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220613/12806/99783/large/445ebc7527aff89bba691117f917518d.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8nAduXcvqAg/Yw_WdRrityI/AAAAAAAA6bs/V3fY66cEWcc65OGO-vwxJ-aUI99Eb8yUwCNcBGAsYHQ/s270/1939-Hatsune-Miku-15th-Anniversary-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-58YWunfVM9c/YxEYYAk1x5I/AAAAAAAA6xI/OHX0izYTi4EwbtSHWvbWCiWgvuCzzE48QCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GS1WisfK-PU/YxEYYYS52QI/AAAAAAAA6xM/RV8NJOKTsrIlaQ9bnNrwXLFGTxNLT5B4QCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pvzVEQ_SQoQ/YxEYYuHqsmI/AAAAAAAA6xQ/SLOvTVqtFVYCXd_FMsjjFZUNfj2UbdeDgCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wksI8W1kxDY/YxEYYwCuGtI/AAAAAAAA6xU/3F5r7TkM5BkRyuCrwp2DQCDHG39ZwEaSgCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wRS6yacfEQ0/YxEYZIq5WjI/AAAAAAAA6xY/_y2xyljFmiE2cxSWUr6QyjfIUWpxtAsegCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-EmDoxkRs__0/YxEYZYsqw3I/AAAAAAAA6xc/Z_z5czE4jEcIyYRJLCPxHDsijsom9QpNgCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-SF98V2plYjw/YxEYZvYyK_I/AAAAAAAA6xk/0HPpcPfBVo862xbpuPZ52Andx-cGVTWBACNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-RVssFIITl2Y/YxEYX4duG_I/AAAAAAAA6xA/jA8RXMmU_UglOU8hSOG2NhdlFyb8hKPaQCNcBGAsYHQ/s135/1939-Hatsune-Miku-Vocaloid-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220613/12806/99791/large/5f18332560783548d310a1fca213e642.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220613/12806/99783/large/445ebc7527aff89bba691117f917518d.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10491",
+      "price_local": 9400,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:02:38.525Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10491",
+      "fetched_at": "2026-05-16T12:02:38.525Z",
+      "raw_id": "10491"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/10491",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "10491"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1939/",
+      "fetched_at": "2026-05-16T19:10:33.741Z",
+      "raw_id": "/nendoroid/details/n1939/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.787Z",
+      "raw_id": "Nendoroid/1900-1999/1939.json"
+    }
+  ]
+}

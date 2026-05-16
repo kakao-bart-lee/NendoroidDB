@@ -1,0 +1,70 @@
+{
+  "num": "2077",
+  "name": {
+    "en": "Nendoroid Natsuki",
+    "ja": "ねんどろいど ナツキ (ねんどろいど なつき)",
+    "ko": "나츠키"
+  },
+  "series": {
+    "en": "Doki Doki Literature Club!",
+    "ja": "ドキドキ文芸部!",
+    "ko": "두근두근 문예부!",
+    "code": "doki-doki-literature-club"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13999,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4kCdsatNAy0/ZA3eDcbnnII/AAAAAAAA9K0/XL4Jcshpcn0am2rOa_rtIrhfyS7YKWKWwCNcBGAsYHQ/s270/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4kCdsatNAy0/ZA3eDcbnnII/AAAAAAAA9K0/XL4Jcshpcn0am2rOa_rtIrhfyS7YKWKWwCNcBGAsYHQ/s270/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7diiTGuOQG8/ZA3dDbqIBKI/AAAAAAAA9D0/FXopT68dwI8DJrLYzFueFRPanKGNTSK2wCNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VVfW5RlozmQ/ZA3dDj8Rm5I/AAAAAAAA9D8/ddi46izFSOg1Na6_WM-wFsDvDewmtR5OwCNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HDkvWdbnxt8/ZA3dD1D_i8I/AAAAAAAA9D4/MpZz9PPVXRkFHW58ONdjPrqxIFgIfCNDACNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ebc3TvY9Un0/ZA3dD-URxAI/AAAAAAAA9EA/dvZVhHZxOI8rGuMkNHJC12fw_ZskNCXyACNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tRt3vcz5nF4/ZA3dEdqqEdI/AAAAAAAA9EI/_IRhI7FFopYFkpz785Aj4envLTTVBdSewCNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-auk5PCLccfs/ZA3dEA5uJRI/AAAAAAAA9EE/oPM5G3C8-vsrnBfO1K7Cz1K9tAgXY1PvACNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rjEPHdEU5ms/ZA3dEZTttcI/AAAAAAAA9EM/LcRSXUYIIy4hX7He-qc7w4OFcoMPjbNDgCNcBGAsYHQ/s135/2077-Natsuki-Doki-Doki-Literature-Club-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2077/",
+      "fetched_at": "2026-05-16T19:10:33.826Z",
+      "raw_id": "/nendoroid/details/n2077/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.821Z",
+      "raw_id": "Nendoroid/2000-2099/2077.json"
+    }
+  ]
+}

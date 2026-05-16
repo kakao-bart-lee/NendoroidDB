@@ -1,0 +1,70 @@
+{
+  "num": "1824",
+  "name": {
+    "en": "Nendoroid Gary \"Eggsy\" Unwin",
+    "ja": "ねんどろいど ゲイリー・“エグジー”・アンウィン (ねんどろいど げいりー・“えぐじー”・あんうぃん)",
+    "ko": "게리 에그시 언윈"
+  },
+  "series": {
+    "en": "Kingsman: The Golden Circle",
+    "ja": "キングスマン：ゴールデン・サークル",
+    "ko": "킹스맨:골든 서클",
+    "code": "kingsman-the-golden-circle"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12367,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lZsD-9yDB1k/YliMgLTG8kI/AAAAAAAA5K8/B5OdsP0MxFEYMw-nWYKm1V8WiyIbUYNlACNcBGAsYHQ/s270/1824-Gary-Eggsy-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lZsD-9yDB1k/YliMgLTG8kI/AAAAAAAA5K8/B5OdsP0MxFEYMw-nWYKm1V8WiyIbUYNlACNcBGAsYHQ/s270/1824-Gary-Eggsy-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SDw5VDCmitk/YliU8yGmNvI/AAAAAAAA5Ow/drryZeZy-ngAlK_tHP0FKMaSYjf2IvruACNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1bdCKgF-27A/YliU9v6PTAI/AAAAAAAA5O0/1P-YZBWiNJ8juAG6zQBZEsLPs1CnXtWxQCNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hNBqmKrQy9w/YliU-O3zoYI/AAAAAAAA5O4/_6pjfX9Kbl0r5fX3XWRhziqCsW-p0-llwCNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Exg7czJ68WQ/YliU-u0mk1I/AAAAAAAA5O8/fO0jdXlCe-0WtK6l4RegofXmiICQMvzbwCNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-d8KSX6eeO-w/YliU-9G54zI/AAAAAAAA5PA/SSJ1JrpoczgA66OlOndfON3vn9vez-4pACNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QbobkudofEY/YliU_JXbELI/AAAAAAAA5PE/bcyCdmNG-rIr9_-9gj9qkuvWzjN1JBBagCNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rhl_zDrsvNQ/YliU_TzvYKI/AAAAAAAA5PI/9kehXAxOGWMaI6856rUgQQPHUGACrWjWACNcBGAsYHQ/s135/1824-Gary-_Eggsy_-Unwin-Kingsman-The-Golden-Circle-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1824/",
+      "fetched_at": "2026-05-16T19:10:33.670Z",
+      "raw_id": "/nendoroid/details/n1824/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.760Z",
+      "raw_id": "Nendoroid/1800-1899/1824.json"
+    }
+  ]
+}

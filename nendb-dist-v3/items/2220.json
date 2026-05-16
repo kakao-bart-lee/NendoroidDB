@@ -1,0 +1,68 @@
+{
+  "num": "2220",
+  "name": {
+    "en": "Nendoroid Anna Yamada",
+    "ja": "ねんどろいど 山田杏奈 (ねんどろいど やまだあんな)",
+    "ko": "야마다 안나"
+  },
+  "series": {
+    "en": "The Dangers in My Heart",
+    "ja": "僕の心のヤバイやつ",
+    "ko": "내 마음의 위험한 녀석",
+    "code": "the-dangers-in-my-heart"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14729,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OXx4OwaTyiE/ZM6yyyFXB8I/AAAAAAABA9o/zpgw9diVDpE4HNuV6HetB8PNIzZUtJgXgCNcBGAsYHQ/s270/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OXx4OwaTyiE/ZM6yyyFXB8I/AAAAAAABA9o/zpgw9diVDpE4HNuV6HetB8PNIzZUtJgXgCNcBGAsYHQ/s270/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z8KyLN_AJ7M/ZNAWc6NhOVI/AAAAAAABBII/-jFOMnhVIAE6WVl3ZV7_tIELi2OQrjztgCNcBGAsYHQ/s135/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cv87rGdE72M/ZNAWdd_7aNI/AAAAAAABBIM/5DHGf4aB5-AjUBgvhWUDQC2C_dlY0CzhQCNcBGAsYHQ/s135/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lWFR_NoYAEc/ZNAWdqfAEYI/AAAAAAABBIQ/4HFcOdrjjw8itE7lUjUKNdHuAhX_YIS6gCNcBGAsYHQ/s135/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p3jKe0A1CSc/ZNAWdxgvLbI/AAAAAAABBIU/xDLtE9gGdr4Jaa1n6ZootNkXaUbt3Cw7ACNcBGAsYHQ/s135/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hmJx9oREaUg/ZNAWeEWKHTI/AAAAAAABBIY/Vi3tKujVP5wRIfhgddD32FEIqcsGgv0cwCNcBGAsYHQ/s135/2220-Anna-Yamada-The-Dangers-in-My-Heart-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2220/",
+      "fetched_at": "2026-05-16T19:10:33.925Z",
+      "raw_id": "/nendoroid/details/n2220/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.858Z",
+      "raw_id": "Nendoroid/2200-2299/2220.json"
+    }
+  ]
+}

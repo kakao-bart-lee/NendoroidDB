@@ -1,0 +1,68 @@
+{
+  "num": "2228",
+  "name": {
+    "en": "Nendoroid Kirakishou",
+    "ja": "ねんどろいど 雪華綺晶 (ねんどろいど きらきしょう)",
+    "ko": "키라키쇼"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14770,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gaY2KhYzIs8/ZQoU22lPlHI/AAAAAAABBjE/KvRGKtJzeJQr3NE9vZruE2xI-lFCpl70gCNcBGAsYHQ/s270/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gaY2KhYzIs8/ZQoU22lPlHI/AAAAAAABBjE/KvRGKtJzeJQr3NE9vZruE2xI-lFCpl70gCNcBGAsYHQ/s270/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ETB8Aopztg0/ZQsgn0UlHCI/AAAAAAABBpg/dkPqaPvKNyUpDjmKRVUO9Z8dlkIP-hxSACNcBGAsYHQ/s135/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ssMj8MHCXKI/ZQsgoAP4rUI/AAAAAAABBpk/yEEI6VqcDdoHYZtya5ELTV8al-Dalvt2gCNcBGAsYHQ/s135/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-f5gUL3cnVms/ZQsgokosLaI/AAAAAAABBpo/-f3hsC2S3XA26aLjt1ufSs764vq857h6QCNcBGAsYHQ/s135/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q39wNnh92vU/ZQsgpE_e7KI/AAAAAAABBps/7VGpnh1_lj41tE-f_dkzZr0DF8fBCfU1wCNcBGAsYHQ/s135/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VYGd8eKQWfY/ZQsgpuIK-bI/AAAAAAABBpw/12LRf_TfJKYPbFolDP15M2O0_toYIpBZQCNcBGAsYHQ/s135/2228-Kirakishou-Rozen-Maiden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2228/",
+      "fetched_at": "2026-05-16T19:10:33.930Z",
+      "raw_id": "/nendoroid/details/n2228/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.860Z",
+      "raw_id": "Nendoroid/2200-2299/2228.json"
+    }
+  ]
+}

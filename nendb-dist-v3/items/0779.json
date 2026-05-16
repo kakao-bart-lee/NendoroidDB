@@ -1,0 +1,67 @@
+{
+  "num": "0779",
+  "name": {
+    "en": "Nendoroid Lyria & Vee",
+    "ja": "ねんどろいど ルリア&ビィ (ねんどろいど るりあ&びぃ)",
+    "ko": "루리아 & 비"
+  },
+  "series": {
+    "en": "GRANBLUE FANTASY: The Animation",
+    "ja": "グランブルーファンタジー ジ・アニメーション",
+    "ko": "그랑블루 판타지",
+    "code": "granblue-fantasy-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6472,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EBfrY0643R0/X4NdHHzD_LI/AAAAAAABmAc/swijozd3wzQBjJGMW__8xsLacNOqwm4RACLcBGAsYHQ/s270/779-Lyria-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EBfrY0643R0/X4NdHHzD_LI/AAAAAAABmAc/swijozd3wzQBjJGMW__8xsLacNOqwm4RACLcBGAsYHQ/s270/779-Lyria-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oMXkOTo-2r4/X4i5kZAHHSI/AAAAAAAAtjA/dDDzLi4VSnQ5n929GNSxsVJXPw5p2BrKgCLcBGAsYHQ/s135/779-Lyria-and-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YfG1xE_8-w4/X4i5ks_pTLI/AAAAAAAAtjE/E4VwopYW3KglUeyB3AnVje1IcIyaB3ZpQCLcBGAsYHQ/s135/779-Lyria-and-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XcVN49BNwCY/X4i5k2p6IeI/AAAAAAAAtjI/fPkQWJ4jsbEKOIXlmw9GCRXOO0i7-45oQCLcBGAsYHQ/s135/779-Lyria-and-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AXxevSeR1Pc/X4i5lAsCTcI/AAAAAAAAtjM/kSAwc7w8vTYDlzn36ps--0_aEkEzTk2dQCLcBGAsYHQ/s135/779-Lyria-and-Vyrn-Granblue-Fantasy-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n779/",
+      "fetched_at": "2026-05-16T19:10:34.794Z",
+      "raw_id": "/nendoroid/details/n779/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.505Z",
+      "raw_id": "Nendoroid/0700-0799/779.json"
+    }
+  ]
+}

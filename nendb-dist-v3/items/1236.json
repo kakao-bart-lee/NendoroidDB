@@ -1,0 +1,68 @@
+{
+  "num": "1236",
+  "name": {
+    "en": "Nendoroid Origami Tobiichi: Spirit Ver.",
+    "ja": "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
+    "ko": "토비이치 오리가미 정령 Ver."
+  },
+  "series": {
+    "en": "Date A Live IV",
+    "ja": "デート・ア・ライブⅣ",
+    "ko": "데이트 어 라이브",
+    "code": "date-a-live-iv"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12569,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-byxMTjV2IVs/Yp4F3BrXh_I/AAAAAAAB6wU/oqDGC_-RLEIl5mnd8lm1kqwE4Z9jEh9IgCNcBGAsYHQ/s270/1236-Origami-Tobiichi-Spirit-Date-A-Live-IV-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-byxMTjV2IVs/Yp4F3BrXh_I/AAAAAAAB6wU/oqDGC_-RLEIl5mnd8lm1kqwE4Z9jEh9IgCNcBGAsYHQ/s270/1236-Origami-Tobiichi-Spirit-Date-A-Live-IV-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fB4VKSY-mpA/Yp4M-GArGdI/AAAAAAAB6yA/1vQCcNJehngj-pLJxBSsXlyGnTchRFO7ACNcBGAsYHQ/s135/1236-Origami-Tobiichi-Date-A-Live-IV-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S2Myjh3lOPY/Yp4M-HgxRWI/AAAAAAAB6yE/m0hof7YVkhkMYsE5-m0ufb1oqZy4MJUrACNcBGAsYHQ/s135/1236-Origami-Tobiichi-Date-A-Live-IV-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uT0VZ8K7aw0/Yp4M-XoP7gI/AAAAAAAB6yI/cOvzdcsJ-nUpj1Ix4vyORvoTHmuM1M2XwCNcBGAsYHQ/s135/1236-Origami-Tobiichi-Date-A-Live-IV-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7cfqsvzqTc0/Yp4M-94vgvI/AAAAAAAB6yM/GhZ_qIeB4nkXStXsEZ-cM3rHQnNP4JdbwCNcBGAsYHQ/s135/1236-Origami-Tobiichi-Date-A-Live-IV-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7P6hyE8A_TQ/Yp4M_XdqW3I/AAAAAAAB6yQ/C4wAQ3oqmsg6aPqocQxoR8eFB0yWhto3ACNcBGAsYHQ/s135/1236-Origami-Tobiichi-Date-A-Live-IV-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1236/",
+      "fetched_at": "2026-05-16T19:10:33.304Z",
+      "raw_id": "/nendoroid/details/n1236/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.617Z",
+      "raw_id": "Nendoroid/1200-1299/1236.json"
+    }
+  ]
+}

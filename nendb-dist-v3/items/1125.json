@@ -1,0 +1,68 @@
+{
+  "num": "1125",
+  "name": {
+    "en": "Nendoroid Kokoro Tsurumaki: Stage Outfit Ver.",
+    "ja": "ねんどろいど 弦巻こころ ステージ衣装Ver. (ねんどろいど つるまきこころ すてーじいしょうVer.)",
+    "ko": "츠루마키 코코로"
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8272,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9zyP59gcJFE/X4NgX9CbGuI/AAAAAAABmaE/F-2rhSCSmUgWbKidn6d96bKyFSWJGd2RQCLcBGAsYHQ/s270/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9zyP59gcJFE/X4NgX9CbGuI/AAAAAAABmaE/F-2rhSCSmUgWbKidn6d96bKyFSWJGd2RQCLcBGAsYHQ/s270/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mTSnyVstxks/X4rv8rFRlvI/AAAAAAABpD0/sYCMHBwKYLoSYk6bzcV7c96PUMR4CqFIgCLcBGAsYHQ/s135/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-82C3ND5nnd8/X4rv84XOwwI/AAAAAAABpD4/8KiJsNSGhssz3Vm0APHQ9GMUjGNUAju8wCLcBGAsYHQ/s135/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cs-j2B1VJsI/X4rv9DodewI/AAAAAAABpD8/yZt8naeqKMYW1o-34o8re_yTw9lv6YQJQCLcBGAsYHQ/s135/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7rPN_fMfGHM/X4rv9XvRBXI/AAAAAAABpEA/ZP8OOuE7dZYDrbkYR1a8V8q2dCYsmMLCQCLcBGAsYHQ/s135/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J7ckZ0p3Dso/X4rv9lxB6DI/AAAAAAABpEE/uenlm_pbp9cFPyoDYzU08FjMhz6z5y9SACLcBGAsYHQ/s135/1125-Kokoro-Tsurumaki-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1125/",
+      "fetched_at": "2026-05-16T19:10:33.236Z",
+      "raw_id": "/nendoroid/details/n1125/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.591Z",
+      "raw_id": "Nendoroid/1100-1199/1125.json"
+    }
+  ]
+}

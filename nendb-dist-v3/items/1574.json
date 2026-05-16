@@ -1,0 +1,68 @@
+{
+  "num": "1574",
+  "name": {
+    "en": "Nendoroid Aoi Hinami",
+    "ja": "ねんどろいど 日南葵 (ねんどろいど ひなみあおい)",
+    "ko": "히나미 아오이"
+  },
+  "series": {
+    "en": "Bottom-Tier Character Tomozaki",
+    "ja": "弱キャラ友崎くん",
+    "ko": "약캐 토모자키 군",
+    "code": "bottom-tier-character-tomozaki"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10835,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vW3Il6miQ5E/YFXyBuIT4aI/AAAAAAAAwL8/Tvt0rFvvIX89fCA6jtVmewI6ZuXKvQIegCLcBGAsYHQ/s270/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vW3Il6miQ5E/YFXyBuIT4aI/AAAAAAAAwL8/Tvt0rFvvIX89fCA6jtVmewI6ZuXKvQIegCLcBGAsYHQ/s270/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-y9_kOvKyk9A/YD1f1LPWeKI/AAAAAAAAv9k/kAkBM5_Uif0jntuDR6V4ZYYvkyX9eVbYgCLcBGAsYHQ/s135/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1u4917RNdkg/YD1f1avzakI/AAAAAAAAv9o/-z-2LRdhopQCefxx36S6o5AN2CmfXMG9wCLcBGAsYHQ/s135/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rSVYYA1A4Bo/YD1f1RZ7aDI/AAAAAAAAv9s/c2u6zrQBE3cIDN2IcnoGs0XRzT0MEkCpACLcBGAsYHQ/s135/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QtRf_W8HGE0/YD1f1-D_6tI/AAAAAAAAv9w/D4qE4mLFwKwV0x0SYI9hrqKIzOHztU5uACLcBGAsYHQ/s135/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5zfeUbQNUJw/YD1f2nLZlNI/AAAAAAAAv90/A2QVP6tErqAprYmjxMsvM7iG2MXJzFtTACLcBGAsYHQ/s135/1574-Aoi-Hinami-Bottom-Tier-Character-Tomozaki-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1574/",
+      "fetched_at": "2026-05-16T19:10:33.512Z",
+      "raw_id": "/nendoroid/details/n1574/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.699Z",
+      "raw_id": "Nendoroid/1500-1599/1574.json"
+    }
+  ]
+}

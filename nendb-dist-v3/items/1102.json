@@ -1,0 +1,68 @@
+{
+  "num": "1102",
+  "name": {
+    "en": "Nendoroid Aoi Miyamori",
+    "ja": "ねんどろいど 宮森あおい (ねんどろいど みやもりあおい)",
+    "ko": "미야모리 아오이"
+  },
+  "series": {
+    "en": "SHIROBAKO",
+    "ja": "SHIROBAKO",
+    "ko": "SHIROBAKO",
+    "code": "shirobako"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8148,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5eEc6F6ciQI/X4NgQ1HmdBI/AAAAAAABmYo/dBqcH6fceU0zLz1NWl57jNFwuxwU-ta1QCLcBGAsYHQ/s270/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5eEc6F6ciQI/X4NgQ1HmdBI/AAAAAAABmYo/dBqcH6fceU0zLz1NWl57jNFwuxwU-ta1QCLcBGAsYHQ/s270/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gHpzMOzw5SE/X4rvX0LVIAI/AAAAAAABo7U/JsNcA78TBM4CwahM238DalwV6-flhqoPACLcBGAsYHQ/s135/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S8mAxHUnhcs/X4rvX1qku8I/AAAAAAABo7Y/q76lkF6HcTkdVLMN96vE6RQuYLqxiEsfACLcBGAsYHQ/s135/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8qVhsm00S6o/X4rvYIpl8GI/AAAAAAABo7c/dcbYU7sq82Y2RV5s96lqNCVvj0WO-F0ygCLcBGAsYHQ/s135/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-peNx-ypTVhc/X4rvYqwtaUI/AAAAAAABo7g/5llf-13s4HI3X6DpZEYuyuJY4tvlTbMugCLcBGAsYHQ/s135/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KUdyUAAr_7o/X4rvZMyuEdI/AAAAAAABo7k/hz5xOa7YicUmWKkSwXskw-NtSO-5m2zcwCLcBGAsYHQ/s135/1102-Aoi-Miyamori-SHIROBAKO-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1102/",
+      "fetched_at": "2026-05-16T19:10:33.222Z",
+      "raw_id": "/nendoroid/details/n1102/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.584Z",
+      "raw_id": "Nendoroid/1100-1199/1102.json"
+    }
+  ]
+}

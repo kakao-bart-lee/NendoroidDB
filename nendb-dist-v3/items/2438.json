@@ -1,0 +1,64 @@
+{
+  "num": "2438",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Magical Mirai",
+    "ja": null,
+    "ko": null,
+    "code": "magical-mirai"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-emBMaSEB51U/Zor7gstz2HI/AAAAAAABFDA/EBcL5U3M2e4cILoJPShXIn6J3kWWorAjQCNcBGAsYHQ/s270/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-emBMaSEB51U/Zor7gstz2HI/AAAAAAABFDA/EBcL5U3M2e4cILoJPShXIn6J3kWWorAjQCNcBGAsYHQ/s270/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jvhXC3ky-v8/Zow2_EuI1dI/AAAAAAABFmw/kIk0R2gtSkEMkIUDVl38mFCuvg3jbUC-ACNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NWzv2tFCp7U/Zow2_6ihefI/AAAAAAABFm0/wSDaE88gtMgCPpKZO9k30__JP9bnCcjoACNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AStSiLY5NnQ/Zow3AXF4aDI/AAAAAAABFm4/ZofeAoxt7T49AsyOEjTqKkUh1wfazWswQCNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cMZU_wHgA_s/Zow3Amf0QsI/AAAAAAABFm8/UmGrmXZkT4EIXPIo0KZRskrckB5j4sdlQCNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eUXce3IR9C8/Zow3Bbrc9sI/AAAAAAABFnA/va4eX8IAdYQW5hEmWVnOjyunO_fySw6agCNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rj4BwM7K0Xo/Zow3B0WylEI/AAAAAAABFnE/QaT1KqesR_45TtvJA_QFC16ptooJzWDWACNcBGAsYHQ/s135/2438-Hatsune-Miku-Magical-Mirai-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2438/",
+      "fetched_at": "2026-05-16T19:10:34.057Z",
+      "raw_id": "/nendoroid/details/n2438/"
+    }
+  ]
+}

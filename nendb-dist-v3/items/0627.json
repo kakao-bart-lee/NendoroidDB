@@ -1,0 +1,69 @@
+{
+  "num": "0627",
+  "name": {
+    "en": "Nendoroid Clarion",
+    "ja": "ねんどろいど クラリオン (ねんどろいど くらりおん)",
+    "ko": "클라리온"
+  },
+  "series": {
+    "en": "Pandora in the Crimson Shell: Ghost Urn",
+    "ja": "紅殻のパンドラ",
+    "ko": "홍각의 판도라",
+    "code": "pandora-in-the-crimson-shell-ghost-urn"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5648,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-i5yFMMVL6CM/X4NPsLXWvZI/AAAAAAABl2I/TvUUnTS28tkkzOlB4T8jNowjVDdAL5QmwCLcBGAsYHQ/s270/627-Clarion-Pandora-in-the-Crimson-Shell-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i5yFMMVL6CM/X4NPsLXWvZI/AAAAAAABl2I/TvUUnTS28tkkzOlB4T8jNowjVDdAL5QmwCLcBGAsYHQ/s270/627-Clarion-Pandora-in-the-Crimson-Shell-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O4iC_7Y-X8k/X4i0McCerSI/AAAAAAAAspY/RauxjMB1TJ4WOZPORqBLN-mj6otYKRRXgCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fowuMx5B3p4/X4i0M8PF6iI/AAAAAAAAspc/vo5ESTc09HEFhILBZpIRF3vLoLeTIAsUQCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ieLhmrd1AvM/X4i0NFhsqFI/AAAAAAAAspg/kxiItfDH6QwqrQHWr5QUKZIbC-jf9CQEgCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZQlpD5xefLM/X4i0NsvqjII/AAAAAAAAspk/LY6Mk04vs8gmsc0okUb_gEO-wbCA4-2nQCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dNtPiUKW3QY/X4i0N1DP_gI/AAAAAAAAspo/5icxOft18FgBpDP-jPUbZJg1HIFsiWy1QCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XzDG0bjt_no/X4i0ODWyNAI/AAAAAAAAsps/h1EMNZdbEW4AmebIT04YhQmMny5y6X5EQCLcBGAsYHQ/s135/627-Clarion-Pandora-in-the-Crimson-Shell-Ghost-Urn-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n627/",
+      "fetched_at": "2026-05-16T19:10:34.706Z",
+      "raw_id": "/nendoroid/details/n627/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.467Z",
+      "raw_id": "Nendoroid/0600-0699/627.json"
+    }
+  ]
+}

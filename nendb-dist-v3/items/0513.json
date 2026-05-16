@@ -1,0 +1,69 @@
+{
+  "num": "0513",
+  "name": {
+    "en": "Nendoroid Celty Sturluson (ねんどろいど せるてぃ・すとぅるるそん)",
+    "ja": "ねんどろいど セルティ・ストゥルルソン (ねんどろいど せるてぃ・すとぅるるそん)",
+    "ko": "세르티 스툴루손"
+  },
+  "series": {
+    "en": "DuRaRaRa!! x2",
+    "ja": "デュラララ!!×2",
+    "ko": "듀라라라!!",
+    "code": "durarara-x2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4917,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0RsN37CgeFY/X4NOWwEMJ4I/AAAAAAABluM/oWsPtHgLLzQu3cknKdcMelKMYdPvafKMQCLcBGAsYHQ/s270/513-Celty-Sturluson-Durara%2521%2521x2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0RsN37CgeFY/X4NOWwEMJ4I/AAAAAAABluM/oWsPtHgLLzQu3cknKdcMelKMYdPvafKMQCLcBGAsYHQ/s270/513-Celty-Sturluson-Durara%2521%2521x2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-A6-kWaOSJa8/X4ir4uwk2kI/AAAAAAAAr-o/hHlsvzBbUsY-BbTjBoUGwQ_YlObXovT9ACLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3PBdzRZaLD8/X4ir435fxaI/AAAAAAAAr-s/E2o8Q-KKydgxEM7cDLbDZmqGVRIqPirBwCLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-70Ut5o_3RMo/X4ir5lITpvI/AAAAAAAAr-w/qo35_gimQh4ZrGIts8UvT_y2yJtkDNHcACLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M9OA_DfGdsM/X4ir6DOvQXI/AAAAAAAAr-0/jDa5P5IKEgQr2sYsDL2XPQNfqDbtEE7BQCLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MibK8Zdvdvs/X4ir6rzIQ0I/AAAAAAAAr-4/MEk0IpSoSSYg-COAJeEanU0QmbPAJi1BQCLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0wXNuLEayLc/X4ir7JZ5BuI/AAAAAAAAr-8/AY5YAURuUGgtXYygSrzXWyqCKbnZvl-3gCLcBGAsYHQ/s135/513-Celty-Sturluson-DuRaRaRa-x2-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n513/",
+      "fetched_at": "2026-05-16T19:10:34.571Z",
+      "raw_id": "/nendoroid/details/n513/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.418Z",
+      "raw_id": "Nendoroid/0500-0599/513.json"
+    }
+  ]
+}

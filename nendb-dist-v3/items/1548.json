@@ -1,0 +1,70 @@
+{
+  "num": "1548",
+  "name": {
+    "en": "Nendoroid Nobara Kugisaki",
+    "ja": "ねんどろいど 釘崎野薔薇 (ねんどろいど くぎさきのばら)",
+    "ko": "쿠기사키 노바라"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10648,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r1PPjkFaGyQ/YA2BMyc455I/AAAAAAAAvdE/4F4bIotApj8PbJOog9kT3Epjld9OHVbIACLcBGAsYHQ/s270/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r1PPjkFaGyQ/YA2BMyc455I/AAAAAAAAvdE/4F4bIotApj8PbJOog9kT3Epjld9OHVbIACLcBGAsYHQ/s270/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Wj0ICedDLM8/YA2EgOtlZyI/AAAAAAAAvho/x6aybzCYyUA3E-ZxrsMxUF7NBO--mOAuACLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9tFQk_9a_n4/YA2EgQUZ-2I/AAAAAAAAvhs/x5E_VuxspscXLaoBX_IfPnqJVr32LDiAQCLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7_o9HlFMmkc/YA2EgScXm5I/AAAAAAAAvhw/vQOvFQoZOtIgYZMi7ruS7pc6v2re4_NugCLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-S7648MF706U/YA2Egk3oKEI/AAAAAAAAvh0/nF16BxGbiKcOJzbk33E0ohWlQJCprMrRQCLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hjVY0wVS-4I/YA2EguILUiI/AAAAAAAAvh4/YgMsQ4r9r00kpqFm2OBH-YjB0bjrUvn8gCLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-01qdAtna3QQ/YA2Eg79NGRI/AAAAAAAAvh8/lLJGoygTEBUJZsVMcYGpwOdEhgdzl5SmgCLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Dbc7D-Tm46s/YA2EhJ4KIhI/AAAAAAAAviA/C3aGT0V2Xag5rtDAM_d9WMDFJQLVOQJMACLcBGAsYHQ/s135/1548-Nobara-Kugisaki-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1548/",
+      "fetched_at": "2026-05-16T19:10:33.496Z",
+      "raw_id": "/nendoroid/details/n1548/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.693Z",
+      "raw_id": "Nendoroid/1500-1599/1548.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "num": "0478",
+  "name": {
+    "en": "Nendoroid Tama (ねんどろいど たま)",
+    "ja": "ねんどろいど タマ (ねんどろいど たま)",
+    "ko": "타마"
+  },
+  "series": {
+    "en": "selector infected WIXOSS",
+    "ja": "selector infected WIXOSS",
+    "ko": "selector infected WIXOSS",
+    "code": "selector-infected-wixoss"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4730,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4725,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FQFpXywwzVE/X4NN6yoDthI/AAAAAAABlrc/agSF705GU-gxdWleFwFNuQ6BK-4ltAntwCLcBGAsYHQ/s270/478-Tama-Selector-Infected-Wixoss-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FQFpXywwzVE/X4NN6yoDthI/AAAAAAABlrc/agSF705GU-gxdWleFwFNuQ6BK-4ltAntwCLcBGAsYHQ/s270/478-Tama-Selector-Infected-Wixoss-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-y7eg3O3cwu8/X4dfEmMxylI/AAAAAAAArv8/uLk89XvThaYLn21MUmD-Rn9N9doialX6gCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RL3hf_fnSBo/X4dfE6YuZJI/AAAAAAAArwA/tVXkKQHqwX8scKAmxVWtRZp58UYd8LOBgCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4nsN5nTY71M/X4dfFKlsV6I/AAAAAAAArwE/OTdT_xUPK6IVSOHPqxO2pSvNyaFRJz3FACLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B_VJn9LsNK8/X4dfFWDICfI/AAAAAAAArwI/ZkGOKP4YeacvIrSeptcn_Xk_5psjPPexQCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-E77_9HMqKQ0/X4dfFjOLS2I/AAAAAAAArwM/MD3iFwfTp9AayPWFBPKF_HZIQ087-1lawCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ixdMYASTibg/X4dfF20YdgI/AAAAAAAArwQ/IJ_thSqJLzUvZ-2JTjH3I4joQUysMRprgCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-p7hnGbRdT4E/X4dfGNgVUnI/AAAAAAAArwU/mTRYLzEp898AdRN8I_vcI-Ske_wFIUVewCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-l5uPUXcrPi0/X4dfEMCWl_I/AAAAAAAArv0/DBgWZmiR50cKavMXzCvCc-MgE9dZNN7hgCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-NXbqIsaTQlM/X4dfEa4O1ZI/AAAAAAAArv4/74YnR1DCc3UhOTX7geS8m11_SnWa2yJfQCLcBGAsYHQ/s135/478-Tama-selector-infected-WIXOSS-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n478/",
+      "fetched_at": "2026-05-16T19:10:34.551Z",
+      "raw_id": "/nendoroid/details/n478/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.389Z",
+      "raw_id": "Nendoroid/0400-0499/478.json"
+    }
+  ]
+}

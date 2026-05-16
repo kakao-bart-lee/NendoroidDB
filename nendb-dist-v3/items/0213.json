@@ -1,0 +1,68 @@
+{
+  "num": "0213",
+  "name": {
+    "en": "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)",
+    "ja": "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
+    "ko": "니즈마 에이지"
+  },
+  "series": {
+    "en": "Bakuman",
+    "ja": "バクマン。",
+    "ko": "바쿠만",
+    "code": "bakuman"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3385,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yoXa-Vi7RD0/X4NLG2Leo4I/AAAAAAABlWE/COB3rasZQdI77uR4uF0ekXSaZaG_5evFgCLcBGAsYHQ/s270/213-Eiji%2BNiizuma-Bakuman-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yoXa-Vi7RD0/X4NLG2Leo4I/AAAAAAABlWE/COB3rasZQdI77uR4uF0ekXSaZaG_5evFgCLcBGAsYHQ/s270/213-Eiji%2BNiizuma-Bakuman-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HGN0gYJwIzA/X4dW9VeVsxI/AAAAAAAAqWQ/w8AMbzb57-Ej-Bs4tTw2nd1fshk774I7gCLcBGAsYHQ/s135/213-Eiji-Niizuma-Bakuman-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NJ9pK6V_qM0/X4dW97VTabI/AAAAAAAAqWU/rs4bg5PXfVME4pfC585MCUbpQ_8YP9A4ACLcBGAsYHQ/s135/213-Eiji-Niizuma-Bakuman-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SOkGKNpbKKg/X4dW-fDfUAI/AAAAAAAAqWY/wO8ULZ4Y_nglKRWZs0YbJOetOc468uW6ACLcBGAsYHQ/s135/213-Eiji-Niizuma-Bakuman-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1BUpvXXQklc/X4dW-1ZEGgI/AAAAAAAAqWc/tf8gAPbi2yoNbdVi_DlxbGK1C6PEkkuUACLcBGAsYHQ/s135/213-Eiji-Niizuma-Bakuman-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-80g9kECt36k/X4dW_VH2yeI/AAAAAAAAqWg/OliVzIbzyEkgaCvXLHRDyxdc33MGLhAjQCLcBGAsYHQ/s135/213-Eiji-Niizuma-Bakuman-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n213/",
+      "fetched_at": "2026-05-16T19:10:33.862Z",
+      "raw_id": "/nendoroid/details/n213/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.321Z",
+      "raw_id": "Nendoroid/0200-0299/213.json"
+    }
+  ]
+}

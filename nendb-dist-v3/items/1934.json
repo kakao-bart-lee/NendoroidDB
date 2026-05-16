@@ -1,0 +1,68 @@
+{
+  "num": "1934",
+  "name": {
+    "en": "Nendoroid Mami Nanami",
+    "ja": "ねんどろいど 七海麻美 (ねんどろいど ななみまみ)",
+    "ko": "나나미 마미"
+  },
+  "series": {
+    "en": "Rent-a-Girlfriend",
+    "ja": "彼女、お借りします",
+    "ko": "여친, 빌리겠습니다",
+    "code": "rent-a-girlfriend"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13109,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--gMPvWU3xQ0/Yw_WbUzRBII/AAAAAAAA6bc/cdKhvW_pr0s7GEkzC1Lge90-V0I1bmruQCNcBGAsYHQ/s270/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--gMPvWU3xQ0/Yw_WbUzRBII/AAAAAAAA6bc/cdKhvW_pr0s7GEkzC1Lge90-V0I1bmruQCNcBGAsYHQ/s270/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qan3_e9ZM3M/YxEYP8wjqeI/AAAAAAAA6vo/2_WCuJX0hFAUZBgn-Ysc8Ls0yyvUrOOoACNcBGAsYHQ/s135/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_q0TD7Lt2g0/YxEYQdCG30I/AAAAAAAA6vs/bZKfYT8AXBkR1w_UXBNgfj50k8mungSqACNcBGAsYHQ/s135/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-v4S_vmHmBKE/YxEYQucS5AI/AAAAAAAA6vw/0DrRoApopdwp0LHPiRGYDUH45Dy-Kbl5gCNcBGAsYHQ/s135/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-03C9NorV7kA/YxEYQ0WIbSI/AAAAAAAA6v0/b4RjSyW2aZIXegedkyxAAL97MuE2smMpwCNcBGAsYHQ/s135/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-shKxeB1i6wA/YxEYRCJaRfI/AAAAAAAA6v4/LT-tmmg-nEAPpZvZo85JhZOeWTZ1tLzlACNcBGAsYHQ/s135/1934-Mami-Nanami-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1934/",
+      "fetched_at": "2026-05-16T19:10:33.739Z",
+      "raw_id": "/nendoroid/details/n1934/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.785Z",
+      "raw_id": "Nendoroid/1900-1999/1934.json"
+    }
+  ]
+}

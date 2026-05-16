@@ -1,0 +1,69 @@
+{
+  "num": "1557",
+  "name": {
+    "en": "Nendoroid Jack Sparrow",
+    "ja": "ねんどろいど ジャック・スパロウ (ねんどろいど じゃっく・すぱろう)",
+    "ko": "잭 스패로우"
+  },
+  "series": {
+    "en": "Pirates of the Caribbean: On Stranger Tides",
+    "ja": "パイレーツ・オブ・カリビアン/生命の泉",
+    "ko": "캐리비안의 해적",
+    "code": "pirates-of-the-caribbean-on-stranger-tides"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11008,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RXntV-gvxgU/YHSSU4EqiyI/AAAAAAAAwo0/-5Hte4V6iuYOm1q1Cf4XM26GKjop5_gFwCLcBGAsYHQ/s270/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RXntV-gvxgU/YHSSU4EqiyI/AAAAAAAAwo0/-5Hte4V6iuYOm1q1Cf4XM26GKjop5_gFwCLcBGAsYHQ/s270/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IVsxOpG6uHg/YHSWt01J0sI/AAAAAAAAwqU/oVihqn4P3v08_8tNh3TsX_0wxrPykVwowCLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZYA3r40eYlE/YHSWuLOr3NI/AAAAAAAAwqY/bDG8BZ10XzAGvdFZDz5gHlr5P2GI-RMgQCLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c8zIfvMurU4/YHSWuBwCSSI/AAAAAAAAwqc/3iqOgmcogYYIsvknthlNzDhlBuObVFQ9ACLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NpuKdgHhCjM/YHSWueHovaI/AAAAAAAAwqg/deaZhyNhKV8BjFh0ZPO5xRaA5g450twpgCLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tFn7ptdSu8o/YHSWuvLoQxI/AAAAAAAAwqk/5dQoeSw6a7IRj4F6nfeXtsKKUMBv3IpPgCLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SdJpqX0QTtM/YHSWuyxhpfI/AAAAAAAAwqo/3Gz8ZZeC9VA_SmHmxycyFZgvfuE9Ks2XwCLcBGAsYHQ/s135/1557-Jack-Sparrow-Pirates-of-the-Caribbean-On-Stranger-Tides-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1557/",
+      "fetched_at": "2026-05-16T19:10:33.502Z",
+      "raw_id": "/nendoroid/details/n1557/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.695Z",
+      "raw_id": "Nendoroid/1500-1599/1557.json"
+    }
+  ]
+}

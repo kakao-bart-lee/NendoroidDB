@@ -1,0 +1,69 @@
+{
+  "num": "0232",
+  "name": {
+    "en": "Nendoroid Minnie Mouse (ねんどろいど みにーまうす)",
+    "ja": "ねんどろいど　ミニーマウス (ねんどろいど みにーまうす)",
+    "ko": "미니 마우스"
+  },
+  "series": {
+    "en": "MICKEY MOUSE",
+    "ja": "MICKEY　MOUSE",
+    "ko": "디즈니",
+    "code": "mickey-mouse"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3474,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uAr2QzlIka4/X4NLM2AMbrI/AAAAAAABlXQ/TbBy4nX-Qj8YyErDfi8Kqt267QiYsu-TgCLcBGAsYHQ/s270/232-Minnie-Mouse-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uAr2QzlIka4/X4NLM2AMbrI/AAAAAAABlXQ/TbBy4nX-Qj8YyErDfi8Kqt267QiYsu-TgCLcBGAsYHQ/s270/232-Minnie-Mouse-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SQ_mHHck3N4/X4dXXMAkL9I/AAAAAAAAqbw/MXJp947NdV4y4mkVgk6j0PB1BO9u5BYhwCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_WtU08dqtdI/X4dXXZbPhZI/AAAAAAAAqb0/1kcGxKl0KTAmpFe_og9jPFIGjJhbGB17QCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--0JccKxMw8g/X4dXX8d3x4I/AAAAAAAAqb4/yyWeSOYHwcA6MGeFMeVZT6OpQRhIsTbQgCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Uj6t1BvA3Ug/X4dXYCs_0MI/AAAAAAAAqb8/S1XKQz4YKz8GE8fkvSDjUy3Tk8ccxIbKQCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aDUcgbp5NRs/X4dXYHOvVrI/AAAAAAAAqcA/WrYptHcNWEc0NHnnQd5RakvBnbJ0q6vxgCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-n0h4vGZH9fQ/X4dXYkNxDpI/AAAAAAAAqcE/2mvWCeKqImksvE8LY2d6mq2e0YWCtngIwCLcBGAsYHQ/s135/232-Minnie-Mouse-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n232/",
+      "fetched_at": "2026-05-16T19:10:33.991Z",
+      "raw_id": "/nendoroid/details/n232/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.328Z",
+      "raw_id": "Nendoroid/0200-0299/232.json"
+    }
+  ]
+}

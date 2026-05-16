@@ -1,0 +1,67 @@
+{
+  "num": "0352",
+  "name": {
+    "en": "Nendoroid Makoto Naegi (ねんどろいど なえぎまこと)",
+    "ja": "ねんどろいど 苗木誠 (ねんどろいど なえぎまこと)",
+    "ko": "나에기 마코토"
+  },
+  "series": {
+    "en": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "ja": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation",
+    "ko": "단간론파",
+    "code": "danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4021,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3QZo-H6HkHE/X4NM2d8AbVI/AAAAAAABliw/BlnKqOsHR_E06TCw83RnRyqGPs339FUHwCLcBGAsYHQ/s270/352-Naegi-Makoto-Dangaronpa-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3QZo-H6HkHE/X4NM2d8AbVI/AAAAAAABliw/BlnKqOsHR_E06TCw83RnRyqGPs339FUHwCLcBGAsYHQ/s270/352-Naegi-Makoto-Dangaronpa-the-Animation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4Ys7BnlH25g/X4da4y_KPmI/AAAAAAAArEE/NWUCfh5GV0YPI9cKN09WQdUtXd1KBIeRgCLcBGAsYHQ/s135/352-Makoto-Naegi-Danganronpa-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nJnUCcNwubE/X4da48CEzcI/AAAAAAAArEI/YmfzQrHXzH4c9PrXkXS51_g1_k_RLVEtgCLcBGAsYHQ/s135/352-Makoto-Naegi-Danganronpa-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1hwNknSrft8/X4da5HyTwXI/AAAAAAAArEM/ohnHuGI3k54YN3h5ePX9PZNOdqp5UgG8wCLcBGAsYHQ/s135/352-Makoto-Naegi-Danganronpa-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f7TlhFRsh54/X4da5f7zmwI/AAAAAAAArEQ/8QoxrNW2KH4RSNSAtrJ4LvC6E_ji5l31wCLcBGAsYHQ/s135/352-Makoto-Naegi-Danganronpa-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n352/",
+      "fetched_at": "2026-05-16T19:10:34.477Z",
+      "raw_id": "/nendoroid/details/n352/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.359Z",
+      "raw_id": "Nendoroid/0300-0399/352.json"
+    }
+  ]
+}

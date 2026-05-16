@@ -1,0 +1,68 @@
+{
+  "num": "1239",
+  "name": {
+    "en": "Nendoroid Yu Wenzhou",
+    "ja": "ねんどろいど 喩文州 (ねんどろいど ゆうぇんしゅう)",
+    "ko": "위엔쩌우"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zH-yNGvnL6U/X4NiQTlcgNI/AAAAAAABmpI/YdIzxzjbQL4qhQcbn-2vxtsABijTojoeACLcBGAsYHQ/s270/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zH-yNGvnL6U/X4NiQTlcgNI/AAAAAAABmpI/YdIzxzjbQL4qhQcbn-2vxtsABijTojoeACLcBGAsYHQ/s270/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yTz0Q8kmDcs/X4rzyecaKxI/AAAAAAABpz0/poW-rqP8nXE3mgjsHMxLs04o2-liugzugCLcBGAsYHQ/s135/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R8EDQp1aL-w/X4rzy2diZuI/AAAAAAABpz4/pUhRD9maGTIVTeQQkyej9sV21yKSEGQCgCLcBGAsYHQ/s135/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xrnarMENt5U/X4rzzMALDYI/AAAAAAABpz8/t8xp2DoiPccF5Ozb9uHH-if0jhhZKmPFwCLcBGAsYHQ/s135/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VPgEBrrbVN8/X4rzzUk7oQI/AAAAAAABp0A/OZ4G75X1y5Qga8SOHhXVRwPm_1_D24oqQCLcBGAsYHQ/s135/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JxO5KYGp-8s/X4rzzYl1cZI/AAAAAAABp0E/74r2J_DW7msqnMSWgiOd32Z0VFYSKIVnwCLcBGAsYHQ/s135/1239-Yu-Wenzhou-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1239/",
+      "fetched_at": "2026-05-16T19:10:33.306Z",
+      "raw_id": "/nendoroid/details/n1239/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.618Z",
+      "raw_id": "Nendoroid/1200-1299/1239.json"
+    }
+  ]
+}

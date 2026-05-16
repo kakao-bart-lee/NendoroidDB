@@ -1,0 +1,55 @@
+{
+  "num": "12820",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Diner - Girl (Blue/Pink)",
+    "ja": "ねんどろいどどーる おようふくセット ダイナー Girl（ブルー/ピンク） (ねんどろいどどーる おようふくせっと だいなー がーる（ぶるー/ぴんく）)",
+    "ko": "디너 - 걸(블루/핑크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12820,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220614/12820/99875/large/66aa1605093e291bfaf700d70412da2b.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.929Z",
+      "raw_id": "NendoroidDoll/Clothes/12820.json"
+    }
+  ]
+}

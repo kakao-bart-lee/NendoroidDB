@@ -1,0 +1,68 @@
+{
+  "num": "1700",
+  "name": {
+    "en": "Nendoroid Mysterious Neko X",
+    "ja": "ねんどろいど 謎のネコX (ねんどろいど なぞのねこX)",
+    "ko": "수수께끼의 네코X"
+  },
+  "series": {
+    "en": "Fate/Grand Carnival",
+    "ja": "Fate/Grand Carnival",
+    "ko": "Fate/Grand Carnival",
+    "code": "fate-grand-carnival"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7ZEHP375A04/YWSHZ1-ZRZI/AAAAAAAA0-k/fmBF1IMhA2IZRnt-bwY3tvRq4rjdNsb3ACLcBGAsYHQ/s270/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7ZEHP375A04/YWSHZ1-ZRZI/AAAAAAAA0-k/fmBF1IMhA2IZRnt-bwY3tvRq4rjdNsb3ACLcBGAsYHQ/s270/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6T21BjaBCSU/YWSaW3jHudI/AAAAAAAA1Bw/pkQtVRyoFGEaPWeQ5UO4NxhMMPoN3m2NwCLcBGAsYHQ/s135/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q_kk2f9bkkY/YWSaXAWyxqI/AAAAAAAA1B0/Pg75yFWAiWIHcky65QHzpGc2mF71kmHVACLcBGAsYHQ/s135/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xGF7PRLmrjY/YWSaXZqogvI/AAAAAAAA1B4/-UdcfxapkwY5tZ20eJ_zJDr8LhA3JKlAACLcBGAsYHQ/s135/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hIzl6Itg4Hc/YWSaXsbxauI/AAAAAAAA1B8/XJyt5wSeouolMrlN7IB1g_l6E1qk-gHdwCLcBGAsYHQ/s135/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jc7LAIp88ag/YWSaX5rVt-I/AAAAAAAA1CA/drcoXWNfM2Ywus1PxWx2lEny-JP5pED4gCLcBGAsYHQ/s135/1700-Mysterious-Neko-X-Fate-Grand-Carnival-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1700/",
+      "fetched_at": "2026-05-16T19:10:33.594Z",
+      "raw_id": "/nendoroid/details/n1700/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.730Z",
+      "raw_id": "Nendoroid/1700-1799/1700.json"
+    }
+  ]
+}

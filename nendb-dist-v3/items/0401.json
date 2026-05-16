@@ -1,0 +1,70 @@
+{
+  "num": "0401",
+  "name": {
+    "en": "Nendoroid Alisa Ilyinichna Omela (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ja": "ねんどろいど アリサ・イリーニチナ・アミエーラ (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ko": "아리사 이리니티나 아미에라"
+  },
+  "series": {
+    "en": "GOD EATER 2",
+    "ja": "ゴッドイーター2",
+    "ko": "갓이터 2",
+    "code": "god-eater-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4228,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yxKEQs7lnjM/X4NNncwUN9I/AAAAAAABlmo/z-elj_ZYA-E3yqiD3vjjcI4X88ESBwjQACLcBGAsYHQ/s270/401-Alisa%2BIlyinichna%2BOmela-God-Eater-2-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yxKEQs7lnjM/X4NNncwUN9I/AAAAAAABlmo/z-elj_ZYA-E3yqiD3vjjcI4X88ESBwjQACLcBGAsYHQ/s270/401-Alisa%2BIlyinichna%2BOmela-God-Eater-2-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yUyjSOXMUeU/X4ddMN9LeUI/AAAAAAAArW0/9guW0hdm2B8uMcFZpvKT2ZVWptJfVLgXwCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ANpGpp3uORk/X4ddML0_NHI/AAAAAAAArWw/ux7GyHr75z49t-krWbzla-r4PmACrmLTwCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ClhlF9rDCKA/X4ddMBkAAAI/AAAAAAAArWs/ZkFXquaQmgw7EAn2MpyU8ODcj1GQOvo1QCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-i1k0E37Xp54/X4ddMeSVjuI/AAAAAAAArW4/C7Ovzz-l-qEYuJqfeWnF22GETEF7uT8CQCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Wv1fDrsKbys/X4ddMibqQMI/AAAAAAAArW8/Zq3J6m_Cwek8DyPfj-AOI74Mr8fQPSeqQCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-DRaVPojlzhQ/X4ddNIUdJhI/AAAAAAAArXA/xYtYjWViR5cNbaLNHDVeD7wHEQ0gStADwCLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-zrkUP_-mRdM/X4ddNe3PliI/AAAAAAAArXE/6uPPDXxGHMMU1b3LIopqEzjdNM7ygfTPACLcBGAsYHQ/s135/401-Alisa-Ilyinichna-Omela-GOD-EATER-GOD-EATER-2-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n401/",
+      "fetched_at": "2026-05-16T19:10:34.507Z",
+      "raw_id": "/nendoroid/details/n401/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.371Z",
+      "raw_id": "Nendoroid/0400-0499/401.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1366",
+  "name": {
+    "en": "Nendoroid Lancer/Cú Chulainn",
+    "ja": "ねんどろいど ランサー/クー・フーリン (ねんどろいど らんさー/くー・ふーりん)",
+    "ko": "랜서 쿠 훌린"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12966,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PiYLXmAoWz4/Yw_WH4g4rJI/AAAAAAAA6YQ/Z1afjh4E2mcee0hovqIEhyMlt1XP2t-ygCNcBGAsYHQ/s270/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PiYLXmAoWz4/Yw_WH4g4rJI/AAAAAAAA6YQ/Z1afjh4E2mcee0hovqIEhyMlt1XP2t-ygCNcBGAsYHQ/s270/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-51lwPOXpVs0/YxEWIvYrieI/AAAAAAAA6dA/ydH8ytu1z8Iq-HTPg72CMFPMmspMX7Q5ACNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CKGK0l3fQpo/YxEWImnL6yI/AAAAAAAA6c4/Obv3J6zpT-E59VAJDGypq5fD0Zg7BIiNACNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6cocQ1Ez-Ck/YxEWIjcSbnI/AAAAAAAA6c8/Q50Hs6oW4xky3CKhW2vVsHdihDpwdH1qACNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2YkeTN4BljI/YxEWJTbHlgI/AAAAAAAA6dE/ZjsGJLj2a9gZSJ-n9R4j8h8357qknb7gACNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ort63zC9Z4c/YxEWJwfl9UI/AAAAAAAA6dI/rjI7Xi2KgZcAUEvXjsDJuwIgFiyGxgTjgCNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XctHa6ylRqU/YxEWKeI0GlI/AAAAAAAA6dM/30hOTy9TS0gEfolugKvO5Lo9Ipz09N6EgCNcBGAsYHQ/s135/1366-Lancer-C%25C3%25BA-Chulainn-Fate-Grand-Order-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1366/",
+      "fetched_at": "2026-05-16T19:10:33.385Z",
+      "raw_id": "/nendoroid/details/n1366/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.649Z",
+      "raw_id": "Nendoroid/1300-1399/1366.json"
+    }
+  ]
+}

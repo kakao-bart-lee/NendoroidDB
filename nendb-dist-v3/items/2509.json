@@ -1,0 +1,63 @@
+{
+  "num": "2509",
+  "name": {
+    "en": "Nana Osaki",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Nana",
+    "ja": null,
+    "ko": null,
+    "code": "nana"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-35eUYg7LP4Y/ZnsoiRRcBCI/AAAAAAABE4c/zWypGP3UZ1UN9p662jWbeiWNoRp_Tx7CACNcBGAsYHQ/s270/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-35eUYg7LP4Y/ZnsoiRRcBCI/AAAAAAABE4c/zWypGP3UZ1UN9p662jWbeiWNoRp_Tx7CACNcBGAsYHQ/s270/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SIn-sbNMQps/Zow8o_MTEBI/AAAAAAABGGI/Suk99R1v1IsoJ91qDhfGq7tAMRJwBpVqQCNcBGAsYHQ/s135/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_AC5kz7dZRk/Zow8o6VpKvI/AAAAAAABGGQ/imHapKr2llM9vLfyZt7fWtR32lrhKALTgCNcBGAsYHQ/s135/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TTB_kC5uupQ/Zow8o9etUtI/AAAAAAABGGM/iPuzaHcNIxw6bEosBU7QPWUvU-XxELknACNcBGAsYHQ/s135/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-J8owusDL1Uc/Zow8pRKKf5I/AAAAAAABGGU/UZwZkzx_3TYCw3g3B-vS0YQJbR9kDYb_gCNcBGAsYHQ/s135/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9Bk1J_kf-Yk/Zow8p_o4Z3I/AAAAAAABGGY/sBT_a5ZzZ0ol0c0L0PE90FvgFl5N0VFqwCNcBGAsYHQ/s135/2509-Nana-Osaki-Nana-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2509/",
+      "fetched_at": "2026-05-16T19:10:34.103Z",
+      "raw_id": "/nendoroid/details/n2509/"
+    }
+  ]
+}

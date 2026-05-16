@@ -1,0 +1,64 @@
+{
+  "num": "0073",
+  "name": {
+    "en": "Nao",
+    "ja": "ねんどろいど ナオ マビノギスタッカートVer. (ねんどろいど なお まびのぎすたっかーとver.)",
+    "ko": "나오 스타카토 Ver."
+  },
+  "series": {
+    "en": "Mabinogi",
+    "ja": "マビノギスタッカート",
+    "ko": "마비노기",
+    "code": "mabinogi"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3374,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tI0YM5G3yhg/X4MSDmHh7hI/AAAAAAAApbE/CPhivAn8teE_c-weTOqFLh4nGRaIxBIDgCLcBGAsYHQ/s270/073-Nao-Staccato-Mabinogi-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tI0YM5G3yhg/X4MSDmHh7hI/AAAAAAAApbE/CPhivAn8teE_c-weTOqFLh4nGRaIxBIDgCLcBGAsYHQ/s270/073-Nao-Staccato-Mabinogi-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6Db3N5-recE/X4Gw3MoHaUI/AAAAAAAApK0/TvREOqvhAnYSyAkLJsAnKk_F0gwQTbKwQCLcBGAsYHQ/s135/073-Nao-Mabinogi-Video-Games-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n073/",
+      "fetched_at": "2026-05-16T19:10:33.110Z",
+      "raw_id": "/nendoroid/details/n073/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.281Z",
+      "raw_id": "Nendoroid/0000-0099/073.json"
+    }
+  ]
+}

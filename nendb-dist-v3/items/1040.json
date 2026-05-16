@@ -1,0 +1,96 @@
+{
+  "num": "1040",
+  "name": {
+    "en": "Nendoroid Sakura Kinomoto: CLEAR Ver.",
+    "ja": "ねんどろいど 木之本桜 CLEAR Ver. (ねんどろいど きのもとさくら くりあ Ver.)",
+    "ko": "키노모토 사쿠라 CLEAR Ver."
+  },
+  "series": {
+    "en": "Cardcaptor Sakura: Clear Card",
+    "ja": "カードキャプターさくら クリアカード編",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura-clear-card"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "NIN",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 110mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約110mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828663985",
+  "gsc_product_id": "5554",
+  "gsc_product_num": 7845,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/5554",
+    "ja": "https://www.goodsmile.com/ja/product/5554"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/5554/6fa46504211ef1ccb523980cc3579c7a.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lM0K6nl_7Mo/X4NfqfM5pOI/AAAAAAABmTo/tflRoGajVVQ4vnRpZ1HeXzruz1kq4ZahACLcBGAsYHQ/s270/1040-Sakura-Kinomoto-Clear-Ver-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O7qio3N9W2Y/X4rr9OndSlI/AAAAAAABogQ/XikqitFScCsflZmxoyQhK2KyQgKmGeZFgCLcBGAsYHQ/s135/1040-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bNraOQ0NHkk/X4rr9SUkksI/AAAAAAABogU/9K-yJmk1AuU-kVfigumqKRN5tsrJ_scbQCLcBGAsYHQ/s135/1040-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-R3ymel7VT6Y/X4rr9wD8TCI/AAAAAAABogY/pWyzWQoYJjkDPQ9GS4CddKB9xZ6dWVFIwCLcBGAsYHQ/s135/1040-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yh8hbTER0GY/X4rr-G_fiAI/AAAAAAABogc/0HZrtGGke84uxQhna-eGrJhNnmIJi3beQCLcBGAsYHQ/s135/1040-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-h53jrymKZq0/X4rr-G1GfTI/AAAAAAABogg/4ybl42V0q_4BT4eZaJICRcF4r_sokGTqgCLcBGAsYHQ/s135/1040-Sakura-Kinomoto-Cardcaptor-Sakura-Clear-Card-Arc-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/5554/74a1ce10f3b35ad39f0a12f7433807db.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/5554/6fa46504211ef1ccb523980cc3579c7a.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5554",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:11:37.474Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/5554",
+      "fetched_at": "2026-05-16T12:11:37.474Z",
+      "raw_id": "5554"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/5554",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "5554"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1040/",
+      "fetched_at": "2026-05-16T19:10:33.166Z",
+      "raw_id": "/nendoroid/details/n1040/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.570Z",
+      "raw_id": "Nendoroid/1000-1099/1040.json"
+    }
+  ]
+}

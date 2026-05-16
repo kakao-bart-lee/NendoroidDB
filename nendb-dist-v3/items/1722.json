@@ -1,0 +1,70 @@
+{
+  "num": "1722",
+  "name": {
+    "en": "Nendoroid Sakura Miko",
+    "ja": "ねんどろいど さくらみこ (ねんどろいど さくらみこ)",
+    "ko": "사쿠라 미코"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11999,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r09zzfDJP64/Ya-zDfqp_II/AAAAAAAA2DA/uQSTZIqglmoEPH1LqE77wldmZCW_AvTwwCNcBGAsYHQ/s270/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r09zzfDJP64/Ya-zDfqp_II/AAAAAAAA2DA/uQSTZIqglmoEPH1LqE77wldmZCW_AvTwwCNcBGAsYHQ/s270/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aMD04vQm-Fw/Ya-1-m6fOxI/AAAAAAAA2GI/WwpM0fobL3c05vaYyXU-TUngVo9SDhJNQCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WrovT5YAD6k/Ya-1-rWg-NI/AAAAAAAA2GM/Pzv08-tuRhkPrU_7N3RX2PZDkjGORz-dQCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i_ZLvTqckyI/Ya-1_CJhLxI/AAAAAAAA2GQ/Aw5QJkgYkRIf_PyTS3WCuwoQb-Sj2hLewCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OnP39TbeH8E/Ya-1_aNvaPI/AAAAAAAA2GU/S4JlIryeseMZvUly2br32hZQbOfJ2164wCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zREwHfiHKP4/Ya-1_Xjj-3I/AAAAAAAA2GY/wjUbMmifFW84HepUbwVWHze3nkJ_Im_TQCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BzC7J_hF6cQ/Ya-1_oTwtHI/AAAAAAAA2Gc/r94TPtHon20yLXC3M2cgo8zjoYHdOM6NACNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ikGtCUIVZa8/Ya-1_jv8UqI/AAAAAAAA2Gg/oN9yVupkitUYcL5hAF-_LalreTd8XqdQwCNcBGAsYHQ/s135/1722-Sakura-Miko-hololive-production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1722/",
+      "fetched_at": "2026-05-16T19:10:33.607Z",
+      "raw_id": "/nendoroid/details/n1722/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.735Z",
+      "raw_id": "Nendoroid/1700-1799/1722.json"
+    }
+  ]
+}

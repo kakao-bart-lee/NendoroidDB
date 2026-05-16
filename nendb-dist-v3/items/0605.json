@@ -1,0 +1,68 @@
+{
+  "num": "0605",
+  "name": {
+    "en": "Nendoroid Kenma Kozume",
+    "ja": "ねんどろいど 孤爪研磨 (ねんどろいど こづめけんま)",
+    "ko": "코즈메 켄마"
+  },
+  "series": {
+    "en": "Haikyu!! Second Season",
+    "ja": "ハイキュー!! セカンドシーズン",
+    "ko": "하이큐!!",
+    "code": "haikyu-second-season"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kmOv5lj_YiA/X4NPm1DrjjI/AAAAAAABl0w/XvKW68b85jc2DL_FGrs1dKXrbp93OOb_QCLcBGAsYHQ/s270/605-Kenma-Kozume-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kmOv5lj_YiA/X4NPm1DrjjI/AAAAAAABl0w/XvKW68b85jc2DL_FGrs1dKXrbp93OOb_QCLcBGAsYHQ/s270/605-Kenma-Kozume-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZxmU5I5TRtQ/X4izg0ma82I/AAAAAAAAsh4/kchwu6A1uq4PQcSQCy6gmg9jyoEmAtElwCLcBGAsYHQ/s135/605-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KBJa-HObQDc/X4izhOSujJI/AAAAAAAAsh8/q17l0vo-q3UcKoojR4TwzDcZxQIGOlPywCLcBGAsYHQ/s135/605-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OjCJV4FE5MU/X4izhenyR3I/AAAAAAAAsiA/SmT0AuSv0To8Vjcy0G4I4EoJRgUv9Kh9ACLcBGAsYHQ/s135/605-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vX3eJ9QhAVE/X4izhrhDAcI/AAAAAAAAsiE/NdJjeCaW0fUGCTOV__4rIjrjKaNFK7t-ACLcBGAsYHQ/s135/605-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xLwbWv1aMe4/X4izhnc1X-I/AAAAAAAAsiI/ZJU82kiR-dYDdfkl4a3KttKlKlBxoIhKQCLcBGAsYHQ/s135/605-Kenma-Kozume-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n605/",
+      "fetched_at": "2026-05-16T19:10:34.686Z",
+      "raw_id": "/nendoroid/details/n605/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.460Z",
+      "raw_id": "Nendoroid/0600-0699/605.json"
+    }
+  ]
+}

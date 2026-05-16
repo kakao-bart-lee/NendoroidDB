@@ -1,0 +1,67 @@
+{
+  "num": "0205",
+  "name": {
+    "en": "Nendoroid Charlotte E. Yeager (ねんどろいど しゃーろっと・E・いぇーがー)",
+    "ja": "ねんどろいど シャーロット・E・イェーガー (ねんどろいど しゃーろっと・E・いぇーがー)",
+    "ko": "샬롯 E. 예거"
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3327,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vihM02RRdgQ/X4NLFHCPP0I/AAAAAAABlVk/ZFyUm2qqAVUW3K8FReeRBfIOFcblKCEDACLcBGAsYHQ/s270/205-Charlotte-E-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vihM02RRdgQ/X4NLFHCPP0I/AAAAAAABlVk/ZFyUm2qqAVUW3K8FReeRBfIOFcblKCEDACLcBGAsYHQ/s270/205-Charlotte-E-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ltEzVjdJvi4/X4dWzEHKu4I/AAAAAAAAqTw/Qb8r35h45P4Gbt312qGpZaFAR6cQzXm-ACLcBGAsYHQ/s135/205-Charlotte-E.-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Kvm-tRQniWI/X4dWzqMlZUI/AAAAAAAAqT0/9AgDkmCyECYQa1t5jl8QU3k1SDQSuOMqwCLcBGAsYHQ/s135/205-Charlotte-E.-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HgyG0thUILI/X4dWzgiwmXI/AAAAAAAAqT4/TzgbBNFMd1wRFpLAtiYja8Pdk_5wjwXiQCLcBGAsYHQ/s135/205-Charlotte-E.-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TjyFbdhkGsw/X4dW0Bfab1I/AAAAAAAAqT8/B0AF8fsZ1AkS48FXEAXe7LZ9aHmEC1amwCLcBGAsYHQ/s135/205-Charlotte-E.-Yeager-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n205/",
+      "fetched_at": "2026-05-16T19:10:33.814Z",
+      "raw_id": "/nendoroid/details/n205/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.319Z",
+      "raw_id": "Nendoroid/0200-0299/205.json"
+    }
+  ]
+}

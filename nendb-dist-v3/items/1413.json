@@ -1,0 +1,69 @@
+{
+  "num": "1413",
+  "name": {
+    "en": "Nendoroid Takagi-san",
+    "ja": "ねんどろいど 高木さん (ねんどろいど たかぎさん)",
+    "ko": "타카기 양"
+  },
+  "series": {
+    "en": "Karakai Jozu No Takagi-san 2",
+    "ja": "からかい上手の高木さん2",
+    "ko": "장난을 잘 치는 타카기 양",
+    "code": "karakai-jozu-no-takagi-san-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6380,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9796,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jlt9Md00YkA/X4NkcKnaKII/AAAAAAABm5M/NFEwtDub1bAxtZ0TsQsicEN_LrVH2i56gCLcBGAsYHQ/s270/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jlt9Md00YkA/X4NkcKnaKII/AAAAAAABm5M/NFEwtDub1bAxtZ0TsQsicEN_LrVH2i56gCLcBGAsYHQ/s270/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zzu5Cm_0KkU/X4tAHZm1gTI/AAAAAAABqxM/3clxNI0XyKsgenRXaG4ofZ433NpxZYctwCLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uk0rmNGPv6M/X4tAHw2Z39I/AAAAAAABqxQ/vKxDnudf_y8ArM6jvCqlEc_XXUciMmanACLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tHInsN97BsQ/X4tAIEwtZnI/AAAAAAABqxU/SVa4J2pTGkoHdfqI998Fm-YnJLgrg6zfgCLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WMWl2XgYhUk/X4tAIbtgfQI/AAAAAAABqxY/tV-pH7s1VVc6Ur3sCKTW5wq_TmuNTXjDwCLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JPSsNZ72Np0/X4tAIuuDo1I/AAAAAAABqxc/xCT9Hka0GBUJ7jojwN-dUXSi0XICyWFVACLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uUbBGNSbha4/X4tAI5TMS8I/AAAAAAABqxg/vGsYQQT6iCA4VsHbVfv7_3MFZ96DBX1hwCLcBGAsYHQ/s135/1413-Takagi-san-Karakai-Jozu-No-Takagi-san-2-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1413/",
+      "fetched_at": "2026-05-16T19:10:33.415Z",
+      "raw_id": "/nendoroid/details/n1413/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.659Z",
+      "raw_id": "Nendoroid/1400-1499/1413.json"
+    }
+  ]
+}

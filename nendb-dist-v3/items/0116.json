@@ -1,0 +1,64 @@
+{
+  "num": "0116",
+  "name": {
+    "en": "Yoshika Miyafuji",
+    "ja": "ねんどろいど 宮藤芳佳 扶桑皇国海軍水練装備仕様 (ねんどろいど みやふじよしか ふそうこうこくかいぐんすいれんそうびしよう)",
+    "ko": "미야후지 요시카 황국 해군수련장비 Ver."
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ 白銀の翼",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 12078,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3377,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YmWUuVekjUY/X4NJwkKTJNI/AAAAAAABlO0/IPT8QPdZHP8Sl3vBxzsBmRkJ_KL39_q6ACLcBGAsYHQ/s270/116-Yoshika%2BMiyafuji-Sukumizu-Strike%2BWitches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YmWUuVekjUY/X4NJwkKTJNI/AAAAAAABlO0/IPT8QPdZHP8Sl3vBxzsBmRkJ_KL39_q6ACLcBGAsYHQ/s270/116-Yoshika%2BMiyafuji-Sukumizu-Strike%2BWitches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AcjgHGf5LvQ/X4dSOTFiuFI/AAAAAAAApyQ/xN9BF_GPi6YBWDolR85huP7ZB0ne-BcjgCLcBGAsYHQ/s135/116-Yoshika-Miyafuji-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n116/",
+      "fetched_at": "2026-05-16T19:10:33.264Z",
+      "raw_id": "/nendoroid/details/n116/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.292Z",
+      "raw_id": "Nendoroid/0100-0199/116.json"
+    }
+  ]
+}

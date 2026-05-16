@@ -1,0 +1,68 @@
+{
+  "num": "1795",
+  "name": {
+    "en": "Nendoroid Venti",
+    "ja": "ねんどろいど ウェンティ (ねんどろいど うぇんてぃ)",
+    "ko": "벤티"
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": "原神",
+    "ko": "원신",
+    "code": "genshin-impact"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6005,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12387,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--1-_BeJ5t5E/YliMfRSCG6I/AAAAAAAA5Kw/H0Wrj4nNFIsIbT5oezyhY8ANJJu5UBo-gCNcBGAsYHQ/s270/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--1-_BeJ5t5E/YliMfRSCG6I/AAAAAAAA5Kw/H0Wrj4nNFIsIbT5oezyhY8ANJJu5UBo-gCNcBGAsYHQ/s270/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BviFRnfNWMM/YliU4ogUlrI/AAAAAAAA5OE/Jehb0wOsRJMUAj5X2r0N8dIpA8ft_XczwCNcBGAsYHQ/s135/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vKzSIPFeMAc/YliU48Oi8_I/AAAAAAAA5OI/RQDDvsLUzb4iZgyIB1_DZ3-SIAQon_QHACNcBGAsYHQ/s135/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PsO5rVsmQNk/YliU5Cod85I/AAAAAAAA5OM/nkR3QUFiUgkt9aoSdzN3YKHIDHkckWq4gCNcBGAsYHQ/s135/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vc1Llxxoqus/YliU5jX6vXI/AAAAAAAA5OQ/E_pNKuiVCRMutxq8JZMCkIUTAZB76GQsgCNcBGAsYHQ/s135/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yr94LIiPwso/YliU5sfoTwI/AAAAAAAA5OU/moSSVXb-118I8kpvAW5cgIBQaYn4wNdyQCNcBGAsYHQ/s135/1795-Venti-Genshin-Impact-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1795/",
+      "fetched_at": "2026-05-16T19:10:33.652Z",
+      "raw_id": "/nendoroid/details/n1795/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.752Z",
+      "raw_id": "Nendoroid/1700-1799/1795.json"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "num": "2477b",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Racing Miku",
+    "ja": null,
+    "ko": null,
+    "code": "racing-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLnZgedX97buuMDK3myLZii5Vq_hkvkXHffwg_bHuUqbiyAkFOwdghyc5Xg6Yfn8fDWq9QdUWNgEyILVUvWGfoeCCkce_l3_uaMQsA6mo3ib2xUYnxI_cdbIEFxjv-EkpLwmln8ICgnHDuorsoSVaUEAaW7493tURteCTKQ_Vk5CFr4O0z2jk4LvpRU0_S/s270/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLnZgedX97buuMDK3myLZii5Vq_hkvkXHffwg_bHuUqbiyAkFOwdghyc5Xg6Yfn8fDWq9QdUWNgEyILVUvWGfoeCCkce_l3_uaMQsA6mo3ib2xUYnxI_cdbIEFxjv-EkpLwmln8ICgnHDuorsoSVaUEAaW7493tURteCTKQ_Vk5CFr4O0z2jk4LvpRU0_S/s270/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE0todx_kySRBkZWXcjAgzBXxur-3ZvgOv62bezPP_xA8a7xXtZPBUwh8IyhUJY5x194BQdQ6pKodxGRFtJOdrd0lWGJjHXHKIfK3QalPXtQGQy1lcv-RnWRJfrE0Mpssb19v41D1SDuq_mOKbjGeJGNL18-SmZfITxfleTEjwpvlnj1fz5JN3ThykHqiu/s135/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_QLSTZqhvBhBfOvdVqKhrQ1Cg-Zr5r4MGDwq0Jl56ADioWv-kOg_0_Q8bWi2SFtvQzE6ucQ6hsrMkuY1yu2Ge-BHOXMA0fYAS4YaE1DPLcyVQU8etL5WOS7SgtGb16j382EbdMNlNdJuSoQ2-NytaUyv0snRWDVpmMjOUzmrvbVe8fZznsLidOTdfoyw/s135/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh8pLFNmwilM4fkYD4emv06rlZQWUKryF_K7Uh99obxNNB3kzVgaj8VbMcPP1ydVMTmJbNwBgFNReZ4aC3j6GkY-ME8pN1FoK44vZbaGlb8-zdHAyZ4N-Sf-VbeVoIQnU-HBRWqCawyJ9u1IvhEyVuMM3C9u2zTznzTACDTobd-MeU6iV2E8Ol3hBhnxq8/s135/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX89oqtU-wtVxyPa8qulcSlrueciDR9VF4toCIR3iM0dQRPVUkOGERxxRBCLUov-64QfaQSnwd4-Xsm-kffBVX67BentdMjOwZDPeAVGf-xZbcnKI3TP9ha7562_hFGp6BSm9EommuCCYqO2ZBg9ubX0Bvz2L4PFIG60F_DqMPq5UuRcnIQgzLjfyrytUv/s135/2477-b-Hatsune-Miku-Racing-Miku-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2477b/",
+      "fetched_at": "2026-05-16T19:10:34.084Z",
+      "raw_id": "/nendoroid/details/n2477b/"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "2303",
+  "name": {
+    "en": "Stuart",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Minions",
+    "ja": null,
+    "ko": null,
+    "code": "minions"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KKydjmwToCY/Ziq-q4lw_mI/AAAAAAABD-0/W9TevFw0MuQWCC--GmvdALCk6JZmczfAwCNcBGAsYHQ/s270/2303-Stuart-Minions-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KKydjmwToCY/Ziq-q4lw_mI/AAAAAAABD-0/W9TevFw0MuQWCC--GmvdALCk6JZmczfAwCNcBGAsYHQ/s270/2303-Stuart-Minions-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gj2Fddyb8wc/ZowzKjb-0kI/AAAAAAABFIM/59JX9T-WKMoMbQnA6ixJnOXAWTmmteXTACNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-47GGGsYHmIc/ZowzLOS-eRI/AAAAAAABFIQ/mIqhbWXm3O0Pa4Pzd-uYCcPn7N6WZPwsgCNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hK6Q6HMNmG4/ZowzLTfIHpI/AAAAAAABFIY/9Z3_2Nk6S0ECwvGCiPb7V40ciJdxpDX-ACNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LeyNuq_kX9U/ZowzLQQHCQI/AAAAAAABFIU/1HXfTUzyh7gmRWjVzk-3JRkgadf7p_ewACNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XHZRihd_ya8/ZowzME8828I/AAAAAAABFIc/1T36RjLSPcI0ClYT0huBmqPmucwY9hzHgCNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Oj5QxR22Im0/ZowzMI7SEII/AAAAAAABFIg/lASYG1lbWCUzAmdcotNtxQeV1hgBktEtACNcBGAsYHQ/s135/2303-Stuart-Minions-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2303/",
+      "fetched_at": "2026-05-16T19:10:33.975Z",
+      "raw_id": "/nendoroid/details/n2303/"
+    }
+  ]
+}

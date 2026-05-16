@@ -1,0 +1,67 @@
+{
+  "num": "0069",
+  "name": {
+    "en": "Nendoroid Zange-chan (ざんげちゃん ねんどろいど)",
+    "ja": "ねんどろいど ざんげちゃん (ざんげちゃん ねんどろいど)",
+    "ko": "참회쨩"
+  },
+  "series": {
+    "en": "Kannagi",
+    "ja": "かんなぎ",
+    "ko": "칸나기",
+    "code": "kannagi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2388,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-b1-Xlkco_XQ/X4MSDKxoHnI/AAAAAAAApa0/HtcObX6GsjcPZSr4U8lrm_bdehyZeuxtgCLcBGAsYHQ/s270/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-b1-Xlkco_XQ/X4MSDKxoHnI/AAAAAAAApa0/HtcObX6GsjcPZSr4U8lrm_bdehyZeuxtgCLcBGAsYHQ/s270/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ma9Btm3dl0I/X4GwyZucz2I/AAAAAAAApJ0/KVmFNYSzx2YVe2YFZSXGpfxBrGSLME80QCLcBGAsYHQ/s135/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-uLrW7fvGN4I/X4GwyrlNSQI/AAAAAAAApJ4/GsEYgqoa9G8aB1JBGa-t-dGbN5cD52-BQCLcBGAsYHQ/s135/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WjZmY964X4A/X4Gwy8SsBoI/AAAAAAAApJ8/OGFr616yTLYp8IsFm7cA4gRIX2lbxyiOwCLcBGAsYHQ/s135/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e4iBF0SnjZ8/X4GwzNxSmLI/AAAAAAAApKA/wpza7XWTRFU_u-UhlJuIP1I8MCJf68TrwCLcBGAsYHQ/s135/069-Zange-Chan-Kannagi-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n069/",
+      "fetched_at": "2026-05-16T19:10:33.108Z",
+      "raw_id": "/nendoroid/details/n069/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.280Z",
+      "raw_id": "Nendoroid/0000-0099/069.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0528b",
+  "name": {
+    "en": "Nendoroid Shoyo Hinata: Jersey Ver.",
+    "ja": "ねんどろいど 日向翔陽 ジャージVer. (ねんどろいど ひなたしょうよう じゃーじVer.)",
+    "ko": "히나타 쇼요 츄리닝 Ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-t2ls80BaVZY/X4NOblzC61I/AAAAAAABlvI/qKOQDPZvMDQ-j9N4uAb_NAPPRkRA5pECgCLcBGAsYHQ/s270/528B-Shoyo-Hinata-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-t2ls80BaVZY/X4NOblzC61I/AAAAAAABlvI/qKOQDPZvMDQ-j9N4uAb_NAPPRkRA5pECgCLcBGAsYHQ/s270/528B-Shoyo-Hinata-Jersey-Vers-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-V-z4HzvOcQk/X4isPmakryI/AAAAAAAAsEE/qiZgslCHSecOFKOH_RlKWKPkucqNHtAIwCLcBGAsYHQ/s135/528B-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SUViHVhHE1Q/X4isPmXCu3I/AAAAAAAAsEI/ybgwF1lF4uwA6LosZcYLVtdQFizMC6g-gCLcBGAsYHQ/s135/528B-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tqlGyMSgAQI/X4isP2cMqmI/AAAAAAAAsEM/IeOOm9SgQUg-bcBKX-pLw4Jh85hsqgRwgCLcBGAsYHQ/s135/528B-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VqHt7GS3Kj4/X4isQA_SP6I/AAAAAAAAsEQ/tkF7FonMRqYxk0TqcUYD6VdXVzjHvIGHgCLcBGAsYHQ/s135/528B-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JQ2SzPl0muQ/X4isQHFtorI/AAAAAAAAsEU/6ZGtWqKq2xcaHJ_oCZxcu_0gydJSJbKJQCLcBGAsYHQ/s135/528B-Shoyo-Hinata-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n528b/",
+      "fetched_at": "2026-05-16T19:10:34.580Z",
+      "raw_id": "/nendoroid/details/n528b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.428Z",
+      "raw_id": "Nendoroid/0500-0599/528b.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1169",
+  "name": {
+    "en": "Nendoroid Accelerator",
+    "ja": "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
+    "ko": "액셀러레이터"
+  },
+  "series": {
+    "en": "A Certain Scientific Accelerator",
+    "ja": "とある科学の一方通行",
+    "ko": "어떤 과학의 일방통행",
+    "code": "a-certain-scientific-accelerator"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8556,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XqfprjbakjQ/X4NgpWJjyZI/AAAAAAABmdE/qMrs291YAKAE8S4gruOP_DeWJhkiYdZVgCLcBGAsYHQ/s270/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XqfprjbakjQ/X4NgpWJjyZI/AAAAAAABmdE/qMrs291YAKAE8S4gruOP_DeWJhkiYdZVgCLcBGAsYHQ/s270/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1Z9qGpGiIhc/X4rxJfJHmzI/AAAAAAABpV4/9UIAetCJ1m0BBR0imfPjozKYaCzj_SyFgCLcBGAsYHQ/s135/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8mxijVmnIWM/X4rxJhxLsfI/AAAAAAABpV8/oI0dr_XNH5YfYCTHtKFiwqp_K6dXe9kkACLcBGAsYHQ/s135/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-37msssMfC_g/X4rxJxon53I/AAAAAAABpWA/rWw97w6FC-s9NXmA5saheSjYCPCXAZu0ACLcBGAsYHQ/s135/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GJ-wA_v6fHo/X4rxKHjvhgI/AAAAAAABpWE/7n-FJjgcDu85g7Xm1ZUZjvY2eoQRD6kDgCLcBGAsYHQ/s135/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Z_HF9vCSy3M/X4rxKRYoPtI/AAAAAAABpWI/lxY1PI5WIVovKopchNHfCk_jEPAB-ohHACLcBGAsYHQ/s135/1169-Accelerator-A-Certain-Scientific-Accelerator-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1169/",
+      "fetched_at": "2026-05-16T19:10:33.263Z",
+      "raw_id": "/nendoroid/details/n1169/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.601Z",
+      "raw_id": "Nendoroid/1100-1199/1169.json"
+    }
+  ]
+}

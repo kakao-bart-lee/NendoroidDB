@@ -1,0 +1,55 @@
+{
+  "num": "10423",
+  "name": {
+    "en": "Nendoroid Doll: Animal Hand Parts Set (White)",
+    "ja": "ねんどろいどどーる アニマルハンドパーツセット（しろ） (ねんどろいどどーる あにまるはんどぱーつせっと（しろ）)",
+    "ko": "동물 손 파츠 세트(화이트)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 880,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10423,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201124/10423/77681/large/fcbaf33664ce936bd2e9b01cd39e0008.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.946Z",
+      "raw_id": "NendoroidDoll/Customizing/10423.json"
+    }
+  ]
+}

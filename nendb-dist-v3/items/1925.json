@@ -1,0 +1,69 @@
+{
+  "num": "1925",
+  "name": {
+    "en": "Nendoroid Colossal Titan Renewal Set",
+    "ja": "ねんどろいど 超大型巨人 リニューアルセット (ねんどろいど ちょうおおがたきょじん りにゅーあるせっと)",
+    "ko": "초대형 거인 리뉴얼 세트"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12976,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0NDwgFV8xTc/Yw_WXwYtugI/AAAAAAAA6bA/NOUKsHvnF44tl5lrWejqR-YuksyLRJ3cQCNcBGAsYHQ/s270/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0NDwgFV8xTc/Yw_WXwYtugI/AAAAAAAA6bA/NOUKsHvnF44tl5lrWejqR-YuksyLRJ3cQCNcBGAsYHQ/s270/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8QkDudJ9i70/YxEX6wg6yVI/AAAAAAAA6tA/Lu19ovlXF4Q9v0Pom0tJm3clLmZ6G1OJACNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5IHGCpvvNBQ/YxEX7egX_RI/AAAAAAAA6tE/be3wF6uiTx8wmkZRhPMwqokmVQXk9U1SACNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pgX_0EwjRAg/YxEX76p1cuI/AAAAAAAA6tI/Wy-zCUUx994hDnAnG-clfpRqr5Er7-kJQCNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lL-wf3C7WYU/YxEX8Tn7YdI/AAAAAAAA6tM/HkjagpiMneg9IRlOcZ-MulBHiuzk-8D9ACNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RSTVgUzX9Uo/YxEX87Y0dDI/AAAAAAAA6tQ/fKf-O8ZDwKIthnQAboevvJag0cRzRMrvwCNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0DG5aOhlby4/YxEX9QVjJ7I/AAAAAAAA6tU/FCXwK77eiCwWBNktant_zslp5jmI_CvzgCNcBGAsYHQ/s135/1925-Colossal-Giant-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1925/",
+      "fetched_at": "2026-05-16T19:10:33.734Z",
+      "raw_id": "/nendoroid/details/n1925/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.783Z",
+      "raw_id": "Nendoroid/1900-1999/1925.json"
+    }
+  ]
+}

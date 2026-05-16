@@ -1,0 +1,67 @@
+{
+  "num": "0374",
+  "name": {
+    "en": "Nendoroid Matoba Marina (ねんどろいど まとばまりな)",
+    "ja": "ねんどろいど 的場まりな (ねんどろいど まとばまりな)",
+    "ko": "마토바 마리나"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4070,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4082,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-afan3zOrDs8/X4NM_OEI6nI/AAAAAAABlkI/8mxd0iRKcn4KVPWjFdYbdg4K-TRl0YeTACLcBGAsYHQ/s270/374-Matoba-Marina-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-afan3zOrDs8/X4NM_OEI6nI/AAAAAAABlkI/8mxd0iRKcn4KVPWjFdYbdg4K-TRl0YeTACLcBGAsYHQ/s270/374-Matoba-Marina-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7gbrkyeWiDU/X4dbSHkp0kI/AAAAAAAArLc/-fSrpAj7zSM_6hEbdCOmuUwvuluJ52YqgCLcBGAsYHQ/s135/374-Matoba-Marina-Tetsudou-Musume-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yGcgpCbRXNc/X4dbSAV-LGI/AAAAAAAArLg/_bCjaRXiW0Yqo_NjmMnJ85tRH4nMyX9NwCLcBGAsYHQ/s135/374-Matoba-Marina-Tetsudou-Musume-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-p4n-i9Il6vw/X4dbSThTKhI/AAAAAAAArLk/aDP-qydO354LHe-C8kHdO3oqufWi822wQCLcBGAsYHQ/s135/374-Matoba-Marina-Tetsudou-Musume-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-L2OigwY1bKk/X4dbSnIQ3iI/AAAAAAAArLo/YT5Kjs9HayEtq-Jv7jECS_up1Cj13_WHQCLcBGAsYHQ/s135/374-Matoba-Marina-Tetsudou-Musume-Video-Game-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n374/",
+      "fetched_at": "2026-05-16T19:10:34.491Z",
+      "raw_id": "/nendoroid/details/n374/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.364Z",
+      "raw_id": "Nendoroid/0300-0399/374.json"
+    }
+  ]
+}

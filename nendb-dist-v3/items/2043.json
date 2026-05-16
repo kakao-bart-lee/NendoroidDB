@@ -1,0 +1,69 @@
+{
+  "num": "2043",
+  "name": {
+    "en": "Nendoroid Ciel",
+    "ja": "ねんどろいど シエル (ねんどろいど しえる)",
+    "ko": "시엘"
+  },
+  "series": {
+    "en": "TSUKIHIME -A piece of blue glass moon-",
+    "ja": "月姫 -A piece of blue glass moon-",
+    "ko": "월희 -어 피스 오브 블루 글래스 문-",
+    "code": "tsukihime-a-piece-of-blue-glass-moon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13773,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X4j1RGQKVEg/Y9mJ-gstMQI/AAAAAAAA8e0/Q-Pyf2yQVIoHpJpoZrr_Ly-kH6K_m9NvQCNcBGAsYHQ/s270/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X4j1RGQKVEg/Y9mJ-gstMQI/AAAAAAAA8e0/Q-Pyf2yQVIoHpJpoZrr_Ly-kH6K_m9NvQCNcBGAsYHQ/s270/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3qVDFFkl1H8/Y9mPEpeqCgI/AAAAAAAA8mE/za8lPGwaI6432TvYEv8eBg628Ob9yRnHwCNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-c9fDoSev9AE/Y9mPEsa4IRI/AAAAAAAA8mI/fTPASQTkLPAtVwmGfiOQeVYZEh-0-YQigCNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EFVWcedWrI4/Y9mPE9GbwUI/AAAAAAAA8mM/smaLseHSgp0uUDtTszSGKIjqpt8UxkXoACNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mHjS5fjv944/Y9mPFSYu7jI/AAAAAAAA8mQ/vLYlPSuZf4U1uatyc65njPomhhEnVMRxgCNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5y1U9uFm8eE/Y9mPFgBQQwI/AAAAAAAA8mU/udSgvd7Jw4w2wOse_Fj54DDRrR1-jZtrgCNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zvl-9DFQNhg/Y9mPFlokqmI/AAAAAAAA8mY/lN0_0XvLAlwGMnOsdEWrSy-aaveWSwZNACNcBGAsYHQ/s135/2043-Ciel-TSUKIHIME-A-piece-of-blue-glass-moon-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2043/",
+      "fetched_at": "2026-05-16T19:10:33.805Z",
+      "raw_id": "/nendoroid/details/n2043/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.813Z",
+      "raw_id": "Nendoroid/2000-2099/2043.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "9526",
+  "name": {
+    "en": "Nendoroid Doll archetype: Woman (Cinnamon)",
+    "ja": "ねんどろいどどーる archetype：Woman（cinnamon） (ねんどろいどどーる あーきたいぷ：うーまん（しなもん）)",
+    "ko": "여성(시나몬)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2037,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9526,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200520/9526/73080/large/84cb4c4033ae5a36c869b232c61bd44e.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.911Z",
+      "raw_id": "NendoroidDoll/Body/9526.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "1426",
+  "name": {
+    "en": "Nendoroid Star-Lord: Endgame Ver.",
+    "ja": "ねんどろいど スター・ロード エンドゲーム Ver. (ねんどろいど すたー・ろーど えんどげーむ Ver.)",
+    "ko": "스타로드 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9831,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SzHC7Ilv_A4/X4NkfwSihuI/AAAAAAABm6I/Hb2aqKGndYwE6WVNy5kNGl904shp_WKGQCLcBGAsYHQ/s270/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SzHC7Ilv_A4/X4NkfwSihuI/AAAAAAABm6I/Hb2aqKGndYwE6WVNy5kNGl904shp_WKGQCLcBGAsYHQ/s270/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DBg5kfkrTUA/X4tAcmABtEI/AAAAAAABq2Y/WVQW4iO23ncgfUk-cXSzqBfTztlODnwlwCLcBGAsYHQ/s135/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DzcQH5th3lc/X4tAc0r15rI/AAAAAAABq2c/CiXSg6aZ-gMYP0G1EDeJJfd_W6bmA9doQCLcBGAsYHQ/s135/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4tYnqICUP0k/X4tAdG4j2RI/AAAAAAABq2g/5AgRxKKYYUMIFIYyF-__Qonq7gCQjON7gCLcBGAsYHQ/s135/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5a4uFetWoLA/X4tAdaa3FfI/AAAAAAABq2k/twLX9YpPCOcmj_ipRpt83uGvOXmTDYr_gCLcBGAsYHQ/s135/1426-Star-Lord-Avengers-Endgame-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1426/",
+      "fetched_at": "2026-05-16T19:10:33.423Z",
+      "raw_id": "/nendoroid/details/n1426/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.663Z",
+      "raw_id": "Nendoroid/1400-1499/1426.json"
+    }
+  ]
+}

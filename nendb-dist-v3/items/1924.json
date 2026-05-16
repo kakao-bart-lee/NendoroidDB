@@ -1,0 +1,69 @@
+{
+  "num": "1924",
+  "name": {
+    "en": "Nendoroid Lucy Heartfilia",
+    "ja": "ねんどろいど ルーシィ・ハートフィリア (ねんどろいど るーしぃ・はーとふぃりあ)",
+    "ko": "루시 하트필리아"
+  },
+  "series": {
+    "en": "Fairy Tail Final Season",
+    "ja": "「FAIRY TAIL」ファイナルシリーズ",
+    "ko": "페어리 테일 파이널 시즌",
+    "code": "fairy-tail-final-season"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13003,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--kI_bBypC6k/Yw_WXZqXmPI/AAAAAAAA6a8/B7vjCy0lPjUZiBhqttyhbl9kTBvaxDmhwCNcBGAsYHQ/s270/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--kI_bBypC6k/Yw_WXZqXmPI/AAAAAAAA6a8/B7vjCy0lPjUZiBhqttyhbl9kTBvaxDmhwCNcBGAsYHQ/s270/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-elx6bIZWg9w/YxEX31aPndI/AAAAAAAA6so/2JlcD7NjdlApGAWgeNS040_IxDcpIz6AwCNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jjCFj2U_QGU/YxEX4R_bRXI/AAAAAAAA6ss/Y5Xu7_qKimcLlyKJV4q51_YU4U7_5eqOACNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zuslUXwhdTU/YxEX41-qxfI/AAAAAAAA6sw/ISfMHo-7_QwhSEP4mhSSZTAyhsRwXNtxACNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-c53oc6ciQ9E/YxEX5ewIBKI/AAAAAAAA6s0/HfbgEijL9IcjpssRStSr94RCYcNlksqFACNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_abCEpR1Fi0/YxEX5w8PWMI/AAAAAAAA6s4/2Ls8fR7s3FIAf_JjRd0lm7nYuR841c3PACNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-YchYZ-hgesg/YxEX6XHmlvI/AAAAAAAA6s8/RGEKKIdd77o2Z7ntkbHq8fagzVOHpzHpQCNcBGAsYHQ/s135/1924-Lucy-Heartfilia-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1924/",
+      "fetched_at": "2026-05-16T19:10:33.733Z",
+      "raw_id": "/nendoroid/details/n1924/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.783Z",
+      "raw_id": "Nendoroid/1900-1999/1924.json"
+    }
+  ]
+}

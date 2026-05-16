@@ -1,0 +1,68 @@
+{
+  "num": "2192",
+  "name": {
+    "en": "Nendoroid Fina",
+    "ja": "ねんどろいど フィナ (ねんどろいど ふぃな)",
+    "ko": "피나"
+  },
+  "series": {
+    "en": "Kuma Kuma Kuma Bear Punch!",
+    "ja": "くまクマ熊ベアーぱーんち！",
+    "ko": "곰 곰 곰 베어 펀치!",
+    "code": "kuma-kuma-kuma-bear-punch"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14501,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xhIjacJSIiQ/ZKXXR60KZcI/AAAAAAAA-k4/v3uYku7cbyQufBkjSo2m58ReYnEt33jxgCNcBGAsYHQ/s270/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xhIjacJSIiQ/ZKXXR60KZcI/AAAAAAAA-k4/v3uYku7cbyQufBkjSo2m58ReYnEt33jxgCNcBGAsYHQ/s270/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_yZuBfRDvaM/ZKXmq2Q0qDI/AAAAAAAA_DY/EkCZg9udQt4IGH-t04ewKe0RDLQTn_zUgCNcBGAsYHQ/s135/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J91r2SGHb88/ZKXmrkiJwfI/AAAAAAAA_Dc/WFUEXqNBF1Q5jN4N8rvV_Y2rdOD5f7O7gCNcBGAsYHQ/s135/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KZtNYwae8VQ/ZKXmsHpey9I/AAAAAAAA_Dg/jONUPzgQISkR3XrviLYiwcayHKwZEGCsQCNcBGAsYHQ/s135/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-q84HkUD85uo/ZKXmsZD8aQI/AAAAAAAA_Dk/Vp9gB0fiQMcStE7P-_QSCeapvCtkzi9iwCNcBGAsYHQ/s135/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jdqUMlsuuf4/ZKXmsgL_F_I/AAAAAAAA_Do/G8hU9nddGY4AAZ9uMvVPg0nQd5RptEOrQCNcBGAsYHQ/s135/2192-Fina-Kuma-Kuma-Kuma-Bear-Punch-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2192/",
+      "fetched_at": "2026-05-16T19:10:33.894Z",
+      "raw_id": "/nendoroid/details/n2192/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.851Z",
+      "raw_id": "Nendoroid/2100-2199/2192.json"
+    }
+  ]
+}

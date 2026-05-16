@@ -1,0 +1,69 @@
+{
+  "num": "0462",
+  "name": {
+    "en": "Nendoroid Erica Fontaine & Koubu-F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)",
+    "ja": "ねんどろいど エリカ・フォンティーヌ＆光武F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)",
+    "ko": "에리카 폰티느"
+  },
+  "series": {
+    "en": "Sakura Wars 3",
+    "ja": "サクラ大戦３",
+    "ko": "사쿠라 대전",
+    "code": "sakura-wars-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6926,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4653,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OgMSwkJ6Qsw/X4NN3KLp6AI/AAAAAAABlqc/d7wG8YQwCgwc1B5Vm-MKwUqHDuMTL2ZUwCLcBGAsYHQ/s270/462-Erica%2BFontaine%2B%2526%2BKoubu-F2-Sakura%2BWars%2B3-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OgMSwkJ6Qsw/X4NN3KLp6AI/AAAAAAABlqc/d7wG8YQwCgwc1B5Vm-MKwUqHDuMTL2ZUwCLcBGAsYHQ/s270/462-Erica%2BFontaine%2B%2526%2BKoubu-F2-Sakura%2BWars%2B3-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-W9TXLvf8hlY/X4depR_oHlI/AAAAAAAArqM/arzEEwtM1DcmJnPJkIiLeRoC0bVWG4nVACLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t_gJCR0aax8/X4depnE9FwI/AAAAAAAArqQ/waqYqgy3BVEmHBknQ1kFmlpEa00Am7BqACLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ByX0ppCBWTE/X4depyQOw6I/AAAAAAAArqU/DFceXuLlIIofaeeyEQXsQRagS6Ed2pshACLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WxMngz948IA/X4deqFsV0NI/AAAAAAAArqY/Zc3PBP_CwR8jIj6fJB63EFmgh90JJx5BgCLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3BMcaBj6HAE/X4deqfgApWI/AAAAAAAArqc/KNRrh2NqLDE2EYO8GKGa_OGeGYTKpY7IACLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6mVmQzBSf_E/X4deqsBkGiI/AAAAAAAArqg/9DYp6FkXTHcJ2PeSzgWlFRJBgNhrOVt3wCLcBGAsYHQ/s135/462-Erica-Fontaine-and-Koubu-F2-Sakura-Wars-Sakura-Wars-3-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n462/",
+      "fetched_at": "2026-05-16T19:10:34.543Z",
+      "raw_id": "/nendoroid/details/n462/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.385Z",
+      "raw_id": "Nendoroid/0400-0499/462.json"
+    }
+  ]
+}

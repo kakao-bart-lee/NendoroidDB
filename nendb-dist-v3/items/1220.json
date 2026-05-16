@@ -1,0 +1,68 @@
+{
+  "num": "1220",
+  "name": {
+    "en": "Nendoroid Archer/Gilgamesh: Third Ascension Ver.",
+    "ja": "ねんどろいど アーチャー/ギルガメッシュ 第三再臨Ver. (ねんどろいど あーちゃー/ぎるがめっしゅ だいさんさいりんVer.)",
+    "ko": "아처/길가메시 제3 재림 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8871,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4oKOgmewvI0/X4NiKKFXbXI/AAAAAAABmn4/5j7-jJmjsiMp9xRE-EpE2cc2C8seU1cUACLcBGAsYHQ/s270/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4oKOgmewvI0/X4NiKKFXbXI/AAAAAAABmn4/5j7-jJmjsiMp9xRE-EpE2cc2C8seU1cUACLcBGAsYHQ/s270/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NfhRfOJVAL4/X4rzVd4OGRI/AAAAAAABps0/01eNlRcTfDAZAjtQ3MRz61mc98ievYsEwCLcBGAsYHQ/s135/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J7QCBQ96LxE/X4rzV3DFnLI/AAAAAAABps4/tL9H49kZEzc1y8wwJ3RXJFCaQUPfDcGKQCLcBGAsYHQ/s135/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bgtQmbTjf18/X4rzWAPDNaI/AAAAAAABps8/PfRpBcorTi8PXq_CtO3zjTB8Cjy1j_VBQCLcBGAsYHQ/s135/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tmS7r8x3SPg/X4rzWf8dTEI/AAAAAAABptA/AhuKLhzBivEgbnGs9Bbjl3zCbft9LloWQCLcBGAsYHQ/s135/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-etmDAwP1Jvo/X4rzWnzK3GI/AAAAAAABptE/lMxAwuhY0fQymbgPtSz6yHAkEkYFYJ72wCLcBGAsYHQ/s135/1220-Archer-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1220/",
+      "fetched_at": "2026-05-16T19:10:33.294Z",
+      "raw_id": "/nendoroid/details/n1220/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.613Z",
+      "raw_id": "Nendoroid/1200-1299/1220.json"
+    }
+  ]
+}

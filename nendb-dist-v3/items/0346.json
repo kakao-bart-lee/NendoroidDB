@@ -1,0 +1,67 @@
+{
+  "num": "0346",
+  "name": {
+    "en": "Nendoroid Alice Kuji (ねんどろいど くじありす)",
+    "ja": "ねんどろいど 久慈ありす (ねんどろいど くじありす)",
+    "ko": "쿠지 아리스"
+  },
+  "series": {
+    "en": "Tetsudou Musume",
+    "ja": "鉄道むすめ",
+    "ko": "철도무스메",
+    "code": "tetsudou-musume"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3981,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eajYyBXMCXc/X4NM0nclu8I/AAAAAAABliY/6GobaA38CMcUjodsS9GssEXq35gGF3jQACLcBGAsYHQ/s270/346-Kuji-Alice-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eajYyBXMCXc/X4NM0nclu8I/AAAAAAABliY/6GobaA38CMcUjodsS9GssEXq35gGF3jQACLcBGAsYHQ/s270/346-Kuji-Alice-Tesudou-Musume-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IfQeWdnbkIk/X4dayEkfwvI/AAAAAAAArCQ/Ys9nrozRO68VQ25UZZ6ZOT7ERPXtD6mhACLcBGAsYHQ/s135/346-Alice-Kuji-Tetsudou-Musume-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sDlwkS1Z_VY/X4dayCadGkI/AAAAAAAArCU/tYbQEMt_thQ3pwuEHxQIukoNDqz7TkmMgCLcBGAsYHQ/s135/346-Alice-Kuji-Tetsudou-Musume-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wzGyTRM9SJs/X4dayYiy98I/AAAAAAAArCY/pcizjLM7j7491agg6L3JC7oMQLtUTxMPACLcBGAsYHQ/s135/346-Alice-Kuji-Tetsudou-Musume-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nQ-4wavOr04/X4dayxBwWBI/AAAAAAAArCc/nSCHD0MiG54wzn56mACDCdzH6qM9zX6JACLcBGAsYHQ/s135/346-Alice-Kuji-Tetsudou-Musume-Video-Game-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n346/",
+      "fetched_at": "2026-05-16T19:10:34.474Z",
+      "raw_id": "/nendoroid/details/n346/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.357Z",
+      "raw_id": "Nendoroid/0300-0399/346.json"
+    }
+  ]
+}

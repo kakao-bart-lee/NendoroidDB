@@ -1,0 +1,71 @@
+{
+  "num": "0473",
+  "name": {
+    "en": "Nendoroid Mario",
+    "ja": "ねんどろいど マリオ (ねんどろいど まりお)",
+    "ko": "마리오"
+  },
+  "series": {
+    "en": "Super Mario",
+    "ja": "スーパーマリオ",
+    "ko": "슈퍼 마리오",
+    "code": "super-mario"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4720,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Jy8S4vZuW5Q/X4NN5wpqtaI/AAAAAAABlrI/ADYYERXJL20LXUnozO3z-HpF3rycH4CYgCLcBGAsYHQ/s270/473-Mario-Super-Mario-Nintendo-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Jy8S4vZuW5Q/X4NN5wpqtaI/AAAAAAABlrI/ADYYERXJL20LXUnozO3z-HpF3rycH4CYgCLcBGAsYHQ/s270/473-Mario-Super-Mario-Nintendo-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-rbYIaKSl5Q4/X4de5IgDa4I/AAAAAAAAruE/EUoaL_YD43kRGrSBy1TPx2DMZT97DhvEQCLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-g47lqaUHJDo/X4de5o4U4kI/AAAAAAAAruI/E168yU2Z05ssFDD3mwdSZ3JdJPzH1so9ACLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WX--u9bG9yY/X4de6Cr4I9I/AAAAAAAAruM/ds3HOi9eZaEd_wFqOvbZcXp8VL6_ktKvACLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Y3Z4d17n7vw/X4de6gcsSfI/AAAAAAAAruQ/8q77mZdL1Fov_3oLqY_YRVip4GEbw39_QCLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HQqlecNj45E/X4de7F-PLnI/AAAAAAAAruU/nT2izBSUn5AQ-8lsqE6v-RSa5Fg48I-NwCLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IbaCxQJQ9VU/X4de7nfCWZI/AAAAAAAAruY/drl3ov3zTV0O-9G5ioPEPdtsZ5ZGZsOIACLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-tjlyG9_oSko/X4de8ensJFI/AAAAAAAAruc/tk44lqFklYkDxW-d52dNGaWyaALiWUQTwCLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-Vga5mv1x7u4/X4de40_jJZI/AAAAAAAAruA/m2yR7YLG96AYSbj4AUWn1edMCJoGP6cvwCLcBGAsYHQ/s135/473-Mario-Super-Mario-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n473/",
+      "fetched_at": "2026-05-16T19:10:34.548Z",
+      "raw_id": "/nendoroid/details/n473/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.388Z",
+      "raw_id": "Nendoroid/0400-0499/473.json"
+    }
+  ]
+}

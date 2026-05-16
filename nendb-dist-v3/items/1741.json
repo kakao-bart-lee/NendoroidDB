@@ -1,0 +1,69 @@
+{
+  "num": "1741",
+  "name": {
+    "en": "Nendoroid Natsu Dragneel",
+    "ja": "ねんどろいど ナツ・ドラグニル (ねんどろいど なつ・どらぐにる)",
+    "ko": "나츠 드래그닐"
+  },
+  "series": {
+    "en": "Fairy Tail Final Season",
+    "ja": "「FAIRY TAIL」ファイナルシリーズ",
+    "ko": "페어리 테일",
+    "code": "fairy-tail-final-season"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11890,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UXZxj0aLBBw/YYBKC1na_GI/AAAAAAAA1jY/oAVd1qY_hQw2QyyqdKm9Pk9JDXHQwssvQCLcBGAsYHQ/s270/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UXZxj0aLBBw/YYBKC1na_GI/AAAAAAAA1jY/oAVd1qY_hQw2QyyqdKm9Pk9JDXHQwssvQCLcBGAsYHQ/s270/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TqwnVzLItZ0/YYBOzWBO68I/AAAAAAAA1os/a98khaSR200TfK6CtIoULc7mahriy8aCQCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ucSjM6Ixi-Q/YYBOzlCJk9I/AAAAAAAA1oo/CA80O_sqMrgbGBVYg6hP5tSZyMvrZMl2wCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qEa7JCLpER8/YYBOz9LsqmI/AAAAAAAA1ow/RFYIpcMrJOchxbkxLHbAMvaNAVg7KdJxQCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WRmKw6EKPjw/YYBO0K5oF0I/AAAAAAAA1o0/oT0A0g8xIu845-vkZrbhouxUVJpJiJhQQCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YO2hjSZHfU8/YYBO0SZNf4I/AAAAAAAA1o4/6_PEVx7rL1MuWimQzBZK1PxbKXDKL81kgCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Z9E1nvfEIVY/YYBO0m3gPHI/AAAAAAAA1o8/AoM4jqEkIqwh_dVxBTm7brIjXG-4SIcogCLcBGAsYHQ/s135/1741-Natsu-Dragneel-Fairy-Tail-Final-Season-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1741/",
+      "fetched_at": "2026-05-16T19:10:33.619Z",
+      "raw_id": "/nendoroid/details/n1741/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.740Z",
+      "raw_id": "Nendoroid/1700-1799/1741.json"
+    }
+  ]
+}

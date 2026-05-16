@@ -1,0 +1,55 @@
+{
+  "num": "12973",
+  "name": {
+    "en": "Nendoroid Doll Warm Clothing Set: Boots & Duffle Coat (Beige/Orange)",
+    "ja": "ねんどろいどどーる あったかセット ブーツ&ダッフルコート（ベージュ/オレンジ） (ねんどろいどどーる あったかせっと ぶーつ&だっふるこーと（べーじゅ/おれんじ）)",
+    "ko": "겨울 의상 세트(베이지/오렌지): 부츠 & 더플코트"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12973,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220714/12973/101438/large/4a0a1cc6622fe8679915266faf8c8bf0.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.930Z",
+      "raw_id": "NendoroidDoll/Clothes/12973.json"
+    }
+  ]
+}

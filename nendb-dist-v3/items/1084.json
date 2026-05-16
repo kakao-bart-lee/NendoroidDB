@@ -1,0 +1,70 @@
+{
+  "num": "1084",
+  "name": {
+    "en": "Nendoroid Ryo Saeba",
+    "ja": "ねんどろいど 冴羽獠 (ねんどろいど さえばりょう)",
+    "ko": "사에바 료"
+  },
+  "series": {
+    "en": "City Hunter the Movie: Shinjuku Private Eyes",
+    "ja": "劇場版シティーハンター＜新宿プライベート・アイズ＞",
+    "ko": "시티헌터",
+    "code": "city-hunter-the-movie-shinjuku-private-eyes"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8055,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-V7N56Uc7dtQ/X4Nf5gBFx9I/AAAAAAABmWw/F1x1yFvDlJ07JIhamABDs5DMwB2p0pZjQCLcBGAsYHQ/s270/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-V7N56Uc7dtQ/X4Nf5gBFx9I/AAAAAAABmWw/F1x1yFvDlJ07JIhamABDs5DMwB2p0pZjQCLcBGAsYHQ/s270/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-V1EW3PahZwI/X4rtOUzro6I/AAAAAAABoyA/8zGDe-wSgmQOUFrBkPfBDnbLrIssrIGZgCLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RM65wADBVfQ/X4rtOvC5x0I/AAAAAAABoyE/E7sfHo_DM6EPAl-VnBaL3Df72H5SIe2ugCLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MeRtqk3AmV4/X4rtPE5cazI/AAAAAAABoyI/vVcXfNJhB0Qwns6xR9bHkHg1TrceBBIIwCLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xmPS305EecA/X4rtPa9GjfI/AAAAAAABoyM/M-on2VyDW2UQzq4CnHq7di7sipvx-NsNwCLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HWlknpUbB2E/X4rtPssn8lI/AAAAAAABoyQ/ZxoHs-fmCYswHW6bg5OPyKKTx-P1l09GACLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--dBZ5d5BHHQ/X4rtPwoHAUI/AAAAAAABoyU/dkmxyB42qfcoDekWG52RcQDV75xH7xIMACLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6w5B0pGfvkI/X4rtP7ag2GI/AAAAAAABoyY/EqIMa_Msbkkz0HLUDn9Hw7WpyRnX7CViwCLcBGAsYHQ/s135/1084-Ryo-Saeba-City-Hunter-the-Movie-Shinjuku-Private-Eyes-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1084/",
+      "fetched_at": "2026-05-16T19:10:33.209Z",
+      "raw_id": "/nendoroid/details/n1084/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.581Z",
+      "raw_id": "Nendoroid/1000-1099/1084.json"
+    }
+  ]
+}

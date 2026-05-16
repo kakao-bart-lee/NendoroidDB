@@ -1,0 +1,68 @@
+{
+  "num": "0713",
+  "name": {
+    "en": "Nendoroid Minna-Dietlinde Wilcke",
+    "ja": "ねんどろいど ミーナ・ディートリンデ・ヴィルケ (ねんどろいど みーな・でぃーとりんで・ゔぃるけ)",
+    "ko": "미나 디트린데 뷜케"
+  },
+  "series": {
+    "en": "Strike Witches 2",
+    "ja": "ストライクウィッチーズ2",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches-2"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4840,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6139,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DsOQgpZSocE/X4Nc1Fmc6xI/AAAAAAABl8I/WPRoPDAAcnMazKApnpdOE1pfbcJyIBOrwCLcBGAsYHQ/s270/713-Mionna-Dietlinde-Wilcke-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DsOQgpZSocE/X4Nc1Fmc6xI/AAAAAAABl8I/WPRoPDAAcnMazKApnpdOE1pfbcJyIBOrwCLcBGAsYHQ/s270/713-Mionna-Dietlinde-Wilcke-Strike-Witches-2-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0PawdpJ1GvU/X4i3kIM7JmI/AAAAAAAAtLA/ZdpwJ6qQc7EdzAwv5jk-_WWVEile9PTNACLcBGAsYHQ/s135/713-Minna-Dietlinde-Wilcke-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k24fs7yFHvg/X4i3kvHsEHI/AAAAAAAAtLE/shNuTdykqSg6Mo14QTMpDd4cMM3x__vuACLcBGAsYHQ/s135/713-Minna-Dietlinde-Wilcke-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2pDWSpvy_OQ/X4i3k7muZJI/AAAAAAAAtLI/1A37zIY15PQtysGuhu35xXKFBxjEmw1rQCLcBGAsYHQ/s135/713-Minna-Dietlinde-Wilcke-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5n6oPZ1jK7c/X4i3lF5n_aI/AAAAAAAAtLM/bqxFrKe1GBs9A1WkZCZU5G4NPIoUhkFOwCLcBGAsYHQ/s135/713-Minna-Dietlinde-Wilcke-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lDeNyTHCgEY/X4i3lWSgGrI/AAAAAAAAtLQ/JrhSNuVAzI8ppi9C3ZP6Q9ozp8hMNz-bwCLcBGAsYHQ/s135/713-Minna-Dietlinde-Wilcke-Strike-Witches-Strike-Witches-2-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n713/",
+      "fetched_at": "2026-05-16T19:10:34.757Z",
+      "raw_id": "/nendoroid/details/n713/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.490Z",
+      "raw_id": "Nendoroid/0700-0799/713.json"
+    }
+  ]
+}

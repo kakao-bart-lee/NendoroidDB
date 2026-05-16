@@ -1,0 +1,68 @@
+{
+  "num": "0167",
+  "name": {
+    "en": "Nendoroid Cirno (ねんどろいど ちるの)",
+    "ja": "ねんどろいど チルノ (ねんどろいど ちるの)",
+    "ko": "치르노"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3109,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HNt5q29Yi-c/X4NKDCsKjrI/AAAAAAABlSM/rL3pvfQyhtgRnZj9qdvxNL5MmszXArdEgCLcBGAsYHQ/s270/167-Cirno-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HNt5q29Yi-c/X4NKDCsKjrI/AAAAAAABlSM/rL3pvfQyhtgRnZj9qdvxNL5MmszXArdEgCLcBGAsYHQ/s270/167-Cirno-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HAyA2gSmaqQ/X4dTfNdHaFI/AAAAAAAAqD8/gQ_IuXIKLOgtcZGKgA0iTW7Jh-UgNmMJACLcBGAsYHQ/s135/167-Cirno-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dj5IopLtjDI/X4dTfUngtBI/AAAAAAAAqEA/tnMBJ6lVrREuReqU7iULL10IKvou88wdACLcBGAsYHQ/s135/167-Cirno-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cd1FaM03AI8/X4dTfsc-eFI/AAAAAAAAqEE/NoThqG11xtQWClCOemfDbjABeQ1_6X4kQCLcBGAsYHQ/s135/167-Cirno-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-i5X5ugQ2cPA/X4dTf5V55BI/AAAAAAAAqEI/LAibwtBlfgMd-kqik7GdHaaqfyOz4yrIQCLcBGAsYHQ/s135/167-Cirno-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-FwQqMMCvK3I/X4dTgA9DBOI/AAAAAAAAqEM/mVqPfnWQ2eI6NofhkJmjtLs8BPEkC9bCgCLcBGAsYHQ/s135/167-Cirno-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n167/",
+      "fetched_at": "2026-05-16T19:10:33.579Z",
+      "raw_id": "/nendoroid/details/n167/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.306Z",
+      "raw_id": "Nendoroid/0100-0199/167.json"
+    }
+  ]
+}

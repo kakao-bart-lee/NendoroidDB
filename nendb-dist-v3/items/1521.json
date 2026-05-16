@@ -1,0 +1,69 @@
+{
+  "num": "1521",
+  "name": {
+    "en": "Nendoroid Eyjafjalla",
+    "ja": "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
+    "ko": "에이야퍄들라"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10427,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LoiczH5oXGI/X8509kKAFNI/AAAAAAAAu4Q/buka1tgbcPkhiHI3v7_HqtpMnLrWw3cdwCLcBGAsYHQ/s270/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LoiczH5oXGI/X8509kKAFNI/AAAAAAAAu4Q/buka1tgbcPkhiHI3v7_HqtpMnLrWw3cdwCLcBGAsYHQ/s270/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-opEzRYmz1QA/X86Kpj_oruI/AAAAAAAAu7A/sR2C19QfvNQ3thcpwz_h-5IRxkY4hWxjwCLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TDz1oa4I808/X86KpyKd73I/AAAAAAAAu7E/EPWqSj5BcwkJZaZUnNtVerF1V2JfQWsjACLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kISUrLLbWEE/X86KqGKOApI/AAAAAAAAu7I/45leauU8RMkDopPLnMu36HHewhtvtrkSQCLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rNVFD3qKpo4/X86KqgLpotI/AAAAAAAAu7M/wXbiN-gr8Q4GUtPTlKdyMgNe8IhKozZWQCLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PZpNu8xsuoc/X86KqopmSDI/AAAAAAAAu7Q/_O7yYfzoKPEinBPnqEcegc6E0mAFDIIpwCLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-A8fV4Tec57g/X86Kq12mKzI/AAAAAAAAu7U/hUTn9WlmtDUkiDJqyodjWBYoj6-f8Vu1wCLcBGAsYHQ/s135/1521-Eyjafjalla-Arknights-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1521/",
+      "fetched_at": "2026-05-16T19:10:33.480Z",
+      "raw_id": "/nendoroid/details/n1521/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.686Z",
+      "raw_id": "Nendoroid/1500-1599/1521.json"
+    }
+  ]
+}

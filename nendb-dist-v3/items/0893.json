@@ -1,0 +1,68 @@
+{
+  "num": "0893",
+  "name": {
+    "en": "Nendoroid Atsushi Nakajima",
+    "ja": "ねんどろいど 中島敦 (ねんどろいど なかじまあつし)",
+    "ko": "나카지마 아쓰시"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs DEAD APPLE",
+    "ja": "文豪ストレイドッグス DEAD APPLE",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs-dead-apple"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7085,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xn3Fa10jkZU/X4NeEY8zRlI/AAAAAAABmIg/lCQq7pqhP9wKoshLlrQ957Xmpx8DZWV4gCLcBGAsYHQ/s270/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xn3Fa10jkZU/X4NeEY8zRlI/AAAAAAABmIg/lCQq7pqhP9wKoshLlrQ957Xmpx8DZWV4gCLcBGAsYHQ/s270/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Hm0YYOEfH4k/X4rkQHiIQKI/AAAAAAABnhs/oNB6XLE3RqcLfiKmXRx6VwEgX1ydqzI5QCLcBGAsYHQ/s135/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-01vh-1gNW4Q/X4rkQQG1Z2I/AAAAAAABnhw/UA15AL5_2OQKjoU6e6v9L3kRFvKzVevLACLcBGAsYHQ/s135/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VpQ0jR4ggMM/X4rkQqZ8rNI/AAAAAAABnh0/BNSviJUa2Wg0M691KJRExrkloWS22vk_gCLcBGAsYHQ/s135/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2xZiFHscoSM/X4rkQ8yOYmI/AAAAAAABnh4/z8ndEdGpp04HAKeWBX3FENj-yG1_7C6XgCLcBGAsYHQ/s135/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TFEpdQck1B0/X4rkRbxxCrI/AAAAAAABnh8/ne3IgeRNWS8Q4M1-yFLoaqAgoTdHbrcGgCLcBGAsYHQ/s135/893-Atsushi-Nakajima-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n893/",
+      "fetched_at": "2026-05-16T19:10:34.858Z",
+      "raw_id": "/nendoroid/details/n893/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.532Z",
+      "raw_id": "Nendoroid/0800-0899/893.json"
+    }
+  ]
+}

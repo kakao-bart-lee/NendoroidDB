@@ -1,0 +1,65 @@
+{
+  "num": "2277",
+  "name": {
+    "en": "La+ Darknesss",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SsY8LUZtB4s/ZWZfj9fXdGI/AAAAAAABCbU/zGVWfDQqmdYP7YAEZBBVYAV3ofaLaRCbgCNcBGAsYHQ/s270/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SsY8LUZtB4s/ZWZfj9fXdGI/AAAAAAABCbU/zGVWfDQqmdYP7YAEZBBVYAV3ofaLaRCbgCNcBGAsYHQ/s270/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mvJnkzGojkk/ZWZoecLII-I/AAAAAAABCgI/BskqbiMYwZ4vE4LzAoMvoG-_olX4iTkHgCNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jopqPEpOafM/ZWZofGHxiSI/AAAAAAABCgQ/4zjHXxu4kforf1kiKppQRJgx4TYAVCBJwCNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EE3WVQ1afU4/ZWZof0DnKmI/AAAAAAABCgU/8OXff-G68R8vnffR8Clgg9cgg_8x8_XPACNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DZ3u9WKbIEA/ZWZogCAWlJI/AAAAAAABCgY/4wDoHUWD4GolokJWNLZT5AP5d3Ll_mviACNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L-v7ySdFdFg/ZWZog0gvxKI/AAAAAAABCgc/yUz0I1n_Af0PMIgnjbBn_ysGLNBSYXz9QCNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4dfkToalUMs/ZWZohISg6AI/AAAAAAABCgg/9otMpljW3nEpOmxyZ5JmElc_vcIxq-4cQCNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BuonrfFJY0Y/ZWZohvhFyYI/AAAAAAABCgk/tS9namUSo4cYj9A9xJ9knveCDUxbBeebQCNcBGAsYHQ/s135/2277-La%252B-Darknesss-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2277/",
+      "fetched_at": "2026-05-16T19:10:33.960Z",
+      "raw_id": "/nendoroid/details/n2277/"
+    }
+  ]
+}

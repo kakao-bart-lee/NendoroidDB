@@ -1,0 +1,65 @@
+{
+  "num": "2489",
+  "name": {
+    "en": "Ange Katrina",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7Lav788ddGo/ZnsoemAXYiI/AAAAAAABE3c/7sPWhvi2NR4OGq_1H3WHQ0hWH4lLgWJBwCNcBGAsYHQ/s270/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7Lav788ddGo/ZnsoemAXYiI/AAAAAAABE3c/7sPWhvi2NR4OGq_1H3WHQ0hWH4lLgWJBwCNcBGAsYHQ/s270/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Rjc1O0PpBb8/Zow6Jn4AovI/AAAAAAABF8s/2HU6f4N-SaAMPPxTzjtbDePJtMCo-g6VwCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MlkThjxNARw/Zow6KbKhFAI/AAAAAAABF8w/5OTl5_Xpk_IgWd-HLbLaoLhnJJG8-e53QCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rpPn5wuDo-A/Zow6KtssuJI/AAAAAAABF80/iw4uiLqBVFUas4cVidLd3HlpxEfsetHZwCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VpvdquYL8Zk/Zow6LD6i2wI/AAAAAAABF84/T4gXoF500vocAgnGZT9_ShOQi1b_qQTzACNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GuuUIzyRXs0/Zow6L8Gp8fI/AAAAAAABF88/yXAbQaNjhnsqazUAHWERK0LMMXd5PDXdgCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RVc-jh-K-ZA/Zow6MOz1ynI/AAAAAAABF9A/B_XZfc1pwHcxoG9WQ2D4ZvneRNoVW3mlwCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-suteptkV8kk/Zow6MiOy2HI/AAAAAAABF9E/uj3RGm0VUCsUqnsefj13tIG__NzTp9bngCNcBGAsYHQ/s135/2489-Ange-Katrina-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2489/",
+      "fetched_at": "2026-05-16T19:10:34.092Z",
+      "raw_id": "/nendoroid/details/n2489/"
+    }
+  ]
+}

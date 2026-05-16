@@ -1,0 +1,96 @@
+{
+  "num": "1585",
+  "name": {
+    "en": "Nendoroid Shinsuke Kita",
+    "ja": "ねんどろいど 北 信介 (ねんどろいど きた しんすけ)",
+    "ko": "키타 신스케"
+  },
+  "series": {
+    "en": "HAIKYU!! TO THE TOP",
+    "ja": "ハイキュー!! TO THE TOP",
+    "ko": "하이큐!!",
+    "code": "haikyu-to-the-top"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": "4580828661615",
+  "gsc_product_id": "8592",
+  "gsc_product_num": 10898,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/8592",
+    "ja": "https://www.goodsmile.com/ja/product/8592"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210305/10898/81906/large/b1c1e024c6e1977712ba99d4ca768e99.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QDg_Glf_Jo0/YFYAe_tTk8I/AAAAAAAAwU8/q_s3ug1THCsoeBINV_nbz1zxIulsnhT4ACLcBGAsYHQ/s270/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YafXAr5Ctb8/YFX_2X6te7I/AAAAAAAAwRM/8ihImH9djGIH2afv08EeU2HJUIS-FNp6gCLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vbxgqvNg2Ps/YFX_2qS-3SI/AAAAAAAAwRU/fnRUTVrvd7s39xI_ChXmIcTIl0VdoVl6QCLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-X2QEL_0Bz-4/YFX_2qBhhCI/AAAAAAAAwRY/-h0VEkj5A1YI5EsAUMe2IWOJ8rHchnEFACLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YdCVWTqNIbE/YFX_24Vz6mI/AAAAAAAAwRc/KzoKUz8pOaI2d46aCcC1ZUpC3-G7A1BgACLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WgcKv4uWG2o/YFX_3K3_vaI/AAAAAAAAwRk/LViGYoISVtwt2vDh60ho1XiMdoDkPrg2wCLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-RG0NYf9aEdI/YFX_3J_3K_I/AAAAAAAAwRg/n9EVgLFEBZAL7rHTvo4XP9IgMqUpXvXRQCLcBGAsYHQ/s135/1585-Shinsuke-Kita-Haikyu-To-The-Top-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210305/10898/81913/large/1fb96fa3a3b5d5c3fd9c792f2f5286d7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20210305/10898/81906/large/b1c1e024c6e1977712ba99d4ca768e99.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8592",
+      "price_local": 5800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:02:47.952Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/8592",
+      "fetched_at": "2026-05-16T12:02:47.952Z",
+      "raw_id": "8592"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/8592",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "8592"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1585/",
+      "fetched_at": "2026-05-16T19:10:33.519Z",
+      "raw_id": "/nendoroid/details/n1585/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.701Z",
+      "raw_id": "Nendoroid/1500-1599/1585.json"
+    }
+  ]
+}

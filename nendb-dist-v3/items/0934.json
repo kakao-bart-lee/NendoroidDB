@@ -1,0 +1,68 @@
+{
+  "num": "0934",
+  "name": {
+    "en": "Nendoroid Lively Lillie",
+    "ja": "ねんどろいど がんばリーリエ (ねんどろいど がんばりーりえ)",
+    "ko": "간바릴리에"
+  },
+  "series": {
+    "en": "Pokémon",
+    "ja": "ポケットモンスター",
+    "ko": "포켓몬스터",
+    "code": "pokemon"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7227,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SeWOrNQu4bU/X4Nel3xTX_I/AAAAAAABmL4/zWRuJdYjgFofq1gaG3GHL33tmz7HDyXgQCLcBGAsYHQ/s270/934-Lively-Lillie-Pokemon-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SeWOrNQu4bU/X4Nel3xTX_I/AAAAAAABmL4/zWRuJdYjgFofq1gaG3GHL33tmz7HDyXgQCLcBGAsYHQ/s270/934-Lively-Lillie-Pokemon-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VyuYDP1_DHw/X4roGt_RnXI/AAAAAAABn0k/Us_1MlNI11It52KYKoVeDvR7UnY8ic61wCLcBGAsYHQ/s135/934-Lively-Lillie-Pok%25C3%25A9mon-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-X5TnMCaiz70/X4roG1Gb7zI/AAAAAAABn0o/Ck3G5Z2bYyIqle6evfsJpDgefWlN-pdNwCLcBGAsYHQ/s135/934-Lively-Lillie-Pok%25C3%25A9mon-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I2csl92TrXE/X4roHX45OnI/AAAAAAABn0s/X9Ii7KFNgmEE4S_tmLS612HGhO3HETDiwCLcBGAsYHQ/s135/934-Lively-Lillie-Pok%25C3%25A9mon-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MD98QZXtIBo/X4roHgCQmfI/AAAAAAABn0w/bqT151BJBZQ2WgzKEoDWfAlZUnggnbKcACLcBGAsYHQ/s135/934-Lively-Lillie-Pok%25C3%25A9mon-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UyuSbWosYRo/X4roH9ZrOpI/AAAAAAABn00/Etqb6cDoBUspgGxx-i6_V16Bu6EbyaUQQCLcBGAsYHQ/s135/934-Lively-Lillie-Pok%25C3%25A9mon-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n934/",
+      "fetched_at": "2026-05-16T19:10:34.881Z",
+      "raw_id": "/nendoroid/details/n934/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.542Z",
+      "raw_id": "Nendoroid/0900-0999/934.json"
+    }
+  ]
+}

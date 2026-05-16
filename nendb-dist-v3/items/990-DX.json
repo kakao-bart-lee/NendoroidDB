@@ -1,0 +1,59 @@
+{
+  "num": "990-DX",
+  "name": {
+    "en": "Nendoroid Caster/Gilgamesh: Ascension Ver.",
+    "ja": "ねんどろいど キャスター/ギルガメッシュ 霊基再臨 Ver. (ねんどろいど きゃすたー/ぎるがめっしゅ れいきさいりん Ver.)",
+    "ko": "캐스터/길가메시 영기재림 Ver."
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7591,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180904/7591/54326/large/e97a89fd0608df778d7b1660fe7a5f95.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.558Z",
+      "raw_id": "Nendoroid/0900-0999/990-DX.json"
+    }
+  ]
+}

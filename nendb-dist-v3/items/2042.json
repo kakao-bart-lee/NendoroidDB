@@ -1,0 +1,72 @@
+{
+  "num": "2042",
+  "name": {
+    "en": "Nendoroid Rinne Amagi",
+    "ja": "ねんどろいど 天城燐音 (ねんどろいど あまぎりんね)",
+    "ko": "아마기 린네"
+  },
+  "series": {
+    "en": "Ensemble Stars!! Music",
+    "ja": "あんさんぶるスターズ！！Music",
+    "ko": "앙상블 스타즈! 뮤직",
+    "code": "ensemble-stars-music"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13746,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CkRBGW1hm0I/Y9mJ-H5XeoI/AAAAAAAA8ew/iiZBunC9_fsDhKWlqTCXkYBCb9O_vSllACNcBGAsYHQ/s270/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CkRBGW1hm0I/Y9mJ-H5XeoI/AAAAAAAA8ew/iiZBunC9_fsDhKWlqTCXkYBCb9O_vSllACNcBGAsYHQ/s270/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HLcnJpNeAV8/Y9mPC5gLq1I/AAAAAAAA8lo/j2xI3b61NDU6TK8lYoATnR9aWMooZUinACNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xVNWiMPv5aE/Y9mPDDMs-DI/AAAAAAAA8ls/EJTDGOv4-XsyPWxhMey5d7aSKaaLsRUKACNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zAIzqIrA1vg/Y9mPDBWXuWI/AAAAAAAA8lw/XYZptBOUtuMP77GezfhLm9RVxEXKIBNUQCNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DCo4-U2Z9os/Y9mPDZdedcI/AAAAAAAA8l0/I4rooHK3oP0CX0e6RY6Wb5OJEtuRGLMwACNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zn_oCKofHBE/Y9mPD5-Z3jI/AAAAAAAA8l4/rX8YVCMvWkUI2w2hcoAJmPf3XMYDesNwwCNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mw4k913YOSI/Y9mPD9QUe5I/AAAAAAAA8l8/Ixa84JdNEDEdETMQYo5GkdmoR0nMqalPgCNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-gBe1fkkvzU8/Y9mPEKC1OEI/AAAAAAAA8mA/C-rmgKnpBy0EA0EI9a8U36-uLsBoU4gzgCNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-GYt7dn3vYiw/Y9mPCEJfqUI/AAAAAAAA8lg/1vjjYffUbkg_VDTfBCJ-mP_D28j2U51LQCNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-w_AdoOoaFsw/Y9mPCbH3wBI/AAAAAAAA8lk/dvn5kww0GmcUVfCVrDuVhCIgZ-uhB_45ACNcBGAsYHQ/s135/2042-Rinne-Amagi-Ensemble-Stars-Music-Video-Games-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2042/",
+      "fetched_at": "2026-05-16T19:10:33.804Z",
+      "raw_id": "/nendoroid/details/n2042/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.813Z",
+      "raw_id": "Nendoroid/2000-2099/2042.json"
+    }
+  ]
+}

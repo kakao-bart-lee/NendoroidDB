@@ -1,0 +1,68 @@
+{
+  "num": "1422",
+  "name": {
+    "en": "Nendoroid Ch'en",
+    "ja": "ねんどろいど チェン (ねんどろいど ちぇん)",
+    "ko": "첸"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9894,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wBxLFPiduXg/X4Nkea8sWxI/AAAAAAABm5w/yrXD6CVPfywf20W2lGBU5AtMyIdu_3hRACLcBGAsYHQ/s270/1422-Chen-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wBxLFPiduXg/X4Nkea8sWxI/AAAAAAABm5w/yrXD6CVPfywf20W2lGBU5AtMyIdu_3hRACLcBGAsYHQ/s270/1422-Chen-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-739vuv73CJQ/X4tAT0EGclI/AAAAAAABq0Q/8a9-hRkIMdwmrF5d6YXXMg7SGKaImLydgCLcBGAsYHQ/s135/1422-Chen-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-mFAo2l3zsj4/X4tAUHqdE3I/AAAAAAABq0U/lbD7_G4HepkCpFvQPQHCG6TKXFk4WGITgCLcBGAsYHQ/s135/1422-Chen-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TStXzTD-ZTU/X4tAUWFRh7I/AAAAAAABq0Y/36BSXhbLA7sLNLdPQ2GDxJ2HcW-uJtJ3gCLcBGAsYHQ/s135/1422-Chen-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LxaGPFcGtK4/X4tAUp3_-qI/AAAAAAABq0c/epMS3c4DUnszQ_-N7wVnoM5p0DUDYPqiQCLcBGAsYHQ/s135/1422-Chen-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nZP7Euj9uYk/X4tAU_87n7I/AAAAAAABq0g/6CYBE0OEvOwOi-I51qgOHs4TcpWVE_czACLcBGAsYHQ/s135/1422-Chen-Arknights-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1422/",
+      "fetched_at": "2026-05-16T19:10:33.421Z",
+      "raw_id": "/nendoroid/details/n1422/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.661Z",
+      "raw_id": "Nendoroid/1400-1499/1422.json"
+    }
+  ]
+}

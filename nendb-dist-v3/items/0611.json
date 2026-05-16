@@ -1,0 +1,68 @@
+{
+  "num": "0611",
+  "name": {
+    "en": "Nendoroid Galko",
+    "ja": "ねんどろいど ギャル子 (ねんどろいど ぎゃるこ)",
+    "ko": "갸루코"
+  },
+  "series": {
+    "en": "Please Tell Me! Galko-chan",
+    "ja": "おしえて！ ギャル子ちゃん",
+    "ko": "가르쳐줘! 갸루코짱",
+    "code": "please-tell-me-galko-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5565,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iLVm1eLd42s/X4NPoMIlE9I/AAAAAAABl1I/4UwbspHGWZ0_U875sUU_zTmCuGc_N3ePQCLcBGAsYHQ/s270/611-Galko-Please-Tell-Me-Galko-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iLVm1eLd42s/X4NPoMIlE9I/AAAAAAABl1I/4UwbspHGWZ0_U875sUU_zTmCuGc_N3ePQCLcBGAsYHQ/s270/611-Galko-Please-Tell-Me-Galko-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-55O-lHvHzFY/X4iztabBC9I/AAAAAAAAsj8/bHUMgEkJwzcRz5E4nL5hQ2ZwHdaGJx9rgCLcBGAsYHQ/s135/611-Galko-Please-Tell-me-Galko-chan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xLn2MgoN3rg/X4izt620Y8I/AAAAAAAAskA/KGVZFaNOlcIJ70M_QSui0tHSAnKuBY5iQCLcBGAsYHQ/s135/611-Galko-Please-Tell-me-Galko-chan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FT5aVA2or00/X4izuQNiWfI/AAAAAAAAskE/Ft6ph3STQq4JR_qiYXhp0xPzefRz_PsrgCLcBGAsYHQ/s135/611-Galko-Please-Tell-me-Galko-chan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ASBQXIvs6Os/X4izuxW3zcI/AAAAAAAAskI/SUtH9-IArPUlhYvNV13IU_3TZ6oZkDZegCLcBGAsYHQ/s135/611-Galko-Please-Tell-me-Galko-chan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XeyiFSrQkRA/X4izvt3z6aI/AAAAAAAAskM/PYwzSa5v_D03ZnfcbtnHXRA4NJQBd_lgwCLcBGAsYHQ/s135/611-Galko-Please-Tell-me-Galko-chan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n611/",
+      "fetched_at": "2026-05-16T19:10:34.690Z",
+      "raw_id": "/nendoroid/details/n611/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.462Z",
+      "raw_id": "Nendoroid/0600-0699/611.json"
+    }
+  ]
+}

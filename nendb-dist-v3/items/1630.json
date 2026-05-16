@@ -1,0 +1,68 @@
+{
+  "num": "1630",
+  "name": {
+    "en": "Nendoroid Baymax",
+    "ja": "ねんどろいど ベイマックス (ねんどろいど べいまっくす)",
+    "ko": "베이맥스"
+  },
+  "series": {
+    "en": "Big Hero 6",
+    "ja": "ベイマックス",
+    "ko": "빅 히어로",
+    "code": "big-hero-6"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11169,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vGCkoWcMZCo/YL_Ur-j78TI/AAAAAAAAyPQ/2ym9Nf6LlhcGwQkyELdT_6Cn_do8RvBcwCLcBGAsYHQ/s270/1630-Baymax-Big-Hero-6-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vGCkoWcMZCo/YL_Ur-j78TI/AAAAAAAAyPQ/2ym9Nf6LlhcGwQkyELdT_6Cn_do8RvBcwCLcBGAsYHQ/s270/1630-Baymax-Big-Hero-6-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U5JaY_9UAPg/YL_cxVnEOHI/AAAAAAAAyTs/kZzhslxYc0UlhIN1KXvK7jJo7M7ykI2vgCLcBGAsYHQ/s135/1630-Baymax-Big-Hero-6-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4ZY6KFbNwe4/YL_cxkOq1mI/AAAAAAAAyTw/ZnSsD2VFg2ErIskQGcOCB6fXNmxY8zocwCLcBGAsYHQ/s135/1630-Baymax-Big-Hero-6-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MMkKTTL6ikg/YL_cxrzdvTI/AAAAAAAAyT0/DSTcyJZPyHwmc8JIwdjcGe29kPMpxeUbACLcBGAsYHQ/s135/1630-Baymax-Big-Hero-6-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4NtDVcPaM_Y/YL_cyK017RI/AAAAAAAAyT4/u0Z58Yb1ujQyF-hiFHn1NryspfUEI-HawCLcBGAsYHQ/s135/1630-Baymax-Big-Hero-6-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-r6V9O07UAWw/YL_cycNkj9I/AAAAAAAAyT8/l0L2_lRfXGY6zleTgpvSBIq7w-xgmSengCLcBGAsYHQ/s135/1630-Baymax-Big-Hero-6-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1630/",
+      "fetched_at": "2026-05-16T19:10:33.547Z",
+      "raw_id": "/nendoroid/details/n1630/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.712Z",
+      "raw_id": "Nendoroid/1600-1699/1630.json"
+    }
+  ]
+}

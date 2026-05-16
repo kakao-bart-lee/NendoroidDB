@@ -1,0 +1,65 @@
+{
+  "num": "2429",
+  "name": {
+    "en": "Luca Kaneshiro",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PKXQS5LcoA0/Ziq-4WJ7iGI/AAAAAAABEBI/Qid8WWaHMDI2cc981mu9xcOI6pqo0ZVGQCNcBGAsYHQ/s270/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PKXQS5LcoA0/Ziq-4WJ7iGI/AAAAAAABEBI/Qid8WWaHMDI2cc981mu9xcOI6pqo0ZVGQCNcBGAsYHQ/s270/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s2V1WixZx_w/Zow2UZQXuDI/AAAAAAABFic/ecJWdu27J5cLEJo3Uy2OqBIMA3rFKIMxgCNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-I4iwigdwjCM/Zow2U1KVTNI/AAAAAAABFik/TvPhaae6uRM2DE6prb0pZSW3jHDL4uP-gCNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wr27vbe9MIM/Zow2VPj6h0I/AAAAAAABFio/lwVJKtYmOdk1WP-_ccqhTvuyNYWu-rm_gCNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KWiu1xJ9xA8/Zow2VgjNwzI/AAAAAAABFis/yVpN2S06JrsdpZL1kKCYmFHhqgFfFOuxACNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SxIYF2JzZMw/Zow2WTg0QZI/AAAAAAABFiw/oUe6ZLDTop02jwXhJ_VV6YnKiDVEnUhcQCNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bMaXWdk6uX0/Zow2WjpsoTI/AAAAAAABFi0/_y27_eUHWhUwaWxVeR7JjUIFziHdIwUmQCNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-sLb8DqeTrjg/Zow2XIuGfUI/AAAAAAABFi4/PSgD0Am2iqkUbhZJ-1ixYEYR8pyFARWsACNcBGAsYHQ/s135/2429-Luca-Kaneshiro-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2429/",
+      "fetched_at": "2026-05-16T19:10:34.051Z",
+      "raw_id": "/nendoroid/details/n2429/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1374",
+  "name": {
+    "en": "Nendoroid Ellie",
+    "ja": "ねんどろいど エリー (ねんどろいど えりー)",
+    "ko": "엘리"
+  },
+  "series": {
+    "en": "The Last of Us Part II",
+    "ja": "The Last of Us Part II",
+    "ko": "라스트 오브 어스2",
+    "code": "the-last-of-us-part-ii"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9622,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xrSvj1Aio1g/X4Nj2JhHZRI/AAAAAAABm3Y/__AiIBlnXr43PW754AI5HHr8YeyGn8a1ACLcBGAsYHQ/s270/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xrSvj1Aio1g/X4Nj2JhHZRI/AAAAAAABm3Y/__AiIBlnXr43PW754AI5HHr8YeyGn8a1ACLcBGAsYHQ/s270/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_QTn2eqc2-U/X4s-CqFDGOI/AAAAAAABqpE/Nnw2xlkPVLcckh22FhtpfhRED5hUyYSEQCLcBGAsYHQ/s135/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R34eHNZHcZ0/X4s-CwDr9aI/AAAAAAABqpI/PY7VAcJ8qRoypxJzEAaZur8r0q0u0vk-QCLcBGAsYHQ/s135/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gd6YF4RoE1I/X4s-DFrbGTI/AAAAAAABqpM/bNs-0GA_TgoXk-m5sqZdICm4EFjxRHEowCLcBGAsYHQ/s135/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MSZl946dCIw/X4s-Do7O0lI/AAAAAAABqpQ/cQV7PSEVSxsLJA_vZwjcGQU_JTNFg-sqACLcBGAsYHQ/s135/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GB3UFlzGbNQ/X4s-DuZfT0I/AAAAAAABqpU/5AQydT7qrBYzxPwdKPLMhdMmpmOnSLwNQCLcBGAsYHQ/s135/1374-Ellie-The-Last-of-Us-Part-II-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1374/",
+      "fetched_at": "2026-05-16T19:10:33.390Z",
+      "raw_id": "/nendoroid/details/n1374/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.650Z",
+      "raw_id": "Nendoroid/1300-1399/1374.json"
+    }
+  ]
+}

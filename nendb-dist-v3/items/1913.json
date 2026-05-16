@@ -1,0 +1,68 @@
+{
+  "num": "1913",
+  "name": {
+    "en": "Nendoroid Shigeo Kageyama",
+    "ja": "ねんどろいど 影山茂夫 (ねんどろいど かげやましげお)",
+    "ko": "카게야마 시게오"
+  },
+  "series": {
+    "en": "Mob Psycho 100 III",
+    "ja": "モブサイコ100Ⅲ",
+    "ko": "모브 사이코 100 III",
+    "code": "mob-psycho-100-iii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12938,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0aaR2IAOs68/Yw_WRSJ4bHI/AAAAAAAA6aM/beHQ8SPUF0wtUP8P4b_ytQRJWunOh1sWgCNcBGAsYHQ/s270/1913-Shigeo-Kageyama-Mob-Psycho-100-III-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0aaR2IAOs68/Yw_WRSJ4bHI/AAAAAAAA6aM/beHQ8SPUF0wtUP8P4b_ytQRJWunOh1sWgCNcBGAsYHQ/s270/1913-Shigeo-Kageyama-Mob-Psycho-100-III-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2pHH1jOUl9k/YxEXUgN6s4I/AAAAAAAA6oQ/7Ms9qQC9g-c3zcRNepcEonW4mzv4SSQNwCNcBGAsYHQ/s135/1913-Shigeo-Kageyama-Mob-Psycho-3.jpg00-III-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PYO_eFWwxu4/YxEXVLtLP2I/AAAAAAAA6oU/vkk08I61DS83d8jKbKOXTg9k6Oz9KYa2gCNcBGAsYHQ/s135/1913-Shigeo-Kageyama-Mob-Psycho-4.jpg00-III-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XMUq2M-0HSg/YxEXVssJOXI/AAAAAAAA6oY/QDfw3kmicuENIr2PeL6aJxgjEsG2KbKigCNcBGAsYHQ/s135/1913-Shigeo-Kageyama-Mob-Psycho-5.jpg00-III-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--1IxxNMi0e0/YxEXWCP0E_I/AAAAAAAA6oc/XOvtXEyxaK0CA0nR3yp1FJXUEnVliIFFwCNcBGAsYHQ/s135/1913-Shigeo-Kageyama-Mob-Psycho-6.jpg00-III-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ClNYFbF5U94/YxEXWpnNw6I/AAAAAAAA6og/11YzfrFtEW08GGpKqkZPktJ13a7Vs2D7ACNcBGAsYHQ/s135/1913-Shigeo-Kageyama-Mob-Psycho-7.jpg00-III-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1913/",
+      "fetched_at": "2026-05-16T19:10:33.726Z",
+      "raw_id": "/nendoroid/details/n1913/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.781Z",
+      "raw_id": "Nendoroid/1900-1999/1913.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1864",
+  "name": {
+    "en": "Nendoroid Persona3 Hero",
+    "ja": "ねんどろいど ペルソナ3主人公 (ねんどろいど ぺるそな3しゅじんこう)",
+    "ko": "페르소나3 주인공"
+  },
+  "series": {
+    "en": "PERSONA3",
+    "ja": "ペルソナ3",
+    "ko": "페르소나3",
+    "code": "persona3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12563,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9dDNa60fzRg/YliMpgUwrbI/AAAAAAAA5NI/Vjpzb5WiJDAIBvcLu5UttOZzssd8VUdwgCNcBGAsYHQ/s270/1864-Hero-Persona-3-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9dDNa60fzRg/YliMpgUwrbI/AAAAAAAA5NI/Vjpzb5WiJDAIBvcLu5UttOZzssd8VUdwgCNcBGAsYHQ/s270/1864-Hero-Persona-3-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KGCRP3cgnVQ/YliWN04h2GI/AAAAAAAA5c0/5vIzaRuShgEV578Ai3Tx3dtyl9-mliTTwCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9LlgK9a-Q2s/YliWONhXevI/AAAAAAAA5c4/GYFxv8uhwFYf1_GRzmgoBRSu1iA9UGpZgCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sXGu_nJQMs8/YliWOZ4_yBI/AAAAAAAA5c8/XBIS-ylXVSIgJ_bsvxgM9XLCf3nue8hRwCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--fq16AbnTeU/YliWOgvd3DI/AAAAAAAA5dA/ZWpPERaoUQEwDm0CtR0xpdEOQICyjwrUgCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-w6qjqgU0LK8/YliWO7EBsPI/AAAAAAAA5dE/ExggBvBUgeYFVeHBNLX8vAyhtK0bgzjAgCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-u3xyOwZZ_yY/YliWPKqOUOI/AAAAAAAA5dI/AlOvZ1STlGUlcSk1hX2OaiKkFln5vJghQCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-5L8I2946H2s/YliWPccKI0I/AAAAAAAA5dM/beDkH_E5UQA-Mj4HWWfmTT3qcACHA7wAwCNcBGAsYHQ/s135/1864-Hero-Persona-3-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1864/",
+      "fetched_at": "2026-05-16T19:10:33.695Z",
+      "raw_id": "/nendoroid/details/n1864/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.770Z",
+      "raw_id": "Nendoroid/1800-1899/1864.json"
+    }
+  ]
+}

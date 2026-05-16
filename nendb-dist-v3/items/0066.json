@@ -1,0 +1,67 @@
+{
+  "num": "0066",
+  "name": {
+    "en": "Nendoroid Priecia (ぷりーしあ ねんどろいど)",
+    "ja": "ねんどろいど プリーシア (ぷりーしあ ねんどろいど)",
+    "ko": "프리시아"
+  },
+  "series": {
+    "en": "Prisim Ark",
+    "ja": "プリズム・アーク",
+    "ko": "프리즘 아크",
+    "code": "prisim-ark"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2373,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--f2a_Eg9nW4/X4MSCMkBwZI/AAAAAAAApao/CnDtUcfZBgwsFx4OFpsB625Q0hHfx9UjgCLcBGAsYHQ/s270/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--f2a_Eg9nW4/X4MSCMkBwZI/AAAAAAAApao/CnDtUcfZBgwsFx4OFpsB625Q0hHfx9UjgCLcBGAsYHQ/s270/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MRrLGMUMDuU/X4GwwNyC5wI/AAAAAAAApJA/2xxI6EXaTncHh4KPgifqex3AkNsE4bkeQCLcBGAsYHQ/s135/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SQW_ZZDljQE/X4GwwDualKI/AAAAAAAApJE/78JyUKbQtU4O4UVhpwGl97rIWWNqzy1wACLcBGAsYHQ/s135/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--So6w09FBs4/X4Gwwdr17NI/AAAAAAAApJI/L_AXy5U-exskpg1U2xPahJzOvdZKJjo-wCLcBGAsYHQ/s135/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GvDonM6UawQ/X4Gwwq6WxqI/AAAAAAAApJM/RZypoYWR4ZYqPVN7DISkm2y4crVsrNeggCLcBGAsYHQ/s135/066-Priecia-Prism-Ark-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n066/",
+      "fetched_at": "2026-05-16T19:10:33.106Z",
+      "raw_id": "/nendoroid/details/n066/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.279Z",
+      "raw_id": "Nendoroid/0000-0099/066.json"
+    }
+  ]
+}

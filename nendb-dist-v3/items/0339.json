@@ -1,0 +1,61 @@
+{
+  "num": "0339",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": null,
+    "ja": null,
+    "ko": null,
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4bMp-2ZxhHs/X4NMw5RQFuI/AAAAAAABlh0/O32_z0CMMSwcYhJvn1kChGJN3ecTtFvtgCLcBGAsYHQ/s270/339-Hatsune-Miku-Summer-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4bMp-2ZxhHs/X4NMw5RQFuI/AAAAAAABlh0/O32_z0CMMSwcYhJvn1kChGJN3ecTtFvtgCLcBGAsYHQ/s270/339-Hatsune-Miku-Summer-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qynY8rjNKTw/X4daoGOPbtI/AAAAAAAAq_8/bGvM8sKFTdIkINneUo3sK3C9pS1R2c6XQCLcBGAsYHQ/s135/339-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EL1-NKcr2VQ/X4daoNMd4jI/AAAAAAAArAA/UVoqPikrXyoY9tQLUvAtrr2UAVES5an8QCLcBGAsYHQ/s135/339-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0Ss40NSEOH8/X4daofb3TOI/AAAAAAAArAE/YSLbrWOjPLUQLHh-RKZPpIEknowKxuyQQCLcBGAsYHQ/s135/339-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n339/",
+      "fetched_at": "2026-05-16T19:10:34.470Z",
+      "raw_id": "/nendoroid/details/n339/"
+    }
+  ]
+}

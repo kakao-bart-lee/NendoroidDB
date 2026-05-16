@@ -1,0 +1,67 @@
+{
+  "num": "0970",
+  "name": {
+    "en": "Nendoroid Caster/Merlin",
+    "ja": "ねんどろいど キャスター/マーリン (ねんどろいど きゃすたー/まーりん)",
+    "ko": "캐스터/멀린"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7480,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BTxDa8lz9w8/X4Nev-gTqfI/AAAAAAABmOI/OEOnou-S8HsGijUhHNY6iEZJJkwgKbvnwCLcBGAsYHQ/s270/970-DX-Merlin-Magnus-of-Flower-Ver-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BTxDa8lz9w8/X4Nev-gTqfI/AAAAAAABmOI/OEOnou-S8HsGijUhHNY6iEZJJkwgKbvnwCLcBGAsYHQ/s270/970-DX-Merlin-Magnus-of-Flower-Ver-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Moba0ylwSGU/X4rpCYD3QSI/AAAAAAABoCc/qG5M2QvnJZcfEOhA9ZbLmI5AzfgNyOMZQCLcBGAsYHQ/s135/970-Caster-Merlin-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wmSqrSX1J3w/X4rpCiJiXwI/AAAAAAABoCg/6qwSQTseTZUdZMEnHpBgMb1w87guhnPNQCLcBGAsYHQ/s135/970-Caster-Merlin-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Vjsam7KuEMA/X4rpC8P52RI/AAAAAAABoCk/EO6f0a57v7MLN20e3ZOfiWK_bl5Jvem6ACLcBGAsYHQ/s135/970-Caster-Merlin-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vj3RCfJTFoo/X4rpDGBj1bI/AAAAAAABoCo/ry-Twwoq3sUsRyPYZGmgY1XA7J7jIUhoACLcBGAsYHQ/s135/970-Caster-Merlin-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n970/",
+      "fetched_at": "2026-05-16T19:10:34.902Z",
+      "raw_id": "/nendoroid/details/n970/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.553Z",
+      "raw_id": "Nendoroid/0900-0999/970.json"
+    }
+  ]
+}

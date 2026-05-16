@@ -1,0 +1,69 @@
+{
+  "num": "1222",
+  "name": {
+    "en": "Nendoroid Daihannya Nagamitsu",
+    "ja": "ねんどろいど 大般若長光 (ねんどろいど だいはんにゃながみつ)",
+    "ko": "다이한냐 나가미츠"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8928,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-awUHh3TgmS4/X4NiLNc_xMI/AAAAAAABmoA/d0O0ixuqAa82USrkCCn1V8jQrKjApZunACLcBGAsYHQ/s270/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-awUHh3TgmS4/X4NiLNc_xMI/AAAAAAABmoA/d0O0ixuqAa82USrkCCn1V8jQrKjApZunACLcBGAsYHQ/s270/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1eymNL3oe4Q/X4rzX_YdXJI/AAAAAAABptc/Bt_g47WOyRc4AtlQb8Wdt1yP9jtf6RC_ACLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OCds9BJ1sxg/X4rzYYmgemI/AAAAAAABptg/tpcLzQTsf78Li_UwtpD8B5i5hhoQTp51wCLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tKcI4zNpifY/X4rzYUv__cI/AAAAAAABptk/AUHBWY9cFVwPNwyjnUA9EvGqFNYvciPTQCLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-j1-xYdl8VX0/X4rzYgLgmQI/AAAAAAABpto/pFHS5OhbUK8eH5atzS5fqkAKNfT_TbhIQCLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g2G64buj2DQ/X4rzZB9XbuI/AAAAAAABpts/P47tirYZkGY2UNjc7SiLZELEGY8YJ5PgwCLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ug6dqYM2SVc/X4rzZXomyII/AAAAAAABptw/b0_bkB0YCPILforta2DkxklNDTlk6fLZgCLcBGAsYHQ/s135/1222-Daihannya-Nagamitsu-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1222/",
+      "fetched_at": "2026-05-16T19:10:33.296Z",
+      "raw_id": "/nendoroid/details/n1222/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.614Z",
+      "raw_id": "Nendoroid/1200-1299/1222.json"
+    }
+  ]
+}

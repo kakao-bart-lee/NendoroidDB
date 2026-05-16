@@ -1,0 +1,63 @@
+{
+  "num": "8024",
+  "name": {
+    "en": "Nendoroid Doll Torso Display",
+    "ja": "ねんどろいどどーる トルソー",
+    "ko": "몸통 스탠드(토르소)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2021-04",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 509,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190129/8024/57768/large/06e88f8758784fa1f336f518cd103fda.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.949Z",
+      "raw_id": "NendoroidDoll/Customizing/8024.json"
+    }
+  ]
+}

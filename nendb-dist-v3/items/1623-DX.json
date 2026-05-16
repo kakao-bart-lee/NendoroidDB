@@ -1,0 +1,55 @@
+{
+  "num": "1623-DX",
+  "name": {
+    "en": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver. DX Edition",
+    "ja": "ねんどろいど 各務原なでしこ ソロキャンVer. DXエディション (ねんどろいど かがみはらなでしこ そろきゃんVer. DXえでぃしょん)",
+    "ko": "카가미하라 나데시코 솔로캠프 DX Ver."
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11141,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210422/11141/84146/large/547143484192fb8fce8fe0d201b9caba.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.710Z",
+      "raw_id": "Nendoroid/1600-1699/1623-DX.json"
+    }
+  ]
+}

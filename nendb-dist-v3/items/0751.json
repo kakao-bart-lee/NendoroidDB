@@ -1,0 +1,68 @@
+{
+  "num": "0751",
+  "name": {
+    "en": "Nendoroid Emilia",
+    "ja": "ねんどろいど エミリア (ねんどろいど えみりあ)",
+    "ko": "에밀리아"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6334,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GcZzUN85PzY/X4Nc_xEhl-I/AAAAAAABl-s/erCjygHn2NUyLCU-SWO7lubTZXu3pA1owCLcBGAsYHQ/s270/751-Emilia-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GcZzUN85PzY/X4Nc_xEhl-I/AAAAAAABl-s/erCjygHn2NUyLCU-SWO7lubTZXu3pA1owCLcBGAsYHQ/s270/751-Emilia-Re-Zero-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MVVfZkYY4GE/X4i42L7YglI/AAAAAAAAtZs/IJ-n5GQP1UcFOkvx5rol4X4KGt92JLiOgCLcBGAsYHQ/s135/751-Emilia-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MLjY1BqGWoQ/X4i42ib4QnI/AAAAAAAAtZw/GAll4YfcNkQNo2XCt3YoqieCK1BwoKV8ACLcBGAsYHQ/s135/751-Emilia-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dESY3z4QCRE/X4i42gyH7uI/AAAAAAAAtZ0/u7kyOHxoKHUEzIi32dSKAWpqOY83zdE2gCLcBGAsYHQ/s135/751-Emilia-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RbnXGEnnM2k/X4i425T17xI/AAAAAAAAtZ4/K1Uv5_q3CQQSAsMkb7DDNef8wHVAuHTFgCLcBGAsYHQ/s135/751-Emilia-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v_wUmDeGVmI/X4i43L-wvuI/AAAAAAAAtZ8/HEYC2AkFhysP-VaymZyyB-jWlaWe4z6oACLcBGAsYHQ/s135/751-Emilia-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n751/",
+      "fetched_at": "2026-05-16T19:10:34.777Z",
+      "raw_id": "/nendoroid/details/n751/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.499Z",
+      "raw_id": "Nendoroid/0700-0799/751.json"
+    }
+  ]
+}

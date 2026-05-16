@@ -1,0 +1,68 @@
+{
+  "num": "1114",
+  "name": {
+    "en": "Nendoroid Megumi Kato: Kimono Ver.",
+    "ja": "ねんどろいど 加藤恵 和服Ver. (ねんどろいど かとうめぐみ わふくVer.)",
+    "ko": "카토 메구미 기모노 Ver."
+  },
+  "series": {
+    "en": "Saekano: How to Raise a Boring Girlfriend Fine",
+    "ja": "冴えない彼女の育てかた Fine",
+    "ko": "시원찮은 그녀를 위한 육성방법",
+    "code": "saekano-how-to-raise-a-boring-girlfriend-fine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8214,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OF-tS7ETktc/X4NgUx1VcPI/AAAAAAABmZY/aZFqYJTb4QsiMvk7fPtwMVJBjWYPEZETwCLcBGAsYHQ/s270/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OF-tS7ETktc/X4NgUx1VcPI/AAAAAAABmZY/aZFqYJTb4QsiMvk7fPtwMVJBjWYPEZETwCLcBGAsYHQ/s270/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Hr9f3Iyufbw/X4rvpxzYS9I/AAAAAAABo_g/8fr-lQQlThoP4Doybcg4IHy46NFLANimACLcBGAsYHQ/s135/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-knw-HtaErlE/X4rvqJ8Q9eI/AAAAAAABo_k/qV4DdaPEEAoz63SWwNCAT21cYwYwM0v5wCLcBGAsYHQ/s135/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Qid1U4cuX2o/X4rvqTo7dZI/AAAAAAABo_o/XDRc80SB5j4HU3BeLRcguE52nMBlU7wJACLcBGAsYHQ/s135/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-C__19HzeRgY/X4rvqu7SlZI/AAAAAAABo_s/6c6oq9vsXdszo6qmQde3iLi2pQO4xrFagCLcBGAsYHQ/s135/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-C_2ZdyxIK1M/X4rvqzx-JaI/AAAAAAABo_w/8g_p_5aTHSsJa_2LoCJzg_QKJgnEjDBdwCLcBGAsYHQ/s135/1114-Megumi-Kato-Saekano-How-to-Raise-a-Boring-Girlfriend-Fine-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1114/",
+      "fetched_at": "2026-05-16T19:10:33.229Z",
+      "raw_id": "/nendoroid/details/n1114/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.588Z",
+      "raw_id": "Nendoroid/1100-1199/1114.json"
+    }
+  ]
+}

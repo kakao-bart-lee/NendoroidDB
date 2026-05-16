@@ -1,0 +1,68 @@
+{
+  "num": "1337",
+  "name": {
+    "en": "Nendoroid Raiden Mei: Lightning Empress Ver.",
+    "ja": "ねんどろいど 雷電芽衣 雷電女王の鬼鎧Ver. (ねんどろいど らいでんめい らいでんじょうおうのおによろいVer.)",
+    "ko": "라이덴 메이 뇌전여왕의 귀신갑주 Ver."
+  },
+  "series": {
+    "en": "Honkai Impact 3rd",
+    "ja": "崩壊3rd",
+    "ko": "붕괴 3rd",
+    "code": "honkai-impact-3rd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9500,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bcxVkI4BTzs/X4NjtuT-DQI/AAAAAAABm1M/7a-EstBraaoUh86QYmQfCdBoLNLygzHiQCLcBGAsYHQ/s270/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bcxVkI4BTzs/X4NjtuT-DQI/AAAAAAABm1M/7a-EstBraaoUh86QYmQfCdBoLNLygzHiQCLcBGAsYHQ/s270/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nF8MrgDDFVc/X4s9PajJqQI/AAAAAAABqc0/2lQ89Jthn_whAqzwO8Hrl3WFAkfHbKR3ACLcBGAsYHQ/s135/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GuuoRSld6Qk/X4s9PrTt6PI/AAAAAAABqc4/4Zq13SavDHAmwMidMxer-DkWssxcD6wPQCLcBGAsYHQ/s135/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9sF6hIr3_LY/X4s9P5s3lcI/AAAAAAABqc8/MhmDHt5XAEoA4b283wln9Hu23jrh8m8lQCLcBGAsYHQ/s135/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8K9cqfAX47U/X4s9QNCP_cI/AAAAAAABqdA/PyFhOU3cmykMfdpt74UG6-vdh38qBxHVwCLcBGAsYHQ/s135/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kFCkemWdPUk/X4s9QYaY2II/AAAAAAABqdE/lk860f8bcF0BIQPBtB9MNc0VWAM-RH7-ACLcBGAsYHQ/s135/1337-Raiden-Mei-Honkai-Impact-3rd-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1337/",
+      "fetched_at": "2026-05-16T19:10:33.367Z",
+      "raw_id": "/nendoroid/details/n1337/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.642Z",
+      "raw_id": "Nendoroid/1300-1399/1337.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1450",
+  "name": {
+    "en": "Nendoroid Tomato Head",
+    "ja": "ねんどろいど トマトヘッド (ねんどろいど とまとへっど)",
+    "ko": "토마토 헤드"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10031,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S3GveZ3IPko/X4NklCSwTAI/AAAAAAABm7c/UYQwafGoK-IwaHrxEZ9hhNDO7y9d3wQLwCLcBGAsYHQ/s270/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S3GveZ3IPko/X4NklCSwTAI/AAAAAAABm7c/UYQwafGoK-IwaHrxEZ9hhNDO7y9d3wQLwCLcBGAsYHQ/s270/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7G7HKYYDwzc/X4tA66moPlI/AAAAAAABq9w/1ZdxYnjZYGQ1h3WbjOgA44LIRRKH-sfdgCLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RHF9a4404Rc/X4tA7VIlcFI/AAAAAAABq90/Bcldks06bzMn0Fw86lMfQc33miFyu81SACLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xx8mp4ypL4I/X4tA7g7GwYI/AAAAAAABq94/vIxRGCW1jQ4Dfw2QcKRh8zuAnUPeV0wggCLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7qoOzBy2MDo/X4tA7nqPO3I/AAAAAAABq98/0jotfJeNbyUGGtUNqIQEWAQwSdU_h3fFQCLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bBznRJAbq4Q/X4tA70QbvYI/AAAAAAABq-A/5LIqEokEaYAY6UGfa00ZqO-0lQcYjgcTQCLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-X6PeIqiMFJA/X4tA8f-dt7I/AAAAAAABq-E/wyX-75m-kBYAHUb3dpQ569ZaXRz-0jADQCLcBGAsYHQ/s135/1450-Tomato-Head-Fortnite-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1450/",
+      "fetched_at": "2026-05-16T19:10:33.439Z",
+      "raw_id": "/nendoroid/details/n1450/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.668Z",
+      "raw_id": "Nendoroid/1400-1499/1450.json"
+    }
+  ]
+}

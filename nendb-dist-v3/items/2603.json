@@ -1,0 +1,65 @@
+{
+  "num": "2603",
+  "name": {
+    "en": "Plana",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Archive",
+    "ja": null,
+    "ko": null,
+    "code": "blue-archive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowMoXaBiWgiie6y_sH6ccE2OsYZDFygHVz0XElCEy8NJMFXliY8Wh_cenl7xX4zDWVLpllo5Nq6XZI3erLDClJ5War0pQ_he1FdpcUyu6sS_2B-Die_0cfZLKpihS5cHDwGbWiBzYORd3Ys3dGH6cB88wTVOo7JhNm-osDfV81xNcA1TyKPJmdHOumGct/s270/2603-Plana-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowMoXaBiWgiie6y_sH6ccE2OsYZDFygHVz0XElCEy8NJMFXliY8Wh_cenl7xX4zDWVLpllo5Nq6XZI3erLDClJ5War0pQ_he1FdpcUyu6sS_2B-Die_0cfZLKpihS5cHDwGbWiBzYORd3Ys3dGH6cB88wTVOo7JhNm-osDfV81xNcA1TyKPJmdHOumGct/s270/2603-Plana-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrLkzo3r5HgeZdZn3m37ir_O1YJeGm5kYETZPluEnjSKEt7sDH93DgrAL-YoofjHBsTtIhb76j12VNtaX5F4uG548yHQghUXiNNOy-giMVDeG-BllyyMq9VMBAp9qa2zU94L5PWuGiwCrT4EDbjPIgBD2WTPq9-Myw64zqp56szUfYgLOwJuJUHVkwxnm/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFNZQBEeCFK5iJeNMQhCsuRflMNLxReW2r9IO9JiLglYfq7TqmsTB23lDSWhXXt1EdSMpfun8YGkfcKBXBKJoCFjQOPUPH46I8UfUs4FZJmpRzGlVpsch5YD2MT3MoSEGXpxYKAc15Xo7Pl_HdKXPu4GeepvoNOsUbliw99dsh-qSNpLpznt-jiUWFNwWO/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyUrKxrNYu-_YaFRZ0OLKWNXUoBDoCN1KmKAUgftt961CARkiLQeNIuLnlg-r40dLBJi_lboDq4G8TB9QJkq7_Rq7XWf35lMrLlwav_L5sG4iqQkFJbzukv4Zs-qHSp8uDZ3kZB3PTqccrqWAC0pbLtHoL0sFJEoUlg-omRedz8nl5oMTqY2KgTs5gCSD/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1fW5DFwApL9uI9lfAPBpHLfA3cSpG20TZc5SUxRkPcaWZ2Q1c6Y4-xOdzZ7k3rkd90-1IKDPMc7ydJGjDLa86vaTsNQkuagtL35W-zBLeNGkS9M4HSG_8TvGjTPBOiSV43b3MCRCAqizTj-kWVxRwwhj_eG5G92y-75mYaqbH1NXeyVI8nYTssTDUoFy/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVsY4t4NWw62O9LM2PWfU9Ah468YW1zXYfGerVClqmHr7aBirOxojdzT0PwMSmpUXH4XicEkncRCqMCoOZG73zrpy0eAvy2fWD1M33G-exY1Dp2s7AC01JtQQ7m3k4e4db6JOBcvDXvNlQ-m7SoJnsoj4IW0NStvL-b4vK342rH22IUylK_-xw6QMuCR_s/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-smcMNUWBWsg_M3B7MHcqd2-1WfMf0ZHosoadam8qcyM3rGjXhyphenhyphenEP_EZtdveL2T9hyphenhyphenvngFpAzbZ_q088gUtdq5qsogy1qA3BJ82gwB_OjJ4cvh_O2DI2xuOKwF8Q4iDZemSaKt67CdakLMBVx2XdKsKZnjj9dfL40kmmj3Hwx3lzmrtPkmvCmuxafK0g/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNOprFejFv51Drc3ZR5JeF28ImFVJ7eVf0fjj-7_bX6apYvnlKr0kliMLKacPv-q9zKvcD5lJRSujsAC_8qccn8bYGgkPoUSBlsv-Bon75QSryRPS0UoTGb9hqBYQ96idgl_R3Ih4VtV5LhvGilObNo-yE3geSQmNFaTDnCrbh1O7-Ikw9MhY78xNopSpZ/s135/2603-Plana-Blue-Archive-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2603/",
+      "fetched_at": "2026-05-16T19:10:34.161Z",
+      "raw_id": "/nendoroid/details/n2603/"
+    }
+  ]
+}

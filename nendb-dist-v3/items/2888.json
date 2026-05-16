@@ -1,0 +1,65 @@
+{
+  "num": "2888",
+  "name": {
+    "en": "Sakura Miko",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGoKzPcLz8XN_hq4Nw_sHW86SFL5-TMhrIFMFG6Chg7_NTCZe3bXKTjro1hQfZD3gr81X9pzd4Fb4GsvEZOyzmHK6RU7mr6ltvfszXqP-uPY4AETcbM2ZTqTat8qY4fQGOh1cgUrBA-XZyWQU-vXFVK3yDHgOzpBW_zhOWQRT530LF-5ffsAkDU1pGU7WO/s270/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGoKzPcLz8XN_hq4Nw_sHW86SFL5-TMhrIFMFG6Chg7_NTCZe3bXKTjro1hQfZD3gr81X9pzd4Fb4GsvEZOyzmHK6RU7mr6ltvfszXqP-uPY4AETcbM2ZTqTat8qY4fQGOh1cgUrBA-XZyWQU-vXFVK3yDHgOzpBW_zhOWQRT530LF-5ffsAkDU1pGU7WO/s270/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrdeH7beCFBTHwRd4WTHS9MqI2HG4Um1R3Y5WJetSTiv3Ka_Qa3qKhNymXYPVl-2-Czx5EIojbaWgCgm8px1CDwgPhvbMfwQzfRNr70m7M91uD_zUjQrXUeuZLxPFL9TVTaR9S11oOa1xjQZxIw7xwcNggP7e0CqdhmXa7Mb8LO7tiB9EBj0XIqaNiBxhs/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqp15G1C8PkHr5zzXMZMRBWJKb1EInmbH5nY8eO8GcetEvBB6tHcwF4iGwvkoF5I8smplzrvZzPPgGLIY4Kos4-dMK3o7u2SYZq5sV6l2nsjhUTOpWfmaMfUYUkTSgWIjapvYw_abBAxHuEauKdAy4-M4rFfOHIOdC6ZWHS9eP2jJpy8SIf5yPm6U8WJt/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMduSaOhLKdM88-L0117kVlO3VWKjW6pKL4s-180bWr38QqDFDWhJpBKFieOCbtNIRxSdMMyr2NOAYu6rNCmgRWU-rZGL07tOjYYHX-U3u33CQIRvZds1c1w6owRMbpqm1CWsAmV2JGKvFGslaZMd06rzer9ULxHZv99GWOdDh0cB9NT-3Hd8HyBwy_57/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjn5ycB69wXzCB_xKS5oey6uvf9S3wc0Ox5Kr1KwnjKRgtMv4_wjHYlBls9ivQQziucWrv56yJtPr-5_t9eBYTWjvpYW-uqNecZz1k5oNkc7TxNStpLof24agrtHga-gEgrwCfrYY-DACqOZXPBL9onuaDkj-dtDQg_2TIpTPuK_QWWdjyJO0DQtP7H2O/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP4Q-tD983lGvD4X4LkODwrshONgwBdV4Kg0HqVT_ZORpJ1ydrGmitjiYuOFNE3_GBVK_VnFxW7r0mIA2jGiHtUmEK9p29cEYLZcTSPFOeqdV-5K9D3IhcDb9AAVEyUzwvJlvyjD_aJjsKRa8u1NAs0E-XlRWqsgA1GfLBMycTHyeAsBjGm36OfPqL25AU/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkknJcMNSKZ9Sk6pjfvaBVgzNKcGwZCBNsajgY-qu-xFO9mOdFjzPig2VEKXUv8t_pCyIva35W5mKqgXCvKY0lbmqY68pcXr34AugZQYTVTQuJ2cAGC909i9YS6pRXxDs-KEx2GItjxfaDZvsKp7k2lUf1ymLro05JZd1hD5-qyWQW-ZodNj2APv4d56b/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHpc2l9VLiaMG-irC9MeuAP4tVYtuze9MvPNLiqS9TOHL3oJXk9IEVbDtsMzAJNyLYt_NlBoh6NozjdWIL9b33Z8XpSQc2_KjmAHjxvoA9MNrXLTS6m7LMMT7O6AU17wRuF9kPzM_FT6kcMrvnuQz4NjxueETUoet2SOjj4gIW-HbXOunxsvECO1HsxmLn/s135/2888-Sakura-Miko-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2888/",
+      "fetched_at": "2026-05-16T19:10:34.373Z",
+      "raw_id": "/nendoroid/details/n2888/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0643",
+  "name": {
+    "en": "Nendoroid Superman: Justice Edition",
+    "ja": "ねんどろいど スーパーマン ジャスティス・エディション (ねんどろいど すーぱーまん じゃすてぃす・えでぃしょん)",
+    "ko": "슈퍼맨 저스티스 에디션"
+  },
+  "series": {
+    "en": "Batman v Superman: Dawn of Justice",
+    "ja": "バットマン vs スーパーマン ジャスティスの誕生",
+    "ko": "배트맨 vs 슈퍼맨: 저스티스의 시작",
+    "code": "batman-v-superman-dawn-of-justice"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5750,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-m_DaJR8OI7Y/X4NPxNYyIbI/AAAAAAABl3I/XYakMR4H4qUo8myAep-nejdo9XAN8FzZgCLcBGAsYHQ/s270/643-Superman-Batman-Versus-Superman-Justice-DC-Comics-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-m_DaJR8OI7Y/X4NPxNYyIbI/AAAAAAABl3I/XYakMR4H4qUo8myAep-nejdo9XAN8FzZgCLcBGAsYHQ/s270/643-Superman-Batman-Versus-Superman-Justice-DC-Comics-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Cp6mVQQcVyg/X4i0n1JQy2I/AAAAAAAAsvQ/95C-RMqPDOUKMjr2Xbs5-4wZTc8OT7sdgCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jFe1Mp_u4zI/X4i0oH6Z_VI/AAAAAAAAsvU/MTKbJSDNl0M_RzjtibkwZMgHmHXniojPQCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jotYhN06BPg/X4i0oQboweI/AAAAAAAAsvY/OA6j9k5ESKM51S27Gt7YKLcCZpqT3y23gCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8tGlQsg4ccs/X4i0ojQdrOI/AAAAAAAAsvc/Zm-BFeBMKCAcqxyNEDogxFz-iX3EZj7DgCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rOSUy3FRtlI/X4i0ohTQBUI/AAAAAAAAsvg/tQtrO4hB230NVY0QnL8K6Mn-EeTV5wJTwCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LvETRv5NCe4/X4i0pI54tQI/AAAAAAAAsvk/cR-zTWlwMgoFsbzqw_BlAQOw7a5n7Ja5wCLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-opE6DXXRWNo/X4i0pRu63MI/AAAAAAAAsvo/8Na5uDi22AQXuwzV_89pNU7ds4khKb_9ACLcBGAsYHQ/s135/643-Superman-Batman-v-Superman-Dawn-of-Justice-DC-Comics-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n643/",
+      "fetched_at": "2026-05-16T19:10:34.717Z",
+      "raw_id": "/nendoroid/details/n643/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.472Z",
+      "raw_id": "Nendoroid/0600-0699/643.json"
+    }
+  ]
+}

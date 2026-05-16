@@ -1,0 +1,55 @@
+{
+  "num": "12793",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Mouse King",
+    "ja": "ねんどろいどどーる おようふくセット ねずみの王様 (ねんどろいどどーる おようふくせっと ねずみのおうさま)",
+    "ko": "마우스 킹 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-03",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220608/12793/99590/large/b4db2e33c5a2b16d560fadc1783f1e75.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.926Z",
+      "raw_id": "NendoroidDoll/Clothes/12793.json"
+    }
+  ]
+}

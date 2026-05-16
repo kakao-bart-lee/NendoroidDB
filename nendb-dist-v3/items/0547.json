@@ -1,0 +1,68 @@
+{
+  "num": "0547",
+  "name": {
+    "en": "Nendoroid Alice Cartelet (ねんどろいど ありす・かーたれっと)",
+    "ja": "ねんどろいど アリス・カータレット (ねんどろいど ありす・かーたれっと)",
+    "ko": "엘리스 카터릿"
+  },
+  "series": {
+    "en": "Hello!! Kin-iro Mosaic",
+    "ja": "ハロー！！きんいろモザイク",
+    "ko": "금빛 모자이크",
+    "code": "hello-kin-iro-mosaic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5151,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6QUhACy_lXk/X4NOg7egNQI/AAAAAAABlwY/5X_b5ckYszcdjvWVz9Y2mgf8kx3n6LkZACLcBGAsYHQ/s270/547-Alice-Cartelet-Hello%2521%2521-Kiniro-Mosaic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6QUhACy_lXk/X4NOg7egNQI/AAAAAAABlwY/5X_b5ckYszcdjvWVz9Y2mgf8kx3n6LkZACLcBGAsYHQ/s270/547-Alice-Cartelet-Hello%2521%2521-Kiniro-Mosaic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_XsvI1XAPxc/X4iss_eXkUI/AAAAAAAAsK4/Y4r5REBWFw4p4ylfPJeRG35HLy_CRH89ACLcBGAsYHQ/s135/547-Alice-Cartelet-Hello-Kin-iro-Mosaic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MM1RM4yDcy0/X4istIlWmxI/AAAAAAAAsK8/PZDcjaktdWc2vZRRi-HMwaX-t6iwta8BQCLcBGAsYHQ/s135/547-Alice-Cartelet-Hello-Kin-iro-Mosaic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DddYexndkKI/X4istXkuT_I/AAAAAAAAsLA/1R9q-KMmmi0yOW0ZFMAVlFSfI-zWuIjigCLcBGAsYHQ/s135/547-Alice-Cartelet-Hello-Kin-iro-Mosaic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qQAyLJdgqIs/X4istiEfFnI/AAAAAAAAsLE/9w-PbQQqDvcrSVOYWrQp3tiGKWBCoAIGACLcBGAsYHQ/s135/547-Alice-Cartelet-Hello-Kin-iro-Mosaic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-juN0R6fe0Lc/X4istiqNHrI/AAAAAAAAsLI/E6KEBOT-W7IDUAlESbjCQNeV5OHqdLndQCLcBGAsYHQ/s135/547-Alice-Cartelet-Hello-Kin-iro-Mosaic-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n547/",
+      "fetched_at": "2026-05-16T19:10:34.592Z",
+      "raw_id": "/nendoroid/details/n547/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.440Z",
+      "raw_id": "Nendoroid/0500-0599/547.json"
+    }
+  ]
+}

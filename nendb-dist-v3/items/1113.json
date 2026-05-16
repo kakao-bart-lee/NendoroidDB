@@ -1,0 +1,70 @@
+{
+  "num": "1113",
+  "name": {
+    "en": "Nendoroid Shield Hero",
+    "ja": "ねんどろいど 盾の勇者 (ねんどろいど たてのゆうしゃ)",
+    "ko": "이와타니 나오후미"
+  },
+  "series": {
+    "en": "The Rising of the Shield Hero",
+    "ja": "盾の勇者の成り上がり",
+    "ko": "방패 용사 성공담",
+    "code": "the-rising-of-the-shield-hero"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8210,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ikLSQOPoJds/X4NgUk1KfnI/AAAAAAABmZU/wcx7_Y2KTdE9zrfdqLJZnGVV1kwShXOnQCLcBGAsYHQ/s270/1113-Shield-Hero-The-Rising-of-the-shield-Hero-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ikLSQOPoJds/X4NgUk1KfnI/AAAAAAABmZU/wcx7_Y2KTdE9zrfdqLJZnGVV1kwShXOnQCLcBGAsYHQ/s270/1113-Shield-Hero-The-Rising-of-the-shield-Hero-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PFAZF-Bmt8Q/X4rvoE1AlWI/AAAAAAABo_E/EoSRQhtF3vAnc0ATBZd64_90Zr5NjzDqQCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MUCJi2hfuhU/X4rvoVG0tSI/AAAAAAABo_I/6hVTJ4FdPPcRO15agfv2Hf16zywYIYb7wCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qVz0Y5qP-qM/X4rvogZlNKI/AAAAAAABo_M/iiRstGShLQcxftreuoTsOFjfUTNZt7FYQCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BZHKN2QyRug/X4rvo9tEXFI/AAAAAAABo_Q/oFIeiUR3SLQAmY-zltU7S6437SjfNC7aQCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cibAZHMJUNo/X4rvpJeQa-I/AAAAAAABo_U/qtINa6CerPIX-Eqi_aCjzPrZP0uUW2nmwCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pmiyqAe38O0/X4rvpTbcQ6I/AAAAAAABo_Y/lbE-BVIRqnMtF6Oj9Z5uQU7QtYq24cR_ACLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bB_RSM5N4Bk/X4rvpkaLTtI/AAAAAAABo_c/ZFNYP-9Ae4IlHlVgjDnZW53aRXKo_HnBQCLcBGAsYHQ/s135/1113-Shield-Hero-The-Rising-of-the-Shield-Hero-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1113/",
+      "fetched_at": "2026-05-16T19:10:33.228Z",
+      "raw_id": "/nendoroid/details/n1113/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.587Z",
+      "raw_id": "Nendoroid/1100-1199/1113.json"
+    }
+  ]
+}

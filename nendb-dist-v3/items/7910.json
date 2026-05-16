@@ -1,0 +1,63 @@
+{
+  "num": "7910",
+  "name": {
+    "en": "Nendoroid Doll: Hand Parts Set (Peach/Cinnamon/Cream)",
+    "ja": "ねんどろいどどーる 手首パーツセット（peach/cinnamon/cream） (ねんどろいどどーる てくびぱーつせっと（ぴーち/しなもん/くりーむ）)",
+    "ko": "손 파츠 세트(피치/시나몬/크림)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-05",
+      "status": "released"
+    },
+    {
+      "date": "2020-09",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7910,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181214/7910/56842/large/47df3d90cb49a8b9af75dbde49e3286d.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.949Z",
+      "raw_id": "NendoroidDoll/Customizing/7910.json"
+    }
+  ]
+}

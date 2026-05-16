@@ -1,0 +1,67 @@
+{
+  "num": "1218",
+  "name": {
+    "en": "Nendoroid Captain America: Endgame Edition Standard Ver.",
+    "ja": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション スタンダードVer. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん すたんだーどVer.)",
+    "ko": "캡틴 아메리카 엔드게임 에디션 스탠다드 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8883,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sR15t1DpSlM/X4NiJJjDCpI/AAAAAAABmnw/l12lFSuq6uUcdHjTtCv8P4_AGZ4uDdJJQCLcBGAsYHQ/s270/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sR15t1DpSlM/X4NiJJjDCpI/AAAAAAABmnw/l12lFSuq6uUcdHjTtCv8P4_AGZ4uDdJJQCLcBGAsYHQ/s270/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lhYruVlmw_s/X4rzQmhIM5I/AAAAAAABpro/it8rWlzgh9UJ5SENR88jbYVTC370SDswgCLcBGAsYHQ/s135/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-93vnQzkb9l8/X4rzRCsJGDI/AAAAAAABprs/LwTMMJPRwgoql-WzWuxzsbdjctShz-8OwCLcBGAsYHQ/s135/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gHQFhsRKFwc/X4rzRdKZ7TI/AAAAAAABprw/YEMKaTJDpdgJdla3t_pstB960hEivAI3QCLcBGAsYHQ/s135/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sEGDaHov2kU/X4rzRa61OyI/AAAAAAABpr0/2lDFzpejYMwO5i-4I_J1XkZh4WwcdcN2gCLcBGAsYHQ/s135/1218-Captain-America-Avengers-Endgame-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1218/",
+      "fetched_at": "2026-05-16T19:10:33.293Z",
+      "raw_id": "/nendoroid/details/n1218/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.613Z",
+      "raw_id": "Nendoroid/1200-1299/1218.json"
+    }
+  ]
+}

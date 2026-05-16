@@ -1,0 +1,66 @@
+{
+  "num": "0378",
+  "name": {
+    "en": "Nendoroid Neptune (ねんどろいど ねぷてゅーぬ)",
+    "ja": "ねんどろいど ネプテューヌ (ねんどろいど ねぷてゅーぬ)",
+    "ko": "넵튠"
+  },
+  "series": {
+    "en": "Hyperdimension Neptunia",
+    "ja": "超次元ゲイム ネプテューヌ",
+    "ko": "초차원게임 넵튠",
+    "code": "hyperdimension-neptunia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4122,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MbyrSQAbsM4/X4NNBD5aBxI/AAAAAAABlkY/7OHD6fXiy987URR42RlAD6rzVqnkqZicACLcBGAsYHQ/s270/378-Neptune-Hyperdimension%2BNeptunia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MbyrSQAbsM4/X4NNBD5aBxI/AAAAAAABlkY/7OHD6fXiy987URR42RlAD6rzVqnkqZicACLcBGAsYHQ/s270/378-Neptune-Hyperdimension%2BNeptunia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Qk_kvNICSfg/X4dbYh1ffTI/AAAAAAAArM0/gbYAouSCwd4lfSPZlb7-fjvXCf5WiVCPQCLcBGAsYHQ/s135/378-Neptune-Hyperdimension-Neptunia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZcCRvirCfL0/X4dbYg79wrI/AAAAAAAArMw/Y_A-edw4o4AGlGyxQ1z7hRc2sH52GyPSACLcBGAsYHQ/s135/378-Neptune-Hyperdimension-Neptunia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y0RvVX8AD40/X4dbY-eO5JI/AAAAAAAArM8/xQsoB_cRJKEbBDrVNtuFniqq9ErbTPvEACLcBGAsYHQ/s135/378-Neptune-Hyperdimension-Neptunia-Anime-and-Manga-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n378/",
+      "fetched_at": "2026-05-16T19:10:34.493Z",
+      "raw_id": "/nendoroid/details/n378/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.365Z",
+      "raw_id": "Nendoroid/0300-0399/378.json"
+    }
+  ]
+}

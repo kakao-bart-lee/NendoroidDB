@@ -1,0 +1,67 @@
+{
+  "num": "0321",
+  "name": {
+    "en": "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)",
+    "ja": "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
+    "ko": "타무라 유카리"
+  },
+  "series": {
+    "en": "Yukari Tamura",
+    "ja": "田村ゆかり",
+    "ko": "실존인물(성우)",
+    "code": "yukari-tamura"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5133,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3916,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8HarMWd2f3w/X4NMomdANCI/AAAAAAABlgs/ArhmuPkXlQEJCdMNuv8xwamEpaYzfkpyQCLcBGAsYHQ/s270/321-Yukari-Tamura-King-Records-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8HarMWd2f3w/X4NMomdANCI/AAAAAAABlgs/ArhmuPkXlQEJCdMNuv8xwamEpaYzfkpyQCLcBGAsYHQ/s270/321-Yukari-Tamura-King-Records-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-67rI5GNsjiA/X4daRw9qrsI/AAAAAAAAq6Q/vmEZplYO7p8Em1aooGlpZChKepLV1lU7gCLcBGAsYHQ/s135/321-Yuki-Tamura-King-Records-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DPLhdzN7ItQ/X4daR4PF_EI/AAAAAAAAq6U/SxQVc_ICbncSSWxf_vkmcT2ahlAC-__1ACLcBGAsYHQ/s135/321-Yuki-Tamura-King-Records-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Sv4Op5GqCrI/X4daR0qlByI/AAAAAAAAq6Y/_GuCMjeZ2HofB2RJNW_KeAYBslUyf6xiQCLcBGAsYHQ/s135/321-Yuki-Tamura-King-Records-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-jVtVfrQOZw8/X4daSSRJv-I/AAAAAAAAq6c/APkiOEZmTa4Dr4mpOzvPd1-Eh6OSzNWmwCLcBGAsYHQ/s135/321-Yuki-Tamura-King-Records-Celebrity-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n321/",
+      "fetched_at": "2026-05-16T19:10:34.460Z",
+      "raw_id": "/nendoroid/details/n321/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.351Z",
+      "raw_id": "Nendoroid/0300-0399/321.json"
+    }
+  ]
+}

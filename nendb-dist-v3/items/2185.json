@@ -1,0 +1,68 @@
+{
+  "num": "2185",
+  "name": {
+    "en": "Nendoroid Yamada Asaemon Sagiri",
+    "ja": "ねんどろいど 山田浅ェ門 佐切 (ねんどろいど やまだあさえもん さぎり)",
+    "ko": "야마다 아사에몬 사기리"
+  },
+  "series": {
+    "en": "Hell's Paradise: Jigokuraku",
+    "ja": "地獄楽",
+    "ko": "지옥락",
+    "code": "hell-s-paradise-jigokuraku"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14506,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-at20bioEKsU/ZKXXP1_O0EI/AAAAAAAA-kc/ns3oIy6ufyQH-WG0gW609jF8qBgFd569gCNcBGAsYHQ/s270/2185-DX-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-at20bioEKsU/ZKXXP1_O0EI/AAAAAAAA-kc/ns3oIy6ufyQH-WG0gW609jF8qBgFd569gCNcBGAsYHQ/s270/2185-DX-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FFS6q2O_Bfc/ZKXmYJRlCbI/AAAAAAAA_BM/B7x0IGwHDsIlMePh89swTLq4KwaXSZrpACNcBGAsYHQ/s135/2185-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sn_sAToFEtQ/ZKXmYOFymgI/AAAAAAAA_BQ/vtRh5d26vqM2UYWCVC-OTdIJ5GMVThChgCNcBGAsYHQ/s135/2185-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eV1BBLpxiyI/ZKXmYhrGRNI/AAAAAAAA_BU/SsaTEIpHlTsiQyF-72GMP3QLV74U3ROhQCNcBGAsYHQ/s135/2185-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Kxa74kvmaYY/ZKXmYjUJVlI/AAAAAAAA_BY/FtTKJKZ1BEsP3FSRfYmTkAE5DLY7_YvswCNcBGAsYHQ/s135/2185-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tiphNW1y7A8/ZKXmYwEMwDI/AAAAAAAA_Bc/m0v1kH7nVyApNtaaZ2HpOKbvuExXEMZHACNcBGAsYHQ/s135/2185-Yamada-Asaemon-Sagiri-Hells-Paradise-Jigokuraku-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2185/",
+      "fetched_at": "2026-05-16T19:10:33.889Z",
+      "raw_id": "/nendoroid/details/n2185/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.850Z",
+      "raw_id": "Nendoroid/2100-2199/2185.json"
+    }
+  ]
+}

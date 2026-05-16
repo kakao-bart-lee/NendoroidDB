@@ -1,0 +1,68 @@
+{
+  "num": "0613",
+  "name": {
+    "en": "Nendoroid Peko-chan",
+    "ja": "ねんどろいど ペコちゃん (ねんどろいど ぺこちゃん)",
+    "ko": "페코쨩"
+  },
+  "series": {
+    "en": "Fujiya Peko-chan",
+    "ja": "不二家 ペコちゃん",
+    "ko": "후지야 페코쨩",
+    "code": "fujiya-peko-chan"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5546,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hiaWhb6KDPI/X4NPogydPcI/AAAAAAABl1Q/L3Rb-9RRdrgXavMOHFy11neKBIHMqrCwACLcBGAsYHQ/s270/613-Peko-Chan-Fujiya-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hiaWhb6KDPI/X4NPogydPcI/AAAAAAABl1Q/L3Rb-9RRdrgXavMOHFy11neKBIHMqrCwACLcBGAsYHQ/s270/613-Peko-Chan-Fujiya-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-JujYKJJrnfo/X4izypW2Y8I/AAAAAAAAskk/qnEV1z--Z5gPVrEJUCacDcpAZyLUkf5AwCLcBGAsYHQ/s135/613-Peko-chan-Fujiya-Mascots-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hRZ6Yzv96rM/X4izy1PC3lI/AAAAAAAAsko/0_8EuIXtDkYxNhgkgfghHFB6iKnSMjehgCLcBGAsYHQ/s135/613-Peko-chan-Fujiya-Mascots-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5IFJoCY2T7o/X4izzZrxgVI/AAAAAAAAsks/z22jaUmHBswOWgHCUloUOCjDmjRT7TOsQCLcBGAsYHQ/s135/613-Peko-chan-Fujiya-Mascots-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NO8hMJPXzuY/X4izz8O_LFI/AAAAAAAAskw/U34OawiY-VkxvFjYNVl3-lepiCCwJYhmgCLcBGAsYHQ/s135/613-Peko-chan-Fujiya-Mascots-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hGFnFP8B2Z4/X4iz0V_oWZI/AAAAAAAAsk0/FpYQzBStPXg0GkupMDulP8nz-Ocj8XRkgCLcBGAsYHQ/s135/613-Peko-chan-Fujiya-Mascots-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n613/",
+      "fetched_at": "2026-05-16T19:10:34.692Z",
+      "raw_id": "/nendoroid/details/n613/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.462Z",
+      "raw_id": "Nendoroid/0600-0699/613.json"
+    }
+  ]
+}

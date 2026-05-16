@@ -1,0 +1,55 @@
+{
+  "num": "12705",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Chinese Dress (Red/Blue)",
+    "ja": "ねんどろいどどーる おようふくセット チャイナドレス（レッド/ブルー） (ねんどろいどどーる おようふくせっと ちゃいなどれす（れっど/ぶるー）)",
+    "ko": "중국 드레스(레드/블루)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12705,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220518/12705/98841/large/c3b790b83983943ebdd8042d3a47d0a9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.925Z",
+      "raw_id": "NendoroidDoll/Clothes/12705.json"
+    }
+  ]
+}

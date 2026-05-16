@@ -1,0 +1,68 @@
+{
+  "num": "0096b",
+  "name": {
+    "en": "Nendoroid Jiei-tan (ねんどろいど　じえいたん)",
+    "ja": "ねんどろいど じえいたん (ねんどろいど　じえいたん )",
+    "ko": "해상 지에땅"
+  },
+  "series": {
+    "en": "Magical Marine Pixel Maritan",
+    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko": "마법의 해병대원 픽셀☆마리땅",
+    "code": "magical-marine-pixel-maritan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2737,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-128ZiTN1k1k/X4MSKm1t3aI/AAAAAAAApck/lpZz-bM7UAgAQcB5JDaeAGpUKK8L_N7xACLcBGAsYHQ/s270/096B-Jiei-Tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-128ZiTN1k1k/X4MSKm1t3aI/AAAAAAAApck/lpZz-bM7UAgAQcB5JDaeAGpUKK8L_N7xACLcBGAsYHQ/s270/096B-Jiei-Tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZAiICztKMHk/X4GxQ82eR8I/AAAAAAAApSc/njA4XxbE-ogO0CU8HUkbGMp_YZ42KNSFQCLcBGAsYHQ/s135/096-B-Jiei-tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-I8PUODKRRCY/X4GxRPaZSnI/AAAAAAAApSg/tFQaPlIn-3Id_1bRgtcOdBlbb2u5GLxBgCLcBGAsYHQ/s135/096-B-Jiei-tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TP33JhUM0FY/X4GxRc6NCzI/AAAAAAAApSk/LoPBKx0vl7EGvGjMufLc-XjKA0H2B7eHwCLcBGAsYHQ/s135/096-B-Jiei-tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ECfCwLSR9j8/X4GxRQKVrXI/AAAAAAAApSo/heblijpwy8EMJgOpk9VBxpUZRS3X9QkhgCLcBGAsYHQ/s135/096-B-Jiei-tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NAxW9PQUpfg/X4GxRsKgGwI/AAAAAAAApSw/ZDSmA0Y4a-UI2hDej2O1-eAGxaRmAblwACLcBGAsYHQ/s135/096-B-Jiei-tan-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n096b/",
+      "fetched_at": "2026-05-16T19:10:33.124Z",
+      "raw_id": "/nendoroid/details/n096b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.287Z",
+      "raw_id": "Nendoroid/0000-0099/096b.json"
+    }
+  ]
+}

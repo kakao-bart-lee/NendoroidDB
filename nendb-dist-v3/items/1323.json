@@ -1,0 +1,70 @@
+{
+  "num": "1323",
+  "name": {
+    "en": "Nendoroid Doppo Kannonzaka",
+    "ja": "ねんどろいど 観音坂独歩 (ねんどろいど かんのんざかどっぽ)",
+    "ko": "칸논자카 돗포"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6050,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9434,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kgJlcAXOjmI/X4Njo9aLYfI/AAAAAAABm0U/zM8IUBx_0XIOYaOSJe1DcMKo0EvLyyVEwCLcBGAsYHQ/s270/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kgJlcAXOjmI/X4Njo9aLYfI/AAAAAAABm0U/zM8IUBx_0XIOYaOSJe1DcMKo0EvLyyVEwCLcBGAsYHQ/s270/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EsBM9ZmT6_I/X4s88NCOY5I/AAAAAAABqYE/7LN26V3-EcUJbGIdv4h2jXPtP2LpW3gMQCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-01OiAHdwGdE/X4s88WWtEbI/AAAAAAABqYI/fWcml7BMRVkVBqmSSq9u8Q2NK8KwXPGuQCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cwrf223CosQ/X4s88oKbPDI/AAAAAAABqYM/gm8sIJ-Sngk6ez067GJmWPn_f7j7YpKYwCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aD4DvnO57Mw/X4s882J5cVI/AAAAAAABqYQ/NGXW3LaOCeI3pbP3fuI_8FE4DsLO4bacgCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Cm4K8U6Bfdk/X4s89J0LUNI/AAAAAAABqYU/2Y5_jjE1UkYNh8lEvifFBA3hzf3jXi3XQCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8OIz2xMuddQ/X4s89V5JnNI/AAAAAAABqYY/MH8URQgw2sAsSmQ6JGhnvjOyRDDGR9TxgCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-DLvyYf1Gc7Y/X4s89uG_qwI/AAAAAAABqYc/_uA4AECh6A0eQqfVQACejI4Fqwat54_IgCLcBGAsYHQ/s135/1323-Doppo-Kannonzaka-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1323/",
+      "fetched_at": "2026-05-16T19:10:33.358Z",
+      "raw_id": "/nendoroid/details/n1323/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.639Z",
+      "raw_id": "Nendoroid/1300-1399/1323.json"
+    }
+  ]
+}

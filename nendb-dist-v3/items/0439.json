@@ -1,0 +1,68 @@
+{
+  "num": "0439",
+  "name": {
+    "en": "Nendoroid G-rank Receptionist (ねんどろいど じーきゅううけつけじょう)",
+    "ja": "ねんどろいど Ｇ級受付嬢 (ねんどろいど じーきゅううけつけじょう)",
+    "ko": "G급 접수원"
+  },
+  "series": {
+    "en": "Monster Hunter Frontier G",
+    "ja": "モンスターハンター フロンティアG",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-frontier-g"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 10780,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4491,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9booTGSn-iQ/X4NNw5LcpPI/AAAAAAABlo8/1w7B1k0-XzsrnbyeUTxCxWcuQ9RBxU9QgCLcBGAsYHQ/s270/439-G-Rank-Receptionist-Monster-Hunter-Frontier-G-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9booTGSn-iQ/X4NNw5LcpPI/AAAAAAABlo8/1w7B1k0-XzsrnbyeUTxCxWcuQ9RBxU9QgCLcBGAsYHQ/s270/439-G-Rank-Receptionist-Monster-Hunter-Frontier-G-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-a7wZpn7xUBQ/X4deFmUFI4I/AAAAAAAAri0/u7pEZS7g5Ns_Rs9LklN7yayknWaUYAsFwCLcBGAsYHQ/s135/439-G-rank-Receptionist-Monster-Hunter-Frontier-G-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FS4x8UZ8nzw/X4deF0zMleI/AAAAAAAAri4/xJYgKyfmw1QlJSch7hGBCWniYRwKZx9hACLcBGAsYHQ/s135/439-G-rank-Receptionist-Monster-Hunter-Frontier-G-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-a4eRINN7eP4/X4deGJx--HI/AAAAAAAAri8/BEkjvVUjTpIeiUNsLkzb2wwVi6zElfTgwCLcBGAsYHQ/s135/439-G-rank-Receptionist-Monster-Hunter-Frontier-G-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5SOKu8gUSCA/X4deGbkqIgI/AAAAAAAArjA/3Y25bgGAZ8Q6voAAa9riluTPRhCEbAebQCLcBGAsYHQ/s135/439-G-rank-Receptionist-Monster-Hunter-Frontier-G-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GscmrYeAkqA/X4deGqWGjmI/AAAAAAAArjE/5BKAg7ybimsNClAgPkmum2JsrPFcyA78ACLcBGAsYHQ/s135/439-G-rank-Receptionist-Monster-Hunter-Frontier-G-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n439/",
+      "fetched_at": "2026-05-16T19:10:34.530Z",
+      "raw_id": "/nendoroid/details/n439/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.379Z",
+      "raw_id": "Nendoroid/0400-0499/439.json"
+    }
+  ]
+}

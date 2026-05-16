@@ -1,0 +1,68 @@
+{
+  "num": "0911",
+  "name": {
+    "en": "Nendoroid Common Raccoon",
+    "ja": "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
+    "ko": "아라이상"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7198,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-nzeb8bgueaM/X4NedZMC39I/AAAAAAABmKU/NpMdYKzV3wwG9PuJHDXx0WxYi8g2IWb0wCLcBGAsYHQ/s270/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-nzeb8bgueaM/X4NedZMC39I/AAAAAAABmKU/NpMdYKzV3wwG9PuJHDXx0WxYi8g2IWb0wCLcBGAsYHQ/s270/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sj23F8nzfWI/X4rnhbNAQPI/AAAAAAABnrY/vKeo22DlhLoCT9B7TEYO-y-osz41X2ViwCLcBGAsYHQ/s135/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v3fQcnckHQs/X4rnhqQ6LgI/AAAAAAABnrc/n9ZpqpweYusu8PpKj1YC8y9QtgLMDJdqwCLcBGAsYHQ/s135/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1v77cbJqfMU/X4rnh9ThKII/AAAAAAABnrg/G9xVf73VGnIsKTqoRNjYYnWpJQpQPidigCLcBGAsYHQ/s135/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8208h8LMHn0/X4rniDx1d1I/AAAAAAABnrk/cHcBKXPM2SgqNgAbUAnuXLdv2wXO6FY9gCLcBGAsYHQ/s135/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ntwmzsiMDV4/X4rniWWoH2I/AAAAAAABnro/T8cyHdyfF9Y-C3kY5gi4qRnK6uInf1tJwCLcBGAsYHQ/s135/911-Common-Raccoon-Kemono-Friends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n911/",
+      "fetched_at": "2026-05-16T19:10:34.868Z",
+      "raw_id": "/nendoroid/details/n911/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.536Z",
+      "raw_id": "Nendoroid/0900-0999/911.json"
+    }
+  ]
+}

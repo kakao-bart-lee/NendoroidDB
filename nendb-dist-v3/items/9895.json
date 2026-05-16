@@ -1,0 +1,55 @@
+{
+  "num": "9895",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Sailor Girl - Mint Chocolate)",
+    "ja": "ねんどろいどどーる おようふくセット Sailor Girl（Chocomint） (ねんどろいどどーる おようふくせっと せーらー がーる（ちょこみんと）)",
+    "ko": "세일러 걸(민트초코)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9895,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200804/9895/72900/large/07e10aad0f931686ed14addcdf438a84.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.944Z",
+      "raw_id": "NendoroidDoll/Clothes/9895.json"
+    }
+  ]
+}

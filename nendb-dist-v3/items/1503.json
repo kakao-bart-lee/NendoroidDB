@@ -1,0 +1,68 @@
+{
+  "num": "1503",
+  "name": {
+    "en": "Nendoroid Mickey Mouse: Fantasia Ver.",
+    "ja": "ねんどろいど ミッキーマウス Fantasia Ver. (ねんどろいど みっきーまうす Fantasia Ver.)",
+    "ko": "미키마우스 Fantasia Ver."
+  },
+  "series": {
+    "en": "Fantasia",
+    "ja": "ファンタジア",
+    "ko": "환타지아",
+    "code": "fantasia"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wtrbzWo-Z3U/X58YkBPoNiI/AAAAAAAAuFk/s53atoOn7moUMF9AUmT4jdNUDX-oUpe5QCLcBGAsYHQ/s270/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wtrbzWo-Z3U/X58YkBPoNiI/AAAAAAAAuFk/s53atoOn7moUMF9AUmT4jdNUDX-oUpe5QCLcBGAsYHQ/s270/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-El6fSsI-WNY/X58aDTiGIJI/AAAAAAAAuJ0/EICsdD_b_ysTVZM5P91xKqoH6X087tyLgCLcBGAsYHQ/s135/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-REVJfLaWogA/X58aDnTrS7I/AAAAAAAAuJ4/VcP10VVgJrUKr90SezKFI869XFQe6XzqACLcBGAsYHQ/s135/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N_l3bVQfW7A/X58aD946JWI/AAAAAAAAuJ8/R7ML4QoLh3EKDD0SO84BegENnPP3RTEcgCLcBGAsYHQ/s135/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z12kNTxziBo/X58aEK_NWSI/AAAAAAAAuKA/20svthttTvs2XUZlBdCXXuDEnf7u6DLmQCLcBGAsYHQ/s135/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CuOOtqS3iLY/X58aEq-mehI/AAAAAAAAuKE/U4yCVFeBRsknfqNbEQGjGnL2NfImog0nwCLcBGAsYHQ/s135/1503-Mickey-Mouse-Fantasia-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1503/",
+      "fetched_at": "2026-05-16T19:10:33.470Z",
+      "raw_id": "/nendoroid/details/n1503/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.681Z",
+      "raw_id": "Nendoroid/1500-1599/1503.json"
+    }
+  ]
+}

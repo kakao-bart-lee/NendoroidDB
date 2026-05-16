@@ -1,0 +1,59 @@
+{
+  "num": "981-DX",
+  "name": {
+    "en": "Nendoroid Rin Shima DX Ver.",
+    "ja": "ねんどろいど 志摩リン DX Ver. (ねんどろいど しまりん DX Ver.)",
+    "ko": "시마 린 DX"
+  },
+  "series": {
+    "en": "Laid-Back Camp",
+    "ja": "ゆるキャン△",
+    "ko": "유루캠△",
+    "code": "laid-back-camp"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-03",
+      "status": "released"
+    },
+    {
+      "date": "2021-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7028,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7607,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20180912/7607/54559/large/6f19a9ac0c2e1abd0a2a490a6353fe08.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.555Z",
+      "raw_id": "Nendoroid/0900-0999/981-DX.json"
+    }
+  ]
+}

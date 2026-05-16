@@ -1,0 +1,67 @@
+{
+  "num": "1990",
+  "name": {
+    "en": "Nendoroid Unicorn",
+    "ja": "ねんどろいど ユニコーン (ねんどろいど ゆにこーん)",
+    "ko": "유니콘"
+  },
+  "series": {
+    "en": "Azur Lane",
+    "ja": "アズールレーン",
+    "ko": "벽람항로",
+    "code": "azur-lane"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13457,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-foMwGyxBtQ0/Y45wUFP84bI/AAAAAAAA7r0/zv382blTh4EM2oLxqBiaIZCXrsl8unWsQCNcBGAsYHQ/s270/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-foMwGyxBtQ0/Y45wUFP84bI/AAAAAAAA7r0/zv382blTh4EM2oLxqBiaIZCXrsl8unWsQCNcBGAsYHQ/s270/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hPZNdiamJa4/Y451mFRtwFI/AAAAAAAA72Q/JlJ_1LIcCtwpRUydEUYk0cD5Eagdm1giACNcBGAsYHQ/s135/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IwIjFryUP60/Y451mnCmF9I/AAAAAAAA72U/y-_1a9cIeZQll7yjkUPROngKd5ptMEtpQCNcBGAsYHQ/s135/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lsgrtaeUQm0/Y451nHk_DcI/AAAAAAAA72Y/Lc7O3s4Mb3IuCPKDM7JoH2tagTltZMKrgCNcBGAsYHQ/s135/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-k8xDO3hwaL8/Y451nuBL4vI/AAAAAAAA72c/Hix2Aln3Zyc14HQ4GH3y4XHad89enlqhwCNcBGAsYHQ/s135/1990-Unicorn-Azur-Lane-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1990/",
+      "fetched_at": "2026-05-16T19:10:33.772Z",
+      "raw_id": "/nendoroid/details/n1990/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.799Z",
+      "raw_id": "Nendoroid/1900-1999/1990.json"
+    }
+  ]
+}

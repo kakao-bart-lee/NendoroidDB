@@ -1,0 +1,67 @@
+{
+  "num": "0530",
+  "name": {
+    "en": "Nendoroid Nozomi Tojo (ねんどろいど とうじょうのぞみ)",
+    "ja": "ねんどろいど 東條希 (ねんどろいど とうじょうのぞみ)",
+    "ko": "토죠 노조미"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5053,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qOgvO1WkCNY/X4NOcG2oNkI/AAAAAAABlvQ/3Idj-AkpLQgRZancVyaCyZ5VbznEVmn-QCLcBGAsYHQ/s270/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qOgvO1WkCNY/X4NOcG2oNkI/AAAAAAABlvQ/3Idj-AkpLQgRZancVyaCyZ5VbznEVmn-QCLcBGAsYHQ/s270/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UrJsV_AFXM4/X4isSUWiRDI/AAAAAAAAsE8/bmGJJOya4iwzKYngSRv7VX6V-bU-S-cgACLcBGAsYHQ/s135/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-f4I0y_mbCSc/X4isSbhSe4I/AAAAAAAAsFA/6buE-dfMw-gy6HroXSTJoFPAo7tE26kzACLcBGAsYHQ/s135/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iQEcg6nyfbk/X4isSwtxtkI/AAAAAAAAsFE/tRsiq1pKzT49DpL5JH94S8cGPzVrXb5swCLcBGAsYHQ/s135/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EWzpj-pesDQ/X4isTEDWawI/AAAAAAAAsFI/Q_xT8-Wq20ESJHXn_9IDTunnFEh2wyO_QCLcBGAsYHQ/s135/530-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n530/",
+      "fetched_at": "2026-05-16T19:10:34.581Z",
+      "raw_id": "/nendoroid/details/n530/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.430Z",
+      "raw_id": "Nendoroid/0500-0599/530.json"
+    }
+  ]
+}

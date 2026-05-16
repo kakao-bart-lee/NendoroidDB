@@ -1,0 +1,68 @@
+{
+  "num": "1819",
+  "name": {
+    "en": "Nendoroid Zombie Shiromo",
+    "ja": "ねんどろいど ゾンビシロモ (ねんどろいど ぞんびしろも)",
+    "ko": "좀비 시로모"
+  },
+  "series": {
+    "en": "Pui Pui Molcar",
+    "ja": "PUI PUI モルカー",
+    "ko": "푸이푸이 모루카",
+    "code": "pui-pui-molcar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12334,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8b64U520q3c/YhAE5rT603I/AAAAAAAA3l0/CBgaHoP1US4QV5Ms6ZiCniqW63IziXTfACNcBGAsYHQ/s270/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8b64U520q3c/YhAE5rT603I/AAAAAAAA3l0/CBgaHoP1US4QV5Ms6ZiCniqW63IziXTfACNcBGAsYHQ/s270/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bAoJJMZ6xJc/YhAMag2cDpI/AAAAAAAA3xs/3eus-gn703skjrqO1kjfcH04UXCVz5prgCNcBGAsYHQ/s135/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FY8hvW6db4Y/YhAMayiSwuI/AAAAAAAA3xo/0-_QBBd_VkIWjbXHfsJo2S0gAE3yI2wDwCNcBGAsYHQ/s135/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-J9LY--m7qD4/YhAMbIx4GbI/AAAAAAAA3xw/jIg-S638yFgY8J-cbs2IxboSVMbbJW6eACNcBGAsYHQ/s135/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gHRDugffaMo/YhAMbsxWm4I/AAAAAAAA3x0/o3UjN2YwWOsCJaxoKEzRijDMcRWZgygfwCNcBGAsYHQ/s135/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-f5rAckkx1FI/YhAMcO9Y6pI/AAAAAAAA3x4/cvhvjqreqlMcxApT3N-OHtsuuORFHlAqQCNcBGAsYHQ/s135/1819-Zombie-Shiromo-Pui-Pui-Molcar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1819/",
+      "fetched_at": "2026-05-16T19:10:33.666Z",
+      "raw_id": "/nendoroid/details/n1819/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.759Z",
+      "raw_id": "Nendoroid/1800-1899/1819.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1171",
+  "name": {
+    "en": "Nendoroid Kasumi Toyama: Stage Outfit Ver.",
+    "ja": "ねんどろいど 戸山香澄 ステージ衣装Ver. (ねんどろいど とやまかすみ すてーじいしょうVer.)",
+    "ko": "토야마 카스미 스테이지 의상 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8581,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fldDINv1i0U/X4Ngpi27B1I/AAAAAAABmdM/suDJBWw8OrU7kuOMaws--e1pgWK6zWu1wCLcBGAsYHQ/s270/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fldDINv1i0U/X4Ngpi27B1I/AAAAAAABmdM/suDJBWw8OrU7kuOMaws--e1pgWK6zWu1wCLcBGAsYHQ/s270/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qwgp1VzLi6g/X4rxMniy8MI/AAAAAAABpWk/4fCQCJ5Od6cdavsc7tO3IoYFSxKLlID2QCLcBGAsYHQ/s135/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-INvlfeN3Uvw/X4rxM1Hkz7I/AAAAAAABpWo/-UEqSD3k9qog3SW8YQU05zrg7HtMQ949gCLcBGAsYHQ/s135/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mAJ4EeITe1U/X4rxNAzPKZI/AAAAAAABpWs/YbV9kf8iPD4fH1FENjlz1iJdhElX_1H3wCLcBGAsYHQ/s135/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bqAeWAndYAk/X4rxNesYD1I/AAAAAAABpWw/mTt0x52ji4YNqxfNHwoLisoTf-fhtoHGACLcBGAsYHQ/s135/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-f0WE8rcimwE/X4rxNpctp7I/AAAAAAABpW0/m76WomVIgyUEqoX1MlFLtzaGxwrY9VGMQCLcBGAsYHQ/s135/1171-Kasumi-Toyama-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1171/",
+      "fetched_at": "2026-05-16T19:10:33.265Z",
+      "raw_id": "/nendoroid/details/n1171/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.602Z",
+      "raw_id": "Nendoroid/1100-1199/1171.json"
+    }
+  ]
+}

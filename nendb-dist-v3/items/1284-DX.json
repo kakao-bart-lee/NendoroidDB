@@ -1,0 +1,55 @@
+{
+  "num": "1284-DX",
+  "name": {
+    "en": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver. DX",
+    "ja": "ねんどろいど ハンター♀ ナルガα Ver. DX (ねんどろいど はんたー♀ なるがα Ver. DX)",
+    "ko": "헌터♀ 나르가α DX Ver. "
+  },
+  "series": {
+    "en": "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world-iceborne"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-09",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9274,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200214/9274/67663/large/dd1c34e493b5aae0477d224603795be7.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.629Z",
+      "raw_id": "Nendoroid/1200-1299/1284-DX.json"
+    }
+  ]
+}

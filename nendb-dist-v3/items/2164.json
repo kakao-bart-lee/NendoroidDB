@@ -1,0 +1,68 @@
+{
+  "num": "2164",
+  "name": {
+    "en": "Nendoroid Miko Iino",
+    "ja": "ねんどろいど 伊井野ミコ (ねんどろいど いいのみこ)",
+    "ko": "미코 이이노"
+  },
+  "series": {
+    "en": "Kaguya-sama: Love is War - The First Kiss That Never Ends",
+    "ja": "アニメ「かぐや様は告らせたい-ファーストキッスは終わらない-」",
+    "ko": "카구야 님은 고백받고 싶어",
+    "code": "kaguya-sama-love-is-war-the-first-kiss-that-never-ends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14409,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-y1wvCnTTbTQ/ZIzT6AeLpZI/AAAAAAAA-P8/Nj9HzG2kWk0N3ChMBU5TP99k2eFJf4clwCNcBGAsYHQ/s270/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-y1wvCnTTbTQ/ZIzT6AeLpZI/AAAAAAAA-P8/Nj9HzG2kWk0N3ChMBU5TP99k2eFJf4clwCNcBGAsYHQ/s270/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Yx9SSv0m-B4/ZIzWEkdz6FI/AAAAAAAA-XE/t3Yuj79e7yURLzqX5McETFsNrBg7DtalwCNcBGAsYHQ/s135/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zqwyUHz3gcQ/ZIzWE66UZ-I/AAAAAAAA-XI/JaFRU-16vfAN-eJV9Tg_5NmHqo4r-9OaACNcBGAsYHQ/s135/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ySw6lYqHzyA/ZIzWFdhkxpI/AAAAAAAA-XM/Kdv0X1L4OBkUXWJL3_muyXhFkNp2pmvbACNcBGAsYHQ/s135/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6i9io0jwGXU/ZIzWFzliZXI/AAAAAAAA-XQ/B5mBu_X2WsIEyXddrYsH26uWiGowCDKGgCNcBGAsYHQ/s135/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lXGM-LrRyu0/ZIzWGCqY8hI/AAAAAAAA-XU/3W0HwBhA5SMpLdm9bnJTnAii_5MCCDbsgCNcBGAsYHQ/s135/2164-Miko-Iino-Kaguya-sama-Love-is-War-The-First-Kiss-That-Never-Ends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2164/",
+      "fetched_at": "2026-05-16T19:10:33.876Z",
+      "raw_id": "/nendoroid/details/n2164/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.843Z",
+      "raw_id": "Nendoroid/2100-2199/2164.json"
+    }
+  ]
+}

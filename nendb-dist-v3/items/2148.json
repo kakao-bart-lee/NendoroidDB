@@ -1,0 +1,70 @@
+{
+  "num": "2148",
+  "name": {
+    "en": "Nendoroid Akane Shinjo (New Order)",
+    "ja": "ねんどろいど 新条アカネ（ニューオーダー） (ねんどろいど しんじょうあかね（にゅーおーだー）)",
+    "ko": "신죠 아카네(뉴 오더)"
+  },
+  "series": {
+    "en": "GRIDMAN UNIVERSE",
+    "ja": "劇場版『グリッドマン ユニバース』",
+    "ko": "그리드맨 유니버스",
+    "code": "gridman-universe"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14326,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-419BcMwv3ak/ZFqWg4EmXCI/AAAAAAAA90k/OznH-d25KK85Q5Yo1hnQZhyxWMbuBKg-QCNcBGAsYHQ/s270/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-419BcMwv3ak/ZFqWg4EmXCI/AAAAAAAA90k/OznH-d25KK85Q5Yo1hnQZhyxWMbuBKg-QCNcBGAsYHQ/s270/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eSBjEBKRySw/ZFqcXYiTYzI/AAAAAAAA-C0/-qKePLruPq0tbvDYLDos0h-N-_XwQQ4zACNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nluojBvVHS8/ZFqcXaOCsSI/AAAAAAAA-C4/gXMCdArGSzoZqLUpZkaxfFplbmpa0e6pACNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r2T7tIQbimk/ZFqcXgECBNI/AAAAAAAA-Cw/29ewd9W3XnMPyTHNdpQptZC43br6Rle_wCNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-P2B0EE_ur5I/ZFqcYABMsTI/AAAAAAAA-C8/fYv9P4Pq67cHqQi7kGXb2udw48oMF2t9wCNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-oiRov3C953E/ZFqcYnXUgnI/AAAAAAAA-DA/5M3b0mPee_EScsO0pT1xLNEI70VAb9THACNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QTobcLxRdX4/ZFqcZKgvA-I/AAAAAAAA-DE/J4R2fF9fKYUCje6k8jm_I8AYH9EXmMDYwCNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-TUlDg32trAY/ZFqcZkGitOI/AAAAAAAA-DI/liTdEsOkZG09lHi2sXW6n1UApKez1y_bgCNcBGAsYHQ/s135/2148-Akane-Shinjo-Gridman-Univserse-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2148/",
+      "fetched_at": "2026-05-16T19:10:33.867Z",
+      "raw_id": "/nendoroid/details/n2148/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.839Z",
+      "raw_id": "Nendoroid/2100-2199/2148.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1721",
+  "name": {
+    "en": "Nendoroid Fujiwara-no-Sai",
+    "ja": "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
+    "ko": "후지와라노 사이"
+  },
+  "series": {
+    "en": "Hikaru no Go",
+    "ja": "ヒカルの碁",
+    "ko": "고스트 바둑왕",
+    "code": "hikaru-no-go"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11849,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7cieq75MDFI/YdGwOKAQZ4I/AAAAAAAA2ds/I8Mj6ObDpAgwAXl5MP83xkIdLWukHjQPACNcBGAsYHQ/s270/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7cieq75MDFI/YdGwOKAQZ4I/AAAAAAAA2ds/I8Mj6ObDpAgwAXl5MP83xkIdLWukHjQPACNcBGAsYHQ/s270/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EyfuWoed4Vs/YdGzOIEUJvI/AAAAAAAA2fU/MRravjUjAnUbpdLmHBMO8GCzRe_CZ4pygCNcBGAsYHQ/s135/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jMHoS2SKUTk/YdGzOAOaXFI/AAAAAAAA2fY/G2i6aFRj81IrnXigDyNswHKCCsI1qoXiwCNcBGAsYHQ/s135/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EI_PPn8YNlI/YdGzOsCFAQI/AAAAAAAA2fc/_sBKZwVe25sySXAtxfU_HEuxxNNsgd1zACNcBGAsYHQ/s135/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QUVz_Vsu8vM/YdGzO9azunI/AAAAAAAA2fg/LGx33-hUdlQOjkezuvBVecvOVbNRlUXjACNcBGAsYHQ/s135/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0_n88B3lxFY/YdGzOwmi87I/AAAAAAAA2fk/2IZU22zmiagSh6Y2iMnz_GeZcYmhm-0IgCNcBGAsYHQ/s135/1721-Fujiwara-no-Sai-Hikaru-no-Go-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1721/",
+      "fetched_at": "2026-05-16T19:10:33.607Z",
+      "raw_id": "/nendoroid/details/n1721/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.735Z",
+      "raw_id": "Nendoroid/1700-1799/1721.json"
+    }
+  ]
+}

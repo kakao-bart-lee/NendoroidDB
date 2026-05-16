@@ -1,0 +1,67 @@
+{
+  "num": "0496",
+  "name": {
+    "en": "Nendoroid Hanayo Koizumi (ねんどろいど こいずみはなよ)",
+    "ja": "ねんどろいど 小泉花陽 (ねんどろいど こいずみはなよ)",
+    "ko": "코이즈미 하나요"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4822,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ax-PtcThvv4/X4NOBY5E_NI/AAAAAAABlsk/GFzMSBeV_Os2lwk61UXY7ws_ngvJXcLygCLcBGAsYHQ/s270/496-Koizumi-Hanayo-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ax-PtcThvv4/X4NOBY5E_NI/AAAAAAABlsk/GFzMSBeV_Os2lwk61UXY7ws_ngvJXcLygCLcBGAsYHQ/s270/496-Koizumi-Hanayo-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jaI_U2LTzYQ/X4dfisLpTXI/AAAAAAAAr2c/i3Qf_U1SEPEDuDsJfr-TbFtzEBRjKq5owCLcBGAsYHQ/s135/496-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eVQSS16pr_g/X4dfiyFHQoI/AAAAAAAAr2g/Bi4LBOzQxq0d7gQ17k-bjh1XymB3-IdzwCLcBGAsYHQ/s135/496-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-53Ja9XXxgOE/X4dfjFOQ1VI/AAAAAAAAr2k/UPw70aXpifUnxPc-ktsGjWO3hDhibkVKgCLcBGAsYHQ/s135/496-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-D3zqFOAG_f8/X4dfjec4ZbI/AAAAAAAAr2o/4SpxeYXZqGMlkqSiDgvBoYDVfbgqRZh-wCLcBGAsYHQ/s135/496-Hanayo-Koizumi-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n496/",
+      "fetched_at": "2026-05-16T19:10:34.561Z",
+      "raw_id": "/nendoroid/details/n496/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.394Z",
+      "raw_id": "Nendoroid/0400-0499/496.json"
+    }
+  ]
+}

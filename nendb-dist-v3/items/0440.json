@@ -1,0 +1,68 @@
+{
+  "num": "0440",
+  "name": {
+    "en": "Nendoroid Suigintō",
+    "ja": "ねんどろいど 水銀燈 (ねんどろいど すいぎんとう)",
+    "ko": "스이긴토"
+  },
+  "series": {
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン",
+    "ko": "로젠 메이든",
+    "code": "rozen-maiden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4505,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LIB5PpGYaoU/X4NNxR7O3wI/AAAAAAABlpA/W-m15tgnuwU5BY7umV_Y86xEDmT2o7uXACLcBGAsYHQ/s270/440-Suiginto-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LIB5PpGYaoU/X4NNxR7O3wI/AAAAAAABlpA/W-m15tgnuwU5BY7umV_Y86xEDmT2o7uXACLcBGAsYHQ/s270/440-Suiginto-Rozen-Maiden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8ioobLkiW3M/X4deG0oJAfI/AAAAAAAArjI/kNRQGJXl9mom5o4w4yD_MgKEN3REmIIFACLcBGAsYHQ/s135/440-Suigint%25C5%258D-Rozen-Maiden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PFIcE_rdLLY/X4deHDqEveI/AAAAAAAArjM/aR9H-E2WrgI18YiHkjjamzHV-1n6bSrzgCLcBGAsYHQ/s135/440-Suigint%25C5%258D-Rozen-Maiden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iAUbqoexoP0/X4deHnIDt6I/AAAAAAAArjQ/Ua_TwKnJYkcDLq_3xFUDs3Ogat_iHjC3QCLcBGAsYHQ/s135/440-Suigint%25C5%258D-Rozen-Maiden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-S_T9UQJQJZQ/X4deHpUxz2I/AAAAAAAArjU/HvZEgkqfqrwQt4d65AT1CBJXOe4Un7HEgCLcBGAsYHQ/s135/440-Suigint%25C5%258D-Rozen-Maiden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Rpil6TEFo3M/X4deH0Wm8-I/AAAAAAAArjY/pxCG_mjjYaMEWjGWrrBpESOGpuFhlCqfgCLcBGAsYHQ/s135/440-Suigint%25C5%258D-Rozen-Maiden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n440/",
+      "fetched_at": "2026-05-16T19:10:34.531Z",
+      "raw_id": "/nendoroid/details/n440/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.380Z",
+      "raw_id": "Nendoroid/0400-0499/440.json"
+    }
+  ]
+}

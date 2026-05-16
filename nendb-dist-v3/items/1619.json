@@ -1,0 +1,68 @@
+{
+  "num": "1619",
+  "name": {
+    "en": "Nendoroid Mayumi Doujima",
+    "ja": "ねんどろいど 瞳島眉美 (ねんどろいど どうじままゆみ)",
+    "ko": "도미자 마유미"
+  },
+  "series": {
+    "en": "Pretty Boy Detective Club",
+    "ja": "美少年探偵団",
+    "ko": "미소년 탐정단",
+    "code": "pretty-boy-detective-club"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11131,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-33qgE11wsh8/YJK3232HJyI/AAAAAAAAxu0/5H6hXX_hthwN9eU6g8qx5kUWQEY1pa4jwCLcBGAsYHQ/s270/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-33qgE11wsh8/YJK3232HJyI/AAAAAAAAxu0/5H6hXX_hthwN9eU6g8qx5kUWQEY1pa4jwCLcBGAsYHQ/s270/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4xaHr8R1AYo/YJK71SSOfrI/AAAAAAAAx0E/g905OkM0psICD_Ch0NDMMGcneFDF2ClmACLcBGAsYHQ/s135/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xpAdJwt9Us4/YJK71V1B7JI/AAAAAAAAx0I/APPY4jLqnJkLWK6koY_hG-bD9UHvuU0lwCLcBGAsYHQ/s135/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FBXrdEqIPMo/YJK71g40e4I/AAAAAAAAx0M/oiO_PqnuhGwbsUyuItitXPiWlUfNBFKSACLcBGAsYHQ/s135/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-329MZAZsHPk/YJK71-G2ohI/AAAAAAAAx0Q/qD7YKljS33Y-3s_JlfrDSyxpmP1FBeFQwCLcBGAsYHQ/s135/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HfszUtASmms/YJK72NOXrII/AAAAAAAAx0U/IsTldpWKlswEXZ6NdElGWN6a_MPd0MZ8QCLcBGAsYHQ/s135/1619-Mayumi-Doujima-Pretty-Boy-Detective-Club-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1619/",
+      "fetched_at": "2026-05-16T19:10:33.539Z",
+      "raw_id": "/nendoroid/details/n1619/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.709Z",
+      "raw_id": "Nendoroid/1600-1699/1619.json"
+    }
+  ]
+}

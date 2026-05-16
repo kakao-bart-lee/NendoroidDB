@@ -1,0 +1,69 @@
+{
+  "num": "1185",
+  "name": {
+    "en": "Nendoroid Kurapika",
+    "ja": "ねんどろいど クラピカ (ねんどろいど くらぴか)",
+    "ko": "크라피카"
+  },
+  "series": {
+    "en": "HUNTER x HUNTER",
+    "ja": "HUNTER×HUNTER",
+    "ko": "헌터X헌터",
+    "code": "hunter-x-hunter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8686,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yTXzlIDE_78/X4Ngtm0tRJI/AAAAAAABmeI/6soAz-9f0no0jFl_ltwaa3a_jpAk73C0ACLcBGAsYHQ/s270/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yTXzlIDE_78/X4Ngtm0tRJI/AAAAAAABmeI/6soAz-9f0no0jFl_ltwaa3a_jpAk73C0ACLcBGAsYHQ/s270/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CLdZ9V9bbZ8/X4rxl_l9BYI/AAAAAAABpcU/V_GXqIFdtKwtVQnnw5s2u7ZsCrJNKb-cgCLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-g3CXvoA9Tdg/X4rxmQAR6II/AAAAAAABpcY/Ng2IYYtTTVABDkN4GnpxYa1rbPI84mEZwCLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Z_c9Uf_bjIQ/X4rxmwkfy5I/AAAAAAABpcc/hHLu8Cgjs04gmC29pGiCvtXwF3YfeQRAACLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ioveXE92JRc/X4rxnehmc3I/AAAAAAABpcg/zRbPRsMTZQUJKp5dTPHS7UbB5yZR0m6YQCLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CwrCjv7Ux9E/X4rxnwcX6pI/AAAAAAABpco/N3jfpZLLOFgztVLu6OvuCgcQ4kIPzgzWgCLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VBK8WZs58dQ/X4rxoOtr3hI/AAAAAAABpck/VKTYi5_gObsamEl6VfJ8Zz8w5Lg8yqvKACLcBGAsYHQ/s135/1185-Kurapika-HUNTER-x-HUNTER-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1185/",
+      "fetched_at": "2026-05-16T19:10:33.274Z",
+      "raw_id": "/nendoroid/details/n1185/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.605Z",
+      "raw_id": "Nendoroid/1100-1199/1185.json"
+    }
+  ]
+}

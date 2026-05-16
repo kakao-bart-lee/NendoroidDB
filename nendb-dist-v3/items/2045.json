@@ -1,0 +1,69 @@
+{
+  "num": "2045",
+  "name": {
+    "en": "Nendoroid Hatsune Miku: Wonderland SEKAI Ver.",
+    "ja": "ねんどろいど 初音ミク ワンダーランドのセカイVer. (ねんどろいど はつねみく わんだーらんどのせかいVer.)",
+    "ko": "하츠네 미쿠: 원더랜드 세카이 Ver."
+  },
+  "series": {
+    "en": "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko": "하츠네 미쿠: 컬러풀 스테이지!",
+    "code": "hatsune-miku-colorful-stage"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13754,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WlEAWJR-ytY/Y9mJ_oEgWaI/AAAAAAAA8e8/lVvO9UDcHSwSwO8KClLv-rP0f1NsG0E0wCNcBGAsYHQ/s270/2045-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WlEAWJR-ytY/Y9mJ_oEgWaI/AAAAAAAA8e8/lVvO9UDcHSwSwO8KClLv-rP0f1NsG0E0wCNcBGAsYHQ/s270/2045-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-L9DH7NzvCfo/Y9mPG7y4y0I/AAAAAAAA8mw/xcinR5L601ACP5TD8VEXXGHVUm8IIR85gCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kFoDCXfVBE0/Y9mPHKt-iwI/AAAAAAAA8m0/yEzm_bX80NM83tD9r0uUtwmpCNU3s_v5QCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-htfQuEZhn7s/Y9mPHbdbyuI/AAAAAAAA8m4/G3tEvTRamNohS6mt-W_IqhjwTEJln5ivgCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4XP-M0TD20E/Y9mPIDDAWsI/AAAAAAAA8m8/BgkZTsIYFUAQuIqzV5TU3KMrN2HVfqfUQCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_j0Iz9Gqw6o/Y9mPIslIx1I/AAAAAAAA8nE/mbFvf24DoiYz2CCfdMMreUnT_U_OxYWqwCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-q1XIBDonk4o/Y9mPIzdPnYI/AAAAAAAA8nA/bhWChKQ5E88fb0K0iZqyciqwekF9CVzUQCNcBGAsYHQ/s135/2045-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2045/",
+      "fetched_at": "2026-05-16T19:10:33.806Z",
+      "raw_id": "/nendoroid/details/n2045/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2045.json"
+    }
+  ]
+}

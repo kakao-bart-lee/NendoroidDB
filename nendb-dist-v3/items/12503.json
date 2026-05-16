@@ -1,0 +1,55 @@
+{
+  "num": "12503",
+  "name": {
+    "en": "Nendoroid Doll Customizable Face Plate 02 (Peach/Cinnamon/Cream/Almond Milk)",
+    "ja": "ねんどろいどどーる かすたむフェイスパーツ 02（peach/cinnamon/cream/almond milk） (ねんどろいどどーる かすたむふぇいすぱーつ 02（ぴーち/しなもん/くりーむ/あーもんど みるく）)",
+    "ko": "커스터마이즈 얼굴 전면 02(피치/시나몬/크림/아몬드밀크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12503,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220324/12503/96941/large/0474b741594d0e44bd733dc6b546f5f3.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.948Z",
+      "raw_id": "NendoroidDoll/Customizing/12503.json"
+    }
+  ]
+}

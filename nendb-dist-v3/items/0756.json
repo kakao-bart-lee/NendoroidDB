@@ -1,0 +1,68 @@
+{
+  "num": "0756",
+  "name": {
+    "en": "Nendoroid Lum",
+    "ja": "ねんどろいど ラム (ねんどろいど らむ)",
+    "ko": "라무"
+  },
+  "series": {
+    "en": "Urusei Yatsura",
+    "ja": "うる星やつら",
+    "ko": "시끌별 녀석들",
+    "code": "urusei-yatsura"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6365,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RSCDScyyPQo/X4NdA0QbeKI/AAAAAAABl_A/xJoJaWrZ0UQgfS1snDaYvd_ZTRiMQR3IQCLcBGAsYHQ/s270/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RSCDScyyPQo/X4NdA0QbeKI/AAAAAAABl_A/xJoJaWrZ0UQgfS1snDaYvd_ZTRiMQR3IQCLcBGAsYHQ/s270/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-klGr6gef48c/X4i485SvnRI/AAAAAAAAtbU/wyNVOZLfRXE_Huo8qsTs6j--tq1JmNeWgCLcBGAsYHQ/s135/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8U7dZF6gmJk/X4i48wKxTcI/AAAAAAAAtbY/BR8OCwi_gtEr7VFCw5Embx9nsVv4yi8pwCLcBGAsYHQ/s135/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jNGGpvrPt88/X4i49VzHiCI/AAAAAAAAtbc/TmxUZiFydCMJ0a8qiERwbAY3dvUQyTsWwCLcBGAsYHQ/s135/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q-x4noRF0qc/X4i49XZGG1I/AAAAAAAAtbg/qvIqx6mrtF83A3FoLI8j6mbk96TrSoisgCLcBGAsYHQ/s135/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Xg0u73xuygQ/X4i49uoraZI/AAAAAAAAtbk/rFa8kOzHu0AilzpnlH2yOlm1HHTff0W5QCLcBGAsYHQ/s135/756-Lum-Urusei-Yatsura-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n756/",
+      "fetched_at": "2026-05-16T19:10:34.780Z",
+      "raw_id": "/nendoroid/details/n756/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.500Z",
+      "raw_id": "Nendoroid/0700-0799/756.json"
+    }
+  ]
+}

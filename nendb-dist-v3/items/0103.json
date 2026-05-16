@@ -1,0 +1,68 @@
+{
+  "num": "0103",
+  "name": {
+    "en": "Nendoroid Sanae Kochiya (ねんどろいど こちやさなえ)",
+    "ja": "ねんどろいど 東風谷早苗 (ねんどろいど こちやさなえ )",
+    "ko": "코치야 사나에"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2767,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X1lku7TqhNs/X4NJqLET5HI/AAAAAAABlN0/AHu5S0NcvRgy267qdgNtBJWsgJZjT9tBACLcBGAsYHQ/s270/103-Sanae-Kochiya-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X1lku7TqhNs/X4NJqLET5HI/AAAAAAABlN0/AHu5S0NcvRgy267qdgNtBJWsgJZjT9tBACLcBGAsYHQ/s270/103-Sanae-Kochiya-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qC7oYs2gzdQ/X4dR8sC14sI/AAAAAAAApt4/J4XMrKF2x7sk_ZY5QybDsS-KH0VMc0yhACLcBGAsYHQ/s135/103-Sanae-Kochiya-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-49yZXuroLFs/X4dR8u7NmtI/AAAAAAAApt8/Ajylwpxtr98-hWA0MThbObiRzfG3DbzbgCLcBGAsYHQ/s135/103-Sanae-Kochiya-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--H1b5H4R2rA/X4dR9CYnagI/AAAAAAAApuA/McaqFlS3ZUkJHeLC0yNs7sKUMIVTKOvTwCLcBGAsYHQ/s135/103-Sanae-Kochiya-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fbdLKZjxtKo/X4dR9dHjMtI/AAAAAAAApuE/oybQ0n51-vwPHSmeBdgS6Tp051THbowGgCLcBGAsYHQ/s135/103-Sanae-Kochiya-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Wj3psrS-jns/X4dR9TeyiSI/AAAAAAAApuI/YyqBA8oGKywFQ3p2l_YtS-LRs3FpUKA1gCLcBGAsYHQ/s135/103-Sanae-Kochiya-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n103/",
+      "fetched_at": "2026-05-16T19:10:33.165Z",
+      "raw_id": "/nendoroid/details/n103/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.289Z",
+      "raw_id": "Nendoroid/0100-0199/103.json"
+    }
+  ]
+}

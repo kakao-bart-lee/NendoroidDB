@@ -1,0 +1,71 @@
+{
+  "num": "1714",
+  "name": {
+    "en": "Nendoroid Mikudayo-: 10th Anniversary Ver.",
+    "ja": "ねんどろいど ミクダヨー 10th Anniversary Ver. (ねんどろいど みくだよー 10th あにばーさりー Ver.)",
+    "ko": "미쿠다요 10th Anniversary Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11772,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9HNn_aSOf34/YWSHdinQkEI/AAAAAAAA0_Y/WLlcroQes10nFVhWUfDwHHfwD2XkaGS5gCLcBGAsYHQ/s270/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9HNn_aSOf34/YWSHdinQkEI/AAAAAAAA0_Y/WLlcroQes10nFVhWUfDwHHfwD2XkaGS5gCLcBGAsYHQ/s270/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3yPNQG7fPtI/YWSaqSp7TmI/AAAAAAAA1Gs/MhqtTd9mDbgHYE61FgZGQ6mxXTYCdYR2QCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kx_8awhWV34/YWSaqj5hAUI/AAAAAAAA1Gw/wac5A6ltg1k5ozDd7m7Myo5weMPlaxcEwCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yA1SLMXiNz4/YWSaq3IW-0I/AAAAAAAA1G0/Q2Cbo021Zo4kIndZznsfr2EiBOSSfcwPACLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3aJAnOBcD1I/YWSarOx_IYI/AAAAAAAA1G4/07GtgLUzKtI727UBzVBK47gvgiekTdanQCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mnKv_Op9WaE/YWSarZ6Jt3I/AAAAAAAA1G8/j2z4SY9_8aYuRGv7sH4YECUVFiq7CLJdwCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-QEZ3pp7_dxk/YWSarREz6iI/AAAAAAAA1HA/59W4HklP53EIJuBj0KP_PP3N15F0_PlpgCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-EWHmvmg_GtA/YWSarp6b7JI/AAAAAAAA1HE/GqZKCEu5wxogcIISbVvBgmTdwerd3rpvgCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-g7S-AAfMj5Y/YWSaqRgSLqI/AAAAAAAA1Go/0v8MKjEhn5AZ4_padgA9pIj0Q-qiQcZCQCLcBGAsYHQ/s135/1714-Mikuday%25C5%258D-Character-Vocal-Series-01-Hatsune-Miku-Vocaloid-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "DAYO",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1714/",
+      "fetched_at": "2026-05-16T19:10:33.602Z",
+      "raw_id": "/nendoroid/details/n1714/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.733Z",
+      "raw_id": "Nendoroid/1700-1799/1714.json"
+    }
+  ]
+}

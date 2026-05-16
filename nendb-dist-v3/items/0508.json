@@ -1,0 +1,69 @@
+{
+  "num": "0508",
+  "name": {
+    "en": "Nendoroid Laura Bodewig (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ja": "ねんどろいど ラウラ・ボーデヴィッヒ (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ko": "라우라 보데비히"
+  },
+  "series": {
+    "en": "IS <Infinite Stratos>",
+    "ja": "IS <インフィニット・ストラトス>",
+    "ko": "인피니트 스트라토스",
+    "code": "is-infinite-stratos"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4912,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--gn8BU7_30o/X4NOVZqhWfI/AAAAAAABltw/S6GPc8objMoaXjF4vGm-tUWhs99l-R-RACLcBGAsYHQ/s270/508-Laura-Bodewig-IS-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--gn8BU7_30o/X4NOVZqhWfI/AAAAAAABltw/S6GPc8objMoaXjF4vGm-tUWhs99l-R-RACLcBGAsYHQ/s270/508-Laura-Bodewig-IS-Infinite-Stratos-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HiK6RnNubV4/X4iryifWwWI/AAAAAAAAr9A/uqo3wXTm5XIBJjrejWfpoFZZRh6c0Ra5QCLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DAryaAIpL60/X4iry3rckSI/AAAAAAAAr9E/yYF_-gz0cvoFsLZyiI_6kh_rIJM9jk-iACLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4vWQBXaJs_4/X4irzNpDNmI/AAAAAAAAr9I/wW09Tu-KUd0U-SqpMxmomk6beDYvo3cTgCLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6BtTRTeci4g/X4irzMSCZcI/AAAAAAAAr9M/Fl8qVm4PdDgX9T2Nj8FEP65GM-Hbi42ewCLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-07ZV0Nw2zDI/X4irzTUBSII/AAAAAAAAr9Q/lXsr7EkCodAREFrrRKVm8MJb3VI3blbXQCLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fjsXpVOjyuE/X4irzuMByiI/AAAAAAAAr9U/V_UoFb8MLs4xOoKFNwQJ1e8dyA6BpRJgACLcBGAsYHQ/s135/508-Laura-Bodewig-IS-_Infinite-Stratos_-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n508/",
+      "fetched_at": "2026-05-16T19:10:34.568Z",
+      "raw_id": "/nendoroid/details/n508/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.411Z",
+      "raw_id": "Nendoroid/0500-0599/508.json"
+    }
+  ]
+}

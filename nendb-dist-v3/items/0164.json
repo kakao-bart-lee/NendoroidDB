@@ -1,0 +1,67 @@
+{
+  "num": "0164",
+  "name": {
+    "en": "Nendoroid Riela (ねんどろいど りえら)",
+    "ja": "ねんどろいど リエラ (ねんどろいど りえら)",
+    "ko": "리에라"
+  },
+  "series": {
+    "en": "Valkyria Chronicles 3",
+    "ja": "戦場のヴァルキュリア3",
+    "ko": "전장의 발큐리아3",
+    "code": "valkyria-chronicles-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3104,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JJeyQ09rPSY/X4NKCoisfiI/AAAAAAABlSA/lIN_3IggAUM6ERwPfVj0trQnMcRm5eyoACLcBGAsYHQ/s270/164-Riela-Valkyria-Chronicles-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JJeyQ09rPSY/X4NKCoisfiI/AAAAAAABlSA/lIN_3IggAUM6ERwPfVj0trQnMcRm5eyoACLcBGAsYHQ/s270/164-Riela-Valkyria-Chronicles-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DlhPvCwlHUY/X4dTbLqDaaI/AAAAAAAAqC8/02n-xInXBJA8olUX4plyrmF6oDzCNNOJACLcBGAsYHQ/s135/164-Riela-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CZUqDyPoZ6Y/X4dTbXX8RoI/AAAAAAAAqDA/ZxX4ROs7BG8UPoF91HQK0uwmgwiT4ZJuACLcBGAsYHQ/s135/164-Riela-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7dljPGrziu4/X4dTbuJf3fI/AAAAAAAAqDE/2nrflewgriYLsDXxxd4Nwlm9WF-fOb-mACLcBGAsYHQ/s135/164-Riela-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4eg_uiskTbk/X4dTb1riqnI/AAAAAAAAqDI/2Y-usd5djugzOQ4UXysQqrtlht74Vl29gCLcBGAsYHQ/s135/164-Riela-Valkyria-Chronicles-Valkyria-Chronicles-3-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n164/",
+      "fetched_at": "2026-05-16T19:10:33.559Z",
+      "raw_id": "/nendoroid/details/n164/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.305Z",
+      "raw_id": "Nendoroid/0100-0199/164.json"
+    }
+  ]
+}

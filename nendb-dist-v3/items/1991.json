@@ -1,0 +1,69 @@
+{
+  "num": "1991",
+  "name": {
+    "en": "Nendoroid Shantae",
+    "ja": "ねんどろいど シャンティ (ねんどろいど しゃんてぃ)",
+    "ko": "샨테"
+  },
+  "series": {
+    "en": "Shantae",
+    "ja": "シャンティ",
+    "ko": "샨테",
+    "code": "shantae"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13477,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-xZdYXwsS0PM/Y45wUHeX5zI/AAAAAAAA7r4/ec6WWXjmEVEtq8z3IPxEyIcmOtDWecwUACNcBGAsYHQ/s270/1991-Shantae-Shantae-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-xZdYXwsS0PM/Y45wUHeX5zI/AAAAAAAA7r4/ec6WWXjmEVEtq8z3IPxEyIcmOtDWecwUACNcBGAsYHQ/s270/1991-Shantae-Shantae-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bn3UOibaw_o/Y451oGuWKsI/AAAAAAAA72g/aNbh-t_eJ2s0XoiU13zDKcRYqF9jOVUoACNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bKwuI_PrJ78/Y451ophxcmI/AAAAAAAA72k/X3ov9fiInMEpIrZxF2Z1U2dZJEps2l1RQCNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mLEaMhy7Qd0/Y451pXi_RLI/AAAAAAAA72o/C6W6QV_vtTAhJwWJXBbg6oQzjY7KwjdnACNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7o5WTUYAXzk/Y451pcMAQaI/AAAAAAAA72s/SbaFuz3yENssQfhJPOr1I4jTtvpxJUHcQCNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rFhc_xUp0ew/Y451pdekLfI/AAAAAAAA72w/E2WOZgu_ugwE1O4eJqfxqnvUGlmiakGPACNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-seQrEFywx_g/Y451qENsjaI/AAAAAAAA720/Qcd4jJo4Hf4g2yda4XFBWGovQnXbcOpQACNcBGAsYHQ/s135/1991-Shantae-Shantae-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1991/",
+      "fetched_at": "2026-05-16T19:10:33.772Z",
+      "raw_id": "/nendoroid/details/n1991/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.799Z",
+      "raw_id": "Nendoroid/1900-1999/1991.json"
+    }
+  ]
+}

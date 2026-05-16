@@ -1,0 +1,64 @@
+{
+  "num": "3019",
+  "name": {
+    "en": "Chocobo",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Final Fantasy",
+    "ja": null,
+    "ko": null,
+    "code": "final-fantasy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKlY9-QQhiS53JVbmyVNTuwnMIetjerZcZeYhswIfsyueTOERTJ47RoC47XniX6jMooVhw-S6tbeTAuIxD05ZuRBndjfeW-qoU1dm2c0SaSaIxBWAF-ek2J7jJZBhjaVicleCqzJUsR15761VPqBuKcyILy8kHBuvQJlAWKlAbBmUdENAlG9EWyS1ge-V/s270/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKlY9-QQhiS53JVbmyVNTuwnMIetjerZcZeYhswIfsyueTOERTJ47RoC47XniX6jMooVhw-S6tbeTAuIxD05ZuRBndjfeW-qoU1dm2c0SaSaIxBWAF-ek2J7jJZBhjaVicleCqzJUsR15761VPqBuKcyILy8kHBuvQJlAWKlAbBmUdENAlG9EWyS1ge-V/s270/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdt4hmrvIciv5UrMRWPHLZ0LXcp5jItSwJNjRzsivUQYgVLVjsH6dfpb0Q-aO9ACY35ZpnYpQrNjjUrZrExMWY0VPksdVmiRPfHynmMtOrw0W1UCwkLjproA2id3L0M40CuwEcjIurlcERFzwJ1MsUDCA3rYBTjApbMHdjCaBJfhjw8xMaPE5F0zjjHtDc/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6L6nE6iBFVSTdBR4Dal75iL_qkv1yhuVZDldhF9OUw7ivIBBDTYiJOerJzlzVQD2kc10wrphEZ2jY-9cfbjJc9rlF8xRhfb0qYF_IHi-9i3U9aio7u1k5EBr3tPKmUYtq-17IgubwjUEYrEEkUsbZeGdsJX6VmWiTOsjD-didJ-Q_fHQB7L9MYDU1GPa_/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiYlWk0CNy-Ua5tWfpUCnsnHuQ1z0A5nHneKRL2C9UuGa9Mt9UquMnzq5_6XEeGR4KKnHNHyA4ASiTDy6eo6L3gD3jMtgNF8DVkn8z4fGGoY5883S0aN3FNpDRn2c1OsapyCqRjkUDH5VyHV7-wwE3ocg8rjhzn0vNpoam3gSAdIoBpq6U9bNY91cSgViT/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGBPwNJXQyFbUWYq8S7vBLVqL0QQOgH-YWPzLl-HpWiijQjo-Hf0w_Kr3QZmO9F-ySKr0Fd_9yKlI5fxI_W2V5C2ULt46e3pfyhyphenhyphen0x64e9Mn5zI95Io5zgWR7wtchexMajpb24uFK5OXhdMH260PXXW7W6HuZePiYfUHasiQcFyIglR5Yfs_EYhIIMVT83/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjSIDuou0LDQ0ndTSDimbt_SrYly_2UprLZIEkLjbhE-v48C71YY4KQzNnLwqjpgdyLQMblXygoKcJe6xLLfPVi6NhGzMdKYpdfxtFLQk_6GtAOklox24ui9rhcNINOlr8h0F2_8uhcrLZAsoj2RbO4yuede39iKM8bAfoTE-1dJ8jh_bLks8OLtGy9Yjg/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMfACljkmnkERr4bUlo70PpZp1-FFe_cU0eQEoII8Gd3buB-QKPu0GjuhVPllkjaJAwH-5NKRHff19HdlDb8JGWYdFp-1Ax88iuJNvBbYktjQSwni81l3urv62HMdxPzh7YPnO6eHXSCRpncx4XTKWYyg5rMO9CCGiTuigVqb9kFpCji2LL3g3SgZPwPWQ/s135/3019-Chocobo-Final-Fantasy-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3019/",
+      "fetched_at": "2026-05-16T19:10:34.434Z",
+      "raw_id": "/nendoroid/details/n3019/"
+    }
+  ]
+}

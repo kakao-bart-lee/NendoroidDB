@@ -1,0 +1,68 @@
+{
+  "num": "0884",
+  "name": {
+    "en": "Nendoroid Rider of \"Black\"",
+    "ja": "ねんどろいど “黒”のライダー (ねんどろいど “くろ”のらいだー)",
+    "ko": "흑의 라이더"
+  },
+  "series": {
+    "en": "Fate/Apocrypha",
+    "ja": "Fate/Apocrypha",
+    "ko": "페이트 시리즈",
+    "code": "fate-apocrypha"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7024,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yS85oTESXRA/X4NeBkXcfPI/AAAAAAABmH8/qk0aPvC7NmgznyIJFuvOrGUt5JpCKtOZgCLcBGAsYHQ/s270/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yS85oTESXRA/X4NeBkXcfPI/AAAAAAABmH8/qk0aPvC7NmgznyIJFuvOrGUt5JpCKtOZgCLcBGAsYHQ/s270/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-stYDwRT5tkM/X4rkA1ceDKI/AAAAAAABneo/2jLlp2c9nuIiL_svr0jgh4Yb3MLXD4O6wCLcBGAsYHQ/s135/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-y5Ok0xjMBoA/X4rkAztMSLI/AAAAAAABnes/tPwglrqQCvkX9o8h1VxHliMtkrkbtYHKQCLcBGAsYHQ/s135/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cOjliqNwSgU/X4rkBbmTC3I/AAAAAAABnew/zuWJgwjiUPcKkst7hKDgK9FbhRRF-GomQCLcBGAsYHQ/s135/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3gKo_cxHpFk/X4rkBhWlEWI/AAAAAAABne0/5FyVXk8WdWEugGBJvrALEtmp6P8G5r6NwCLcBGAsYHQ/s135/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sOJOd2j6IuM/X4rkB22L-oI/AAAAAAABne4/4hvZmHWQzlwz9mvGG6UNLGZ9zmBZAbjuwCLcBGAsYHQ/s135/884-Rider-of-Black-Fate-Apocrypha-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n884/",
+      "fetched_at": "2026-05-16T19:10:34.853Z",
+      "raw_id": "/nendoroid/details/n884/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.530Z",
+      "raw_id": "Nendoroid/0800-0899/884.json"
+    }
+  ]
+}

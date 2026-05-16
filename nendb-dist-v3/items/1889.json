@@ -1,0 +1,69 @@
+{
+  "num": "1889",
+  "name": {
+    "en": "Nendoroid Desumi Magahara",
+    "ja": "ねんどろいど 禍原デス美 (ねんどろいど まがはらですみ)",
+    "ko": "마가하라 데스미"
+  },
+  "series": {
+    "en": "Love After World Domination",
+    "ja": "恋は世界征服のあとで",
+    "ko": "사랑은 세계정복 후에",
+    "code": "love-after-world-domination"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12818,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-H_F7XSr8jJI/Yw_WKtHxHrI/AAAAAAAA6Y8/HQfnyXlpExA5ZB9wBLoWE3SjiBWUU3kXgCNcBGAsYHQ/s270/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-H_F7XSr8jJI/Yw_WKtHxHrI/AAAAAAAA6Y8/HQfnyXlpExA5ZB9wBLoWE3SjiBWUU3kXgCNcBGAsYHQ/s270/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pGDTXBsTBak/YxEWkXTpFyI/AAAAAAAA6hQ/FQFa1wK7t5EVEfhxjEEYrkUTOdQPwWlnQCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fGxTvI6zk0s/YxEWkelO9YI/AAAAAAAA6hU/fSR8EBqTfCIUBCvHjAX-_KmMBflQkFnZgCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jVSi5kkPTvE/YxEWlIWpy4I/AAAAAAAA6hY/t2O0hmk4YJMRQLhsASqnzyiac3pJ8sxJgCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--Oa_4uzNPmc/YxEWlL7ZtsI/AAAAAAAA6hc/1ZSdghRCUjY6Cebbhs98bjwkjQlA0GODwCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-H2Y5K0yeFEo/YxEWl2_4RII/AAAAAAAA6hg/yVff7NUvFTAV2eTW7VjUUJ50KuE1jjWqwCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_Xt7KUxqNTA/YxEWl5gyUfI/AAAAAAAA6hk/cO-AfKkpTsAsyFG3RDX3LJ5Yir5EPIeWQCNcBGAsYHQ/s135/1889-Desumi-Magahara-Love-After-World-Domination-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1889/",
+      "fetched_at": "2026-05-16T19:10:33.711Z",
+      "raw_id": "/nendoroid/details/n1889/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.776Z",
+      "raw_id": "Nendoroid/1800-1899/1889.json"
+    }
+  ]
+}

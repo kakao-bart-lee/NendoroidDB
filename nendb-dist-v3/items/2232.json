@@ -1,0 +1,63 @@
+{
+  "num": "2232",
+  "name": {
+    "en": "Kaiji Ito",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Kaiji",
+    "ja": null,
+    "ko": null,
+    "code": "kaiji"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NQ3nkuXoASc/ZljX43DiDNI/AAAAAAABEgM/vo0snySAqh4Berq2eIz17LtypRaQ7Y4nACNcBGAsYHQ/s270/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NQ3nkuXoASc/ZljX43DiDNI/AAAAAAABEgM/vo0snySAqh4Berq2eIz17LtypRaQ7Y4nACNcBGAsYHQ/s270/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1wisYLgwvuo/Zowy-f9SgBI/AAAAAAABFFY/3rsgb17QsogEymFrPJkpkTvglEdXf7_AwCNcBGAsYHQ/s135/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6yL0Jtte8SU/Zowy-lxhTEI/AAAAAAABFFc/XcKW60JE-AczINyuNgNQnQ3XrrGrkHcygCNcBGAsYHQ/s135/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rzvq6SYCVnQ/Zowy-9Fq9QI/AAAAAAABFFg/2HI3Qr4KBeg_6udsRXw5rs0RnMoM8D-lQCNcBGAsYHQ/s135/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1ODD9MX_UDc/Zowy-81j_HI/AAAAAAABFFk/4NowHO2d_zMoKWlRJz7QCpn8VlTBpZQVgCNcBGAsYHQ/s135/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ukYUozwqQfs/Zowy_Y_DsiI/AAAAAAABFFo/GELHZjDL6acBHnWsPjlJuiReb-CtAl06wCNcBGAsYHQ/s135/2232-Kaiji-Ito-Kaiji-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2232/",
+      "fetched_at": "2026-05-16T19:10:33.933Z",
+      "raw_id": "/nendoroid/details/n2232/"
+    }
+  ]
+}

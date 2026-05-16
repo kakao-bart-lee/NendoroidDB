@@ -1,0 +1,68 @@
+{
+  "num": "0305",
+  "name": {
+    "en": "Nendoroid Fujiwara no Mokou (ねんどろいど ふじわらのもこう)",
+    "ja": "ねんどろいど 藤原妹紅 (ねんどろいど ふじわらのもこう)",
+    "ko": "후지와라노 모코우"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方プロジェクト",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3819,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G0rZAbMvjl4/X4NMhqdvqoI/AAAAAAABlfo/29BSSEHRSKghmMwDRFwC1ZdI57gxcqTVwCLcBGAsYHQ/s270/305-Fujiwara-no-Mokou-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G0rZAbMvjl4/X4NMhqdvqoI/AAAAAAABlfo/29BSSEHRSKghmMwDRFwC1ZdI57gxcqTVwCLcBGAsYHQ/s270/305-Fujiwara-no-Mokou-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-nOcCmLdfsSg/X4dZ8lQoxII/AAAAAAAAq00/Om41j1oGc-kBoA8rkR3YQNzC8Bf6J1rawCLcBGAsYHQ/s135/305-Fujiwara-no-Mokou-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XDCKjYb0v6U/X4dZ8zHJ9bI/AAAAAAAAq04/TNoCn3sPbX0PFTRu-7974qltyPZ8N_iuQCLcBGAsYHQ/s135/305-Fujiwara-no-Mokou-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4etkpVd5h6E/X4dZ83t5i_I/AAAAAAAAq08/NLZZMvgXRHwJd3OozqzqEo9PHauVzpIdACLcBGAsYHQ/s135/305-Fujiwara-no-Mokou-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Wy_5rTqXXJA/X4dZ9OOFHsI/AAAAAAAAq1A/BBF7lD-fF0kKeQeRVjecJ9nE7aTsWMdGACLcBGAsYHQ/s135/305-Fujiwara-no-Mokou-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZCuBZTykMv4/X4dZ9ZLNglI/AAAAAAAAq1E/JEpBYiOtWYAYouxFBPMol9Y1OMU5YRhTACLcBGAsYHQ/s135/305-Fujiwara-no-Mokou-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n305/",
+      "fetched_at": "2026-05-16T19:10:34.451Z",
+      "raw_id": "/nendoroid/details/n305/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.347Z",
+      "raw_id": "Nendoroid/0300-0399/305.json"
+    }
+  ]
+}

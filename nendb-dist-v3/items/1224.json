@@ -1,0 +1,69 @@
+{
+  "num": "1224",
+  "name": {
+    "en": "Nendoroid Jakurai Jinguji",
+    "ja": "ねんどろいど 神宮寺寂雷 (ねんどろいど じんぐうじじゃくらい)",
+    "ko": "진구지 쟈쿠라이"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6050,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8908,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WLNXYQO5mwk/X4NiL1mCtgI/AAAAAAABmoM/GnVEvtD9qA8ZKs6BMxa0mvj88VyPuB3wQCLcBGAsYHQ/s270/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WLNXYQO5mwk/X4NiL1mCtgI/AAAAAAABmoM/GnVEvtD9qA8ZKs6BMxa0mvj88VyPuB3wQCLcBGAsYHQ/s270/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XPlEapC5YEE/X4rzbWFHTRI/AAAAAAABpuM/CTYWmGumxcAoyz0bS118CwIwTkN-otSiACLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KO8BlyQDLyM/X4rzbkoa_WI/AAAAAAABpuQ/74Ch5IOMZHsPF-WgGPT7uxZleFEgGUbCgCLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N8Q6yMA5JR4/X4rzb0OaUWI/AAAAAAABpuU/4lHNF0rGAok4_srYVHaVGZndI16jkMQrACLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2Ru6zG335Zg/X4rzcGcG3uI/AAAAAAABpuY/MD0gtV9U4EsHSaweO5OvqpRbVg9QDJv3gCLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gRs_s6jzaJ0/X4rzcSrFxTI/AAAAAAABpuc/YXE__vKw7jE0bQGfLZqPE5cdQL5CN4_YwCLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--rMEwKFA6eg/X4rzcps-LII/AAAAAAABpug/30byUuH_G3kDogms97AsH0loaLbW7dQGQCLcBGAsYHQ/s135/1224-Jakurai-Jinguji-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1224/",
+      "fetched_at": "2026-05-16T19:10:33.297Z",
+      "raw_id": "/nendoroid/details/n1224/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.614Z",
+      "raw_id": "Nendoroid/1200-1299/1224.json"
+    }
+  ]
+}

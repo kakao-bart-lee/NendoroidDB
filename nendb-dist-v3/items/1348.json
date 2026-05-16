@@ -1,0 +1,68 @@
+{
+  "num": "1348",
+  "name": {
+    "en": "Nendoroid Marisa Kirisame 2.0",
+    "ja": "ねんどろいど 霧雨魔理沙2.0 (ねんどろいど きりさめまりさ2.0)",
+    "ko": "키리사메 마리사 2.0"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9506,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yp4J7nuzR6I/X4Njv-LwHXI/AAAAAAABm1w/Ts4leWJU_dQ_jYamR98jgFjFdYkAIvFdwCLcBGAsYHQ/s270/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yp4J7nuzR6I/X4Njv-LwHXI/AAAAAAABm1w/Ts4leWJU_dQ_jYamR98jgFjFdYkAIvFdwCLcBGAsYHQ/s270/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ixeEbKdaRW0/X4s9cvQ1GqI/AAAAAAABqf0/yk5sPCtfHPkSPT0fDlpb8VrEEYeD8OLbgCLcBGAsYHQ/s135/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yyZJYqdzvqw/X4s9chUbWZI/AAAAAAABqf4/MsQJI08aSW8JRpx5X_ShMD1MbOu3OdlQgCLcBGAsYHQ/s135/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VyBvQ8vU3cM/X4s9c3rei0I/AAAAAAABqf8/bFF16mbcSjkit0zOhwgUiLhq83oOaI9ngCLcBGAsYHQ/s135/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0gRXD7QMOqs/X4s9dKZ95OI/AAAAAAABqgA/O-p5fhcP9zEcVhmAXWPFiCw6MVkTSITagCLcBGAsYHQ/s135/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-v3CTTOqwl0U/X4s9daSbDvI/AAAAAAABqgE/eyGdIJRRrk4yUbqoTZ-5HMtRtdLNpc_bQCLcBGAsYHQ/s135/1348-Marisa-Kirisame-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1348/",
+      "fetched_at": "2026-05-16T19:10:33.374Z",
+      "raw_id": "/nendoroid/details/n1348/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.645Z",
+      "raw_id": "Nendoroid/1300-1399/1348.json"
+    }
+  ]
+}

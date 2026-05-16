@@ -1,0 +1,68 @@
+{
+  "num": "0607",
+  "name": {
+    "en": "Nendoroid En Yufuin",
+    "ja": "ねんどろいど 由布院煙 (ねんどろいど ゆふいんえん)",
+    "ko": "유후인 엔"
+  },
+  "series": {
+    "en": "Cute High Earth Defense Club Love!",
+    "ja": "美男高校地球防衛部LOVE!",
+    "ko": "미남고교 지구방위부 LOVE!",
+    "code": "cute-high-earth-defense-club-love"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5495,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rk4jK3Ufqng/X4NPnNCKpTI/AAAAAAABl04/jc-ttWWdCDgVoMJ5i3c-IHLG0sMtc6PGACLcBGAsYHQ/s270/607-En%2BYufuin-Cute%2BHigh%2BEarth%2BDefense%2BClub%2BLove%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rk4jK3Ufqng/X4NPnNCKpTI/AAAAAAABl04/jc-ttWWdCDgVoMJ5i3c-IHLG0sMtc6PGACLcBGAsYHQ/s270/607-En%2BYufuin-Cute%2BHigh%2BEarth%2BDefense%2BClub%2BLove%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U0bMOQL8I9Q/X4izi_09qjI/AAAAAAAAsik/9TOj5Xqq4H8PU-7dAOBaoISUhJYIcFHFwCLcBGAsYHQ/s135/607-En-Yufuin-Cute-High-Earth-Defense-Club-Love-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QpOzWffORfc/X4izjRVjUWI/AAAAAAAAsio/JAyzBckBt3s2nTueayyy8FC7Dp0T4G_8QCLcBGAsYHQ/s135/607-En-Yufuin-Cute-High-Earth-Defense-Club-Love-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ziCu1Zt9tI0/X4izj_RBZqI/AAAAAAAAsis/bLlMwqkH7DoQ6C65scS0sxQZSoolSjQEwCLcBGAsYHQ/s135/607-En-Yufuin-Cute-High-Earth-Defense-Club-Love-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6xtNwev3sMQ/X4izkbHHZlI/AAAAAAAAsiw/YPozBS29VqQZYvrEh6Q9DoLg1W-vlGPfgCLcBGAsYHQ/s135/607-En-Yufuin-Cute-High-Earth-Defense-Club-Love-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-X_s8b955Fwc/X4izk-6-iwI/AAAAAAAAsi0/oJgl9aTRFSwdt4hvMBe3ipbNM7czuRHBQCLcBGAsYHQ/s135/607-En-Yufuin-Cute-High-Earth-Defense-Club-Love-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n607/",
+      "fetched_at": "2026-05-16T19:10:34.687Z",
+      "raw_id": "/nendoroid/details/n607/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.461Z",
+      "raw_id": "Nendoroid/0600-0699/607.json"
+    }
+  ]
+}

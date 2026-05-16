@@ -1,0 +1,69 @@
+{
+  "num": "1477",
+  "name": {
+    "en": "Nendoroid Lifeline",
+    "ja": "ねんどろいど ライフライン (ねんどろいど らいふらいん)",
+    "ko": "라이프라인"
+  },
+  "series": {
+    "en": "Apex Legends",
+    "ja": "エーペックスレジェンズ",
+    "ko": "Apex 레전드",
+    "code": "apex-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10176,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uDXt0IDGTLs/X62Y5jOI6sI/AAAAAAAAugM/flxkvqg7tjQwdcgGOInRoMTueiHn7v7RQCLcBGAsYHQ/s270/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uDXt0IDGTLs/X62Y5jOI6sI/AAAAAAAAugM/flxkvqg7tjQwdcgGOInRoMTueiHn7v7RQCLcBGAsYHQ/s270/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cruGkxIS-ko/X62aKsOVpjI/AAAAAAAAuho/n7R9BMCVUkcGfivFeTp5eFbx15lW1g-FwCLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vtjjCOffpNo/X62aK9aJ9sI/AAAAAAAAuhs/n4YEdJ7fcfMv8yOj1o_hj80hxYjs4gYdgCLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rHnyXqdINNk/X62aLKPxWxI/AAAAAAAAuhw/fUMEoiFQL7MMt9kt9Sf44aj6aSoqQCP0QCLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qNw8NrZi-Lc/X62aLbFfzfI/AAAAAAAAuh0/NRomHJcvayQKDoZ34XLbRKhYgWDKHqnOQCLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OLM0LuMAYrQ/X62aLjP29BI/AAAAAAAAuh4/b2c_BhfOeDw1lGXH1Bqh3k1ndJRPBlk0QCLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tX4cOFrSkYs/X62aL8jypZI/AAAAAAAAuh8/JUtbnk6STOIITrnLDf8-BC9H3bcKg0uzACLcBGAsYHQ/s135/1477-Lifeline-Apex-Legends-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1477/",
+      "fetched_at": "2026-05-16T19:10:33.455Z",
+      "raw_id": "/nendoroid/details/n1477/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.675Z",
+      "raw_id": "Nendoroid/1400-1499/1477.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2208",
+  "name": {
+    "en": "Nendoroid Shiori Katase",
+    "ja": "ねんどろいど 片瀬詩織里 (ねんどろいど かたせしおり)",
+    "ko": "카타세 시오리"
+  },
+  "series": {
+    "en": "My Tiny Senpai",
+    "ja": "うちの会社の小さい先輩の話",
+    "ko": "우리 회사의 작은 선배 이야기",
+    "code": "my-tiny-senpai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14670,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rBpC5qN6j9g/ZM6ywVTg-II/AAAAAAABA9E/dNdcdd868O0IQQOfvxOngM2i4ToOogRYQCNcBGAsYHQ/s270/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rBpC5qN6j9g/ZM6ywVTg-II/AAAAAAABA9E/dNdcdd868O0IQQOfvxOngM2i4ToOogRYQCNcBGAsYHQ/s270/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WuX_fE6BBos/ZNAWLk5v_tI/AAAAAAABBEo/gPRi7E-NPT0YS9TzMTeowuG8pGl1Dj8TgCNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WOPXzMTcx1Y/ZNAWL7U_NSI/AAAAAAABBEs/uAdyvs5KW4E19GjK1BbTqPe6uBvdS9QiQCNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y9BSgbbbe8o/ZNAWMjVa1xI/AAAAAAABBEw/OjCQbem-lvk5oe2x-p3-lo-3JuRKv8tUwCNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ArhRUEmvygU/ZNAWNMzC6TI/AAAAAAABBE0/JvLG7wcShfANJPIt2zYL57ZbGm3dIeMWACNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GL1A0a1cxck/ZNAWNVCMHeI/AAAAAAABBE4/lbB3uPOWKMswp4OwEXeS3iaE-Fi_0XGQACNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HLJFUx0MzvU/ZNAWNvtztdI/AAAAAAABBE8/YI7a2NkdlX0I4qj-kKYP5-VyclRA5n7KgCNcBGAsYHQ/s135/2208-Shiori-Katase-My-Tiny-Senpai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2208/",
+      "fetched_at": "2026-05-16T19:10:33.913Z",
+      "raw_id": "/nendoroid/details/n2208/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.855Z",
+      "raw_id": "Nendoroid/2200-2299/2208.json"
+    }
+  ]
+}

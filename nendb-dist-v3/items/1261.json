@@ -1,0 +1,69 @@
+{
+  "num": "1261",
+  "name": {
+    "en": "Nendoroid Kaworu Nagisa",
+    "ja": "ねんどろいど 渚カヲル (ねんどろいど なぎさかをる)",
+    "ko": "나기사 카오루"
+  },
+  "series": {
+    "en": "Rebuild of Evangelion",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "ko": "에반게리온",
+    "code": "rebuild-of-evangelion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9124,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zsCL9H2iiuM/X4NiZj-iRAI/AAAAAAABmqg/lMLb_AvBqCEGhS4ud7zoYuSaXyvBOuSzQCLcBGAsYHQ/s270/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zsCL9H2iiuM/X4NiZj-iRAI/AAAAAAABmqg/lMLb_AvBqCEGhS4ud7zoYuSaXyvBOuSzQCLcBGAsYHQ/s270/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RvmNpQ2um1Y/X4r0SBZzIfI/AAAAAAABp7k/l_RB_t-8clU8rvkSn6LHyssneHnqKhhrQCLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wElEVtxm-RY/X4r0SeDscgI/AAAAAAABp7o/vr3TeZqyi3svMnUprIDehmbVboyY3UN6ACLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-crO_nQiG4Qw/X4r0SuDQ04I/AAAAAAABp7s/aOW20QCFagYmLlkPWqcoszQi36HiJsfaACLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-K-PFq3FJGQU/X4r0TAaHeSI/AAAAAAABp7w/mPRwZH65FGUk6334HoCgYNSKKZ4mQ0MYACLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-U6eUidymIKE/X4r0TflZ77I/AAAAAAABp70/1gIT8shlstUiFtKKW3cQZXLXHgDOkAUQgCLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-h4Bps9hjS8U/X4r0T_woiNI/AAAAAAABp78/LB-ZUZwerxUEMwqI0_4TDeK5ycW8LrqcgCLcBGAsYHQ/s135/1261-Kaworu-Nagisa-Rebuild-of-Evangelion-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1261/",
+      "fetched_at": "2026-05-16T19:10:33.319Z",
+      "raw_id": "/nendoroid/details/n1261/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.623Z",
+      "raw_id": "Nendoroid/1200-1299/1261.json"
+    }
+  ]
+}

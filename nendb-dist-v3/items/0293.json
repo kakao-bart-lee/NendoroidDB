@@ -1,0 +1,68 @@
+{
+  "num": "0293",
+  "name": {
+    "en": "Nendoroid Yui Takamura (ねんどろいど たかむらゆい)",
+    "ja": "ねんどろいど 篁唯依 (ねんどろいど たかむらゆい)",
+    "ko": "타카무라 유이"
+  },
+  "series": {
+    "en": "Muv-Luv Alternative: Total Eclipse",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "code": "muv-luv-alternative-total-eclipse"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3761,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CSNO3Sor00E/X4NLcCRYd-I/AAAAAAABlbI/XrgYU5q9gG0Y8vpiiIHr5-e10Aze_F2pQCLcBGAsYHQ/s270/293-Takamura-Yui-Muv-Luc-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CSNO3Sor00E/X4NLcCRYd-I/AAAAAAABlbI/XrgYU5q9gG0Y8vpiiIHr5-e10Aze_F2pQCLcBGAsYHQ/s270/293-Takamura-Yui-Muv-Luc-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-G6tAKQcorNg/X4dYfonMjGI/AAAAAAAAquM/HZuSumwP98EkK2-kI-Xvb5DFkZ87Qw0SQCLcBGAsYHQ/s135/293-Takamura-Yui-Muv-Luv-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cuRbSnsr48c/X4dYflWR8mI/AAAAAAAAquQ/WZoEKz1vkTwG0bdCm4fA9PezMUN8J32kwCLcBGAsYHQ/s135/293-Takamura-Yui-Muv-Luv-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dVokRrQhN7Q/X4dYf8J4gQI/AAAAAAAAquU/wn0uC_0CtN8KQ60jeIaX6dwr-hsUoQhPQCLcBGAsYHQ/s135/293-Takamura-Yui-Muv-Luv-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-No0wH6wNlP8/X4dYgQULEYI/AAAAAAAAquY/DF8EOEZ7PHI7Fi-daGFYEywPV1EHbslHACLcBGAsYHQ/s135/293-Takamura-Yui-Muv-Luv-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HXP245Ez0ps/X4dYgidh0hI/AAAAAAAAquc/SJbqiscOnEgRe3jK7udGxYtnZa4NqgVFwCLcBGAsYHQ/s135/293-Takamura-Yui-Muv-Luv-Alternative-Total-Eclipse-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n293/",
+      "fetched_at": "2026-05-16T19:10:34.397Z",
+      "raw_id": "/nendoroid/details/n293/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.344Z",
+      "raw_id": "Nendoroid/0200-0299/293.json"
+    }
+  ]
+}

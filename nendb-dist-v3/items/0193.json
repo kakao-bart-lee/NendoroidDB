@@ -1,0 +1,69 @@
+{
+  "num": "0193",
+  "name": {
+    "en": "Nendoroid Yozora Mikaduki (ねんどろいど みかづきよぞら)",
+    "ja": "ねんどろいど 三日月夜空 (ねんどろいど みかづきよぞら)",
+    "ko": "미카즈키 요조라"
+  },
+  "series": {
+    "en": "Boku wa Tomodachi ga Sukunai",
+    "ja": "僕は友達が少ない",
+    "ko": "나는 친구가 적다",
+    "code": "boku-wa-tomodachi-ga-sukunai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3256,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5MZjr4WDhwI/X4NKNRRW1-I/AAAAAAABlUI/X70MjeflC7oBJ12p5waSHYuzVTSuOQa9ACLcBGAsYHQ/s270/193-Mikazuki-Yozora-Haganai-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5MZjr4WDhwI/X4NKNRRW1-I/AAAAAAABlUI/X70MjeflC7oBJ12p5waSHYuzVTSuOQa9ACLcBGAsYHQ/s270/193-Mikazuki-Yozora-Haganai-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GnMNsV4LUlw/X4dUhHAiAYI/AAAAAAAAqN0/2WJKcDUlR9MuQs9SgOQyKmkfFR93cgdxACLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S-f_9dWxu_E/X4dUhk7011I/AAAAAAAAqN4/F67xgsgmyVUhCZW76wwOewdkGQQgNs4FwCLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OOBvvYF9fI8/X4dUiNcpr-I/AAAAAAAAqN8/WRf3skWRsowDI-gbO7Ptm3Ze1C1nouzGQCLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ALAWC8zwiqc/X4dUivgscYI/AAAAAAAAqOA/5zUCmLV_KP83DX-xJHNIXkIot3XHy6fZwCLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ui2IswEg4So/X4dUjBQPk6I/AAAAAAAAqOE/RHvoUeCV6rY0DeP1MX0VbSnzuE4AXFR3gCLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-kTr3vfCyUc0/X4dUjo4E_KI/AAAAAAAAqOI/RANMFLJHubkFruDjyD13Ze6c7sqAswJQgCLcBGAsYHQ/s135/193-Mikazuki-Yozora-Haganai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n193/",
+      "fetched_at": "2026-05-16T19:10:33.742Z",
+      "raw_id": "/nendoroid/details/n193/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.316Z",
+      "raw_id": "Nendoroid/0100-0199/193.json"
+    }
+  ]
+}

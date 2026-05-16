@@ -1,0 +1,69 @@
+{
+  "num": "0202",
+  "name": {
+    "en": "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)",
+    "ja": "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
+    "ko": "KAITO 응원 Ver."
+  },
+  "series": {
+    "en": "KAITO",
+    "ja": "KAITO",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "kaito"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3305,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FXvm1GJA6sU/X4NLEZ-iByI/AAAAAAABlVY/tX7UCkZPGD4EQaKngfej-_ND5f3yJPnWQCLcBGAsYHQ/s270/202-Kaito-Cheerful-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FXvm1GJA6sU/X4NLEZ-iByI/AAAAAAABlVY/tX7UCkZPGD4EQaKngfej-_ND5f3yJPnWQCLcBGAsYHQ/s270/202-Kaito-Cheerful-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8RPnsm1KUNc/X4dWuq-120I/AAAAAAAAqS4/oLTXkb1vebMS7b8K08IQYBNIcHonH6ZOwCLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hDDqo4H_Ay4/X4dWvM0E9ZI/AAAAAAAAqS8/RheVP-fDAKYOHjARpZmrXjcTPF4AfLXogCLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tdTNsTVhLI0/X4dWviiIBTI/AAAAAAAAqTA/rMpZEcDv8VoAXN4_0ujw6Yic6P6XwCFEACLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RQZ9ZOJ8l3Y/X4dWwErbVRI/AAAAAAAAqTE/9Vof7sEyo1E2Ke-rvUMoPTrJdRL8KhN8ACLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-G95CQhnxSjY/X4dWwe7SFWI/AAAAAAAAqTI/o02ZfbHZZEEtmHSIc_8oHw3hr_1xTFz4ACLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vIj1dYZ1K5U/X4dWwksGwlI/AAAAAAAAqTM/5JCSgZoQLQULD9ydyaAjRBOnhFDcAkTtQCLcBGAsYHQ/s135/202-Kaito-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n202/",
+      "fetched_at": "2026-05-16T19:10:33.795Z",
+      "raw_id": "/nendoroid/details/n202/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.318Z",
+      "raw_id": "Nendoroid/0200-0299/202.json"
+    }
+  ]
+}

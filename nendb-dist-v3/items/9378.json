@@ -1,0 +1,55 @@
+{
+  "num": "9378",
+  "name": {
+    "en": "Nendoroid Doll Saber of \"Red\": Casual Ver.",
+    "ja": "ねんどろいどどーる “赤”のセイバー 私服Ver. (ねんどろいどどーる あかのせいばーしふくVer.)",
+    "ko": "적의 세이버 사복 Ver."
+  },
+  "series": {
+    "en": "Fate/Apocrypha",
+    "ja": "Fate/Apocrypha",
+    "ko": "Fate/Apocrypha",
+    "code": "fate-apocrypha"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6820,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9378,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200324/9378/68557/large/0f792baab679c7d35dac0058746cc77c.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.967Z",
+      "raw_id": "NendoroidDoll/Doll/9378.json"
+    }
+  ]
+}

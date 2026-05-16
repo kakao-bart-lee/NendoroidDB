@@ -1,0 +1,92 @@
+{
+  "num": "2884",
+  "name": {
+    "en": "Anya",
+    "ja": "ねんどろいど アーニャ",
+    "ko": null
+  },
+  "series": {
+    "en": "Mouthwashing",
+    "ja": "Mouthwashing",
+    "ko": null,
+    "code": "mouthwashing"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": "4580828665286",
+  "gsc_product_id": "1138834",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138834",
+    "ja": "https://www.goodsmile.com/ja/product/1138834"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138834/NJbvzDUwQG2VKH4TZqnj0d3iXtYRFue1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdQhJAKZpkuXPGrW2CnbfXgEb3K047xvgoTvtBn5oULH7bIgizOP0M1MlkYb9sVSvG1i6V5RsFoZuuVIKyWPrZSaPMICsnCZinFT-VUx4gqS_mL9JSsbVcdYndgYIm1J2oCUepgWs4s9gQJqITvJ2vTFvfyHSBWrVIl0_79pTTF69UK0jp_4-3nb50YNRU/s270/2884-Anya-Mouthwashing-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgrJMmfKnndgdRSVnLg22w1qDUwMxyIgvMpPPlgvejITUDGb5628ivECvtG4Ztv_okkAZMvB7ptv3cGve2NK-onjgtm0gOnOgY_J45OnownYf6gHnEQINM9MkMuQ9WFU37ciGevRgI53DsIUfKKp2Vt-HzLmEeefY3mzcuy-oOU-Gwb4-OxQq7zmd8J2zw/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRnj5FEpYBnl7xMT59n_m8Fdq_IWORBA1ypEToZnOtFw7nhGp7jH4NOhczO24YKlePtjsuLGXktIe6gLC5ptGQp15nAemLOopBOsrXHj4ahONvkxwucW5OSRlV_0m-NaBZx4Mdt0m8uEmQezamQNiKPXZgVcysw5cFGeL9ZGfTxctcwkW_goh-PtpoJj2e/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibD8lhfnYlv2eXhrc-m19JbNgUDwodMahJal12qAbUEyK7fWGvBkSUF9_nv9qg4XxUfuxV55c1pokROUGIEO8bQPWCtBa_x4L7MAvpb3gTsPW3g8kgHsXvAKPbsCIFUnNsgKmayK2TPBakFcGF_wkjOR7lvQgkxBjQb5BVyz-hwG9sHwkwQcHP335fabL8/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz9_L_eUmEKALQXgIbnc2_jswZdH8gSl9FhyC8v_VwuRxmxAkQssuN0FNCjhaUxd99fOtHStEozNEbFXP7WsYwjeuEa0lb6RIVlMnclbyLJeEAa4ta8YBdwc5zMOs_PN_YHDCOSDGLXhfP4_u2ibRWCsHvgZERvPE37CWlbyVZs0-dSVyhqcYMl554yTbS/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgprOX_-_7jq6iTRIPfYwDOsD-7HKYpg6DK_MvRzKbwij7LNL3fUerGgLExOBB1yJnfnyshE1G5rOLEajc2SLMnu_AC8T8xJ0RLrh9x9WP4WjWZ1IqyuHlQNoAyMa4tgk8g77fmuS2i5CM9mlgKdd5xSjGCH1cz0h3akO6jzskZGh_ifr1ANbb2vR23_V8R/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmmoStlT488UHebywYKFMOPwwnTzxq5h0eq8UgZRbx5GLsLLJnj2PmjXYi6czG1OKJoAGTLh-mdjDEd1U9ktLbvG12oWhwc4RP-NPsn4OMxSihVtbSDFv5bOwXaGdWAvwP8z0LKeIGGZrXgF_NWZiWUzAEaQJ3zaKs4vHegp025TUS1cEP-EmBMfGwOAll/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaSv4IlGNDYgrKhoQ1U5O-Qgy4o2knnldd6hzvGnLPyZ_UcK9zsbG33ecDZjTUvZT3Z-mJ-1wzbgd5KqNyvso8lKmR2RWI05vqS09jxQJPAKOw2c9gdUH-Nv88df_Bx620j1dUSemZWP5eZwLE8ynFMJZ7lBspj6hHZYM54vufiVh1V7d3NqCPmMQyBCMG/s135/2884-Anya-Mouthwashing-Video-Games-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138834/mTN7R9zauvcsASM5eXDbZL31tBr8Jg2h.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138834/NJbvzDUwQG2VKH4TZqnj0d3iXtYRFue1.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138834",
+      "price_local": 6500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:13:54.804Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138834",
+      "fetched_at": "2026-05-16T12:13:54.804Z",
+      "raw_id": "1138834"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138834",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138834"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2884/",
+      "fetched_at": "2026-05-16T19:10:34.371Z",
+      "raw_id": "/nendoroid/details/n2884/"
+    }
+  ]
+}

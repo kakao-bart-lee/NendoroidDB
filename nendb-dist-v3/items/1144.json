@@ -1,0 +1,68 @@
+{
+  "num": "1144",
+  "name": {
+    "en": "Nendoroid Hyakkimaru",
+    "ja": "ねんどろいど 百鬼丸 (ねんどろいど ひゃっきまる)",
+    "ko": "햐키마루"
+  },
+  "series": {
+    "en": "Dororo",
+    "ja": "どろろ",
+    "ko": "도로로",
+    "code": "dororo"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8435,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2tu_GYFwbFM/X4Ngdck5wJI/AAAAAAABmbU/cbXrCGpQRbMUpTG0RTdt3geBL_Ng7mVWgCLcBGAsYHQ/s270/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2tu_GYFwbFM/X4Ngdck5wJI/AAAAAAABmbU/cbXrCGpQRbMUpTG0RTdt3geBL_Ng7mVWgCLcBGAsYHQ/s270/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CZgOIz6b0WE/X4rwbWDNbUI/AAAAAAABpLQ/y1y96YqJv4szbSS_9a1DG9yKY0T5JE4nACLcBGAsYHQ/s135/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1kGdBQDkFEo/X4rwbs_UDAI/AAAAAAABpLU/MvrSqw5V9w0asnryhzg8mdGnmNAufi2NQCLcBGAsYHQ/s135/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fJpzQv8oN1U/X4rwb3AEBeI/AAAAAAABpLY/x5TyXObqMkAqekHRVP4y2a2QMrh2lbgIQCLcBGAsYHQ/s135/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aviYM-NCrsQ/X4rwcL1jQrI/AAAAAAABpLc/veX3HkT3necqp4bN1LmUcF8mhQVxzL-ggCLcBGAsYHQ/s135/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mB5993lRs5o/X4rwcc7mQGI/AAAAAAABpLg/G-09sNxnTu005nWn51agFHbhJn4BbxcUACLcBGAsYHQ/s135/1144-Hyakkimaru-Dororo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1144/",
+      "fetched_at": "2026-05-16T19:10:33.248Z",
+      "raw_id": "/nendoroid/details/n1144/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.596Z",
+      "raw_id": "Nendoroid/1100-1199/1144.json"
+    }
+  ]
+}

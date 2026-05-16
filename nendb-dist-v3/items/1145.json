@@ -1,0 +1,68 @@
+{
+  "num": "1145",
+  "name": {
+    "en": "Nendoroid Amiya",
+    "ja": "ねんどろいど アーミヤ (ねんどろいど あーみや)",
+    "ko": "아미야"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8407,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SenDUKB2KAc/X4NgdegIc7I/AAAAAAABmbY/KMHhWOarTTw6TN-oJ_6Di5dNMBW5xzEKACLcBGAsYHQ/s270/1145-Amiya-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SenDUKB2KAc/X4NgdegIc7I/AAAAAAABmbY/KMHhWOarTTw6TN-oJ_6Di5dNMBW5xzEKACLcBGAsYHQ/s270/1145-Amiya-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wKDQd5KsQs0/X4rwckYOlnI/AAAAAAABpLk/xIaSmzrzM1czwkdoOE25G9g1-CN12YjFACLcBGAsYHQ/s135/1145-Amiya-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pTF72az9VyM/X4rwc9PtiWI/AAAAAAABpLo/HKGojrp5uqI91mPy6W1ed42O5To7W5lowCLcBGAsYHQ/s135/1145-Amiya-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cpu_1O4kla8/X4rwdO2CiOI/AAAAAAABpLs/KjrHHsEchlU0mDIRdZAddVoHRNwdZbnxACLcBGAsYHQ/s135/1145-Amiya-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-J-HPLkmvgE0/X4rwdQBPkHI/AAAAAAABpLw/pfn8w3PaVWQujlF1FdwEboiGwO-9k0nvQCLcBGAsYHQ/s135/1145-Amiya-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6HLIOzEyicU/X4rwdolOW1I/AAAAAAABpL0/dEPTF_m8MMUWGkanZsMH1N6pMG7PgKNJACLcBGAsYHQ/s135/1145-Amiya-Arknights-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1145/",
+      "fetched_at": "2026-05-16T19:10:33.248Z",
+      "raw_id": "/nendoroid/details/n1145/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.596Z",
+      "raw_id": "Nendoroid/1100-1199/1145.json"
+    }
+  ]
+}

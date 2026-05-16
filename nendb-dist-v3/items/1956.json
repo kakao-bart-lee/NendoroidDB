@@ -1,0 +1,98 @@
+{
+  "num": "1956",
+  "name": {
+    "en": "Nendoroid Takina Inoue",
+    "ja": "ねんどろいど 井ノ上たきな (ねんどろいど うのうえたきな)",
+    "ko": "이노우에 타키나"
+  },
+  "series": {
+    "en": "Lycoris Recoil",
+    "ja": "リコリス・リコイル",
+    "ko": "리코리스 리코일",
+    "code": "lycoris-recoil"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "JUN (E.V.)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828660588",
+  "gsc_product_id": "11212",
+  "gsc_product_num": 13527,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11212",
+    "ja": "https://www.goodsmile.com/ja/product/11212"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221115/13527/107140/large/e038dd43b0916425bbaf418ab5456b1c.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-i-xlIWok75k/Y45wQyXwToI/AAAAAAAA7q8/D6EFomHVZ5Icq7wn7PWLW2HQvrAbgqNlQCNcBGAsYHQ/s270/1956-Takina-Inoue-Lycoris-Recoil-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pBeH_gI6Y9U/Y451II2aDcI/AAAAAAAA7wY/OLJirwB8K2sopmzVTGLG-iyg6zZKZ_e3QCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iU3NYPsQLsU/Y451IUghKUI/AAAAAAAA7wc/FT181b66PJICoPCFNxInUt8tZEvB39zPACNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-147fGyNqHtY/Y451IvVppjI/AAAAAAAA7wg/sHS7YRId-pcWPxDcwnCdDPRMjqcbdahsQCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ktNxEHGzT7E/Y451I2p8PCI/AAAAAAAA7wk/q8NEcZwGOuQng2KBLY4AoB4jq6g7buBqQCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QrfS9J-NNbg/Y451JfiIThI/AAAAAAAA7wo/hFfnWxk2Mm4KkbrjYkjSeKTynfl6A-F5wCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-VQzNYOOLp-M/Y451J23ErOI/AAAAAAAA7ws/fHyWZFM8zDQf-Pqkw5dtmwkj_jFik9IqQCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-M0TKF819JBQ/Y451Kd4PuyI/AAAAAAAA7ww/tk3lHxeJvhEjY5LmxXyL_fJXc6-AzFAYgCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-WFDPiRgRE6E/Y451HzZ3l4I/AAAAAAAA7wU/ZClku9qyqgQ58giADgaP4TD6WPvY18rogCNcBGAsYHQ/s135/1956-Takina-Inoue-Lyoris-Recoil-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221115/13527/107139/large/a83465d18446b8b0a764a4027923bb64.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221115/13527/107140/large/e038dd43b0916425bbaf418ab5456b1c.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11212",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:01:50.868Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11212",
+      "fetched_at": "2026-05-16T12:01:50.868Z",
+      "raw_id": "11212"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11212",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11212"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1956/",
+      "fetched_at": "2026-05-16T19:10:33.751Z",
+      "raw_id": "/nendoroid/details/n1956/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.791Z",
+      "raw_id": "Nendoroid/1900-1999/1956.json"
+    }
+  ]
+}

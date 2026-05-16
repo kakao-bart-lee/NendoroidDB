@@ -1,0 +1,64 @@
+{
+  "num": "0196",
+  "name": {
+    "en": "Nendoroid Desert Army-san (ねんどろいど さばくのあーみーさん)",
+    "ja": "ねんどろいど 砂漠のあーみーさん (ねんどろいど さばくのあーみーさん)",
+    "ko": "사막의 아미 씨"
+  },
+  "series": {
+    "en": "Pixel Maritan",
+    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko": "마법의 해병대원 픽셀☆마리땅",
+    "code": "pixel-maritan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3410,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lAT4N5C1aQ0/X4NKOPUetkI/AAAAAAABlUU/hC9K0Sw5J10IwPcHJbh_ooGDT0RueeCogCLcBGAsYHQ/s270/196-Army-San-Desert-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lAT4N5C1aQ0/X4NKOPUetkI/AAAAAAABlUU/hC9K0Sw5J10IwPcHJbh_ooGDT0RueeCogCLcBGAsYHQ/s270/196-Army-San-Desert-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xAMZIqvuTUw/X4dUo2SDikI/AAAAAAAAqOw/UGf-uVAwNFsMpOfNwudgzuGoj1g9yjzDwCLcBGAsYHQ/s135/196-Desert-Army-san-Magical-Marine-Pixel-Maritan-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n196/",
+      "fetched_at": "2026-05-16T19:10:33.759Z",
+      "raw_id": "/nendoroid/details/n196/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.317Z",
+      "raw_id": "Nendoroid/0100-0199/196.json"
+    }
+  ]
+}

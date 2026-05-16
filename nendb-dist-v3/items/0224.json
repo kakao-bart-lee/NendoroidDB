@@ -1,0 +1,68 @@
+{
+  "num": "0224",
+  "name": {
+    "en": "Nendoroid Momoyo Kawakami (ねんどろいど かわかみももよ)",
+    "ja": "ねんどろいど 川神百代 (ねんどろいど かわかみももよ)",
+    "ko": "카와카미 모모요"
+  },
+  "series": {
+    "en": "Maji de Watashi ni Koishinasai!",
+    "ja": "真剣で私に恋しなさい！！",
+    "ko": "진심으로 날 사랑해라!!",
+    "code": "maji-de-watashi-ni-koishinasai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3457,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qpg50-ARMhk/X4NLKFAQw-I/AAAAAAABlWw/pYq9WK7xEq0zKEPaWw6mBcXq8uveNpgYQCLcBGAsYHQ/s270/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qpg50-ARMhk/X4NLKFAQw-I/AAAAAAABlWw/pYq9WK7xEq0zKEPaWw6mBcXq8uveNpgYQCLcBGAsYHQ/s270/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IVTPWNLl3BA/X4dXN6KKvkI/AAAAAAAAqZc/0_QuJhbIFxMU6vwFUyMc0HAY5hVT759HACLcBGAsYHQ/s135/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-PZwl_3ijXrw/X4dXOLVzTeI/AAAAAAAAqZg/6bcRov6lg5slceWtLtvJykcnAk0dzGMOACLcBGAsYHQ/s135/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JojPJ9n3BSE/X4dXOli_9NI/AAAAAAAAqZk/_cAyrnNF_TcnVXbrUMCQNtB5G45KYrGZACLcBGAsYHQ/s135/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HCC4s0UqQbk/X4dXOoHflUI/AAAAAAAAqZo/HQO17nLLccMSsDH8toIe0tDVmHlcW83awCLcBGAsYHQ/s135/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-f61V5REisB8/X4dXOuIEj8I/AAAAAAAAqZs/k_cw7FgSn8UDPTVZ-MrW3zm1AzxjNRROgCLcBGAsYHQ/s135/224-Kawakami-Momoyo-Maji-de-Watashi-ni-Koishinasai-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n224/",
+      "fetched_at": "2026-05-16T19:10:33.943Z",
+      "raw_id": "/nendoroid/details/n224/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.325Z",
+      "raw_id": "Nendoroid/0200-0299/224.json"
+    }
+  ]
+}

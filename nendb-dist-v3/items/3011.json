@@ -1,0 +1,61 @@
+{
+  "num": "3011",
+  "name": {
+    "en": "Lain Iwakura",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Serial Experiments Lain",
+    "ja": null,
+    "ko": null,
+    "code": "serial-experiments-lain"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3hM-tMUTP5mRzrLAFBysJ499gr0elhydvrpyVLgV_QwkEGKyyhk28ZsOhI2HvTEtERsCeEJ4d09MaQV7ZsJXqyIVtdPyOuuTvvpM96DpPUqdPTJq2niT49IZXkafAN3IzD8BSkmhEPmEXmqq9uNuUhZfVM3C67BbRsS-Tw2hGwNGmm_MJGt6-sL8rzJu/s270/3011-lain-iwakura-Serial-Experiments-Lain-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3hM-tMUTP5mRzrLAFBysJ499gr0elhydvrpyVLgV_QwkEGKyyhk28ZsOhI2HvTEtERsCeEJ4d09MaQV7ZsJXqyIVtdPyOuuTvvpM96DpPUqdPTJq2niT49IZXkafAN3IzD8BSkmhEPmEXmqq9uNuUhZfVM3C67BbRsS-Tw2hGwNGmm_MJGt6-sL8rzJu/s270/3011-lain-iwakura-Serial-Experiments-Lain-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5SthVlGp8EifKv60khligrTBUCva-LV1EZwZy8oKXJwSp1Jcxxks8kp_PUUK5n0KdiN4uuKpWy-DtgrCrtmHJWjHJ1nflCtbdPMeBJ5RxjhRbeHKpGePb1TRg56CTma__bZr4I9PtwBwNy2YsR0awnrdHedZ2JZD9UY1QHuz1AzyaW1fJkzxF13et9i51/s135/3011-lain-iwakura-Serial-Experiments-Lain-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2lztV9RymiI6KXitjwopbgaIkqcgujMhTYgZufp4_buDy_B2x3jhXMkSYG7QfidJxl4j1gIsPMT6sQwOYQ9gtPvJ2bsusiC8OAqQzIVr3K7oqjMGgEe60r8DixgA8VbvA0Rra4YZGTGaUsVbMgeTTl1Ama95EYVG7dzWrbNxctQvHoOCwjcPvMUJZbdf/s135/3011-lain-iwakura-Serial-Experiments-Lain-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6wZ-PFA5N9husjflmqjNyBpAnPuQtz9argoCH2ie40AebzE8p_xWVUSRO9mlT2tYNNpdUlgV_lbvqLKyd1Qq4CPn6RjP24suqhMADSJGFTjAIbg_1nyR6_uJRqjKVDa85LdE08fA-FqeZ5CPfcIQ2c25VA3s_taoBqWolnEnEye9me3N4ADw6cfms_eoh/s135/3011-lain-iwakura-Serial-Experiments-Lain-Anime-and-Manga-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3011/",
+      "fetched_at": "2026-05-16T19:10:34.430Z",
+      "raw_id": "/nendoroid/details/n3011/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "10962",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Nurse - White)",
+    "ja": "ねんどろいどどーる おようふくセット ナース服（White） (ねんどろいどどーる おようふくせっと なーすふく（ほわいと）)",
+    "ko": "간호사 의상(흰색)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10962,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210323/10962/82579/large/b847db616b847f2ff5abc7e2b2d6f0d0.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.916Z",
+      "raw_id": "NendoroidDoll/Clothes/10962.json"
+    }
+  ]
+}

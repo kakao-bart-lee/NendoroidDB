@@ -1,0 +1,68 @@
+{
+  "num": "1811a",
+  "name": {
+    "en": "Nendoroid Robbie the Rabbit (Pink)",
+    "ja": "ねんどろいど ロビー・ザ・ラビット（ピンク） (ねんどろいど ろびー・ざ・らびっと（ぴんく）)",
+    "ko": "로비 더 래핏(핑크)"
+  },
+  "series": {
+    "en": "Silent Hill 3",
+    "ja": "サイレントヒル３",
+    "ko": "사일런트 힐 3",
+    "code": "silent-hill-3"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12266,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-X0wEBxnJCQw/YhAE2CrYg_I/AAAAAAAA3lU/GplOi5i6Kj4wjPr4UFtevrgtD8GSMWjjQCNcBGAsYHQ/s270/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-X0wEBxnJCQw/YhAE2CrYg_I/AAAAAAAA3lU/GplOi5i6Kj4wjPr4UFtevrgtD8GSMWjjQCNcBGAsYHQ/s270/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vdNKJ-Pl55g/YhAMJR5BD6I/AAAAAAAA3uE/kMf7Pw91CBkXqk-oCgmNJ_SzbxiIrPNlACNcBGAsYHQ/s135/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EgukJQvAjOw/YhAMJtEMdFI/AAAAAAAA3uI/9Dw2kLk6FL0HQ04d1DaoXW2WP6wkEb2TACNcBGAsYHQ/s135/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sUxFswm4LyA/YhAMJ7gycqI/AAAAAAAA3uM/14PuGJ72gLACvsVNspt3C_aCPg0lpUltwCNcBGAsYHQ/s135/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HJOGDXYzYmc/YhAMKLXKohI/AAAAAAAA3uQ/FPOgZdtq3lAXvheVtNR3JJK9Um81mcUCQCNcBGAsYHQ/s135/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jaxqSi_RJek/YhAMKsGXl4I/AAAAAAAA3uU/zO5ShbUsAf8mhLxKmRm19CNuHG-s6-0GQCNcBGAsYHQ/s135/1811a-Robbie-the-Rabbit-Pink-Silent-Hill-3-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1811a/",
+      "fetched_at": "2026-05-16T19:10:33.662Z",
+      "raw_id": "/nendoroid/details/n1811a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.757Z",
+      "raw_id": "Nendoroid/1800-1899/1811a.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2363",
+  "name": {
+    "en": "Doc (Emmett Brown)",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Back To The Future",
+    "ja": null,
+    "ko": null,
+    "code": "back-to-the-future"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0Srh2Fd5zDQ/ZZcfJwrRHhI/AAAAAAABDJ8/nN3c7w2y31cw9bp5VZlmLH9e5Qs8X161QCNcBGAsYHQ/s270/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0Srh2Fd5zDQ/ZZcfJwrRHhI/AAAAAAABDJ8/nN3c7w2y31cw9bp5VZlmLH9e5Qs8X161QCNcBGAsYHQ/s270/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-d-Ntse4SvQc/ZZSM8W3pcOI/AAAAAAABDDI/DCD8-m-IVOcDy-6SMUCPewy1Tc32P9EBwCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zT4g23s8a98/ZZSM80u-sPI/AAAAAAABDDM/F4OBCjY-ElssJsRVGFJrgIsisRGdKnM9gCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OvqfFoybwmM/ZZSM9VO4V4I/AAAAAAABDDQ/YrotcYVri3MYe7NwHFN9scSRJD1RTVGCwCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JSwHSlqaTzI/ZZSM99ZTuzI/AAAAAAABDDU/Gw0PlPFTO0Eo-6Kh6s8J_JTNmmEmYvQ1wCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bjl3Vu68P-0/ZZSM-eDRIiI/AAAAAAABDDY/2CnNk_-tfJMHtvGcegQ0wHpmalxM_ckJwCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GGuSmSDjD2g/ZZSM_BvWwbI/AAAAAAABDDc/4aPvGrm3ff0vMRaWJTXEGr8o1gXAd5PAQCNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-WBsd75jJcpU/ZZSM_fAuIeI/AAAAAAABDDg/ALGKla6U0QAqCR4K_XpVxiY0tkrB9Tx3ACNcBGAsYHQ/s135/2363-Doc-Emmett-Brown-Back-to-the-Future-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2363/",
+      "fetched_at": "2026-05-16T19:10:34.011Z",
+      "raw_id": "/nendoroid/details/n2363/"
+    }
+  ]
+}

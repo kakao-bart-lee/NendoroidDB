@@ -1,0 +1,55 @@
+{
+  "num": "9439",
+  "name": {
+    "en": "Nendoroid Doll Ruler: Casual Ver.",
+    "ja": "ねんどろいどどーる ルーラー 私服Ver. (ねんどろいどどーる るーらー しふくVer.)",
+    "ko": "룰러 사복 Ver."
+  },
+  "series": {
+    "en": "Fate/Apocrypha",
+    "ja": "Fate/Apocrypha",
+    "ko": "Fate/Apocrypha",
+    "code": "fate-apocrypha"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6820,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9439,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200421/9439/69097/large/4fc00407505b27fbc2a195772aa32511.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.968Z",
+      "raw_id": "NendoroidDoll/Doll/9439.json"
+    }
+  ]
+}

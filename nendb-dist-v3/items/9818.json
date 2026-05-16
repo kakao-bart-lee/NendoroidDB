@@ -1,0 +1,59 @@
+{
+  "num": "9818",
+  "name": {
+    "en": "Nendoroid Doll: Shoes Set 03",
+    "ja": "ねんどろいどどーる シューズセット 03 (ねんどろいどどーる しゅーずせっと 03)",
+    "ko": "신발 세트3"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    },
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2750,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9818,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200722/9818/72341/large/1711a10e5f912addffeb13e08f1596c5.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.950Z",
+      "raw_id": "NendoroidDoll/Customizing/9818.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1977",
+  "name": {
+    "en": "Nendoroid Daiwa Scarlet",
+    "ja": "ねんどろいど ダイワスカーレット (ねんどろいど だいわすかーれっと)",
+    "ko": "다이와 스칼렛"
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": "ウマ娘 プリティーダービー",
+    "ko": "우마무스메: 프리티 더비",
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13369,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-U6guWoOJhKc/Y45wR06z4jI/AAAAAAAA7rQ/xghcPt8WB9UrYIkw3Y48i4YzIUG5TBfFACNcBGAsYHQ/s270/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-U6guWoOJhKc/Y45wR06z4jI/AAAAAAAA7rQ/xghcPt8WB9UrYIkw3Y48i4YzIUG5TBfFACNcBGAsYHQ/s270/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oyFve3Yu44c/Y451Qq5CK4I/AAAAAAAA7yg/OCICrc00e9I02gTQ5vMNP86zDHF7OfkFQCNcBGAsYHQ/s135/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LSsq3a-m-Kw/Y451RBX0HNI/AAAAAAAA7yk/MNjcLN-jpfoGkWvZE2j8LYbTIId7TFRAwCNcBGAsYHQ/s135/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-em68t7-l2-Y/Y451RDVdtII/AAAAAAAA7yo/M4mUJoWRjtkaOE4ZmI5-OVxODD_hvH77gCNcBGAsYHQ/s135/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1ErsupL6vjw/Y451RYUEyBI/AAAAAAAA7ys/az4gBS7IQxQUu1pT0PUhCGWZXZ1YIWz1QCNcBGAsYHQ/s135/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-b-Cc7t8ZUxk/Y451RprCWBI/AAAAAAAA7yw/wQTd59xx5ucOX5prGE6cXMxhSEmDv8PSACNcBGAsYHQ/s135/1977-Daiwa-Scarlet-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1977/",
+      "fetched_at": "2026-05-16T19:10:33.764Z",
+      "raw_id": "/nendoroid/details/n1977/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.796Z",
+      "raw_id": "Nendoroid/1900-1999/1977.json"
+    }
+  ]
+}

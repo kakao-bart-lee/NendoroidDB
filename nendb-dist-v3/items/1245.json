@@ -1,0 +1,95 @@
+{
+  "num": "1245",
+  "name": {
+    "en": "Nendoroid Takashi Natsume & Nyanko Sensei",
+    "ja": "ねんどろいど 夏目貴志＆ニャンコ先生 (ねんどろいど なつめたかし＆にゃんこせんせい)",
+    "ko": "나츠메 타카시&야옹 선생"
+  },
+  "series": {
+    "en": "Natsume Yujin-cho",
+    "ja": "夏目友人帳",
+    "ko": "나츠메 우인장",
+    "code": "natsume-yujin-cho"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4580828667075",
+  "gsc_product_id": "6716",
+  "gsc_product_num": 9009,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/6716",
+    "ja": "https://www.goodsmile.com/ja/product/6716"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20191121/9009/65561/large/ad28c683c4ce35efc72e8e78d7074b17.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ro2zUDtOIko/X4NiR6uDwNI/AAAAAAABmpg/eykgbl0dGwgPP5uWXPlcdOBqGg1eMweBwCLcBGAsYHQ/s270/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-i4fwxymLoPw/X4rz6QBlPLI/AAAAAAABp1w/LxqYQr4XRgc0YbGXpSH7X2DJnl3Vp3MsACLcBGAsYHQ/s135/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2XlB1piYgiA/X4rz665GQPI/AAAAAAABp10/VapO_3m2y0sMx2Rbi_c_YL7GKUffuQ1qACLcBGAsYHQ/s135/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VGSEmhY9zGA/X4rz7Lu8dpI/AAAAAAABp14/RRjLP9Whcl8sXoqDIJiQGT0JBTCKswhvQCLcBGAsYHQ/s135/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iCSN-O97Jn8/X4rz7LV0DSI/AAAAAAABp18/_w2tV2DXW7claEgObQUA_xzc8ppVjPIewCLcBGAsYHQ/s135/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jy4vJajwZOg/X4rz7ajQ8iI/AAAAAAABp2A/9HWN9Sz5IhcopBt2LhBirrK23WADVTLugCLcBGAsYHQ/s135/1245-Takashi-Natsume-and-Nyanko-Sensei-Natsume-Yujin-cho-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/6716/adc054a2381d706eec282532bfdf4c4b.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20191121/9009/65561/large/ad28c683c4ce35efc72e8e78d7074b17.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6716",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:21:51.702Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6716",
+      "fetched_at": "2026-05-16T12:21:51.702Z",
+      "raw_id": "6716"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/6716",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "6716"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1245/",
+      "fetched_at": "2026-05-16T19:10:33.309Z",
+      "raw_id": "/nendoroid/details/n1245/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.619Z",
+      "raw_id": "Nendoroid/1200-1299/1245.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0098",
+  "name": {
+    "en": "Nendoroid Mimi Usa (ねんどろいど　うさみみ)",
+    "ja": "ねんどろいど 宇佐美々 (ねんどろいど　うさみみ )",
+    "ko": "우사 미미"
+  },
+  "series": {
+    "en": "こどものじかん",
+    "ja": "こどものじかん",
+    "ko": "아이들의 시간",
+    "code": ""
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2740,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F27EazQgf_s/X4MSLeq_3FI/AAAAAAAApcw/JokRRwACkKgvK1UqsrKJga6r1dwQnedTwCLcBGAsYHQ/s270/098-Usa-Mimi-Komodo-no-Jikan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F27EazQgf_s/X4MSLeq_3FI/AAAAAAAApcw/JokRRwACkKgvK1UqsrKJga6r1dwQnedTwCLcBGAsYHQ/s270/098-Usa-Mimi-Komodo-no-Jikan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vFG0_JVVK5U/X4GxSkbTevI/AAAAAAAApTA/zcuZTaQIuK4sKPLVte_4FgorjVtuZh6TgCLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zVzCkmwRUxQ/X4GxS5-lG4I/AAAAAAAApTE/6AlTL-Qcbo4npr52FSmrK_3z_R6a_JqSgCLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pThxBPT0vic/X4GxTI9a1ZI/AAAAAAAApTI/gMCC5lLFHS0e7Zgp9K9X5-wEVWQrp0UkwCLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FzLsP9sNTOg/X4GxTGJdsYI/AAAAAAAApTM/gaUY8R0o1lct6H_kzxre_UlkjxcMfB9IwCLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CidipBPEY_w/X4GxTCI7V7I/AAAAAAAApTQ/XAgBrig0QbgWVfCddDb5K0ru0JKnqHnEQCLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pTBP89TuTOw/X4GxTk-aUJI/AAAAAAAApTU/6qYDfIIRRdYLkmH3PsLBBQXVTMutYQyAACLcBGAsYHQ/s135/098-Mimi-Usa-Kodomo-no-Jikan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n098/",
+      "fetched_at": "2026-05-16T19:10:33.125Z",
+      "raw_id": "/nendoroid/details/n098/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.287Z",
+      "raw_id": "Nendoroid/0000-0099/098.json"
+    }
+  ]
+}

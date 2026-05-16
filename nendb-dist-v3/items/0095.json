@@ -1,0 +1,68 @@
+{
+  "num": "0095",
+  "name": {
+    "en": "Nendoroid Nanoha Takamachi: The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)",
+    "ja": "ねんどろいど 高町なのは The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)",
+    "ko": "타카마치 나노하 극장판 Ver."
+  },
+  "series": {
+    "en": "Magical Girl Lyrical Nanoha The MOVIE 1st",
+    "ja": "魔法少女リリカルなのは The MOVIE 1st",
+    "ko": "마법소녀 리리컬 나노하",
+    "code": "magical-girl-lyrical-nanoha-the-movie-1st"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2729,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HrQ2spA-EQA/X4MSKJ6JSxI/AAAAAAAApcg/EVidC4-4nyA4S6y9NPg0vnEz0ekkkTB4gCLcBGAsYHQ/s270/095-Nanoha-Takamachi-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HrQ2spA-EQA/X4MSKJ6JSxI/AAAAAAAApcg/EVidC4-4nyA4S6y9NPg0vnEz0ekkkTB4gCLcBGAsYHQ/s270/095-Nanoha-Takamachi-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Cru-A-4S_-0/X4G0SxYxegI/AAAAAAAApVw/KkYE7CBGbm4lUYCW41vysyZe2ZOQXOnvACLcBGAsYHQ/s135/095-Takamachi-Nanoha-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-A-MsrJpOZ6k/X4G0S27aLpI/AAAAAAAApVs/F7486HelAroJBHrElqZihtwsPvNhKEkBACLcBGAsYHQ/s135/095-Takamachi-Nanoha-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z_cWS8u21aw/X4G0TBNYBZI/AAAAAAAApV0/CJj2QRRuDpwTmlGCbtWVUIgG-_LhEqUAACLcBGAsYHQ/s135/095-Takamachi-Nanoha-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qYUgdJ0U7bo/X4G0TpSH0zI/AAAAAAAApV4/vbPmRw-69ckfmDeB-iJp1-pRmeL3Fi65ACLcBGAsYHQ/s135/095-Takamachi-Nanoha-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OQ035JdECvE/X4G0Tjl0ZdI/AAAAAAAApV8/RxIai-OZcH8jRMaEN4kiwgK_a0A4ElylgCLcBGAsYHQ/s135/095-Takamachi-Nanoha-Magical-Girl-Lyrical-Nanoha-The-Movie-1st-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n095/",
+      "fetched_at": "2026-05-16T19:10:33.123Z",
+      "raw_id": "/nendoroid/details/n095/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.286Z",
+      "raw_id": "Nendoroid/0000-0099/095.json"
+    }
+  ]
+}

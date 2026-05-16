@@ -1,0 +1,70 @@
+{
+  "num": "1883",
+  "name": {
+    "en": "Nendoroid Kirby: 30th Anniversary Edition",
+    "ja": "ねんどろいど カービィ 30th Anniversary Edition (ねんどろいど かーびぃ 30th あにばーさりー えでぃしょん)",
+    "ko": "커비: 30주년 에디션"
+  },
+  "series": {
+    "en": "Kirby",
+    "ja": "星のカービィ",
+    "ko": "별의 커비",
+    "code": "kirby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12749,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tNazNFPvk2I/Yp4F6-jzzBI/AAAAAAAB6xg/p1JW-rKtR2QGGN4l1AkH7XGUSWPC_TiMACNcBGAsYHQ/s270/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tNazNFPvk2I/Yp4F6-jzzBI/AAAAAAAB6xg/p1JW-rKtR2QGGN4l1AkH7XGUSWPC_TiMACNcBGAsYHQ/s270/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EKiURwC73uo/Yp4NdNyab-I/AAAAAAAB64w/hmnD2JuomSUkmPjnUji_RFwZiGusAhj4wCNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j67NBChrdr4/Yp4NdTQyNtI/AAAAAAAB644/4xP5dJkyzZQR50Q25Rl5hevR2o5Q_UV3ACNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oZCGCGe1UHo/Yp4NdX1u0eI/AAAAAAAB640/sGHDL-zEhdQ7_ilVbOQulKbMQwB-lwp6wCNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZvkMQSabVlo/Yp4NduCgfvI/AAAAAAAB648/L0k1KHyVOaYFgtMB-suJ2OGvYhlz5NR1wCNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NI3ZQTyxPzM/Yp4Ndt1gqTI/AAAAAAAB65A/LuptkPbFnacSOzezuf0OAyJKYr0BkdX3ACNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-54FmUxaWiqk/Yp4Nd4pvRPI/AAAAAAAB65E/SbFyPKHzhDQ6nJRNgFN_VhhcPqr56MrtQCNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-dk0oJ_vm96E/Yp4NeJytWXI/AAAAAAAB65I/Pkj4EJbH9RcK48bmH0GAA1pr0p46jnmHQCNcBGAsYHQ/s135/1883-Kirby-Kirby-30th-Anniversary-Edition-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1883/",
+      "fetched_at": "2026-05-16T19:10:33.708Z",
+      "raw_id": "/nendoroid/details/n1883/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.774Z",
+      "raw_id": "Nendoroid/1800-1899/1883.json"
+    }
+  ]
+}

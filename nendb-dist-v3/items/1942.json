@@ -1,0 +1,69 @@
+{
+  "num": "1942",
+  "name": {
+    "en": "Nendoroid Rody Soul",
+    "ja": "ねんどろいど ロディ・ソウル (ねんどろいど ろでぃ・そうる)",
+    "ko": "로디 소울"
+  },
+  "series": {
+    "en": "My Hero Academia: World Heroes' Mission",
+    "ja": "僕のヒーローアカデミア THE MOVIE WORLD HEROES' MISSION",
+    "ko": "나의 히어로 아카데미아: 월드 히어로즈 미션",
+    "code": "my-hero-academia-world-heroes-mission"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7920,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13092,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NiQYuBvdlQA/Yw_Wey_CvpI/AAAAAAAA6b4/J44O-fB5neUHemKL_xMfRXVVpyBHkK9TgCNcBGAsYHQ/s270/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NiQYuBvdlQA/Yw_Wey_CvpI/AAAAAAAA6b4/J44O-fB5neUHemKL_xMfRXVVpyBHkK9TgCNcBGAsYHQ/s270/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tW1PTsQuB8I/YxEYgqbsB3I/AAAAAAAA6yY/e9o12FO2bssDMJzj9E69TazvVZ9wjOLYwCNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3SVym-JBxpo/YxEYhGR1J8I/AAAAAAAA6yc/7x-hUpEa-P4jfeo0DpgQnS7QL0rB9uO_QCNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gDzZCygkzgs/YxEYhW1BvOI/AAAAAAAA6yg/8lbSCAQmQ0UTS7pinEttQHbSuCuttLQzgCNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zIhKNJP_qGQ/YxEYhcoRZ4I/AAAAAAAA6yk/sGJkoX5O5LUNxiGJ_UwP3vQtwuMd0bY9gCNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-06rpc12SKwU/YxEYhm1wP3I/AAAAAAAA6yo/qPVVKXtCdHAMZX1pi-5HlcFh8-f7Pr4VQCNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Wtvo2z_KAAo/YxEYiKky4TI/AAAAAAAA6ys/TeHaVrmKdSk9zUgCzxjhc8aQBl-eYVRNACNcBGAsYHQ/s135/1942-Rody-Soul-My-Hero-Academia-World-Heroes-Mission-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1942/",
+      "fetched_at": "2026-05-16T19:10:33.743Z",
+      "raw_id": "/nendoroid/details/n1942/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.787Z",
+      "raw_id": "Nendoroid/1900-1999/1942.json"
+    }
+  ]
+}

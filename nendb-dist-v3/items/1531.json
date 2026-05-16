@@ -1,0 +1,68 @@
+{
+  "num": "1531",
+  "name": {
+    "en": "Nendoroid V: Female Ver.",
+    "ja": "ねんどろいど V 女性Ver. (ねんどろいど V じょせいVer.)",
+    "ko": "V 여성 Ver."
+  },
+  "series": {
+    "en": "Cyberpunk 2077",
+    "ja": "サイバーパンク2077",
+    "ko": "사이버펑크 2077",
+    "code": "cyberpunk-2077"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10512,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-D_nHW5Wd3_g/X9p0wRhba0I/AAAAAAAAvAE/dxr_EHbqeTgpfO-Si2uCzoe9OypKwOdaACLcBGAsYHQ/s270/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-D_nHW5Wd3_g/X9p0wRhba0I/AAAAAAAAvAE/dxr_EHbqeTgpfO-Si2uCzoe9OypKwOdaACLcBGAsYHQ/s270/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-13lhQc3ECBw/X9p5PWGTWDI/AAAAAAAAvD8/Pp1iPVjf79cZ4z9kJ_sYslKt3-00WdenwCLcBGAsYHQ/s135/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DftcZ-sWPIY/X9p5PtKeX2I/AAAAAAAAvEA/GOVxqQLC9xwAuHVFfw2t1rDHdwKlMfUsQCLcBGAsYHQ/s135/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VWtdXXWwzH0/X9p5QIKPRRI/AAAAAAAAvEE/IFNVttojYYcpj4obD0jOOxoi_bwPK050gCLcBGAsYHQ/s135/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RViQwiw1F1Y/X9p5QX-yxsI/AAAAAAAAvEI/MAafWH0nVaY_qMnCcwFK-wrzCa4qwio4wCLcBGAsYHQ/s135/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ab3loQMnEsY/X9p5QnrHBdI/AAAAAAAAvEM/VfVOCuuHrOwBFZ4I2FEGZWPgAMfoTokBQCLcBGAsYHQ/s135/1531-V-Female-Ver.-Cyberpunk-2077-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1531/",
+      "fetched_at": "2026-05-16T19:10:33.486Z",
+      "raw_id": "/nendoroid/details/n1531/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.689Z",
+      "raw_id": "Nendoroid/1500-1599/1531.json"
+    }
+  ]
+}

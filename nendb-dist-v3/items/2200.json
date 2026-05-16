@@ -1,0 +1,68 @@
+{
+  "num": "2200",
+  "name": {
+    "en": "Nendoroid Snoopy",
+    "ja": "ねんどろいど スヌーピー (ねんどろいど すぬーぴー)",
+    "ko": "스누피"
+  },
+  "series": {
+    "en": "PEANUTS",
+    "ja": "PEANUTS",
+    "ko": "PEANUTS",
+    "code": "peanuts"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14938,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ksMGC-nDGX8/ZQoU1owclgI/AAAAAAABBiw/JVOK3dzXkMcWmgr0nRYno6Dy4rgwd5zEACNcBGAsYHQ/s270/2200-Snoopy-Peanuts-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ksMGC-nDGX8/ZQoU1owclgI/AAAAAAABBiw/JVOK3dzXkMcWmgr0nRYno6Dy4rgwd5zEACNcBGAsYHQ/s270/2200-Snoopy-Peanuts-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cawWlV9ihS8/ZQsgZnNw6gI/AAAAAAABBnc/KU5pb1xvqlETPuOJbOtTQsgcvIiX6hp_gCNcBGAsYHQ/s135/2200-Snoopy-Peanuts-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JcAgIi0QV9Q/ZQsgaD7PKuI/AAAAAAABBng/ZULUdjG2hRUC87-Sa0KSJnggf9WQU4LRACNcBGAsYHQ/s135/2200-Snoopy-Peanuts-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-q1zuCUSJOkc/ZQsgapLw3OI/AAAAAAABBnk/ilqpMF5eHiQC0RnIh-tdGtjaAdD13rbZQCNcBGAsYHQ/s135/2200-Snoopy-Peanuts-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-a1mGH-fd_xQ/ZQsgbMdM-OI/AAAAAAABBno/QM7bd2nnJUQCJK8D1QRihcUPGZnO4UxZwCNcBGAsYHQ/s135/2200-Snoopy-Peanuts-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OcxZEDOmO1Y/ZQsgbrMWbiI/AAAAAAABBns/tk-qMxVI2scqZMMe2D1nV5UaMIyp95aGgCNcBGAsYHQ/s135/2200-Snoopy-Peanuts-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2200/",
+      "fetched_at": "2026-05-16T19:10:33.905Z",
+      "raw_id": "/nendoroid/details/n2200/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.853Z",
+      "raw_id": "Nendoroid/2200-2299/2200.json"
+    }
+  ]
+}

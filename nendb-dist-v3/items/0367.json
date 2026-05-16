@@ -1,0 +1,68 @@
+{
+  "num": "0367",
+  "name": {
+    "en": "Nendoroid Kuroko Shirai (ねんどろいど しらいくろこ)",
+    "ja": "ねんどろいど 白井黒子 (ねんどろいど しらいくろこ)",
+    "ko": "시라이 쿠로코"
+  },
+  "series": {
+    "en": "Toaru Kagaku no Railgun S",
+    "ja": "とある科学の超電磁砲S",
+    "ko": "어떤 과학의 초전자포",
+    "code": "toaru-kagaku-no-railgun-s"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4057,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BdaDVUDfgH0/X4NM8LGqwKI/AAAAAAABljs/x0ynEyaVbj8FzefIdAuQb-214qHB7za0gCLcBGAsYHQ/s270/367-Kuroko-Shirai-Toaru%2BKagaku%2Bno%2BRailgun%2BS-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BdaDVUDfgH0/X4NM8LGqwKI/AAAAAAABljs/x0ynEyaVbj8FzefIdAuQb-214qHB7za0gCLcBGAsYHQ/s270/367-Kuroko-Shirai-Toaru%2BKagaku%2Bno%2BRailgun%2BS-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Wyn56iEEC0E/X4dbLu5uEtI/AAAAAAAArJU/CXcwBr3iH58mbOEbHTt3Af1fWKnuwOnjgCLcBGAsYHQ/s135/367-Kuroko-Shirai-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ue4qVYqU5Jo/X4dbMDlLJyI/AAAAAAAArJY/JuEqxOLabscH0mkxH5Ydi7zaBysNshGCgCLcBGAsYHQ/s135/367-Kuroko-Shirai-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eY3xGZnuVLM/X4dbMSQZUOI/AAAAAAAArJc/5Ei2iguFH1MGee1mHNYHZ6j0kIiX1tjNwCLcBGAsYHQ/s135/367-Kuroko-Shirai-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IjgoYgqhf-I/X4dbMUSGjpI/AAAAAAAArJg/S0v9wSdSlGgq3cBv1GCJC1PsDsNC_xyRgCLcBGAsYHQ/s135/367-Kuroko-Shirai-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BnucHR0DKOg/X4dbMnGRvyI/AAAAAAAArJk/AUeFOgDymaw3nvSWN-qCeHXuBqyxUSl2wCLcBGAsYHQ/s135/367-Kuroko-Shirai-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n367/",
+      "fetched_at": "2026-05-16T19:10:34.486Z",
+      "raw_id": "/nendoroid/details/n367/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.363Z",
+      "raw_id": "Nendoroid/0300-0399/367.json"
+    }
+  ]
+}

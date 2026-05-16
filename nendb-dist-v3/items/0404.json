@@ -1,0 +1,69 @@
+{
+  "num": "0404",
+  "name": {
+    "en": "Nendoroid Tsubasa Hanekawa (ねんどろいど はねかわつばさ)",
+    "ja": "ねんどろいど 羽川翼 (ねんどろいど はねかわつばさ)",
+    "ko": "하네카와 츠바사"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4257,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ju3yyo6NPPU/X4NNoWO-LRI/AAAAAAABlms/y9nmMJMepA8N_z5yD-CVolQ-F-WkyvpkQCLcBGAsYHQ/s270/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ju3yyo6NPPU/X4NNoWO-LRI/AAAAAAABlms/y9nmMJMepA8N_z5yD-CVolQ-F-WkyvpkQCLcBGAsYHQ/s270/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7LDt4CqA4nI/X4ddPTddrDI/AAAAAAAArXw/9ghId9FVXGIEhi9DPYEkxsHk4Jj3gPaRwCLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5zC1bx8hAo0/X4ddPVGG7iI/AAAAAAAArX0/gFbrQu4QcCw3aUYkST0uTc2mSGYkB3EOACLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dK9zTRHHluE/X4ddPllBpLI/AAAAAAAArX4/t3-YIm6u47AmS4QRb4e3J1jSNwhpj-nOwCLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-v-a-9INtzY8/X4ddP471ZrI/AAAAAAAArX8/5fr3zl1WLT4hQb-mjtTbNpqf73jrFjqTwCLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WB24hMFg1Ts/X4ddP9ppEMI/AAAAAAAArYA/z4Nkj2pJPUELO7RDw4SlKcM8W5L6IJmhQCLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nVA232CYKy8/X4ddQBRzkvI/AAAAAAAArYE/TXRTLoVKgX45NliK60Rn9e6x5AQrhAolQCLcBGAsYHQ/s135/404-Tsubasa-Hanekawa-Bakemonogatari-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n404/",
+      "fetched_at": "2026-05-16T19:10:34.508Z",
+      "raw_id": "/nendoroid/details/n404/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.372Z",
+      "raw_id": "Nendoroid/0400-0499/404.json"
+    }
+  ]
+}

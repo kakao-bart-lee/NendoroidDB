@@ -1,0 +1,70 @@
+{
+  "num": "2010",
+  "name": {
+    "en": "Nendoroid Luo Tianyi: Grain in Ear Ver.",
+    "ja": "ねんどろいど 洛天依 芒種Ver. (ねんどろいど るおてんい ぼうしゅVer.)",
+    "ko": "뤄톈이 망종 Ver."
+  },
+  "series": {
+    "en": "Vsinger",
+    "ja": "Vsinger",
+    "ko": "Vsinger",
+    "code": "vsinger"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13618,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-44mkXoSb2Kg/Y45wW7KPGgI/AAAAAAAA7ss/lup9TIkg6MEK4flkTG8xww2XUruUmkENwCNcBGAsYHQ/s270/2010-Luo-Tianyi-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-44mkXoSb2Kg/Y45wW7KPGgI/AAAAAAAA7ss/lup9TIkg6MEK4flkTG8xww2XUruUmkENwCNcBGAsYHQ/s270/2010-Luo-Tianyi-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QQiYJkieQzM/Y45191NQ2uI/AAAAAAAA77c/8V1ynaK2mFY_h85ayhi5nwwC4FQUxfBWgCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XeLMIwDcWH4/Y451-c3EEgI/AAAAAAAA77g/pDOI0_INvWsXj3b6WxykrFmYZg_2R5fSwCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-csbDkFVdl48/Y451-xPqt4I/AAAAAAAA77k/ZpnpMXd0IC8rxwrLYWLEcc0dw52GMvowQCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cUy98uqJFUo/Y451_MbxzDI/AAAAAAAA77o/bFSGV5xdx68sc6UWseVrPpRxSHlfsPeywCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HoiZsEFJyRk/Y451_T8cKtI/AAAAAAAA77s/iKzFUPNrEIk7sQtoO-9auDYFMYzQfnoZwCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-iP52H2vAtQs/Y451_iVIa6I/AAAAAAAA77w/XJb0mcvofJcAYeG6VKwBPkQA9Jx_WaKmwCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pQNgK6dQKDU/Y451_qqjmzI/AAAAAAAA770/SWOsOTCgvpgC3mp_C506d_rQM-9KHAlswCNcBGAsYHQ/s135/2010-Luo-Tianyi-Vocaloid-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2010/",
+      "fetched_at": "2026-05-16T19:10:33.783Z",
+      "raw_id": "/nendoroid/details/n2010/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.805Z",
+      "raw_id": "Nendoroid/2000-2099/2010.json"
+    }
+  ]
+}

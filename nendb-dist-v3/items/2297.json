@@ -1,0 +1,91 @@
+{
+  "num": "2297",
+  "name": {
+    "en": "Rintaro Suna",
+    "ja": "ねんどろいど 角名 倫太郎",
+    "ko": null
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": null,
+    "code": "haikyu"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": "4580828661622",
+  "gsc_product_id": "12821",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12821",
+    "ja": "https://www.goodsmile.com/ja/product/12821"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15138/122701/large/5e13cca534d58d9d14e18060be8519be.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rc3O6tuZiIg/ZWZfnowwshI/AAAAAAABCcA/jV5ljnGT-OE0Hr1YVjuO3XanEwA_P7tXACNcBGAsYHQ/s270/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hMh7SNDvB7I/ZWZo077xncI/AAAAAAABCkE/3h2OKHqJr5AmtcWBzuh9r6jS7pA1sVBQACNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8uzBP-Gj7Ww/ZWZo1NXZqJI/AAAAAAABCkM/2IC8uTqmjiYk_QXp8qezG3buAg9ueUHJgCNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0pm7dN0-h1o/ZWZo0-A9FYI/AAAAAAABCkI/izru1XIh380bs-xQ7f04jAPyxkNPnr8LwCNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pdgBjUZzl_U/ZWZo1lwmSLI/AAAAAAABCkQ/b52etbiuSoA_pG7jotMN4nw3dMByNUUsgCNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6FkE3te_Plo/ZWZo2UiXIdI/AAAAAAABCkU/2kGo1bkgZUsBNpLRxf-CTGDEQhJr2KSIACNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2AvaoVswFZs/ZWZo2jEYm8I/AAAAAAABCkY/dBHACkI0Vq0IcKgv1nvN-wy9u23F8ET0wCNcBGAsYHQ/s135/2297-Rintaro-Suna-Haikyu-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15138/122705/large/3a3ea9894f1e74e6bc41c0334b41be9d.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231026/15138/122701/large/5e13cca534d58d9d14e18060be8519be.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12821",
+      "price_local": 5800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:03:06.455Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12821",
+      "fetched_at": "2026-05-16T12:03:06.455Z",
+      "raw_id": "12821"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12821",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12821"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2297/",
+      "fetched_at": "2026-05-16T19:10:33.971Z",
+      "raw_id": "/nendoroid/details/n2297/"
+    }
+  ]
+}

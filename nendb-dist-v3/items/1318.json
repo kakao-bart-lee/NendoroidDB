@@ -1,0 +1,69 @@
+{
+  "num": "1318",
+  "name": {
+    "en": "Nendoroid Sumireko Sanshokuin",
+    "ja": "ねんどろいど 三色院菫子 (ねんどろいど さんしょくいん すみれこ)",
+    "ko": "산쇼쿠인 스미레코"
+  },
+  "series": {
+    "en": "ORESUKI Are you the only one who loves me?",
+    "ja": "俺を好きなのはお前だけかよ",
+    "ko": "나를 좋아하는 건 너뿐이냐",
+    "code": "oresuki-are-you-the-only-one-who-loves-me"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9396,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-by8WeS5JnCw/X4NjmRrGQMI/AAAAAAABmz8/ZCDvfMYiW2kgGI59-tuC4D5-p-3rT1TRACLcBGAsYHQ/s270/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-by8WeS5JnCw/X4NjmRrGQMI/AAAAAAABmz8/ZCDvfMYiW2kgGI59-tuC4D5-p-3rT1TRACLcBGAsYHQ/s270/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-l6Ut-Fr_DLY/X4s8x-2K8SI/AAAAAAABqVs/N5reaY7OWP8qBk5ZieZBbC4qbKstlTiYQCLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8StPirGB4yg/X4s8x8mI6qI/AAAAAAABqVw/0qKDo_fFPuM6xoEddVdv9CvW8FsrOv9HwCLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QOWOZuoxD8g/X4s8yIoph0I/AAAAAAABqV0/xxZqOa8VktAeG7FTr_Y0y7MrPsza3zhZwCLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EkJyFscNs4k/X4s8yZ7tH0I/AAAAAAABqV4/ncNmBY0o1ncT9ZqjWl-99tzkSUaaxFoZACLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-O69SmMTQEfk/X4s8yjlq32I/AAAAAAABqV8/y7H21zfXzMoAElC7MbumXYnXxEcytm05gCLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-AWR4UOHonLs/X4s8y8Rtx6I/AAAAAAABqWA/cPL5rfKM9zwFCvvkVpxuVC9P429DC0g3ACLcBGAsYHQ/s135/1318-Sumireko-Sanshokuin-ORESUKI-Are-you-the-only-one-who-loves-me-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1318/",
+      "fetched_at": "2026-05-16T19:10:33.354Z",
+      "raw_id": "/nendoroid/details/n1318/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.637Z",
+      "raw_id": "Nendoroid/1300-1399/1318.json"
+    }
+  ]
+}

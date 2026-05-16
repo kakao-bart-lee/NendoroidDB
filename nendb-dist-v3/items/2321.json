@@ -1,0 +1,64 @@
+{
+  "num": "2321",
+  "name": {
+    "en": "Hifumi Ajitani",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Archive",
+    "ja": null,
+    "ko": null,
+    "code": "blue-archive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5EOFqZzAxbw/ZWZftT_V3YI/AAAAAAABCc8/VLn18sefns0qOh9-6evWSKBxVGUlV2TyACNcBGAsYHQ/s270/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5EOFqZzAxbw/ZWZftT_V3YI/AAAAAAABCc8/VLn18sefns0qOh9-6evWSKBxVGUlV2TyACNcBGAsYHQ/s270/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-29H9xPTTTvI/ZWZpURsE9nI/AAAAAAABCpI/hwxMLA6hKMQ6KS4zlknIh-F51BvcBakbQCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ExfsyE4NBRw/ZWZpVvyMbvI/AAAAAAABCpQ/KSkoAWGemKIgTqeZFZhL9uvFQr4R5va8QCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mYjNltWSzfk/ZWZpVvpVveI/AAAAAAABCpM/nDY8XtuXhIkem3mzPtA0L3CFMmHjm03pQCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-H6SXFfTdUNw/ZWZpWTPI6wI/AAAAAAABCpU/0JdKbr6gUtcEg-S1voHakzCCEOVe9_itgCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--IP0aZ6EyqI/ZWZpXcFM4iI/AAAAAAABCpc/HNPxzQ89s_k87PM3kcE_m2tGNuo2teVOwCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-jZPggBbeR_M/ZWZpXKon33I/AAAAAAABCpY/HzH_f-5HWvkxnBxOLn27TqBxGGEVCy_dQCNcBGAsYHQ/s135/2321-Hifumi-Ajitani-Blue-Archive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2321/",
+      "fetched_at": "2026-05-16T19:10:33.985Z",
+      "raw_id": "/nendoroid/details/n2321/"
+    }
+  ]
+}

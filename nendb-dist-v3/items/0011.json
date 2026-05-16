@@ -1,0 +1,64 @@
+{
+  "num": "0011",
+  "name": {
+    "en": "Nendoroid Ryuk (りゅーく ねんどろいど)",
+    "ja": "ねんどろいど リューク (りゅーく ねんどろいど)",
+    "ko": "류크"
+  },
+  "series": {
+    "en": "DEATH NOTE",
+    "ja": "DEATH NOTE",
+    "ko": "데스노트",
+    "code": "death-note"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 398,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YkkPy1o1Qzo/X4MRxhp7BHI/AAAAAAAApW8/coN4D8ZNskcMlkKOro0t_RVnwv-S0wM7wCLcBGAsYHQ/s270/011-Ryuk-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YkkPy1o1Qzo/X4MRxhp7BHI/AAAAAAAApW8/coN4D8ZNskcMlkKOro0t_RVnwv-S0wM7wCLcBGAsYHQ/s270/011-Ryuk-Death-Note-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hTEZsm5CC9Y/X4GwOL1ppDI/AAAAAAAAo-0/3Z5_Qrk_j4U-pNH0xUSjZPiTwA4UPKnJwCLcBGAsYHQ/s135/011-Ryuk-Death-Note-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n011/",
+      "fetched_at": "2026-05-16T19:10:33.070Z",
+      "raw_id": "/nendoroid/details/n011/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.260Z",
+      "raw_id": "Nendoroid/0000-0099/011.json"
+    }
+  ]
+}

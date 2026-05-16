@@ -1,0 +1,69 @@
+{
+  "num": "1399",
+  "name": {
+    "en": "Nendoroid Ai Mizuno",
+    "ja": "ねんどろいど 水野愛 (ねんどろいど みずのあい)",
+    "ko": "미즈노 아이"
+  },
+  "series": {
+    "en": "Zombie Land Saga",
+    "ja": "ゾンビランドサガ",
+    "ko": "좀비랜드 사가",
+    "code": "zombie-land-saga"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13450,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4866kgTCiho/Y45wQrW-aWI/AAAAAAAA7q0/Lj6nhmucLzsApLJzZgV-Gi-PrxCJWKLmACNcBGAsYHQ/s270/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4866kgTCiho/Y45wQrW-aWI/AAAAAAAA7q0/Lj6nhmucLzsApLJzZgV-Gi-PrxCJWKLmACNcBGAsYHQ/s270/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0jo_kLP-Co0/Y450_c0WQSI/AAAAAAAA7u8/u0U3LO0p7qgnCJhkybZ7NaSfv6qq9Ak4ACNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Wkjn5MaHyhU/Y450_3RG6-I/AAAAAAAA7vA/XXZDvhuCKDg_j812NieUZ3OcW87ZB2FjwCNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aDt23xHmqlM/Y451ARCljNI/AAAAAAAA7vE/w7IFqL9vyxUYnOxWvCk-eVPAmIYmHX5nQCNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uJ3JeKuc4Nc/Y451A1m24wI/AAAAAAAA7vI/fQB8XQzJaioB8-gjaMAGS9jK_ZGVVRCfgCNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ttdsPEkspoQ/Y451BWmQMwI/AAAAAAAA7vM/gjECemfSvU0X7UwAUcmod8_SifP4_NGTgCNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--v1Hdrv1cpo/Y451B6-gb6I/AAAAAAAA7vQ/hcy6ChA2oVwjE67eDJcDfkHNIStTHEhpACNcBGAsYHQ/s135/1399-Ai-Mizuno-Zombie-Land-Saga-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1399/",
+      "fetched_at": "2026-05-16T19:10:33.407Z",
+      "raw_id": "/nendoroid/details/n1399/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.656Z",
+      "raw_id": "Nendoroid/1300-1399/1399.json"
+    }
+  ]
+}

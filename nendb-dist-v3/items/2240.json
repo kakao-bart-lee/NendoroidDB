@@ -1,0 +1,69 @@
+{
+  "num": "2240",
+  "name": {
+    "en": "Nendoroid Yuzuki Choco",
+    "ja": "ねんどろいど 癒月ちょこ (ねんどろいど ゆづきちょこ)",
+    "ko": "유즈키 초코"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브 프로덕션",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14851,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PTCqMSiiLOM/ZQoU5J7hVQI/AAAAAAABBjk/lQEN8V9FXpkxfbyGUSExyIuS--OKtjTnQCNcBGAsYHQ/s270/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PTCqMSiiLOM/ZQoU5J7hVQI/AAAAAAABBjk/lQEN8V9FXpkxfbyGUSExyIuS--OKtjTnQCNcBGAsYHQ/s270/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R1P2wz_dbSY/ZQsg8aCNJEI/AAAAAAABBsY/JOgFXUlP4mk-ACHELmOSRw0tDIsdU2aawCNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-umeahWG0FKA/ZQsg8_Nvc3I/AAAAAAABBsc/ZYGpC9flmlkHLGLWAzARX0bxmk5FB5vlACNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3If0vTFeJtQ/ZQsg9HiJ1MI/AAAAAAABBsg/GDjwsR4urHQH8vWlTzxsP-Q71nngoiBiACNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lWwhPDb6Bdk/ZQsg9m2uOVI/AAAAAAABBsk/vY_-280T-HoT1HIOkdIG2TWF6yfhn0CggCNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HO8vDZTPZ8k/ZQsg-DpXMZI/AAAAAAABBso/l22cwtL0m70qaxbdsz5Gsx-pMo8ScLpcQCNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-PUlOwmoIPQQ/ZQsg-lVzV_I/AAAAAAABBss/iYow_b-bCzkaSyhheeZC-qg5dVTpQgUcwCNcBGAsYHQ/s135/2240-Yuzuki-Choco-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2240/",
+      "fetched_at": "2026-05-16T19:10:33.938Z",
+      "raw_id": "/nendoroid/details/n2240/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.863Z",
+      "raw_id": "Nendoroid/2200-2299/2240.json"
+    }
+  ]
+}

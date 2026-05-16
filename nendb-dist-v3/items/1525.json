@@ -1,0 +1,71 @@
+{
+  "num": "1525",
+  "name": {
+    "en": "Nendoroid Crimvael",
+    "ja": "ねんどろいど クリムヴェール (ねんどろいど くりむゔぇーる)",
+    "ko": "크림베일"
+  },
+  "series": {
+    "en": "Interspecies Reviewers",
+    "ja": "異種族レビュアーズ",
+    "ko": "이종족 리뷰어스",
+    "code": "interspecies-reviewers"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10464,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3s0c6BYbQak/X850_PMIfwI/AAAAAAAAu4g/ibRteIyTgwcgjd9AcVyJGPUTrsnjlAFWwCLcBGAsYHQ/s270/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3s0c6BYbQak/X850_PMIfwI/AAAAAAAAu4g/ibRteIyTgwcgjd9AcVyJGPUTrsnjlAFWwCLcBGAsYHQ/s270/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RH-o_blo7CM/X86KxB-12nI/AAAAAAAAu8k/IQDcPPJFjl8523aA5kz7k6EQDdUilekkACLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-V-w5Gd9Si7A/X86KxHJfy1I/AAAAAAAAu8o/cL9ekZ9obw4lF_h1mJNNgBlKFgkoMGPRwCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-hOuifL790Yk/X86KxnUvJVI/AAAAAAAAu8s/J3qfxF9tl64v9g5VXPFzvcPk63owPanKgCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HK_D1CTzXVQ/X86Kx4AhjKI/AAAAAAAAu8w/kE41cysMhIsL4OM6wAK62iGTH1j2ltjsQCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-el6-aHck9M4/X86Kx7i1yLI/AAAAAAAAu80/ZCxnTOXq9F8iigMP2I2iM5x_pKjJc3n4gCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-027F9UaNSmc/X86KyBXbLyI/AAAAAAAAu84/yNJatpCVFokVXMGnRt8XqxM0zbZxTPVEgCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Y0wUwUB46uw/X86KylFGszI/AAAAAAAAu9A/xGhZUPMvmhc3Y4osSt3P9S-YLLKaX9riQCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-6U0GuQqUMQ4/X86KwzbO0HI/AAAAAAAAu8g/3IsoPqKHzssy_LtDRUP2vnnJeiQEW2C-gCLcBGAsYHQ/s135/1525-Crimvael-Interspecies-Reviewers-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "A",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1525/",
+      "fetched_at": "2026-05-16T19:10:33.483Z",
+      "raw_id": "/nendoroid/details/n1525/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.687Z",
+      "raw_id": "Nendoroid/1500-1599/1525.json"
+    }
+  ]
+}

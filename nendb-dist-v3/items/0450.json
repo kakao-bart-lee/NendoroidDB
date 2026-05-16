@@ -1,0 +1,67 @@
+{
+  "num": "0450",
+  "name": {
+    "en": "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)",
+    "ja": "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
+    "ko": "코사카 호노카"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4534,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8THpu0gidAo/X4NN0J6W2NI/AAAAAAABlps/cljkOnDd2RE_BTmfiNzKxQBaZSbo8LMFQCLcBGAsYHQ/s270/450-Honoka-Kousaka-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8THpu0gidAo/X4NN0J6W2NI/AAAAAAABlps/cljkOnDd2RE_BTmfiNzKxQBaZSbo8LMFQCLcBGAsYHQ/s270/450-Honoka-Kousaka-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vX0AYzLzPaw/X4deUmTTr4I/AAAAAAAArmo/pJNGkyoGeGMmnRj-zeVCXQSfH792DzoPgCLcBGAsYHQ/s135/450-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EimPb9b5vcU/X4deU8VmSFI/AAAAAAAArms/tjqfuObAV2g8zs6AUjGEPzbX2lCQNaiXQCLcBGAsYHQ/s135/450-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZgqHNzt89bc/X4deVEIOeVI/AAAAAAAArmw/GCdLZf6XyN4EtA0c3Aayx6UAfstD_KO3QCLcBGAsYHQ/s135/450-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xC4UZnkZbcA/X4deVIQBBpI/AAAAAAAArm0/PcnnO18JEBA06LFLhw9ba6LHOCzY7Yy9ACLcBGAsYHQ/s135/450-Honoka-Kosaka-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n450/",
+      "fetched_at": "2026-05-16T19:10:34.537Z",
+      "raw_id": "/nendoroid/details/n450/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.382Z",
+      "raw_id": "Nendoroid/0400-0499/450.json"
+    }
+  ]
+}

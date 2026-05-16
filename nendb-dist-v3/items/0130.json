@@ -1,0 +1,67 @@
+{
+  "num": "0130",
+  "name": {
+    "en": "Nendoroid Kurisu Makise (ねんどろいど まきせくりす)",
+    "ja": "ねんどろいど 牧瀬紅莉栖 (ねんどろいど まきせくりす)",
+    "ko": "마키세 크리스"
+  },
+  "series": {
+    "en": "STEINS;GATE",
+    "ja": "シュタインズ・ゲート",
+    "ko": "슈타인즈 게이트",
+    "code": "steins-gate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2958,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1CGoLZvuV4Q/X4NJ3P7Ik6I/AAAAAAABlPw/UajuUYshNm4lqhAmeod0KR5nLQTiu0DggCLcBGAsYHQ/s270/130-Makise-Kurisu-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1CGoLZvuV4Q/X4NJ3P7Ik6I/AAAAAAABlPw/UajuUYshNm4lqhAmeod0KR5nLQTiu0DggCLcBGAsYHQ/s270/130-Makise-Kurisu-Steins-Gate-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xSAB720ND24/X4dSgrCdNaI/AAAAAAAAp2E/_JpA__oydf4TOyIagYe9itRUdlIXvWI1QCLcBGAsYHQ/s135/130-Makise-Kurisu-Steins-Gate-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KecuRjsSHlo/X4dSg7GB7dI/AAAAAAAAp2I/gn7DTCLxgHsM7NzFvJhuYcr-6xOPwfpSgCLcBGAsYHQ/s135/130-Makise-Kurisu-Steins-Gate-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nOIkhSpgnUQ/X4dSg6PlTLI/AAAAAAAAp2M/rtN25cpZAawYHt7YVnjOv5EWfhRZqXjSQCLcBGAsYHQ/s135/130-Makise-Kurisu-Steins-Gate-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ASy8FqIE8hw/X4dShcqMQWI/AAAAAAAAp2Q/MbrsUiutZlQDMZp6nH6FJUa48jKWO-7iwCLcBGAsYHQ/s135/130-Makise-Kurisu-Steins-Gate-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n130/",
+      "fetched_at": "2026-05-16T19:10:33.349Z",
+      "raw_id": "/nendoroid/details/n130/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.296Z",
+      "raw_id": "Nendoroid/0100-0199/130.json"
+    }
+  ]
+}

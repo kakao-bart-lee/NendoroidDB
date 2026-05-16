@@ -1,0 +1,70 @@
+{
+  "num": "1717",
+  "name": {
+    "en": "Nendoroid Traveler (Aether)",
+    "ja": "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
+    "ko": "아르테르"
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": "原神",
+    "ko": "원신",
+    "code": "genshin-impact"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11781,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BOfr0z4Y2xg/Ya-zDXBETFI/AAAAAAAA2C4/ROFmqw69UNcfD6s3tsHT03bATigdqfW7ACNcBGAsYHQ/s270/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BOfr0z4Y2xg/Ya-zDXBETFI/AAAAAAAA2C4/ROFmqw69UNcfD6s3tsHT03bATigdqfW7ACNcBGAsYHQ/s270/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NfZCQgL8-O4/Ya-18DcRxnI/AAAAAAAA2FU/p0veqg34UTcAC871hmSLpOng66gyzbXuACNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yW5JLcuohkA/Ya-18CyJcMI/AAAAAAAA2FQ/_pFKy59NJ34Y71bfm1D4PmOpXqwKh_ZJwCNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fz0lPDxo92s/Ya-18DbVwrI/AAAAAAAA2FY/5UJP5oDzy2ATsOJKCl6Etn5_-iDGq-tzQCNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z-9n9fDbhEU/Ya-18mEbToI/AAAAAAAA2Fc/wM5UFMCyMdUDA6u85PxzCrlzQw5q3RwRQCNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-B-37oFqCW3M/Ya-18zxo38I/AAAAAAAA2Fg/IiGNIoh9WfwclU56nCtIROIA_xp3XnN6ACNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hcihGiu12dA/Ya-19PyRfsI/AAAAAAAA2Fk/9cmXcK9KjxA_xZBdcUq2_2ycioPy8CIxQCNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-_KVexE7yf7Q/Ya-19XWNalI/AAAAAAAA2Fo/YVUlU70G95gqoHGgiXnXutWX7zQySUwiwCNcBGAsYHQ/s135/1717-Traveler-Aether-Genshin-Impact-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1717/",
+      "fetched_at": "2026-05-16T19:10:33.604Z",
+      "raw_id": "/nendoroid/details/n1717/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.734Z",
+      "raw_id": "Nendoroid/1700-1799/1717.json"
+    }
+  ]
+}

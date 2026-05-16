@@ -1,0 +1,70 @@
+{
+  "num": "0542",
+  "name": {
+    "en": "Nendoroid Northern Princess (ねんどろいど ほくほうせいき)",
+    "ja": "ねんどろいど 北方棲姫 (ねんどろいど ほくほうせいき)",
+    "ko": "북방서희"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5145,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qJvn6nNIvRw/X4NOfgdj8ZI/AAAAAAABlwE/I2_kD0kUCkETBzX3ac1GY6c00v3N_xRRACLcBGAsYHQ/s270/542-Northern-Princess-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qJvn6nNIvRw/X4NOfgdj8ZI/AAAAAAABlwE/I2_kD0kUCkETBzX3ac1GY6c00v3N_xRRACLcBGAsYHQ/s270/542-Northern-Princess-Kantai-Collection-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-n4X7xzwKacg/X4islJIUlcI/AAAAAAAAsI8/Cml9DlTot8s-6XLMv051zezqhPDl1gwagCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-rPHY472TK9o/X4islWK1JRI/AAAAAAAAsJA/r-Ev9r08h6cXtkRRM6gGFIvGHmv6NbSTgCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QWmicAVY9zY/X4islnvjb5I/AAAAAAAAsJE/8gNiG7-lSyotXibbuDUo6n8PTQSkGwy5ACLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nNVw7s0S_Ro/X4islqoi77I/AAAAAAAAsJI/Ic2utefepqMYmxuHkuTeyFwtmvTvse62gCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pYkDxW78SEo/X4isl4KRRjI/AAAAAAAAsJM/Cq2mj5YoOgQQFEwntL-J3hYioUT9gkeIwCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-7Ta8uHIR6RE/X4ismQi5xlI/AAAAAAAAsJQ/kJzv1am-n8ID99R0A7Ix0LsfJGoW8uRaQCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-pesuOHeJpag/X4ism_hKWWI/AAAAAAAAsJU/bVo6apXZfoY8ejPqsz3F9kgjpEUDW2JIQCLcBGAsYHQ/s135/542-Northern-Princess-Kantai-Collection-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n542/",
+      "fetched_at": "2026-05-16T19:10:34.588Z",
+      "raw_id": "/nendoroid/details/n542/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.437Z",
+      "raw_id": "Nendoroid/0500-0599/542.json"
+    }
+  ]
+}

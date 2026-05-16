@@ -1,0 +1,65 @@
+{
+  "num": "2444",
+  "name": {
+    "en": "Andy",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Undead Unluck",
+    "ja": null,
+    "ko": null,
+    "code": "undead-unluck"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-f4_LRJrFhSk/Ziq--x8rQpI/AAAAAAABEB8/wgf_-Y2fh-AM06OiWRvZgbqVKSMStZNXQCNcBGAsYHQ/s270/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-f4_LRJrFhSk/Ziq--x8rQpI/AAAAAAABEB8/wgf_-Y2fh-AM06OiWRvZgbqVKSMStZNXQCNcBGAsYHQ/s270/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OpeUVZCji-8/Zow3PEVwAbI/AAAAAAABFos/jWnVlcgl9sU5iZkyNAOXrlb1jSff5fwMgCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3w5X_OYiW5I/Zow3Ph8Y8EI/AAAAAAABFow/I4cVGVbBKRgh1X1a75NjHLOQUVQEdHK3wCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ln_eOTVrOok/Zow3QAQEQmI/AAAAAAABFo0/XP9uVzBZAo42UpqPDlpSTcg_nlFqQb2zQCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6FKuwjBircE/Zow3QoaW0eI/AAAAAAABFo4/vkbXL0m6cMQ8f6i_OllKJyOvH8qgRPZzgCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ddtf5JYi-YI/Zow3ReqT13I/AAAAAAABFo8/S03MFZtnO98wgjJfB5Wgibw4amF-TZq3wCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-H8tDvNS7RN8/Zow3R38MneI/AAAAAAABFpA/luKkx7bLtUwyCmlgJDeOeYDPNy9-2a7yACNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-s1uTHy8qsQs/Zow3SQ8duII/AAAAAAABFpE/Bix_PyRPxMcbTXPJYEOuwn2nVenDL1iKwCNcBGAsYHQ/s135/2444-Andy-Undead-Unluck-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2444/",
+      "fetched_at": "2026-05-16T19:10:34.062Z",
+      "raw_id": "/nendoroid/details/n2444/"
+    }
+  ]
+}

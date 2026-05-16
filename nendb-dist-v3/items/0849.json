@@ -1,0 +1,68 @@
+{
+  "num": "0849",
+  "name": {
+    "en": "Nendoroid Yuri Katsuki: Casual Ver.",
+    "ja": "ねんどろいど 勝生勇利 私服Ver. (ねんどろいど かつきゆうり しふくVer.)",
+    "ko": "카츠키 유리 사복 Ver."
+  },
+  "series": {
+    "en": "YURI ON ICE",
+    "ja": "ユーリ!!! on ICE",
+    "ko": "유리!!! on ICE",
+    "code": "yuri-on-ice"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6862,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_gJM67wdxiA/X4Nd2X01LmI/AAAAAAABmFw/jIBvzZJ9LfAL7fwvWiIfAT1f-MM2I8h2wCLcBGAsYHQ/s270/849-Yuri-Katsuki-Casual-Ver-YURI%2521%2521%2521-on-ICE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_gJM67wdxiA/X4Nd2X01LmI/AAAAAAABmFw/jIBvzZJ9LfAL7fwvWiIfAT1f-MM2I8h2wCLcBGAsYHQ/s270/849-Yuri-Katsuki-Casual-Ver-YURI%2521%2521%2521-on-ICE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_bC5-E5p188/X4rjJZj9RYI/AAAAAAABnRs/x6_dEnjJ4p8NcHZ7f675KlhwzvnNVs4tgCLcBGAsYHQ/s135/849-Yuri-Katsuki-Yuri-on-ICE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xwx9pn_V5gM/X4rjJmZ33vI/AAAAAAABnRw/CcsBfEf2Jx4N0-fR_iKzwLzyHRYJC6o2wCLcBGAsYHQ/s135/849-Yuri-Katsuki-Yuri-on-ICE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ycUJvT4fLno/X4rjJ9pb6aI/AAAAAAABnR0/l0WX5KkVg74BjGAIrs55F6kE5E1kMMc8ACLcBGAsYHQ/s135/849-Yuri-Katsuki-Yuri-on-ICE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GDCd_1Jjzz4/X4rjJ8K-6DI/AAAAAAABnR4/M6By0k8TL0Q8zRzS-y5CzRpdWESWXMGtgCLcBGAsYHQ/s135/849-Yuri-Katsuki-Yuri-on-ICE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-b9-0fClw4r4/X4rjKoQ-2oI/AAAAAAABnR8/lDb83VPnJ2Qhl5-snVZDZCGronsRpduugCLcBGAsYHQ/s135/849-Yuri-Katsuki-Yuri-on-ICE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n849/",
+      "fetched_at": "2026-05-16T19:10:34.834Z",
+      "raw_id": "/nendoroid/details/n849/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.522Z",
+      "raw_id": "Nendoroid/0800-0899/849.json"
+    }
+  ]
+}

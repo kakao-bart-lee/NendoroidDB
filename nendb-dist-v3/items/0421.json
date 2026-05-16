@@ -1,0 +1,68 @@
+{
+  "num": "0421",
+  "name": {
+    "en": "Nendoroid Chitoge Kirisaki (ねんどろいど きりさきちとげ)",
+    "ja": "ねんどろいど 桐崎千棘 (ねんどろいど きりさきちとげ)",
+    "ko": "키리사키 치토게"
+  },
+  "series": {
+    "en": "Nisekoi",
+    "ja": "ニセコイ",
+    "ko": "니세코이",
+    "code": "nisekoi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4410,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YeOCwDCb5Tc/X4NNsSN_lLI/AAAAAAABln0/HqGNDLQmjI0pk4ACNgXXo7HWJhdKM1T7gCLcBGAsYHQ/s270/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YeOCwDCb5Tc/X4NNsSN_lLI/AAAAAAABln0/HqGNDLQmjI0pk4ACNgXXo7HWJhdKM1T7gCLcBGAsYHQ/s270/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_BuW0MOThHQ/X4ddommDK5I/AAAAAAAArdA/fSkqcFBOWt4IqmJ_xa13FWU_g2TsnAX9wCLcBGAsYHQ/s135/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Rs8a35IS-r4/X4ddo8SNJNI/AAAAAAAArdE/Jp1wFDHDt80IGtwC_2j2MfnCScP_uIbFgCLcBGAsYHQ/s135/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nX2UnOK2i7k/X4ddpX87YGI/AAAAAAAArdI/8jy--UzDfRomB3MJE2s1fOGFh-CvkQkiQCLcBGAsYHQ/s135/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_fAlWI6TMOY/X4ddp9-0ouI/AAAAAAAArdM/H4iJ8YoZvE4L2mW0dtbXpbVWJIuz9ClYACLcBGAsYHQ/s135/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-o0gjRS8hQtI/X4ddqQx7F7I/AAAAAAAArdQ/wj9hcH_PJWsQSpkfV-dahM2pSb7aHj1FQCLcBGAsYHQ/s135/421-Kirisaki-Nisekoi-Chitoge-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n421/",
+      "fetched_at": "2026-05-16T19:10:34.518Z",
+      "raw_id": "/nendoroid/details/n421/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.376Z",
+      "raw_id": "Nendoroid/0400-0499/421.json"
+    }
+  ]
+}

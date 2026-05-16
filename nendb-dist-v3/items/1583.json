@@ -1,0 +1,69 @@
+{
+  "num": "1583",
+  "name": {
+    "en": "Nendoroid Komari Koshigaya",
+    "ja": "ねんどろいど 越谷小鞠 (ねんどろいど こしがやこまり)",
+    "ko": "코시가야 코마리"
+  },
+  "series": {
+    "en": "Non Non Biyori Nonstop",
+    "ja": "のんのんびより のんすとっぷ",
+    "ko": "논논비요리",
+    "code": "non-non-biyori-nonstop"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10894,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_pyRK_RPgSE/YFYAd5r0YFI/AAAAAAAAwU0/HIwshYiFAoUmQur6pYEcZ5A8nK2zlpptgCLcBGAsYHQ/s270/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_pyRK_RPgSE/YFYAd5r0YFI/AAAAAAAAwU0/HIwshYiFAoUmQur6pYEcZ5A8nK2zlpptgCLcBGAsYHQ/s270/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wzs8m4qNSjM/YFX_zs4US3I/AAAAAAAAwQg/EEbzsGDoAw4obrHh2iJCwbmSmrDoLa3OwCLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DVFjQro53LU/YFX_z5aHfEI/AAAAAAAAwQo/ZDuCZoZ7OusidioluMYZJVuSePh1v6_LACLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DklHfW4CiBQ/YFX_z_XCWGI/AAAAAAAAwQk/d7e4M2EC2ns_4fSUSj2oNl88fpBmur_eQCLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-M8TohGltsA0/YFX_0BBs3DI/AAAAAAAAwQs/9-9ejvlFluAdpx-e3uvvdYN_JGhKasSfgCLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XVQZUD83jAo/YFX_0d9WULI/AAAAAAAAwQw/bVspgu5yo_sDtEF4bcufR_T5n73asU6JQCLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-11O2xR4i5RU/YFX_0-UI2EI/AAAAAAAAwQ4/0U32nbUc2CMAYt___artWPL-U9b2W5jnQCLcBGAsYHQ/s135/1583-Komari-Koshigaya-Non-Non-Biyori-Nonstop-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1583/",
+      "fetched_at": "2026-05-16T19:10:33.518Z",
+      "raw_id": "/nendoroid/details/n1583/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.701Z",
+      "raw_id": "Nendoroid/1500-1599/1583.json"
+    }
+  ]
+}

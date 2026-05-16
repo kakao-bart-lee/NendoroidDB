@@ -1,0 +1,68 @@
+{
+  "num": "0535",
+  "name": {
+    "en": "Nendoroid Shiren: Super Movable Edition (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
+    "ja": "ねんどろいど シレン スーパームーバブル・エディション (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
+    "ko": "시렌 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "Shiren the Wanderer 5+ Fortune Tower to Unmei no Dice",
+    "ja": "風来のシレン5+ フォーチュンタワーと運命のダイス",
+    "ko": "이상한 던전 풍래의 시렌",
+    "code": "shiren-the-wanderer-5-fortune-tower-to-unmei-no-dice"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5089,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3lHyIAF6kMw/X4NOdWAGX5I/AAAAAAABlvk/cRoHeygVw7YfN-DUn5zxH_nuystV3kmVACLcBGAsYHQ/s270/535-Shiren-Shiren-The-Wanderer-Fortune-Tower-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3lHyIAF6kMw/X4NOdWAGX5I/AAAAAAABlvk/cRoHeygVw7YfN-DUn5zxH_nuystV3kmVACLcBGAsYHQ/s270/535-Shiren-Shiren-The-Wanderer-Fortune-Tower-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xngc-6dhRLY/X4isY-9gUwI/AAAAAAAAsGg/zlOUDx19C-Qs2KTE4zsAvuhIqpKmFrtTQCLcBGAsYHQ/s135/535-Shiren-Shiren-the-Wanderer-Fortune-Tower-to-Unmei-no-Dice-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jQJTCN2V0JY/X4isZPJs7qI/AAAAAAAAsGk/qr_cSCeZTr8hd-aHJdnRfycXaoAWl_kOwCLcBGAsYHQ/s135/535-Shiren-Shiren-the-Wanderer-Fortune-Tower-to-Unmei-no-Dice-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jfx6CjRebRY/X4isZh3k-MI/AAAAAAAAsGo/p_QIMy3gsEEkdJYbV14Z88Cosda4AhdPwCLcBGAsYHQ/s135/535-Shiren-Shiren-the-Wanderer-Fortune-Tower-to-Unmei-no-Dice-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BjXW5X4rA1A/X4isZvMiuaI/AAAAAAAAsGs/KtftpT6jG0EF5Y-S2Talo7Im6Km_Myy9wCLcBGAsYHQ/s135/535-Shiren-Shiren-the-Wanderer-Fortune-Tower-to-Unmei-no-Dice-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-chn1z9ohUCI/X4isZ4KrEiI/AAAAAAAAsGw/tVXLElqHcmsE0GyqA8xgo8OVIeofDaEagCLcBGAsYHQ/s135/535-Shiren-Shiren-the-Wanderer-Fortune-Tower-to-Unmei-no-Dice-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n535/",
+      "fetched_at": "2026-05-16T19:10:34.584Z",
+      "raw_id": "/nendoroid/details/n535/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.433Z",
+      "raw_id": "Nendoroid/0500-0599/535.json"
+    }
+  ]
+}

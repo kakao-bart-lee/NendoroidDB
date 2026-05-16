@@ -1,0 +1,67 @@
+{
+  "num": "1025",
+  "name": {
+    "en": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition",
+    "ja": "ねんどろいど ハンター♀ ゼノラージβ・エディション (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん)",
+    "ko": "헌터♀ 제노라지β 에디션"
+  },
+  "series": {
+    "en": "MONSTER HUNTER: WORLD",
+    "ja": "モンスターハンター：ワールド",
+    "ko": "몬스터 헌터",
+    "code": "monster-hunter-world"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7789,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IvoK9W7WXS8/X4NflgEZ5iI/AAAAAAABmSo/ow8Ttx82-6w0SAKfuGCchSct0heaDuSYACLcBGAsYHQ/s270/1025-DX-Female-XenoJiva-Beta-Armor-Monster-Hunter-World-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IvoK9W7WXS8/X4NflgEZ5iI/AAAAAAABmSo/ow8Ttx82-6w0SAKfuGCchSct0heaDuSYACLcBGAsYHQ/s270/1025-DX-Female-XenoJiva-Beta-Armor-Monster-Hunter-World-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fH2Hl4QYuEk/X4rro2g-ClI/AAAAAAABobQ/9sUkIw0a-pEhC4P8GH55VcNAjPsVsV50ACLcBGAsYHQ/s135/1025-Female-Xenojiiva-Monster-Hunter-Monster-Hunter-World-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l83BMNsaUMg/X4rrpGU-I3I/AAAAAAABobU/787AZsxvTysl9bHveV3eYzKU37nttr-aQCLcBGAsYHQ/s135/1025-Female-Xenojiiva-Monster-Hunter-Monster-Hunter-World-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kOB9d9TtEY0/X4rrpCy2GpI/AAAAAAABobY/P5E9Jh8A_-o6O6lUoqSHsf_1qwPRbYQKACLcBGAsYHQ/s135/1025-Female-Xenojiiva-Monster-Hunter-Monster-Hunter-World-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BOsxacJP8tk/X4rrpiJ4VLI/AAAAAAABobc/tRDoOJv1948d-A150oQX3sOYqA6WQiMKACLcBGAsYHQ/s135/1025-Female-Xenojiiva-Monster-Hunter-Monster-Hunter-World-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1025/",
+      "fetched_at": "2026-05-16T19:10:33.145Z",
+      "raw_id": "/nendoroid/details/n1025/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.567Z",
+      "raw_id": "Nendoroid/1000-1099/1025.json"
+    }
+  ]
+}

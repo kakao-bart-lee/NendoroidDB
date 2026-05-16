@@ -1,0 +1,64 @@
+{
+  "num": "3039",
+  "name": {
+    "en": "Yoshikitty",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Sanrio",
+    "ja": null,
+    "ko": null,
+    "code": "sanrio"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Vt38VbG8lDyYWw_K68opEI0c1dHP8-QXkCm0Ep9PxO98qWavfyQ5n52sEN0B6IvO4HlMceu4XB-q1RWSYojtBarzvroqzLLv2wimge6SDdJapC5Sle-uOHIbc1eKqr7KrwmQUwVp5xqh8O1rSQ5CWDXgHgRK2M-DBqtaLSdfYhQAZvyPi11kG9O2mjI3/s270/3039-yoshikitty-Sanrio-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Vt38VbG8lDyYWw_K68opEI0c1dHP8-QXkCm0Ep9PxO98qWavfyQ5n52sEN0B6IvO4HlMceu4XB-q1RWSYojtBarzvroqzLLv2wimge6SDdJapC5Sle-uOHIbc1eKqr7KrwmQUwVp5xqh8O1rSQ5CWDXgHgRK2M-DBqtaLSdfYhQAZvyPi11kG9O2mjI3/s270/3039-yoshikitty-Sanrio-Mascot-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc94oLp-OO-MhL9NlSPhf29JeMYrU4uguWPauq7Khp-SCXtJe6I94rvyP0g-vfuKzAEpvHj3AKylSo-VUzyRdDzZ-j0ewP_RsBINdyvWJpV_ZP_bBSG63R_0cMtZOZxS3EspG-sG6-hQLRyPo8qiFqP0sxW7Ia-OJXDMy80uSJT3_qjUKRaKjuXJUyTtYs/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Jqtzty1U9tpiWIl4Q1fCrpMqbWuDFrxdOkKn8gm-zDgImCveF_kqo_Xzv7eCjZNhyphenhyphenojylOOwHSndOAiVjd5l7nSopdp11HrH-JfmgJ3sbIcvVQWyx7pSqhkIhtpqqoRwn4L0UwaSrKCy1mwekIwNqZ7VD9tBWwCMyWwDcEQ-sqBV_UenXpBa6y6-VclQ/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUtb9MTZ5Rd_3tImjjmPT1CHkOrfbMz2hLeRFdMi64X0fSMy9dS4yMb4ViiAtGtFX3wocd2kbu2zjtmK-QhI_X6gefK8OmAbhKRlfV7zFdJ3SRbL4veKvJqs9aIRFDAcNtt2jfMO3QsNdN5ViBLEZFEuHL0ymexEsP7vMRqBMHKe4hFQeVOPUXV1dVM4Ho/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCPgcel60PyTLjZzPkPRYYe6wQDhhD-qbjTazjO1i4cuQ3CQHou8isdDvsHccQZR2njceGgzZgergchKp0vZQeMHxot4SjUc3K_Rs2thynoDsUp6nschOM9GYv-6J2NqnBL3_ebbu9l9oybhTjlhkvTmvv8nLy71PY9U4P5h0HeZEwa2C75rMK8FhvLe2P/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimbMhPBbDdsFnXKcEIHXxJgWwqjAMoyAIut-ONoGwiCoHsl15eC9QZ4cR9CNSIAQDIsDcMjpCk93PZlm0fk1MO8vXcvC8MRqT1w_iyTH-PEbMNElQaHyqAtqDLIda1p82xCMAOt6oypzh5evaeG1Xh7gMcjbxLKtEWc9rXcmqVL3LkS9cmdt6tWVk3YfC-/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKtKoLc-LAGQGYqqlGSOTkAwXx1RB_s5knWLx2BafTK6-Ra3R0RHpn5qFny46QurSFAhrcFW0BK7YLkrtfc625Xp7pSRd3gH3wVawF7aEGkrnWKzQfGw_Qcx655JUbwP2KiHEBAqnT-77A-7Ne1rbD_GfOn1KlOhPngeGvdIbch2yw76uj3uiZatQxvosW/s135/3039-yoshikitty-Sanrio-Mascot-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3039/",
+      "fetched_at": "2026-05-16T19:10:34.442Z",
+      "raw_id": "/nendoroid/details/n3039/"
+    }
+  ]
+}

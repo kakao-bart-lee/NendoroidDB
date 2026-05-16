@@ -1,0 +1,55 @@
+{
+  "num": "0075",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど 初音ミク ＲＱ Ver. (ねんどろいど はつねみく ＲＱ Ver.)",
+    "ko": "하츠네 미쿠 RQ Ver. "
+  },
+  "series": {
+    "en": null,
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3375,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20111125/3375/16318/large/24e655f41296039aef6a12e2da25f703.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.281Z",
+      "raw_id": "Nendoroid/0000-0099/075.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "1756",
+  "name": {
+    "en": "Nendoroid China",
+    "ja": "ねんどろいど 中国 (ねんどろいど ちゅうごく)",
+    "ko": "중국"
+  },
+  "series": {
+    "en": "Hetalia World★Stars",
+    "ja": "ヘタリア World★Stars",
+    "ko": "헤타리아",
+    "code": "hetalia-world-stars"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12000,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eUsPLPmuymg/Ya-zJjQHI_I/AAAAAAAA2Dw/kE8jqgSgSj0oRGwJ1AuHGKzuo9hXdu_UwCNcBGAsYHQ/s270/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eUsPLPmuymg/Ya-zJjQHI_I/AAAAAAAA2Dw/kE8jqgSgSj0oRGwJ1AuHGKzuo9hXdu_UwCNcBGAsYHQ/s270/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3QPjXWamuxk/Ya-2OHCIvtI/AAAAAAAA2Kc/jON4NIgwar82ozfV1a0rGTmt_e55QxobACNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JdYdttJwQKc/Ya-2OfN6gbI/AAAAAAAA2Kg/yMiCG6Y7HJoLG5sFScAcyWUbYG39slZpQCNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6ZZiC2t5ifY/Ya-2OVH1qnI/AAAAAAAA2Kk/yZSiDpC-d5wgNVK-zxsQbbnd5tAS-pklQCNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LsYYLig0wuU/Ya-2O6R3m2I/AAAAAAAA2Ko/my44NGzHzRQRWfU5x_w7eJ-MJFlcqgvYACNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iYpMaZ6ksFM/Ya-2PLt3HyI/AAAAAAAA2Kw/rjwNBzuAUFcUF72qMJXvPKoWu5Bmc_zZQCNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fFUJQbKIK1M/Ya-2POvC6BI/AAAAAAAA2Ks/8gNdTQa2bbYYDQTbxzNMVYsam3C4bjY9QCNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6trQ9Pfh5nY/Ya-2PT91XGI/AAAAAAAA2K0/UROLD_c6v2YVSn9TSkMOKDKMIlrUxlBvwCNcBGAsYHQ/s135/1756-China-Hetalia-World-Stars-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1756/",
+      "fetched_at": "2026-05-16T19:10:33.628Z",
+      "raw_id": "/nendoroid/details/n1756/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.743Z",
+      "raw_id": "Nendoroid/1700-1799/1756.json"
+    }
+  ]
+}

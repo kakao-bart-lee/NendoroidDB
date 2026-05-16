@@ -1,0 +1,68 @@
+{
+  "num": "1575",
+  "name": {
+    "en": "Nendoroid Towa",
+    "ja": "ねんどろいど トワ (ねんどろいど とわ)",
+    "ko": "토와"
+  },
+  "series": {
+    "en": "Slow Damage",
+    "ja": "スロウ・ダメージ",
+    "ko": "슬로우 데미지",
+    "code": "slow-damage"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10872,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XSLjFZwge7I/YFYAcV1J6cI/AAAAAAAAwUo/w0rVVSHkECkrSi8v4NKQi-61GmnSKT4NQCLcBGAsYHQ/s270/1575-Towa-Slow-Damage-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XSLjFZwge7I/YFYAcV1J6cI/AAAAAAAAwUo/w0rVVSHkECkrSi8v4NKQi-61GmnSKT4NQCLcBGAsYHQ/s270/1575-Towa-Slow-Damage-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RIwdjShK7IE/YFX_v0fo5EI/AAAAAAAAwPY/b9ngv5FZqiUFf-W1jvTu15-zrEnFABZYgCLcBGAsYHQ/s135/1575-Towa-Slow-Damage-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-JSyVZAOc4ZI/YFX_v0XwnlI/AAAAAAAAwPc/PoqKdiuCD0kCJ-8jtG7Zln5bm2X7U51fQCLcBGAsYHQ/s135/1575-Towa-Slow-Damage-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qC__rP-_fiU/YFX_wJdzJGI/AAAAAAAAwPg/T3y37S6aRhU0Cy1f4tSrMhHNp9v-3xCmQCLcBGAsYHQ/s135/1575-Towa-Slow-Damage-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8Wvf319Vvvw/YFX_wEjM-WI/AAAAAAAAwPk/t2bdfpHI02ov31L_B__QSm6MvBr2-H-KgCLcBGAsYHQ/s135/1575-Towa-Slow-Damage-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-bWqevg5lLPU/YFX_wfdPovI/AAAAAAAAwPo/eTH0ejdy-MUlWA8PQrp54h53wNNe1SaygCLcBGAsYHQ/s135/1575-Towa-Slow-Damage-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1575/",
+      "fetched_at": "2026-05-16T19:10:33.513Z",
+      "raw_id": "/nendoroid/details/n1575/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.699Z",
+      "raw_id": "Nendoroid/1500-1599/1575.json"
+    }
+  ]
+}

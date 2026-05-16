@@ -1,0 +1,93 @@
+{
+  "num": "2349",
+  "name": {
+    "en": "Luo Xiaohei",
+    "ja": "ねんどろいど 羅小黒",
+    "ko": null
+  },
+  "series": {
+    "en": "The Legend Of Hei",
+    "ja": "羅小黒戦記",
+    "ko": null,
+    "code": "the-legend-of-hei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Arts Shanghai",
+  "sculptor": "Tsubasa, Ichinouri",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": "preorder",
+  "price_jpy": 7100,
+  "gtin": "4580828661653",
+  "gsc_product_id": "45323",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/45323",
+    "ja": "https://www.goodsmile.com/ja/product/45323"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45323/bVWt6dp9xJh1i0DCfge5z4TjUGHLrkR3.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2vkKNydbjcY/ZZcfFc80zuI/AAAAAAABDJQ/6sGuaFc5FcQvjlwTMKJMmJ7xFz0eQa5NgCNcBGAsYHQ/s270/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YfDEnKyzC3o/ZZSMexdPFbI/AAAAAAABC-s/nGk_0vN-wz4DnPOkEqM-AsmVVQwr4_l0wCNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7q47Egxeiec/ZZSMfci6r6I/AAAAAAABC-w/yyIFbA3WxdcXHCRkis8sfs0xl7e3TpwyACNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xeDuXByXa4A/ZZSMfbGfNiI/AAAAAAABC-0/JNfWkzcNiGQ8UCRon31hjo3TReWWGQCdgCNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_gAI78vYrx4/ZZSMflINhAI/AAAAAAABC-4/p-vYghuTHuIDksEbH54S52qze2JNkZEdACNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0Bh1IFcxTIs/ZZSMf9aB1VI/AAAAAAABC-8/qFMNwm3wKBIJuI33HWDYFkI7PRHH95SXQCNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zkhbBxikg4A/ZZSMgVNETgI/AAAAAAABC_E/D5uN-AHb-t0D80X3sfwjfoFzt1JjBug9QCNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-YNYmoX3dQqA/ZZSMgdMNXNI/AAAAAAABC_A/haWbn_QbG7kKS160DG4TGriuGNAfkqsuwCNcBGAsYHQ/s135/2349-Luo-Xiaohei-The-Legend-of-Hei-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45323/40iyPfvErN9ugd8KzTsqYpLGWV2XJaew.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45323/bVWt6dp9xJh1i0DCfge5z4TjUGHLrkR3.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "Second Preorder Period",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/45323",
+      "price_local": 7100,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:17:27.509Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/45323",
+      "fetched_at": "2026-05-16T12:17:27.509Z",
+      "raw_id": "45323"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/45323",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "45323"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2349/",
+      "fetched_at": "2026-05-16T19:10:34.002Z",
+      "raw_id": "/nendoroid/details/n2349/"
+    }
+  ]
+}

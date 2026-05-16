@@ -1,0 +1,66 @@
+{
+  "num": "0626",
+  "name": {
+    "en": "Nendoroid Mikazuki Munechika: Cheerful Ver.",
+    "ja": "ねんどろいど 三日月宗近 Cheerful Ver. (ねんどろいど みかづきむねちか ちあふる Ver.)",
+    "ko": "미카즈키 무네치카 Cheerful Ver."
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7612,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-pTYAKjoiWoA/X4NPr95VU-I/AAAAAAABl2E/VeqOK0_R4PQeynDsXHLuKy9ZeaeeHIxEQCLcBGAsYHQ/s270/626-Mikazuki-Munechika-Cheerful-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-pTYAKjoiWoA/X4NPr95VU-I/AAAAAAABl2E/VeqOK0_R4PQeynDsXHLuKy9ZeaeeHIxEQCLcBGAsYHQ/s270/626-Mikazuki-Munechika-Cheerful-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bt-yZ_op6QI/X4i0KlmTXDI/AAAAAAAAspM/knx7DzyZ5Dsmcj7DCL5TYHgGIPqusFGPgCLcBGAsYHQ/s135/626-Mikazuki-Munechika-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-H35aPUeGplY/X4i0LJ-FSWI/AAAAAAAAspQ/CJvqaIANLOgyV1-ohMk_fux9ExWcKuaHgCLcBGAsYHQ/s135/626-Mikazuki-Munechika-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-W4uTSYAcLrE/X4i0LlzWG-I/AAAAAAAAspU/hr3mZvPiv8URcCrVcnwInENGyaZhZK2pQCLcBGAsYHQ/s135/626-Mikazuki-Munechika-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n626/",
+      "fetched_at": "2026-05-16T19:10:34.705Z",
+      "raw_id": "/nendoroid/details/n626/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.467Z",
+      "raw_id": "Nendoroid/0600-0699/626.json"
+    }
+  ]
+}

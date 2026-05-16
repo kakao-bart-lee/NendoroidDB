@@ -1,0 +1,68 @@
+{
+  "num": "1379",
+  "name": {
+    "en": "Nendoroid Black Widow: Endgame Ver.",
+    "ja": "ねんどろいど ブラックウィドウ エンドゲーム Ver. (ねんどろいど ぶらっくうぃどう えんどげーむ Ver.)",
+    "ko": "블랙 위도우 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9705,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-izhjvO0RtRk/X4Nj2mema0I/AAAAAAABm3k/aiexd6I4v-gi9M-iY4m0ZEX78MfCKMFcwCLcBGAsYHQ/s270/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-izhjvO0RtRk/X4Nj2mema0I/AAAAAAABm3k/aiexd6I4v-gi9M-iY4m0ZEX78MfCKMFcwCLcBGAsYHQ/s270/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j-XF7-UEPAk/X4s-Gv38qbI/AAAAAAABqqA/BoAc-gIonWA7lHBriiJ_TqvNbms_JD34QCLcBGAsYHQ/s135/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TEOW0ESpq_I/X4s-G_KMKaI/AAAAAAABqqE/BDLXGAoChCc1Hi2nIfNxIiML_pgeuRbFgCLcBGAsYHQ/s135/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qJYAG4fbp1A/X4s-HJ-HrXI/AAAAAAABqqI/W3lc1uzkHd0yDCBUH7Xxg1Ue1ffPIeoWwCLcBGAsYHQ/s135/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-f7aTaJ5JUws/X4s-HX_VdZI/AAAAAAABqqM/3gWLHg-fFfY5bxvLtEsb-jifPUmpJxXSgCLcBGAsYHQ/s135/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-os-GVNKe-gc/X4s-HlvCffI/AAAAAAABqqQ/uJ2laheDxEAIslb1NQlo15gwuwH5iwg-ACLcBGAsYHQ/s135/1379-Black-Widow-Avengers-Endgame-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1379/",
+      "fetched_at": "2026-05-16T19:10:33.392Z",
+      "raw_id": "/nendoroid/details/n1379/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.652Z",
+      "raw_id": "Nendoroid/1300-1399/1379.json"
+    }
+  ]
+}

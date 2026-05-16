@@ -1,0 +1,70 @@
+{
+  "num": "1586",
+  "name": {
+    "en": "Nendoroid Honma Himawari",
+    "ja": "ねんどろいど 本間ひまわり (ねんどろいど ほんまひまわり)",
+    "ko": "혼마 히마와리"
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": "にじさんじ",
+    "ko": "니지산지",
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10896,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--mEKkhXYwfI/YFYAfWikAlI/AAAAAAAAwVA/q0J5rLNgD642dOgUI_mUu0NJXt1ywwkvACLcBGAsYHQ/s270/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--mEKkhXYwfI/YFYAfWikAlI/AAAAAAAAwVA/q0J5rLNgD642dOgUI_mUu0NJXt1ywwkvACLcBGAsYHQ/s270/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c3q5IgotRbg/YFX_3YggmlI/AAAAAAAAwRo/-AwMLChtj7UyedSf7tJrwq7y_MwHxhEpQCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MsEGGhPm8Ps/YFX_3j19b1I/AAAAAAAAwRs/T5NbWgkfImcRUsTDdEqy4FDI7pOBtnvMgCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MkgIFSjdIM0/YFX_3yfeQYI/AAAAAAAAwRw/_XdcsP8SUmshLur8hSjcLqD44b73bsCFgCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2iQQfyRl6F8/YFX_4YvTgtI/AAAAAAAAwR0/kLtHU60Ac3gWU6Y_Ssxc6603BC7W67FZwCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-homAWdAi0ME/YFX_4cf9-bI/AAAAAAAAwR8/yBoVzZu-sewY3JsNpxveOAnnp82h4CXHwCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-pTJwXeMxgK8/YFX_4_Wmb3I/AAAAAAAAwR4/rx0AIOxXSLQreEi57LSPvPUZz-rMb5RmQCLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-LmZZr6j1R9s/YFX_5SqRd9I/AAAAAAAAwSA/ofBcEPAbx4wod2_riNQXH5pe31u0Tv4VACLcBGAsYHQ/s135/1586-Honma-Himawari-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1586/",
+      "fetched_at": "2026-05-16T19:10:33.520Z",
+      "raw_id": "/nendoroid/details/n1586/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.701Z",
+      "raw_id": "Nendoroid/1500-1599/1586.json"
+    }
+  ]
+}

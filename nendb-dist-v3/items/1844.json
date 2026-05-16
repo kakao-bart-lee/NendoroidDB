@@ -1,0 +1,71 @@
+{
+  "num": "1844",
+  "name": {
+    "en": "Nendoroid Panda",
+    "ja": "ねんどろいど パンダ (ねんどろいど ぱんだ)",
+    "ko": "판다"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6100,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12460,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S6eGhS5ls0M/YliMkyjFuDI/AAAAAAAA5MI/ZHXsC37PFTg0MOq4q1Jkq-4QxBxugtG6QCNcBGAsYHQ/s270/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S6eGhS5ls0M/YliMkyjFuDI/AAAAAAAA5MI/ZHXsC37PFTg0MOq4q1Jkq-4QxBxugtG6QCNcBGAsYHQ/s270/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cdh7okvcoj8/YliVpiKX9zI/AAAAAAAA5Wg/VANbmjfCOcEOo1s9Fcvw9h7HeocqTzbjgCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pY8lDZP5-FA/YliVqNCs0RI/AAAAAAAA5Wk/I5XLFHu0FUMWBY6xT9iP--Y3VO5uIqnQwCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nbH9D2l1dso/YliVqsd8LlI/AAAAAAAA5Wo/jE8uqdkiCnQBov9t8sUbjjlAAALXMdLSQCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mTgQdPxsWA4/YliVrFcT_BI/AAAAAAAA5Ws/N47Rpn-fCfMig-DsvZcueL7yCo72Ggr9wCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uSMQFurcOso/YliVro5o4uI/AAAAAAAA5Ww/wxAfi1qjDD84gn9b6isCOJK88JrmDDUQQCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Et0dxbz_kx8/YliVsDdiPGI/AAAAAAAA5W0/8Fdo0CEfAdk3CiV9iiSN1z7e4jN3Kgl4QCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wRhv3ENT_Tc/YliVsnjuWtI/AAAAAAAA5W4/b67SUUDk7ZALc4k2IJx51jIYBlEjBsteQCNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/--wGS7S1ppk4/YliVpTjWdwI/AAAAAAAA5Wc/HQCRdpAooYMTmWlpHZEGuSJ1Y4zltqDuACNcBGAsYHQ/s135/1844-Panda-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1844/",
+      "fetched_at": "2026-05-16T19:10:33.682Z",
+      "raw_id": "/nendoroid/details/n1844/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.765Z",
+      "raw_id": "Nendoroid/1800-1899/1844.json"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "num": "2473",
+  "name": {
+    "en": "Haruomi Shingu",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Paradox Live",
+    "ja": null,
+    "ko": null,
+    "code": "paradox-live"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lo8tAweiW5Q/Zor7hxUSIbI/AAAAAAABFDQ/XmGzKsg-hyUpGFaeGt1dwVCPErkYoL4tgCNcBGAsYHQ/s270/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lo8tAweiW5Q/Zor7hxUSIbI/AAAAAAABFDQ/XmGzKsg-hyUpGFaeGt1dwVCPErkYoL4tgCNcBGAsYHQ/s270/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QRXTZbY-Pws/Zow5B50yxLI/AAAAAAABF0w/X-XOkNGGctkLI5DJbQT80Mo72mXiyyCLQCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SCFISlYmJYs/Zow5CLBPm3I/AAAAAAABF00/4sYGWB6b7-U6_fZ-tQ79_B7bxoh7tV6dgCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HNnoQO_Xo_E/Zow5CV4NSEI/AAAAAAABF04/J5RhRHDbNzQNx5IH_qeZ8ESOI_6YBS7hACNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Y_XC6TpGvXA/Zow5C3tYq-I/AAAAAAABF08/7WrAeuQP8A802pc_GkU76LLtQlcWuRDqwCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QS3pXUefMJs/Zow5Cw5WJBI/AAAAAAABF1A/s8_GxEmA7YozqE4ho_PUa-ZcOhjc9yxXQCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qYE911L5WEA/Zow5DJZkQhI/AAAAAAABF1I/-arHfZHgWqM1hxpvNITqztJ2AshJ3vobQCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-SYjEmqFJsps/Zow5DG8O0GI/AAAAAAABF1E/pWb8V0Q58LYJ7Fc851TYta21-k6BpfqDwCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-AzEEBqhXbys/Zow5Bja-vkI/AAAAAAABF0s/4Cqh4HM3HNc1frAEnAD4-F4C8B9PXG9XwCNcBGAsYHQ/s135/2473-Haruomi-Shingu-Paradox-Live-Others-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2473/",
+      "fetched_at": "2026-05-16T19:10:34.081Z",
+      "raw_id": "/nendoroid/details/n2473/"
+    }
+  ]
+}

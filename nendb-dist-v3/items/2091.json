@@ -1,0 +1,68 @@
+{
+  "num": "2091",
+  "name": {
+    "en": "Nendoroid Mahiro Oyama",
+    "ja": "ねんどろいど 緒山まひろ (ねんどろいど おやままひろ)",
+    "ko": "오야마 마히로"
+  },
+  "series": {
+    "en": "ONIMAI: I'm Now Your Sister!",
+    "ja": "お兄ちゃんはおしまい！",
+    "ko": "오빠는 끝!",
+    "code": "onimai-i-m-now-your-sister"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14108,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-N2irwJCadzU/ZCnVYl6VumI/AAAAAAAA9T8/AkRxKKPQSLgEBAGHtIrzaeawBDKBjVCqgCNcBGAsYHQ/s270/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-N2irwJCadzU/ZCnVYl6VumI/AAAAAAAA9T8/AkRxKKPQSLgEBAGHtIrzaeawBDKBjVCqgCNcBGAsYHQ/s270/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-swxQGPk82ys/ZCnZpEXtSbI/AAAAAAAA9WE/bCyaoxoaTGAoZRRMF5jFvQuarehBLbySACNcBGAsYHQ/s135/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2-S8sBTGuMY/ZCnZpggYQNI/AAAAAAAA9WM/6OwE3AckwIQtdzgGKFa9k6psHIO9XYwWACNcBGAsYHQ/s135/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mZXlMObDS1Q/ZCnZpnCiB1I/AAAAAAAA9WY/4YOavvG8-Jc8JuVaXzNloLbk4F0dIrCoQCNcBGAsYHQ/s135/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_wGgs5w1sPQ/ZCnZp3wXe_I/AAAAAAAA9WQ/eDS5J6hZqgQvWlzSw46dPjNLhJ1lPzpJQCNcBGAsYHQ/s135/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-VgXQXRL1Elg/ZCnZqP69fQI/AAAAAAAA9WU/P_RVSxlCEq4ugNiUeIUiFRwntewbLh80ACNcBGAsYHQ/s135/2091-Mahiro-Oyama-ONIMAI-Im-Now-Your-Sister-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2091/",
+      "fetched_at": "2026-05-16T19:10:33.835Z",
+      "raw_id": "/nendoroid/details/n2091/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.824Z",
+      "raw_id": "Nendoroid/2000-2099/2091.json"
+    }
+  ]
+}

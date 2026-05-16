@@ -1,0 +1,68 @@
+{
+  "num": "1057",
+  "name": {
+    "en": "Nendoroid Theresa: Magical Girl TeRiRi Ver.",
+    "ja": "ねんどろいど テレサ 魔法少女TeRiRi Ver. (ねんどろいど てれさ まほうしょうじょTeRiRi Ver.)",
+    "ko": "테레사 마법소녀 TeRiRi Ver."
+  },
+  "series": {
+    "en": "Honkai Impact 3rd",
+    "ja": "崩壊3rd",
+    "ko": "붕괴 3rd",
+    "code": "honkai-impact-3rd"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7944,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mxa_mlUmfgA/X4NfxBLhs0I/AAAAAAABmU4/W40WfwQfixsp8E2O6N7cvp3_l7HD9gisACLcBGAsYHQ/s270/1057-Theresa-Magical-Girl-TeRiRi-Honkai-Impact-3rd-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mxa_mlUmfgA/X4NfxBLhs0I/AAAAAAABmU4/W40WfwQfixsp8E2O6N7cvp3_l7HD9gisACLcBGAsYHQ/s270/1057-Theresa-Magical-Girl-TeRiRi-Honkai-Impact-3rd-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4k_ncN-1pyQ/X4rsemyeBmI/AAAAAAABonI/coPWsTBxPi44uKTJBtNd7-PmYYdSvh-kwCLcBGAsYHQ/s135/1057-Theresa-Honkai-Impact-3rd-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zcmEfnRwJDA/X4rse5jp2tI/AAAAAAABonM/CS4Sek1frgQfUjiWEOztE1haEeUs1b_gACLcBGAsYHQ/s135/1057-Theresa-Honkai-Impact-3rd-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UJRe_d5ObIs/X4rse5NCDBI/AAAAAAABonQ/UCuVcNi9piAAfpaIoFwrCT9GUvJieQoqgCLcBGAsYHQ/s135/1057-Theresa-Honkai-Impact-3rd-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4yXlbJqiIqw/X4rsfCSH7AI/AAAAAAABonU/7FJo8JsXi-c2-wOEomH0LkGkqV_AsZjBwCLcBGAsYHQ/s135/1057-Theresa-Honkai-Impact-3rd-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xwBjG-FKyQg/X4rsfTFETQI/AAAAAAABonY/mJRPODHNWuUlWVAhCktb5sBmiiJquAMAACLcBGAsYHQ/s135/1057-Theresa-Honkai-Impact-3rd-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1057/",
+      "fetched_at": "2026-05-16T19:10:33.183Z",
+      "raw_id": "/nendoroid/details/n1057/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.575Z",
+      "raw_id": "Nendoroid/1000-1099/1057.json"
+    }
+  ]
+}

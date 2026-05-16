@@ -1,0 +1,69 @@
+{
+  "num": "0712",
+  "name": {
+    "en": "Nendoroid Pipimi",
+    "ja": "ねんどろいど ピピ美 (ねんどろいど ぴぴみ)",
+    "ko": "피피미"
+  },
+  "series": {
+    "en": "POP TEAM EPIC",
+    "ja": "ポプテピピック",
+    "ko": "팝 팀 에픽",
+    "code": "pop-team-epic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6122,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XESZkLFVl6k/X4Nc0jtssLI/AAAAAAABl8E/4TAAhZomkLQOWamsJ_O3zyK_AuFI68aTQCLcBGAsYHQ/s270/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XESZkLFVl6k/X4Nc0jtssLI/AAAAAAABl8E/4TAAhZomkLQOWamsJ_O3zyK_AuFI68aTQCLcBGAsYHQ/s270/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Co9PGz-jdEI/X4i3jNRFqgI/AAAAAAAAtKo/TiHbzvUthTcUY9COV1ePp9RvTjZqXb1SgCLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9Wz2lGuhjF4/X4i3jffjzXI/AAAAAAAAtKs/Dq-iqOQYkPIqWU8bULVJbD4x2X0z663twCLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--253Enot6Ew/X4i3jhMzVYI/AAAAAAAAtKw/zFnCwAGfxxMj5wtA1s5P0AWXlEXAdLXwwCLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0jHLpm3MO3Q/X4i3jwQLVHI/AAAAAAAAtK0/IIa3_CaiKOAK_xHB3_K2X-sDKsTYtTEAgCLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qUvsTNQK_60/X4i3kBJIpKI/AAAAAAAAtK4/Sm-jitYSnS8hww1nmO0POtBhdL4NBtthACLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hQ86dvHmLHc/X4i3kC5Z-rI/AAAAAAAAtK8/Gb_PoCB3VG8Lp4ejkFO5iPj5qMMU7X_5ACLcBGAsYHQ/s135/712-Pipimi-Pop-Team-Epic-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n712/",
+      "fetched_at": "2026-05-16T19:10:34.756Z",
+      "raw_id": "/nendoroid/details/n712/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.489Z",
+      "raw_id": "Nendoroid/0700-0799/712.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0101",
+  "name": {
+    "en": "Nendoroid K-ON! Mio and Ritsu: Live Stage Set (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ja": "ねんどろいど けいおん！澪＆律ライブステージセット (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ko": "미오&리츠 라이브 스테이지 세트"
+  },
+  "series": {
+    "en": "K-ON!",
+    "ja": "けいおん！",
+    "ko": "케이온!",
+    "code": "k-on"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8381,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2775,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UcLwghYYPWE/X4NJqZvoI7I/AAAAAAABlN4/uAmq0TENFrYrA9ErClPuq2YnHp7CaEn2QCLcBGAsYHQ/s270/101-Mio-Ritsu-Live-Stage-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UcLwghYYPWE/X4NJqZvoI7I/AAAAAAABlN4/uAmq0TENFrYrA9ErClPuq2YnHp7CaEn2QCLcBGAsYHQ/s270/101-Mio-Ritsu-Live-Stage-K-ON%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CNJBi8mbSUQ/X4dR6TDjWqI/AAAAAAAAptQ/XTKeubWYn5IIbl4EMKu4KTULBI7PjjsBQCLcBGAsYHQ/s135/101-Mio-and-Ritsu-K-ON-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VFlkTeFNpvo/X4dR6Y0BURI/AAAAAAAAptY/8Xh2-acLcYg9om_s-h04B37SSwzDupXpQCLcBGAsYHQ/s135/101-Mio-and-Ritsu-K-ON-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-567W00fWC_I/X4dR6SYxnMI/AAAAAAAAptU/wSFrH0NC8Ust_P0NqaZXbADFJBj4ED13gCLcBGAsYHQ/s135/101-Mio-and-Ritsu-K-ON-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cBz9TzTNbyM/X4dR6392EkI/AAAAAAAAptc/e65hyoU3qZovVeaSdLplY8gYC0dvYxI-wCLcBGAsYHQ/s135/101-Mio-and-Ritsu-K-ON-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n101/",
+      "fetched_at": "2026-05-16T19:10:33.138Z",
+      "raw_id": "/nendoroid/details/n101/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.288Z",
+      "raw_id": "Nendoroid/0100-0199/101.json"
+    }
+  ]
+}

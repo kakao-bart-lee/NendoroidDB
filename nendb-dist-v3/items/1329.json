@@ -1,0 +1,68 @@
+{
+  "num": "1329",
+  "name": {
+    "en": "Nendoroid Mafumafu (Hikikomori Set)",
+    "ja": "ねんどろいど まふまふ（ひきこもりセット） (ねんどろいど まふまふ（ひきこもりせっと）)",
+    "ko": "마후마후"
+  },
+  "series": {
+    "en": "Mafumafu",
+    "ja": "まふまふ",
+    "ko": "우타이테",
+    "code": "mafumafu"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9440,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eUhp7uySM9g/X4Njr5NSdTI/AAAAAAABm0s/5RA2nLs7RdMIVcxAMVt4zTP1fJ55I6dkwCLcBGAsYHQ/s270/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eUhp7uySM9g/X4Njr5NSdTI/AAAAAAABm0s/5RA2nLs7RdMIVcxAMVt4zTP1fJ55I6dkwCLcBGAsYHQ/s270/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-N8WT27gRuhE/X4s9GeFIbKI/AAAAAAABqak/7bhEsME-LEgD9bgvDmP6p4Swyn-mhNzfwCLcBGAsYHQ/s135/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x7oCjq_lw8s/X4s9GrxViSI/AAAAAAABqao/ZhUu2Scx6gkZgEk_igbsDXktUsKZKq_UACLcBGAsYHQ/s135/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RWW10zz-gns/X4s9G4dR9DI/AAAAAAABqas/2gGsjo1gFTURT8nLCU2ZXsbF-hxdWWr9ACLcBGAsYHQ/s135/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0mye_9B6bFc/X4s9HCxfxxI/AAAAAAABqaw/xXfzqxhrOogGoB3kQ7fZy1iehi1RSjLnACLcBGAsYHQ/s135/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JKlEeC5lc0k/X4s9HUoq8lI/AAAAAAABqa0/tIK-M5Uu6kc9yz4L_wwwtbJhR72OfwPfQCLcBGAsYHQ/s135/1329-Mafumafu-and-Hikikomori-Utaite-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1329/",
+      "fetched_at": "2026-05-16T19:10:33.361Z",
+      "raw_id": "/nendoroid/details/n1329/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.640Z",
+      "raw_id": "Nendoroid/1300-1399/1329.json"
+    }
+  ]
+}

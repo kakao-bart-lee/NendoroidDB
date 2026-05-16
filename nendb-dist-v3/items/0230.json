@@ -1,0 +1,68 @@
+{
+  "num": "0230",
+  "name": {
+    "en": "Nendoroid Mahiru Inami (ねんどろいど いなみまひる)",
+    "ja": "ねんどろいど 伊波まひる (ねんどろいど いなみまひる)",
+    "ko": "이나미 마히루"
+  },
+  "series": {
+    "en": "WORKING!!",
+    "ja": "WORKING!!",
+    "ko": "WORKING!!",
+    "code": "working"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3462,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ESt5A42-q-w/X4NLMettIvI/AAAAAAABlXI/LD6EOlgBO6cOkGVtErN2TR6YYoAR3EoPACLcBGAsYHQ/s270/230-Inami-Mahiru-Working%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ESt5A42-q-w/X4NLMettIvI/AAAAAAABlXI/LD6EOlgBO6cOkGVtErN2TR6YYoAR3EoPACLcBGAsYHQ/s270/230-Inami-Mahiru-Working%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LcaduPGLB1E/X4dXVX5W7yI/AAAAAAAAqbM/91-o9PmedZkfER2NaFksxGn261NV535EwCLcBGAsYHQ/s135/230-Inami-Mahiru-Working-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-l7VNdOH32bc/X4dXVuwFNLI/AAAAAAAAqbQ/ujlp6fAAOmsjiv0aO3INlmjorKT5myc6gCLcBGAsYHQ/s135/230-Inami-Mahiru-Working-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-adC9f8oUNjg/X4dXV54jeXI/AAAAAAAAqbU/blvxXjVQMJ4BKtybBIK7o6vv-At4BwmoQCLcBGAsYHQ/s135/230-Inami-Mahiru-Working-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NH__e3ohil4/X4dXV3Q9KoI/AAAAAAAAqbY/9sf7B-p7KHEMEJ59IJys5jRUok1syETnACLcBGAsYHQ/s135/230-Inami-Mahiru-Working-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Yf9kViqO1EA/X4dXWIHZTdI/AAAAAAAAqbc/pWKyoMfWgC8oWXGoX5ldsSZrnXf6O5PJACLcBGAsYHQ/s135/230-Inami-Mahiru-Working-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n230/",
+      "fetched_at": "2026-05-16T19:10:33.979Z",
+      "raw_id": "/nendoroid/details/n230/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.327Z",
+      "raw_id": "Nendoroid/0200-0299/230.json"
+    }
+  ]
+}

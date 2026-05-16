@@ -1,0 +1,69 @@
+{
+  "num": "0690",
+  "name": {
+    "en": "Nendoroid Yamambagiri Kunihiro",
+    "ja": "ねんどろいど 山姥切国広 (ねんどろいど やまんばぎりくにひろ)",
+    "ko": "야만바기리 쿠니히로"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6052,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E28vd5GYdJM/X4NP_8yb4_I/AAAAAAABl6E/bikVsizLQzUSC5pG3TNrzEFKugfG_iGHACLcBGAsYHQ/s270/690-Yamanbagiri-Kunihiro-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E28vd5GYdJM/X4NP_8yb4_I/AAAAAAABl6E/bikVsizLQzUSC5pG3TNrzEFKugfG_iGHACLcBGAsYHQ/s270/690-Yamanbagiri-Kunihiro-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TlFI50YgBFQ/X4i19l-dU1I/AAAAAAAAtAU/RyeIi0ALjEA0P_thGD_m18rwNtEOoMZiwCLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lCwrsV17kU0/X4i19658CsI/AAAAAAAAtAY/VlxyZ1tTEKAy-S7ufCSXVMOdMOF-InX_gCLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-N6QTxvDddgg/X4i1-A-begI/AAAAAAAAtAc/oGw0iVdLdGcKO_51hSK6VBvNW7e-ozGYgCLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nkWnSnSYQeA/X4i1-QhsN2I/AAAAAAAAtAg/4OPsOaSYqngIZaNAZB7Sbh6RUF0b8_fnACLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NhBRpvsVKcI/X4i1-uP3hsI/AAAAAAAAtAk/Cl8jQUduUZI5FrFUreGcHC4ApbXRnrxowCLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZJPg4gw2BzI/X4i1-zRUL-I/AAAAAAAAtAo/oKrcqyLwNfwVTorw1QoLTvdDxemYT61zACLcBGAsYHQ/s135/690-Yamanbagiri-Kunihiro-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n690/",
+      "fetched_at": "2026-05-16T19:10:34.744Z",
+      "raw_id": "/nendoroid/details/n690/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.484Z",
+      "raw_id": "Nendoroid/0600-0699/690.json"
+    }
+  ]
+}

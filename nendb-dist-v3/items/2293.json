@@ -1,0 +1,63 @@
+{
+  "num": "2293",
+  "name": {
+    "en": "Mai Minakami",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": null,
+    "ko": null,
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Jkxq8znG3z0/ZWZfmy51kwI/AAAAAAABCb4/ApEV3IGFUmcP7SeuwOJYXw4bA6EB-dKDQCNcBGAsYHQ/s270/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Jkxq8znG3z0/ZWZfmy51kwI/AAAAAAABCb4/ApEV3IGFUmcP7SeuwOJYXw4bA6EB-dKDQCNcBGAsYHQ/s270/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BstZ9wi6wcA/ZWZow4gmyNI/AAAAAAABCjc/79vNKZlhJmEUHvkTBIfuq9Pvlkgr45ouQCNcBGAsYHQ/s135/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3SJ87yo3S0o/ZWZoxY9ZYxI/AAAAAAABCjg/XnUqM3oO_FEadk_0YdH99WN--gEbi3_9ACNcBGAsYHQ/s135/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8le5Vt6PUPw/ZWZox3TIjgI/AAAAAAABCjk/senpgVi_P1YMYIAaIFT2NeE4XTQZZ1whwCNcBGAsYHQ/s135/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NPO1ej4Cp7o/ZWZoyNNyeXI/AAAAAAABCjo/nBbR0EbQIIYNFJO_T1zF4eHAari6azTaQCNcBGAsYHQ/s135/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HkYqsTLhERs/ZWZoyZzCk2I/AAAAAAABCjs/bDTGZWVfiEIS6Y09FKvzLkPx0ePfyvUdQCNcBGAsYHQ/s135/2293-Mai-Minakami-Nichijou-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2293/",
+      "fetched_at": "2026-05-16T19:10:33.969Z",
+      "raw_id": "/nendoroid/details/n2293/"
+    }
+  ]
+}

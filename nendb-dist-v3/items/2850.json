@@ -1,0 +1,89 @@
+{
+  "num": "2850",
+  "name": {
+    "en": "Zundamon",
+    "ja": "ねんどろいど ずんだもん",
+    "ko": null
+  },
+  "series": {
+    "en": "Tohoku Zundamon Project",
+    "ja": "東北ずん子・ずんだもんプロジェクト",
+    "ko": null,
+    "code": "tohoku-zundamon-project"
+  },
+  "category": "other",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": null,
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4580828661967",
+  "gsc_product_id": "1138070",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138070",
+    "ja": "https://www.goodsmile.com/ja/product/1138070"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138070/PShyHJLUpg7nQEFK4iYD1Bjzk8rbCA6V.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYPL472x3o7VJ-CoEDC_Rjnye7AhxUcmmVGMpb2z9V338ZoC5PEbv3NCZ3wHQONjsGVHF-5KbKTEPWkT9YNKmut-F3lKnOEVrj7sKSnYDbscMupmhINw9lP66VyvXYMxL72R1uwQO7He6TOofbGMcYihAHNa2GVgie8K2DrCn4hS7DEtGJ8r9vifDej8ew/s270/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQxTSQEM7kvZaC1ndVaCRZGuvBDGDCuUj1qkYqKUwYkp2IFKoBaCxl8r4o5zdUwDGmc-M2gDhs5CUOMhDp_5y_wi-ZSTOKh5TJR0DA7JCazSvJ_Z2G4EGarCYf7ruxiau0d_WJfiB2lCUhbB2jMb3O-Oeyr8zYlbfDqHvhEMQDtpKenxOp_kYc0dJTsjx-/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4T2cVYrNA9ldo4S8WSRn4t6A-PjSdp6-CcZ42rVA55hJIXax8IlOuRX8IWZqREEEQuhgJ0hX72U9qIBcgrSMsLhnsh0QMEU7f266V_jJfWkYOXebaY7X-8vjuncD4FjC0kaz03km1whbQF5_ybEr3fDvJdYEgOxdJKuJKm1NMlsfRuUDP2krN13WvyGCY/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTfPz3QtBhESLwX6bMJLCKzMn64Mo7qOu3oxAbOP1-dgqXTJcPmUmPz52x-J3iFOly8hF_7j0-0uft3JCkEbUjBiXDdwdGfP30aKob3t5E910cPxwotUMxQQtvklC0-7hFCbQTOEvRzdrOWLs2xF97txiHfg-n1vnVsXpTbqJTmt2PbQRQKjJtHStePou/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwc77vXRQORikD3YPXFpn9JayRtte6YsHGWPJ41Dzpp1DBIgr5LorEstsLTB3VJJBH3XkqXzvFTLAsxLcCvKhIOBIYDmG5a_H0uZ9MISfln7aruKWaXM4o1oG9PmxKZmE0I7NJXmxlKVCNe6qAD1WXperI7CgW9fgb7GjsTUo1yYKaZ60oiSF_3q0nVgxZ/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5nfiQQF03qpdFQXAkFafxBcdgaXoVsfX2bdqYMtbBYh9G4uO2-uy0shnGydvITkoSnmgCIwG_TaI-z49BOXq5RaPblX6WJvWmUUjhESyc0Ghisg9hVaJynBY4tsmsTAaljRZgLL3ZIlPM67h4xEvTqagZz6nfy0lJbTlUABIFngYV2K1J12fUSfjzwd3/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR0a4E8VA34UPEYjmvskI8vQk-DWWEixUSo7H787GKD0z3-aQHDFcHISTgOKm7BCcgMPWevOdj9_ugivOZzoNrsU2GveLFgwV_yILVEF3Z2iqjVWpgqCzlIO2p-X0ChFffP9tZEn-zNIUnc_WLVi-qcypZseHaftThm24yajK50g9SW-oTz9EEPrpykEmY/s135/2850-Zundamon-Tohoku-Zundamon-Project-Mascot-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138070/NcDrbdsSHaQywetEqi0G4YhCRXpJ2AWP.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138070/PShyHJLUpg7nQEFK4iYD1Bjzk8rbCA6V.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138070",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:03:24.054Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138070",
+      "fetched_at": "2026-05-16T12:03:24.054Z",
+      "raw_id": "1138070"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138070",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138070"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2850/",
+      "fetched_at": "2026-05-16T19:10:34.351Z",
+      "raw_id": "/nendoroid/details/n2850/"
+    }
+  ]
+}

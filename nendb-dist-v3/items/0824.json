@@ -1,0 +1,68 @@
+{
+  "num": "0824",
+  "name": {
+    "en": "Nendoroid Shūichi Akai",
+    "ja": "ねんどろいど 赤井秀一 (ねんどろいど あかいしゅういち)",
+    "ko": "아카이 슈이치"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6721,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zehqSWJyyBA/X4NdvzgZq1I/AAAAAAABmEI/rdZleeaOn3AaFdbw7xOLsg7wpW8Z4vlmwCLcBGAsYHQ/s270/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zehqSWJyyBA/X4NdvzgZq1I/AAAAAAABmEI/rdZleeaOn3AaFdbw7xOLsg7wpW8Z4vlmwCLcBGAsYHQ/s270/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_zHpyTIWNUQ/X4ridAC_hYI/AAAAAAABnH4/7SfDOGt2hPUqtQH6dnfkLYkecK4xasEYgCLcBGAsYHQ/s135/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qsLNgPvh_-U/X4ridYCPgaI/AAAAAAABnH8/3_2IGMPi39wt9vhflM7ZECH1lxZuZjeagCLcBGAsYHQ/s135/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1GXqAdQjKe4/X4riduLmnOI/AAAAAAABnIA/3ezYgbg3ynM6oMvkN3-kCo06Sjp7Xa0iACLcBGAsYHQ/s135/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Iho8TG4j3V4/X4ridxYdotI/AAAAAAABnIE/w54VU6h8bEgRCjqo__JQYmals1WE4MMPQCLcBGAsYHQ/s135/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eFFD7dPANdw/X4rieU3_4KI/AAAAAAABnII/8YN4wice96cCFy3q9EVm2Q608aLdK6aBgCLcBGAsYHQ/s135/824-Shuichi-Akai-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n824/",
+      "fetched_at": "2026-05-16T19:10:34.821Z",
+      "raw_id": "/nendoroid/details/n824/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.516Z",
+      "raw_id": "Nendoroid/0800-0899/824.json"
+    }
+  ]
+}

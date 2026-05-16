@@ -1,0 +1,68 @@
+{
+  "num": "0358",
+  "name": {
+    "en": "Nendoroid Saber Extra",
+    "ja": "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
+    "ko": "세이버(Fate/EXTRA)/주인공"
+  },
+  "series": {
+    "en": "Fate/EXTRA",
+    "ja": "Fate/EXTRA",
+    "ko": "페이트 시리즈",
+    "code": "fate-extra"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4006,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Q95SZAieX94/X4NM4Stp1EI/AAAAAAABljI/Xoay3Q07gJwaPH953RFXM407PCe4Wu2UACLcBGAsYHQ/s270/358-Saber-Extra-Fate-Extra-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Q95SZAieX94/X4NM4Stp1EI/AAAAAAABljI/Xoay3Q07gJwaPH953RFXM407PCe4Wu2UACLcBGAsYHQ/s270/358-Saber-Extra-Fate-Extra-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Gq_BVADZ-ao/X4da-UfSqtI/AAAAAAAArF0/H686hShPGCcErE8-RFRih_h8qFeP8tJoQCLcBGAsYHQ/s135/358-Saber-Extra-Fate-Extra-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vwNVcKdEAck/X4da-4YGMzI/AAAAAAAArF4/E0Iu4n1CE8Y6Sr81VgZrdpbYPlYhkMuDACLcBGAsYHQ/s135/358-Saber-Extra-Fate-Extra-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-048NukfvjG8/X4da_J0bTPI/AAAAAAAArF8/0oFO4hp3-Kkhpy9LUPm5Tt94pLUdKivkwCLcBGAsYHQ/s135/358-Saber-Extra-Fate-Extra-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rS4XqsNRTws/X4da_FUSzOI/AAAAAAAArGA/WZLWS83geywnZCgaW05bKg1E7rK8wsYpACLcBGAsYHQ/s135/358-Saber-Extra-Fate-Extra-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EML7Y9J9WjQ/X4da_dhhBeI/AAAAAAAArGE/hKzbnUG1-S8HApr9iCqpEfwLBgPdosL8ACLcBGAsYHQ/s135/358-Saber-Extra-Fate-Extra-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n358/",
+      "fetched_at": "2026-05-16T19:10:34.481Z",
+      "raw_id": "/nendoroid/details/n358/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.360Z",
+      "raw_id": "Nendoroid/0300-0399/358.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0127a",
+  "name": {
+    "en": "Nendoroid Tomoe (ねんどろいど ともえ)",
+    "ja": "ねんどろいど トモエ (ねんどろいど ともえ)",
+    "ko": "토모에"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2923,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9dUesli1d7k/X4NJ12mSc3I/AAAAAAABlPg/b1UXny4RCNI9ZqvffKEhdzPi7Aat60SaACLcBGAsYHQ/s270/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9dUesli1d7k/X4NJ12mSc3I/AAAAAAABlPg/b1UXny4RCNI9ZqvffKEhdzPi7Aat60SaACLcBGAsYHQ/s270/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gTjLmv6Gj2I/X4dSZ9bmgnI/AAAAAAAAp08/kUsDfApfYGEUIeFYaOy2OpIImHnCVyqXgCLcBGAsYHQ/s135/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oiXHdyrrS3Y/X4dSaUNwrDI/AAAAAAAAp1A/8oi4VYcP0fwjrZLrkhXSjvsRRMyKjJlWwCLcBGAsYHQ/s135/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-m5b7WkJoF2A/X4dSa7-_c0I/AAAAAAAAp1E/pmlH_YKtfssTUhJ75rD09pldszXeOG1cACLcBGAsYHQ/s135/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RpmRVFiXACc/X4dSbaecs6I/AAAAAAAAp1I/bOOqPwE6t4oERW6JbovA6ctjHegU-iZ5QCLcBGAsYHQ/s135/127A-Tomoe-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n127a/",
+      "fetched_at": "2026-05-16T19:10:33.330Z",
+      "raw_id": "/nendoroid/details/n127a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.295Z",
+      "raw_id": "Nendoroid/0100-0199/127a.json"
+    }
+  ]
+}

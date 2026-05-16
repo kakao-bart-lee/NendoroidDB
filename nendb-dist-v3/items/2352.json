@@ -1,0 +1,64 @@
+{
+  "num": "2352",
+  "name": {
+    "en": "Yume Minami",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Gridman Univserse",
+    "ja": null,
+    "ko": null,
+    "code": "gridman-univserse"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-grR5yQCa1ck/ZcqeqL8YuhI/AAAAAAABDYI/Hl7nSXfpQKMNQR9azrol0u7bEEwtlnkBgCNcBGAsYHQ/s270/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-grR5yQCa1ck/ZcqeqL8YuhI/AAAAAAABDYI/Hl7nSXfpQKMNQR9azrol0u7bEEwtlnkBgCNcBGAsYHQ/s270/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-sXjO9zvaclk/Zowzp12lY2I/AAAAAAABFLI/q68CceoRJR8bBtRgrB3MTuadmjjfyEulQCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KdftXrLP8qA/ZowzprirJ6I/AAAAAAABFLA/XuI_vApfhI8XPZ-jTOBUg6njaLFpe6m8wCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bnaAVZbZiac/ZowzpruC5GI/AAAAAAABFLE/mDZKnMsjsUQj7sbhS8xVgV9eWFK_tmOKQCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8I8F8p3cG4M/ZowzqbpmxUI/AAAAAAABFLM/9wR60XR_ueIOeMGeylGoscHg9vpHoGdsQCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GVdvSa18xDQ/Zowzq14MakI/AAAAAAABFLQ/XCeo2TKrzv0-TDozFUdA34GZDW269_2swCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-onpakv81E70/ZowzrQD9rII/AAAAAAABFLU/uZ03WZ7O-D45PzbjWktumC3LbLJeA0TjgCNcBGAsYHQ/s135/2352-Yume-Minami-Gridman-Univserse-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2352/",
+      "fetched_at": "2026-05-16T19:10:34.004Z",
+      "raw_id": "/nendoroid/details/n2352/"
+    }
+  ]
+}

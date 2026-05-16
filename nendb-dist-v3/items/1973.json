@@ -1,0 +1,70 @@
+{
+  "num": "1973",
+  "name": {
+    "en": "Nendoroid Nagisa Shiota",
+    "ja": "ねんどろいど 潮田渚 (ねんどろいど しおたなぎさ)",
+    "ko": "시오타 나기사"
+  },
+  "series": {
+    "en": "Assassination Classroom",
+    "ja": "暗殺教室",
+    "ko": "암살교실",
+    "code": "assassination-classroom"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13324,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jUEdhf7TRSc/Y45wRpoZDzI/AAAAAAAA7rI/rpZrcaH6Rf0f5z2spsUR5xVp3B1iBPfAQCNcBGAsYHQ/s270/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jUEdhf7TRSc/Y45wRpoZDzI/AAAAAAAA7rI/rpZrcaH6Rf0f5z2spsUR5xVp3B1iBPfAQCNcBGAsYHQ/s270/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-x7-2HUL_Hec/Y451NhnOK_I/AAAAAAAA7xk/H1_dncdR5ogZbp1RKwNECum0JPGQ8YvRgCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MRbBiRrcCOY/Y451NjXEiTI/AAAAAAAA7xo/x36KCOlzGIU5OILbeklyC6ol7Il14ijUwCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sFPRRUYHLr8/Y451N4pVxPI/AAAAAAAA7xs/oVQva6ZrhesnKfe-WYRvrgaZA-0JtOmSwCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EXQ7uEB0a1U/Y451OOfkrTI/AAAAAAAA7xw/S6dKKWFCH4YQGRBw1aQkajtdZLMJqMrdACNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BFw65hNBqTw/Y451OaeUrRI/AAAAAAAA7x0/PQ2GigeeBBgJiwczFnHkUiBhpN2Oj9V1wCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-krgbowcNIDg/Y451OiZb64I/AAAAAAAA7x4/zuH61E8V6csvWUOb6Gs4nZxT2deWCk_CwCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-BDSkgiVmzxc/Y451OyVxgWI/AAAAAAAA7x8/9wiQCFlTH78f_k_NCu-jaTbug4iagqW2gCNcBGAsYHQ/s135/1973-Nagisa-Shiota-Assassination-Classroom-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1973/",
+      "fetched_at": "2026-05-16T19:10:33.762Z",
+      "raw_id": "/nendoroid/details/n1973/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.795Z",
+      "raw_id": "Nendoroid/1900-1999/1973.json"
+    }
+  ]
+}

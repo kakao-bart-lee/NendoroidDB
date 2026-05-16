@@ -1,0 +1,68 @@
+{
+  "num": "0807",
+  "name": {
+    "en": "Nendoroid Morisuke Yaku",
+    "ja": "ねんどろいど 夜久衛輔 (ねんどろいど やくもりすけ)",
+    "ko": "야쿠 모리스케"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6610,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ftubF-THET4/X4Ndr0hep2I/AAAAAAABmDE/NqndDJ9KX5sk97T1ORgoRZtGTp14X7rVgCLcBGAsYHQ/s270/807-Morisuke-Yaku-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ftubF-THET4/X4Ndr0hep2I/AAAAAAABmDE/NqndDJ9KX5sk97T1ORgoRZtGTp14X7rVgCLcBGAsYHQ/s270/807-Morisuke-Yaku-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QJpBqnDrFsY/X4riD2lT2gI/AAAAAAABnBo/IoxxAQZG9jAm57xrGr0Ar5WFCO7cA7_iQCLcBGAsYHQ/s135/807-Morisuke-Yaku-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DkVtiF0bmoc/X4riEDIg0tI/AAAAAAABnBs/nWAjiEZ2MFElRnnNVN4HPZuBAPpxicn0ACLcBGAsYHQ/s135/807-Morisuke-Yaku-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LBRftU1VYxE/X4riEdZMzpI/AAAAAAABnBw/e19Q261kh24J4ofGzYnLV8HvCDPdmfuRQCLcBGAsYHQ/s135/807-Morisuke-Yaku-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_owWhh1cWyA/X4riEqHi5HI/AAAAAAABnB0/Tn_tQl53x8EBy13QgEIy4cok2xVeWFBewCLcBGAsYHQ/s135/807-Morisuke-Yaku-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SIb88i1rGQQ/X4riE1SlguI/AAAAAAABnB4/LRg6d19gnr8tPSIm49uVsK0ey4hxXHPrgCLcBGAsYHQ/s135/807-Morisuke-Yaku-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n807/",
+      "fetched_at": "2026-05-16T19:10:34.811Z",
+      "raw_id": "/nendoroid/details/n807/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.512Z",
+      "raw_id": "Nendoroid/0800-0899/807.json"
+    }
+  ]
+}

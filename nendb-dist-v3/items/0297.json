@@ -1,0 +1,70 @@
+{
+  "num": "0297",
+  "name": {
+    "en": "Nendoroid Yuno (ねんどろいど ゆの)",
+    "ja": "ねんどろいど ゆの (ねんどろいど ゆの)",
+    "ko": "유노"
+  },
+  "series": {
+    "en": "Hidamari Sketch x Honeycomb",
+    "ja": "ひだまりスケッチ×ハニカム",
+    "ko": "히다마리 스케치",
+    "code": "hidamari-sketch-x-honeycomb"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3784,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bbEof-RBGUE/X4NLdMl9miI/AAAAAAABlbY/4pjCnxmkvCYN3L-PFhRZi8oXQKwxInCqACLcBGAsYHQ/s270/297-Yuno-Hidamari%2BSketch%2Bx%2BHoneycomb-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bbEof-RBGUE/X4NLdMl9miI/AAAAAAABlbY/4pjCnxmkvCYN3L-PFhRZi8oXQKwxInCqACLcBGAsYHQ/s270/297-Yuno-Hidamari%2BSketch%2Bx%2BHoneycomb-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UZvhWZ5E0VM/X4dYkyywInI/AAAAAAAAqvg/WXxbCL6k30EqW5Wapb6Y2j0ccspy7km0QCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KKS8y8dY93Y/X4dYkwrei1I/AAAAAAAAqvk/z6npehzmPi45AsO-nuDuHna4l5AtKRUHgCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VWeJyUCZlOo/X4dYlOmk9TI/AAAAAAAAqvo/PHFvBN3oZwcYYo68JYHlQ6lHTWA5pmKPgCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GHaU2zCKpRE/X4dYle68cvI/AAAAAAAAqvs/EQY_0wUoksAV7EzGW7AH8TPR6QrDMRO7QCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s4S2rCr9smQ/X4dYldo7kjI/AAAAAAAAqvw/MBAQvcxCSpo-gFQuUBfSI12MNwXIyRAVgCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9YufUx-9Pfw/X4dYlu2tEnI/AAAAAAAAqv0/qayOI1KX6wsnmW5pVV78oUiI8EJ_Ia9dwCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-HTF1e3NkZ-s/X4dYl9B39SI/AAAAAAAAqv4/u8nccvQEaj0gT0GmJKQgb-pwoMBrFlcHQCLcBGAsYHQ/s135/297-Yuno-Hidamari-Sketch-x-Honeycomb-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n297/",
+      "fetched_at": "2026-05-16T19:10:34.414Z",
+      "raw_id": "/nendoroid/details/n297/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.344Z",
+      "raw_id": "Nendoroid/0200-0299/297.json"
+    }
+  ]
+}

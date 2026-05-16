@@ -1,0 +1,55 @@
+{
+  "num": "7976",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Queen of Hearts)",
+    "ja": "ねんどろいどどーる おようふくセット（クイーンオブハート） (ねんどろいどどーる おようふくせっと（くいーんおぶはーと）)",
+    "ko": "퀸 오브 하트 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3362,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7976,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190111/7976/57315/large/54f5bc9a932590080a57202e361e92a2.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.936Z",
+      "raw_id": "NendoroidDoll/Clothes/7976.json"
+    }
+  ]
+}

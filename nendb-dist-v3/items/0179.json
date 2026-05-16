@@ -1,0 +1,68 @@
+{
+  "num": "0179",
+  "name": {
+    "en": "Nendoroid Sawako Kuronuma (ねんどろいど くろぬまさわこ)",
+    "ja": "ねんどろいど 黒沼爽子 (ねんどろいど くろぬまさわこ)",
+    "ko": "쿠로누마 사와코"
+  },
+  "series": {
+    "en": "Kimi ni Todoke",
+    "ja": "君に届け",
+    "ko": "너에게 닿기를",
+    "code": "kimi-ni-todoke"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3173,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-qyVaEv-5-30/X4NKId8AMLI/AAAAAAABlTM/-zf2t9Wfg085yAUW09Mpk2SPZT0dKcczACLcBGAsYHQ/s270/179-Sawako-Kimi-Ni-Todoke-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-qyVaEv-5-30/X4NKId8AMLI/AAAAAAABlTM/-zf2t9Wfg085yAUW09Mpk2SPZT0dKcczACLcBGAsYHQ/s270/179-Sawako-Kimi-Ni-Todoke-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DUuRaIDpVl4/X4dT70SJJ5I/AAAAAAAAqJQ/krNxZjz730oozEeFLfbv-fFIRIXF8Vl7wCLcBGAsYHQ/s135/179-Sawako-Kuronuma-Kimi-ni-Todoke-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--MYectJlimA/X4dT8btTyJI/AAAAAAAAqJU/uSHEz1sfDSwgJiCcFtyAgUz31iY71JqBACLcBGAsYHQ/s135/179-Sawako-Kuronuma-Kimi-ni-Todoke-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GtSfyaYCSq4/X4dT80Qj6PI/AAAAAAAAqJY/C8h2t2audzEM20OiYABTQiKCfw9Svl9wQCLcBGAsYHQ/s135/179-Sawako-Kuronuma-Kimi-ni-Todoke-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-k9DegoxOeN0/X4dT9k-Cy6I/AAAAAAAAqJc/0j4ozo0OFfoOdvCaqrB4BII9eh_9Ev7VwCLcBGAsYHQ/s135/179-Sawako-Kuronuma-Kimi-ni-Todoke-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wXgHR8jFVmE/X4dT9ndHSDI/AAAAAAAAqJg/oTPSgcfayioxRbwSQW3xGY6SMzt0ktq6ACLcBGAsYHQ/s135/179-Sawako-Kuronuma-Kimi-ni-Todoke-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n179/",
+      "fetched_at": "2026-05-16T19:10:33.655Z",
+      "raw_id": "/nendoroid/details/n179/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.310Z",
+      "raw_id": "Nendoroid/0100-0199/179.json"
+    }
+  ]
+}

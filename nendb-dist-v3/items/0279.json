@@ -1,0 +1,68 @@
+{
+  "num": "0279",
+  "name": {
+    "en": "Nendoroid Leonmitchelli Galette des Rois (ねんどろいど れおんみしぇり・がれっと・で・ろわ)",
+    "ja": "ねんどろいど レオンミシェリ・ガレット・デ・ロワ (ねんどろいど れおんみしぇり・がれっと・で・ろわ)",
+    "ko": "레온미셰리 갈레트 데 로아"
+  },
+  "series": {
+    "en": "DOG DAYS",
+    "ja": "DOG DAYS",
+    "ko": "DOG DAYS",
+    "code": "dog-days"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3699,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-m8gTDFBSYr0/X4NLYwI39LI/AAAAAAABlaQ/WGmrBSSsYms2Zsfb6DRXBniZlyvZu6-rACLcBGAsYHQ/s270/279-Leonmitchelli-Galette-de-Rois-Dog-Days-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-m8gTDFBSYr0/X4NLYwI39LI/AAAAAAABlaQ/WGmrBSSsYms2Zsfb6DRXBniZlyvZu6-rACLcBGAsYHQ/s270/279-Leonmitchelli-Galette-de-Rois-Dog-Days-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ufBQNYDDtak/X4dYQXszn_I/AAAAAAAAqqE/5eX3wa-AfqgWxXoImJ-nZcLTMu0PuXjOACLcBGAsYHQ/s135/279-Leonmitchelli-Galette-des-Rois-Dog-Days-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LGJKk6eSjYY/X4dYQeRN5xI/AAAAAAAAqqI/Iq26s71v4Pwrjwj7jO9FvONKitma4gLDwCLcBGAsYHQ/s135/279-Leonmitchelli-Galette-des-Rois-Dog-Days-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CIqc1re681A/X4dYQj8NfAI/AAAAAAAAqqM/JliGvNtvR5MWOa4Nv1_Wkj0KPoj1uHyYwCLcBGAsYHQ/s135/279-Leonmitchelli-Galette-des-Rois-Dog-Days-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-T5yHuQgh8GM/X4dYQ-eHPSI/AAAAAAAAqqQ/UonM_tp98zIXIYOWYVaEYyRSwuIXTqozQCLcBGAsYHQ/s135/279-Leonmitchelli-Galette-des-Rois-Dog-Days-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NlWgNYKmsEw/X4dYRP9svhI/AAAAAAAAqqU/-bQvsXXOG9wUmAmsWwKqRxBhaCnfMd7rwCLcBGAsYHQ/s135/279-Leonmitchelli-Galette-des-Rois-Dog-Days-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n279/",
+      "fetched_at": "2026-05-16T19:10:34.318Z",
+      "raw_id": "/nendoroid/details/n279/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.340Z",
+      "raw_id": "Nendoroid/0200-0299/279.json"
+    }
+  ]
+}

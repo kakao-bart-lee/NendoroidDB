@@ -1,0 +1,68 @@
+{
+  "num": "2035",
+  "name": {
+    "en": "Nendoroid Kotaro Bokuto: The Way of the Ace Ver.",
+    "ja": "ねんどろいど 木兎光太郎 エースの心得Ver. (ねんどろいど ぼくとこうたろう えーすのこころえVer.)",
+    "ko": "보쿠토 코타로: 에이스의 마음가짐 ver."
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14477,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GmYiK6L_ovg/ZIzT0bnb5wI/AAAAAAAA-PA/KYCB5-NeBJAIaYXfkZ046IKMAP1taMQ9wCNcBGAsYHQ/s270/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GmYiK6L_ovg/ZIzT0bnb5wI/AAAAAAAA-PA/KYCB5-NeBJAIaYXfkZ046IKMAP1taMQ9wCNcBGAsYHQ/s270/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pNL5C8KSnBQ/ZIzVkLILk6I/AAAAAAAA-Rc/CTuRsenEzhsluYMfPJHeOvG6olop_8GhwCNcBGAsYHQ/s135/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XfLoad8MSac/ZIzVkvkiMEI/AAAAAAAA-Rg/S4sPGgIsIaYO_pjq4Q0BRmu2vNlJyh1-ACNcBGAsYHQ/s135/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ljWK-7SfewY/ZIzVlDeenmI/AAAAAAAA-Rk/g8iYSeIBTPkOATLqAAmm78115ExBTVNSQCNcBGAsYHQ/s135/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-C3_Bp_Jukms/ZIzVlaqN-jI/AAAAAAAA-Rs/FrAZt1zC6I0Iy9-arJ4pYLfX-Wijd2dbQCNcBGAsYHQ/s135/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jzL_WVU3UWg/ZIzVlawoa6I/AAAAAAAA-Ro/EG9ibCE45r8p2WxRIJaM057UBavvWmcgACNcBGAsYHQ/s135/2035-Kotaro-Bokuto-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2035/",
+      "fetched_at": "2026-05-16T19:10:33.801Z",
+      "raw_id": "/nendoroid/details/n2035/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.811Z",
+      "raw_id": "Nendoroid/2000-2099/2035.json"
+    }
+  ]
+}

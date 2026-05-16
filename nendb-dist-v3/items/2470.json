@@ -1,0 +1,64 @@
+{
+  "num": "2470",
+  "name": {
+    "en": "Aru Rikuhachima",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Archive",
+    "ja": null,
+    "ko": null,
+    "code": "blue-archive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oydV4J-6_EE/Zj_iuSDTo_I/AAAAAAABEZg/BYbLO-KOFEAZZRBVmyUpHIbqDURwzBhOACNcBGAsYHQ/s270/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oydV4J-6_EE/Zj_iuSDTo_I/AAAAAAABEZg/BYbLO-KOFEAZZRBVmyUpHIbqDURwzBhOACNcBGAsYHQ/s270/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oR-YZhoA2ok/Zow44qKLXGI/AAAAAAABFzg/hJxpn3fNU048ygUldrFScAg9tG_rWjljQCNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zxtRTYEYjmM/Zow45VNr1GI/AAAAAAABFzk/wU2gSD4Q7pA_0qqHrF21V0H7BsUDgMxxACNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x2aWaNSsIy4/Zow45ijk2eI/AAAAAAABFzo/dLE2RXNgVrM_iZ6bWPjllE0S5uphjEWvwCNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7b1Uze19ogo/Zow46QgSRhI/AAAAAAABFzs/R9t_xS3tzsEP2hehlQMMUtsHu6Gisnl6ACNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zfexD0NgjN0/Zow4657enoI/AAAAAAABFzw/gFWLex48ynMIderK2xDnd9m8MZkfbgcsgCNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-nnCY8t_Iehg/Zow47c4vvjI/AAAAAAABFz0/noKNq3r_LGMFKy3qPtHjvqW5ENRVEM4cgCNcBGAsYHQ/s135/2470-Aru-Rikuhachima-Blue-Archive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2470/",
+      "fetched_at": "2026-05-16T19:10:34.080Z",
+      "raw_id": "/nendoroid/details/n2470/"
+    }
+  ]
+}

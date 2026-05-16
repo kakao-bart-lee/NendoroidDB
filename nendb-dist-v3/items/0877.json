@@ -1,0 +1,68 @@
+{
+  "num": "0877",
+  "name": {
+    "en": "Nendoroid Rey",
+    "ja": "ねんどろいど レイ (ねんどろいど れい)",
+    "ko": "레이"
+  },
+  "series": {
+    "en": "Star Wars: The Last Jedi",
+    "ja": "スター・ウォーズ／最後のジェダイ",
+    "ko": "스타워즈",
+    "code": "star-wars-the-last-jedi"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7001,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hd8jqkqaCQU/X4Nd_V3swQI/AAAAAAABmHg/SYn0I5hR3qUjkf00hR1wBeW4PoXwNdQkwCLcBGAsYHQ/s270/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hd8jqkqaCQU/X4Nd_V3swQI/AAAAAAABmHg/SYn0I5hR3qUjkf00hR1wBeW4PoXwNdQkwCLcBGAsYHQ/s270/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Yj83y48KXNQ/X4rj22jhjPI/AAAAAAABncQ/JH2owVNAd58wR10wYSfYBQzd9bUqOtuiQCLcBGAsYHQ/s135/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-z8rCTBe1QxM/X4rj3VVV7aI/AAAAAAABncU/Eo37OaUsC5wao4IbjDy-_lySIoPzxmlTwCLcBGAsYHQ/s135/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-EE76ENKEO9Q/X4rj3vSU28I/AAAAAAABncY/BS7-Yy-eDbQXuwtjun3EcMheoriKH4k4QCLcBGAsYHQ/s135/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GOF7StyU1fk/X4rj3sIssGI/AAAAAAABncc/v87MO0sRky4FSrmxGxvtJgAnqpB4xJmmgCLcBGAsYHQ/s135/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-afukHjTVIAs/X4rj4NX0oWI/AAAAAAABncg/np2r5Ys0r4Qq-dY2kDD_IsToPIman9vggCLcBGAsYHQ/s135/877-Rey-Star-Wars-The-Last-Jedi-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n877/",
+      "fetched_at": "2026-05-16T19:10:34.849Z",
+      "raw_id": "/nendoroid/details/n877/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.528Z",
+      "raw_id": "Nendoroid/0800-0899/877.json"
+    }
+  ]
+}

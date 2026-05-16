@@ -1,0 +1,68 @@
+{
+  "num": "1154",
+  "name": {
+    "en": "Nendoroid Captain Marvel: Hero's Edition Standard Ver.",
+    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション スタンダードVer. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん すたんだーどVer.)",
+    "ko": "캡틴 마블 히어로 에디션"
+  },
+  "series": {
+    "en": "Captain Marvel",
+    "ja": "キャプテン・マーベル",
+    "ko": "어벤져스",
+    "code": "captain-marvel"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8447,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7Xyf--X9s-o/X4Nggo-r4LI/AAAAAAABmcA/zmf59gt66PcxG15omcVVImculipFUm9HACLcBGAsYHQ/s270/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7Xyf--X9s-o/X4Nggo-r4LI/AAAAAAABmcA/zmf59gt66PcxG15omcVVImculipFUm9HACLcBGAsYHQ/s270/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SLgCJFFa_ck/X4rwrxnuU7I/AAAAAAABpPU/WXh1Rw8BFisyTVXM3w6hAG8t0Qj2x5_NQCLcBGAsYHQ/s135/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k6yQWQhqVSc/X4rwsBkKDlI/AAAAAAABpPY/SVFKMejXB2wX81n6xS6cH0Tn7_1Q5WyCgCLcBGAsYHQ/s135/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VkxqhrTVE64/X4rwsWca_II/AAAAAAABpPc/87AskeX872kRS5R-R40SQfoq_WxiYO0LgCLcBGAsYHQ/s135/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wlduiuH7dg0/X4rwsmSOeFI/AAAAAAABpPg/kwzlIIN8rlwPRaDLjanqGWiZ2-84qcf9wCLcBGAsYHQ/s135/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Vz-pr9k61Ok/X4rws8P9LxI/AAAAAAABpPk/JX5Ew-VcwvIt4zIIMwWv--_Zdib_ayZoQCLcBGAsYHQ/s135/1154-Captain-Marvel-Captain-Marvel-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1154/",
+      "fetched_at": "2026-05-16T19:10:33.255Z",
+      "raw_id": "/nendoroid/details/n1154/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.598Z",
+      "raw_id": "Nendoroid/1100-1199/1154.json"
+    }
+  ]
+}

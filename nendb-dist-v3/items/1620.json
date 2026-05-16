@@ -1,0 +1,70 @@
+{
+  "num": "1620",
+  "name": {
+    "en": "Nendoroid Malleus Draconia",
+    "ja": "ねんどろいど マレウス・ドラコニア (ねんどろいど まれうす・どらこにあ)",
+    "ko": "말레우스 드라코니아"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11190,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7-Qc_VCzUwo/YL_Uq0glvaI/AAAAAAAAyO0/hSZgTogxMeU7ix5tlw2yn-MxKbi7BIf7ACLcBGAsYHQ/s270/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7-Qc_VCzUwo/YL_Uq0glvaI/AAAAAAAAyO0/hSZgTogxMeU7ix5tlw2yn-MxKbi7BIf7ACLcBGAsYHQ/s270/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-k9IB-OQr2Yw/YL_cpCnnnTI/AAAAAAAAyRU/1syKM40xJjIcInB8rQCFbkKx_yuxsI09QCLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cBS6ZUAnZX0/YL_cpWFJ_WI/AAAAAAAAyRY/8AXcam5kv9ATpHGNVo1EQ_t6-GEQeH6vACLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-08rkPnRcpL8/YL_cpecEeLI/AAAAAAAAyRc/WyPx30NAEOEstd8Ho69lUT7LeUfNNjftACLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9B_xUI7FPr0/YL_cpjrV3PI/AAAAAAAAyRg/Hg49ks7n-_M3Az6Q6LpbHZzH8hF0skYcACLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-T4xyI4l9-HQ/YL_cqN6PmLI/AAAAAAAAyRk/fpr8JtbfjmEPsjXqJM3i2td46bvdSdIRgCLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-47XWV0W_M4s/YL_cqdLq-_I/AAAAAAAAyRo/B-ufIsH5neoLFzy6IE7sUrNXAL0b7pc3wCLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Enu8sPGMmbw/YL_cqXEbyfI/AAAAAAAAyRs/TjbGz0f09j02XgNeP5fkd1CJJBevwb_4QCLcBGAsYHQ/s135/1620-Malleus-Draconia-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1620/",
+      "fetched_at": "2026-05-16T19:10:33.540Z",
+      "raw_id": "/nendoroid/details/n1620/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.709Z",
+      "raw_id": "Nendoroid/1600-1699/1620.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0929",
+  "name": {
+    "en": "Nendoroid Syaro",
+    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "ko": "키리마 샤로"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8I4xRjzW-BE/X4Nekvr4_EI/AAAAAAABmLk/ed279Xr4Dh0kRqmGNzc0PRO50IAaogV1wCLcBGAsYHQ/s270/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8I4xRjzW-BE/X4Nekvr4_EI/AAAAAAABmLk/ed279Xr4Dh0kRqmGNzc0PRO50IAaogV1wCLcBGAsYHQ/s270/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FUouKK7zovQ/X4roAKm4xlI/AAAAAAABny8/CtyOLGLCqZUQcuGPtpUZ4A1ds4C2S_HswCLcBGAsYHQ/s135/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-T2vMwrIBlLg/X4roAXz_MPI/AAAAAAABnzA/3tflc5OtnO8td98VxMa5lrYAP8jDNSN4QCLcBGAsYHQ/s135/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FQTmXm2sjno/X4roAjcF8mI/AAAAAAABnzE/xwpvdbtlI-sLyudNOcgPF-Yq4xM5ZfZ0ACLcBGAsYHQ/s135/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XZBWmt8UHek/X4roA96NuuI/AAAAAAABnzI/ahYzI00ru8MZUuR8RUl6CUr0RgtC3FsiACLcBGAsYHQ/s135/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-V2i0rqwmru0/X4roBOsgHuI/AAAAAAABnzM/vu17iQi4R24tXBrdqnLiIkLMTNCM-lAiwCLcBGAsYHQ/s135/929-Syaro-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n929/",
+      "fetched_at": "2026-05-16T19:10:34.878Z",
+      "raw_id": "/nendoroid/details/n929/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.541Z",
+      "raw_id": "Nendoroid/0900-0999/929.json"
+    }
+  ]
+}

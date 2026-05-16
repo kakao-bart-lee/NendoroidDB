@@ -1,0 +1,68 @@
+{
+  "num": "1915",
+  "name": {
+    "en": "Nendoroid Yuki Soma",
+    "ja": "ねんどろいど 草摩由希 (ねんどろいど そうまゆき)",
+    "ko": "소마 유키"
+  },
+  "series": {
+    "en": "Fruits Basket",
+    "ja": "フルーツバスケット",
+    "ko": "후르츠 바스켓",
+    "code": "fruits-basket"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7979,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12922,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BCC0eoaj9CQ/Yw_WSf9wfPI/AAAAAAAA6aU/hGvUcd3TeiseHbdurh-bcc5k7a-C7i4fgCNcBGAsYHQ/s270/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BCC0eoaj9CQ/Yw_WSf9wfPI/AAAAAAAA6aU/hGvUcd3TeiseHbdurh-bcc5k7a-C7i4fgCNcBGAsYHQ/s270/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Q1-2E64jDec/YxEXZoD3RaI/AAAAAAAA6o4/rXzKOEge4is_7M9rLevo-eGv-3e1Ki7cACNcBGAsYHQ/s135/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UhgLJoTp7BI/YxEXaBRGsnI/AAAAAAAA6o8/QFHZrQADG24-QwdX7nUuEkoaR502hOWigCNcBGAsYHQ/s135/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-isZztJ8cLcc/YxEXatg6uFI/AAAAAAAA6pA/WcN704aCa6QYdfBBOLXyFEYs-1oy8R9-wCNcBGAsYHQ/s135/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NBMON0WpKpk/YxEXbPpRoPI/AAAAAAAA6pE/HM59yM_lh6wj-VrfI0mLzxEhS1bz1-kbgCNcBGAsYHQ/s135/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_I_z2cgvskE/YxEXbkqAPtI/AAAAAAAA6pI/Kz_XZkIwDCcFUq46NpeDXN3muRpAy1nUQCNcBGAsYHQ/s135/1915-Yuki-Soma-Fruits-Basket-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1915/",
+      "fetched_at": "2026-05-16T19:10:33.727Z",
+      "raw_id": "/nendoroid/details/n1915/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.781Z",
+      "raw_id": "Nendoroid/1900-1999/1915.json"
+    }
+  ]
+}

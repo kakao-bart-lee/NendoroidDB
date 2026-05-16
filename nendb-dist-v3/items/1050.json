@@ -1,0 +1,67 @@
+{
+  "num": "1050",
+  "name": {
+    "en": "Nendoroid Gridman: SSSS. Ver.",
+    "ja": "ねんどろいど グリッドマン SSSS.Ver. (ねんどろいど ぐりっどまん SSSS.Ver.)",
+    "ko": "그리드맨"
+  },
+  "series": {
+    "en": "SSSS.GRIDMAN",
+    "ja": "SSSS.GRIDMAN",
+    "ko": "SSSS.GRIDMAN",
+    "code": "ssss-gridman"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7877,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S3xe2psVw0I/X4Nft4v5s-I/AAAAAAABmUY/ZUEToFBf6TUADZ-1H8tkaAqBx8uOCHVywCLcBGAsYHQ/s270/1050-DX-Gridman-SSSS-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S3xe2psVw0I/X4Nft4v5s-I/AAAAAAABmUY/ZUEToFBf6TUADZ-1H8tkaAqBx8uOCHVywCLcBGAsYHQ/s270/1050-DX-Gridman-SSSS-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fbxOGPjDxVw/X4rsUU5_V_I/AAAAAAABokw/pyiQ187iBf8I4jgAjyDlNUdGDNPISZAtACLcBGAsYHQ/s135/1050-Gridman-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-B8z0IqDNJ3s/X4rsUrFKBgI/AAAAAAABok0/1YbZojiSZAoe-FeDe3Na6BBZCTQ5Q5x8ACLcBGAsYHQ/s135/1050-Gridman-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zLiCaSWMcZU/X4rsU_BMa3I/AAAAAAABok4/WIIbydkBdTgIh_s-2nF95vL8jHClvChsQCLcBGAsYHQ/s135/1050-Gridman-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-b_TQzqoB-zE/X4rsVEQQfbI/AAAAAAABok8/JM6l0sXHqJ8cxtUt9Q573lH43W--IW4jACLcBGAsYHQ/s135/1050-Gridman-SSSS.GRIDMAN-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1050/",
+      "fetched_at": "2026-05-16T19:10:33.176Z",
+      "raw_id": "/nendoroid/details/n1050/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.573Z",
+      "raw_id": "Nendoroid/1000-1099/1050.json"
+    }
+  ]
+}

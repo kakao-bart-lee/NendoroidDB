@@ -1,0 +1,65 @@
+{
+  "num": "2502",
+  "name": {
+    "en": "Momosuzu Nene",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": null,
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uDRkUTGAiB0/ZnsofnQw5tI/AAAAAAABE34/3j3YDzS2JUIQt3S5Wjb-n-v714FgAgnTACNcBGAsYHQ/s270/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uDRkUTGAiB0/ZnsofnQw5tI/AAAAAAABE34/3j3YDzS2JUIQt3S5Wjb-n-v714FgAgnTACNcBGAsYHQ/s270/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gtIXnLjVkI0/Zow6_v-uV-I/AAAAAAABGB8/H6mNUIhOB_4yKdEqdxp3TsFQpNOJod6MQCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5NP2-jxVS6A/Zow7AAYFdUI/AAAAAAABGCA/UGgbPiiUyo0iJKMoNkc5HKg8MWTn3pouQCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5tYUQQCqubA/Zow7AiJW3VI/AAAAAAABGCE/hI2jDCYND58aQSl_GHT9VuKoNoNpOkZxQCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pVJQ6P7FK4s/Zow7BMVUMPI/AAAAAAABGCI/V6WdwvP3h_UBmyKSvinufI07LW1NhIC5wCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DWME9EL1BT4/Zow7B719YRI/AAAAAAABGCM/XgMUN48T-ygl97Qne1W_4R7CBz6J22cfgCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IuWEjleJydQ/Zow7CIEvPFI/AAAAAAABGCQ/oYbMX3EmVJQqKFHHQPkvpGUqDAn-AunwACNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-KrzflVAmvFc/Zow7ChtrFiI/AAAAAAABGCU/AnQ_jTUZDG8SR13aDyyuQa5X8uOhwQt-wCNcBGAsYHQ/s135/2502-Momosuzu-Nene-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2502/",
+      "fetched_at": "2026-05-16T19:10:34.099Z",
+      "raw_id": "/nendoroid/details/n2502/"
+    }
+  ]
+}

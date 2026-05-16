@@ -1,0 +1,67 @@
+{
+  "num": "0137",
+  "name": {
+    "en": "Nendoroid Masamune Date (ねんどろいど だてまさむね)",
+    "ja": "ねんどろいど 伊達政宗 (ねんどろいど だてまさむね)",
+    "ko": "다테 마사무네"
+  },
+  "series": {
+    "en": "Sengoku Basara",
+    "ja": "戦国BASARA",
+    "ko": "전국 바사라",
+    "code": "sengoku-basara"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2983,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-513E1YZRR80/X4NJ5Oq2SnI/AAAAAAABlQQ/BsCrKJDVrv8wH13z4Iemo19pmff6QC-cwCLcBGAsYHQ/s270/137-Date-Masamune-Sengoku-Basara-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-513E1YZRR80/X4NJ5Oq2SnI/AAAAAAABlQQ/BsCrKJDVrv8wH13z4Iemo19pmff6QC-cwCLcBGAsYHQ/s270/137-Date-Masamune-Sengoku-Basara-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iP2NuenUcVU/X4dSsQwMe5I/AAAAAAAAp40/8wg42skB9Z4I4GO_TwMDYDNsiGD0cFjJwCLcBGAsYHQ/s135/137-Masamune-Date-Sengoku-Basara-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AurA6emWi58/X4dSsiDBy6I/AAAAAAAAp44/ZmUe40zQ3hcktaspSoZhN02E7gPdERaFgCLcBGAsYHQ/s135/137-Masamune-Date-Sengoku-Basara-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-P1cKJxm4SHM/X4dSvuzvd1I/AAAAAAAAp5c/2WTlUaURMxY5iAiyicWv68LHf2lVg0EJACLcBGAsYHQ/s135/137-Masamune-Date-Sengoku-Basara-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PBlTvxhv-U4/X4dStfgpjAI/AAAAAAAAp48/trRzMHrKX28Kc1nj8Ckv6lrdykgQ1OVFACLcBGAsYHQ/s135/137-Masamune-Date-Sengoku-Basara-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n137/",
+      "fetched_at": "2026-05-16T19:10:33.393Z",
+      "raw_id": "/nendoroid/details/n137/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.298Z",
+      "raw_id": "Nendoroid/0100-0199/137.json"
+    }
+  ]
+}

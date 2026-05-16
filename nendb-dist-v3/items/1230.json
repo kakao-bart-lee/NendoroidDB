@@ -1,0 +1,67 @@
+{
+  "num": "1230",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 85: Endgame Ver.",
+    "ja": "ねんどろいど アイアンマン マーク85 エンドゲームVer. (ねんどろいど あいあんまん まーく85 えんどげーむVer.)",
+    "ko": "아이언맨 Mk85 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8975,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HvzM8d6b4bo/X4NiNSi3QcI/AAAAAAABmoo/a8NkWil-bw4VxNvzDJ-k3Wgw32EVsVhhgCLcBGAsYHQ/s270/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HvzM8d6b4bo/X4NiNSi3QcI/AAAAAAABmoo/a8NkWil-bw4VxNvzDJ-k3Wgw32EVsVhhgCLcBGAsYHQ/s270/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qQAtFJ38OrU/X4rznrmnE9I/AAAAAAABpxM/v6E0qw0d6dwfXsu-Z9YPEflyWthSh5SsQCLcBGAsYHQ/s135/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-REWJxb5BIQs/X4rzoINTODI/AAAAAAABpxQ/m0tj8q5BMI0Gj0xn_Lo_mVkLmle_imIrwCLcBGAsYHQ/s135/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OSkzNGMvh3A/X4rzoc9T5YI/AAAAAAABpxU/TTm04Nti604fpAILPLQGd2K8gvhnAkLxgCLcBGAsYHQ/s135/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iI_nMxOrms4/X4rzoaAfhLI/AAAAAAABpxY/fmEgeBHxWGc5wQJQN4UnWXOP7xrxMp5xgCLcBGAsYHQ/s135/1230-Iron-Man-Avengers-Endgame-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1230/",
+      "fetched_at": "2026-05-16T19:10:33.301Z",
+      "raw_id": "/nendoroid/details/n1230/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.616Z",
+      "raw_id": "Nendoroid/1200-1299/1230.json"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "num": "2450",
+  "name": {
+    "en": "Astro Boy",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Astro Boy",
+    "ja": null,
+    "ko": null,
+    "code": "astro-boy"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LKkJrUK77LI/Zor7g1ozJ8I/AAAAAAABFDE/ABFln_si5YYzEEfWIvZdIkz3h3fjZYrSQCNcBGAsYHQ/s270/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LKkJrUK77LI/Zor7g1ozJ8I/AAAAAAABFDE/ABFln_si5YYzEEfWIvZdIkz3h3fjZYrSQCNcBGAsYHQ/s270/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7deFCK_HtWg/Zow3iZnMmAI/AAAAAAABFrA/YaNm-zQ6NAourhTaq843cFSsWQRtD0T2QCNcBGAsYHQ/s135/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GfZ1qAXrra4/Zow3iqE75II/AAAAAAABFrE/00YGlopYeGUODt6l7dizh7vMvcvpAaMfQCNcBGAsYHQ/s135/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RGMpboRHZHs/Zow3ja1v2-I/AAAAAAABFrI/KbPEAouynwERy0nhzDNZ8fJ_-BAnNES8gCNcBGAsYHQ/s135/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8oyq_PDCFSk/Zow3j4GueZI/AAAAAAABFrM/cdSrrKVT7nwyfbE5wEWpGX61z23q12DHgCNcBGAsYHQ/s135/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RsLSc5PUors/Zow3kUp2bsI/AAAAAAABFrQ/kiQv0JuL3DE07z8eCkcANqa9DwlXVV2uACNcBGAsYHQ/s135/2450-Astro-Boy-Astro-Boy-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2450/",
+      "fetched_at": "2026-05-16T19:10:34.067Z",
+      "raw_id": "/nendoroid/details/n2450/"
+    }
+  ]
+}

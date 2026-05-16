@@ -1,0 +1,73 @@
+{
+  "num": "2096",
+  "name": {
+    "en": "Nendoroid Modeus",
+    "ja": "ねんどろいど モデウス (ねんどろいど もでうす)",
+    "ko": "모데우스"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14156,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UAKzGIhAeYA/ZCnVauaDZGI/AAAAAAAA9UM/_sL2FNV6Zlofr2r_vb98elyz7kLm1tTzgCNcBGAsYHQ/s270/2096-Modeus-Helltaker-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UAKzGIhAeYA/ZCnVauaDZGI/AAAAAAAA9UM/_sL2FNV6Zlofr2r_vb98elyz7kLm1tTzgCNcBGAsYHQ/s270/2096-Modeus-Helltaker-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-71a5lKzMjYk/ZCnZzAwh7_I/AAAAAAAA9X0/6STXqcjS71M5yAs6qc37FOHre2g1fbXoACNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-L_Izi9Lcywo/ZCnZz4En72I/AAAAAAAA9X4/f0fC1iQmLTgiUOL7KU2AOXM6fVVGZHeAwCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZvIqDg630mM/ZCnZ0SdruCI/AAAAAAAA9X8/RV4t4FgF56I_KKfOa3POonFPM-cKIQR4wCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SBz4FpgUwP4/ZCnZ0z9wqLI/AAAAAAAA9YA/Hey19QSkNr4se4HvRhHZgtxuTk6uLXhewCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OpaZogXlutM/ZCnZ1T_s7iI/AAAAAAAA9YE/qtPdsOb66lohImOJz42LdzJ8xTWo_ysiwCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-tDsgmSGTn9M/ZCnZ13H5hfI/AAAAAAAA9YI/GXLYFWxZ0qYLyXtBCnSk-Xk9PLvTdVZ3gCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bxAHakznkUY/ZCnZ2W11HvI/AAAAAAAA9YM/U4J1hkR8psw3xN8zKRPnBX7adrRjT2cYQCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-LJ6XLgFnL5M/ZCnZxpncUdI/AAAAAAAA9Xo/PpamKfurnegNLtzgG8TUvsL46OW5D136wCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-G-FlcuWUVno/ZCnZyGkc4HI/AAAAAAAA9Xs/tApxQ-HY9o0ZqUoisncmBbc7CYXSIFKvACNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-AB2JMPyr-Eg/ZCnZy1BlieI/AAAAAAAA9Xw/cIidbprXjr8Fm5HjjCDpbuFRBhr9zkLegCNcBGAsYHQ/s135/2096-Modeus-Helltaker-Video-Games-Nendoroid-12.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2096/",
+      "fetched_at": "2026-05-16T19:10:33.838Z",
+      "raw_id": "/nendoroid/details/n2096/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.825Z",
+      "raw_id": "Nendoroid/2000-2099/2096.json"
+    }
+  ]
+}

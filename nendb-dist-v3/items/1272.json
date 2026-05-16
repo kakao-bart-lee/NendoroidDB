@@ -1,0 +1,68 @@
+{
+  "num": "1272",
+  "name": {
+    "en": "Nendoroid Tsuyu Asui",
+    "ja": "ねんどろいど 蛙吹梅雨 (ねんどろいど あすいつゆ)",
+    "ko": "아스이 츠유"
+  },
+  "series": {
+    "en": "My Hero Academia",
+    "ja": "僕のヒーローアカデミア",
+    "ko": "나의 히어로 아카데미아",
+    "code": "my-hero-academia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9014,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zn-2556_Hgs/X4NicDhgUZI/AAAAAAABmrM/KH3xNT-dJeo27ZpC7DzS966iBE3ajITxACLcBGAsYHQ/s270/1272-Tsuyu%2BAsui-My%2BHero%2BAcademia-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zn-2556_Hgs/X4NicDhgUZI/AAAAAAABmrM/KH3xNT-dJeo27ZpC7DzS966iBE3ajITxACLcBGAsYHQ/s270/1272-Tsuyu%2BAsui-My%2BHero%2BAcademia-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zR9wdGgfDEk/X4r0izXsT_I/AAAAAAABp_Y/W4-jSjs0-qE_4yFdmIIFJV0rDLoI5SHMwCLcBGAsYHQ/s135/1272-Tsuyu-Asui-My-Hero-Academia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Wvro3K3id_0/X4r0jMWttzI/AAAAAAABp_c/8rkcJQiOT6cilkfJKPNY3TfHYqS9zxNxQCLcBGAsYHQ/s135/1272-Tsuyu-Asui-My-Hero-Academia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HIt10vpJa5s/X4r0jVXk5pI/AAAAAAABp_k/A6clCnZ-T3sLwuaQmGt8nCWw8N7fxNDigCLcBGAsYHQ/s135/1272-Tsuyu-Asui-My-Hero-Academia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dHUpy9-R3GE/X4r0jUlGg-I/AAAAAAABp_g/XA6OhcusJY8ojO_kRWG5qvaSYie4dt7rgCLcBGAsYHQ/s135/1272-Tsuyu-Asui-My-Hero-Academia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--qFzUTbGsbk/X4r0jsHOQqI/AAAAAAABp_o/kc9t6k6zQ_QXsb-z8KNZFaBdh7RNwXXNQCLcBGAsYHQ/s135/1272-Tsuyu-Asui-My-Hero-Academia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1272/",
+      "fetched_at": "2026-05-16T19:10:33.326Z",
+      "raw_id": "/nendoroid/details/n1272/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.626Z",
+      "raw_id": "Nendoroid/1200-1299/1272.json"
+    }
+  ]
+}

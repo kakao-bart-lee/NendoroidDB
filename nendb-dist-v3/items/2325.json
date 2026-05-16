@@ -1,0 +1,64 @@
+{
+  "num": "2325",
+  "name": {
+    "en": "Shiori Fujisaki",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Tokimeki Memorial",
+    "ja": null,
+    "ko": null,
+    "code": "tokimeki-memorial"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gah0vP5CoZE/ZWZftmyJupI/AAAAAAABCdE/IgEIIwtn2VMHxAgUWSv8VyqiRM2macVqwCNcBGAsYHQ/s270/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gah0vP5CoZE/ZWZftmyJupI/AAAAAAABCdE/IgEIIwtn2VMHxAgUWSv8VyqiRM2macVqwCNcBGAsYHQ/s270/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wXlpQDw2RQc/ZWZpZyzm0YI/AAAAAAABCp0/kQZSLdyU1aUly58nihN2kUIQRI7m5NabQCNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-D2vOsqjXYrc/ZWZpaf9MfzI/AAAAAAABCp8/rK4O4EhNBwoTti6yAjRFZwvwOKyho81nwCNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1YTKIzPkFkQ/ZWZpaqD5uGI/AAAAAAABCqA/9CAjjk9RPqIUYOU37frMgX8LCRcmaPZ8QCNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-oyeIEKwxBac/ZWZpa8o-75I/AAAAAAABCqE/Eys_MxGIU2Evhi0EwAM-UvZyzBPMxPfhgCNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GEK0bEcqGoo/ZWZpbMUvxMI/AAAAAAABCqI/4b_W66N9bwg9iuw_jleRxTkB2rOfTmDbQCNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9mtLv1HQMPg/ZWZpbHgF2UI/AAAAAAABCqM/B8F15VbAAwQPW50vhYUSROTjnPvyT1AtACNcBGAsYHQ/s135/2325-Shiori-Fujisaki-Tokimeki-Memorial-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2325/",
+      "fetched_at": "2026-05-16T19:10:33.987Z",
+      "raw_id": "/nendoroid/details/n2325/"
+    }
+  ]
+}

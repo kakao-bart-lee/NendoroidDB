@@ -1,0 +1,70 @@
+{
+  "num": "2162",
+  "name": {
+    "en": "Nendoroid Lu Guang",
+    "ja": "ねんどろいど 陸光(ヒカル) (ねんどろいど るーぐあん(ひかる))",
+    "ko": "루광"
+  },
+  "series": {
+    "en": "LINK CLICK",
+    "ja": "時光代理人",
+    "ko": "시광대리인",
+    "code": "link-click"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14640,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YG1bgIGe5m8/ZM6ytMACXII/AAAAAAABA8k/sx-3MtxXWBIiqDOzb_yFkECMLGLCttJZQCNcBGAsYHQ/s270/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YG1bgIGe5m8/ZM6ytMACXII/AAAAAAABA8k/sx-3MtxXWBIiqDOzb_yFkECMLGLCttJZQCNcBGAsYHQ/s270/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5__f3L-4Fow/ZNAV7RJphmI/AAAAAAABBBM/ADnKPBMux7oO2HPsuBwdf88HdRJfJ5K-QCNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bcqKtpAJZVg/ZNAV7q5ScWI/AAAAAAABBBQ/HFXsvEuT--chkT2Rl67W0r0F-oCU5e-pwCNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Xnnp7Z-MbSU/ZNAV75_ky3I/AAAAAAABBBU/R1PbH6TPNPsc5afagW_i6EOWh-mnuHGRACNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6qJPPEEGyCc/ZNAV8DlkISI/AAAAAAABBBY/h5hUj1GYzQoK4SX9L-UVp9V9w6pqVlDdwCNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-4tKSAjHXARk/ZNAV8VXuBKI/AAAAAAABBBc/EZ9TQhy2a4sbfcevsF1QNWhCv75APbrjACNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-IXscrKUMd1I/ZNAV8rafJfI/AAAAAAABBBg/OYYbLI2MFtAjtht5KYFszPOiZh8k0cCvwCNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-PCAyUKDh368/ZNAV7DzFL-I/AAAAAAABBBI/hcj292nszL4G6vMigXkKlY_4vqsNO85iwCNcBGAsYHQ/s135/2162-Lu-Guang-Link-Click-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2162/",
+      "fetched_at": "2026-05-16T19:10:33.875Z",
+      "raw_id": "/nendoroid/details/n2162/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.842Z",
+      "raw_id": "Nendoroid/2100-2199/2162.json"
+    }
+  ]
+}

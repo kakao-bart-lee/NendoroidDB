@@ -1,0 +1,69 @@
+{
+  "num": "0061",
+  "name": {
+    "en": "Nendoroid Louise (ねんどろいど るいず)",
+    "ja": "ねんどろいど　ルイズ (ねんどろいど るいず)",
+    "ko": "루이즈"
+  },
+  "series": {
+    "en": "The Familiar of Zero F",
+    "ja": "ゼロの使い魔F",
+    "ko": "제로의 사역마",
+    "code": "the-familiar-of-zero-f"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2261,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QJHEEOjtbSU/X4MSA5sLbbI/AAAAAAAApaY/5gofbl7Gsv8p4atncG7p2Z4kWY88VgDWQCLcBGAsYHQ/s270/061-Louis-Zero-No-Tsukaima-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QJHEEOjtbSU/X4MSA5sLbbI/AAAAAAAApaY/5gofbl7Gsv8p4atncG7p2Z4kWY88VgDWQCLcBGAsYHQ/s270/061-Louis-Zero-No-Tsukaima-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-khONsAKAFy4/X4GwrvIpdsI/AAAAAAAApHg/DU5BPMYS2FspzemQsJmxK__UaxnzXqmXgCLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iKrLfalEDjU/X4Gwr9LF25I/AAAAAAAApHk/mzJgBd8UAiwiQMIl6ed9xCby7B4SMwfCQCLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wfDU2K280oo/X4Gwr-JSOdI/AAAAAAAApHo/J3Z44LLAado2AR8EtEX6DuJ_UhPFomMowCLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KR62x-ga3JA/X4GwsEcPkBI/AAAAAAAApHs/wiK71FirxKodQpgZ7Rio6WvTB2wFdq1_gCLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vkOj0XyTjyY/X4Gwscu6lOI/AAAAAAAApHw/y2WgT4nI9GgzpohKedtvXIe0A-hhgRYJgCLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1zszqDWUYpE/X4GwsQPac0I/AAAAAAAApH0/iIFe0Eopm7k5N3hh-zTHs3x26veBXpOmACLcBGAsYHQ/s135/061-Louis-Zero-no-Tsukaima-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n061/",
+      "fetched_at": "2026-05-16T19:10:33.104Z",
+      "raw_id": "/nendoroid/details/n061/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.278Z",
+      "raw_id": "Nendoroid/0000-0099/061.json"
+    }
+  ]
+}

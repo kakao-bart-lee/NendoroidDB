@@ -1,0 +1,68 @@
+{
+  "num": "1675",
+  "name": {
+    "en": "Nendoroid Taskmaster: Black Widow Ver.",
+    "ja": "ねんどろいど タスクマスター Black Widow Ver. (ねんどろいど たすくますたー ぶらっく うぃどう Ver.)",
+    "ko": "태스크마스터 블랙위도우 Ver."
+  },
+  "series": {
+    "en": "Black Widow",
+    "ja": "ブラックウィドウ",
+    "ko": "블랙위도우",
+    "code": "black-widow"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11457,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vbsg7DzuTRk/YS6Js5x0tGI/AAAAAAAAz88/_L7OGS2aa5k_nE2wQnnqAY-J7Cmt7S0UgCLcBGAsYHQ/s270/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vbsg7DzuTRk/YS6Js5x0tGI/AAAAAAAAz88/_L7OGS2aa5k_nE2wQnnqAY-J7Cmt7S0UgCLcBGAsYHQ/s270/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--jmz4pyYJGg/YS6MbqWiXeI/AAAAAAAA0Eo/o2U7XCsVkeIPsigMklkPtCde2gsRxUMUwCLcBGAsYHQ/s135/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6ZyF10eQogk/YS6MbxcYqJI/AAAAAAAA0Es/pKHeq0axUjQubEnFUxg7cUmGOnlV47Q2QCLcBGAsYHQ/s135/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3aij0K3ZRSk/YS6Mb8nRp-I/AAAAAAAA0Ew/dJxL69NMXsscdY4QXh42ATjz_WNI6n7rwCLcBGAsYHQ/s135/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dNTzG5mWqDc/YS6McNeTamI/AAAAAAAA0E0/l4T7yLfhEbgASTmqmomnv03zIW-4Ho8kQCLcBGAsYHQ/s135/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xbYB-jtTx7s/YS6McRorIfI/AAAAAAAA0E4/WRISSY8rDHoxIzzFuNFDO6CjGwyg0BtzACLcBGAsYHQ/s135/1675-Taskmaster-Black-Widow-Marvel-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1675/",
+      "fetched_at": "2026-05-16T19:10:33.576Z",
+      "raw_id": "/nendoroid/details/n1675/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.724Z",
+      "raw_id": "Nendoroid/1600-1699/1675.json"
+    }
+  ]
+}

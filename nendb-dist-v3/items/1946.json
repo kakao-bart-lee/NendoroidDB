@@ -1,0 +1,70 @@
+{
+  "num": "1946",
+  "name": {
+    "en": "Nendoroid Hua Cheng",
+    "ja": "ねんどろいど 花城 (ねんどろいど ほわ・ちょん)",
+    "ko": "화성"
+  },
+  "series": {
+    "en": "Heaven Official's Blessing",
+    "ja": "天官賜福",
+    "ko": "천관사복",
+    "code": "heaven-official-s-blessing"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13156,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Z3sOMJ69O2o/Yw_Wg0MK0GI/AAAAAAAA6cI/czpMTPY8LAAeKmIK09NLR6Ub1WHzIBtTgCNcBGAsYHQ/s270/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Z3sOMJ69O2o/Yw_Wg0MK0GI/AAAAAAAA6cI/czpMTPY8LAAeKmIK09NLR6Ub1WHzIBtTgCNcBGAsYHQ/s270/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c8khX1nn0fE/YxEYsHuR39I/AAAAAAAA60w/Eh1VXAEBbB093KIOHzydeNIaO9Tmfb9AgCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5XA1VDh3ufA/YxEYsQoqfHI/AAAAAAAA600/k3a9qBTzuEU680_8C5VvPlcRAI4v5xjVgCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xTE_iOkMZ_s/YxEYsY6pR3I/AAAAAAAA604/cufePCSg4xkOaEoqWDHiodAQ3S9XInJtQCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-durbJOmryjY/YxEYsgDy-QI/AAAAAAAA608/1up00SmxoMsCNnVNkhWfY-gYFEoOq0XdwCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-V_fvtO_ZH-Y/YxEYsyn7YgI/AAAAAAAA61A/kP6sMNkrZRoljYNBurQ-zgFwT6Gad_LzQCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WNwJKGu90xA/YxEYtHPEYDI/AAAAAAAA61E/_HqGcY93PK0JcjMBnrT0HJsRN0aNgahcQCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-sKmyXdnmYS8/YxEYtbXr8wI/AAAAAAAA61I/k5Z7btCCr_gFhihe8JFwnDnIqMbTLScRQCNcBGAsYHQ/s135/1946-Hua-Cheng-Heaven-Officials-Blessing-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1946/",
+      "fetched_at": "2026-05-16T19:10:33.745Z",
+      "raw_id": "/nendoroid/details/n1946/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.788Z",
+      "raw_id": "Nendoroid/1900-1999/1946.json"
+    }
+  ]
+}

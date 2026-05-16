@@ -1,0 +1,68 @@
+{
+  "num": "0434",
+  "name": {
+    "en": "Nendoroid Saori Takebe",
+    "ja": "ねんどろいど 武部沙織 (ねんどろいど たけべさおり)",
+    "ko": "타케베 사오리"
+  },
+  "series": {
+    "en": "GIRLS und PANZER",
+    "ja": "ガールズ＆パンツァー",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kN9Le0mISMA/X4NNv5TN9BI/AAAAAAABloo/Pl6Cs13valwde1DTdTQLHTKpAJfWR0DlgCLcBGAsYHQ/s270/434-Saori-Takebe-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kN9Le0mISMA/X4NNv5TN9BI/AAAAAAABloo/Pl6Cs13valwde1DTdTQLHTKpAJfWR0DlgCLcBGAsYHQ/s270/434-Saori-Takebe-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7N73QYm_ktA/X4dd-Lu1AVI/AAAAAAAArhM/qABNe_RFGjkzfDcPlUJXvP3Sx7EELDl2wCLcBGAsYHQ/s135/434-Saori-Takebe-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j3R6kxRx-8I/X4dd-rB42vI/AAAAAAAArhQ/ku9g5xfSGbg738oe8W6xuV8gmtGga0LQQCLcBGAsYHQ/s135/434-Saori-Takebe-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-z-dE2fS0yHY/X4dd_CEtuRI/AAAAAAAArhU/au-H5xNOVJcfAOCEAQdq2NA1f11VCA0qACLcBGAsYHQ/s135/434-Saori-Takebe-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_KH3rPfegkA/X4dd_gL4UKI/AAAAAAAArhY/zvV9zsLfzo4gwkEVqpZVqxPw-ycNJyPjACLcBGAsYHQ/s135/434-Saori-Takebe-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fzwuH2QlK-I/X4deAEt9WfI/AAAAAAAArhc/V0EacSL-yt8sac5so8NgFiS3XDZtewTzACLcBGAsYHQ/s135/434-Saori-Takebe-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n434/",
+      "fetched_at": "2026-05-16T19:10:34.527Z",
+      "raw_id": "/nendoroid/details/n434/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.378Z",
+      "raw_id": "Nendoroid/0400-0499/434.json"
+    }
+  ]
+}

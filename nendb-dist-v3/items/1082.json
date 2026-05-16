@@ -1,0 +1,95 @@
+{
+  "num": "1082",
+  "name": {
+    "en": "Nendoroid Eiji Okumura",
+    "ja": "ねんどろいど 奥村英二 (ねんどろいど おくむらえいじ)",
+    "ko": "오쿠무라 에이지"
+  },
+  "series": {
+    "en": "BANANA FISH",
+    "ja": "BANANA FISH",
+    "ko": "바나나 피쉬",
+    "code": "banana-fish"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4571697188396",
+  "gsc_product_id": "50350",
+  "gsc_product_num": 8054,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/50350",
+    "ja": "https://www.goodsmile.com/ja/product/50350"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50350/nVX7WQTRgSb6LfAaUG28cp3yF5H9jkrE.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lbAYmcT2StM/X4Nf5cf1-LI/AAAAAAABmWo/zGwfZN_KAZESaqmjGd0uMK9tnOmYd7mSQCLcBGAsYHQ/s270/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XopTulWVa_0/X4rtLXw2FtI/AAAAAAABoxU/kkLcqyrldvk3iGKuh719lKSqZHyjdIEmwCLcBGAsYHQ/s135/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-_hyI88qYKY8/X4rtLhg4ehI/AAAAAAABoxY/TB2Ifard6yQ7m3hz1W9jlwP2Pux-tVsEgCLcBGAsYHQ/s135/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IFxT80WW-Ek/X4rtMCOQ3AI/AAAAAAABoxc/VbxjZjbi4fMjK3qYzCQOQAZdbYDlQxekACLcBGAsYHQ/s135/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-o1jKwI3POUs/X4rtMp7D7CI/AAAAAAABoxg/XqSeK6Wx7Uga5GwAwQXS_J6iNbwL6XmpQCLcBGAsYHQ/s135/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mMDOZjNKEzc/X4rtMgOwbtI/AAAAAAABoxk/FgNMwqCv-pstsVx1siJiBvQlqpZIxh16QCLcBGAsYHQ/s135/1082-Eiji-Okumura-BANANA-FISH-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50350/2fkb50Sa31rz4MQedvDGmsgRxuVKACnq.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/50350/nVX7WQTRgSb6LfAaUG28cp3yF5H9jkrE.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/50350",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:57:22.284Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/50350",
+      "fetched_at": "2026-05-16T11:57:22.284Z",
+      "raw_id": "50350"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/50350",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "50350"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1082/",
+      "fetched_at": "2026-05-16T19:10:33.208Z",
+      "raw_id": "/nendoroid/details/n1082/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.580Z",
+      "raw_id": "Nendoroid/1000-1099/1082.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0572",
+  "name": {
+    "en": "Nendoroid Maki Nishikino: Training Outfit Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)",
+    "ja": "ねんどろいど 西木野真姫 練習着Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)",
+    "ko": "니시키노 마키 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5269,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SEYGNBQBMnk/X4NOnFA55RI/AAAAAAABlyA/CQT6q6MO2MsGBLwFzFxdNyxSarWSi3VawCLcBGAsYHQ/s270/572-Maki-Nishikino-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SEYGNBQBMnk/X4NOnFA55RI/AAAAAAABlyA/CQT6q6MO2MsGBLwFzFxdNyxSarWSi3VawCLcBGAsYHQ/s270/572-Maki-Nishikino-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3bjIXpcIAjE/X4itKAvV2PI/AAAAAAAAsTo/WL7LqBRGtDUGRgFGCY6hQsBssc2qRcZRgCLcBGAsYHQ/s135/572-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gPTYLpGmhAo/X4itKXzLUcI/AAAAAAAAsTs/Ar_tTfJ-LFMAIlJA0dXgAsuteyh-Aei0gCLcBGAsYHQ/s135/572-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OAqCDChES68/X4itKhbt6fI/AAAAAAAAsTw/fWd_0QpufD48QLGnNSmvDT4CJtqu4tZpACLcBGAsYHQ/s135/572-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fEzwgyqQ4qw/X4itK7gyhRI/AAAAAAAAsT0/U-BT26GBewMHcvbMsobKSw2nUBd9DhNYQCLcBGAsYHQ/s135/572-Maki-Nishikino-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n572/",
+      "fetched_at": "2026-05-16T19:10:34.615Z",
+      "raw_id": "/nendoroid/details/n572/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.449Z",
+      "raw_id": "Nendoroid/0500-0599/572.json"
+    }
+  ]
+}

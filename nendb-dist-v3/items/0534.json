@@ -1,0 +1,68 @@
+{
+  "num": "0534",
+  "name": {
+    "en": "Nendoroid Kazuki Kazami (ねんどろいど かざみかずき)",
+    "ja": "ねんどろいど 風見一姫 (ねんどろいど かざみかずき)",
+    "ko": "카자미 카즈키"
+  },
+  "series": {
+    "en": "The Fruit of Grisaia",
+    "ja": "グリザイアの果実",
+    "ko": "그리자이아의 과실",
+    "code": "the-fruit-of-grisaia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5079,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lALEKjCekB8/X4NOdBHSadI/AAAAAAABlvg/ZT06-736JUE-unG3IqjQSf5EJ8YpYVXegCLcBGAsYHQ/s270/534-Kazami-Kazuki-Grisaia-no-Kajitsu-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lALEKjCekB8/X4NOdBHSadI/AAAAAAABlvg/ZT06-736JUE-unG3IqjQSf5EJ8YpYVXegCLcBGAsYHQ/s270/534-Kazami-Kazuki-Grisaia-no-Kajitsu-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZFjPtajRinQ/X4isXSXDB7I/AAAAAAAAsGM/SL5pWc56X2ol4gPFFPq7j99RwsO_T48xACLcBGAsYHQ/s135/534-Kazuki-Kazami-The-Fruit-of-Grisaia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-I8tPVcMdguI/X4isXuP9jPI/AAAAAAAAsGQ/gnt5cmlHi-Aps6ntzwE7qn7C1S-j3A68gCLcBGAsYHQ/s135/534-Kazuki-Kazami-The-Fruit-of-Grisaia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bibrwzvFP3I/X4isX2QHn4I/AAAAAAAAsGU/ai4sf0_sNc8N8zZfkabnO2S4gTnBNtjNQCLcBGAsYHQ/s135/534-Kazuki-Kazami-The-Fruit-of-Grisaia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-V7Cjn3MuCaE/X4isYaFjjmI/AAAAAAAAsGY/mtXNZjF6pZkgnTGSztnrzqMKJZheRdR0wCLcBGAsYHQ/s135/534-Kazuki-Kazami-The-Fruit-of-Grisaia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-W3R_P9Mlk2E/X4isYvb9w7I/AAAAAAAAsGc/sA-5I2E6MeIb1Y6TDqFeOejKZxqgG5fXQCLcBGAsYHQ/s135/534-Kazuki-Kazami-The-Fruit-of-Grisaia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n534/",
+      "fetched_at": "2026-05-16T19:10:34.583Z",
+      "raw_id": "/nendoroid/details/n534/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.432Z",
+      "raw_id": "Nendoroid/0500-0599/534.json"
+    }
+  ]
+}

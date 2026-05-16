@@ -1,0 +1,70 @@
+{
+  "num": "1321",
+  "name": {
+    "en": "Nendoroid Sandalphon",
+    "ja": "ねんどろいど サンダルフォン (ねんどろいど さんだるふぉん)",
+    "ko": "샌들폰"
+  },
+  "series": {
+    "en": "Granblue Fantasy",
+    "ja": "グランブルーファンタジー",
+    "ko": "그랑블루 판타지",
+    "code": "granblue-fantasy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9357,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LkFEtRJuTv0/X4Njne2gfAI/AAAAAAABm0I/Jta1C2oI21YWTEjug_vYmDdZx_iGOg5sQCLcBGAsYHQ/s270/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LkFEtRJuTv0/X4Njne2gfAI/AAAAAAABm0I/Jta1C2oI21YWTEjug_vYmDdZx_iGOg5sQCLcBGAsYHQ/s270/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8vu6hZh_gnI/X4s82h8j7oI/AAAAAAABqW0/XIIzmi_7n0A4VmMJ0SiYp5YWVaHSJNb8QCLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4bLZBblZ0KA/X4s825uR8pI/AAAAAAABqW4/bnOaiksf3qgpwpgvAQdqLl0esd9NAHfEwCLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DURITzUyJ-c/X4s83IQX-MI/AAAAAAABqW8/2Cjmc-wgfLctSP95r6a98xuNw2yDMyCFgCLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2LyKvNB4eOs/X4s83Iv7geI/AAAAAAABqXA/0LAMb-EGtgEi3oitdgGOzCf1XG7r3SsZACLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OvsrxdHQC1E/X4s83reBZ3I/AAAAAAABqXE/586Z2HSHThU7UBzKAqXJirL2w3A2g3rCACLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vEqR-WnOalY/X4s83495TaI/AAAAAAABqXI/e1_J5ooa4GcLxiQ0rqh8OTGGhMBPdyCXQCLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-WbBI_rMnj6s/X4s83-i4WSI/AAAAAAABqXM/2J36DwdzWPYj9nTApE2mFsaFiK0-JEx6QCLcBGAsYHQ/s135/1321-Sandalphon-Granblue-Fantasy-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1321/",
+      "fetched_at": "2026-05-16T19:10:33.356Z",
+      "raw_id": "/nendoroid/details/n1321/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.638Z",
+      "raw_id": "Nendoroid/1300-1399/1321.json"
+    }
+  ]
+}

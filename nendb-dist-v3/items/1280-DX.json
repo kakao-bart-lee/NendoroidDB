@@ -1,0 +1,55 @@
+{
+  "num": "1280-DX",
+  "name": {
+    "en": "Nendoroid Spider-Man: Far From Home Ver. DX",
+    "ja": "ねんどろいど スパイダーマン ファー・フロム・ホーム Ver. DX (ねんどろいど すぱいだーまん ふぁー・ふろむ・ほーむ Ver. DX)",
+    "ko": "스파이더맨 DX"
+  },
+  "series": {
+    "en": "Spider-Man: Far From Home",
+    "ja": "スパイダーマン：ファー・フロム・ホーム",
+    "ko": "스파이더맨 파 프롬 홈",
+    "code": "spider-man-far-from-home"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9213,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200127/9213/67234/large/457126834421c2a024f5db0a14efb233.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.627Z",
+      "raw_id": "Nendoroid/1200-1299/1280-DX.json"
+    }
+  ]
+}

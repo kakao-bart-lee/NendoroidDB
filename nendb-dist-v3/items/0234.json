@@ -1,0 +1,67 @@
+{
+  "num": "0234",
+  "name": {
+    "en": "Nendoroid Jack Frost",
+    "ja": "ねんどろいど ジャックフロスト (ねんどろいど じゃっくふろすと)",
+    "ko": "잭 프로스트"
+  },
+  "series": {
+    "en": "Shin Megami Tensei",
+    "ja": "真・女神転生",
+    "ko": "진 여신전생",
+    "code": "shin-megami-tensei"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3489,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wEFOhhFnO5I/X4NLNNsr0tI/AAAAAAABlXU/gKFKJ9hINBErqxMQzSAqqmTnp0ZUJ1gbgCLcBGAsYHQ/s270/234-Jack-Frost-Shin-Megami-Tensei-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wEFOhhFnO5I/X4NLNNsr0tI/AAAAAAABlXU/gKFKJ9hINBErqxMQzSAqqmTnp0ZUJ1gbgCLcBGAsYHQ/s270/234-Jack-Frost-Shin-Megami-Tensei-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YoctXwpzEBk/X4dXZ5fRDAI/AAAAAAAAqcg/xqFQwCHoO1kCEHxD5v5XWl10Qg7QufyKgCLcBGAsYHQ/s135/234-Jack-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ObYhbtrS9vY/X4dXaOOg1qI/AAAAAAAAqck/bPi4MYgBSggiedr4nPWA6EP2YiK-FeHvgCLcBGAsYHQ/s135/234-Jack-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dQEw5hNEMuQ/X4dXauS5SsI/AAAAAAAAqco/7VROM5aMOCYAkr0KQs6Lh2kyajJkB3LrgCLcBGAsYHQ/s135/234-Jack-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PaQHdyCwLvA/X4dXa0wFRTI/AAAAAAAAqcs/RoX3Ye3KW4YVpdrrqPL27D7_jiVYGaKJwCLcBGAsYHQ/s135/234-Jack-Frost-Shin-Megami-Tensei-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n234/",
+      "fetched_at": "2026-05-16T19:10:34.003Z",
+      "raw_id": "/nendoroid/details/n234/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.329Z",
+      "raw_id": "Nendoroid/0200-0299/234.json"
+    }
+  ]
+}

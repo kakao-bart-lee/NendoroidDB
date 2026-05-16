@@ -1,0 +1,69 @@
+{
+  "num": "2999",
+  "name": {
+    "en": "August",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Fluffy Land",
+    "ja": null,
+    "ko": null,
+    "code": "fluffy-land"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2027",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0qkXn_WH89Yb_ktzTif5dnINYwTkuO2tBRkFVjMI6HSfIxzL-zlbA-412KaAYASdZApE6Y_Ehv8JxbrB5vt11zAndz0ytL7kVl7pW_64NvBIyFIMz5KyVPx1488CW5Sain3AMbdgbkeiRsq6VnGziKlaacuRkQAVttz7T1VZOmYsWJp8Sqndl7cO8w_d/s270/2999-August-Fluffy-Land-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0qkXn_WH89Yb_ktzTif5dnINYwTkuO2tBRkFVjMI6HSfIxzL-zlbA-412KaAYASdZApE6Y_Ehv8JxbrB5vt11zAndz0ytL7kVl7pW_64NvBIyFIMz5KyVPx1488CW5Sain3AMbdgbkeiRsq6VnGziKlaacuRkQAVttz7T1VZOmYsWJp8Sqndl7cO8w_d/s270/2999-August-Fluffy-Land-Others-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh98UQaZYCaZW1HpdKT2NnEySeL23Zvvvke205jA9u2pbNGbCAj10ZHkhVPpG_zBA0XA-7JU24PfrDcD54F_pmg7Zdcurbez6b19ckO2o-Ka61Z80U9tngYEmR9E174ZBc47po_T_5RDbdr61Jbrz4uVZG4g-NaiSKMMZar9j376CCsg7qaexJ-pnJovh/s135/2999-August-Fluffy-Land-Others-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-pMJRpFiAcDs7YerheWgB76-BgLXuiw_ZJ3cRaR31z65eYcipOa7BxoGyt9doVw91Ysk8tEWUtXg1ba2oYYYKUjtD6FJRMdrIHztdixuKLhWXNlLWik-0aLM0NFI8uXa0a3g_vbmiLJPcHiFzMPwSfBXgu9WyPvdqkq4PYpeB01xAjLQmDOddhyphenhyphencXRtO/s135/2999-August-Fluffy-Land-Others-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8RqX4OBPx4zW8xeQgBqVtqth8nU6zTlNTN6eMMsBtsqZltZZIZOVpGRpAZ0a7yi_Tr1ba9ukUvJVuuGPf1LKGl1mDdMsiQEUO-U_TJqjqJuEBMsohcLsgnMziARDM43Qg4zS7X_A547XhZ2Hw-RRLDVSqaHyTYzFAD_c29EV5nZwV6FY18SfJ1wvWOYMl/s135/2999-August-Fluffy-Land-Others-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXuP9fqpt5ALshm4s2wlFd2GTlEl-I3OMtQzcIFoFD7-B6scCqSpQNA4Jt6fXQl3Rw_aW_7gv5vtcR3kXwoP2MfFPj4xwLwF0WIE-62c9zjhf-10EWcF0GPblUpWyrnrnJOw-pCJw2hdffcnv6sHsjeOs8mhN4E6o_A3fX99DKTuinhyphenhyphenSHj1UGASS7tbkD/s135/2999-August-Fluffy-Land-Others-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFxAELaPNmB3VjB05h5HWy1_Qc3rbjcE-rc-8aeXjSZ-122MhpodKsOmyJMrawI0fFqJVf2xozFJ3owSHJqdaaEaz82GY3zHijIyLLh6thytgezhrrmk-B1JrTSuU4Sx6g0VAXeWVwE0LIByZ12b9zbaGLibq58_PxXpZu4szFQ4qMwjepXHh43XRxqKaZ/s135/2999-August-Fluffy-Land-Others-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8iJL7AKFkZgjOarqoXj8R6T_3xhTd4lYPEYsodyFI7MwvbSNg3QMuWrU4vSLSN-D3Nq7IYA7So-ejVCYgl4DcFMWGG8KqIibXUYKCZGiVF0CNHXNT1G71sZkJ9gql854zWGICuXe_nj-Xq8fbGLHxPEWCigg6LnX0JcHbFh7WYbcQMzpxKLl998a8_Wtx/s135/2999-August-Fluffy-Land-Others-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieU2Bs35Pwn_B1YPm3kw4mEiUkEwcdg94pp_di7IzP6m3NYbNbE1fXiVgEjN-WsttGZaIcos5MjftOX7Scn-JuGUR3K9PLW01haHr6vMwMM4FfYfmn3Zx0ale4VBDcFPGNZ-aJ0azisi3DhezI4lh1vEgkYWAyoV-C_mm53CrAHiS2xwNTxsJKfrfm8cbe/s135/2999-August-Fluffy-Land-Others-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUPk1ebjLFZTypOdSCnh1XvRH_3ke2diL2pUfM51pVLIeSfO6Dryj-T1T6EatAiCmKrAt7yqIpO7DYC-vV71jxDeGAFIpf_-Pk72g8jRotJGssfnbzfefzRSCOKycmAE4tYfpTQqZkgjn3NZTOAgqVXWD5kWZNOF53Z22G81N0WBUVx24WXq2aHDC-Ox__/s135/2999-August-Fluffy-Land-Others-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvSJ4AGGfBSRhcfgyZAcNfHaxRPtYJV3leSO4YG2xGt4EtmHV-vBG4IBEARFKSrqbSQT44Iuy7Q36kkWF5RNC1MNbIU915dbHh4UVcPayHhRdNLayJJIMMa1jO_t3a8BjaLfft9L0VCPqgkwCX21MlEP0Fj8mghtIeYG6Lc8S9dkK_Ht-llgpw4YwMQCs/s135/2999-August-Fluffy-Land-Others-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKU0-Lz-alpwWwZAr4daTghuMhZC-kTQ6PH7awSnH71MjE1zC-zKXfteUVd955LKX6ReMYL2f4i8Uu9G_bgieYagjnmczRAfRrS3FnBNj6DWb_FD5o-X-xzHs-iy7okCw0Z3efoWnBce_7IRscuSBEFXif5rWaGR4mUKx3aEMiXKDwHfQ3xIssPGSG_AXn/s135/2999-August-Fluffy-Land-Others-Nendoroid-12.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3v6t6qNyTZcSyrTcljhjNit7zpWPY7eGo0o2G-I90YtCyDrtPmbOD_T8N58NdboL8EshGV4PmrQQ_1Tz9mAMn7lMFEvXn1geAoeYpNFiRHOrk5PehjF2uVXsYa0EsGd9mk23xp3gjL066DZnWkb1WWdsPiIMtT9pFuY3s3eJhDGah8ealppe064SzAeu6/s135/2999-August-Fluffy-Land-Others-Nendoroid-13.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2999/",
+      "fetched_at": "2026-05-16T19:10:34.423Z",
+      "raw_id": "/nendoroid/details/n2999/"
+    }
+  ]
+}

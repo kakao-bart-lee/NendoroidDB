@@ -1,0 +1,69 @@
+{
+  "num": "1033",
+  "name": {
+    "en": "Nendoroid Noriaki Kakyoin",
+    "ja": "ねんどろいど 花京院典明 (ねんどろいど かきょういんのりあき)",
+    "ko": "카쿄인 노리아키"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stardust-crusaders"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7815,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OmmZpdSDtyg/X4NfoR4HwLI/AAAAAAABmTM/52RGi_3cl4UDYJYkq7YYFBMgl6bp9L8ewCLcBGAsYHQ/s270/1033-Noriaki-Kakyoin-JoJos-Bizzare-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OmmZpdSDtyg/X4NfoR4HwLI/AAAAAAABmTM/52RGi_3cl4UDYJYkq7YYFBMgl6bp9L8ewCLcBGAsYHQ/s270/1033-Noriaki-Kakyoin-JoJos-Bizzare-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hTXKetp_pws/X4rrzPFzDLI/AAAAAAABod0/e4b7HD1I_io04qkbo1VM8iP8FkAJHTTUwCLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d_QG9G0Sf0Q/X4rrzTHzQEI/AAAAAAABod4/1_4S-vdIL98RA-SZ3vGUQRxYZuGvdpz5ACLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xoJLl-UrAAM/X4rrzoYV8OI/AAAAAAABod8/ZlT4VR9LAYgCWmXzU0pucfVjGw7PudpSwCLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6MoZpAOpXcA/X4rrz5IMCXI/AAAAAAABoeA/vQ16b-7wNPE-YA9q8WlmIMVTLzcnY2KIQCLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UXLrHEKV6FA/X4rr0N20u9I/AAAAAAABoeE/kE56AkEzru4H2g7Rhw1q4nZpQ-Fd0szpACLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-R1SUGXBVc6E/X4rr0U2hOPI/AAAAAAABoeI/h9ed6pCs3W8JmkIoc6tW1dBVkcAycGJ1gCLcBGAsYHQ/s135/1033-Noriaki-Kakyoin-Jojos-Bizarre-Adventure-Stardust-Crusaders-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1033/",
+      "fetched_at": "2026-05-16T19:10:33.158Z",
+      "raw_id": "/nendoroid/details/n1033/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.569Z",
+      "raw_id": "Nendoroid/1000-1099/1033.json"
+    }
+  ]
+}

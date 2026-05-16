@@ -1,0 +1,71 @@
+{
+  "num": "1528",
+  "name": {
+    "en": "Nendoroid Satoru Gojo",
+    "ja": "ねんどろいど 五条悟 (ねんどろいど ごじょうさとる)",
+    "ko": "고죠 사토루"
+  },
+  "series": {
+    "en": "Jujutsu Kaisen",
+    "ja": "呪術廻戦",
+    "ko": "주술회전",
+    "code": "jujutsu-kaisen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10491,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-k43nrhbqnh8/X9p0t4HFgTI/AAAAAAAAu_w/AoIaXYsNiWcjIX6dJhxSNgZqDjR-hv2FACLcBGAsYHQ/s270/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-k43nrhbqnh8/X9p0t4HFgTI/AAAAAAAAu_w/AoIaXYsNiWcjIX6dJhxSNgZqDjR-hv2FACLcBGAsYHQ/s270/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-VtMmTT079PE/X9p5GjQJsCI/AAAAAAAAvBw/Oe3FKP_M4hY_2r1YOjbFY7q3g09q7-KNQCLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SKukWJOfw_s/X9p5G8vdR7I/AAAAAAAAvB0/Xp7JzL4bNI0_4LBaG5Gku1dwF4FVx_YVQCLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4nOj3F881y4/X9p5HIC-VOI/AAAAAAAAvB4/0lCeFN8KpXgaDWOd0AH23pZdy4eEjucqACLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yamP3JM09UY/X9p5HcVdKaI/AAAAAAAAvB8/dAhx6RvPAFIeMx1eS4DJuj0evCzf5hgRQCLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-F_6ymzgVAws/X9p5Hkbh33I/AAAAAAAAvCA/BGPyHxbm5aw85lABFsblLt0TuTpj5rchACLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BpsPJJXveNU/X9p5HyGIO-I/AAAAAAAAvCE/oXB-Z7dTtWEdOjAIaLhMJoy1G_FyZATEACLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-mtYOpxgwuRE/X9p5IO_Kf3I/AAAAAAAAvCI/VHfLwFuR_sYJ2ZE4PZ26fCw-VzC_fLFsQCLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/--9swDaA24wU/X9p5GWAmFtI/AAAAAAAAvBs/z-FkGDi2V64HZx_gquEcIZDGa_LDl5q5ACLcBGAsYHQ/s135/1528-Satoru-Gojo-Jujutsu-Kaisen-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1528/",
+      "fetched_at": "2026-05-16T19:10:33.484Z",
+      "raw_id": "/nendoroid/details/n1528/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.688Z",
+      "raw_id": "Nendoroid/1500-1599/1528.json"
+    }
+  ]
+}

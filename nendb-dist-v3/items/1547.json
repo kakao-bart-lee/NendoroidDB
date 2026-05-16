@@ -1,0 +1,69 @@
+{
+  "num": "1547",
+  "name": {
+    "en": "Nendoroid Dai",
+    "ja": "ねんどろいど ダイ (ねんどろいど だい)",
+    "ko": "타이"
+  },
+  "series": {
+    "en": "Dragon Quest: The Legend of Dai",
+    "ja": "ドラゴンクエスト ダイの大冒険",
+    "ko": "타이의 대모험",
+    "code": "dragon-quest-the-legend-of-dai"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10780,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wcjmMPLW3rA/YFYAbv95Z_I/AAAAAAAAwUY/EmukpsHP-pky6D68ZXFdz-7sCPCeeiElgCLcBGAsYHQ/s270/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wcjmMPLW3rA/YFYAbv95Z_I/AAAAAAAAwUY/EmukpsHP-pky6D68ZXFdz-7sCPCeeiElgCLcBGAsYHQ/s270/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-G6_lHS2KaTc/YFX_ppWJ-xI/AAAAAAAAwN4/BytsZAqThbAVy7Xt3j3h-ktvfArVdeZQgCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ThKhT1U9yvA/YFX_pop803I/AAAAAAAAwN0/AxerewxQedA6qi5-C9m3KT_60KcKbY-6wCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4J72WoD-tnY/YFX_p2kupuI/AAAAAAAAwN8/ZWOPl6Jg39ESsWPVq1L5lU0PArPpQK19gCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-g4I8W3PeyXU/YFX_qcovr0I/AAAAAAAAwOA/ow0ZaZwO2q8M7qD9SFFlaq1B0lJLwJpHgCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nEy0HwX0Oos/YFX_qjxMZDI/AAAAAAAAwOE/mzkLaYNczYgBdlWGyWd3XH9iJAIvFxCJwCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HMaLFURMVw4/YFX_q_uqkwI/AAAAAAAAwOI/rqnM6g-U9w8ErdPP8lv2Iehk2ALfodWWwCLcBGAsYHQ/s135/1547-Dai-Dragon-Quest-The-Legend-of-Dai-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1547/",
+      "fetched_at": "2026-05-16T19:10:33.495Z",
+      "raw_id": "/nendoroid/details/n1547/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.692Z",
+      "raw_id": "Nendoroid/1500-1599/1547.json"
+    }
+  ]
+}

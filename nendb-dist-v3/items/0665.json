@@ -1,0 +1,68 @@
+{
+  "num": "0665",
+  "name": {
+    "en": "Nendoroid Koshi Sugawara",
+    "ja": "ねんどろいど 菅原孝支 (ねんどろいど すがわらこうし)",
+    "ko": "스가와라 코시"
+  },
+  "series": {
+    "en": "Haikyu!! Karasuno High School VS Shiratorizawa Academy",
+    "ja": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "ko": "하이큐!!",
+    "code": "haikyu-karasuno-high-school-vs-shiratorizawa-academy"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5883,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kU0JQLCcbqY/X4NP5Pt9QiI/AAAAAAABl4g/G-qPU9J1JUIU9XCTw0x1NyTm2qpvjHw5QCLcBGAsYHQ/s270/665-Koushi%2BSugawara-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kU0JQLCcbqY/X4NP5Pt9QiI/AAAAAAABl4g/G-qPU9J1JUIU9XCTw0x1NyTm2qpvjHw5QCLcBGAsYHQ/s270/665-Koushi%2BSugawara-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-10-_D_wCwtk/X4i1UQ6pY5I/AAAAAAAAs3Y/L4QLskTOF404N3tTk2C5O0H0NuX9o5GjwCLcBGAsYHQ/s135/665-Koushi-Sugawara-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pr_4vnIv79c/X4i1U4CfesI/AAAAAAAAs3c/9bJbv9vyWN8bfxrHzOpvYcxaO_6zCYRoQCLcBGAsYHQ/s135/665-Koushi-Sugawara-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Scw_5gjTvx8/X4i1VcZ2eHI/AAAAAAAAs3g/eNKeSQ7yFgEIOp7d_ohc01vzOrrGJ4RXgCLcBGAsYHQ/s135/665-Koushi-Sugawara-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YOcM-EXA9y8/X4i1V6pLQ1I/AAAAAAAAs3k/2HUr_2eGh-kowrg9fWffYa5XkJXlxV4yQCLcBGAsYHQ/s135/665-Koushi-Sugawara-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xU2uHiqPPoE/X4i1WQjOzWI/AAAAAAAAs3o/cpk-rbJnKwQU7p5xVnj1FM4ccI6Kkwk2wCLcBGAsYHQ/s135/665-Koushi-Sugawara-Haikyu-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n665/",
+      "fetched_at": "2026-05-16T19:10:34.730Z",
+      "raw_id": "/nendoroid/details/n665/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.478Z",
+      "raw_id": "Nendoroid/0600-0699/665.json"
+    }
+  ]
+}

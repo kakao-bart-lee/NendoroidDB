@@ -1,0 +1,68 @@
+{
+  "num": "0399",
+  "name": {
+    "en": "Nendoroid Saki Miyanaga (ねんどろいど みやながさき)",
+    "ja": "ねんどろいど 宮永咲 (ねんどろいど みやながさき)",
+    "ko": "미야나가 사키"
+  },
+  "series": {
+    "en": "Saki: Zenkoku-hen",
+    "ja": "咲-Saki-全国編",
+    "ko": "사키",
+    "code": "saki-zenkoku-hen"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4225,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SuqOtnV9bVo/X4NNIvxWPYI/AAAAAAABllw/fyVHY-1q2K07QKXOkfZTqqN0-5S3JaN4wCLcBGAsYHQ/s270/399-Saki%2BMiyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SuqOtnV9bVo/X4NNIvxWPYI/AAAAAAABllw/fyVHY-1q2K07QKXOkfZTqqN0-5S3JaN4wCLcBGAsYHQ/s270/399-Saki%2BMiyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fKLZoU3YiWA/X4db0PpAQuI/AAAAAAAArTk/OtQwxhb4nPA0fe5TijNEwU52o-UQqo0mQCLcBGAsYHQ/s135/399-Saki-Miyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-vInm1ezZ1sQ/X4db0Bj4y-I/AAAAAAAArTo/Uh3toDPLbW0h_ws2TVlTc4JkFXaOSvG7QCLcBGAsYHQ/s135/399-Saki-Miyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LzJua6R8o_E/X4db0esY3EI/AAAAAAAArTs/qwqA_YrC_8oEu-Bmooa8N8b5-g20l-nZACLcBGAsYHQ/s135/399-Saki-Miyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0J8c3zM61H8/X4db0RXGssI/AAAAAAAArTw/JPTZNlY46JAzvl_6ybOeYghHubYSDQ00wCLcBGAsYHQ/s135/399-Saki-Miyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-goA3mUh0k7c/X4db0qMKV_I/AAAAAAAArT0/97ipwqspcsQOht0aZiOpt4uwVYRtZ3u-QCLcBGAsYHQ/s135/399-Saki-Miyanaga-Saki-Zengokuhen-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n399/",
+      "fetched_at": "2026-05-16T19:10:34.506Z",
+      "raw_id": "/nendoroid/details/n399/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.370Z",
+      "raw_id": "Nendoroid/0300-0399/399.json"
+    }
+  ]
+}

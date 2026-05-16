@@ -1,0 +1,68 @@
+{
+  "num": "1992",
+  "name": {
+    "en": "Nendoroid The Doll",
+    "ja": "ねんどろいど 人形 (ねんどろいど にんぎょう)",
+    "ko": "인형"
+  },
+  "series": {
+    "en": "Bloodborne",
+    "ja": "Bloodborne",
+    "ko": "블러드본",
+    "code": "bloodborne"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13478,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VGrlxPqYA8A/Y45wUYnGDlI/AAAAAAAA7r8/o4EHNBCKgXYVYRdlWP8hxPq89kdd_qXQQCNcBGAsYHQ/s270/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VGrlxPqYA8A/Y45wUYnGDlI/AAAAAAAA7r8/o4EHNBCKgXYVYRdlWP8hxPq89kdd_qXQQCNcBGAsYHQ/s270/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Pw_0bwnXHts/Y451qmYD_oI/AAAAAAAA724/68Tcd1lQ4nc766mnk38w62-8BpcA5gCggCNcBGAsYHQ/s135/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LgaN5Of-swM/Y451q_9lDyI/AAAAAAAA728/7kad-WCoGpUCNY_Bp9HFsYdXcteKA9S8ACNcBGAsYHQ/s135/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8I7kg3gX1sk/Y451q8MmegI/AAAAAAAA73A/G-pJcVONN0AAxayozRqbPSdL_uWVacNWACNcBGAsYHQ/s135/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-K3Zm_WGKBLc/Y451rEZFRZI/AAAAAAAA73E/OaUQfY2CrXgDqVVo4OLQHE8W42b6PoElgCNcBGAsYHQ/s135/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ppBwpfRZTyM/Y451rZM5GWI/AAAAAAAA73I/IhqVZMNZ5PUrYH0r9QpURCLQrYF5SwG8gCNcBGAsYHQ/s135/1992-The-Doll-Bloodborne-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1992/",
+      "fetched_at": "2026-05-16T19:10:33.773Z",
+      "raw_id": "/nendoroid/details/n1992/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.800Z",
+      "raw_id": "Nendoroid/1900-1999/1992.json"
+    }
+  ]
+}

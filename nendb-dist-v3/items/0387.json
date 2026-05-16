@@ -1,0 +1,69 @@
+{
+  "num": "0387",
+  "name": {
+    "en": "Nendoroid Saber Bride (ねんどろいど せいばーぶらいど)",
+    "ja": "ねんどろいど セイバーブライド (ねんどろいど せいばーぶらいど)",
+    "ko": "세이버 브라이드"
+  },
+  "series": {
+    "en": "Fate/EXTRA CCC",
+    "ja": "Fate/EXTRA CCC",
+    "ko": "페이트 시리즈",
+    "code": "fate-extra-ccc"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4145,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-FYCP2kIZVGI/X4NNFOKvhNI/AAAAAAABllA/yraVwW3v5_Y5kPXRlIRjKpFwRDeIIu0fQCLcBGAsYHQ/s270/387-Saber-Bride-Fate-Extra-CCC-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-FYCP2kIZVGI/X4NNFOKvhNI/AAAAAAABllA/yraVwW3v5_Y5kPXRlIRjKpFwRDeIIu0fQCLcBGAsYHQ/s270/387-Saber-Bride-Fate-Extra-CCC-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8jPjcBAnlQc/X4dbjinDonI/AAAAAAAArP4/84ayPkl5WMw7q3LlW1H6eLJtr8_t0gKcQCLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qZb0jLyLO5A/X4dbjjF84QI/AAAAAAAArP0/mO4lLH35yfIYi-em3CyYGKHnoyPEKAruQCLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-i2EWSXR4LPM/X4dbjzREcsI/AAAAAAAArP8/F9t9njhg0LQRdatc4lWW-UKDlWeIYavGgCLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fYeDhoF77xI/X4dbkFEwpJI/AAAAAAAArQA/WDuYHOrjjKQFgQ5cZDR6e8oHX-fR4zVwwCLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kGkPL-Qo-WI/X4dbkZYjnII/AAAAAAAArQI/d2vk71sXVfUFIC9LK9lXK6kKwguNxZNngCLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-XNALVa2yCrI/X4dbkSoQ4iI/AAAAAAAArQE/YUD048Zm4ugiz7vjrd768FcmIquj1tmgACLcBGAsYHQ/s135/387-Saber-Bride-Fate-Extra-CCC-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n387/",
+      "fetched_at": "2026-05-16T19:10:34.499Z",
+      "raw_id": "/nendoroid/details/n387/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.368Z",
+      "raw_id": "Nendoroid/0300-0399/387.json"
+    }
+  ]
+}

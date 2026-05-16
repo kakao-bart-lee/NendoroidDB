@@ -1,0 +1,68 @@
+{
+  "num": "0766",
+  "name": {
+    "en": "Nendoroid Avenger/Jeanne d'Arc (Alter)",
+    "ja": "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕)",
+    "ko": "어벤저/잔 다르크 얼터"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6426,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lXB9cmfKVv8/X4NdEUwQhiI/AAAAAAABl_o/FP8Zt0236Y8LAyqX7PNv_APDPU_EupF_QCLcBGAsYHQ/s270/766-Jeanne-D-Arc-Alter-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lXB9cmfKVv8/X4NdEUwQhiI/AAAAAAABl_o/FP8Zt0236Y8LAyqX7PNv_APDPU_EupF_QCLcBGAsYHQ/s270/766-Jeanne-D-Arc-Alter-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YyhjmJ0fAC4/X4i5Qj-awVI/AAAAAAAAtew/Uck-zAJCWpQRL3Bgeh4wZbUjUn2bgr5ZQCLcBGAsYHQ/s135/766-Avenger-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Rll__rqR7wI/X4i5Q1TICwI/AAAAAAAAte0/MUE27n6O1rUpeuJMJHKsgds92-Ukg_rHgCLcBGAsYHQ/s135/766-Avenger-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eUYQNsSpJL4/X4i5Q69I2xI/AAAAAAAAte4/vtFD9vrj9VkZxWYdGIZLwurDBXVHhQlKQCLcBGAsYHQ/s135/766-Avenger-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8h-utwhoJSc/X4i5RJE339I/AAAAAAAAte8/t3c7YDtkSPMTRzMkqe5Vh5JSlyqusZMcACLcBGAsYHQ/s135/766-Avenger-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yLi7zAVGvHU/X4i5RNIjWWI/AAAAAAAAtfA/ZKyE9lnRw4oamNjmSg0L9-tJ-pbcee7hwCLcBGAsYHQ/s135/766-Avenger-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n766/",
+      "fetched_at": "2026-05-16T19:10:34.786Z",
+      "raw_id": "/nendoroid/details/n766/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.502Z",
+      "raw_id": "Nendoroid/0700-0799/766.json"
+    }
+  ]
+}

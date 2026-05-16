@@ -1,0 +1,65 @@
+{
+  "num": "2428",
+  "name": {
+    "en": "Ike Eveland",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "NIJISANJI",
+    "ja": null,
+    "ko": null,
+    "code": "nijisanji"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IktcapaVirs/Ziq-3x8HbeI/AAAAAAABEBE/Msgb8Ogge6cJ7Dr2BE83ZUVwDt1ON0_lwCNcBGAsYHQ/s270/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IktcapaVirs/Ziq-3x8HbeI/AAAAAAABEBE/Msgb8Ogge6cJ7Dr2BE83ZUVwDt1ON0_lwCNcBGAsYHQ/s270/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-j_pPfuT8TfE/Zow2RW4XFqI/AAAAAAABFiE/4eWYdZjin-gG_rnRjrk6seKjlCpDNM3QACNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2qCFxUpFHr0/Zow2RxcrkII/AAAAAAABFiI/AXUhSOcGeq8joIkS0b3_vp0KeunV1iBUwCNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9d3JGZa4Pfs/Zow2STTc0SI/AAAAAAABFiM/Czg4uumM4zIqhCc6i5KHpKcQDLqf7K8GwCNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ccx_Q-08ieU/Zow2S4AvpRI/AAAAAAABFiQ/vdO85Y3yxrQmd_JT3iGyr-9hejw6vyRGACNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HZbp6HUhU78/Zow2THmyatI/AAAAAAABFiU/kjLgLYAaqawBXurx579wzKF7XIKUgSPCgCNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-i8-UkEYmXYs/Zow2UCmhdDI/AAAAAAABFiY/sJgP8WKhyFcd20tX9svGgipxEw6IyRuUQCNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-LT_rS_DekSY/Zow2Us10MHI/AAAAAAABFig/jVMtt0OuAJsW-FGmGKtqtGNOV_mToQWoQCNcBGAsYHQ/s135/2428-Ike-Eveland-NIJISANJI-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2428/",
+      "fetched_at": "2026-05-16T19:10:34.051Z",
+      "raw_id": "/nendoroid/details/n2428/"
+    }
+  ]
+}

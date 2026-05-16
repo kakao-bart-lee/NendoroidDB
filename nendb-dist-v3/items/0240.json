@@ -1,0 +1,68 @@
+{
+  "num": "0240",
+  "name": {
+    "en": "Nendoroid Inori Yuzuriha (ねんどろいど ゆずりはいのり)",
+    "ja": "ねんどろいど 楪いのり (ねんどろいど ゆずりはいのり)",
+    "ko": "유즈리하 이노리"
+  },
+  "series": {
+    "en": "Guilty Crown",
+    "ja": "ギルティクラウン",
+    "ko": "길티크라운",
+    "code": "guilty-crown"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3522,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Gpcc9J5JvGw/X4NLOxgrBJI/AAAAAAABlXs/GnDEhYS23QAeLcC03QFYhEGehUCk2EVBACLcBGAsYHQ/s270/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Gpcc9J5JvGw/X4NLOxgrBJI/AAAAAAABlXs/GnDEhYS23QAeLcC03QFYhEGehUCk2EVBACLcBGAsYHQ/s270/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-inraQGpJXY8/X4dXf4xxyII/AAAAAAAAqeM/r_HvBktMnEw_UuQ1iQIsaTpbcoH99PSnwCLcBGAsYHQ/s135/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-m_CYVazfUPo/X4dXf7NIxBI/AAAAAAAAqeQ/5gOEb_eklIkKxt1m5Gi5uGCp4O_EPjVTgCLcBGAsYHQ/s135/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-B34YU9mKu5A/X4dXfw-E0XI/AAAAAAAAqeU/6Tp1KAASYD0wdFhBsAaS7xvSLOKjq6qbwCLcBGAsYHQ/s135/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6V6R-KkfXUE/X4dXgbjFzTI/AAAAAAAAqeY/LqWfYScjfQk1fxOfhJTl-yFXvLsEbh67gCLcBGAsYHQ/s135/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2P2Xt1_LyDE/X4dXgSBwRDI/AAAAAAAAqec/POSB9Fb57DYvfwPU6pGphdrg-FPxrifbQCLcBGAsYHQ/s135/240-Yuzuriha-Inori-Guilty-Crown-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n240/",
+      "fetched_at": "2026-05-16T19:10:34.040Z",
+      "raw_id": "/nendoroid/details/n240/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.330Z",
+      "raw_id": "Nendoroid/0200-0299/240.json"
+    }
+  ]
+}

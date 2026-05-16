@@ -1,0 +1,67 @@
+{
+  "num": "0403",
+  "name": {
+    "en": "Nendoroid Nagisa Momoe (ねんどろいど ももえなぎさ)",
+    "ja": "ねんどろいど 百江なぎさ (ねんどろいど ももえなぎさ)",
+    "ko": "모모에 나기사"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica The Movie -Rebellion-",
+    "ja": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica-the-movie-rebellion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4234,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YCfFdbM3F_E/X4NNnfrCv8I/AAAAAAABlmk/hCERtnOCTTUkrZQdiaXfxjrJO-6724PpQCLcBGAsYHQ/s270/403-Momoe-Nagisa-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YCfFdbM3F_E/X4NNnfrCv8I/AAAAAAABlmk/hCERtnOCTTUkrZQdiaXfxjrJO-6724PpQCLcBGAsYHQ/s270/403-Momoe-Nagisa-Puella-Magi-Madoka-The-Movie-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lSIHPZNKios/X4ddOcP3UcI/AAAAAAAArXg/zE2mVNGHMjc5HGHpv297Md6movYJbpyXACLcBGAsYHQ/s135/403-Momoe-Nagisa-Puella-Magi-Madoka-Magica-The-Movie-Part-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1hlCPfXbMQA/X4ddOuyYAvI/AAAAAAAArXk/B7gLxfGTpp4laET28kB5wUrh3iH2NiMDwCLcBGAsYHQ/s135/403-Momoe-Nagisa-Puella-Magi-Madoka-Magica-The-Movie-Part-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3mCL24ll2TU/X4ddPMzTxWI/AAAAAAAArXo/--2yLxwCWngRnBrlwchiHK2rdpSFLK2KACLcBGAsYHQ/s135/403-Momoe-Nagisa-Puella-Magi-Madoka-Magica-The-Movie-Part-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xRLU-WyZt-U/X4ddPalpeFI/AAAAAAAArXs/uDtK5C-WCOkrOVvkdzkbVCDyHtzwHAnPwCLcBGAsYHQ/s135/403-Momoe-Nagisa-Puella-Magi-Madoka-Magica-The-Movie-Part-3-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n403/",
+      "fetched_at": "2026-05-16T19:10:34.508Z",
+      "raw_id": "/nendoroid/details/n403/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.371Z",
+      "raw_id": "Nendoroid/0400-0499/403.json"
+    }
+  ]
+}

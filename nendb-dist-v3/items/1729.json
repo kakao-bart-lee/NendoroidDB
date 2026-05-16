@@ -1,0 +1,69 @@
+{
+  "num": "1729",
+  "name": {
+    "en": "Nendoroid Pelops II",
+    "ja": "ねんどろいど ペロ２ (ねんどろいど ぺろつー)",
+    "ko": "페로2"
+  },
+  "series": {
+    "en": "Godzilla Singular Point",
+    "ja": "ゴジラS.P＜シンギュラポイント＞",
+    "ko": "고질라: 싱귤러 포인트",
+    "code": "godzilla-singular-point"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11880,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ae8ivCkrEPg/YYBJ_cNUxtI/AAAAAAAA1i0/7yBMH43q2FgVlwCWbE9ZPfJiqMDGtJItwCLcBGAsYHQ/s270/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ae8ivCkrEPg/YYBJ_cNUxtI/AAAAAAAA1i0/7yBMH43q2FgVlwCWbE9ZPfJiqMDGtJItwCLcBGAsYHQ/s270/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ta60toNGOIk/YYBOn_9feNI/AAAAAAAA1lU/uk8zX8Xa3vQFNbom_uOm4ilkg9mNrYr3gCLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7uleJXCFFG0/YYBOoDhFGyI/AAAAAAAA1lc/vcFiPFUGGq4AIMhA2GHLC5f-qJ8BPSACgCLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-D3WwpCSgjSA/YYBOoLh5qVI/AAAAAAAA1lY/xZF3gdBKSD8_Qb12tx4mBiviqE1y8jcSACLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tRmeVLhvO6Q/YYBOoQ54B5I/AAAAAAAA1lg/pDJeHWicNSAIHVs2UD4WspvcGFYE9FPFgCLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q8T4_TlkzqE/YYBOoiqHMOI/AAAAAAAA1lk/QVSXCAgcUMIGhVPyVyzWQ85I4cH_i0fxQCLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Bq39iiB_GZ4/YYBOotgsUVI/AAAAAAAA1lo/pzoo6oy7h3sdTlY-B-zO_dgeDCd264AmgCLcBGAsYHQ/s135/1729-Pelops-II-Godzilla-Singular-Point-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1729/",
+      "fetched_at": "2026-05-16T19:10:33.611Z",
+      "raw_id": "/nendoroid/details/n1729/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.737Z",
+      "raw_id": "Nendoroid/1700-1799/1729.json"
+    }
+  ]
+}

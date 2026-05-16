@@ -1,0 +1,68 @@
+{
+  "num": "0244",
+  "name": {
+    "en": "Nendoroid Hibiki Tachibana (ねんどろいど たちばなひびき)",
+    "ja": "ねんどろいど 立花響 (ねんどろいど たちばなひびき)",
+    "ko": "타치바나 히비키"
+  },
+  "series": {
+    "en": "Senki Zesshou Symphogear",
+    "ja": "戦姫絶唱シンフォギア",
+    "ko": "전희절창 심포기어 시리즈",
+    "code": "senki-zesshou-symphogear"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3531,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QdW0aJiOZck/X4NLPwZBkcI/AAAAAAABlX8/5Qu4X5jGKeUv9CLJuURXPT4WK-t-lo3xQCLcBGAsYHQ/s270/244-Tachibana-Hibiki-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QdW0aJiOZck/X4NLPwZBkcI/AAAAAAABlX8/5Qu4X5jGKeUv9CLJuURXPT4WK-t-lo3xQCLcBGAsYHQ/s270/244-Tachibana-Hibiki-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-u-oBL-kKKA4/X4dXkBId2dI/AAAAAAAAqfg/23UwScBux6YXXtxrR6cD7IghY1bA2Y-oACLcBGAsYHQ/s135/244-Hibiki-Tachibana-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Wys_af38KqA/X4dXkichVRI/AAAAAAAAqfk/9prusxw7TNk2sQrYlSrKYGeEEh8TWCzVgCLcBGAsYHQ/s135/244-Hibiki-Tachibana-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d2lDCaRKBpk/X4dXlBT3pwI/AAAAAAAAqfo/DfV3AGD4-HMu6qZ166dl2_W_sY7xKI5GwCLcBGAsYHQ/s135/244-Hibiki-Tachibana-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SXTMMLPATgc/X4dXlcsmZVI/AAAAAAAAqfs/IgFqcRPwyw4eVafUzMP_gnETtB-pl48GQCLcBGAsYHQ/s135/244-Hibiki-Tachibana-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dR59677hFiQ/X4dXlZ5anUI/AAAAAAAAqfw/FrCzzd0RX74pLxmKXb_VDFAXQX0mVBAeQCLcBGAsYHQ/s135/244-Hibiki-Tachibana-Senki-Zesshou-Symphogear-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n244/",
+      "fetched_at": "2026-05-16T19:10:34.066Z",
+      "raw_id": "/nendoroid/details/n244/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.331Z",
+      "raw_id": "Nendoroid/0200-0299/244.json"
+    }
+  ]
+}

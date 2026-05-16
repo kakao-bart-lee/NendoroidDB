@@ -1,0 +1,68 @@
+{
+  "num": "0166",
+  "name": {
+    "en": "Nendoroid Strength (ねんどろいど すとれんぐす)",
+    "ja": "ねんどろいど ストレングス (ねんどろいど すとれんぐす)",
+    "ko": "스트렝스"
+  },
+  "series": {
+    "en": "Black Rock Shooter",
+    "ja": "ブラック★ロックシューター",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "black-rock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3123,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-B0k0ldKD-M8/X4NKCzzGA5I/AAAAAAABlSI/Q5PtJ89g60code0asNIYEFd8kKtneDz3gCLcBGAsYHQ/s270/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-B0k0ldKD-M8/X4NKCzzGA5I/AAAAAAABlSI/Q5PtJ89g60code0asNIYEFd8kKtneDz3gCLcBGAsYHQ/s270/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UNIv6W9nRMw/X4dTd2Y9H6I/AAAAAAAAqDo/K-WKRfeuo7w1GWjwSQP5MOBp9lpW_zSUQCLcBGAsYHQ/s135/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MuFkfY00Rkc/X4dTeMMnrvI/AAAAAAAAqDs/YV0s4B6wfV8FAVszjbF94Du3_6lmE7rEgCLcBGAsYHQ/s135/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r917ZJfY99M/X4dTeTmd4zI/AAAAAAAAqDw/uGjBt45htFolB9x3YNieZBW_vmW6auDGACLcBGAsYHQ/s135/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cC63m26Net4/X4dTehY41sI/AAAAAAAAqD0/oTvaQ1zbcHQszbVjE4tPF5RKJobzMlFPQCLcBGAsYHQ/s135/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xEVVNi0nhRI/X4dTeza_vbI/AAAAAAAAqD4/sirr4k1TFF8HXX2W5E3irZiLGVapmoHtQCLcBGAsYHQ/s135/166-Strenght-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n166/",
+      "fetched_at": "2026-05-16T19:10:33.572Z",
+      "raw_id": "/nendoroid/details/n166/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.305Z",
+      "raw_id": "Nendoroid/0100-0199/166.json"
+    }
+  ]
+}

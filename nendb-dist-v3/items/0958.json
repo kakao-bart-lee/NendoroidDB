@@ -1,0 +1,68 @@
+{
+  "num": "0958",
+  "name": {
+    "en": "Nendoroid Kanata Shinkai",
+    "ja": "ねんどろいど 深海奏汰 (ねんどろいど しんかいかなた)",
+    "ko": "신카이 카나타"
+  },
+  "series": {
+    "en": "Ensemble Stars!",
+    "ja": "あんさんぶるスターズ！",
+    "ko": "앙상블 스타즈!",
+    "code": "ensemble-stars"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7401,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-IbX4Wui81Vo/X4NesxonZbI/AAAAAAABmNY/cHlZ1FZ4xX4xt8wleSSwG3x9y-Zpw2kZwCLcBGAsYHQ/s270/958-Kanata-Shinkai-Ensemble-Stars%2521-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-IbX4Wui81Vo/X4NesxonZbI/AAAAAAABmNY/cHlZ1FZ4xX4xt8wleSSwG3x9y-Zpw2kZwCLcBGAsYHQ/s270/958-Kanata-Shinkai-Ensemble-Stars%2521-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PbgMPVVumew/X4roxssAWMI/AAAAAAABn-U/iz2iRF0SlSU2zqntRa4lIfXrNLLnGDyhgCLcBGAsYHQ/s135/958-Kanata-Shinkai-Ensemble-Stars-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-v4LWE3Dmx1o/X4rox0aWCFI/AAAAAAABn-Y/XJDTqc2IXao7rB-MGUrVPVRI4GEsisQ7ACLcBGAsYHQ/s135/958-Kanata-Shinkai-Ensemble-Stars-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DHMq4hXkyH0/X4royGiRoQI/AAAAAAABn-c/n35fRguecs4oGv-rcai_DgGi6LkTLPAkgCLcBGAsYHQ/s135/958-Kanata-Shinkai-Ensemble-Stars-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3nFSLO6osok/X4royay-QaI/AAAAAAABn-g/dMY5FBoSI24vF4QA5aiUWvymMN_m2dTAgCLcBGAsYHQ/s135/958-Kanata-Shinkai-Ensemble-Stars-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-o8M-q-81Bss/X4royi3mtRI/AAAAAAABn-k/leThOBqOmK4cT5h-d_ypoB2w_RxGr0AjgCLcBGAsYHQ/s135/958-Kanata-Shinkai-Ensemble-Stars-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n958/",
+      "fetched_at": "2026-05-16T19:10:34.895Z",
+      "raw_id": "/nendoroid/details/n958/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.549Z",
+      "raw_id": "Nendoroid/0900-0999/958.json"
+    }
+  ]
+}

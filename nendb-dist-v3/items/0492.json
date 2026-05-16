@@ -1,0 +1,68 @@
+{
+  "num": "0492",
+  "name": {
+    "en": "Nendoroid Rider",
+    "ja": "ねんどろいど ライダー (ねんどろいど らいだー)",
+    "ko": "라이더"
+  },
+  "series": {
+    "en": "Fate/stay night: Heaven's Feel",
+    "ja": "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-heaven-s-feel"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4816,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-li20dr3LKnk/X4NOAmOGwEI/AAAAAAABlsU/dR--kwmfmEgmrOJOHzN3zjTWrIcQ-eeJgCLcBGAsYHQ/s270/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-li20dr3LKnk/X4NOAmOGwEI/AAAAAAABlsU/dR--kwmfmEgmrOJOHzN3zjTWrIcQ-eeJgCLcBGAsYHQ/s270/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NgZjBKjbzpI/X4dfYckeApI/AAAAAAAAr1A/_JefTvl-Clw9VUCsbyMV_ws9MeWDTyIWQCLcBGAsYHQ/s135/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j5pS-mKKhIw/X4dfYxFCScI/AAAAAAAAr1E/2Vtt2nOQtZg8g0X74DL_Kic3c0FSxeXkgCLcBGAsYHQ/s135/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VdP4lHlgZRA/X4dfZY98QVI/AAAAAAAAr1I/3wlTe6aixuwT8kGlaYsD2zI8CYy5zvfaACLcBGAsYHQ/s135/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6duCMtbZoN0/X4dfZ-HjxBI/AAAAAAAAr1M/zOnbF3-p5xodHkfIEFrOe35jvXCWgIbCACLcBGAsYHQ/s135/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Y6M5rfm-pkQ/X4dfaXZLDLI/AAAAAAAAr1Q/-UaBcPg4JfQXIMsIeDcfgZ6N0j7kwAiZACLcBGAsYHQ/s135/492-Rider-Fate-Stay-Night-Unlimited-Blade-Works-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n492/",
+      "fetched_at": "2026-05-16T19:10:34.558Z",
+      "raw_id": "/nendoroid/details/n492/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.393Z",
+      "raw_id": "Nendoroid/0400-0499/492.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1589",
+  "name": {
+    "en": "Nendoroid Assassin/Yu Mei-ren",
+    "ja": "ねんどろいど アサシン/虞美人 (ねんどろいど あさしん/ぐびじん)",
+    "ko": "어쌔신/우미인"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10909,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ufvWnFeHuSg/YFYAgcwktEI/AAAAAAAAwVI/0IsveBvF2z0kWiW1ZEM6PYcx9_9rSwNpACLcBGAsYHQ/s270/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ufvWnFeHuSg/YFYAgcwktEI/AAAAAAAAwVI/0IsveBvF2z0kWiW1ZEM6PYcx9_9rSwNpACLcBGAsYHQ/s270/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mQn4vJPKWCk/YFX_7ZQFwKI/AAAAAAAAwSg/MQsy_y4NLhIPjYkiFSNUiprBHoo5QQMjACLcBGAsYHQ/s135/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gRB22gkjtPQ/YFX_7pqsD3I/AAAAAAAAwSo/BPquN7brLzYUYMRD2gVoHZpqSPvUVPH3wCLcBGAsYHQ/s135/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zKRuLnNptD0/YFX_7gHMOYI/AAAAAAAAwSk/OVL5mR9gCd8w9Tx-p9Ncrjw-ft2PuExRgCLcBGAsYHQ/s135/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0LvQQzW8kAw/YFX_7x5kpOI/AAAAAAAAwSs/98oETMo1knEldcwSiagzi31EUasYyQWdgCLcBGAsYHQ/s135/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-C-lJHrvyI8Q/YFX_8DE3ntI/AAAAAAAAwSw/yydq_dzY6doQe71_Lq0JzHEkcebczkXKACLcBGAsYHQ/s135/1589-Assassin-Yu-Mei-ren-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1589/",
+      "fetched_at": "2026-05-16T19:10:33.521Z",
+      "raw_id": "/nendoroid/details/n1589/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.702Z",
+      "raw_id": "Nendoroid/1500-1599/1589.json"
+    }
+  ]
+}

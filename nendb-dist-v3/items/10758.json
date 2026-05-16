@@ -1,0 +1,55 @@
+{
+  "num": "10758",
+  "name": {
+    "en": "Nendoroid Doll Kagamine Rin",
+    "ja": "ねんどろいどどーる 鏡音リン (ねんどろいどどーる かがみねりん)",
+    "ko": "카가미네 린"
+  },
+  "series": {
+    "en": "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja": "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko": "보컬로이드",
+    "code": "character-vocal-series-02-kagamine-rin-len"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-10",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6930,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10758,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210203/10758/80674/large/02caceca1aecad91c0b9bc5ae6057718.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.952Z",
+      "raw_id": "NendoroidDoll/Doll/10758.json"
+    }
+  ]
+}

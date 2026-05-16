@@ -1,0 +1,67 @@
+{
+  "num": "0458",
+  "name": {
+    "en": "Nendoroid Kotori Minami (ねんどろいど みなみことり)",
+    "ja": "ねんどろいど 南ことり (ねんどろいど みなみことり)",
+    "ko": "미나미 코토리"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4604,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cYcuzst91rs/X4NN2BGGQCI/AAAAAAABlqM/wkNPSt_HxVMYvtlUYzIS1fDix0TvY35YQCLcBGAsYHQ/s270/458-Kotori%2BMinami-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cYcuzst91rs/X4NN2BGGQCI/AAAAAAABlqM/wkNPSt_HxVMYvtlUYzIS1fDix0TvY35YQCLcBGAsYHQ/s270/458-Kotori%2BMinami-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PVo1dIbCanU/X4deiTgSr5I/AAAAAAAArpA/9XDrF3k4Tz0DNRucxXsQfYHMkeBpw3nQACLcBGAsYHQ/s135/458-Kotori-Minami-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dY71qqSNgzA/X4deizvsdGI/AAAAAAAArpE/rtojxxrsttwsEvTqohp0VEk5tFIxhIwiACLcBGAsYHQ/s135/458-Kotori-Minami-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MrdHdP08fPQ/X4dejfIjc9I/AAAAAAAArpI/HJj6o-LoE-MWWI03oVsclboIJwVRWqaJACLcBGAsYHQ/s135/458-Kotori-Minami-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kF8NV1TEUfg/X4dejxSdnJI/AAAAAAAArpM/VRIZSnIu7xoX3w-f4wEeHxSM4RjyXohBQCLcBGAsYHQ/s135/458-Kotori-Minami-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n458/",
+      "fetched_at": "2026-05-16T19:10:34.541Z",
+      "raw_id": "/nendoroid/details/n458/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.384Z",
+      "raw_id": "Nendoroid/0400-0499/458.json"
+    }
+  ]
+}

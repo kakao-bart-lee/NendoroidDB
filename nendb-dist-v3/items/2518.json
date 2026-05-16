@@ -1,0 +1,63 @@
+{
+  "num": "2518",
+  "name": {
+    "en": "Shadow The Hedgehog",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Sonic The Hedgehog",
+    "ja": null,
+    "ko": null,
+    "code": "sonic-the-hedgehog"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zOvQ0d1FAQQ/ZnsojS2hUqI/AAAAAAABE4w/Ahd9VKoT16cAjZNykXYEqUtOzbUb4EtGgCNcBGAsYHQ/s270/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zOvQ0d1FAQQ/ZnsojS2hUqI/AAAAAAABE4w/Ahd9VKoT16cAjZNykXYEqUtOzbUb4EtGgCNcBGAsYHQ/s270/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MiwQaDbZZc8/Zow8-xooZ_I/AAAAAAABGI8/FxSnHUA29Y4Pvbm_Yabsy4tFk6R3o7GLQCNcBGAsYHQ/s135/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-o_lkub0RfEw/Zow8_UvD80I/AAAAAAABGJA/B_DdOPSFLdYPTlX3xy3GDgnHeuyke7oZQCNcBGAsYHQ/s135/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vlCYGf7WcBU/Zow8_7_WbwI/AAAAAAABGJE/SEKGUJsp59sLrJR6R00Zy8BOahteNcPRQCNcBGAsYHQ/s135/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WE08Bab8am8/Zow9AazLeHI/AAAAAAABGJI/h3BQIvbPCvQEmP5hTO0qWUtrRcX7m-KbACNcBGAsYHQ/s135/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g0r-0AOeb6c/Zow9BFbdy9I/AAAAAAABGJM/8ROr2B5Knxwx_x7coeRU4O0Sep0TFsSTwCNcBGAsYHQ/s135/2518-Shadow-the-Hedgehog-Sonic-the-Hedgehog-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2518/",
+      "fetched_at": "2026-05-16T19:10:34.108Z",
+      "raw_id": "/nendoroid/details/n2518/"
+    }
+  ]
+}

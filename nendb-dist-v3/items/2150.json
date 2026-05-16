@@ -1,0 +1,95 @@
+{
+  "num": "2150",
+  "name": {
+    "en": "Nendoroid Berserker/Morgan",
+    "ja": "ねんどろいど バーサーカー/モルガン (ねんどろいど ばーさーかー/もるがん)",
+    "ko": "버서커/모르간"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 그랜드 오더",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": "4580828665453",
+  "gsc_product_id": "12037",
+  "gsc_product_num": 14352,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/12037",
+    "ja": "https://www.goodsmile.com/ja/product/12037"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230509/14352/115093/large/ed24f904e7cfd11b8c3f8b02185868c1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MBLwRIUAtts/ZIzT3a6ZzoI/AAAAAAAA-PY/uPkKgURzkl8gScdePJmJmkTv8sp3U4PLgCNcBGAsYHQ/s270/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FTFJQCZ4HSg/ZIzVxDIP0rI/AAAAAAAA-UQ/fpL1qCKioPc2OXFk4YqE8EZ6FDPITqIkgCNcBGAsYHQ/s135/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-c6Fswxz0t6M/ZIzVxijlgcI/AAAAAAAA-UU/o32Zcp_Uqvw5m93Qtd7pDL8zeNf5rYwmQCNcBGAsYHQ/s135/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bUjV1zLW3NU/ZIzVyTNvnoI/AAAAAAAA-UY/nmprYpQIYnURyIkA-Lk21Cs7P1E2OZYkgCNcBGAsYHQ/s135/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WG55dt5Io0M/ZIzVyr8n3AI/AAAAAAAA-Uc/T_2v9TAHdrAiZ1jhdTdPGDZJiOYFEw0XQCNcBGAsYHQ/s135/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XIelSp5d08k/ZIzVzFYGVFI/AAAAAAAA-Ug/YBdDHEAwPEcyTol8ml_IrUrztuI1ZPX-QCNcBGAsYHQ/s135/2150-Berserker-Morgan-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230509/14352/115099/large/3482bf464e596a4d284a80c0650211e9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20230509/14352/115093/large/ed24f904e7cfd11b8c3f8b02185868c1.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12037",
+      "price_local": 7900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:15:08.931Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/12037",
+      "fetched_at": "2026-05-16T12:15:08.931Z",
+      "raw_id": "12037"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/12037",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "12037"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2150/",
+      "fetched_at": "2026-05-16T19:10:33.868Z",
+      "raw_id": "/nendoroid/details/n2150/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.839Z",
+      "raw_id": "Nendoroid/2100-2199/2150.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1794",
+  "name": {
+    "en": "Nendoroid Hachiman Hikigaya",
+    "ja": "ねんどろいど 比企谷八幡 (ねんどろいど ひきがやはちまん)",
+    "ko": "히키가야 하치만"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12224,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PWrjUIfy-9o/YhAEyVanp1I/AAAAAAAA3kg/ySUoxMSSfHojqYlyDa6s0GUjNa-mh6_pACNcBGAsYHQ/s270/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PWrjUIfy-9o/YhAEyVanp1I/AAAAAAAA3kg/ySUoxMSSfHojqYlyDa6s0GUjNa-mh6_pACNcBGAsYHQ/s270/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mS8qMlHtDOg/YhALyamBHII/AAAAAAAA3oU/0ve6uTFzbYkBT5bUEMwj-e_yvLEnrsLYwCNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GA9UQyUZwd4/YhALyhvDvyI/AAAAAAAA3oY/PIWGzNlHmQwr3I9OsCGCOVwXNMF34eiSQCNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HdR7utdbZRo/YhALy9f8c_I/AAAAAAAA3oc/PvmX9RAzB8MAaz3IpxjVhaDcCmbhh1o_wCNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-00Tc_m4O1rE/YhALzJBskKI/AAAAAAAA3og/x_McFGBV5WwE7MrhVFb7GemjwLIwBjClgCNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-O8EbiKgvJvk/YhALzagCAVI/AAAAAAAA3ok/cvvaETu4Pq0-zJcIpm599Gb4W5HJp8o9ACNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gkVJ6jhRs-w/YhALzrOdr0I/AAAAAAAA3oo/IW96Ac1MpwoN9zl_hfSTJmopQIo36UeBQCNcBGAsYHQ/s135/1794-Hachiman-Hikigaya-My-Teen-Romantic-Comedy-SNAFU-Climax-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1794/",
+      "fetched_at": "2026-05-16T19:10:33.652Z",
+      "raw_id": "/nendoroid/details/n1794/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.752Z",
+      "raw_id": "Nendoroid/1700-1799/1794.json"
+    }
+  ]
+}

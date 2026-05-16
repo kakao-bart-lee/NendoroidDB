@@ -1,0 +1,67 @@
+{
+  "num": "0245b",
+  "name": {
+    "en": "Nendoroid Annelotte : Dark Knight Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ja": "ねんどろいど アンネロッテ 狂騎士Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ko": "안네로테 광기사 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade Rebellion",
+    "ja": "クイーンズブレイド リベリオン",
+    "ko": "퀸즈 블레이드 리벨리온",
+    "code": "queen-s-blade-rebellion"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3559,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--GQxTODid9E/X4NLQQh_R3I/AAAAAAABlYE/CzSRvvXbN0wqk1g94G2QUQbF1eR9hlyvgCLcBGAsYHQ/s270/245b-Annelotte-Queens-Blade-Rebellion-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--GQxTODid9E/X4NLQQh_R3I/AAAAAAABlYE/CzSRvvXbN0wqk1g94G2QUQbF1eR9hlyvgCLcBGAsYHQ/s270/245b-Annelotte-Queens-Blade-Rebellion-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PsHjuw7pALc/X4dXouk7MjI/AAAAAAAAqgE/jmOwZAXl8iACk0hd2nyB41zheV8MKJvuACLcBGAsYHQ/s135/245B-Annelotte-Queens-Blade-Rebellion-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bv6LpWvNDxc/X4dXpGJlylI/AAAAAAAAqgI/zMFOidjTDzYJw6oYkdLQ31ZGq7-jX4QaACLcBGAsYHQ/s135/245B-Annelotte-Queens-Blade-Rebellion-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AxoBehPwQ1M/X4dXpoQUqOI/AAAAAAAAqgM/vgimD3N6yCYCgyG9NQ5vGA-jjHJMg-MOACLcBGAsYHQ/s135/245B-Annelotte-Queens-Blade-Rebellion-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ed29H0U8Abk/X4dXp9Jc5oI/AAAAAAAAqgQ/-qiDOJpzDYQf_1ojm3Tv5bQzVJvRF1vPQCLcBGAsYHQ/s135/245B-Annelotte-Queens-Blade-Rebellion-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n245b/",
+      "fetched_at": "2026-05-16T19:10:34.072Z",
+      "raw_id": "/nendoroid/details/n245b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.332Z",
+      "raw_id": "Nendoroid/0200-0299/245b.json"
+    }
+  ]
+}

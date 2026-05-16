@@ -1,0 +1,68 @@
+{
+  "num": "1111",
+  "name": {
+    "en": "Nendoroid Ichi",
+    "ja": "ねんどろいど 壱 (ねんどろいど いち)",
+    "ko": "이치"
+  },
+  "series": {
+    "en": "Heavily Armed High School Girls",
+    "ja": "重兵装型女子高生",
+    "ko": "중병장형여고생",
+    "code": "heavily-armed-high-school-girls"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6315,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8189,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-mtVJD819O1Y/X4NgUDZQxAI/AAAAAAABmZM/F_e3dFZcmgUv3nPxmrIP0Xabg8UtzfmowCLcBGAsYHQ/s270/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-mtVJD819O1Y/X4NgUDZQxAI/AAAAAAABmZM/F_e3dFZcmgUv3nPxmrIP0Xabg8UtzfmowCLcBGAsYHQ/s270/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Ur_xhEYgcuc/X4rvlYh9NgI/AAAAAAABo-c/xO7MjofZOZs1nk1X0waQjBWv01QHQR0yACLcBGAsYHQ/s135/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6OVh2ajQT20/X4rvln9t4kI/AAAAAAABo-g/CDCmEk21aH4WCV58m0ras_ue_Cqev8JTwCLcBGAsYHQ/s135/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-In0E2j6-qrk/X4rvlzLA-CI/AAAAAAABo-k/eUxIpyAZW-QACbfK2upwi6_FjyOHa8LHQCLcBGAsYHQ/s135/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G64UGu3BrL4/X4rvmZFqbDI/AAAAAAABo-o/ZZqzRrVKXUUy8iHVpoaJ6z6yqEU7CMYjQCLcBGAsYHQ/s135/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JlrEamdA3rY/X4rvmtQJWxI/AAAAAAABo-s/CEjI_EJ6qTIE3F6VUkoEh5ggFubakuYXwCLcBGAsYHQ/s135/1111-Ichi-Heavily-Armed-High-School-Girls-Others-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1111/",
+      "fetched_at": "2026-05-16T19:10:33.227Z",
+      "raw_id": "/nendoroid/details/n1111/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.586Z",
+      "raw_id": "Nendoroid/1100-1199/1111.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2468",
+  "name": {
+    "en": "Kitasan Black",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": null,
+    "ko": null,
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UeMD1uTOQpA/Zj_itU7sw-I/AAAAAAABEZY/wwI6DdE6aTY4jLJdjHG7B3-nSxaoI1z2gCNcBGAsYHQ/s270/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UeMD1uTOQpA/Zj_itU7sw-I/AAAAAAABEZY/wwI6DdE6aTY4jLJdjHG7B3-nSxaoI1z2gCNcBGAsYHQ/s270/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5I6TAVkuoxg/Zow4yLRQvoI/AAAAAAABFys/ECdX97SHsIMoK44WniWdKX9hll68-Ac1QCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SXi5IGOz74s/Zow4ylel1rI/AAAAAAABFyw/VJklTKg-6nMxlh0SJjDpmMz0UpcphmteQCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Daim9-eWE5I/Zow4zL135aI/AAAAAAABFy0/aSDxf8m6TnIaWds1cqD6v823cQhSfWWhQCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BIk7g8cYlBc/Zow4zrI2MFI/AAAAAAABFy4/gYt0OZb-htYNMamLJCHw9Nd_C3Cl-3rRgCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GFsizZLYRuE/Zow40BZbRpI/AAAAAAABFy8/wIRB9A1vyT4sWUQ2kfpp7hHiGU7rGYfUQCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ke5Bq-SNKmY/Zow40wiepYI/AAAAAAABFzA/7Vcb8EmXxx4qTJWBWCOcQAO0-JLrLcQuACNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-bKV6Ju5c_8k/Zow41N7uf5I/AAAAAAABFzE/dw8eybqP-uERvbYvhGD3qeOHEsupVTo2gCNcBGAsYHQ/s135/2468-Kitasan-Black-Umamusume-Pretty-Derby-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2468/",
+      "fetched_at": "2026-05-16T19:10:34.078Z",
+      "raw_id": "/nendoroid/details/n2468/"
+    }
+  ]
+}

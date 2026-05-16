@@ -1,0 +1,68 @@
+{
+  "num": "1315",
+  "name": {
+    "en": "Nendoroid Han Wenqing",
+    "ja": "ねんどろいど 韓文清 (ねんどろいど はん・うぇんしん)",
+    "ko": "한원청"
+  },
+  "series": {
+    "en": "The King's Avatar",
+    "ja": "マスターオブスキル（全職高手）",
+    "ko": "전직고수",
+    "code": "the-king-s-avatar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9397,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AiED3q7XJ3o/X4NjlhDeyjI/AAAAAAABmz0/2emkQ9q43c09Lk-rX3cokWCwr9IgdZGuwCLcBGAsYHQ/s270/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AiED3q7XJ3o/X4NjlhDeyjI/AAAAAAABmz0/2emkQ9q43c09Lk-rX3cokWCwr9IgdZGuwCLcBGAsYHQ/s270/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t6nSR3kr-xY/X4s8tHSK2DI/AAAAAAABqUs/g3jxpkYfFR8w4rA56zXy9vZK5GhsDlI_wCLcBGAsYHQ/s135/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NqpW2C-9uK0/X4s8tW_VJMI/AAAAAAABqUw/AFYopQXLWy0EzmunmLkvykIs3AmzEGTcACLcBGAsYHQ/s135/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kvmcPBNb1xU/X4s8tn2KGZI/AAAAAAABqU0/1pB21Yk6ekURkuGHqoo9DfYp_ZeQYrn3wCLcBGAsYHQ/s135/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2wso2t7kJQs/X4s8txFiHQI/AAAAAAABqU4/JykGgzRy9asDy9cg_TIkugY3a6NfdUCdQCLcBGAsYHQ/s135/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5lZGGYy7xuk/X4s8uFG1TnI/AAAAAAABqU8/KiH6hcApD1c3IpEIcrZgkvmW7FjoFdPbACLcBGAsYHQ/s135/1315-Han-Wenqing-The-Kings-Avatar-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1315/",
+      "fetched_at": "2026-05-16T19:10:33.352Z",
+      "raw_id": "/nendoroid/details/n1315/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.636Z",
+      "raw_id": "Nendoroid/1300-1399/1315.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2028",
+  "name": {
+    "en": "Nendoroid Cerberus (Single)",
+    "ja": "ねんどろいど ケルベロス Single (ねんどろいど けるべろす しんぐる)",
+    "ko": "케르베로스"
+  },
+  "series": {
+    "en": "Helltaker",
+    "ja": "Helltaker",
+    "ko": "헬테이커",
+    "code": "helltaker"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13685,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GwuSrgs8Xxg/Y69BPag9W7I/AAAAAAAA8P8/PzaVHeCFEsYMFQZIsR8UjCFZlnKrc7c9ACNcBGAsYHQ/s270/2028-Cerberus-Helltaker-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GwuSrgs8Xxg/Y69BPag9W7I/AAAAAAAA8P8/PzaVHeCFEsYMFQZIsR8UjCFZlnKrc7c9ACNcBGAsYHQ/s270/2028-Cerberus-Helltaker-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0cNfKwWC8eM/Y684xf-_vAI/AAAAAAAA8Lc/_hTj0DUXtj8lebfG1bift7z0NU78h509ACNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MtfzGCQqDXQ/Y684x0hpnPI/AAAAAAAA8Lg/_Egtpr2FNlIvsQjfKhVQxEG5Qxk0Ad2RwCNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-SLasNN8TCJU/Y684yNffjCI/AAAAAAAA8Lk/4V8czW_AudApz2ONKGtZMn8icEP8qMPAQCNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pm79w2BhfeA/Y684yFueJtI/AAAAAAAA8Lo/HzHuRPIss2kWS8nY3Ns0oUzuGUWWBIFVQCNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gBdXnlwSXuk/Y684yTqE4SI/AAAAAAAA8Ls/sIlPnmYgC98m6sH7nTLL_hLT__HKqt74gCNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vgbUiF6IoE0/Y684ywQQDTI/AAAAAAAA8Lw/uz8ERmfOcl80SXxhWHn60seUEc_hngdRACNcBGAsYHQ/s135/2028-Cerberus-Helltaker-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2028/",
+      "fetched_at": "2026-05-16T19:10:33.793Z",
+      "raw_id": "/nendoroid/details/n2028/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.809Z",
+      "raw_id": "Nendoroid/2000-2099/2028.json"
+    }
+  ]
+}

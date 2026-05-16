@@ -1,0 +1,69 @@
+{
+  "num": "0315",
+  "name": {
+    "en": "Nendoroid Chariot with Tank(Mary) Set: TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)",
+    "ja": "ねんどろいど チャリオット with 戦車（メアリー）セット TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)",
+    "ko": "CHARIOT"
+  },
+  "series": {
+    "en": "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko": "BLACK★ROCK SHOOTER",
+    "code": "tv-animation-black-rock-shooter"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6286,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3854,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BVgLLwiwKt0/X4NMnA8V5LI/AAAAAAABlgU/FMbFVKFVzyE19mti2ncgN-ZHYvUyeu-EwCLcBGAsYHQ/s270/315-Chariot-and-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BVgLLwiwKt0/X4NMnA8V5LI/AAAAAAABlgU/FMbFVKFVzyE19mti2ncgN-ZHYvUyeu-EwCLcBGAsYHQ/s270/315-Chariot-and-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-FJvLHXhjfFk/X4daIeAfO2I/AAAAAAAAq4E/deMu25g5PdIVCNBaQ7JW13EoJdlNlzMDgCLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-n6Xi6LKM8jw/X4daIgKw2ZI/AAAAAAAAq4I/FRxdO24r1zUdnhYSGgGU4AF72ytyOzt8gCLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-q0_ATufGJ2M/X4daJGwIIaI/AAAAAAAAq4M/mu3J10EqFd4HBZ7D4QK4av5tLtxUsJVUwCLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-H_qxbeIu1o4/X4daJdv2ekI/AAAAAAAAq4Q/LB-Qyv2KsZU3GXYLrR31blI1oRS7wB9bQCLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mg6jLXzxWSk/X4daJQpiisI/AAAAAAAAq4U/-Bwk_-MckR4Kk4FKMx7sdoWSTi1k8CisgCLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Bdz-YtB4klc/X4daJgzLZiI/AAAAAAAAq4Y/5b9J7_IlIlUpqO5BJWGlAgy98MUQK3quACLcBGAsYHQ/s135/315-Chariot-with-Tank-Mary-Black-Rock-Shooter-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n315/",
+      "fetched_at": "2026-05-16T19:10:34.457Z",
+      "raw_id": "/nendoroid/details/n315/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.349Z",
+      "raw_id": "Nendoroid/0300-0399/315.json"
+    }
+  ]
+}

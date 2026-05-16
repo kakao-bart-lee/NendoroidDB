@@ -1,0 +1,68 @@
+{
+  "num": "1205",
+  "name": {
+    "en": "Nendoroid Misaki Takahashi",
+    "ja": "ねんどろいど 高橋美咲 (ねんどろいど たかはしみさき)",
+    "ko": "타카하시 미사키"
+  },
+  "series": {
+    "en": "Junjo Romantica",
+    "ja": "純情ロマンチカ",
+    "ko": "순정 로맨티카",
+    "code": "junjo-romantica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5280,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8805,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iGKd4mCvBsk/X4NiCuCw9MI/AAAAAAABmm8/l56los2UY3gjPX9dTMY7olIkN-O-NAFhQCLcBGAsYHQ/s270/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iGKd4mCvBsk/X4NiCuCw9MI/AAAAAAABmm8/l56los2UY3gjPX9dTMY7olIkN-O-NAFhQCLcBGAsYHQ/s270/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-kyxoDNUTEGo/X4ry4waJlyI/AAAAAAABpmM/bY20acoerP4GuCT4TkcgTk8Vn3QNViXVwCLcBGAsYHQ/s135/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RwGwjVhX8tA/X4ry5EQOxUI/AAAAAAABpmQ/As7xciC8_3Ukge5TobsfkgwIe9PvyaTCwCLcBGAsYHQ/s135/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-47h7l_BQbKU/X4ry5SOAijI/AAAAAAABpmU/eUsRK8DJg1ctrXYEtQ_Rxc5ToHkORySjgCLcBGAsYHQ/s135/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-a4WYppj8a4I/X4ry5j4N3zI/AAAAAAABpmY/gSwWdooqkUgGtue2nIB2D3A2huY6m2lBwCLcBGAsYHQ/s135/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mz9Mij5Hako/X4ry5wCWePI/AAAAAAABpmc/NWdok5fwxJEwpiwJxYtIB6L0AwQZ3vxPACLcBGAsYHQ/s135/1205-Misaki-Takahashi-Junjo-Romantica-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1205/",
+      "fetched_at": "2026-05-16T19:10:33.285Z",
+      "raw_id": "/nendoroid/details/n1205/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.609Z",
+      "raw_id": "Nendoroid/1200-1299/1205.json"
+    }
+  ]
+}

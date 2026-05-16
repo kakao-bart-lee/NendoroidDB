@@ -1,0 +1,68 @@
+{
+  "num": "2090",
+  "name": {
+    "en": "Nendoroid Ralsei",
+    "ja": "ねんどろいど ラルセイ (ねんどろいど らるせい)",
+    "ko": "랄세이"
+  },
+  "series": {
+    "en": "DELTARUNE",
+    "ja": "DELTARUNE",
+    "ko": "델타룬",
+    "code": "deltarune"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14113,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Xj_oGAU8bBk/ZCnVYaYcTBI/AAAAAAAA9T0/XSYVV8xAyTINXtiiSXAlMVngCjeHzvelQCNcBGAsYHQ/s270/2090-Ralsei-Deltarune-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Xj_oGAU8bBk/ZCnVYaYcTBI/AAAAAAAA9T0/XSYVV8xAyTINXtiiSXAlMVngCjeHzvelQCNcBGAsYHQ/s270/2090-Ralsei-Deltarune-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bZSgIUMsAfw/ZCnZmk7mnmI/AAAAAAAA9V0/CMAlSx975jQYiKsspNHfF0ElrKyzooROACNcBGAsYHQ/s135/2090-Ralsei-Deltarune-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U-eBEx43wGQ/ZCnZnDugwKI/AAAAAAAA9V4/OA7A6vuPhxUBwWS_ji9ef3HOCR-mWq0zQCNcBGAsYHQ/s135/2090-Ralsei-Deltarune-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iuEouewqI6Q/ZCnZnnmvtiI/AAAAAAAA9V8/PRfWbmApdRMLsiBUUgO6aVx1Icj6yR-BwCNcBGAsYHQ/s135/2090-Ralsei-Deltarune-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-L37wNlY9zMU/ZCnZoGThLtI/AAAAAAAA9WA/9_VU-M79hYEccxGa5orFHem9Mlhbxt1sgCNcBGAsYHQ/s135/2090-Ralsei-Deltarune-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YL6uAVyzTis/ZCnZovtPAbI/AAAAAAAA9WI/qAqQdRrNvVUbf5VBo7ZoXpBWx50Livu3QCNcBGAsYHQ/s135/2090-Ralsei-Deltarune-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2090/",
+      "fetched_at": "2026-05-16T19:10:33.834Z",
+      "raw_id": "/nendoroid/details/n2090/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.824Z",
+      "raw_id": "Nendoroid/2000-2099/2090.json"
+    }
+  ]
+}

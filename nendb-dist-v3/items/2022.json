@@ -1,0 +1,68 @@
+{
+  "num": "2022",
+  "name": {
+    "en": "Nendoroid Eren Yeager: Attack Titan Ver.",
+    "ja": "ねんどろいど エレン・イェーガー 進撃の巨人 Ver. (ねんどろいど えれん・いぇーがー しんげきのきょじん Ver.)",
+    "ko": "에렌 예거: 진격의 거인 Ver."
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13664,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0WjhNbAXlDQ/Y69BOnwlu4I/AAAAAAAA8Pw/aUGG2qQoKDgDcCs6hlJqLYp6lUEZBS-qgCNcBGAsYHQ/s270/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0WjhNbAXlDQ/Y69BOnwlu4I/AAAAAAAA8Pw/aUGG2qQoKDgDcCs6hlJqLYp6lUEZBS-qgCNcBGAsYHQ/s270/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-1btrAZAHo_M/Y684r6brTcI/AAAAAAAA8KQ/_MzhIitSDagnJC22jfuMZ9n6eaF6y-XwwCNcBGAsYHQ/s135/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MrOtrZVrayQ/Y684sHd3dOI/AAAAAAAA8KU/hUSU644PaX0ZXAiY4yM0aAkV9l8Oa8KoACNcBGAsYHQ/s135/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MK5DS58ZTQk/Y684sMcUVhI/AAAAAAAA8KY/4Heo6c8ie-AcWuz6ugWKAPiwFMDrZe-tgCNcBGAsYHQ/s135/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-I1k_SYllDxE/Y684sqLBbNI/AAAAAAAA8Kc/MBxqKoGI10cJrNE9bTiG9V2RtQz3l7jqgCNcBGAsYHQ/s135/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hOqB5gltk7M/Y684s9d1c9I/AAAAAAAA8Kg/4rEvmXRdA3YR704vv0xAzWh5XbAgt2I4ACNcBGAsYHQ/s135/2022-Eren-Yeager-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2022/",
+      "fetched_at": "2026-05-16T19:10:33.790Z",
+      "raw_id": "/nendoroid/details/n2022/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.808Z",
+      "raw_id": "Nendoroid/2000-2099/2022.json"
+    }
+  ]
+}

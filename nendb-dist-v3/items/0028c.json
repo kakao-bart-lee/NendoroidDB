@@ -1,0 +1,64 @@
+{
+  "num": "0028c",
+  "name": {
+    "en": "Hiiragi Kagami",
+    "ja": "ねんどろいど 柊 かがみ（キャラアニVer.） (ねんどろいど ひいらぎ かがみ（きゃらあにVer.）)",
+    "ko": "히이라기 카가미 캐러애니 Ver."
+  },
+  "series": {
+    "en": "Lucky Star",
+    "ja": "TVアニメ らき☆すた",
+    "ko": "럭키스타",
+    "code": "lucky-star"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3360,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-U0xo3yG56As/X4MR16v_C8I/AAAAAAAApYQ/VyOeD_DVSNojkUV_u4Pp9yAqsiXUsqUtwCLcBGAsYHQ/s270/028C-Hiiragi-Kagami-Chara-Ani-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-U0xo3yG56As/X4MR16v_C8I/AAAAAAAApYQ/VyOeD_DVSNojkUV_u4Pp9yAqsiXUsqUtwCLcBGAsYHQ/s270/028C-Hiiragi-Kagami-Chara-Ani-Lucky-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O6U6LCbEMng/X4GwXLW4_DI/AAAAAAAApBM/hOQxsKgl9tYAdViJL2JrBMhOC8yYN3HHgCLcBGAsYHQ/s135/028C-Hiiragi-Kagami-Lucky-Star-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n028c/",
+      "fetched_at": "2026-05-16T19:10:33.082Z",
+      "raw_id": "/nendoroid/details/n028c/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.267Z",
+      "raw_id": "Nendoroid/0000-0099/028c.json"
+    }
+  ]
+}

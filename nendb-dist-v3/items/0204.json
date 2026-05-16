@@ -1,0 +1,68 @@
+{
+  "num": "0204",
+  "name": {
+    "en": "Nendoroid Menma (ねんどろいど めんま)",
+    "ja": "ねんどろいど めんま (ねんどろいど めんま)",
+    "ko": "멘마"
+  },
+  "series": {
+    "en": "Anohana: The Flower We Saw That Day",
+    "ja": "あの日見た花の名前を僕達はまだ知らない。",
+    "ko": "그날 본 꽃의 이름을 우리는 아직 모른다",
+    "code": "anohana-the-flower-we-saw-that-day"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3666,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3326,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2m5eTKzMI3U/X4NLE8dqD4I/AAAAAAABlVg/0h-9Gdt0-bY6P1vnQF4ofA5nQAvuYt9iwCLcBGAsYHQ/s270/204-Menma-Anohana-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2m5eTKzMI3U/X4NLE8dqD4I/AAAAAAABlVg/0h-9Gdt0-bY6P1vnQF4ofA5nQAvuYt9iwCLcBGAsYHQ/s270/204-Menma-Anohana-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HpcznmtDS8Y/X4dY7b9glqI/AAAAAAAAqzI/jRDxcdu_Op8vfH6imSWu0WLgs1VT0czTwCLcBGAsYHQ/s135/204-Menma-Anohana-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GnLczavCKFE/X4dWyMM4kRI/AAAAAAAAqTg/g2FYz-k7GTAI-k25MIOWLpUxxvOPxk1ZACLcBGAsYHQ/s135/204-Menma-Anohana-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AY8HflwA1Ck/X4dWyjqySAI/AAAAAAAAqTk/faVa_HIXa986yEyjQRClHS1Cjg4rqcmqwCLcBGAsYHQ/s135/204-Menma-Anohana-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-snFhrGkdi50/X4dWyiOhGII/AAAAAAAAqTo/7g5TbdXP3DAQpV3nM8hpHxUGnL2aQMtCgCLcBGAsYHQ/s135/204-Menma-Anohana-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-h8fAEBhqtSM/X4dWzK_L6TI/AAAAAAAAqTs/p3aD0G6NBmc-Tc0nQmKYRjx5_68g-Ts3QCLcBGAsYHQ/s135/204-Menma-Anohana-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n204/",
+      "fetched_at": "2026-05-16T19:10:33.808Z",
+      "raw_id": "/nendoroid/details/n204/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.319Z",
+      "raw_id": "Nendoroid/0200-0299/204.json"
+    }
+  ]
+}

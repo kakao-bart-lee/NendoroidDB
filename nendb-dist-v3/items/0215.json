@@ -1,0 +1,67 @@
+{
+  "num": "0215",
+  "name": {
+    "en": "Nendoroid Saber & Rin Tohsaka : Cheerful ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ja": "ねんどろいど セイバー＆遠坂凛 応援Ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ko": "세이버&토오사카 린 응원 Ver."
+  },
+  "series": {
+    "en": "Fate/stay night",
+    "ja": "Fate/stay night",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6286,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3399,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-L9hWoq70oFk/X4NLHvEhnlI/AAAAAAABlWM/1AXvOT3tUA82SfnFc8JDs0qIbN1eR5IRQCLcBGAsYHQ/s270/215-Rin-Saber-Fate-Stay-Night-Cheerful-Version-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-L9hWoq70oFk/X4NLHvEhnlI/AAAAAAABlWM/1AXvOT3tUA82SfnFc8JDs0qIbN1eR5IRQCLcBGAsYHQ/s270/215-Rin-Saber-Fate-Stay-Night-Cheerful-Version-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iJpT9gBFFoU/X4dXB2eh0WI/AAAAAAAAqW0/im8DeyX0x1M34fuOmrYCgOvNWqGNlX6agCLcBGAsYHQ/s135/215-Saber-and-Rin-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RsEgeMS_5HE/X4dXCE0lCRI/AAAAAAAAqW4/BXkPcJSrblkUq8yvfJVPktE5COsPoEqSACLcBGAsYHQ/s135/215-Saber-and-Rin-Fate-Stay-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pSoJDby0Yn8/X4dXCIh9-aI/AAAAAAAAqW8/xjGqyb0ZPfUX-Xq-MNceymu6n8zHgp1BACLcBGAsYHQ/s135/215-Saber-and-Rin-Fate-Stay-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Tog_Qurn4YA/X4dXCRJR_bI/AAAAAAAAqXA/9MoCxKbtkp433D039aKR_2GRnMIuN35VgCLcBGAsYHQ/s135/215-Saber-and-Rin-Fate-Stay-Night-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n215/",
+      "fetched_at": "2026-05-16T19:10:33.874Z",
+      "raw_id": "/nendoroid/details/n215/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.322Z",
+      "raw_id": "Nendoroid/0200-0299/215.json"
+    }
+  ]
+}

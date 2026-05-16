@@ -1,0 +1,68 @@
+{
+  "num": "0465",
+  "name": {
+    "en": "Nendoroid Seishiro Tsugumi (ねんどろいど つぐみせいしろう)",
+    "ja": "ねんどろいど 鶫誠士郎 (ねんどろいど つぐみせいしろう)",
+    "ko": "츠구미 세이시로"
+  },
+  "series": {
+    "en": "Nisekoi",
+    "ja": "ニセコイ",
+    "ko": "니세코이",
+    "code": "nisekoi"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4699,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NBvaTUGhDsU/X4NN34e-uOI/AAAAAAABlqo/p-7Zd1BxeKIupsLGSo7hVcAzJOCn1S5sgCLcBGAsYHQ/s270/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NBvaTUGhDsU/X4NN34e-uOI/AAAAAAABlqo/p-7Zd1BxeKIupsLGSo7hVcAzJOCn1S5sgCLcBGAsYHQ/s270/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-6ZOOq4Yc2cU/X4detooM-FI/AAAAAAAArrM/HM2huFkcDL4UbIj-tnyidYj1Xz1oF16KACLcBGAsYHQ/s135/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kFkmq8GhjFY/X4deuCZsOoI/AAAAAAAArrQ/3Dhbfj7AxhUaaKZ4JaLyezz2hflGgHCzACLcBGAsYHQ/s135/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5xZgdZW3neI/X4deuoNtPUI/AAAAAAAArrU/AA6QkIiDtdULQPWiPM_zOp52l8nbsqCTwCLcBGAsYHQ/s135/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vXE_-cIsX2A/X4devBFLMAI/AAAAAAAArrY/KYBm_mb44LQEd4Wa35MvqNw9jKuSLCmkQCLcBGAsYHQ/s135/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XON6h15FbB8/X4devR2x3gI/AAAAAAAArrc/ahM5k00tSvYy5Q6nm2Ke1jbHbm8dsDYPwCLcBGAsYHQ/s135/465-Seishiro-Tsugumi-Nisekoi-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n465/",
+      "fetched_at": "2026-05-16T19:10:34.544Z",
+      "raw_id": "/nendoroid/details/n465/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.386Z",
+      "raw_id": "Nendoroid/0400-0499/465.json"
+    }
+  ]
+}

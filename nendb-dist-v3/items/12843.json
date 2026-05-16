@@ -1,0 +1,55 @@
+{
+  "num": "12843",
+  "name": {
+    "en": "Nendoroid Doll Height Adjustment Set (Peach/Cinnamon/Cream/Almond Milk)",
+    "ja": "ねんどろいどどーる 身長調整セット（peach/cinnamon/cream/almond milk） (ねんどろいどどーる しんちょうちょうせいせっと（ぴーち/しなもん/くりーむ/あーもんど みるく）)",
+    "ko": "높이조절 세트(피치/시나몬/크림/아몬드밀크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": null,
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-11",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 1500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12843,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220621/12843/100176/large/06aa24bae2649c99ae0bfb0a021f2de9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.949Z",
+      "raw_id": "NendoroidDoll/Customizing/12843.json"
+    }
+  ]
+}

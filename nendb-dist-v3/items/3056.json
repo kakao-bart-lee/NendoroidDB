@@ -1,0 +1,70 @@
+{
+  "num": "3056",
+  "name": {
+    "en": "Nendoroid Ishmael",
+    "ja": "ねんどろいど イシュメール",
+    "ko": null
+  },
+  "series": {
+    "en": "Limbus Company",
+    "ja": "Limbus Company",
+    "ko": null,
+    "code": "limbus-company"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：100mm",
+    "ko": null
+  },
+  "release_date": [],
+  "preorder": {
+    "opens_at": "2026-05-14",
+    "closes_at": "2026-06-24",
+    "is_limited": false
+  },
+  "availability": "preorder",
+  "price_jpy": 7400,
+  "gtin": "4570232582019",
+  "gsc_product_id": "1142173",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1142173",
+    "ja": "https://www.goodsmile.com/ja/product/1142173"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1142173/TU54G90QfxYgeFyqvVXNtbBa12Rhkz6K.jpg",
+    "gallery": [
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1142173/TU54G90QfxYgeFyqvVXNtbBa12Rhkz6K.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1142173",
+      "price_local": 7400,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:48:33.650Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1142173",
+      "fetched_at": "2026-05-16T11:48:33.650Z",
+      "raw_id": "1142173"
+    }
+  ]
+}

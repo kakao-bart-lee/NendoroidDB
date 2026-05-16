@@ -1,0 +1,68 @@
+{
+  "num": "1412",
+  "name": {
+    "en": "Nendoroid Kid the Phantom Thief",
+    "ja": "ねんどろいど 怪盗キッド (ねんどろいど かいとうきっど)",
+    "ko": "괴도 키드"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8247,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oyGTsc7lK3Y/X4Nkb4zzSOI/AAAAAAABm5I/7Mh_R-cu07EZT3OrCQKhY_KsmPFBomA3wCLcBGAsYHQ/s270/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oyGTsc7lK3Y/X4Nkb4zzSOI/AAAAAAABm5I/7Mh_R-cu07EZT3OrCQKhY_KsmPFBomA3wCLcBGAsYHQ/s270/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hPNa0ZZwTU8/X4tAFkvo_iI/AAAAAAABqw4/HV5VHaS4hlQw21LVd8azI0faDCQAjCOLgCLcBGAsYHQ/s135/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-j9bhj5HGdUY/X4tAF5n8m8I/AAAAAAABqw8/RmuBgnKV-8sePOLKsHsNL3GeFLuH9nFdgCLcBGAsYHQ/s135/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-2GG8SPzPKsk/X4tAGB4WICI/AAAAAAABqxA/pFYiKCxffvQku2sHHbe-zgB83gI8N9FRQCLcBGAsYHQ/s135/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nGgRF2yXM6I/X4tAGdWePII/AAAAAAABqxE/MD733S7LDEkDUOGP9t9GJ1rboukZre-wwCLcBGAsYHQ/s135/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RLSOQHwBSTI/X4tAG8am5VI/AAAAAAABqxI/qF2Ex16dDkIlUtOTe7cSQbbf7wBEXxUeACLcBGAsYHQ/s135/1412-Kid-the-Phantom-Thief-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1412/",
+      "fetched_at": "2026-05-16T19:10:33.415Z",
+      "raw_id": "/nendoroid/details/n1412/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.659Z",
+      "raw_id": "Nendoroid/1400-1499/1412.json"
+    }
+  ]
+}

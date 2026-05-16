@@ -1,0 +1,68 @@
+{
+  "num": "1286",
+  "name": {
+    "en": "Nendoroid Master/Male Protagonist",
+    "ja": "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
+    "ko": "후지마루 리츠카"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9244,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CcAtbMv66cI/X4NihDtqz-I/AAAAAAABmsU/syjqkyMFWTUJmApGn17P2KC9SHD0akczQCLcBGAsYHQ/s270/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CcAtbMv66cI/X4NihDtqz-I/AAAAAAABmsU/syjqkyMFWTUJmApGn17P2KC9SHD0akczQCLcBGAsYHQ/s270/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZT583T6SMBA/X4r1DSpV_VI/AAAAAAABqGY/Kun4zLDCl6M4o2zb3hx5S9IszWFx6bFRACLcBGAsYHQ/s135/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-reBQwBVPY40/X4r1Dn49mYI/AAAAAAABqGc/-hrBsmMXebk90yZICQ2gZF9GbNSMa6ciACLcBGAsYHQ/s135/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3MIBfm8DkAY/X4r1EOtO_AI/AAAAAAABqGg/eLf55MNXIsUv3Xbq2R5rLgpzCSdLikAlwCLcBGAsYHQ/s135/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Fpjv4wXt5-8/X4r1EQmNZ2I/AAAAAAABqGk/wszhvqL5M8UCX04G370ehhA8G3sM_R-LgCLcBGAsYHQ/s135/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DeR2Efa3Yoo/X4r1EWSztLI/AAAAAAABqGo/XH0jPKLa2P0ybOnYFqpVb8kRnNEiEiL5gCLcBGAsYHQ/s135/1286-Master-Male-Protagonist-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1286/",
+      "fetched_at": "2026-05-16T19:10:33.335Z",
+      "raw_id": "/nendoroid/details/n1286/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.629Z",
+      "raw_id": "Nendoroid/1200-1299/1286.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0973",
+  "name": {
+    "en": "Nendoroid Chiya",
+    "ja": "ねんどろいど 千夜 (ねんどろいど ちや)",
+    "ko": "우지마츠 치야"
+  },
+  "series": {
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか？？",
+    "ko": "주문은 토끼입니까?",
+    "code": "is-the-order-a-rabbit"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7481,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cCfKcNRegE8/X4New-nvxuI/AAAAAAABmOY/pvGBPMArF_gIU7Dphna-LdlP_2DP_A90wCLcBGAsYHQ/s270/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cCfKcNRegE8/X4New-nvxuI/AAAAAAABmOY/pvGBPMArF_gIU7Dphna-LdlP_2DP_A90wCLcBGAsYHQ/s270/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-H9h8KGOYJeA/X4rpHtSQA0I/AAAAAAABoDw/zLfwE1yAEaMRPZK_KKpAMzP0bY003J8SACLcBGAsYHQ/s135/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pbwwsucmGs4/X4rpHwoLySI/AAAAAAABoD0/oUo0Q54uuoEUi5-GO_0zOzkEzc7LmPCbgCLcBGAsYHQ/s135/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uubBL5bw7lg/X4rpIJk5jaI/AAAAAAABoD4/UmpWR4b3R98wYyOGydw-n3VpD3ne0zvPQCLcBGAsYHQ/s135/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-27bUiYq4XKY/X4rpIVaJ9nI/AAAAAAABoD8/cVvBTtEAiV4895BWyvO86FPWFLMkU2VCwCLcBGAsYHQ/s135/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i-myFoyhFt8/X4rpI46mttI/AAAAAAABoEA/Aq4hhT4Fwi8WBfAOSb2gun5AYYlUO8ATgCLcBGAsYHQ/s135/973-Chiya-Is-the-Order-a-Rabbit-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n973/",
+      "fetched_at": "2026-05-16T19:10:34.903Z",
+      "raw_id": "/nendoroid/details/n973/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.554Z",
+      "raw_id": "Nendoroid/0900-0999/973.json"
+    }
+  ]
+}

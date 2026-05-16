@@ -1,0 +1,67 @@
+{
+  "num": "0454",
+  "name": {
+    "en": "Nendoroid Aoi Sakurai (ねんどろいど さくらいあおい)",
+    "ja": "ねんどろいど 桜井あおい (ねんどろいど さくらいあおい)",
+    "ko": "사쿠라이 아오이"
+  },
+  "series": {
+    "en": "RAIL WARS!",
+    "ja": "RAIL WARS!",
+    "ko": "레일워즈",
+    "code": "rail-wars"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4584,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-A35AZ3kxT60/X4NN059xO0I/AAAAAAABlp8/2xJa4dFcQ2sel-OtzsYRvZ6YYsA4lSofgCLcBGAsYHQ/s270/454-Sakurai-Aoi-Rail-Wars%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-A35AZ3kxT60/X4NN059xO0I/AAAAAAABlp8/2xJa4dFcQ2sel-OtzsYRvZ6YYsA4lSofgCLcBGAsYHQ/s270/454-Sakurai-Aoi-Rail-Wars%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BNlvy9yjs5I/X4decX6cp_I/AAAAAAAArn4/sjnQZASFP38qDJ1GaIDXkut8kpcsccc1QCLcBGAsYHQ/s135/454-Aoi-Sakurai-RAIL-WARS-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bbSepZp5A8o/X4decwL8lmI/AAAAAAAArn8/jlMzont101w6O-J248RsPTUfJuWuRo4NQCLcBGAsYHQ/s135/454-Aoi-Sakurai-RAIL-WARS-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-bF9g8wuR4g8/X4dedgXi4KI/AAAAAAAAroA/nDqRSeJ0WdMbG2WRFiEvM37zj97CON_jQCLcBGAsYHQ/s135/454-Aoi-Sakurai-RAIL-WARS-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cUkmcJwTqaY/X4deeMVzxWI/AAAAAAAAroE/jKxXC9-G_Q4kRiOGa-OaQjHR0iYoXEUGwCLcBGAsYHQ/s135/454-Aoi-Sakurai-RAIL-WARS-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n454/",
+      "fetched_at": "2026-05-16T19:10:34.539Z",
+      "raw_id": "/nendoroid/details/n454/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.383Z",
+      "raw_id": "Nendoroid/0400-0499/454.json"
+    }
+  ]
+}

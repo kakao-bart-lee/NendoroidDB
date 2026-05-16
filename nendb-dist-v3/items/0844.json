@@ -1,0 +1,68 @@
+{
+  "num": "0844",
+  "name": {
+    "en": "Nendoroid Alpaca Suri",
+    "ja": "ねんどろいど アルパカ・スリ (ねんどろいど あるぱか・すり)",
+    "ko": "알파카 수리"
+  },
+  "series": {
+    "en": "Kemono Friends",
+    "ja": "けものフレンズ",
+    "ko": "케모노 프렌즈",
+    "code": "kemono-friends"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6848,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gwI441BDObc/X4Nd1DlbJ5I/AAAAAAABmFc/fKvF9m84K70g5k3a6YDx6xp1IVoYgqFhwCLcBGAsYHQ/s270/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gwI441BDObc/X4Nd1DlbJ5I/AAAAAAABmFc/fKvF9m84K70g5k3a6YDx6xp1IVoYgqFhwCLcBGAsYHQ/s270/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m4kTuzKfM8c/X4rjBif_1zI/AAAAAAABnP4/WBNOpWbERRIvtH_xFdS9KKq6hwC7ndhFgCLcBGAsYHQ/s135/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BtK3PS3BQDs/X4rjBgV5MeI/AAAAAAABnP8/93EJ5oLUoBUnMnomNPJef0FhB1ZO1lzrgCLcBGAsYHQ/s135/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-mawE99bGbaI/X4rjBzDTEQI/AAAAAAABnQA/zNYZ76d4-Dse0yZC_Y3OvdsRLq75W4G5gCLcBGAsYHQ/s135/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FiS2GXzQYa0/X4rjCdoh2DI/AAAAAAABnQI/iSYtK0mvW9s0lqpu1sCqVmyy442GWgZngCLcBGAsYHQ/s135/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UX--ZHC-SNc/X4rjCbdSa1I/AAAAAAABnQE/scYigYywFWgb28HfKPEMrbEoG6TDr-NOwCLcBGAsYHQ/s135/844-Alpaca-Suri-Kemono-Friends-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n844/",
+      "fetched_at": "2026-05-16T19:10:34.832Z",
+      "raw_id": "/nendoroid/details/n844/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.520Z",
+      "raw_id": "Nendoroid/0800-0899/844.json"
+    }
+  ]
+}

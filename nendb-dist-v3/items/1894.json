@@ -1,0 +1,69 @@
+{
+  "num": "1894",
+  "name": {
+    "en": "Nendoroid Ramlethal Valentine",
+    "ja": "ねんどろいど ラムレザル=ヴァレンタイン (ねんどろいど らむれざる=ゔぁれんたいん)",
+    "ko": "램리썰 밸런타인"
+  },
+  "series": {
+    "en": "GUILTY GEAR -STRIVE-",
+    "ja": "GUILTY GEAR -STRIVE-",
+    "ko": "길티기어 -스트라이브-",
+    "code": "guilty-gear-strive"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12810,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-O-EZL2fLta8/Yw_WLru0ddI/AAAAAAAA6ZQ/G0HE_0UdFioiJJX0Jwd8ykCqSI1Y0jqJACNcBGAsYHQ/s270/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-O-EZL2fLta8/Yw_WLru0ddI/AAAAAAAA6ZQ/G0HE_0UdFioiJJX0Jwd8ykCqSI1Y0jqJACNcBGAsYHQ/s270/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bVF17lkGPZg/YxEWw30cteI/AAAAAAAA6jM/WDTFjkV9Ky4xPWwURA-B0BI-SlvlAMS-QCNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Jt8-E8sDq40/YxEWxaxPOUI/AAAAAAAA6jQ/4WM4lpNiiI0lBvxyPqY5qDYRBbB_dDtXgCNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y_lkBEqqhKM/YxEWxyEjpjI/AAAAAAAA6jU/DTFQiOIvXTsQwcuDh5G_GsW3TsSdmp3EACNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vM3f2FcuLHM/YxEWyW3HEYI/AAAAAAAA6jY/Hh01xKIJnaYz6MwgZi2RmYZ-3VhvOg8QACNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-sydW703Jh2s/YxEWy1AF3II/AAAAAAAA6jc/oGd6YPj9GbYEtfP910LGVBYpvq7nWa79ACNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LsPVTxS3mR8/YxEWzf1DXkI/AAAAAAAA6jg/Y8Gm04YDdYUCzJLga86CN3bH4F9X4yENgCNcBGAsYHQ/s135/1894-Ramlethal-Valentine-Guilty-Gear-Strive-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1894/",
+      "fetched_at": "2026-05-16T19:10:33.714Z",
+      "raw_id": "/nendoroid/details/n1894/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.777Z",
+      "raw_id": "Nendoroid/1800-1899/1894.json"
+    }
+  ]
+}

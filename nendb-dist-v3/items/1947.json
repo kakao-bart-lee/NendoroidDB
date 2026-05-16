@@ -1,0 +1,68 @@
+{
+  "num": "1947",
+  "name": {
+    "en": "Nendoroid Rilakkuma",
+    "ja": "ねんどろいど リラックマ (ねんどろいど りらっくま)",
+    "ko": "리락쿠마"
+  },
+  "series": {
+    "en": "Rilakkuma",
+    "ja": "リラックマ",
+    "ko": "리락쿠마",
+    "code": "rilakkuma"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13166,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9oYwOydfUGE/Y02v90mrgHI/AAAAAAAA6_A/3DdSKRk2VRgikTBl-H28Lu8fUS-YkAA_wCNcBGAsYHQ/s270/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9oYwOydfUGE/Y02v90mrgHI/AAAAAAAA6_A/3DdSKRk2VRgikTBl-H28Lu8fUS-YkAA_wCNcBGAsYHQ/s270/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hqkEDFYQq9s/Y027S0sVs4I/AAAAAAAA7QI/qZz6GAz-jsAbM_s_v_N3c-zdPDNNcdkTQCNcBGAsYHQ/s135/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GXAMrsoGQIU/Y027TSS8AGI/AAAAAAAA7QM/JvPIiGTskQkq2Q6pqAlF4ExaEBvL7eBlwCNcBGAsYHQ/s135/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-r8STBdBz6Ok/Y027T2VuUSI/AAAAAAAA7QQ/yI-US9BvqM8_eRsOIrasa7-AC8pmHFzwwCNcBGAsYHQ/s135/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-OPvS_Unow8s/Y027UXhgQWI/AAAAAAAA7QU/P6GCBuIlYFEYqsLeE6aubmVGoBwRaZ2gQCNcBGAsYHQ/s135/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-cKVuOG-4gcE/Y027U9lOaII/AAAAAAAA7QY/w5JR4K5VFHAccT7gDZqEPHVaP_1ntmBvQCNcBGAsYHQ/s135/1947-Rilakkuma-Rilakkuma-Mascot-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1947/",
+      "fetched_at": "2026-05-16T19:10:33.746Z",
+      "raw_id": "/nendoroid/details/n1947/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.788Z",
+      "raw_id": "Nendoroid/1900-1999/1947.json"
+    }
+  ]
+}

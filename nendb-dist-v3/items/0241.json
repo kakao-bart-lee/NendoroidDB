@@ -1,0 +1,67 @@
+{
+  "num": "0241",
+  "name": {
+    "en": "Nendoroid Miu Takanashi (ねんどろいど たかなしみう)",
+    "ja": "ねんどろいど 小鳥遊美羽 (ねんどろいど たかなしみう)",
+    "ko": "타카나시 미우"
+  },
+  "series": {
+    "en": "Listen to Me, Girls. I Am Your Father!",
+    "ja": "パパのいうことを聞きなさい！",
+    "ko": "아빠 말 좀 들어라!",
+    "code": "listen-to-me-girls-i-am-your-father"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3510,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HtrCyCw2e_E/X4NLPBRKU-I/AAAAAAABlXw/0HbT2Z-7ns0kXQ6pZ_u69ZZ2AktOuf2vwCLcBGAsYHQ/s270/241-Miu-Takanashi-Listen-Girls-I-Am-Your-Father-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HtrCyCw2e_E/X4NLPBRKU-I/AAAAAAABlXw/0HbT2Z-7ns0kXQ6pZ_u69ZZ2AktOuf2vwCLcBGAsYHQ/s270/241-Miu-Takanashi-Listen-Girls-I-Am-Your-Father-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tLYynu0_Er8/X4dXgkdmmjI/AAAAAAAAqeg/xQB4234aXDwciBGlGL4u2wNDXEHOIgMtgCLcBGAsYHQ/s135/241-Miu-Takanashi-Listen-to-Me-Girls.-I-Am-Your-Father-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wfRP_YAVLds/X4dXg_JtAFI/AAAAAAAAqek/d6HEGtO7ZOsaQbbf_NbetwDuEuoHRI2AQCLcBGAsYHQ/s135/241-Miu-Takanashi-Listen-to-Me-Girls.-I-Am-Your-Father-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YxkZFpkiufo/X4dXg-RMYQI/AAAAAAAAqeo/SB_PkqW9j9ILty_Y1I9DA1VA_HQo0Y6QQCLcBGAsYHQ/s135/241-Miu-Takanashi-Listen-to-Me-Girls.-I-Am-Your-Father-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-o2w61mibh24/X4dXgwFF1zI/AAAAAAAAqes/XaKzJdJwVkoYZ82ufOqO6w4cMGjBrPgEACLcBGAsYHQ/s135/241-Miu-Takanashi-Listen-to-Me-Girls.-I-Am-Your-Father-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n241/",
+      "fetched_at": "2026-05-16T19:10:34.046Z",
+      "raw_id": "/nendoroid/details/n241/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.330Z",
+      "raw_id": "Nendoroid/0200-0299/241.json"
+    }
+  ]
+}

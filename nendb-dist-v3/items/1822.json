@@ -1,0 +1,70 @@
+{
+  "num": "1822",
+  "name": {
+    "en": "Nendoroid Princess Syalis",
+    "ja": "ねんどろいど スヤリス姫 (ねんどろいど すやりすひめ)",
+    "ko": "오로라 스야리스 카이민 공주"
+  },
+  "series": {
+    "en": "Sleepy Princess in the Demon Castle",
+    "ja": "魔王城でおやすみ",
+    "ko": "마왕성에서 잘 자요",
+    "code": "sleepy-princess-in-the-demon-castle"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12335,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Z-YPaHOEQ-k/YhAFDB8yzbI/AAAAAAAA3mM/VARpMtTcgfY3SyXPlZwSUytfodruwefXwCNcBGAsYHQ/s270/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Z-YPaHOEQ-k/YhAFDB8yzbI/AAAAAAAA3mM/VARpMtTcgfY3SyXPlZwSUytfodruwefXwCNcBGAsYHQ/s270/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-I19tYRTmKQU/YhAMgAXzomI/AAAAAAAA3yo/vbi3IwWoWY8ZgPKB28Iway-B61dYUM7gACNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lufctxbkswM/YhAMggAm63I/AAAAAAAA3yw/iAMYgau624YJ_MZmDtiUd4_oakR37g-BwCNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1GmLls_c0KY/YhAMg9-sj3I/AAAAAAAA3y0/NszaOsNMvLIjrXQFFFjKwagh8_7SulI7wCNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KVR1_HlV3SA/YhAMhAKsxmI/AAAAAAAA3y4/8id7xu01QvcT_CIH5CAQlCmRUIIy4kXwgCNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-w0XBTHa49uk/YhAMhb_Q_KI/AAAAAAAA3y8/gjin1ohbQXQqsAFCn1De9VnxrXiRifIfACNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LpC1E0G-5M4/YhAMhueC_sI/AAAAAAAA3zA/vjerxyy3qe03Eo2rdskrLAayhA5_zhWjQCNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-35_jeFtlrhs/YhAMib4nP2I/AAAAAAAA3zE/21_sgS_BGLs_lFrxlwVkAu7nwqO8Ji2CQCNcBGAsYHQ/s135/1822-Princess-Syalis-Sleepy-Princess-in-the-Demon-Castle-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1822/",
+      "fetched_at": "2026-05-16T19:10:33.668Z",
+      "raw_id": "/nendoroid/details/n1822/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.760Z",
+      "raw_id": "Nendoroid/1800-1899/1822.json"
+    }
+  ]
+}

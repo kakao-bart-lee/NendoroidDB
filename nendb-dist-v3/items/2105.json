@@ -1,0 +1,69 @@
+{
+  "num": "2105",
+  "name": {
+    "en": "Nendoroid Kyoya Ootori",
+    "ja": "ねんどろいど 鳳鏡夜 (ねんどろいど おおとりきょうや)",
+    "ko": "오오토리 쿄우야"
+  },
+  "series": {
+    "en": "Ouran High School Host Club",
+    "ja": "桜蘭高校ホスト部",
+    "ko": "오란고교 호스트부",
+    "code": "ouran-high-school-host-club"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14274,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-43HJJmbZThg/ZFqWX6wxnMI/AAAAAAAA9ys/0g697LwPZZUTxg0aESQvWcNINwJoG8nHgCNcBGAsYHQ/s270/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-43HJJmbZThg/ZFqWX6wxnMI/AAAAAAAA9ys/0g697LwPZZUTxg0aESQvWcNINwJoG8nHgCNcBGAsYHQ/s270/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-e8QqjgEh_oc/ZFqbnycttjI/AAAAAAAA93I/ScacmtfO04o6SWBXbnJP9glo0ffWT5A_ACNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-oMx0ZmPn-CI/ZFqboPTYh4I/AAAAAAAA93M/J8xI1xY7rmYuvMFM0h6Rc6SW7VjaqChpQCNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Vh1thK3j3SI/ZFqboGefZ3I/AAAAAAAA93Q/dzZ7y-bPiZ0UdGo2L5Sg3BUZJbm6Nr9FQCNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PZKAjn5mZqE/ZFqboPWCFFI/AAAAAAAA93U/cDO-aApe4qYDczJpH16zEDnT3uRnoKWxACNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Vl_g58-hPZI/ZFqboWrVhPI/AAAAAAAA93Y/zaHH-6AYIz4hpgGpxLBtGVRsi5KCpbBEgCNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-3l9iM8Ic2ko/ZFqbojXeoII/AAAAAAAA93g/qo9m7Hp1vLsBo_BnvUFAitL7mVV5v-iyACNcBGAsYHQ/s135/2105-Kyoya-Ootori-Ouran-High-School-Host-Club-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2105/",
+      "fetched_at": "2026-05-16T19:10:33.843Z",
+      "raw_id": "/nendoroid/details/n2105/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.827Z",
+      "raw_id": "Nendoroid/2100-2199/2105.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0825",
+  "name": {
+    "en": "Nendoroid Miho Nishizumi: Panzer Jacket & Peacoat Ver.",
+    "ja": "ねんどろいど 西住みほ パンツァージャケット＆Pコート Ver. (ねんどろいど にしずみみほ ぱんつぁーじゃけっと＆ぴーこーと Ver.)",
+    "ko": "니시즈미 미호 판저 자켓 & P코트 Ver."
+  },
+  "series": {
+    "en": "GIRLS und PANZER das Finale",
+    "ja": "ガールズ＆パンツァー 最終章",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer-das-finale"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6715,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7pl1L8nbVgc/X4NdwG9hrkI/AAAAAAABmEM/HnhsUikEPwYw3N4v0xaRcpgvqHOkHFSFwCLcBGAsYHQ/s270/825-Miho-Nishizumi-Jacket-Peacoat-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7pl1L8nbVgc/X4NdwG9hrkI/AAAAAAABmEM/HnhsUikEPwYw3N4v0xaRcpgvqHOkHFSFwCLcBGAsYHQ/s270/825-Miho-Nishizumi-Jacket-Peacoat-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-lUvfZvxorh4/X4rier077tI/AAAAAAABnIM/0nlQ0MOL-N8yTQpnwQESFLZF0HQ4LhZlQCLcBGAsYHQ/s135/825-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fF8tt8M00mw/X4rie17sZRI/AAAAAAABnIQ/LU-L_O3YFgoqIx0XwwwKMDhZyiZ8WEMLACLcBGAsYHQ/s135/825-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ulYoHX0UAmM/X4rieywOZUI/AAAAAAABnIU/Oy2f8tSgzsYsrW7ZGMbKaCmI3zy9Iy0NACLcBGAsYHQ/s135/825-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9gBbXKJKO7g/X4rifkgVmiI/AAAAAAABnIY/pWBzi80ATJ8RukuyvWwxiXARhCPr9rFywCLcBGAsYHQ/s135/825-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mCmPwgbiFkk/X4rif8ZqRbI/AAAAAAABnIc/hVRhRLoCmmcBfjP3szTnDfTZn3nlZWTAQCLcBGAsYHQ/s135/825-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n825/",
+      "fetched_at": "2026-05-16T19:10:34.821Z",
+      "raw_id": "/nendoroid/details/n825/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.516Z",
+      "raw_id": "Nendoroid/0800-0899/825.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0714",
+  "name": {
+    "en": "Nendoroid Riko Sakurauchi",
+    "ja": "ねんどろいど 桜内梨子 (ねんどろいど さくらうちりこ)",
+    "ko": "사쿠라우치 리코"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6143,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-l4ycTAHJ-9Y/X4Nc1JQQ4DI/AAAAAAABl8M/JyK2b9mi3F0eN-Cyp6eCubrMLovENaG1ACLcBGAsYHQ/s270/714-Riko-Sakurauchi-LoveLive-Sunshine-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-l4ycTAHJ-9Y/X4Nc1JQQ4DI/AAAAAAABl8M/JyK2b9mi3F0eN-Cyp6eCubrMLovENaG1ACLcBGAsYHQ/s270/714-Riko-Sakurauchi-LoveLive-Sunshine-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-jP5eI2IjF1I/X4i3lkgSMAI/AAAAAAAAtLU/VPqJE6cm2GwiKcQ9q1MFEdzAox2a1grZgCLcBGAsYHQ/s135/714-Riko-Sakurauchi-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-s4MVzcDY4BE/X4i3l15Y1dI/AAAAAAAAtLY/aFNaH0HinOMcu0EQ2YkhDY1_k6gPL_p0wCLcBGAsYHQ/s135/714-Riko-Sakurauchi-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-oWVCsnMJ5ZU/X4i3mH5xw6I/AAAAAAAAtLc/lockOxzhRUkJn781tyUnUcJ6q1CAKbCrQCLcBGAsYHQ/s135/714-Riko-Sakurauchi-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qFMtXh0UAM8/X4i3mQdpwlI/AAAAAAAAtLg/SGe3BqEvr4MzMPlJgqtc-JWxspSwCCWLACLcBGAsYHQ/s135/714-Riko-Sakurauchi-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n714/",
+      "fetched_at": "2026-05-16T19:10:34.757Z",
+      "raw_id": "/nendoroid/details/n714/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.490Z",
+      "raw_id": "Nendoroid/0700-0799/714.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0708",
+  "name": {
+    "en": "Nendoroid 22: BML 2016 Ver.",
+    "ja": "ねんどろいど 22娘 BML 2016 Ver. (22むすめ BML 2016 Ver.)",
+    "ko": "22니앙 BML 2016 Ver."
+  },
+  "series": {
+    "en": "bilibili Macro Link",
+    "ja": "bilibili Macro Link",
+    "ko": "비리비리",
+    "code": "bilibili-macro-link"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6322,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TV0AGzwaae8/X4Nczm2XtuI/AAAAAAABl70/LgbYbcxUlF8fYUqLErYXtz9dZO4wXIFTQCLcBGAsYHQ/s270/708-22-Bilibili%2BMacro%2BLink-BML-2016-Mascots-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TV0AGzwaae8/X4Nczm2XtuI/AAAAAAABl70/LgbYbcxUlF8fYUqLErYXtz9dZO4wXIFTQCLcBGAsYHQ/s270/708-22-Bilibili%2BMacro%2BLink-BML-2016-Mascots-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-My5ryH16XQM/X4i3cuHfHhI/AAAAAAAAtJM/f9qSdeHrdaAxtcTfGRYrKXl3vGXdFFBEQCLcBGAsYHQ/s135/708-22-Bilibili-Macro-Link-Mascots-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7T8x1rHR5Ug/X4i3c_XiJ2I/AAAAAAAAtJQ/JVhNH-LGTeEWz0S8KD8Lh8b3-fYbpjgDgCLcBGAsYHQ/s135/708-22-Bilibili-Macro-Link-Mascots-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x6PzZoxZlgg/X4i3dbjkI5I/AAAAAAAAtJU/-yPDiTu9zhkLmBxEWJsoECHR_fw1eSJUQCLcBGAsYHQ/s135/708-22-Bilibili-Macro-Link-Mascots-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mVvpYc3a_Ks/X4i3dl60sQI/AAAAAAAAtJY/mwmBMzOpgmot_rrN3e1O5R2KSUCnHJ7EgCLcBGAsYHQ/s135/708-22-Bilibili-Macro-Link-Mascots-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-V4SpTOYt2XM/X4i3d1jhMJI/AAAAAAAAtJc/7UVvM2-suw8wO8MveODXcWU5OE_buMT5QCLcBGAsYHQ/s135/708-22-Bilibili-Macro-Link-Mascots-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n708/",
+      "fetched_at": "2026-05-16T19:10:34.754Z",
+      "raw_id": "/nendoroid/details/n708/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.489Z",
+      "raw_id": "Nendoroid/0700-0799/708.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1835",
+  "name": {
+    "en": "Nendoroid Ninym Ralei",
+    "ja": "ねんどろいど ニニム・ラーレイ (ねんどろいど ににむ・らーれい)",
+    "ko": "니님 랄레이"
+  },
+  "series": {
+    "en": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+    "ja": "天才王子の赤字国家再生術",
+    "ko": "천재 왕자의 적자국가 재생술",
+    "code": "the-genius-prince-s-guide-to-raising-a-nation-out-of-debt"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12439,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-VRMlv6Kb2ho/YliMikNpZPI/AAAAAAAA5Lk/4PacMas34dsY828enG8xu3xj3Wu3pYIzQCNcBGAsYHQ/s270/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-VRMlv6Kb2ho/YliMikNpZPI/AAAAAAAA5Lk/4PacMas34dsY828enG8xu3xj3Wu3pYIzQCNcBGAsYHQ/s270/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NEBMvCCrdx4/YliVWil2OiI/AAAAAAAA5S4/29-iK4uKhE0B7_z7KOWhMv_NB9GU7Ao7QCNcBGAsYHQ/s135/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VcgwVUxmFtQ/YliVXDCEYVI/AAAAAAAA5S8/8_F3EBr9YrcDXeZvdCmkK3y6Gb3rfuSNACNcBGAsYHQ/s135/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eOV6e7gEgvg/YliVXvUCBII/AAAAAAAA5TA/JT6FcpH5j-oyzl8210g_HAbt7LytTOs8wCNcBGAsYHQ/s135/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y8ayyxI97AI/YliVYB9nsoI/AAAAAAAA5TE/Fv5_DSh5x4gkLAgZnEPbcnlSBEjw1sxLQCNcBGAsYHQ/s135/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-3RA8GaLJjcE/YliVYARd4mI/AAAAAAAA5TI/UF5ZU_PJdukpMBrSyQ5K_EK0ytzYWL_CACNcBGAsYHQ/s135/1835-Ninym-Ralei-The-Genius-Princes-Guide-to-Raising-a-Nation-Out-of-Debt-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1835/",
+      "fetched_at": "2026-05-16T19:10:33.676Z",
+      "raw_id": "/nendoroid/details/n1835/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.763Z",
+      "raw_id": "Nendoroid/1800-1899/1835.json"
+    }
+  ]
+}

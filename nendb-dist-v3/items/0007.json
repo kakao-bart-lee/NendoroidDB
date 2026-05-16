@@ -1,0 +1,64 @@
+{
+  "num": "0007",
+  "name": {
+    "en": "Nendoroid Kuwagata Tsumami & Joshi-chan (くわがたつまみ＆じょしちゃん ねんどろいど)",
+    "ja": "ねんどろいど　くわがたツマミ＆じょしちゃん (くわがたつまみ＆じょしちゃん ねんどろいど)",
+    "ko": "사슴벌레 츠마미&죠시쨩"
+  },
+  "series": {
+    "en": "Kuwagata Tsumami",
+    "ja": "くわがたツマミ",
+    "ko": "사슴벌레 츠마미",
+    "code": "kuwagata-tsumami"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2007",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 609,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cHvA1-vTEG8/X4MRwrxTg9I/AAAAAAAApWs/HOdAKytzMYI06JGD06aICCqZrKvCS4BswCLcBGAsYHQ/s270/007-Kuwagata-Tsumami-Joshi-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cHvA1-vTEG8/X4MRwrxTg9I/AAAAAAAApWs/HOdAKytzMYI06JGD06aICCqZrKvCS4BswCLcBGAsYHQ/s270/007-Kuwagata-Tsumami-Joshi-Chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DCNrN4vHqag/X4GwNfamPgI/AAAAAAAAo-k/OSvMJv-nndQ-8tzfzyXN6j3mPTPysFfCQCLcBGAsYHQ/s135/007-Kuwagata-Tsumami-and-Joshi-chan-Kuwagata-Tsumami-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n007/",
+      "fetched_at": "2026-05-16T19:10:33.067Z",
+      "raw_id": "/nendoroid/details/n007/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.259Z",
+      "raw_id": "Nendoroid/0000-0099/007.json"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "num": "0327",
+  "name": {
+    "en": "Nendoroid Shizue (Isabelle)",
+    "ja": "ねんどろいど しずえ (ねんどろいど しずえ)",
+    "ko": "여울"
+  },
+  "series": {
+    "en": "Animal Crossing: New Leaf",
+    "ja": "とびだせ　どうぶつの森",
+    "ko": "동물의 숲 시리즈",
+    "code": "animal-crossing-new-leaf"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Yuuta Matsuzawa",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": "4571697189096",
+  "gsc_product_id": "1734",
+  "gsc_product_num": 3906,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1734",
+    "ja": "https://www.goodsmile.com/ja/product/1734"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1734/xniDAKQvGCHryNfbpuRJt1MXqYV4cBz6.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ErVG-PpYYkU/X4NMqnRCKtI/AAAAAAABlhE/hbPP8_PlP4w5armSSvLk67weYbWA-NPCgCLcBGAsYHQ/s270/327-Isabelle-Animal-Crossing-New-Leaf-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GMnmmZvO4j8/X4daYbX-KwI/AAAAAAAAq8M/RhH0ayB_JMwTDilDkE_xbB7NFEpP6WcqwCLcBGAsYHQ/s135/327-Isabelle-Animal-Crossing-New-Leaf-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-id5tWaW_6zc/X4daY7jjD-I/AAAAAAAAq8Q/NL40PbQVfv8FZB5O3dQYVr3J20r8RPdrACLcBGAsYHQ/s135/327-Isabelle-Animal-Crossing-New-Leaf-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-linVdPf_fZI/X4daZTcYdmI/AAAAAAAAq8U/Lq7RijKhxhc3-AdlAXjZsw8bxNhYOQ_uwCLcBGAsYHQ/s135/327-Isabelle-Animal-Crossing-New-Leaf-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ptiL9pIHeA8/X4daZg7SnYI/AAAAAAAAq8Y/HMar6K2HgswH9XlQ65yZnA-BL0gGfJROgCLcBGAsYHQ/s135/327-Isabelle-Animal-Crossing-New-Leaf-Video-Games-Nendoroid-6.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1734/6Sw1H0jJQb3nqvetf78hWzDaEgZRFM4U.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1734/xniDAKQvGCHryNfbpuRJt1MXqYV4cBz6.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1734",
+      "price_local": 5800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:58:57.322Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1734",
+      "fetched_at": "2026-05-16T11:58:57.322Z",
+      "raw_id": "1734"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1734",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1734"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n327/",
+      "fetched_at": "2026-05-16T19:10:34.463Z",
+      "raw_id": "/nendoroid/details/n327/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.352Z",
+      "raw_id": "Nendoroid/0300-0399/327.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "num": "0168a",
+  "name": {
+    "en": "Nendoroid Airi (ねんどろいど あいり)",
+    "ja": "ねんどろいど アイリ (ねんどろいど あいり)",
+    "ko": "아이리"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3111,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6GnRfEwDCfw/X4NKEFlCw4I/AAAAAAABlSU/OB4ZcZeuQ4I6muorqsE3VEr_LQhyGHR0gCLcBGAsYHQ/s270/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6GnRfEwDCfw/X4NKEFlCw4I/AAAAAAABlSU/OB4ZcZeuQ4I6muorqsE3VEr_LQhyGHR0gCLcBGAsYHQ/s270/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-m2TBajdW2b0/X4dThluPZeI/AAAAAAAAqEk/krQqdZllJho0bFO7eG7Fa5EQRcu0unKSACLcBGAsYHQ/s135/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Awd9dxFQlGI/X4dTh8uep5I/AAAAAAAAqEo/j685xWdBqxEaHfLbejNWmH5dC4jVAweqwCLcBGAsYHQ/s135/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ttIG6npaz0I/X4dTiJJ_KNI/AAAAAAAAqEs/d3HkD3O82dEoUrvuCahbPihagd3mOJhkACLcBGAsYHQ/s135/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BRAvKHcXNJM/X4dTibExqoI/AAAAAAAAqEw/xRSo4OqnGLM9d8dWZc6chEA4CGXk8bhzQCLcBGAsYHQ/s135/168A-Airi-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n168a/",
+      "fetched_at": "2026-05-16T19:10:33.586Z",
+      "raw_id": "/nendoroid/details/n168a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.306Z",
+      "raw_id": "Nendoroid/0100-0199/168a.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0118",
+  "name": {
+    "en": "Nendoroid Tooko Amano",
+    "ja": "ねんどろいど 天野遠子 (ねんどろいど あまのとおこ)",
+    "ko": "아마노 토오코"
+  },
+  "series": {
+    "en": "Bungaku Shoujo: The Movie",
+    "ja": "劇場版\"文学少女\"",
+    "ko": "문학소녀",
+    "code": "bungaku-shoujo-the-movie"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2862,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E9mHh7D5ht8/X4NJxqZIviI/AAAAAAABlO8/BF2JCQsW7xcOux-5LoUzG6bBXM-NP5N3QCLcBGAsYHQ/s270/118-Amano-Tooko-Bungaku-Shojyo-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E9mHh7D5ht8/X4NJxqZIviI/AAAAAAABlO8/BF2JCQsW7xcOux-5LoUzG6bBXM-NP5N3QCLcBGAsYHQ/s270/118-Amano-Tooko-Bungaku-Shojyo-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iU1TZPLgRWg/X4dSPvMtITI/AAAAAAAApyo/28VTk7ejssIjzBsdGz6exMhxCtOr8JghgCLcBGAsYHQ/s135/118-Amano-Tooko-Bungaku-Shojyo-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SSvR9igamNw/X4dSP7iUTlI/AAAAAAAApys/VWi10t-4fIwYplXcwNZXR9W8H-o4fAY3QCLcBGAsYHQ/s135/118-Amano-Tooko-Bungaku-Shojyo-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FxMLtRSu_ug/X4dSQN5Z-lI/AAAAAAAApyw/YNfJt_CVnxwSnpM8suBk_tcEBaRjpZgpgCLcBGAsYHQ/s135/118-Amano-Tooko-Bungaku-Shojyo-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-p0hLKL8WSNA/X4dSQnV5OnI/AAAAAAAApy0/yYQbH4fo-MELtYRugX_2D-76EsxhzV9HQCLcBGAsYHQ/s135/118-Amano-Tooko-Bungaku-Shojyo-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-59zcsGjGlYc/X4dSQr8dUfI/AAAAAAAApy4/9vvy71LmXUACkRFAZ6Eynon-xpcsMhItgCLcBGAsYHQ/s135/118-Amano-Tooko-Bungaku-Shojyo-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n118/",
+      "fetched_at": "2026-05-16T19:10:33.276Z",
+      "raw_id": "/nendoroid/details/n118/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.293Z",
+      "raw_id": "Nendoroid/0100-0199/118.json"
+    }
+  ]
+}

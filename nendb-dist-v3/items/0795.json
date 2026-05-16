@@ -1,0 +1,70 @@
+{
+  "num": "0795",
+  "name": {
+    "en": "Nendoroid Kiyoshimo",
+    "ja": "ねんどろいど 清霜 (ねんどろいど きよしも)",
+    "ko": "키요시모"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6577,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-YM89oc5oGcs/X4NdLdF7u7I/AAAAAAABmBg/qoFB8MhDxHkLL2P5TTx244N187rRAiGIQCLcBGAsYHQ/s270/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-YM89oc5oGcs/X4NdLdF7u7I/AAAAAAABmBg/qoFB8MhDxHkLL2P5TTx244N187rRAiGIQCLcBGAsYHQ/s270/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-o1lhJ8ys9PM/X4i6AFdaRDI/AAAAAAAAtp0/2P9j4tPHTwMCJTj--wzQ6E8GTniEQoVIwCLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yzY1HImdCwU/X4i6ASxBhmI/AAAAAAAAtp4/_8a1WWv2TncQu9zo11niIn83W3nJ5AkWACLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1fDEtQzdA9s/X4i6AkaV7OI/AAAAAAAAtp8/qWyn8cD8T6wpVOQpSzGbRGp6jKxNRPeKACLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-tr-Iz4OTbcs/X4i6A7_lB6I/AAAAAAAAtqA/-g6Hdk6Loy8_QjLwykn0s6n819c9DZvmQCLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-SKOtZzqQJNU/X4i6BWT9zjI/AAAAAAAAtqE/dKvkc_IgfwQ2wsBs_oVPpZf6YDyVj1eQgCLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UVlgN959AG8/X4i6B2wnjDI/AAAAAAAAtqI/RHOnBfWYEtkuKKzOTCuHc5rRp96ugnIdACLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-V-JFQWy8I-A/X4i6CTul5KI/AAAAAAAAtqM/5AFgFocPvqwmpoJ73Xp233smmvZXMFLYACLcBGAsYHQ/s135/795-Kiyoshimo-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n795/",
+      "fetched_at": "2026-05-16T19:10:34.804Z",
+      "raw_id": "/nendoroid/details/n795/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.509Z",
+      "raw_id": "Nendoroid/0700-0799/795.json"
+    }
+  ]
+}

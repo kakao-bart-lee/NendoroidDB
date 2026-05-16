@@ -1,0 +1,63 @@
+{
+  "num": "2358",
+  "name": {
+    "en": "Sora Kasugano",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Yosuga No Sora",
+    "ja": null,
+    "ko": null,
+    "code": "yosuga-no-sora"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6ByhGzOfVqQ/ZZcfINvOMAI/AAAAAAABDJw/dOzg5ckziOQhhhHWqh4KfNLi-saRC22_ACNcBGAsYHQ/s270/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6ByhGzOfVqQ/ZZcfINvOMAI/AAAAAAABDJw/dOzg5ckziOQhhhHWqh4KfNLi-saRC22_ACNcBGAsYHQ/s270/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-aRcz4sNrgvU/ZZSMz6g6AII/AAAAAAABDCI/tny7HCwDTggqG1fY_iGXd9a0cambC0SWwCNcBGAsYHQ/s135/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jV9oQWEv6Yk/ZZSM0a-IHmI/AAAAAAABDCM/lohCX3i61P0LmWAoRLIakJiZ9bOFrJrmACNcBGAsYHQ/s135/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-T_cx3O-nceE/ZZSM0wQ7kYI/AAAAAAABDCQ/Z0YHguaZ7dI9OAVp41QneQ4_UEC0X_4lQCNcBGAsYHQ/s135/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TedRqrbvbQk/ZZSM1R4C_kI/AAAAAAABDCU/Ou4C6X0kk6cZZ-14seUe_OrRG5oQ4tiigCNcBGAsYHQ/s135/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ABmsmd0TDYs/ZZSM143PgCI/AAAAAAABDCY/YM4DPFCKObQPJmHqnSZ15nL0BrWwStZsACNcBGAsYHQ/s135/2358-Sora-Kasugano-Yosuga-no-Sora-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2358/",
+      "fetched_at": "2026-05-16T19:10:34.008Z",
+      "raw_id": "/nendoroid/details/n2358/"
+    }
+  ]
+}

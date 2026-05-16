@@ -1,0 +1,69 @@
+{
+  "num": "1759",
+  "name": {
+    "en": "Nendoroid Draluc & John",
+    "ja": "ねんどろいど ドラルク&ジョン (ねんどろいど どらるく&じょん)",
+    "ko": "드라루크"
+  },
+  "series": {
+    "en": "The Vampire Dies in No Time",
+    "ja": "吸血鬼すぐ死ぬ",
+    "ko": "흡혈귀는 툭하면 죽는다",
+    "code": "the-vampire-dies-in-no-time"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12019,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lkCJ8i0Hmrc/Ya-zKvXdFeI/AAAAAAAA2D4/snOfiimj8fUAKHaBA7rJ9HWXm-PF2hzkgCNcBGAsYHQ/s270/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lkCJ8i0Hmrc/Ya-zKvXdFeI/AAAAAAAA2D4/snOfiimj8fUAKHaBA7rJ9HWXm-PF2hzkgCNcBGAsYHQ/s270/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AboqXb6A9zU/Ya-2QkNVhZI/AAAAAAAA2LQ/npPACaFA7CYxpd0pXJiDt32iATKvsFABgCNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9ktBRAW1Vxw/Ya-2Q1dz--I/AAAAAAAA2LU/TYBDiV12PcEh5NwvhwEUF5a_SujGd0a4wCNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-D7tLBj6D9HA/Ya-2RBvjsjI/AAAAAAAA2LY/sJgQEMaY0SIcETGhWIoW3eZCb1oP5IaMwCNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Hm6hYje91Xg/Ya-2RdkB0mI/AAAAAAAA2Lc/AUa9TU6WCPgcym8gP9ggEYMDAiB-mnlSACNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-iXXF4w0-9Mc/Ya-2RhMsy3I/AAAAAAAA2Lg/AEZKjjsd3-g4JSSIxVY0dY_roPzsT_xqACNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sV0NuFxptM4/Ya-2R08RSsI/AAAAAAAA2Lk/S7KyaZ8ZHJQE6USEVIcTFWWp70P_InFGQCNcBGAsYHQ/s135/1759-Draluc-and-John-The-Vampire-Dies-in-No-Time-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1759/",
+      "fetched_at": "2026-05-16T19:10:33.630Z",
+      "raw_id": "/nendoroid/details/n1759/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.744Z",
+      "raw_id": "Nendoroid/1700-1799/1759.json"
+    }
+  ]
+}

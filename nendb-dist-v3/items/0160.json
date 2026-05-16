@@ -1,0 +1,68 @@
+{
+  "num": "0160",
+  "name": {
+    "en": "Nendoroid Panty (ねんどろいど ぱんてぃ)",
+    "ja": "ねんどろいど パンティ (ねんどろいど ぱんてぃ)",
+    "ko": "아나키 팬티"
+  },
+  "series": {
+    "en": "Panty & Stocking with Garterbelt",
+    "ja": "Panty&Stocking with Garterbelt",
+    "ko": "팬티&스타킹with가터벨트",
+    "code": "panty-stocking-with-garterbelt"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3098,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4ieJXruzncY/X4NKBjJH4GI/AAAAAAABlR0/NoWEENwiZh4-pMkrWdLkr5rJmKfg-CWRgCLcBGAsYHQ/s270/160-Panty-Panty-Stocking-With-Garterbelt-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4ieJXruzncY/X4NKBjJH4GI/AAAAAAABlR0/NoWEENwiZh4-pMkrWdLkr5rJmKfg-CWRgCLcBGAsYHQ/s270/160-Panty-Panty-Stocking-With-Garterbelt-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-5GJj1XACxos/X4dTV7x4gsI/AAAAAAAAqBs/UNm10zcV3jMWPggbstIV_3uUNnaI4dnCQCLcBGAsYHQ/s135/160-Panty-Panty-and-Stocking-with-Garterbelt-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-QagiMtjbIJc/X4dTWedj_QI/AAAAAAAAqBw/jU6z-Wdm6w4Zhg6nUuuOHaVxwJNwtK9-QCLcBGAsYHQ/s135/160-Panty-Panty-and-Stocking-with-Garterbelt-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iNlskEVXBXs/X4dTWu_0tOI/AAAAAAAAqB0/6b4HVU_ibmUKqfzS0vcJJS9HEoQQtHE4ACLcBGAsYHQ/s135/160-Panty-Panty-and-Stocking-with-Garterbelt-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-F5UXkaYuOKY/X4dTWxdCAeI/AAAAAAAAqB4/90rPjbALgpI2-MEn0VfZhNDrtmg9BSflgCLcBGAsYHQ/s135/160-Panty-Panty-and-Stocking-with-Garterbelt-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-eld7dA1R2mU/X4dTXHX0uNI/AAAAAAAAqB8/08PRLj84lRwBF2qvFsbpx5mYvmwXkkEQgCLcBGAsYHQ/s135/160-Panty-Panty-and-Stocking-with-Garterbelt-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n160/",
+      "fetched_at": "2026-05-16T19:10:33.534Z",
+      "raw_id": "/nendoroid/details/n160/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.304Z",
+      "raw_id": "Nendoroid/0100-0199/160.json"
+    }
+  ]
+}

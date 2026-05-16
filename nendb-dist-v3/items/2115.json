@@ -1,0 +1,72 @@
+{
+  "num": "2115",
+  "name": {
+    "en": "Nendoroid Yukihana Lamy",
+    "ja": "ねんどろいど 雪花ラミィ (ねんどろいど ゆきはならみぃ)",
+    "ko": "유키하나 라미"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14174,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DR7h4nW3v0s/ZFqWZL8bNNI/AAAAAAAA9zA/krJTkt6wx2oG30WmDeqdihlqVPtDE_JbACNcBGAsYHQ/s270/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DR7h4nW3v0s/ZFqWZL8bNNI/AAAAAAAA9zA/krJTkt6wx2oG30WmDeqdihlqVPtDE_JbACNcBGAsYHQ/s270/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iToeLj8qhCo/ZFqbukJSnGI/AAAAAAAA95Y/EmWBtg5XyyEFN3SoiPI0mboVo04S-GTXACNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-KTBGa2KTnrk/ZFqbuqm3OPI/AAAAAAAA95U/Lvo4UFeZOv0EkHG9tZaMeXavS4pDV-v9QCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QpBzxqNh9Ww/ZFqbu0VJPKI/AAAAAAAA95c/93YKSAoFQS8Q85dL_qEhW1JT22U63OnEQCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QkY1WqdUL6o/ZFqbvDrrhXI/AAAAAAAA95g/vo8CGLZ8lyIF1Co9vnTtu6GXqucWKdh6gCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nGu1i30Xn3U/ZFqbvWZeePI/AAAAAAAA95k/5lsuKqHkKw0WBipYwX66dzpr_HY_JW2BACNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-sCeC38b9yAU/ZFqbvzBQxTI/AAAAAAAA95o/aCmfQ3tlCBAWOKzTlwyNjpOnC6V2EajugCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-WHnoKWV3zI4/ZFqbwY6Hy6I/AAAAAAAA95s/TZxII5Xp9Q8FL_OKi2S_xQkyTSibom90wCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-fDLSH6nKkcs/ZFqbuYKWNhI/AAAAAAAA95M/IHQ7UaVFmqoUSEM2rvdYeaXG6nXgKMzGQCNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-nvDAl5ESVCk/ZFqbumUS35I/AAAAAAAA95Q/L-1pnWLmjtgEHVWOV4KcKlfC1KlbhweWACNcBGAsYHQ/s135/2115-Yukihana-Lamy-Hololive-Production-Virtual-Youtuber-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2115/",
+      "fetched_at": "2026-05-16T19:10:33.848Z",
+      "raw_id": "/nendoroid/details/n2115/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.830Z",
+      "raw_id": "Nendoroid/2100-2199/2115.json"
+    }
+  ]
+}

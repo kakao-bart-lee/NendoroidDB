@@ -1,0 +1,68 @@
+{
+  "num": "2072",
+  "name": {
+    "en": "Nendoroid Kirie Goshima",
+    "ja": "ねんどろいど 五島桐絵 (ねんどろいど ごしまきりえ)",
+    "ko": "고시마 키리에"
+  },
+  "series": {
+    "en": "Uzumaki",
+    "ja": "うずまき",
+    "ko": "소용돌이",
+    "code": "uzumaki"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13975,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fuLDILm3CB4/ZA3eDAK7aWI/AAAAAAAA9Ks/zZB8jnM2H8sdOQsdj3BiR9WAl8UIvBxOgCNcBGAsYHQ/s270/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fuLDILm3CB4/ZA3eDAK7aWI/AAAAAAAA9Ks/zZB8jnM2H8sdOQsdj3BiR9WAl8UIvBxOgCNcBGAsYHQ/s270/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-liNfe80Ot-E/ZA3dC5BkKFI/AAAAAAAA9Dg/XCnGOFxPdWEAyae-D971HrjOkkXpmmX9wCNcBGAsYHQ/s135/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--M4FkDjJlvE/ZA3dDJ-hgoI/AAAAAAAA9Dk/r7BcWIB72eMb2s_a_w_nRxlm75oBapK1gCNcBGAsYHQ/s135/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4XHDS22tgks/ZA3dDIzCh6I/AAAAAAAA9Do/iJFSKEiA1r8xIIUDPr0A3QTo8kk3cd96ACNcBGAsYHQ/s135/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GR4Nn5LzTrk/ZA3dDbh7dZI/AAAAAAAA9Dw/jcjoE-tBIY4JLKWOLT0Rb0eCCeR55FnXwCNcBGAsYHQ/s135/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S1MTVsAYSf4/ZA3dDQB8LwI/AAAAAAAA9Ds/CalBt_mi_oQ7iOv1voIZn16Jk908qrLcgCNcBGAsYHQ/s135/2072-Kirie-Goshima-Uzumaki-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2072/",
+      "fetched_at": "2026-05-16T19:10:33.823Z",
+      "raw_id": "/nendoroid/details/n2072/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.820Z",
+      "raw_id": "Nendoroid/2000-2099/2072.json"
+    }
+  ]
+}

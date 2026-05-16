@@ -1,0 +1,68 @@
+{
+  "num": "0661",
+  "name": {
+    "en": "Nendoroid Keigo Atobe",
+    "ja": "ねんどろいど 跡部景吾 (ねんどろいど あとべけいご)",
+    "ko": "아토베 케이고"
+  },
+  "series": {
+    "en": "The Prince of Tennis II",
+    "ja": "新テニスの王子様",
+    "ko": "테니스의 왕자",
+    "code": "the-prince-of-tennis-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4074,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5846,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lR8mrtxssac/X4NP2yg1k-I/AAAAAAABl4Q/os_5BJGFc3w0qxBnG2Bqv_0nZuu8HDUaQCLcBGAsYHQ/s270/661-Keigo%2BAtobe-The-New-Prince-of-Tennis-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lR8mrtxssac/X4NP2yg1k-I/AAAAAAABl4Q/os_5BJGFc3w0qxBnG2Bqv_0nZuu8HDUaQCLcBGAsYHQ/s270/661-Keigo%2BAtobe-The-New-Prince-of-Tennis-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cLiZPJNDsb0/X4i1JuRYHnI/AAAAAAAAs18/ZLC8AeG7wV0aMB17wtIrt_NYIRmMY4P0QCLcBGAsYHQ/s135/661-Keigo-Atobe-The-Prince-of-Tennis-II-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2Y-iYy4anrQ/X4i1JzdGK1I/AAAAAAAAs2A/JlRm5yTjW54qkzVm7CVTcGs8CG1oqUqewCLcBGAsYHQ/s135/661-Keigo-Atobe-The-Prince-of-Tennis-II-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kxJwySuoNhg/X4i1KQm4fhI/AAAAAAAAs2E/fz5acPtIMjciblfLiI0_XTFE7-v-APOLgCLcBGAsYHQ/s135/661-Keigo-Atobe-The-Prince-of-Tennis-II-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-o_mYaE6JVpQ/X4i1K_dxEJI/AAAAAAAAs2I/aPSsVeJRAVIWfWm_uKJiENXOahPNbgI5wCLcBGAsYHQ/s135/661-Keigo-Atobe-The-Prince-of-Tennis-II-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AVSbhABX8FA/X4i1Lb951qI/AAAAAAAAs2M/GngEVd8zTCkk5M3tcZmGN7iVePQBI8b9QCLcBGAsYHQ/s135/661-Keigo-Atobe-The-Prince-of-Tennis-II-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n661/",
+      "fetched_at": "2026-05-16T19:10:34.728Z",
+      "raw_id": "/nendoroid/details/n661/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.477Z",
+      "raw_id": "Nendoroid/0600-0699/661.json"
+    }
+  ]
+}

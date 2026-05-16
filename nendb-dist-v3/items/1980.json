@@ -1,0 +1,69 @@
+{
+  "num": "1980",
+  "name": {
+    "en": "Nendoroid Sadako",
+    "ja": "ねんどろいど 貞子 (ねんどろいど さだこ)",
+    "ko": "사다코"
+  },
+  "series": {
+    "en": "Sadako (Character)",
+    "ja": "キャラクター貞子",
+    "ko": "사다코(캐릭터)",
+    "code": "sadako-character"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13452,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TLG4nt0gnbo/Y45wSnJG3vI/AAAAAAAA7rY/FJ65wWSvjI07sxbcuCnCN5TiE-Re5OxMQCNcBGAsYHQ/s270/1980-Sadako-Ring-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TLG4nt0gnbo/Y45wSnJG3vI/AAAAAAAA7rY/FJ65wWSvjI07sxbcuCnCN5TiE-Re5OxMQCNcBGAsYHQ/s270/1980-Sadako-Ring-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-24r97WJFsV4/Y451TUvAFAI/AAAAAAAA7zQ/tP8NW7Tfo9oMv9lUYjfE4Kmqe5Gz0rxPwCNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cEnSDFAefXs/Y451TslcLJI/AAAAAAAA7zU/9M32wFFhX8Ml0L7-6FScKiZ13u55xZ8GQCNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-s56HonFTDLU/Y451T_R0UHI/AAAAAAAA7zY/rwHf4QLqQk4mrOtCPMoHoCwxPmuS3Wp1ACNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9eTft-RXy8o/Y451UGndwmI/AAAAAAAA7zc/xx1-F383T8I8FdMZJCnyQJ_jrufwp1T7QCNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UI5akXVLKHU/Y451Uc7EvRI/AAAAAAAA7zg/lJPI0Znz4C4fCa6YkQrBCkM5omIpM5lXwCNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-OJ-Bc4sOCcY/Y451UsT42JI/AAAAAAAA7zk/IN3Vr3BR_YEoSKVb2FCA50D00u8nh_I2wCNcBGAsYHQ/s135/1980-Sadako-Ring-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1980/",
+      "fetched_at": "2026-05-16T19:10:33.766Z",
+      "raw_id": "/nendoroid/details/n1980/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.797Z",
+      "raw_id": "Nendoroid/1900-1999/1980.json"
+    }
+  ]
+}

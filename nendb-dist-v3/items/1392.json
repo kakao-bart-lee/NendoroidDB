@@ -1,0 +1,69 @@
+{
+  "num": "1392",
+  "name": {
+    "en": "Nendoroid Belle: Village Girl Ver.",
+    "ja": "ねんどろいど ベル 村娘Ver. (ねんどろいど べる むらむすめVer.)",
+    "ko": "벨 마을소녀 Ver."
+  },
+  "series": {
+    "en": "Disney Beauty and the Beast",
+    "ja": "美女と野獣",
+    "ko": "미녀와 야수",
+    "code": "disney-beauty-and-the-beast"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13425,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WCYT-5PfzX8/Y45wQa2NdLI/AAAAAAAA7qw/fZG5MkvxRdI4nxwAzx50ba6r_sYRCHgtACNcBGAsYHQ/s270/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WCYT-5PfzX8/Y45wQa2NdLI/AAAAAAAA7qw/fZG5MkvxRdI4nxwAzx50ba6r_sYRCHgtACNcBGAsYHQ/s270/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ovqEAX3dnQM/Y4508XuVLGI/AAAAAAAA7uk/Yd0UfzYR9QYIyovVHs5RKLPqigPTyliKwCNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4ps5_iah0wo/Y450832tsCI/AAAAAAAA7uo/CmtkHVyBWRYKb2LOOy9bFZAOvAinwPPmwCNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dPNN69Wjr6k/Y4509Sb-7HI/AAAAAAAA7us/qoOBCAnQS9Aay4hjQcPqHwC6ZplTvinnACNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YpR3qvUlm5c/Y4509yzydhI/AAAAAAAA7uw/n0p2g3cILBYJh6s-CFQW8IYKDh11eT1dQCNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ua69MRPtq94/Y450-RzrvrI/AAAAAAAA7u0/6_XeVoQBPMs8iatAvh1KKaI_kdHdn_FkQCNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lvHl2hYeE8c/Y450-6g98AI/AAAAAAAA7u4/U1QoTn62z_wZz-TYnBaCUGIPL3Nq1HxQgCNcBGAsYHQ/s135/1392-Belle-Beauty-and-the-Beast-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1392/",
+      "fetched_at": "2026-05-16T19:10:33.401Z",
+      "raw_id": "/nendoroid/details/n1392/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.655Z",
+      "raw_id": "Nendoroid/1300-1399/1392.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0601",
+  "name": {
+    "en": "Nendoroid Futaba Ichinose",
+    "ja": "ねんどろいど 一ノ瀬双葉 (ねんどろいど いちのせふたば)",
+    "ko": "이치노세 후타바"
+  },
+  "series": {
+    "en": "Seiyu's Life!",
+    "ja": "それが声優！",
+    "ko": "그것이 성우!",
+    "code": "seiyu-s-life"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5441,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r8vaqfXtRX0/X4NPmO0eceI/AAAAAAABl0k/76EdNalBzM8FOz0Glo7T67frs_ajVmfjwCLcBGAsYHQ/s270/601-Futaba-Ichinose-Seiyu%2527s%2BLife-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r8vaqfXtRX0/X4NPmO0eceI/AAAAAAABl0k/76EdNalBzM8FOz0Glo7T67frs_ajVmfjwCLcBGAsYHQ/s270/601-Futaba-Ichinose-Seiyu%2527s%2BLife-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qj2HO4R5UF4/X4izccA8ALI/AAAAAAAAsgg/-uOyu79PfWgARTaps8UpPcpPYgvkMfmXQCLcBGAsYHQ/s135/601-Futaba-Ichinose-Seiyus-Life-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EZ03GlBmnyY/X4izcXOk2YI/AAAAAAAAsgk/J49W4UM6O8MOReDRR-Rx1dHDOApf39bhgCLcBGAsYHQ/s135/601-Futaba-Ichinose-Seiyus-Life-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UNDCYWLKT60/X4izcTHGwcI/AAAAAAAAsgo/uMJUekYTGnoKiS-7PVujUs9uDRr9Ev_eQCLcBGAsYHQ/s135/601-Futaba-Ichinose-Seiyus-Life-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fL1TpvxgNz8/X4izdCeh2HI/AAAAAAAAsgs/usjHG-RZ7_kQbiv2cKdMxcPCyw81075HgCLcBGAsYHQ/s135/601-Futaba-Ichinose-Seiyus-Life-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-GNUDUfPSe9s/X4izdYrjlQI/AAAAAAAAsgw/u9JugvG6ugMsEISt-pPvU36_4bb_F42rQCLcBGAsYHQ/s135/601-Futaba-Ichinose-Seiyus-Life-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n601/",
+      "fetched_at": "2026-05-16T19:10:34.682Z",
+      "raw_id": "/nendoroid/details/n601/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.459Z",
+      "raw_id": "Nendoroid/0600-0699/601.json"
+    }
+  ]
+}

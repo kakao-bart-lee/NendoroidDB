@@ -1,0 +1,69 @@
+{
+  "num": "2020",
+  "name": {
+    "en": "Nendoroid Sophie Neuenmuller",
+    "ja": "ねんどろいど ソフィー・ノイエンミュラー (ねんどろいど そふぃー・のいえんみゅらー)",
+    "ko": "소피 노이엔뮐러"
+  },
+  "series": {
+    "en": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+    "ja": "ソフィーのアトリエ2 ～不思議な夢の錬金術士～",
+    "ko": "소피의 아틀리에 2 ~신비한 꿈의 연금술사~",
+    "code": "atelier-sophie-2-the-alchemist-of-the-mysterious-dream"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13663,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PjLgHbKwhRM/Y69BOd2KclI/AAAAAAAA8Po/XVRbElkCMrAVTX3vK77-7I1Kum_7_OPXwCNcBGAsYHQ/s270/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PjLgHbKwhRM/Y69BOd2KclI/AAAAAAAA8Po/XVRbElkCMrAVTX3vK77-7I1Kum_7_OPXwCNcBGAsYHQ/s270/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ElZSJs2aqcw/Y684oEN49ZI/AAAAAAAA8Jk/4812IEH2CNs7EnN1c2gYpQ4BLnRB8Z6nACNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-LFye9COHLa4/Y684ogSF6jI/AAAAAAAA8Jo/OkkYXfsx1qwGDC8SBnCAO3WBVO1gkp6bQCNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GXPCjdnz6-k/Y684pELGMdI/AAAAAAAA8Js/yzmO3o6d7UQf2uUqgwciXawKc64K9i0KQCNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xRN5trOaang/Y684paZiClI/AAAAAAAA8Jw/esBQ0rvw2zAuBztGi9eW3OABVmONqBO5gCNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-n56NQ3C9ukk/Y684puUv34I/AAAAAAAA8J0/PxHjeINK4yEclYjfHpRxW-52J-s5_R2FACNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-iM2LSS10N6I/Y684pxjNQSI/AAAAAAAA8J4/Or7Ij_Fx-xkQaaphzl2vG8i4g4c9w91JQCNcBGAsYHQ/s135/2020-Sophie-Neuenmuller-Atelier-Sophie-2-The-Alchemist-of-the-Mysterious-Dream-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2020/",
+      "fetched_at": "2026-05-16T19:10:33.789Z",
+      "raw_id": "/nendoroid/details/n2020/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.807Z",
+      "raw_id": "Nendoroid/2000-2099/2020.json"
+    }
+  ]
+}

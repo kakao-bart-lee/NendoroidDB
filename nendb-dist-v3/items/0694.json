@@ -1,0 +1,68 @@
+{
+  "num": "0694",
+  "name": {
+    "en": "Nendoroid Betsu Ten Gai",
+    "ja": "ねんどろいど 蔑天骸 (ねんどろいど べつてんがい)",
+    "ko": "멸천해"
+  },
+  "series": {
+    "en": "Thunderbolt Fantasy Sword Seekers",
+    "ja": "Thunderbolt Fantasy 東離劍遊紀",
+    "ko": "Thunderbolt Fantasy 동리검유기",
+    "code": "thunderbolt-fantasy-sword-seekers"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6075,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-J9zZU4oHRxg/X4NQAolteYI/AAAAAAABl6U/DX6FejAQZzouOQdPX9cpBSJFvtgoQt9FQCLcBGAsYHQ/s270/694-Betsu%2BTen%2BGai-Thunderbolt%2BFantasy-Sword%2BSeekers-Movies-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-J9zZU4oHRxg/X4NQAolteYI/AAAAAAABl6U/DX6FejAQZzouOQdPX9cpBSJFvtgoQt9FQCLcBGAsYHQ/s270/694-Betsu%2BTen%2BGai-Thunderbolt%2BFantasy-Sword%2BSeekers-Movies-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HV_tMwLrrK4/X4i2EYbcHhI/AAAAAAAAtBo/vOAtwHGP7FoquPg-vyiHc1PcNcj3EmGBACLcBGAsYHQ/s135/694-Betsu-Ten-Gai-Thunderbolt-Fantasy-Sword-Seekers-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FS5VmDxzXIY/X4i2EkHLWXI/AAAAAAAAtBs/pT7T9wk0hM0weoxeVof-AzBrIwHJhGxqwCLcBGAsYHQ/s135/694-Betsu-Ten-Gai-Thunderbolt-Fantasy-Sword-Seekers-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-w4epHWmk9m8/X4i2E6SFd6I/AAAAAAAAtBw/ZCH3W_UIJgUatnxQ1-3bSfGH-H7lgpBPACLcBGAsYHQ/s135/694-Betsu-Ten-Gai-Thunderbolt-Fantasy-Sword-Seekers-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Kwo0ur0QBpM/X4i2FGdKnEI/AAAAAAAAtB0/TpeL85fLjOcx1XvgIQdKmXce_3v_kasbwCLcBGAsYHQ/s135/694-Betsu-Ten-Gai-Thunderbolt-Fantasy-Sword-Seekers-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tJnn2ZVI4YY/X4i2FUuqoOI/AAAAAAAAtB4/Y3kAaI_tM-UqDopacUvYi1Nkzlm_XpSMACLcBGAsYHQ/s135/694-Betsu-Ten-Gai-Thunderbolt-Fantasy-Sword-Seekers-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n694/",
+      "fetched_at": "2026-05-16T19:10:34.746Z",
+      "raw_id": "/nendoroid/details/n694/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.485Z",
+      "raw_id": "Nendoroid/0600-0699/694.json"
+    }
+  ]
+}

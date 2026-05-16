@@ -1,0 +1,68 @@
+{
+  "num": "0185a",
+  "name": {
+    "en": "Nendoroid Taiga Aisaka (ねんどろいど あいさかたいが)",
+    "ja": "ねんどろいど 逢坂大河 (ねんどろいど あいさかたいが)",
+    "ko": "아이사카 타이가"
+  },
+  "series": {
+    "en": "Toradora!",
+    "ja": "とらドラ！",
+    "ko": "토라도라!",
+    "code": "toradora"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3240,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1-uH18w0gY4/X4NKKfL4FZI/AAAAAAABlTk/1mERnfzfdqYNFj9GzleL8_byL061ruROwCLcBGAsYHQ/s270/185A-Aisaka-Taiga-Toradora%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1-uH18w0gY4/X4NKKfL4FZI/AAAAAAABlTk/1mERnfzfdqYNFj9GzleL8_byL061ruROwCLcBGAsYHQ/s270/185A-Aisaka-Taiga-Toradora%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XhfK_pWysOo/X4dUKtvj5UI/AAAAAAAAqLI/8FBqxEVfh6kvIWYUv-1vpRZutDc-6YVjQCLcBGAsYHQ/s135/185A-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pJG9M3bF39Y/X4dULZmdncI/AAAAAAAAqLM/nLhWMk_qBGk3YfZltSzqhMPu39UGjoS5gCLcBGAsYHQ/s135/185A-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BoZIPTeJdhs/X4dULyRJafI/AAAAAAAAqLQ/n-39PMhFKCAsV-9gCX-7ouep3x2qh6ukACLcBGAsYHQ/s135/185A-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ytAAfDGBSO8/X4dUMYOFPlI/AAAAAAAAqLU/yFq8uLOQWZgY917Eax9VsvP2jA7m6rMxwCLcBGAsYHQ/s135/185A-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-46EWYr4L2xo/X4dUM84QCRI/AAAAAAAAqLY/NHyqvJIpqGcP2cGfOLb-T6kzRBd-TCTmACLcBGAsYHQ/s135/185A-Aisaka-Taiga-Toradora-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n185a/",
+      "fetched_at": "2026-05-16T19:10:33.692Z",
+      "raw_id": "/nendoroid/details/n185a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.312Z",
+      "raw_id": "Nendoroid/0100-0199/185a.json"
+    }
+  ]
+}

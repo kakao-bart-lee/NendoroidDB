@@ -1,0 +1,68 @@
+{
+  "num": "1467",
+  "name": {
+    "en": "Nendoroid Kingu",
+    "ja": "ねんどろいど キングゥ (ねんどろいど きんぐぅ)",
+    "ko": "킨구"
+  },
+  "series": {
+    "en": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "ja": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order-absolute-demonic-front-babylonia"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10065,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bba6kA48_rQ/X4NkoTwHKvI/AAAAAAABm8Q/_6l7E1BSGMk87m1h933z_zCM1ZfVZZVdgCLcBGAsYHQ/s270/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bba6kA48_rQ/X4NkoTwHKvI/AAAAAAABm8Q/_6l7E1BSGMk87m1h933z_zCM1ZfVZZVdgCLcBGAsYHQ/s270/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GlWshOrt99c/X4tBQGVj6UI/AAAAAAABrCc/CbFPq2mxuesMwwCB5-DhzEyW6iuEFx1RACLcBGAsYHQ/s135/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bAxsMLMzLOs/X4tBQZAK9WI/AAAAAAABrCg/Artlrg75byo_7MeSvXsIWPzZK2P1CYtCACLcBGAsYHQ/s135/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Dt3GeUA6B8w/X4tBQr7OHOI/AAAAAAABrCk/3a537ckb-yAa2FU4M4mSdl1G281i5vWswCLcBGAsYHQ/s135/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gXtNfDTMzNc/X4tBQwcBGOI/AAAAAAABrCo/V4CjagZ22qUoWhRcwfv356QrcCAbefEFACLcBGAsYHQ/s135/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-PjBaH4JFUZw/X4tBRKda_hI/AAAAAAABrCs/Gq2kQj4tGOwvo-EJWQYbm3zdDVsX8nyUwCLcBGAsYHQ/s135/1467-Kingu-Fate-Grand-Order-Absolute-Demonic-Front-Babylonia-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1467/",
+      "fetched_at": "2026-05-16T19:10:33.448Z",
+      "raw_id": "/nendoroid/details/n1467/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.673Z",
+      "raw_id": "Nendoroid/1400-1499/1467.json"
+    }
+  ]
+}

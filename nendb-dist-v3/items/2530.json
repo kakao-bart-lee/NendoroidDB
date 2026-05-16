@@ -1,0 +1,64 @@
+{
+  "num": "2530",
+  "name": {
+    "en": "Yoko",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Gurren Lagann",
+    "ja": null,
+    "ko": null,
+    "code": "gurren-lagann"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-NftUA0dGWlQ/Zor7jeiydcI/AAAAAAABFDk/iveg4ZpksNoWCwJ3XWIiYuAMEn4Gbq43ACNcBGAsYHQ/s270/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-NftUA0dGWlQ/Zor7jeiydcI/AAAAAAABFDk/iveg4ZpksNoWCwJ3XWIiYuAMEn4Gbq43ACNcBGAsYHQ/s270/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--PxozM4vCIE/Zow9TR5s7KI/AAAAAAABGLc/ADtq95MjC9kBrtgsDVMWhjRiRp10s6K0gCNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iYCbcOuZW1k/Zow9T4j9g_I/AAAAAAABGLg/iaZcnoig1C8iyUs1a-x4EUpEy6jDdEucgCNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nRQ1pMeqUbQ/Zow9UXigMFI/AAAAAAABGLk/xrdH7xev68QKDeUA3poDszN-5I-7yre0QCNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qG1lmNhBCSk/Zow9U_ZqkhI/AAAAAAABGLo/UZlWk1tcPRYRlvLS0OiFhKCMxN7ZGoX_ACNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gGis4FWwQu4/Zow9VUomjtI/AAAAAAABGLs/doRvABwmUOYxUe0Oy0da6Mqzz5LF8-BqgCNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rnsWRldGWUo/Zow9V3XtgPI/AAAAAAABGLw/tW2VoxxiH1M91wP38iuTJtazlHVGvaBZwCNcBGAsYHQ/s135/2530-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2530/",
+      "fetched_at": "2026-05-16T19:10:34.116Z",
+      "raw_id": "/nendoroid/details/n2530/"
+    }
+  ]
+}

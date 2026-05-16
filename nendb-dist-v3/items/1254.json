@@ -1,0 +1,69 @@
+{
+  "num": "1254",
+  "name": {
+    "en": "Nendoroid Jiro Yamada",
+    "ja": "ねんどろいど 山田二郎 (ねんどろいど やまだじろう)",
+    "ko": "야마다 지로"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6050,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9055,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5VMu3_7YM1A/X4NiWfPdiXI/AAAAAAABmqE/yyhDiWL_j2UA-sQ9YWmWzMdzw86SiMaDQCLcBGAsYHQ/s270/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5VMu3_7YM1A/X4NiWfPdiXI/AAAAAAABmqE/yyhDiWL_j2UA-sQ9YWmWzMdzw86SiMaDQCLcBGAsYHQ/s270/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Oodk7WBMtME/X4r0HiCUzvI/AAAAAAABp48/nAnU3B2M1B0ctbOPURuIAIPXYjMK0F3EACLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S6NJgm9f-L0/X4r0H33kEdI/AAAAAAABp5E/9RE_z69McDsEKiUejpEaxTa8tQ3OktFSwCLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qR7Y2Jgnfoo/X4r0IBRWBCI/AAAAAAABp5A/TKpZrxm1LfYcESWsyBrO6beXnOrUTK3uACLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6On4hi5cwwQ/X4r0IZh74AI/AAAAAAABp5I/-C3gGM8UzdsOTS5x9mLdJqdfOQjXiqkCgCLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-T-IYa6a0_vY/X4r0IolkuOI/AAAAAAABp5M/hIElE7_WyVIdyDwFeh52hsJp5gcI8svLgCLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-26nzrmtK55U/X4r0IypXUJI/AAAAAAABp5Q/ILi0HeKKfPkg3JJHGgWMHpiidQAe1RqZwCLcBGAsYHQ/s135/1254-Jiro-Yamada-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1254/",
+      "fetched_at": "2026-05-16T19:10:33.315Z",
+      "raw_id": "/nendoroid/details/n1254/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.622Z",
+      "raw_id": "Nendoroid/1200-1299/1254.json"
+    }
+  ]
+}

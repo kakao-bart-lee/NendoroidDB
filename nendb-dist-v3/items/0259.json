@@ -1,0 +1,68 @@
+{
+  "num": "0259",
+  "name": {
+    "en": "Nendoroid Gertrud Barkhorn (ねんどろいど げるとるーと・ばるくほるん)",
+    "ja": "ねんどろいど ゲルトルート・バルクホルン (ねんどろいど げるとるーと・ばるくほるん)",
+    "ko": "게르트루트 바르크호른"
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3595,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-4T2l7IaHdDc/X4NLT8z3CVI/AAAAAAABlY8/cOpLzr21pcINc8MvJELg17ZCN1DIsW7bgCLcBGAsYHQ/s270/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-4T2l7IaHdDc/X4NLT8z3CVI/AAAAAAABlY8/cOpLzr21pcINc8MvJELg17ZCN1DIsW7bgCLcBGAsYHQ/s270/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hzLK8x7RNaY/X4dX4OzSHaI/AAAAAAAAqkI/MPEMnmwxvb8mRkEQLEZHz2n_1iCpApQcQCLcBGAsYHQ/s135/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GsnkTcDP7q0/X4dX4jazXXI/AAAAAAAAqkM/vygwrGQqGxAoL9JSE1tlxO94WmXsbMkCQCLcBGAsYHQ/s135/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yptKbzpisHs/X4dX47DAHvI/AAAAAAAAqkQ/PiNtf3Sa7O8xzmn91xf06O_jkwHpSx4qQCLcBGAsYHQ/s135/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FIEg2Q7Qsjg/X4dX5Ch41RI/AAAAAAAAqkU/mcC_Axi-T8kWJkmngdJne-JiUGxgTCATACLcBGAsYHQ/s135/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uxSRVBHFFD0/X4dX5HsmcSI/AAAAAAAAqkY/dCUdDdnq-4U_Ys0xowCLJlO8nHxfC5DRACLcBGAsYHQ/s135/259-Gertrud-Barkhorn-Strike-Witches-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n259/",
+      "fetched_at": "2026-05-16T19:10:34.158Z",
+      "raw_id": "/nendoroid/details/n259/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.334Z",
+      "raw_id": "Nendoroid/0200-0299/259.json"
+    }
+  ]
+}

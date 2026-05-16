@@ -1,0 +1,69 @@
+{
+  "num": "0778",
+  "name": {
+    "en": "Nendoroid Mutsuki Kai-II",
+    "ja": "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
+    "ko": "무츠키 改二"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6471,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y4m7ZLZvjP8/X4NdHKEM1YI/AAAAAAABmAY/qiy5KX42MXcX6wBxpvIiX-W76ykHI0Y0gCLcBGAsYHQ/s270/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y4m7ZLZvjP8/X4NdHKEM1YI/AAAAAAABmAY/qiy5KX42MXcX6wBxpvIiX-W76ykHI0Y0gCLcBGAsYHQ/s270/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-c3Qcrj2f4jI/X4i5i8UWLhI/AAAAAAAAtio/JYpE62HISS030qHj0VaqtUtLW0ZXEyqhgCLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fcFmEJKJLsA/X4i5jFWp4SI/AAAAAAAAtis/I4whZbeLzvUYOkW-A8CCEhB3X8D0wFY3ACLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3q2ZykGPvRA/X4i5jTbWzcI/AAAAAAAAtiw/xuFOfS_RKnsAFgXpG_a0PRMn9F3LrbedACLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-zqMJ9em0zN8/X4i5jg97-KI/AAAAAAAAti0/qkPohQ9PWxUtIkJrFFmeR0sy1cQCU46WQCLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rwVAEyCnBeo/X4i5j-1ZYDI/AAAAAAAAti4/QQGBLGYBnO42AqPyODxO9r_zRd0e8qZHgCLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-E4I-uOPHMsA/X4i5kEsLpUI/AAAAAAAAti8/kQITJg0g2UAdA3Ky_Q6rnjdoZCZVtT29QCLcBGAsYHQ/s135/778-Mutsuki-Kai-II-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n778/",
+      "fetched_at": "2026-05-16T19:10:34.792Z",
+      "raw_id": "/nendoroid/details/n778/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.505Z",
+      "raw_id": "Nendoroid/0700-0799/778.json"
+    }
+  ]
+}

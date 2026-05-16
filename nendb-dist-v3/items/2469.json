@@ -1,0 +1,64 @@
+{
+  "num": "2469",
+  "name": {
+    "en": "Satono Diamond",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Umamusume: Pretty Derby",
+    "ja": null,
+    "ko": null,
+    "code": "umamusume-pretty-derby"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rJyJCHsgHt4/Zj_it6ZUEbI/AAAAAAABEZc/nBmpCbZjB6o0rsXj0PpeMCO6Z8tY35f9ACNcBGAsYHQ/s270/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rJyJCHsgHt4/Zj_it6ZUEbI/AAAAAAABEZc/nBmpCbZjB6o0rsXj0PpeMCO6Z8tY35f9ACNcBGAsYHQ/s270/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dAStYfQdikc/Zow41oLfKlI/AAAAAAABFzI/7DZOJuQka7gsoxYMpntln0dDjN07_35EwCNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--cXuUe2HbDk/Zow42FAGqrI/AAAAAAABFzM/ytDR-nL9jBg6QnSLq2-Al9y8jW42UfsAgCNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3QNKpEWFkmw/Zow42zEeevI/AAAAAAABFzQ/Dc8O3tQatr0ojWPsCnJ2jupzcuncvNZ2ACNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-aLpg6zseGjw/Zow43GADhPI/AAAAAAABFzU/W697K8ZskloeF2gHgg4eCV3AYgD9pd0XwCNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-aNXAjkKibj4/Zow43upvA7I/AAAAAAABFzY/ynE72wC3gL4jdV_ZOCRr8H7KStDg_YuBQCNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5GMEptRowcw/Zow44BvEV_I/AAAAAAABFzc/VyBRLckpsxEF_DYnEkiHwiPZ5TW3XM2rQCNcBGAsYHQ/s135/2469-Satono-Diamond-Umamusume-Pretty-Derby-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2469/",
+      "fetched_at": "2026-05-16T19:10:34.078Z",
+      "raw_id": "/nendoroid/details/n2469/"
+    }
+  ]
+}

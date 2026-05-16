@@ -1,0 +1,64 @@
+{
+  "num": "2432",
+  "name": {
+    "en": "Mukuro Hoshimiya",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Date A Live",
+    "ja": null,
+    "ko": null,
+    "code": "date-a-live"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5Ue7x7Q6EX0/Ziq-6A1iEoI/AAAAAAABEBU/ivihMZeIr9cVba2xCot-3H3BBnlPgVLHQCNcBGAsYHQ/s270/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5Ue7x7Q6EX0/Ziq-6A1iEoI/AAAAAAABEBU/ivihMZeIr9cVba2xCot-3H3BBnlPgVLHQCNcBGAsYHQ/s270/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zirPKxsWOjY/Zow2tYZQ7HI/AAAAAAABFkk/ylnuUTndeOUXKba5KEhNzjwPQpukFALZQCNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Dnv59mEn68Y/Zow2t2mhigI/AAAAAAABFko/d-xwBRVnmj0zFzSmHM7ZMEwCgTqOXwjDwCNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GQcjvOtTD9w/Zow2uoraRlI/AAAAAAABFks/u-OBfzgO9p4zpi2gdX_e6Gp9tzXzKpGlACNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-cNxxAl2-exI/Zow2vOLxMsI/AAAAAAABFkw/cHo16td46s0Eeyuf6-axP2X20qcmoyZ4wCNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EVUzchXbPTU/Zow2vlo6rKI/AAAAAAABFk0/MUOuBjcEN5wqtLoHIWNbULobD-65KMt1ACNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-luY8rdq7xMc/Zow2wLG7TGI/AAAAAAABFk4/BPMPGkmUkJoznLQ7ZwgpJs5U-wwrJ1gpACNcBGAsYHQ/s135/2432-Mukuro-Hoshimiya-Date-A-Live-V-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2432/",
+      "fetched_at": "2026-05-16T19:10:34.054Z",
+      "raw_id": "/nendoroid/details/n2432/"
+    }
+  ]
+}

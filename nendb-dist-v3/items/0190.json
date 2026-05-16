@@ -1,0 +1,69 @@
+{
+  "num": "0190",
+  "name": {
+    "en": "Nendoroid Len Kagamine: Cheerful Ver. (ねんどろいど かがみねれん おうえんver.)",
+    "ja": "ねんどろいど 鏡音レン 応援Ver. (ねんどろいど かがみねれん おうえんVer.)",
+    "ko": "카가미네 렌 응원 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 02 : Rin/Len Kagamine",
+    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "character-vocal-series-02-rin-len-kagamine"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3244,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-06SXQaaL2UA/X4NKMlydpjI/AAAAAAABlT8/FbAJCs1KS_UPVp49fhYKJ6_9cFqNvYIpwCLcBGAsYHQ/s270/190-Kagamine-Len-Support-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-06SXQaaL2UA/X4NKMlydpjI/AAAAAAABlT8/FbAJCs1KS_UPVp49fhYKJ6_9cFqNvYIpwCLcBGAsYHQ/s270/190-Kagamine-Len-Support-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eEP8OMXRR2A/X4dUYKH04qI/AAAAAAAAqM0/33wEMnq5QA4ytZZBDxVs4ambxZ53sQoDQCLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-p95zEkNrcZk/X4dUYexGf4I/AAAAAAAAqM4/gkiBufuw4YwcFuajYRAtvxgFu-kC0lqKgCLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KnlPOymNy74/X4dUaGxHfxI/AAAAAAAAqM8/25eYQ7PIyII3DBfTutl3OvYeUu9LebQ3wCLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-H6dr3So82Jg/X4dUaXh3pyI/AAAAAAAAqNA/XNV4ccYk07kO21BHbA9Ryfjaaavkvl3QACLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-EqjJhbEnoN0/X4dUbF8JU2I/AAAAAAAAqNE/riDwPGYLLdAu8ACuAjEiVrhCK9dPTeoigCLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-csxmgcTrrTA/X4dUb5aqZ1I/AAAAAAAAqNI/9z7UFB1_JtQckWYcRT8J3k0JDObc0d55ACLcBGAsYHQ/s135/190-Kagamine-Len-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n190/",
+      "fetched_at": "2026-05-16T19:10:33.724Z",
+      "raw_id": "/nendoroid/details/n190/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.316Z",
+      "raw_id": "Nendoroid/0100-0199/190.json"
+    }
+  ]
+}

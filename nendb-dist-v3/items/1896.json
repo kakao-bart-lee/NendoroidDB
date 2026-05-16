@@ -1,0 +1,68 @@
+{
+  "num": "1896",
+  "name": {
+    "en": "Nendoroid NieR Re[in]carnation The Girl of Light & Mama",
+    "ja": "ねんどろいど NieR Re[in]carnation 白い少女＆ママ (ねんどろいど にーあ りぃんかーねーしょん しろいしょうじょ＆まま)",
+    "ko": "니어 리[인]카네이션 하얀 소녀&마마"
+  },
+  "series": {
+    "en": "NieR Re[in]carnation",
+    "ja": "NieR Re[in]carnation",
+    "ko": "니어 리[인]카네이션",
+    "code": "nier-re-in-carnation"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12969,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9JXx5Ea_vkc/Yw_WMPtp61I/AAAAAAAA6ZY/0HBHXoYdnV4vZWmftwMPh25ecl04Uws-wCNcBGAsYHQ/s270/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9JXx5Ea_vkc/Yw_WMPtp61I/AAAAAAAA6ZY/0HBHXoYdnV4vZWmftwMPh25ecl04Uws-wCNcBGAsYHQ/s270/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-RRfLUZbH2C0/YxEW2-2lRFI/AAAAAAAA6j8/NBj6VSyeU0khIJh4_VZONAz3Wkph66C9wCNcBGAsYHQ/s135/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C1XoTtFjvtU/YxEW3Wfp1tI/AAAAAAAA6kA/H3jk6tVfzjsLd8t4xog0zNyYMSDDXZPIgCNcBGAsYHQ/s135/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ykhcJjUXOb4/YxEW37-dNGI/AAAAAAAA6kE/R-Cad_FFF1MQTPyZq2rj5P2H7dJK4Z80QCNcBGAsYHQ/s135/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xC8P5nIJYf8/YxEW4Uc4KiI/AAAAAAAA6kI/gG-oem5K0SYO5Q3fLrKp_QtUQ5nYtds4QCNcBGAsYHQ/s135/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QpQajeQLn-M/YxEW4zEXRNI/AAAAAAAA6kM/pVIrwMcY-FUIEtKHWg4xWZHxnBWKTPrJgCNcBGAsYHQ/s135/1896-The-Girl-of-Light-and-Mama-NieR-Reincarnation-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1896/",
+      "fetched_at": "2026-05-16T19:10:33.716Z",
+      "raw_id": "/nendoroid/details/n1896/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.777Z",
+      "raw_id": "Nendoroid/1800-1899/1896.json"
+    }
+  ]
+}

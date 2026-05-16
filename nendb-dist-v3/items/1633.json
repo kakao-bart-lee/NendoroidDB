@@ -1,0 +1,70 @@
+{
+  "num": "1633",
+  "name": {
+    "en": "Nendoroid Kairi: Kingdom Hearts III Ver.",
+    "ja": "ねんどろいど カイリ キングダム ハーツⅢVer. (ねんどろいど かいり きんぐだむ はーつⅢVer.)",
+    "ko": "카이리 킹덤 하츠 III Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts III",
+    "ja": "キングダム ハーツⅢ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-iii"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11195,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-R4sKq_7bSBw/YL_UtxEiL7I/AAAAAAAAyPg/a6dsX2F7JkUOircn_NViSOu63vJHKFFPgCLcBGAsYHQ/s270/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-R4sKq_7bSBw/YL_UtxEiL7I/AAAAAAAAyPg/a6dsX2F7JkUOircn_NViSOu63vJHKFFPgCLcBGAsYHQ/s270/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DGaKJdy9Isw/YL_c1arWt4I/AAAAAAAAyUo/7m1BJIiqCn0logFIDvP2cC4o7ON3tTR5ACLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MlRgxrIe7Kk/YL_c1ttTpbI/AAAAAAAAyUs/6e8E_376WN44NEpIh3YLChmcbVknT8HDwCLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Mfzwri2AqnU/YL_c1mrlsxI/AAAAAAAAyUw/LZKDj7261msGA61P_ATTJaO42SwJgpmaACLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AdR2zYMEaR0/YL_c15MRTaI/AAAAAAAAyU0/fkyoyzayR2ktYttNishe3q1Mm5M4Z2d5QCLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pVU8-X227ug/YL_c2J7g29I/AAAAAAAAyU4/QYWKF7NaBNEKU6RbWc-vSsybs2S9lAGLQCLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-c8oac-BVM00/YL_c2B0O5BI/AAAAAAAAyU8/rqpECbRnBSwcWggIxYEJCLzYw5bMz9WNwCLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-hLQPFejlr4Y/YL_c2R-0auI/AAAAAAAAyVA/DAtKzi6bBawmqsaOKLtW8cOC5YLG1j3MgCLcBGAsYHQ/s135/1633-Kairi-Kingdom-Hearts-III-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1633/",
+      "fetched_at": "2026-05-16T19:10:33.548Z",
+      "raw_id": "/nendoroid/details/n1633/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.713Z",
+      "raw_id": "Nendoroid/1600-1699/1633.json"
+    }
+  ]
+}

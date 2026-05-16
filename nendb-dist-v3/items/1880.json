@@ -1,0 +1,68 @@
+{
+  "num": "1880",
+  "name": {
+    "en": "Nendoroid Sumi Sakurasawa",
+    "ja": "ねんどろいど 桜沢墨 (ねんどろいど さくらさわすみ)",
+    "ko": "사쿠라사와 스미"
+  },
+  "series": {
+    "en": "Rent-a-Girlfriend",
+    "ja": "彼女、お借りします",
+    "ko": "여친, 빌리겠습니다",
+    "code": "rent-a-girlfriend"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12681,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-SdIKyiLXQLs/Yp4F6Trv1UI/AAAAAAAB6xQ/xevGhZ-GcwQbAqO3mqsDCCex8lX_MlPGACNcBGAsYHQ/s270/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-SdIKyiLXQLs/Yp4F6Trv1UI/AAAAAAAB6xQ/xevGhZ-GcwQbAqO3mqsDCCex8lX_MlPGACNcBGAsYHQ/s270/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-40lfts_WNc4/Yp4NbYSE-mI/AAAAAAAB64I/n0su9uhoHEwWKo46Vsqn3cCpMPr10Pd5wCNcBGAsYHQ/s135/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-jSco2_hOZ4g/Yp4NbXggJQI/AAAAAAAB64M/G8-AIUS5hBkgxJ_PX4NEqyJi0vMc-gFKACNcBGAsYHQ/s135/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-sF2NNqb7h_k/Yp4Nbkv-T2I/AAAAAAAB64Q/GwDm8j7siBkC_44O9pC1EWJAFiHgtqt6QCNcBGAsYHQ/s135/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pQEwcJ67OZk/Yp4Nb33NaaI/AAAAAAAB64U/7cSwijC7Mn8s1Uim9GMwl6KdCciXjiUswCNcBGAsYHQ/s135/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tdguk3Td_Ho/Yp4Nb6CmLOI/AAAAAAAB64c/2Zb66iRgLG0m4f09urJnnDcg6qHETGc8wCNcBGAsYHQ/s135/1880-Sumi-Sakurasawa-Rent-A-Girlfriend-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1880/",
+      "fetched_at": "2026-05-16T19:10:33.706Z",
+      "raw_id": "/nendoroid/details/n1880/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.774Z",
+      "raw_id": "Nendoroid/1800-1899/1880.json"
+    }
+  ]
+}

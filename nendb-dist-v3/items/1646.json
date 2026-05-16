@@ -1,0 +1,69 @@
+{
+  "num": "1646",
+  "name": {
+    "en": "Nendoroid Steven A Starphase",
+    "ja": "ねんどろいど スティーブン・A・スターフェイズ (ねんどろいど すてぃーぶん・あらん・すたーふぇいず)",
+    "ko": "스티븐 A 스타페이즈"
+  },
+  "series": {
+    "en": "Blood Blockade Battlefront & Beyond",
+    "ja": "TVアニメ『血界戦線＆BEYOND』",
+    "ko": "혈계전선 & 비욘드",
+    "code": "blood-blockade-battlefront-beyond"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6930,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11316,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AN1ENZl8ucM/YONqQGp_YvI/AAAAAAAAzD0/PnWYf0FkwXACy6seiikP-8X6tz1hk77uwCLcBGAsYHQ/s270/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AN1ENZl8ucM/YONqQGp_YvI/AAAAAAAAzD0/PnWYf0FkwXACy6seiikP-8X6tz1hk77uwCLcBGAsYHQ/s270/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BRASvJoopRM/YONsEm4lJdI/AAAAAAAAzGM/1SO1X6WlFr41vqHMWryHCBdZ2IBRht6GACLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eFhLyG7aWyk/YONsEuy8g6I/AAAAAAAAzGQ/JPFPzmiun90MgQltcVimzeJBqxUHXi7NACLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1SaF9mnMVH0/YONsE2bZl8I/AAAAAAAAzGU/M73ij1mD4jAZ-WczD0yEfjlpCsinMFvLQCLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NrLMZrlAOfU/YONsFL3pAjI/AAAAAAAAzGY/qH1pbehwo2wjSe7bhTAlB2cTZWEGp04RwCLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-J94XFB0vONY/YONsFGbKkgI/AAAAAAAAzGc/5hMgS3wdHQoV9TQu6sD9WxfON6fy-XLIQCLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BUvaShcgMbI/YONsFIJkAYI/AAAAAAAAzGg/RDb-sqqvXWcO5B-kePs5EL7CGLSLpRRTACLcBGAsYHQ/s135/1646-Steven-A-Starphase-Blood-Blockade-Battlefront-and-Beyond-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1646/",
+      "fetched_at": "2026-05-16T19:10:33.557Z",
+      "raw_id": "/nendoroid/details/n1646/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.717Z",
+      "raw_id": "Nendoroid/1600-1699/1646.json"
+    }
+  ]
+}

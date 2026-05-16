@@ -1,0 +1,69 @@
+{
+  "num": "0494",
+  "name": {
+    "en": "Nendoroid Battleship Re-Class (ねんどろいど せんかんれきゅう)",
+    "ja": "ねんどろいど 戦艦レ級 (ねんどろいど せんかんれきゅう)",
+    "ko": "전함 레급"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4764,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rJmgwV1R9xY/X4NOBOd7uWI/AAAAAAABlsc/vZ4B-nkr9dcQwtGPnX1CGafGzD2OPA7IACLcBGAsYHQ/s270/494-Battleship-Reclass-Kantai-Collection-Kancolle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rJmgwV1R9xY/X4NOBOd7uWI/AAAAAAABlsc/vZ4B-nkr9dcQwtGPnX1CGafGzD2OPA7IACLcBGAsYHQ/s270/494-Battleship-Reclass-Kantai-Collection-Kancolle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EaETy-GZ_sI/X4dfdsyipAI/AAAAAAAAr1s/iF1eyWt-Z6Qsk1Acnp_omces3Np17UU3QCLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-McCKb5YNm9A/X4dfeKK2-dI/AAAAAAAAr1w/qzavM8OccpANah015lPWt8ZBcvEVtITxwCLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--SoMxGaxdOA/X4dfeifm0uI/AAAAAAAAr10/m5iQtaIk-KgAFyzu3IdHaQGOdDpqvAinACLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SUoKW5DHPRA/X4dffKCTf2I/AAAAAAAAr14/gS_Koa_NIDAb3b-n6n2C5sLZHrgZkvfkgCLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hMyve-d5CBE/X4dff3JQrJI/AAAAAAAAr18/LsIwjEYsbpkyRm-q1fM-raFI8dOOa2dqACLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8MU2UbYQO50/X4dfgAqv37I/AAAAAAAAr2A/LJOIkNZ5jJ0XsCJ0y3-5vjxFpDg7KZHZACLcBGAsYHQ/s135/494-Battleship-Re-Class-Kantai-Collection-Kancolle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n494/",
+      "fetched_at": "2026-05-16T19:10:34.559Z",
+      "raw_id": "/nendoroid/details/n494/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.393Z",
+      "raw_id": "Nendoroid/0400-0499/494.json"
+    }
+  ]
+}

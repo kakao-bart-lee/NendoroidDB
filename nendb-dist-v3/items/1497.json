@@ -1,0 +1,69 @@
+{
+  "num": "1497",
+  "name": {
+    "en": "Nendoroid Iron Spider: Endgame Ver.",
+    "ja": "ねんどろいど アイアン・スパイダー エンドゲーム Ver. (ねんどろいど あいあん・すぱいだー えんどげーむ Ver.)",
+    "ko": "스파이더맨 엔드게임 Ver."
+  },
+  "series": {
+    "en": "Avengers: Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10297,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-2vExX-iLr8s/X58Yi8srmtI/AAAAAAAAuFQ/POTEAsy4pQgzKEUv5cYnHLxJOIHYDyRmwCLcBGAsYHQ/s270/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-2vExX-iLr8s/X58Yi8srmtI/AAAAAAAAuFQ/POTEAsy4pQgzKEUv5cYnHLxJOIHYDyRmwCLcBGAsYHQ/s270/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PHQUzmMHRw0/X58Z7YQCWlI/AAAAAAAAuH4/enKRYA3zNRYXyEyry6Hrj1DXcBzR5sl6ACLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nDi6RLbVpGQ/X58Z7qZmdHI/AAAAAAAAuH8/zdnsPEagu2Qhb-YPOzeRhX0i8UJWPRWOgCLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-l-bwGFqNbC8/X58Z758g4EI/AAAAAAAAuIA/KKCsoLmejSQubmKszoqQT_KQVNBmpFP9QCLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GU43SJ-uX1E/X58Z8BkjJHI/AAAAAAAAuIE/hpuklGApAbwWYTtX-wtiyCUlDDb6JRp3QCLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RX7Cue1K59c/X58Z8e6a5xI/AAAAAAAAuII/WpxyIAmZo00S2lawUDWKjGF1Qp1Yf3rlgCLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-EG2T5DFEYUo/X58Z8hBS96I/AAAAAAAAuIM/HzNpeHOegCM55zTpWM4chMZYqXaKfa0YwCLcBGAsYHQ/s135/1497-Iron-Spider-Avengers-Endgame-Marvel-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1497/",
+      "fetched_at": "2026-05-16T19:10:33.466Z",
+      "raw_id": "/nendoroid/details/n1497/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.680Z",
+      "raw_id": "Nendoroid/1400-1499/1497.json"
+    }
+  ]
+}

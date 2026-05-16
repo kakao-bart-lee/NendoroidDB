@@ -1,0 +1,68 @@
+{
+  "num": "1117",
+  "name": {
+    "en": "Nendoroid Millim",
+    "ja": "ねんどろいど ミリム (ねんどろいど みりむ)",
+    "ko": "밀림 나바"
+  },
+  "series": {
+    "en": "That Time I Got Reincarnated as a Slime",
+    "ja": "転生したらスライムだった件",
+    "ko": "전생했더니 슬라임이었던 건에 대하여",
+    "code": "that-time-i-got-reincarnated-as-a-slime"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8222,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-46M5uLVbvvQ/X4NgV2IkomI/AAAAAAABmZk/OxzUa8zU1Lo55N6nZ7W95cEyAdmJuKvXACLcBGAsYHQ/s270/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-46M5uLVbvvQ/X4NgV2IkomI/AAAAAAABmZk/OxzUa8zU1Lo55N6nZ7W95cEyAdmJuKvXACLcBGAsYHQ/s270/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/--QDbg9wPWpc/X4rvtyWWZ1I/AAAAAAABpAc/LHKPBWsmPvYSkzcMefRsuaHEqUqzXylgQCLcBGAsYHQ/s135/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-H--RcM8wJPY/X4rvuEHj0VI/AAAAAAABpAg/cL8a2WMmD44bpc09k1Thh4Eq7VlPX88BgCLcBGAsYHQ/s135/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vB6vnC_n4pg/X4rvuGAVo7I/AAAAAAABpAk/5bPiT7YJVeMHujx0ifpmzsaq2Z9nTLkYACLcBGAsYHQ/s135/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fKQAhDoFsrw/X4rvuZkMJ8I/AAAAAAABpAo/i5gLAg_pEBg5_ixiUif8pocWLx_tEUBGACLcBGAsYHQ/s135/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-z6qB2Rbg3-c/X4rvumYqGtI/AAAAAAABpAs/rXOmskUU3oUH3RerC6nQXJlK19DbK0yxgCLcBGAsYHQ/s135/1117-Millim-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1117/",
+      "fetched_at": "2026-05-16T19:10:33.231Z",
+      "raw_id": "/nendoroid/details/n1117/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.588Z",
+      "raw_id": "Nendoroid/1100-1199/1117.json"
+    }
+  ]
+}

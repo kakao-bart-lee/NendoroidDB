@@ -1,0 +1,69 @@
+{
+  "num": "1208",
+  "name": {
+    "en": "Nendoroid Samatoki Aohitsugi",
+    "ja": "ねんどろいど 碧棺左馬刻 (ねんどろいど あおひつぎさまとき)",
+    "ko": "아오히츠기 사마토키"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8826,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WH4HeH9Rwqs/X4NiEt-3jGI/AAAAAAABmnM/WRBZB8g-kGsDho623xu4btNJFaOqjFEOgCLcBGAsYHQ/s270/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WH4HeH9Rwqs/X4NiEt-3jGI/AAAAAAABmnM/WRBZB8g-kGsDho623xu4btNJFaOqjFEOgCLcBGAsYHQ/s270/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8EtnvCko0TI/X4rzBUglIuI/AAAAAAABpoQ/x-RlZ-WG_gw7_9MsYGC2ANdSEi6VaF9tACLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RuOwJPTjDng/X4rzBvF7F7I/AAAAAAABpoU/jjxlcOAW5MsxN4p_RExXQ7Q28n2-tWkSQCLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qoC9HS5fots/X4rzB2Kyz4I/AAAAAAABpoY/WsfmjyhK5OwOvb-mT1DxcaoZZL1-szG3ACLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-uTvdq06i8n4/X4rzCSLQUYI/AAAAAAABpoc/rK0cGTsjtQ4EfD-PAqqACKapg5vNYH1JACLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L4hvQtHQkx8/X4rzCecxMrI/AAAAAAABpog/h9yNH9KcFvQLuwYyjZdvMsMG4Svtw1JDQCLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bI_nqLIo2dE/X4rzCiRxUQI/AAAAAAABpok/i1Vru6gHXcMKUSzO98QE-fUYEfBYXZISgCLcBGAsYHQ/s135/1208-Samatoki-Aohitsugi-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1208/",
+      "fetched_at": "2026-05-16T19:10:33.287Z",
+      "raw_id": "/nendoroid/details/n1208/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.610Z",
+      "raw_id": "Nendoroid/1200-1299/1208.json"
+    }
+  ]
+}

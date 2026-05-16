@@ -1,0 +1,69 @@
+{
+  "num": "2062",
+  "name": {
+    "en": "Nendoroid Takashi Mitsuya",
+    "ja": "ねんどろいど 三ツ谷隆 (ねんどろいど みつやたかし)",
+    "ko": "미츠야 타카시"
+  },
+  "series": {
+    "en": "Tokyo Revengers",
+    "ja": "東京リベンジャーズ",
+    "ko": "도쿄 리벤저스",
+    "code": "tokyo-revengers"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13892,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ob1XlVfp5y4/Y9mKFu8ra6I/AAAAAAAA8fs/j1q_dczIPmYCFqR_PVzRW3I-ofxYCyIJQCNcBGAsYHQ/s270/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ob1XlVfp5y4/Y9mKFu8ra6I/AAAAAAAA8fs/j1q_dczIPmYCFqR_PVzRW3I-ofxYCyIJQCNcBGAsYHQ/s270/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TnPDZDcpPkc/Y9mPkkkntqI/AAAAAAAA8rU/UrLOlLz8Er41Qz9_-_Ip958GNNJ0zhIxwCNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pYn7JL-Quk0/Y9mPlGhA-4I/AAAAAAAA8rY/oSOyX_cgbf44n3F0tYCORVkByQJQt-_DACNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7eCCB4QTWrY/Y9mPllN5YEI/AAAAAAAA8rc/V7IjmYnzbawezEqfgVQU5RZzrtx0S37MACNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CRhaJ1xNOa8/Y9mPmNqp2KI/AAAAAAAA8rg/6m5xUpWKlng8kYtQaM5GctX507-9R8cEQCNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-9oSz-tqcz7w/Y9mPmi8UGEI/AAAAAAAA8rk/mxyWVP3bDII23awj6-weaFGoIvSkGl-2gCNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Fx1S2FnH3m0/Y9mPm8fGpBI/AAAAAAAA8ro/0UDOsBBIDocK5h88splta0M2YPxsldzdACNcBGAsYHQ/s135/2062-Takashi-Mitsuya-Tokyo-Revengers-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2062/",
+      "fetched_at": "2026-05-16T19:10:33.817Z",
+      "raw_id": "/nendoroid/details/n2062/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.818Z",
+      "raw_id": "Nendoroid/2000-2099/2062.json"
+    }
+  ]
+}

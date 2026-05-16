@@ -1,0 +1,65 @@
+{
+  "num": "2481",
+  "name": {
+    "en": "Oz Vessalius",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "PandoraHearts",
+    "ja": null,
+    "ko": null,
+    "code": "pandorahearts"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DYTDWeC5Xz4/Zj_iwRtUNoI/AAAAAAABEZw/f69jEOCM5lI2ZMXs3UdTgAJbRBKA9Nt0ACNcBGAsYHQ/s270/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DYTDWeC5Xz4/Zj_iwRtUNoI/AAAAAAABEZw/f69jEOCM5lI2ZMXs3UdTgAJbRBKA9Nt0ACNcBGAsYHQ/s270/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9G0oL3yN-nM/Zow5uoijb0I/AAAAAAABF5U/xhgJAdc1A-c3epLgYXABRcGosYHBACe4QCNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-fzA1VfpawOc/Zow5u5h7hGI/AAAAAAABF5Y/6ruWnRLzW1YJHxvr4HM67lt87au3eJoSACNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qs7Sfkqof8w/Zow5vupjDmI/AAAAAAABF5c/rTokkbf6VPgxDn4yyxA2VuL5XlACyvRBwCNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-R9qcs-TEUnw/Zow5wVah8qI/AAAAAAABF5g/hmGMcbTEEhUGZ5-jTxCDSN3gg8I_-tlbwCNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ed041uhcNO8/Zow5woVChtI/AAAAAAABF5k/k6N9R7WCqS4kXc-_t75M_uF9YExhmEhrgCNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-YG_OtP5Euag/Zow5xDw5LpI/AAAAAAABF5o/lD6IhP3oDWkULJCis429Fu1tP4nJ_B3QACNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-3P_z-QwSvQg/Zow5yJQUVtI/AAAAAAABF5s/88vSTtyYZ-0IDofCYnYBR_sxpS65kuVcQCNcBGAsYHQ/s135/2481-Oz-Vessalius-PandoraHearts-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2481/",
+      "fetched_at": "2026-05-16T19:10:34.087Z",
+      "raw_id": "/nendoroid/details/n2481/"
+    }
+  ]
+}

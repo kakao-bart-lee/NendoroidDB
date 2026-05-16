@@ -1,0 +1,69 @@
+{
+  "num": "1650",
+  "name": {
+    "en": "Nendoroid Tine",
+    "ja": "ねんどろいど タイン (ねんどろいど たいん)",
+    "ko": "따인 티파컨"
+  },
+  "series": {
+    "en": "2gether",
+    "ja": "2gether",
+    "ko": "2gether",
+    "code": "2gether"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11260,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8wfQsx71pJE/YL_UykZvoxI/AAAAAAAAyQU/-JyAI1JQgUgC0g025wtlSertDBToNAggACLcBGAsYHQ/s270/1650-Tine-2gether-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8wfQsx71pJE/YL_UykZvoxI/AAAAAAAAyQU/-JyAI1JQgUgC0g025wtlSertDBToNAggACLcBGAsYHQ/s270/1650-Tine-2gether-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0IBlbnXLplM/YL_dNADPqGI/AAAAAAAAyaM/C3uSVFK8-9wPDpn-bMGU9RdNZ-OiplePwCLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-yMgWaNZ2drM/YL_dNbIOi9I/AAAAAAAAyaQ/ra31qIFteaYYA3tEVvIWt8knGkLKhOa7ACLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QI13egXQvDE/YL_dNQUVz-I/AAAAAAAAyaU/ORa38bGokMctF_lsRZwYPxzkH5Y08dKdACLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-G2_-2udqLqg/YL_dNvWq1WI/AAAAAAAAyaY/66AiQau9YHcdRgwk2_vijVM8b1MgoptmACLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Jd7cR-dkEsA/YL_dN8ya4tI/AAAAAAAAyac/QTq0vE0UchYQxWZNNdKOIAYe63jv2NWxQCLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-T2wh9m6TY48/YL_dN6geBoI/AAAAAAAAyak/B2FzKOmlpAg6ciDfq7nxcj05HcDfe0PMgCLcBGAsYHQ/s135/1650-Tine-2gether-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1650/",
+      "fetched_at": "2026-05-16T19:10:33.559Z",
+      "raw_id": "/nendoroid/details/n1650/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.718Z",
+      "raw_id": "Nendoroid/1600-1699/1650.json"
+    }
+  ]
+}

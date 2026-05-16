@@ -1,0 +1,55 @@
+{
+  "num": "9401",
+  "name": {
+    "en": "Nendoroid Doll Hatsune Miku",
+    "ja": "ねんどろいどどーる 初音ミク (ねんどろいどどーる はつねみく)",
+    "ko": "하츠네 미쿠"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "보컬로이드",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6930,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9401,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20200401/9401/68850/large/e630b86f71ddf1c64b1466068540ae46.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.967Z",
+      "raw_id": "NendoroidDoll/Doll/9401.json"
+    }
+  ]
+}

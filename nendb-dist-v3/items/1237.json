@@ -1,0 +1,68 @@
+{
+  "num": "1237",
+  "name": {
+    "en": "Nendoroid Momoko Asuka",
+    "ja": "ねんどろいど 飛鳥ももこ (ねんどろいど あすかももこ)",
+    "ko": "아스카 모모코"
+  },
+  "series": {
+    "en": "Magical DoReMi 3",
+    "ja": "も～っと！おジャ魔女どれみ",
+    "ko": "오자마녀 도레미",
+    "code": "magical-doremi-3"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8984,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-OiG4UecDqmQ/X4NiP6rfXJI/AAAAAAABmpA/UsIOfLGfmZQWEg4FmLu-p_KukM1oyYHMgCLcBGAsYHQ/s270/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OiG4UecDqmQ/X4NiP6rfXJI/AAAAAAABmpA/UsIOfLGfmZQWEg4FmLu-p_KukM1oyYHMgCLcBGAsYHQ/s270/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2cDG5g_dlBo/X4rzv19VXZI/AAAAAAABpzI/_lixk8nLbtEEeRpCYtdsAAhitQ2kHnMzQCLcBGAsYHQ/s135/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dKX5vMw3I8E/X4rzwUPlboI/AAAAAAABpzM/j2iey4ZAjm4LxFiU4wGB9VbBC30HT4FzQCLcBGAsYHQ/s135/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IcljvUJg6bw/X4rzwvBgaYI/AAAAAAABpzQ/Gggn4I9hDd8VQN1pdAqOnF_JE18_EpPagCLcBGAsYHQ/s135/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-u9xAhpDiRGc/X4rzwxZ8GhI/AAAAAAABpzU/q52GTnnEwHclj46u2IRgenuntSp1YYdagCLcBGAsYHQ/s135/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4Qpa7Wt3dvQ/X4rzwy-CV4I/AAAAAAABpzY/UguYbCqTr4I0QqG1aM1JTyFZeoA51RwIgCLcBGAsYHQ/s135/1237-Momoko-Asuka-Magical-DoReMi-3-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1237/",
+      "fetched_at": "2026-05-16T19:10:33.305Z",
+      "raw_id": "/nendoroid/details/n1237/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.618Z",
+      "raw_id": "Nendoroid/1200-1299/1237.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0843",
+  "name": {
+    "en": "Nendoroid Kukuri",
+    "ja": "ねんどろいど ククリ (ねんどろ くくり)",
+    "ko": "쿠쿠리"
+  },
+  "series": {
+    "en": "Magical Circle Guru Guru",
+    "ja": "魔法陣グルグル",
+    "ko": "마법진 구루구루",
+    "code": "magical-circle-guru-guru"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6837,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-C_GPfJRHVv0/X4Nd0wqrgPI/AAAAAAABmFY/tutOAVsIwfIyQXbeeBo4Sizis6ueFV57wCLcBGAsYHQ/s270/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-C_GPfJRHVv0/X4Nd0wqrgPI/AAAAAAABmFY/tutOAVsIwfIyQXbeeBo4Sizis6ueFV57wCLcBGAsYHQ/s270/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-2VJovCpA3lg/X4ri_fZVwxI/AAAAAAABnPk/d2wzwDcB7Z0vU6s95eYnYCULdpB76MciACLcBGAsYHQ/s135/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-b7zaP4iIgPE/X4ri_7pCvuI/AAAAAAABnPo/-1EmEt3pG6cZz73S2EAAxGvk0MrOuP33QCLcBGAsYHQ/s135/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-prf3mAt6Fao/X4rjAPcGNzI/AAAAAAABnPs/Pw6boeOz41IhFf2jGh8GIvRApYzgfQEkwCLcBGAsYHQ/s135/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-qQ8eLi3qL4I/X4rjA6lIP2I/AAAAAAABnPw/TZZbhFmwXiEEr5f2N8cfYtb6D5qQMca8wCLcBGAsYHQ/s135/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zbupYCUcnw8/X4rjBTQlYnI/AAAAAAABnP0/ectHLLSaVIs9Ak2XYrH8cFdSJOqzssgQQCLcBGAsYHQ/s135/843-Kukuri-Magical-Circle-Guru-Guru-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n843/",
+      "fetched_at": "2026-05-16T19:10:34.831Z",
+      "raw_id": "/nendoroid/details/n843/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.520Z",
+      "raw_id": "Nendoroid/0800-0899/843.json"
+    }
+  ]
+}

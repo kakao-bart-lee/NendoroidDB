@@ -1,0 +1,69 @@
+{
+  "num": "0050",
+  "name": {
+    "en": "Nendoroid Saber Lion (せいばーらいおん ねんどろいど)",
+    "ja": "ねんどろいど セイバーライオン (せいばーらいおん ねんどろいど)",
+    "ko": "세이버 라이온"
+  },
+  "series": {
+    "en": "Fate/Tiger Colosseum",
+    "ja": "フェイト/タイガーころしあむアッパー",
+    "ko": "페이트 시리즈",
+    "code": "fate-tiger-colosseum"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 491,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-exJpxvut6Ok/X4MR9gG8KbI/AAAAAAAApZk/4Mt1-cCp3dUWN9-qIySQGDkgkZ-WuLORQCLcBGAsYHQ/s270/050-Saber-Lion-Lily-Fate-Tiger-Coliseum-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-exJpxvut6Ok/X4MR9gG8KbI/AAAAAAAApZk/4Mt1-cCp3dUWN9-qIySQGDkgkZ-WuLORQCLcBGAsYHQ/s270/050-Saber-Lion-Lily-Fate-Tiger-Coliseum-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hEGtSlSVua0/X4GwiC5WBoI/AAAAAAAApEc/aXRQNZZ2Nt0yiBIWmTiT4avT2oYIT911wCLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-d8F2_xPLZIw/X4GwiWtRBNI/AAAAAAAApEg/FScvIldbYhkYavsNsRsxmbkrAn8TcBEtwCLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pObHcH0XeGw/X4Gwitwl2JI/AAAAAAAApEk/OMG0qZiVY0ARb2cz0DFbPL7RgwsmJk_FwCLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gv3pKX38eCo/X4Gwi7ND4PI/AAAAAAAApEo/ZvJdQYwxmJsNE8kE0I4IlmlMH_vosvlBQCLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CI4B6NGzVwE/X4Gwi0IrEeI/AAAAAAAApEs/KaXq6vx3-r4FaU9aqaJ12wXIw1HlfJDdACLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-omG_5ekrTYc/X4GwjFK7eTI/AAAAAAAApEw/ZRf9K0P5xhUVEoHU8EkM5dDh1hO4jTBYwCLcBGAsYHQ/s135/050-Saber-Lion-Fate-Tiger-Coliseum-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n050/",
+      "fetched_at": "2026-05-16T19:10:33.096Z",
+      "raw_id": "/nendoroid/details/n050/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.275Z",
+      "raw_id": "Nendoroid/0000-0099/050.json"
+    }
+  ]
+}

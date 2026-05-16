@@ -1,0 +1,68 @@
+{
+  "num": "1045",
+  "name": {
+    "en": "Nendoroid Feng Baobao",
+    "ja": "ねんどろいど 馮宝宝 (ねんどろいど ふうほうほう)",
+    "ko": "펑 바오바오"
+  },
+  "series": {
+    "en": "The Outcast",
+    "ja": "一人之下 the outcast",
+    "ko": "일인지하 the outcast",
+    "code": "the-outcast"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7907,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-66a_lFT0GOA/X4Nfrg__xfI/AAAAAAABmT8/PRyogU5rQ9UT-pGGz8BhQATksm90CwDsQCLcBGAsYHQ/s270/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-66a_lFT0GOA/X4Nfrg__xfI/AAAAAAABmT8/PRyogU5rQ9UT-pGGz8BhQATksm90CwDsQCLcBGAsYHQ/s270/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9ZTDLH3-KYY/X4rsIPmegFI/AAAAAAABoiA/jUHqi4ykxiwctxDCxghtwW9CQIpXSgXRQCLcBGAsYHQ/s135/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eutv3SitvyQ/X4rsIiuRymI/AAAAAAABoiE/B4blNP6S9gEf2F9rVerJozZ_DQUPcsymACLcBGAsYHQ/s135/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-_WNoqD1SiWs/X4rsI5DV9uI/AAAAAAABoiI/wT1bJsPqNS40VfLKkZUSmsavR9IUqwq2wCLcBGAsYHQ/s135/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-hIwMZZ3_GOU/X4rsI4NU6eI/AAAAAAABoiM/TTyOt6LJhIsLUHn5Qc5iYn5g6ZLpaTKIQCLcBGAsYHQ/s135/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IsXo32G6um0/X4rsJSBaWyI/AAAAAAABoiQ/Cgp_pJjVpN46SaGakYRRBhwu9hWoVFynACLcBGAsYHQ/s135/1045-Feng-Baobao-The-Outcast-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1045/",
+      "fetched_at": "2026-05-16T19:10:33.171Z",
+      "raw_id": "/nendoroid/details/n1045/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.572Z",
+      "raw_id": "Nendoroid/1000-1099/1045.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1993",
+  "name": {
+    "en": "Nendoroid Chun-Li",
+    "ja": "ねんどろいど 春麗 (ねんどろいど ちゅんりー)",
+    "ko": "춘리"
+  },
+  "series": {
+    "en": "Street Fighter II",
+    "ja": "ストリートファイターII",
+    "ko": "스트리트 파이터",
+    "code": "street-fighter-ii"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13516,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--E7YaK6hsm0/Y69BLe8bDrI/AAAAAAAA8PI/ybagT2Pg5UkWIOJne8WD4tq0jj7yEOQfgCNcBGAsYHQ/s270/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--E7YaK6hsm0/Y69BLe8bDrI/AAAAAAAA8PI/ybagT2Pg5UkWIOJne8WD4tq0jj7yEOQfgCNcBGAsYHQ/s270/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7DTeAzxahoY/Y684X79bZsI/AAAAAAAA8Gc/hqnpwskJqyIXHFhsFmOWEews_RN4kqO9QCNcBGAsYHQ/s135/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-I0UJpv--XCs/Y684YIDrp5I/AAAAAAAA8Gg/WZgFmpRgyHEGKzuqwiIO4ZPe5hVxee2jACNcBGAsYHQ/s135/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pN-6TwFlhdA/Y684Ybqb2wI/AAAAAAAA8Gk/269zUk562Z8XkbVXnMiL83Ru-pPYAgErACNcBGAsYHQ/s135/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-QHdRBljkKkc/Y684YqNDVcI/AAAAAAAA8Go/Y1IdlQFb78cNAHLvjqV9TRZDMMflZKqvACNcBGAsYHQ/s135/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hFKhxxlj4S8/Y684ZD_NTVI/AAAAAAAA8Gs/RwQzPs5zYqkzTK9alyyVVFAQwnjJ9UmhgCNcBGAsYHQ/s135/1993-Chun-Li-Street-Fighter-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1993/",
+      "fetched_at": "2026-05-16T19:10:33.773Z",
+      "raw_id": "/nendoroid/details/n1993/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.800Z",
+      "raw_id": "Nendoroid/1900-1999/1993.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2179",
+  "name": {
+    "en": "Nendoroid Knuckles",
+    "ja": "ねんどろいど ナックルズ (ねんどろいど なっくるず)",
+    "ko": "너클즈"
+  },
+  "series": {
+    "en": "Sonic the Hedgehog",
+    "ja": "ソニック・ザ・ヘッジホッグ",
+    "ko": "소닉 더 헤지혹",
+    "code": "sonic-the-hedgehog"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14439,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ePmEj5usQhQ/ZIzT812O4tI/AAAAAAAA-Qg/ofg5oZ8eyOo4HowTDmVzfwdh79uCH5DmACNcBGAsYHQ/s270/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ePmEj5usQhQ/ZIzT812O4tI/AAAAAAAA-Qg/ofg5oZ8eyOo4HowTDmVzfwdh79uCH5DmACNcBGAsYHQ/s270/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gpD6QQnRYJA/ZIzWWY8le-I/AAAAAAAA-ak/WIgWQnYiQiMkemJ1DJ-fLEeZnKiQ79V7ACNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-AY6ZIQx1NF0/ZIzWWoGneSI/AAAAAAAA-ao/EgbGfl4l-aEvK70GVoRbGrDY9GSmItBuwCNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-b-pI6vrKL44/ZIzWW2AOSqI/AAAAAAAA-as/nwsIsCPw1GkpWHOs6f1s7FQ8KBZTtKaCwCNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ocxrxzJVyR8/ZIzWXIgHKHI/AAAAAAAA-aw/tZd77-8T-8wF8uwz-tB1iF86x8XifR9sACNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nw5HJEBT5TY/ZIzWXW9tfmI/AAAAAAAA-a0/IrNquUrzg6007XR18ZT84cynKrIfX7L8ACNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-s545lP9aShU/ZIzWXrFv9pI/AAAAAAAA-a4/ou0UyrLGsvI3UZ64FI7u8O1eHvZMlSO6QCNcBGAsYHQ/s135/2179-Knuckles-Sonic-the-Hedgehog-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2179/",
+      "fetched_at": "2026-05-16T19:10:33.885Z",
+      "raw_id": "/nendoroid/details/n2179/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.848Z",
+      "raw_id": "Nendoroid/2100-2199/2179.json"
+    }
+  ]
+}

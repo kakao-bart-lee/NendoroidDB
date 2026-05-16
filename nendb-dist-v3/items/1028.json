@@ -1,0 +1,68 @@
+{
+  "num": "1028",
+  "name": {
+    "en": "Nendoroid Momo Minamoto",
+    "ja": "ねんどろいど 源モモ (ねんどろいど みなもともも)",
+    "ko": "미나모토 모모"
+  },
+  "series": {
+    "en": "RELEASE THE SPYCE",
+    "ja": "RELEASE THE SPYCE",
+    "ko": "릴리즈 더 스파이스",
+    "code": "release-the-spyce"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7776,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-V6N-MJBd8X8/X4Nfmilx0RI/AAAAAAABmS4/vgf6-FR56LsLJTXHHinjWdf4DFQr5qlKQCLcBGAsYHQ/s270/1028-Momo-Minamoto-Release-the-Spyce-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-V6N-MJBd8X8/X4Nfmilx0RI/AAAAAAABmS4/vgf6-FR56LsLJTXHHinjWdf4DFQr5qlKQCLcBGAsYHQ/s270/1028-Momo-Minamoto-Release-the-Spyce-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GDZcCx5Nc8s/X4rrscXEGhI/AAAAAAABocI/u--ie7oN5CU23G5yb18LdeZiH-e9KbR6ACLcBGAsYHQ/s135/1028-Momo-Minamoto-RELEASE-THE-SPYCE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-XBEUh2JMGgE/X4rrsgXxOnI/AAAAAAABocM/snXZtSwUYuU80N4KqsG1HWiPT_nM0X4fQCLcBGAsYHQ/s135/1028-Momo-Minamoto-RELEASE-THE-SPYCE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-OcM6R4M6HNg/X4rrs1WxJwI/AAAAAAABocQ/ovZDx5EFLUAOFsYFhbKp0r8-7c5jE7hIACLcBGAsYHQ/s135/1028-Momo-Minamoto-RELEASE-THE-SPYCE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gWAzUHiC58k/X4rrtB5LjnI/AAAAAAABocU/4aYg8SnJVDIw0Ok7XvaWLQNBNzll2JI7wCLcBGAsYHQ/s135/1028-Momo-Minamoto-RELEASE-THE-SPYCE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/--gN-A8AykBE/X4rrtUJ4enI/AAAAAAABocY/nxNr-PUdCRs2gTf5Rb8-RVbB8UHEeq-hwCLcBGAsYHQ/s135/1028-Momo-Minamoto-RELEASE-THE-SPYCE-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1028/",
+      "fetched_at": "2026-05-16T19:10:33.150Z",
+      "raw_id": "/nendoroid/details/n1028/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.568Z",
+      "raw_id": "Nendoroid/1000-1099/1028.json"
+    }
+  ]
+}

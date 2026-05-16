@@ -1,0 +1,68 @@
+{
+  "num": "0078",
+  "name": {
+    "en": "Nendoroid Raspberyl (らずべりる ねんどろいど)",
+    "ja": "ねんどろいど ラズベリル (らずべりる ねんどろいど)",
+    "ko": "라즈베릴"
+  },
+  "series": {
+    "en": "Disgaea 3: Absence of Justice",
+    "ja": "魔界戦記ディスガイア３",
+    "ko": "마계전기 디스가이아3",
+    "code": "disgaea-3-absence-of-justice"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2509,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TzmJeyNcpKc/X4MSEgIKhDI/AAAAAAAApbc/oOjfz4FnfbEuIg-jACx_n-p85uyGpQCfACLcBGAsYHQ/s270/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TzmJeyNcpKc/X4MSEgIKhDI/AAAAAAAApbc/oOjfz4FnfbEuIg-jACx_n-p85uyGpQCfACLcBGAsYHQ/s270/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-R-7YVz0fl28/X4Gw8PRWTPI/AAAAAAAApMM/NDBEd_Duw0waEAbl5ptzEKliMOwuvZjSACLcBGAsYHQ/s135/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VAw2SECb864/X4Gw8QIV4NI/AAAAAAAApMQ/dgWAyvEawaAgwE9XJUfp3Zm142AOic43wCLcBGAsYHQ/s135/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h4eX0l8uVjA/X4Gw8bEKjdI/AAAAAAAApMU/r3I08l3CPwgpHqGGZqDRhZRKu4qddtCAwCLcBGAsYHQ/s135/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VMBks1vfa80/X4Gw8xGkn1I/AAAAAAAApMY/3vDQdNMoiMkLsP9NuDUN4L_ol4RsIZmTQCLcBGAsYHQ/s135/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-OAe8wnxll9c/X4Gw9CONPUI/AAAAAAAApMc/a9nYhg1saGEqQ-JS3_6kugfhDM-JqxIugCLcBGAsYHQ/s135/078-Raspberyl-Disgaea-3-Absence-of-Justice-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n078/",
+      "fetched_at": "2026-05-16T19:10:33.114Z",
+      "raw_id": "/nendoroid/details/n078/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.282Z",
+      "raw_id": "Nendoroid/0000-0099/078.json"
+    }
+  ]
+}

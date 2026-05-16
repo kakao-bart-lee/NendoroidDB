@@ -1,0 +1,68 @@
+{
+  "num": "1267",
+  "name": {
+    "en": "Nendoroid Skull Trooper",
+    "ja": "ねんどろいど スカルトルーパー (ねんどろいど すかるとるーぱー)",
+    "ko": "해골부대"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_GQuh0vvwG4/X4Nia_db6jI/AAAAAAABmq4/CbKrIiJtPUcRi9i6Abp0vFPKCkOuAjtmgCLcBGAsYHQ/s270/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_GQuh0vvwG4/X4Nia_db6jI/AAAAAAABmq4/CbKrIiJtPUcRi9i6Abp0vFPKCkOuAjtmgCLcBGAsYHQ/s270/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-r8yDChv6zBw/X4r0bfHKOJI/AAAAAAABp9w/4eiNgwG9ziYS3p5XRtY9PpimPmT-PpS3ACLcBGAsYHQ/s135/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aGXFM-0ncdw/X4r0bpk2YlI/AAAAAAABp90/0JUHaGqoIRY-CCWc-7Xu8pojhAcW1NafQCLcBGAsYHQ/s135/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4c6-C13opy4/X4r0cPZC26I/AAAAAAABp94/EYBfmMIRVCsgWXpszB0VenyCr6dMa7b9gCLcBGAsYHQ/s135/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-9XiZck4O-0k/X4r0caXezgI/AAAAAAABp98/ZsKjEy0yc7EtQM2M4FUxshwLQKjPyc-FACLcBGAsYHQ/s135/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-AspQzTKiky4/X4r0cUphLxI/AAAAAAABp-A/yqfQbwdVWLA6-VNUZrVHV6KVvCJBIbAfQCLcBGAsYHQ/s135/1267-Skull-Trooper-Fornite-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1267/",
+      "fetched_at": "2026-05-16T19:10:33.323Z",
+      "raw_id": "/nendoroid/details/n1267/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.624Z",
+      "raw_id": "Nendoroid/1200-1299/1267.json"
+    }
+  ]
+}

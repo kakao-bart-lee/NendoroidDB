@@ -1,0 +1,70 @@
+{
+  "num": "1763",
+  "name": {
+    "en": "Nendoroid Kagura Nana",
+    "ja": "ねんどろいど カグラナナ (ねんどろいど かぐらなな)",
+    "ko": "카구라 나나"
+  },
+  "series": {
+    "en": "Kagura Nana",
+    "ja": "カグラナナ",
+    "ko": "버츄얼 유튜버",
+    "code": "kagura-nana"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12050,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-h-jkFLvg698/Ya-zMkgWcpI/AAAAAAAA2EI/MCnlI21puSQNEETHMJj-80mxvGIy_8J0ACNcBGAsYHQ/s270/1763-Kagura-Nana-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-h-jkFLvg698/Ya-zMkgWcpI/AAAAAAAA2EI/MCnlI21puSQNEETHMJj-80mxvGIy_8J0ACNcBGAsYHQ/s270/1763-Kagura-Nana-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Q0IFnDVxkBw/Ya-2WEQE9cI/AAAAAAAA2M4/dG5AxLYdfdIIqAK6S_a_WtF4Sc20u8_ewCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ueHCVCUeODc/Ya-2WYCPm6I/AAAAAAAA2M8/gyrEj9m9qf0LOUjBVdW37SYrqzDns1a-wCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aUx6kY2CYaA/Ya-2WeBue8I/AAAAAAAA2NA/4wM6NlxzVcI4oxmX-SZ26423i6P6wzemgCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BlvKWW_iNCg/Ya-2Wv9svJI/AAAAAAAA2NE/ZJrAsIIUOlEnwrgWLwEVoniGJDxckJG5QCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-s6PobfgO4hg/Ya-2WwDTNnI/AAAAAAAA2NI/nXE9qIsRxpwItGMzPp_Eqrdo8CAKP92yQCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fFEUZvjQeaA/Ya-2W4NMqJI/AAAAAAAA2NM/yyfKWUHRUAMsbo4lSAe1uzrKbaqHlfyAwCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-PcKd2oI4tfE/Ya-2XOItohI/AAAAAAAA2NQ/ABUDbHgUEKMosa3XiVqsdJoEfQvmClEygCNcBGAsYHQ/s135/1763-Kagura-Nana-Kagura-Nana-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1763/",
+      "fetched_at": "2026-05-16T19:10:33.632Z",
+      "raw_id": "/nendoroid/details/n1763/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.745Z",
+      "raw_id": "Nendoroid/1700-1799/1763.json"
+    }
+  ]
+}

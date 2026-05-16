@@ -1,0 +1,68 @@
+{
+  "num": "0328",
+  "name": {
+    "en": "Nendoroid Cryska Barchenowa (ねんどろいど くりすか・びゃーちゅのわ)",
+    "ja": "ねんどろいど クリスカ・ビャーチェノワ (ねんどろいど くりすか・びゃーちぇのわ)",
+    "ko": "크리스카 뱌체노바"
+  },
+  "series": {
+    "en": "MUV-LUV Alternative: Total Eclipse",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "code": "muv-luv-alternative-total-eclipse"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3913,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QJv3AEiM_x0/X4NMrBtPojI/AAAAAAABlhI/z0SyaALbGNMur1jsS94zc5eJla25XnEhACLcBGAsYHQ/s270/328-Cryska%2BBarchenowa-Total%2BEclipse-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QJv3AEiM_x0/X4NMrBtPojI/AAAAAAABlhI/z0SyaALbGNMur1jsS94zc5eJla25XnEhACLcBGAsYHQ/s270/328-Cryska%2BBarchenowa-Total%2BEclipse-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-N9g8grpNjjo/X4daZnhz19I/AAAAAAAAq8c/dara0bjkkOw1CIy8PcaZQLvt5Y40ejtHQCLcBGAsYHQ/s135/328-Cryska-Barchenowa-Total-Eclipse-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-4-mV9Jap5-Y/X4daZ6DGiGI/AAAAAAAAq8g/C6G2Pdyu7UA23jDG1vBzQUx1H72iETP5QCLcBGAsYHQ/s135/328-Cryska-Barchenowa-Total-Eclipse-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ack77-EnDrc/X4daaeC_GBI/AAAAAAAAq8k/Ij8VAsiJVIQ3-ZyWkiKno-QZsMBuM8UdACLcBGAsYHQ/s135/328-Cryska-Barchenowa-Total-Eclipse-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3j9C4Bw5ftI/X4daalUpB1I/AAAAAAAAq8o/pF4WApxh2NQ5e-BdjJYXAGaqw4zkyv5EwCLcBGAsYHQ/s135/328-Cryska-Barchenowa-Total-Eclipse-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L2ok3ZDkkqM/X4daaq4_CcI/AAAAAAAAq8s/a8_722pyFK04LE8ubq2Obh2oxJow9H7TACLcBGAsYHQ/s135/328-Cryska-Barchenowa-Total-Eclipse-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n328/",
+      "fetched_at": "2026-05-16T19:10:34.464Z",
+      "raw_id": "/nendoroid/details/n328/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.352Z",
+      "raw_id": "Nendoroid/0300-0399/328.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1307",
+  "name": {
+    "en": "Nendoroid Yukino Yukinoshita",
+    "ja": "ねんどろいど 雪ノ下雪乃 (ねんどろいど ゆきのしたゆきの)",
+    "ko": "유키노시타 유키노"
+  },
+  "series": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "ja": "やはり俺の青春ラブコメはまちがっている。完",
+    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
+    "code": "my-teen-romantic-comedy-snafu-climax"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Gchf6_p7weY/X4Njiq5v06I/AAAAAAABmzQ/FPL0LT836cU1_yWG7kTI2Sb8ZzeWN_CLwCLcBGAsYHQ/s270/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Gchf6_p7weY/X4Njiq5v06I/AAAAAAABmzQ/FPL0LT836cU1_yWG7kTI2Sb8ZzeWN_CLwCLcBGAsYHQ/s270/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-G-LkIxLJvXw/X4s8iQKwEiI/AAAAAAABqSA/5_Vei829DiMRJDNvCGcs9ODSWeVovB2PACLcBGAsYHQ/s135/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-39pzYT8JImA/X4s8irPPgmI/AAAAAAABqSE/HxtzrRJgX3oJrMpXUaD9Ki7VDrF8KXHpQCLcBGAsYHQ/s135/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-veEKE7TfWdg/X4s8izxM7SI/AAAAAAABqSI/FjgY85D-U649_f_EkejMwZeQEi6G8F4swCLcBGAsYHQ/s135/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3lGz9ckyuO4/X4s8ixa0HDI/AAAAAAABqSM/yF2q24VVHAgC9XcjAr-sYzJbOyjn8lKpQCLcBGAsYHQ/s135/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-DFC3cyLv-94/X4s8jQaoQgI/AAAAAAABqSQ/5ORlpt7mbg8zATXahaUftWfghgBXpOOWwCLcBGAsYHQ/s135/1307-Yukino-Yukinoshita-My-Teen-Romantic-Comedy-SNAFU-3-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1307/",
+      "fetched_at": "2026-05-16T19:10:33.348Z",
+      "raw_id": "/nendoroid/details/n1307/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.634Z",
+      "raw_id": "Nendoroid/1300-1399/1307.json"
+    }
+  ]
+}

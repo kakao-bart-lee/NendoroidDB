@@ -1,0 +1,68 @@
+{
+  "num": "2152",
+  "name": {
+    "en": "Nendoroid Sakura (Tsubasa Ver.)",
+    "ja": "ねんどろいど サクラ（Tsubasa Ver.） (ねんどろいど さくら（Tsubasa Ver.）)",
+    "ko": "사쿠라 (츠바사 Ver.)"
+  },
+  "series": {
+    "en": "TSUBASA: RESERVoir CHRoNiCLE",
+    "ja": "ツバサ-RESERVoir CHRoNiCLE-",
+    "ko": "츠바사 크로니클",
+    "code": "tsubasa-reservoir-chronicle"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14267,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6MgfogsOKcQ/ZFqWg_1CIWI/AAAAAAAA90s/dMXmNS-I8Fs_6Qziu4asFUcob8NNDoG4wCNcBGAsYHQ/s270/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6MgfogsOKcQ/ZFqWg_1CIWI/AAAAAAAA90s/dMXmNS-I8Fs_6Qziu4asFUcob8NNDoG4wCNcBGAsYHQ/s270/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Yw2JHjWWYG4/ZFqcaJuWeAI/AAAAAAAA-DQ/5OBPEaMckY45uoN9YhsD6g9fsTeIb23EgCNcBGAsYHQ/s135/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-eHYM7T5Tr24/ZFqcarTR-YI/AAAAAAAA-DM/zqUctjHvsXczrzmDKt3hAAMZJhyA0jfTQCNcBGAsYHQ/s135/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JWPWorOlKMQ/ZFqcbJEKK7I/AAAAAAAA-DU/ZSHOW2-_TsM4byOZOVx-Tu6Xk4_WWMCbgCNcBGAsYHQ/s135/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AjUgXXxOvFA/ZFqcbGAZx2I/AAAAAAAA-DY/SEWDvKLAtZIRi8d5a87-xP1jEgEiXngWwCNcBGAsYHQ/s135/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-dF6QIWrfCXo/ZFqcbOQbNdI/AAAAAAAA-Dc/EvbeVH0YIm45QL8xHfeicYQ-5QrtnoiwgCNcBGAsYHQ/s135/2152-Sakura-Tsubasa-Reservoir-Chronicle-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2152/",
+      "fetched_at": "2026-05-16T19:10:33.869Z",
+      "raw_id": "/nendoroid/details/n2152/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.840Z",
+      "raw_id": "Nendoroid/2100-2199/2152.json"
+    }
+  ]
+}

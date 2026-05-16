@@ -1,0 +1,67 @@
+{
+  "num": "0357",
+  "name": {
+    "en": "Nendoroid Flonne (ねんどろいど ふろん)",
+    "ja": "ねんどろいど フロン (ねんどろいど ふろん)",
+    "ko": "프론"
+  },
+  "series": {
+    "en": "Disgaea",
+    "ja": "魔界戦記ディスガイア",
+    "ko": "마계전기 디스가이아",
+    "code": "disgaea"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4002,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-sfrkyoYjYOA/X4NM30WNg6I/AAAAAAABljE/OqGi2cqTBxgs68ICnXBf3qETXIw670olwCLcBGAsYHQ/s270/357-Flonne-Disagea-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-sfrkyoYjYOA/X4NM30WNg6I/AAAAAAABljE/OqGi2cqTBxgs68ICnXBf3qETXIw670olwCLcBGAsYHQ/s270/357-Flonne-Disagea-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-DU-QyJjYvfA/X4da9OPYR4I/AAAAAAAArFo/AXsbYnKwAGEXkap8WNr3d5JTNNUlMEO_QCLcBGAsYHQ/s135/357-Flonne-Disgaea-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dWmj7cnqHnw/X4da9RZdqfI/AAAAAAAArFk/5xt_pjG7Ft4X41-WEpK2YkwyISaK0B_qQCLcBGAsYHQ/s135/357-Flonne-Disgaea-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-rrQHkFm3dss/X4da9kCbZfI/AAAAAAAArFs/kPZYiTXIf0ol6aNgd91HzY74zyhoXteCgCLcBGAsYHQ/s135/357-Flonne-Disgaea-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5lrISDSAHgU/X4da90zNsPI/AAAAAAAArFw/p7ttMZbKiS0crbCxXmIOrqQM10KdQBXdACLcBGAsYHQ/s135/357-Flonne-Disgaea-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n357/",
+      "fetched_at": "2026-05-16T19:10:34.480Z",
+      "raw_id": "/nendoroid/details/n357/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.360Z",
+      "raw_id": "Nendoroid/0300-0399/357.json"
+    }
+  ]
+}

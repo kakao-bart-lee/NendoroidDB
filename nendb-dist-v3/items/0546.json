@@ -1,0 +1,68 @@
+{
+  "num": "0546",
+  "name": {
+    "en": "Nendoroid Umi Sonoda: Training Outfit Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)",
+    "ja": "ねんどろいど 園田海未 練習着Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)",
+    "ko": "소노다 우미 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5138,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-p3RUxzt9GYs/X4NOgtzl0TI/AAAAAAABlwU/04LJ3RQ5T6swTTeIid0XoGpOt0clSIdUwCLcBGAsYHQ/s270/546-Umi-Sonoda-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-p3RUxzt9GYs/X4NOgtzl0TI/AAAAAAABlwU/04LJ3RQ5T6swTTeIid0XoGpOt0clSIdUwCLcBGAsYHQ/s270/546-Umi-Sonoda-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-37iMKi73iNg/X4issMlXc7I/AAAAAAAAsKk/A1ojJKWfKDs2ELcuDd4_aY9DGzJP1RSUgCLcBGAsYHQ/s135/546-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J4CWcAK8OIc/X4issZh37HI/AAAAAAAAsKo/yblZAvhOe1UDPrn2w_DpwKQ0PviTQXCSACLcBGAsYHQ/s135/546-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-lJtxM6mCKMI/X4issRFfNHI/AAAAAAAAsKs/mBixBshUeFULpXAlASTKSx9HvDXrDIZqACLcBGAsYHQ/s135/546-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nQROvf3mbl4/X4issnYUkiI/AAAAAAAAsKw/S5yrm2j5-FMwqqj0wmq6GzTywjwIqPJhQCLcBGAsYHQ/s135/546-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-2MkdLtBuWL4/X4iss4O-3YI/AAAAAAAAsK0/fslwIIzql6YrXLrNQhqp5Y85W2cY1FDaQCLcBGAsYHQ/s135/546-Umi-Sonoda-Love-Live-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n546/",
+      "fetched_at": "2026-05-16T19:10:34.591Z",
+      "raw_id": "/nendoroid/details/n546/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.440Z",
+      "raw_id": "Nendoroid/0500-0599/546.json"
+    }
+  ]
+}

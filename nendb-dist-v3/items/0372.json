@@ -1,0 +1,68 @@
+{
+  "num": "0372",
+  "name": {
+    "en": "Nendoroid Tomoko Kuroki (ねんどろいど くろきともこ)",
+    "ja": "ねんどろいど 黒木智子 (ねんどろいど くろきともこ)",
+    "ko": "쿠로키 토모코"
+  },
+  "series": {
+    "en": "Watashi ga Motenai no wa dou Kangaetemo Omaera ga Warui!",
+    "ja": "私がモテないのはどう考えてもお前らが悪い！",
+    "ko": "내가 인기 없는 건 아무리 생각해도 너희들 탓이야!",
+    "code": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4076,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-HdLlNqQfpMo/X4NM-PO2xiI/AAAAAAABlkA/ZF8-A4ELkAw8p_i3r0p1T2x7SSZ98dirQCLcBGAsYHQ/s270/372-Tomoko-Kuroki-WataMote-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-HdLlNqQfpMo/X4NM-PO2xiI/AAAAAAABlkA/ZF8-A4ELkAw8p_i3r0p1T2x7SSZ98dirQCLcBGAsYHQ/s270/372-Tomoko-Kuroki-WataMote-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-LvGoIRf4PZI/X4dbQec2P1I/AAAAAAAArK0/WQMvqCzXViMWCXT7rttDidCMGIUfw5mzQCLcBGAsYHQ/s135/372-Tomoko-Kuroki-Watashi-ga-Motenai-no-wa-dou-Kangaetemo-Omaera-ga-Warui-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-clli5ushw_I/X4dbQu6OF_I/AAAAAAAArK8/gs-MsrCJ6HIUC9Gb1xB5DK-o4KpzPJelwCLcBGAsYHQ/s135/372-Tomoko-Kuroki-Watashi-ga-Motenai-no-wa-dou-Kangaetemo-Omaera-ga-Warui-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FaWo7ptqrYA/X4dbQ31kYrI/AAAAAAAArLA/9T6EXyNXQuAPUqW43YySifCwk8kxrc5RQCLcBGAsYHQ/s135/372-Tomoko-Kuroki-Watashi-ga-Motenai-no-wa-dou-Kangaetemo-Omaera-ga-Warui-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-mU8q0AeC7Ys/X4dbQ8WucZI/AAAAAAAArLE/QXt126mqamssYPVNwRawJmh1aehMjLNigCLcBGAsYHQ/s135/372-Tomoko-Kuroki-Watashi-ga-Motenai-no-wa-dou-Kangaetemo-Omaera-ga-Warui-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0gqkAzVB6CM/X4dbRO3i-aI/AAAAAAAArLI/P42GBAuA9nIZvoqGkR9dx3nyNuTGG3eYQCLcBGAsYHQ/s135/372-Tomoko-Kuroki-Watashi-ga-Motenai-no-wa-dou-Kangaetemo-Omaera-ga-Warui-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n372/",
+      "fetched_at": "2026-05-16T19:10:34.490Z",
+      "raw_id": "/nendoroid/details/n372/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.364Z",
+      "raw_id": "Nendoroid/0300-0399/372.json"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "num": "1047",
+  "name": {
+    "en": "Nendoroid Buzz Lightyear: Standard Ver.",
+    "ja": "ねんどろいど バズ・ライトイヤー スタンダードVer. (ねんどろいど ばず・らいといやー すたんだーどVer.)",
+    "ko": "버즈 라이트이어"
+  },
+  "series": {
+    "en": "Toy Story",
+    "ja": "トイ・ストーリー",
+    "ko": "토이 스토리",
+    "code": "toy-story"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7882,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-najq68JO8cc/X4Nfse4lMVI/AAAAAAABmUI/c1h3XwCsUQg-ByzE09Nt9qg2K4COB8RwQCLcBGAsYHQ/s270/1047-Buzz-Lightyear-Toy-Story-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-najq68JO8cc/X4Nfse4lMVI/AAAAAAABmUI/c1h3XwCsUQg-ByzE09Nt9qg2K4COB8RwQCLcBGAsYHQ/s270/1047-Buzz-Lightyear-Toy-Story-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TIflxY3TEqA/X4rsMA0w_9I/AAAAAAABoi8/SxwAWs55Oa0TyBaoY59ko0mjYw3qA_c-wCLcBGAsYHQ/s135/1047-Buzz-Lightyear-Toy-Story-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0taMngbGOEk/X4rsMZTtDdI/AAAAAAABojA/6g8grN2OY9ckySASbw234dc93aMoQMITwCLcBGAsYHQ/s135/1047-Buzz-Lightyear-Toy-Story-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9r9BGJvYVrg/X4rsMpjQpKI/AAAAAAABojE/SQXUaEORDdYLpz4lM0y8GTlQzq-iDkL1gCLcBGAsYHQ/s135/1047-Buzz-Lightyear-Toy-Story-Disney-Nendoroid-5.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1047/",
+      "fetched_at": "2026-05-16T19:10:33.173Z",
+      "raw_id": "/nendoroid/details/n1047/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.572Z",
+      "raw_id": "Nendoroid/1000-1099/1047.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "num": "0335",
+  "name": {
+    "en": "Nendoroid Hitagi Senjyogahara (ねんどろいど せんじょうがはらひたぎ)",
+    "ja": "ねんどろいど 戦場ヶ原ひたぎ (ねんどろいど せんじょうがはらひたぎ)",
+    "ko": "센조가하라 히타기"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6270,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3908,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jb4-VWFj1lM/X4NMurC53-I/AAAAAAABlhk/f4zuyRvhSHgZJamLs-r31ZzAdvoESimpACLcBGAsYHQ/s270/335-Hitagi%2BSenjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jb4-VWFj1lM/X4NMurC53-I/AAAAAAABlhk/f4zuyRvhSHgZJamLs-r31ZzAdvoESimpACLcBGAsYHQ/s270/335-Hitagi%2BSenjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EF8FiJkSkNU/X4dakRYLm0I/AAAAAAAAq-s/kl2Gzu2f4RgAwl0RU7IL3AchdYCiM-Z5gCLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-n6NTfoyCQqY/X4dakqRNhnI/AAAAAAAAq-w/slO7d4VhmDUukWIvfu1YOAf2FNKSC-B0gCLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tGyd-n5YmTA/X4dak6d6iKI/AAAAAAAAq-0/3j_QAh53aXEHtE2_T1i9vO5yEdnEEJDrACLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WBjtoeBeMLI/X4dakzesM2I/AAAAAAAAq-4/5bdPlA4yQqIw1R7-p5pyNbNd_1ZkmVtIwCLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UE6JQGN1AqE/X4dalHC_EZI/AAAAAAAAq-8/H4WKTXBPmIsZqtSIvTb3USfeD40qIqUBACLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5lCWzk1Qhm0/X4dalbssjaI/AAAAAAAAq_A/yYxxkbRA3l0OodMOKVoZJXI2xpuiVnVRwCLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-i5ZDKDVt9WI/X4dalh4emYI/AAAAAAAAq_E/0-QTtemSpoMN8eC313F47A2qeHOeWfTRACLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-tyAETik-iG4/X4daj1jKCQI/AAAAAAAAq-k/WuqL827M2BYqmZSOsHVENQD9BeDcgqpEACLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-ZhyrfWlKw7k/X4daj943VSI/AAAAAAAAq-o/4IOD5c_m_kMRq4vPXxuGyMWr_YK31w9SwCLcBGAsYHQ/s135/335-Hitagi-Senjyogahara-Bakemonogatari-Anime-and-Manga-Nendoroid-11.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n335/",
+      "fetched_at": "2026-05-16T19:10:34.467Z",
+      "raw_id": "/nendoroid/details/n335/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.354Z",
+      "raw_id": "Nendoroid/0300-0399/335.json"
+    }
+  ]
+}

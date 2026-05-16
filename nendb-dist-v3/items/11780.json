@@ -1,0 +1,55 @@
+{
+  "num": "11780",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Souvenir Jacket - Blue/Black/Pink)",
+    "ja": "ねんどろいどどーる おようふくセット スカジャン（ブルー/ブラック/ピンク） (ねんどろいどどーる おようふくせっと すかじゃん（ぶるー/ぶらっく/ぴんく）)",
+    "ko": "스카쟌 의상 세트(블루/블랙/핑크)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11780,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210914/11780/89853/large/54f69cc3875297f57a56109edf90526b.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.919Z",
+      "raw_id": "NendoroidDoll/Clothes/11780.json"
+    }
+  ]
+}

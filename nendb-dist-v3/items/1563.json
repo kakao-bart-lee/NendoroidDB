@@ -1,0 +1,70 @@
+{
+  "num": "1563",
+  "name": {
+    "en": "Nendoroid Gyoza Fairy",
+    "ja": "ねんどろいど ギョーザ男 (ねんどろいど ぎょーざおとこ)",
+    "ko": "만두요정"
+  },
+  "series": {
+    "en": "Dorohedoro",
+    "ja": "ドロヘドロ",
+    "ko": "도로헤도로",
+    "code": "dorohedoro"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10817,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S-QoLI2xMo4/YFXx9tjJ7AI/AAAAAAAAwLc/xiBEkTv9oe8AefvQaJh6eSWTucgLuHaygCLcBGAsYHQ/s270/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S-QoLI2xMo4/YFXx9tjJ7AI/AAAAAAAAwLc/xiBEkTv9oe8AefvQaJh6eSWTucgLuHaygCLcBGAsYHQ/s270/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bNL2a1e0Mjk/YD1foT5DI2I/AAAAAAAAv6o/BShnwhY42OQwjHC0dnEBxXaAGdgmcifdgCLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aLbHNARaQ5c/YD1foy2o1nI/AAAAAAAAv6s/iJ5J6uInEsMz0drMHZjht7R1xFyUDXURACLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jh15PpT57UQ/YD1fpLSuVII/AAAAAAAAv6w/t9ajOpBMNwwuP33XqEsifb2OEAK7vrjkgCLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nBvaMACmj94/YD1fpFrnEJI/AAAAAAAAv60/iL5x-h0rkr0XsTT7ZDHH9oUc2BBXcA76ACLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-hNVzY6BkZtw/YD1fpWZGzvI/AAAAAAAAv64/PNbwozKjwRkbgYSXICSafsbE2VhlnznsgCLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Vg852V2-Ci8/YD1fpW83AeI/AAAAAAAAv68/PHTsMQtDTkEZfxyQkt4kjdeINBd4vH8wwCLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-kkfghL_mEGc/YD1fp-ojmFI/AAAAAAAAv7A/VHT2tFlmXggrR6L7uQ_at5QtOQeKKJo3wCLcBGAsYHQ/s135/1563-Gyoza-Fairy-Dorohedoro-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1563/",
+      "fetched_at": "2026-05-16T19:10:33.506Z",
+      "raw_id": "/nendoroid/details/n1563/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.696Z",
+      "raw_id": "Nendoroid/1500-1599/1563.json"
+    }
+  ]
+}

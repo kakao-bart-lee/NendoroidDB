@@ -1,0 +1,67 @@
+{
+  "num": "0990",
+  "name": {
+    "en": "Nendoroid Caster/Gilgamesh",
+    "ja": "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
+    "ko": "캐스터/길가메시"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7592,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QSqiKfhzQj8/X4Ne6ZvcxqI/AAAAAAABmPo/IKbWoS7GK8IjvBZ-KtiuaAn4aswoD8lCQCLcBGAsYHQ/s270/990-Gilgamesh-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QSqiKfhzQj8/X4Ne6ZvcxqI/AAAAAAABmPo/IKbWoS7GK8IjvBZ-KtiuaAn4aswoD8lCQCLcBGAsYHQ/s270/990-Gilgamesh-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-p7xw4nSE_yk/X4rpsLUpexI/AAAAAAABoKs/NVMbxAGotfQuv_xoyYJ2DjR2LB7O2SB2ACLcBGAsYHQ/s135/990-Caster-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U6x3jz921TA/X4rpsVjeHcI/AAAAAAABoKw/zP-8DO9fC_sGmkSEvLhCSNE7MuvWzdYPACLcBGAsYHQ/s135/990-Caster-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c0BIl1La_UM/X4rpsmbI1aI/AAAAAAABoK0/oP1n4Ev2upUHvzrgkrMyuT-X52g-eFa3ACLcBGAsYHQ/s135/990-Caster-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FGHZayH6gjc/X4rps3L4RDI/AAAAAAABoK4/xz2btsmNZgw927qI6cvoCnH2IooXxc8aQCLcBGAsYHQ/s135/990-Caster-Gilgamesh-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n990/",
+      "fetched_at": "2026-05-16T19:10:34.912Z",
+      "raw_id": "/nendoroid/details/n990/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.558Z",
+      "raw_id": "Nendoroid/0900-0999/990.json"
+    }
+  ]
+}

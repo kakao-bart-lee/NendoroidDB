@@ -1,0 +1,55 @@
+{
+  "num": "13307",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set: Xie Lian",
+    "ja": "ねんどろいどどーる おようふくセット 謝怜 (ねんどろいどどーる おようふくせっと しえ・りぇん)",
+    "ko": "사련 의상"
+  },
+  "series": {
+    "en": "Heaven Official's Blessing",
+    "ja": "天官賜福",
+    "ko": "천관사복",
+    "code": "heaven-official-s-blessing"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7106,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13307,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220926/13307/104911/large/07b318733b0186d7e86f403931ede22a.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.932Z",
+      "raw_id": "NendoroidDoll/Clothes/13307.json"
+    }
+  ]
+}

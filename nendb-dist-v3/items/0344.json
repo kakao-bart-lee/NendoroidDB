@@ -1,0 +1,68 @@
+{
+  "num": "0344",
+  "name": {
+    "en": "Nendoroid Akane Isshiki (ねんどろいど いっしきあかね)",
+    "ja": "ねんどろいど 一色あかね (ねんどろいど いっしきあかね)",
+    "ko": "잇시키 아카네"
+  },
+  "series": {
+    "en": "VIVIDRED OPERATION",
+    "ja": "ビビッドレッド・オペレーション",
+    "ko": "비비드레드 오퍼레이션",
+    "code": "vividred-operation"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3978,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--UDU3Q7u-JY/X4NMzXSHsPI/AAAAAAABliQ/PMl3QrA0pD8TEaUqJJVaq5TQvdc98wjSwCLcBGAsYHQ/s270/344-Isshiki-Akane-Vivired-Operation-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--UDU3Q7u-JY/X4NMzXSHsPI/AAAAAAABliQ/PMl3QrA0pD8TEaUqJJVaq5TQvdc98wjSwCLcBGAsYHQ/s270/344-Isshiki-Akane-Vivired-Operation-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7Ha26m1Axq4/X4dau9-syJI/AAAAAAAArBk/QvYPJUfC5aQCum4DFDA6tRaGUrDaVPfvwCLcBGAsYHQ/s135/344-Akane-Isshiki-Vivid-Red-Operation-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-SliwMPcnIIM/X4davclKYNI/AAAAAAAArBo/Pey0EpefMgc5-ApqLrQG_WmJrpA5wkqOwCLcBGAsYHQ/s135/344-Akane-Isshiki-Vivid-Red-Operation-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Ghb8a-w9U_M/X4dav2ji30I/AAAAAAAArBs/m7D3tl3vtB0ltx3uP2CvvuixfKKgo-8fwCLcBGAsYHQ/s135/344-Akane-Isshiki-Vivid-Red-Operation-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EVRIi8QHqpw/X4dawEgPhzI/AAAAAAAArBw/PBM0x1vr7Nw9Mg3cBzR-Adn7ZfkNTTWCwCLcBGAsYHQ/s135/344-Akane-Isshiki-Vivid-Red-Operation-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ae8VOs5ItnY/X4dawACkl8I/AAAAAAAArB0/7ePCF96cI_YPm8qCaaC5p0Kw09D2WEQNACLcBGAsYHQ/s135/344-Akane-Isshiki-Vivid-Red-Operation-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n344/",
+      "fetched_at": "2026-05-16T19:10:34.473Z",
+      "raw_id": "/nendoroid/details/n344/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.357Z",
+      "raw_id": "Nendoroid/0300-0399/344.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0730",
+  "name": {
+    "en": "Nendoroid Tracer: Classic Skin Edition",
+    "ja": "ねんどろいど トレーサー クラシックスキン・エディション (ねんどろいど とれーさー くらしっくすきん・えでぃしょん)",
+    "ko": "트레이서"
+  },
+  "series": {
+    "en": "Overwatch",
+    "ja": "オーバーウォッチ",
+    "ko": "오버워치",
+    "code": "overwatch"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4991,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6214,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ljctNC-NlYI/X4Nc5PGwB1I/AAAAAAABl9M/nodR6TaqAWYgqv7E6EjSHD9HyVyVD5GUACLcBGAsYHQ/s270/730-Tracer-Overwatch-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ljctNC-NlYI/X4Nc5PGwB1I/AAAAAAABl9M/nodR6TaqAWYgqv7E6EjSHD9HyVyVD5GUACLcBGAsYHQ/s270/730-Tracer-Overwatch-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-y-EBzFegNOg/X4i4KISX2rI/AAAAAAAAtQ8/7QYAS-1grFgRGN1o6x2uImJIflaYN3WrgCLcBGAsYHQ/s135/730-Tracer-Overwatch-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-iQDx0Qohq38/X4i4Kg176jI/AAAAAAAAtRA/1opJ97MGrwcLqfG3y0ZiQIKnA-B_VVHVQCLcBGAsYHQ/s135/730-Tracer-Overwatch-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MLZMXZ0vupU/X4i4LEDz3rI/AAAAAAAAtRE/eDtY8GchZo8LAv4qVDp0k3-Hsrns2PxSwCLcBGAsYHQ/s135/730-Tracer-Overwatch-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-q9YZ_kX3lTg/X4i4LiuWv_I/AAAAAAAAtRI/JQO0W42no1MJTxG6Xln92-3llUTlQ7F3wCLcBGAsYHQ/s135/730-Tracer-Overwatch-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-l_ai4PvgKfk/X4i4MGg0M6I/AAAAAAAAtRM/iRjBDQkXIFg2vi8YSJJpi93Ret-jpeS8gCLcBGAsYHQ/s135/730-Tracer-Overwatch-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n730/",
+      "fetched_at": "2026-05-16T19:10:34.765Z",
+      "raw_id": "/nendoroid/details/n730/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.494Z",
+      "raw_id": "Nendoroid/0700-0799/730.json"
+    }
+  ]
+}

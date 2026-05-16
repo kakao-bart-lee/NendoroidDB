@@ -1,0 +1,70 @@
+{
+  "num": "2081",
+  "name": {
+    "en": "Nendoroid Enrico · P",
+    "ja": "ねんどろいど エンリコ・P (ねんどろいど えんりこ・ぷっち)",
+    "ko": "엔리코 푸치"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험: 스톤 오션",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6160,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13942,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-onbnZsDqGQw/ZA3eDw9AoFI/AAAAAAAA9LE/dM8ewXkgdjo-NEzuF497SsSbcsoEt1zlgCNcBGAsYHQ/s270/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-onbnZsDqGQw/ZA3eDw9AoFI/AAAAAAAA9LE/dM8ewXkgdjo-NEzuF497SsSbcsoEt1zlgCNcBGAsYHQ/s270/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-O8O_pQWgHCA/ZA3dL2UsebI/AAAAAAAA9FU/kNY202i8NfI--NZC94Bw4a4lznfjlfT3wCNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BBc2Ta1PJvQ/ZA3dL2o3UVI/AAAAAAAA9FY/OEdbVp5kvdwcALrID9V4baolc7-yR0uswCNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-B0C_fXP-90c/ZA3dMPBt4OI/AAAAAAAA9Fc/-qNnC32L_nkcrlTDTB9LdyaO_oMX7rcSACNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wKNXwYh5awk/ZA3dMThqqfI/AAAAAAAA9Fg/zUMeavSpU5IfrJjE-bQsV22b3WZzNHwUQCNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nqQ9eQqpMNc/ZA3dMT3-nXI/AAAAAAAA9Fk/asqV8NhirhMOEyQvXuEB3UfikkySnHkkwCNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-iVxNX7YwCog/ZA3dMvLWzoI/AAAAAAAA9Fo/JwY9an1t1s8f9Qy_gKWScRj8fASZVM1WACNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-kbhBfkJP-PE/ZA3dMnByl6I/AAAAAAAA9Fw/aAPg4XyzsZ0l9ByeUiUWrnnVRZWUE3wFwCNcBGAsYHQ/s135/2081-Enrico-Pucci-JoJos-Bizarre-Adventure-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2081/",
+      "fetched_at": "2026-05-16T19:10:33.829Z",
+      "raw_id": "/nendoroid/details/n2081/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.822Z",
+      "raw_id": "Nendoroid/2000-2099/2081.json"
+    }
+  ]
+}

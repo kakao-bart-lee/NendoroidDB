@@ -1,0 +1,55 @@
+{
+  "num": "1246-DX",
+  "name": {
+    "en": "Nendoroid Lin Yueru: DX Ver.",
+    "ja": "ねんどろいど 林月如 DX Ver. (ねんどろいど りんげつじょ DX Ver.)",
+    "ko": "임월여 DX"
+  },
+  "series": {
+    "en": "Chinese Paladin: Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "chinese-paladin-sword-and-fairy"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-08",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9094,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20191213/9094/66095/large/8d0160de42ab5c8ed632118b4e79a85d.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.620Z",
+      "raw_id": "Nendoroid/1200-1299/1246-DX.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2095",
+  "name": {
+    "en": "Nendoroid Silver",
+    "ja": "ねんどろいど シルバー (ねんどろいど しるばー)",
+    "ko": "실버"
+  },
+  "series": {
+    "en": "Disney Twisted-Wonderland",
+    "ja": "『ディズニー ツイステッドワンダーランド』",
+    "ko": "디즈니 트위스티드 원더랜드",
+    "code": "disney-twisted-wonderland"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14011,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JM48xA3Grig/ZCnVaAnKTyI/AAAAAAAA9UI/fZy213HCi5sWWFUTQeWqPMG-warmkUfVwCNcBGAsYHQ/s270/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JM48xA3Grig/ZCnVaAnKTyI/AAAAAAAA9UI/fZy213HCi5sWWFUTQeWqPMG-warmkUfVwCNcBGAsYHQ/s270/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-fUMHv571Ci0/ZCnZuEtNBZI/AAAAAAAA9XM/xzBpvvON5loF3Op9kMEIQfIA9GqCbxACgCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bPkVDFBUidY/ZCnZuhIHE3I/AAAAAAAA9XQ/ekVyjnXu43AkxIxaqAQ9mrw7aMJZNcLLwCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M32x5Xv9C9U/ZCnZvLaXMxI/AAAAAAAA9XU/_xHhnwt5GDkasIIrCfImpr9ypIkSnFBJgCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZhMleI_ObMc/ZCnZvnWmoYI/AAAAAAAA9XY/i6lsuk0Hnm0-3w2UsEXS_SwQdT43bdc1gCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rScZXIpQUy0/ZCnZwKttctI/AAAAAAAA9Xc/Rlp-q29mJI0I3J6zwbtLfGwFfZiUIsxMwCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-0thpYBKtSRk/ZCnZwgvO04I/AAAAAAAA9Xg/Lre8sZYJ9VgxXbbKqwnoNT5aloebWfABwCNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-rx2FwwCdgMg/ZCnZxCktwHI/AAAAAAAA9Xk/1L_5A2Apl1Q1ojU1IxaWDAq98b_YkwnNACNcBGAsYHQ/s135/2095-Silver-Twisted-Wonderlands-Disney-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2095/",
+      "fetched_at": "2026-05-16T19:10:33.837Z",
+      "raw_id": "/nendoroid/details/n2095/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.825Z",
+      "raw_id": "Nendoroid/2000-2099/2095.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "num": "2348",
+  "name": {
+    "en": "Ranpo Edogawa",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": null,
+    "ko": null,
+    "code": "bungo-stray-dogs"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-F1MVCjKrWzY/ZcqeqMDfhzI/AAAAAAABDYE/csQwrnb6Jrg2LIaVtqc7Kw6icKczS1ORgCNcBGAsYHQ/s270/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-F1MVCjKrWzY/ZcqeqMDfhzI/AAAAAAABDYE/csQwrnb6Jrg2LIaVtqc7Kw6icKczS1ORgCNcBGAsYHQ/s270/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ogUeZSCnHr8/ZoxB-43xeAI/AAAAAAABGS8/JTLzA4wnGAEqOkl47N0-Fv00BWzF5nWCwCNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Aj2f1lcOAeQ/ZoxB_NF9jjI/AAAAAAABGTA/0K0tudZyWlQCxln08R-HdyccomS8fDFfQCNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nOSaUl88jKI/ZoxB_tJalYI/AAAAAAABGTM/9aO7MtnuwHYcdlynG1xDQIHvvibSV9F_gCNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IZ5owRYsiv8/ZoxCAEsmLGI/AAAAAAABGTU/HcILKVBfDVAK6jNCq7YOWX2BGNUK4UqyQCNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-c_z0Iifas34/ZoxB_wqDHWI/AAAAAAABGTQ/w73kSCGDA1sCcgGpAw1sv6gI7ER_k1pZwCNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-v4sgoWhU6GY/ZoxCAO6PKVI/AAAAAAABGTY/D22fy86mK90SwIEG3ofiCnqm-xaEBZ2RACNcBGAsYHQ/s135/2348-Ranpo-Edogawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2348/",
+      "fetched_at": "2026-05-16T19:10:34.002Z",
+      "raw_id": "/nendoroid/details/n2348/"
+    }
+  ]
+}

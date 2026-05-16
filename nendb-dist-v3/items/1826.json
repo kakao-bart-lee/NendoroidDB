@@ -1,0 +1,69 @@
+{
+  "num": "1826",
+  "name": {
+    "en": "Nendoroid sans",
+    "ja": "ねんどろいど サンズ (ねんどろいど さんず)",
+    "ko": "샌즈"
+  },
+  "series": {
+    "en": "UNDERTALE",
+    "ja": "UNDERTALE",
+    "ko": "언더테일",
+    "code": "undertale"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12411,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-GDwFy-5Osf4/YliMgaB37OI/AAAAAAAA5LE/8phUYb7OpO4-3ZM9BYvWiekJFtkkadHwwCNcBGAsYHQ/s270/1826-Sans-Undertale-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-GDwFy-5Osf4/YliMgaB37OI/AAAAAAAA5LE/8phUYb7OpO4-3ZM9BYvWiekJFtkkadHwwCNcBGAsYHQ/s270/1826-Sans-Undertale-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7tSxnsYnakc/YliVCmoRGNI/AAAAAAAA5Po/SU3smFSFuUsIce0PymtwPBj1twHgn0FIQCNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hp4vymHaKdk/YliVDAGxeZI/AAAAAAAA5Ps/8It7h7znpJEIlsUbb6gmVlpJKEn1HeIegCNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GlnFWTxpcl0/YliVDpfU6mI/AAAAAAAA5Pw/iUDR1XbTxzgxp6wBUKZg5i5BopAOL8CZwCNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-bQQqUdl3ogE/YliVELe5mMI/AAAAAAAA5P0/KZwOiqWFQ0czDE-gPSho2C8BAEjippFNQCNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-CLRUDY1M0zc/YliVEuFGW0I/AAAAAAAA5P4/_1CmljA6H3wfK1YnlOAf2FW5f5z0S3cFwCNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-HP2ezHriRd0/YliVFB7wdkI/AAAAAAAA5P8/emvY-DoiwXw1Bpa1fLlLLpw65uQvSwK_ACNcBGAsYHQ/s135/1826-Sans-Undertale-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1826/",
+      "fetched_at": "2026-05-16T19:10:33.671Z",
+      "raw_id": "/nendoroid/details/n1826/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.761Z",
+      "raw_id": "Nendoroid/1800-1899/1826.json"
+    }
+  ]
+}

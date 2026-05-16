@@ -1,0 +1,70 @@
+{
+  "num": "1737",
+  "name": {
+    "en": "Nendoroid Kanon Shibuya",
+    "ja": "ねんどろいど 澁谷かのん (ねんどろいど しぶやかのん)",
+    "ko": "시부야 카논"
+  },
+  "series": {
+    "en": "Love Live! Superstar!!",
+    "ja": "ラブライブ！スーパースター!!",
+    "ko": "러브라이브 슈퍼스타",
+    "code": "love-live-superstar"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11900,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DtPVCjIEwmU/YYBKB_VklZI/AAAAAAAA1jQ/19Ss6iBvpjgXiqiWxHV5eCnVJW4euA03ACLcBGAsYHQ/s270/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DtPVCjIEwmU/YYBKB_VklZI/AAAAAAAA1jQ/19Ss6iBvpjgXiqiWxHV5eCnVJW4euA03ACLcBGAsYHQ/s270/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZUXa9dYnipk/YYBOwjGRYNI/AAAAAAAA1n4/jJv5T_LzOJUQ1GUvBU7K4eKfPd9xoNl4gCLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZpW1r_TbLKc/YYBOwwe25yI/AAAAAAAA1oE/J9__uIxL-bwtQCM3ZutP6jb19pF_1wuWQCLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-zfTOzRtyF2k/YYBOxDPKxTI/AAAAAAAA1n8/YZulCmoeqGcZvLZQCK_EZO3Q0UD1_S6iACLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-X_5aMGkTSac/YYBOxbOK1lI/AAAAAAAA1oA/YHW6G5pCTA06p8dlMiwtqfbse_LAthl0wCLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YucawPiL27A/YYBOxrfL0eI/AAAAAAAA1oI/gtIckcDh0wkk0r2AkQ0-3aiQIAcjBoz5gCLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zgbfkvEqSQI/YYBOxsXlVzI/AAAAAAAA1oM/9OqJBVLxLE42nsuzcDYWB7119j31ZpnggCLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-O7Nr7aXuAAM/YYBOx-oD0VI/AAAAAAAA1oQ/it3TDsi5W9w7fUCCOvt9KwEgSqJeb3l5ACLcBGAsYHQ/s135/1737-Kanon-Shibuya-Love-Live-Superstar-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1737/",
+      "fetched_at": "2026-05-16T19:10:33.617Z",
+      "raw_id": "/nendoroid/details/n1737/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.739Z",
+      "raw_id": "Nendoroid/1700-1799/1737.json"
+    }
+  ]
+}

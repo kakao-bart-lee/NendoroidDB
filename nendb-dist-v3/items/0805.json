@@ -1,0 +1,68 @@
+{
+  "num": "0805",
+  "name": {
+    "en": "Nendoroid Tomo Kunagisa",
+    "ja": "ねんどろいど 玖渚友 (ねんどろいど くなぎさとも)",
+    "ko": "쿠나기사 토모"
+  },
+  "series": {
+    "en": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "ja": "クビキリサイクル 青色サヴァンと戯言遣い",
+    "ko": "헛소리 시리즈",
+    "code": "the-beheading-cycle-the-blue-savant-and-the-nonsense-bearer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5398,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6608,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-siFdGHaxUE8/X4NdrWnJFrI/AAAAAAABmC8/WzzjQsgJmGIHFK-gWlgUFdISILdkeMJfACLcBGAsYHQ/s270/805-Tomo-Kunagisa-Beheading-Cycle-Savant-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-siFdGHaxUE8/X4NdrWnJFrI/AAAAAAABmC8/WzzjQsgJmGIHFK-gWlgUFdISILdkeMJfACLcBGAsYHQ/s270/805-Tomo-Kunagisa-Beheading-Cycle-Savant-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-dXM-l9mO2yQ/X4riBNsZrZI/AAAAAAABnA8/-YhXGL_uWkMuXknVBqpw4395UgMkKK1jwCLcBGAsYHQ/s135/805-Tomo-Kunagisa-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ARPRGFa3Dqg/X4riBQQSS1I/AAAAAAABnBA/1ESuu8-gVVIo8KRD2M87TbfuGMpRKmNsgCLcBGAsYHQ/s135/805-Tomo-Kunagisa-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AWTSa-ioTgE/X4riBc7H6vI/AAAAAAABnBE/1EOafr3GhjALbOjtqVqw0l6eNC2WP-zDwCLcBGAsYHQ/s135/805-Tomo-Kunagisa-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-W02LAm-BksQ/X4riBpQpn1I/AAAAAAABnBI/XPfonEHqaPgEZNRS9-WyHL3asHDCmCvNgCLcBGAsYHQ/s135/805-Tomo-Kunagisa-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kBoeiDRaVl8/X4riCF-04gI/AAAAAAABnBM/AB9nEeIYzG4kAAoqpyh8X70nPyz5HizWQCLcBGAsYHQ/s135/805-Tomo-Kunagisa-The-Beheading-Cycle-The-Blue-Savant-and-the-Nonsense-Bearer-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n805/",
+      "fetched_at": "2026-05-16T19:10:34.810Z",
+      "raw_id": "/nendoroid/details/n805/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.512Z",
+      "raw_id": "Nendoroid/0800-0899/805.json"
+    }
+  ]
+}

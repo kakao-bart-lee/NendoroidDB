@@ -1,0 +1,68 @@
+{
+  "num": "0396",
+  "name": {
+    "en": "Nendoroid Nadeko Sengoku (ねんどろいど せんごくなでこ)",
+    "ja": "ねんどろいど 千石撫子 (ねんどろいど せんごくなでこ)",
+    "ko": "센고쿠 나데코"
+  },
+  "series": {
+    "en": "Bakemonogatari",
+    "ja": "化物語",
+    "ko": "모노가타리 시리즈",
+    "code": "bakemonogatari"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2014",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3972,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4215,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gszKHMDB6LY/X4NNH5KolPI/AAAAAAABllk/mNR051HHh6woRwsh_1Q8CpirNz7ce9rMQCLcBGAsYHQ/s270/396-Nadeko%2BSengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gszKHMDB6LY/X4NNH5KolPI/AAAAAAABllk/mNR051HHh6woRwsh_1Q8CpirNz7ce9rMQCLcBGAsYHQ/s270/396-Nadeko%2BSengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MNwI9RVogWA/X4dbxLugseI/AAAAAAAArSs/VtRm92gPvQUVjFYYmmXw2gD-jKdaPC0qQCLcBGAsYHQ/s135/396-Nadeko-Sengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2MLRKzwpmFU/X4dbxOPtxUI/AAAAAAAArSw/HWm1maaklowbZ0uu2kkNSe1guZitakxsACLcBGAsYHQ/s135/396-Nadeko-Sengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CTzHVI5gshA/X4dbxRU91jI/AAAAAAAArS0/cRZ9x1G5H9c5y7yVahexZ2x_h7kCVuFtgCLcBGAsYHQ/s135/396-Nadeko-Sengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FLm1rvBzND4/X4dbxpiFnII/AAAAAAAArS4/viLYfTw4Xcsv_dS5euFdfIeO7BzurUFQwCLcBGAsYHQ/s135/396-Nadeko-Sengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-kLNyAIQ2FvA/X4dbyP3l38I/AAAAAAAArS8/2XsV9DxDMBADs231786Nlb8_rawBGqdlwCLcBGAsYHQ/s135/396-Nadeko-Sengoku-Bakemonogatari-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n396/",
+      "fetched_at": "2026-05-16T19:10:34.504Z",
+      "raw_id": "/nendoroid/details/n396/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.370Z",
+      "raw_id": "Nendoroid/0300-0399/396.json"
+    }
+  ]
+}

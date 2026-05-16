@@ -1,0 +1,70 @@
+{
+  "num": "3046",
+  "name": {
+    "en": "Lighter",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Zenless Zone Zero",
+    "ja": null,
+    "ko": null,
+    "code": "zenless-zone-zero"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2027",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFtMif_PkO4t7KcmQfbwfzlKYMzEX-b6FXQuUiHepKKRJTJLZ-JpPvdMM8yUQO-kjpgx4fzqtJVIE1xNegzeKTpEU_T02OSMZHHNJ9g7dynYIh9uI6uwLr5t3IeI-oFMZWVC2LiYm5fpqqWD9ELUYZwJhojJKyIdu7pDPESaAPHS-eeeNGRnwgayqow1w/s270/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFtMif_PkO4t7KcmQfbwfzlKYMzEX-b6FXQuUiHepKKRJTJLZ-JpPvdMM8yUQO-kjpgx4fzqtJVIE1xNegzeKTpEU_T02OSMZHHNJ9g7dynYIh9uI6uwLr5t3IeI-oFMZWVC2LiYm5fpqqWD9ELUYZwJhojJKyIdu7pDPESaAPHS-eeeNGRnwgayqow1w/s270/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BYnQC1kq1Qv8R8TW4hcHw1Rd0pepPORX5tamMqH08jgN8cqlEUu_QKh0RDR-ThqYwf4kEkH40Ez8w7YOflK5r0bqtzmRlXRehgn11q6GOCZ6jTBSR92y8XiXHvowigIHsJRPoMFvykZjQK-5tZvGlCYQtnWLP4QWuc3GCw-d80_PulAbEpEbHcxtAHOH/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnGq3aqbEKFljHWDe-1mmFU_hUhwjh6Uh_2EwGI20oSaKynuAYY0jxxjmpN0VDJtQBvRFIKWf7fV3smEyY85fQjREQNKEeKglOVj-R55dfkBYYzhAJqCI6c-ZCcA9-09k8l6PewEJwxgrG1BYg8GTbrknh05-3iE_bSNc9ziIo7oLuwGm6vtGytuAufTw/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiagVDQI4Ag1jCy-8_GK6VXucvO47uNGBSVsJ_bxTZkzDSzZikRfMsoW4X4qE9wX8zg5JYMff7PnjDZTXcTIQHoiMI-ScJYlGHNDtUx7kA-swFymUeajV8cMxqnhHQ32_2_xBD3RF8gYlV70kSbbELUoOISUmyefD7Faa27nPZ8fjHcGVcynZe_dCjRm-kA/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizdULIGclrsHe65kIX-oG3MjIjCY1RVa5h-5gcHmxJxW4u84cZanLDngrXwO2GhPppmJbXj7A3mcIbcufN2LzduJxtSU_IFUU3H8Jw3CDywoQ6cxyVMGW6_FIZt2TfEnbKQBOWvi37lOyHCQFDdbh1k1fkhDvMHXU6bnd7XcgUe53x1PasqX6enuDrSf5c/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoDleb_AltR97Eeu8obE-cB6xOmyS5G4NMyR2_-gXtVuVrbsh_wL8RMm6AtiP2rEmpfwQc1dA_Ibjxbzt4ODgENF-dgtT4RM03HNQIZCK7Yy9pjaOdekRSxOwhTgyp7EhAF3R9agMsWcRYRdxCAJ8kJT8OsnFOh8SPqkt5QDcIql5KTydLq7OJKIsw8HA/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSkzDWQi-V5nMDUBzyXHWMLLDipmwJ4kq0QswGF1oSORjfK3LHVYQBPltFkhzBoy5CJ_7zSqewCsr1IyN9hkdzpd7OAzj4VS96yEM1TGm6OhtuGUxLKQ3JyhC7mBCtbqi1kY2t6Qz_fekUgbDCv8982jOoyxbdjJRXtND6MWkiGEzJdx_qBKdfa7cBKII/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiws2-66H5SCW7qtgbToM7j_rGZIyCetX8HHqImmYb0zxMPC4sF8cOAsTXaQJ-SNuxtX7YZt0WqTVPpHuCnD3NKA28Hqam1Cpp04v0blEwnI9_KPWwGw42dAE_hhnhlSyg0nZMkFvCXmVXkMQeV6VkIzz3zxcwNtE1m2d7-f8HA__9PJ-K_oaiSdeMYJDXk/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPybnbjPRE44JGF1TuH4IPn81-MW1TzQVBQKtWYnIy62M2sEmNRfHXzNqjDnqgIP86_wyNReg90_Uy3HhyO95_cQMN5Hub85HYKVobPmc-k5Ot7mwCl8ae0C8vCb4-9J92QOfYWaaSWPiOdrBJuC3u4LI6uz0aC0CGp4GZkJKjUZFYEpRwg1yQgTW19z1/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHemcokqH1kzdN-jTqqUW6vFPvzNphaNzcM9IY6EJH9eb_TOza23IdYXboTr7aHNMvaVlNPEJ31j8Oxv7YKppK91ZnGqDgrhMCUyWW2gDyjAkdTZ01P4Qa5Kdq1XvxsuzM_U7oVxRcg8EzzKRzG5D4PrETjSpzfxnY_fVYd9AuHMpjdqm12_BZbAvltwI-/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnjm16Z1cSWHJ4q56TB2BTAu2Kl0tTbfSm5mihWjK8lb9d8n2dzZlxj3Xjt4Pl724MgoN3Y2qaOHHIgGoCGuXPg1W1lNPP07iSRIThHiNxBVahKi8MrWfLWQVLU7T-MUUClI4F9Pr1R3uphIlaRm8XEqsGIqOcE4JHlY2HRJgKygRa3_QdfdzdjoY_Otfp/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-12.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9jrwaaHv8zKR_g-OL7GhBGEc8Egqf4shlfcboCIOm4LNW1N5hR_5rQvqZ4KtN6MJxR-qUuiwegZzqLVSfwXajPDcJYj1EYUc0zKiQv1kVqDg1C0yeeiwMCmBlzAt8zFRIeVXlzfU4aWALo5JzfLvSiiFj8M-0R6WnyYYVEgiTHdoJljz47gsOOYiITC-_/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-13.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguMN1mBCDpfNPgGVxwznGu8LmaSgCUFMYw0e0deGJpcqbhgXKZ5cJ17mX5b2Bto9ofD6KhZQjV6oU0RSCzI1ZppuEuBtWuFS3r1Q25LqlmqU60ce9OgNc8WNoGthMr_oRrU0vTNALCjXdAmpYvXUOca7KFdNeVRnqzb_6JW17auoOFAyNO8z5fdkhBd-tl/s135/3046-Lighter-Zenless-Zone-Zero-Video-Games-Nendoroid-14.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n3046/",
+      "fetched_at": "2026-05-16T19:10:34.446Z",
+      "raw_id": "/nendoroid/details/n3046/"
+    }
+  ]
+}

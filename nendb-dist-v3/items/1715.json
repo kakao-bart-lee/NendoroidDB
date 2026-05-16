@@ -1,0 +1,71 @@
+{
+  "num": "1715",
+  "name": {
+    "en": "Nendoroid Doctor",
+    "ja": "ねんどろいど ドクター (ねんどろいど どくたー)",
+    "ko": "박사"
+  },
+  "series": {
+    "en": "Arknights",
+    "ja": "アークナイツ",
+    "ko": "명일방주",
+    "code": "arknights"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1ELQvLPBpc4/YWSHeFvi-HI/AAAAAAAA0_c/V67tAkmqUrITp7xyVOH3jwZIQeznybkHwCLcBGAsYHQ/s270/1715-Doctor-Arknights-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1ELQvLPBpc4/YWSHeFvi-HI/AAAAAAAA0_c/V67tAkmqUrITp7xyVOH3jwZIQeznybkHwCLcBGAsYHQ/s270/1715-Doctor-Arknights-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Is62JUNfYMs/YWSarx8GKII/AAAAAAAA1HM/kb3RTQ-M2tojwYTu0gXyccngxtyuBwu9wCLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UrD0Pph7rZA/YWSaryddUqI/AAAAAAAA1HQ/SbncBZ3COAU8NU1HOb5ksz46beLKonvmwCLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RQUHLPxhs4c/YWSasTBJp1I/AAAAAAAA1HU/-fMHgfdVLo0qhvOTddrwnMEzGxVjihipACLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dk6sUUopGU0/YWSaszNMQoI/AAAAAAAA1HY/iX8KSABG0k8oIHs5U0r3QQ3jQ3rtbhMIQCLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RbYnkLDAfWU/YWSatdCt3YI/AAAAAAAA1Hc/0qDn3TKpBicVleT8NtTiRdZw47pZIQyXACLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1d8ggAmkleY/YWSat2LY-hI/AAAAAAAA1Hg/fhK_gKp_LzsucU4zgn9DulVB9IsYTrcpQCLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-fTzFlkOext4/YWSauby_66I/AAAAAAAA1Hk/wIFz6w-Vz2AzoFmoaSM4Qm9qT7607h4sACLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-hYZWXNLlnSA/YWSar4-i20I/AAAAAAAA1HI/bME2u2dfJXAlhX549rHmr1dZfz1dHqV7ACLcBGAsYHQ/s135/1715-Doctor-Arknights-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "?",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1715/",
+      "fetched_at": "2026-05-16T19:10:33.603Z",
+      "raw_id": "/nendoroid/details/n1715/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.733Z",
+      "raw_id": "Nendoroid/1700-1799/1715.json"
+    }
+  ]
+}

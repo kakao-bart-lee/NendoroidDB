@@ -1,0 +1,63 @@
+{
+  "num": "2513",
+  "name": {
+    "en": "Assassin, Kama",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Fate",
+    "ja": null,
+    "ko": null,
+    "code": "fate"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yT22tyeXTdI/Znsoip7sn1I/AAAAAAABE4g/yExMPyQIS0gYdUcNT24o4xvb5ZAWtQc9QCNcBGAsYHQ/s270/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yT22tyeXTdI/Znsoip7sn1I/AAAAAAABE4g/yExMPyQIS0gYdUcNT24o4xvb5ZAWtQc9QCNcBGAsYHQ/s270/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qnFeZACm_2M/Zow8zlPyalI/AAAAAAABGHk/ylxk_z_9DxMeOztmvIm4ipbrdkZ3ebq_wCNcBGAsYHQ/s135/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-R7qPxXfAwBo/Zow80BcVPII/AAAAAAABGHo/vRVjghv6Eh4CNXn7imQWNeBW1iX2EM6hQCNcBGAsYHQ/s135/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ckvrObL93cg/Zow80uqx0hI/AAAAAAABGHs/5vMmg25OcpIp-r47VH8MOFoyVoNB5KK1wCNcBGAsYHQ/s135/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fX_n6XsrJPk/Zow81J7h5cI/AAAAAAABGHw/yr24kS913Msyh-expRoMmVNECLEnfhM-wCNcBGAsYHQ/s135/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yHgkzcYSH5Q/Zow81oKcaiI/AAAAAAABGH0/O4UCYZPAEAEQ4K5oJSjYF1asfqF_0gTKACNcBGAsYHQ/s135/2513-Assassin-Kama-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2513/",
+      "fetched_at": "2026-05-16T19:10:34.106Z",
+      "raw_id": "/nendoroid/details/n2513/"
+    }
+  ]
+}

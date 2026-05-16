@@ -1,0 +1,68 @@
+{
+  "num": "0609",
+  "name": {
+    "en": "Nendoroid Satori Komeiji",
+    "ja": "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
+    "ko": "코메이지 사토리"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5503,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r-WtzVDwR5I/X4NPniyrokI/AAAAAAABl08/fGvG5L0ZarA8LFuaqp-9RnVTVoY4WIWAwCLcBGAsYHQ/s270/609-Satori-Komeiji-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r-WtzVDwR5I/X4NPniyrokI/AAAAAAABl08/fGvG5L0ZarA8LFuaqp-9RnVTVoY4WIWAwCLcBGAsYHQ/s270/609-Satori-Komeiji-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-96KamMSvo8k/X4izn2SzcmI/AAAAAAAAsjQ/-gLgzG8LDcsoTa_0891I62TKoJ00uJ99QCLcBGAsYHQ/s135/609-Satori-Komeiji-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-clb1HoCMgMA/X4izoWMl_5I/AAAAAAAAsjU/t_JQoaZxDWUt0hVIF948P8V3brqttqDjgCLcBGAsYHQ/s135/609-Satori-Komeiji-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8vTvITlEoiM/X4izo0IgvhI/AAAAAAAAsjY/24yc1LT_4UYbpwDljlo4eYi1n1abuK99gCLcBGAsYHQ/s135/609-Satori-Komeiji-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-myHpqIpJFm0/X4izpQ93KqI/AAAAAAAAsjc/ogTXRSbia34d-LpSSld0v4QepOfls44GwCLcBGAsYHQ/s135/609-Satori-Komeiji-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-os04IE3c-dM/X4izpzzXR8I/AAAAAAAAsjg/mfCEwwJcbYIekoh64xj7z12ztGKB7kX_wCLcBGAsYHQ/s135/609-Satori-Komeiji-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n609/",
+      "fetched_at": "2026-05-16T19:10:34.688Z",
+      "raw_id": "/nendoroid/details/n609/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.461Z",
+      "raw_id": "Nendoroid/0600-0699/609.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "num": "2538",
+  "name": {
+    "en": "Sora Naegino",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Kaleido Star",
+    "ja": null,
+    "ko": null,
+    "code": "kaleido-star"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-cGiKKp316X4/Zor7mELLXkI/AAAAAAABFEA/a-_UuFk8dFcgJI_UeS-UYop_ONsFTJE1wCNcBGAsYHQ/s270/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-cGiKKp316X4/Zor7mELLXkI/AAAAAAABFEA/a-_UuFk8dFcgJI_UeS-UYop_ONsFTJE1wCNcBGAsYHQ/s270/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-uqBuCaj4MuM/Zow9pU9sJSI/AAAAAAABGOI/v6PKwdUvis8UkIanYT5cYOHL-yyCKAS_wCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-m5fWTTLV_g0/Zow9p6C8IBI/AAAAAAABGOM/Z2NvOFOM0xIvrvp9vUM__2VwYKCXx7hcACNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-I9HEh_s64fc/Zow9qTNaH4I/AAAAAAABGOQ/NULv5d9MdoMZfhTXRAsz6c96TPjCtBqEQCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ic14VQuGjNo/Zow9q99f9NI/AAAAAAABGOU/Kwd0Vhx9FcQBA62Lp5meS2mfge9lS6QHwCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rFOhsq_iwic/Zow9rQWsSSI/AAAAAAABGOY/ujLq0CP0GRIyQvv3t52QH8LUPBUujiMAgCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-vaMpy5qIkuc/Zow9r8JfBDI/AAAAAAABGOc/AJ5c2KWQLCsSKYyAithGw8aQ2YCDdQqvQCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-4kKMWZRkTk0/Zow9sSDothI/AAAAAAABGOg/dBto2lDaG7oydoAKyIPZoVQtIJSeSp9_gCNcBGAsYHQ/s135/2538-Sora-Naegino-Kaleido-Star-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2538/",
+      "fetched_at": "2026-05-16T19:10:34.121Z",
+      "raw_id": "/nendoroid/details/n2538/"
+    }
+  ]
+}

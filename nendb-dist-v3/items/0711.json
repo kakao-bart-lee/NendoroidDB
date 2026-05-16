@@ -1,0 +1,70 @@
+{
+  "num": "0711",
+  "name": {
+    "en": "Nendoroid Popuko",
+    "ja": "ねんどろいど ポプ子 (ねんどろいど ぽぷこ)",
+    "ko": "포푸코"
+  },
+  "series": {
+    "en": "POP TEAM EPIC",
+    "ja": "ポプテピピック",
+    "ko": "팝 팀 에픽",
+    "code": "pop-team-epic"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6121,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ya_HBHPGJk4/X4Nc0cM8ZzI/AAAAAAABl8A/B9v48bPEwnI2lUaCOskgV0qQw8gJfOFwwCLcBGAsYHQ/s270/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ya_HBHPGJk4/X4Nc0cM8ZzI/AAAAAAABl8A/B9v48bPEwnI2lUaCOskgV0qQw8gJfOFwwCLcBGAsYHQ/s270/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XVEcPuO83y8/X4i3heJKjUI/AAAAAAAAtKM/kMde4dvj5EQZlSxvXtSpQ0FnBxTx0TZDwCLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-O0YqPLTjcDw/X4i3h_pFJXI/AAAAAAAAtKQ/QhFpldX0NNc0gBins4Xr5L-DNwqMEIaWgCLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Sd_TKbNQ7-A/X4i3iP_uRWI/AAAAAAAAtKU/wmLOSWc3FoM-3mfjvq69ISrO6DWWWFyIACLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8biyyVoOu9M/X4i3iMwbD2I/AAAAAAAAtKY/O-IlCQS3otYX7gdhLkvQV-OFqEexlB7HACLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-p72yDONTZBQ/X4i3iYQJfDI/AAAAAAAAtKc/eJB92Mm9cEsbv7pSwPq5XfO7LqQ1aoZdwCLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-bs0-VaOUTY4/X4i3ioXd8ZI/AAAAAAAAtKg/sTAjPRaxy20QbsJhcrvtjeAsgxVHCtA6ACLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-IE3iuRWNb4o/X4i3ixjFDMI/AAAAAAAAtKk/SMhNxwnsYRQZHg6169UD8g7ZC4kDn5aKQCLcBGAsYHQ/s135/711-Popuko-Pop-Team-Epic-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n711/",
+      "fetched_at": "2026-05-16T19:10:34.755Z",
+      "raw_id": "/nendoroid/details/n711/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.489Z",
+      "raw_id": "Nendoroid/0700-0799/711.json"
+    }
+  ]
+}

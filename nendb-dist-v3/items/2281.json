@@ -1,0 +1,63 @@
+{
+  "num": "2281",
+  "name": {
+    "en": "Bond Forger",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Spy X Family",
+    "ja": null,
+    "ko": null,
+    "code": "spy-x-family"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DSalDQkU3OA/ZZce_ZYrS7I/AAAAAAABDIU/YWaDZjxVDYIHNJ4rzZxKzDZq81Xcz0xOQCNcBGAsYHQ/s270/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DSalDQkU3OA/ZZce_ZYrS7I/AAAAAAABDIU/YWaDZjxVDYIHNJ4rzZxKzDZq81Xcz0xOQCNcBGAsYHQ/s270/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4W9-edE46qQ/ZZSL5z50XqI/AAAAAAABC4k/zdt2k3cosuUCOICq3fyvjjoDi0QwalO7wCNcBGAsYHQ/s135/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9I9vHGfiBK8/ZZSL6V5HHgI/AAAAAAABC4o/iJdmuq7in8gpphHy61LyUPTeZEY7vMHBwCNcBGAsYHQ/s135/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-jHFFsYMzN1U/ZZSL6jWigwI/AAAAAAABC4s/cWjXeO3-TV4rZwPjmS9Ma4agV1XjcOTRQCNcBGAsYHQ/s135/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yVZY_hIv9LY/ZZSL6tgJdxI/AAAAAAABC4w/KZv70YW84XodcchWyJFXmw_TxIFulxdagCNcBGAsYHQ/s135/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-0KGo8d8SIR0/ZZSL63w1TUI/AAAAAAABC40/sx_cHuFhgmYMxxnwEZkOXQ4HmBdmRSADACNcBGAsYHQ/s135/2281-Bond-Forger-Spy-X-Family-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2281/",
+      "fetched_at": "2026-05-16T19:10:33.962Z",
+      "raw_id": "/nendoroid/details/n2281/"
+    }
+  ]
+}

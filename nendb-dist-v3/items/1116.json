@@ -1,0 +1,68 @@
+{
+  "num": "1116",
+  "name": {
+    "en": "Nendoroid Kizuna AI: A.I.Games 2019 Ver.",
+    "ja": "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
+    "ko": "키즈나 아이 A.I.Games 2019 Ver."
+  },
+  "series": {
+    "en": "Kizuna AI",
+    "ja": "キズナアイ",
+    "ko": "버츄얼 유튜버",
+    "code": "kizuna-ai"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8226,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-vpiXVvTGGCI/X4NgVZc0hDI/AAAAAAABmZg/4BZf3c4vOHsHdvU6fN09NqGn2Pn4FS-pgCLcBGAsYHQ/s270/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-vpiXVvTGGCI/X4NgVZc0hDI/AAAAAAABmZg/4BZf3c4vOHsHdvU6fN09NqGn2Pn4FS-pgCLcBGAsYHQ/s270/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-C05zSuAG--E/X4rvsUOp1EI/AAAAAAABpAI/-BLM4-uVoYoEw3VyMoCY_LsswcGMha7CgCLcBGAsYHQ/s135/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3XVpUMBhSO0/X4rvstiiVcI/AAAAAAABpAM/zBYlUKpadBoOIA8Xr6qFscglvMs2s2_0gCLcBGAsYHQ/s135/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-vuzo4Qtrm6g/X4rvszuHV7I/AAAAAAABpAQ/SCRRb-nn6GMpDTi-wEc30bXecycLx8OZACLcBGAsYHQ/s135/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TEnNTrc9Yww/X4rvtBI-BeI/AAAAAAABpAU/QlN9LPb7ldIqa__ZqqgHicjAJrmxDmhWgCLcBGAsYHQ/s135/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xUNP62-cFOA/X4rvtg5Pm-I/AAAAAAABpAY/6PB8Wr4f3hEAzzZ_7aNH2nFy-QB4gCUpgCLcBGAsYHQ/s135/1116-Kizuna-AI-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1116/",
+      "fetched_at": "2026-05-16T19:10:33.230Z",
+      "raw_id": "/nendoroid/details/n1116/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.588Z",
+      "raw_id": "Nendoroid/1100-1199/1116.json"
+    }
+  ]
+}

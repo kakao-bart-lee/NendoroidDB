@@ -1,0 +1,68 @@
+{
+  "num": "0178",
+  "name": {
+    "en": "Nendoroid Ikaros (ねんどろいど いかろす)",
+    "ja": "ねんどろいど イカロス (ねんどろいど いかろす)",
+    "ko": "이카로스"
+  },
+  "series": {
+    "en": "Sora no Otoshimono Forte",
+    "ja": "そらのおとしものf（フォルテ）",
+    "ko": "하늘의 유실물",
+    "code": "sora-no-otoshimono-forte"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3179,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--YhgGlBtoE8/X4NKH6eicgI/AAAAAAABlTI/iKmtWTDXUUUCHS2r7PC4RZcOIgmqO9bYwCLcBGAsYHQ/s270/178-Ikaros-Sora-no-Otoshimono--Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--YhgGlBtoE8/X4NKH6eicgI/AAAAAAABlTI/iKmtWTDXUUUCHS2r7PC4RZcOIgmqO9bYwCLcBGAsYHQ/s270/178-Ikaros-Sora-no-Otoshimono--Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-HhxDIOLgtCo/X4dT5UttYGI/AAAAAAAAqI8/F0Yc3y5lvZk6PJyXfK65nfKIXvouIYDSgCLcBGAsYHQ/s135/178-Ikaros-Sora-no-Otoshimono-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k4SxzKGmakM/X4dT54vV8EI/AAAAAAAAqJA/85s0JTsqsDM_S2ivcyKtMsf1o1w8DpfHACLcBGAsYHQ/s135/178-Ikaros-Sora-no-Otoshimono-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-xWp1zCPRgPE/X4dT6a3_vVI/AAAAAAAAqJE/mM9cSCniGNorTU7tgdvynqA1i9dIpQkEgCLcBGAsYHQ/s135/178-Ikaros-Sora-no-Otoshimono-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-VPJ6LF4EY4I/X4dT627bSwI/AAAAAAAAqJI/MOnwZb7BRKkNZxrpJG68zMHLI5JSXBfUQCLcBGAsYHQ/s135/178-Ikaros-Sora-no-Otoshimono-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-yQC69DFCoeQ/X4dT7ZNnCHI/AAAAAAAAqJM/BXnOut-YMjMZG9tifbfmO7dY6pipRG4qQCLcBGAsYHQ/s135/178-Ikaros-Sora-no-Otoshimono-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n178/",
+      "fetched_at": "2026-05-16T19:10:33.648Z",
+      "raw_id": "/nendoroid/details/n178/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.310Z",
+      "raw_id": "Nendoroid/0100-0199/178.json"
+    }
+  ]
+}

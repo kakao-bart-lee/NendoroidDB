@@ -1,0 +1,70 @@
+{
+  "num": "0500",
+  "name": {
+    "en": "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ja": "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ko": "사쿠라 미쿠 Bloomed in Japan"
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4757,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0St-LMWvVY0/X4NOCXMySlI/AAAAAAABls0/wh2D_7y5zyUQNzwibp1rGR9eAJvpvMytACLcBGAsYHQ/s270/500-Hatsune-Miku-Sakura-Miku-Bloomed-in-Japan-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0St-LMWvVY0/X4NOCXMySlI/AAAAAAABls0/wh2D_7y5zyUQNzwibp1rGR9eAJvpvMytACLcBGAsYHQ/s270/500-Hatsune-Miku-Sakura-Miku-Bloomed-in-Japan-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Jw7-FyLRu7Y/X4dfqz9bylI/AAAAAAAAr38/UoKHhJbMu9AnQxHC6YcZF2a-OYTVUmiHwCLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IkFJ0peTeDc/X4dfrCajuLI/AAAAAAAAr4A/tnCpnXzMY0sgyj5d2rjE9xMZ772xZae8ACLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XQ4144huego/X4dfrWKcR2I/AAAAAAAAr4E/wt4mlPapPDkHyWbU4X7Q3nqYzXLnVVATwCLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-TUx00KwFMdk/X4dfrQhcImI/AAAAAAAAr4I/u4T0PV3SUkc7ZKpHqH_rcbIfztUqUCcAACLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-B9yJ5I-7h-M/X4dfrvVAW4I/AAAAAAAAr4M/vwG5OWXZGrsqemlX5tK2W7V2Dl45nkYwACLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-8d8Wub9mAWI/X4dfrwU-qQI/AAAAAAAAr4Q/hTQyKQsqvI0YXyMgGvPwCNkG2cVbU1CGgCLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-PRr3jFNYscs/X4dfsEqwHNI/AAAAAAAAr4U/AjzymVKOJyYLu-x8lxRST-U4akAobUryQCLcBGAsYHQ/s135/500-Hatsune-Miku-Sakura-Miku-Vocaloid-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n500/",
+      "fetched_at": "2026-05-16T19:10:34.563Z",
+      "raw_id": "/nendoroid/details/n500/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.397Z",
+      "raw_id": "Nendoroid/0500-0599/500.json"
+    }
+  ]
+}

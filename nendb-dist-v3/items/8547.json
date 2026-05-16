@@ -1,0 +1,55 @@
+{
+  "num": "8547",
+  "name": {
+    "en": "Nendoroid Doll: Kigurumi Pajamas (Tabby Cat)",
+    "ja": "ねんどろいどどーる きぐるみパジャマ(トラねこ) (ねんどろいどどーる きぐるみぱじゃま(とらねこ))",
+    "ko": "키구루미 잠옷(토라네코)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8547,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190710/8547/61878/large/e38fef61fb42ca160c393d1a563c79e1.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.939Z",
+      "raw_id": "NendoroidDoll/Clothes/8547.json"
+    }
+  ]
+}

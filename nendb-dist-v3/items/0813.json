@@ -1,0 +1,70 @@
+{
+  "num": "0813",
+  "name": {
+    "en": "Nendoroid Mutsu",
+    "ja": "ねんどろいど 陸奥 (ねんどろいど むつ)",
+    "ko": "무츠"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6519,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6644,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yFPIT69eEYk/X4NdtvALAGI/AAAAAAABmDc/w6kCeAQw2WcNZK13w4Jd5tswveKq0oAWwCLcBGAsYHQ/s270/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yFPIT69eEYk/X4NdtvALAGI/AAAAAAABmDc/w6kCeAQw2WcNZK13w4Jd5tswveKq0oAWwCLcBGAsYHQ/s270/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yhNjOfgFGYE/X4riMZIPzQI/AAAAAAABnD0/Ai4JxbLiy9Ucp0Z3hbuuGJ9DIXVggGTSgCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dTwGzlWAjuQ/X4riM56-XkI/AAAAAAABnD4/916a9Z5GIMAlO8TH8iTVaFPi_sIwjxtngCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-UpN6-MSHdTE/X4riNHsEiEI/AAAAAAABnD8/UgaXvaeVinArKAokVpvZ3BW7yO0ixbfDwCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6nbUaVHlukA/X4riNceNFUI/AAAAAAABnEA/vEr9jHbVYT4LOMISN2YU_zBlJmAamvyFQCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lMCjNolLbds/X4riNh5gDcI/AAAAAAABnEE/COminYx_mHMjNgSKOEFZa_ZJiVsKEYiEwCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zLIfWF4sEd0/X4riN1xs5fI/AAAAAAABnEI/IcETbLQS3UQdmCec0MNMqhTdIhN6VtFQACLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Pxgw5GMhClg/X4riOLXoRkI/AAAAAAABnEM/ZA38YKgkQh0xh2hLt-kzu9RaMd8nF7uBQCLcBGAsYHQ/s135/813-Mutsu-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n813/",
+      "fetched_at": "2026-05-16T19:10:34.815Z",
+      "raw_id": "/nendoroid/details/n813/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.514Z",
+      "raw_id": "Nendoroid/0800-0899/813.json"
+    }
+  ]
+}

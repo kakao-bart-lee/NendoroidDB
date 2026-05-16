@@ -1,0 +1,69 @@
+{
+  "num": "1249",
+  "name": {
+    "en": "Nendoroid Cuddle Team Leader",
+    "ja": "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
+    "ko": "포옹팀 리더"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9041,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5qzm3o8MlOo/X4NiTlYDR7I/AAAAAAABmpw/GfFI5oYFl0QnvYjdXAnSa91xi1wElWThACLcBGAsYHQ/s270/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5qzm3o8MlOo/X4NiTlYDR7I/AAAAAAABmpw/GfFI5oYFl0QnvYjdXAnSa91xi1wElWThACLcBGAsYHQ/s270/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ufBUP92UZ9E/X4r0AA1L6DI/AAAAAAABp3I/ZkZNFdnrq4UzpYYmZAWv3BlW31u8PgeRQCLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VXBUGcKQ-UY/X4r0AQ-tAII/AAAAAAABp3M/4KuZn9pLz0okmoRa-qnPz8A5Ulu-wfcfACLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-uYAqRP0V26s/X4r0AcSmw5I/AAAAAAABp3Q/dn9PIYloGQAdEqz2p_yLAYo6fH-T5tTPgCLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-z8LyobGuTrQ/X4r0BHz7JwI/AAAAAAABp3U/P6qZFQ0G6xwkPpaajFR4lT_yr3B32kv8ACLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QxSnVAzg3AM/X4r0BXlhquI/AAAAAAABp3Y/836hq4Lei3YipBeX-fMTIbcdszBucfUrwCLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-cGKldjNo9gE/X4r0BRP_xII/AAAAAAABp3c/PKrK2xRTVUQD93HpcZrTBZkMvpMdLC3FwCLcBGAsYHQ/s135/1249-Cuddle-Team-Leader-Fornite-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1249/",
+      "fetched_at": "2026-05-16T19:10:33.312Z",
+      "raw_id": "/nendoroid/details/n1249/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.621Z",
+      "raw_id": "Nendoroid/1200-1299/1249.json"
+    }
+  ]
+}

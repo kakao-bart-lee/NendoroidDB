@@ -1,0 +1,94 @@
+{
+  "num": "0345",
+  "name": {
+    "en": "Nendoroid Mikoto Misaka",
+    "ja": "ねんどろいど 御坂美琴 (ねんどろいど みさかみこと)",
+    "ko": "미사카 미코토"
+  },
+  "series": {
+    "en": "A Certain Scientific Railgun S",
+    "ja": "とある科学の超電磁砲T",
+    "ko": "어떤 과학의 초전자포",
+    "code": "a-certain-scientific-railgun-s"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Udono Kazuyoshi",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3666,
+  "gtin": "4571368443328",
+  "gsc_product_id": "1810",
+  "gsc_product_num": 3983,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1810",
+    "ja": "https://www.goodsmile.com/ja/product/1810"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20130710/3983/25019/large/3a0163cc0745bfc9a834e508a812e19b.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-OS-52TGy_0A/X4NM0IPFEdI/AAAAAAABliU/h38Gc4VVStYhGJ9EXlBYfk1EYNmsFas_QCLcBGAsYHQ/s270/345-Misaka-Mikoto-To-Aru-Kagaku-No-Railgun-S-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IEQAL67FMwc/X4dawV7MimI/AAAAAAAArB4/wSkoY7bPpnIrtFQRbf_bjviQLK0lngwmQCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MS9SiIJ2I3U/X4dawkpgE8I/AAAAAAAArB8/zzzD3STIYGQ96ppvWAhV6fYoNG2_lkNqgCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4KTb2tvB98o/X4daxBF0jUI/AAAAAAAArCA/dcrYMJ8ATBIsiYgzZSW0RpOS1T3MvVukgCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B9drX3SpRok/X4daxDAtnWI/AAAAAAAArCE/8m-5RDcJbNw8Qgc64F_Z5VsK74jAC4SFgCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-HUg7zRNhjNw/X4daxVXd3HI/AAAAAAAArCI/Ai_skgBa92syz-U377BNyO4AdaJt0R66gCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-T1p5ZfNJRtU/X4dax8wd3lI/AAAAAAAArCM/kYtZO_Br0zI1GMVlL7uk0LSJCw4nxn_yQCLcBGAsYHQ/s135/345-Mikoto-Misaka-Toaru-Kagaku-no-Railgun-S-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20130710/3983/70249/large/b89956f5c922a92152cd12f5d1ebd25c.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20130710/3983/25019/large/3a0163cc0745bfc9a834e508a812e19b.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1810",
+      "price_local": 3666,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:12.756Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1810",
+      "fetched_at": "2026-05-16T11:49:12.756Z",
+      "raw_id": "1810"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1810",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1810"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n345/",
+      "fetched_at": "2026-05-16T19:10:34.474Z",
+      "raw_id": "/nendoroid/details/n345/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.357Z",
+      "raw_id": "Nendoroid/0300-0399/345.json"
+    }
+  ]
+}

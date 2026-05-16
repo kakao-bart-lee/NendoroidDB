@@ -1,0 +1,68 @@
+{
+  "num": "0962",
+  "name": {
+    "en": "Nendoroid Catwoman: Ninja Edition",
+    "ja": "ねんどろいど キャットウーマン ニンジャ・エディション (ねんどろいど きゃっとうーまん にんじゃ・えでぃしょん)",
+    "ko": "캣우먼 센코쿠 에디션"
+  },
+  "series": {
+    "en": "Batman Ninja",
+    "ja": "ニンジャバットマン",
+    "ko": "닌자 배트맨",
+    "code": "batman-ninja"
+  },
+  "category": "regular",
+  "nh_type": "DC Comics",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5297,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7463,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MbGxZhILIhE/X4Netx4IzyI/AAAAAAABmNo/_pnmx875H2AIyJ04nz8Z0G4qiyzGJz-7ACLcBGAsYHQ/s270/962-Catwoman-Ninja-Edition-Batman-Ninja-DC-Comics-Cartoon-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MbGxZhILIhE/X4Netx4IzyI/AAAAAAABmNo/_pnmx875H2AIyJ04nz8Z0G4qiyzGJz-7ACLcBGAsYHQ/s270/962-Catwoman-Ninja-Edition-Batman-Ninja-DC-Comics-Cartoon-1.jpg",
+      "https://1.bp.blogspot.com/-bR5-J54oS8M/X4ro3Jyuw7I/AAAAAAABn_s/dKrXlQquJDUM84DPvgInMWQtMvg88r6WACLcBGAsYHQ/s135/962-Catwoman-Batman-Ninja-DC-Comics-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-S9rO-fCf3WU/X4ro3WchQ9I/AAAAAAABn_w/w0gOGMukiPcOcPrsRp0zrXaclE6EW-qbQCLcBGAsYHQ/s135/962-Catwoman-Batman-Ninja-DC-Comics-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6KXDsMC5Sf8/X4ro3r08jFI/AAAAAAABn_0/0c3QUXNVU6YMvH1PqrzCfxLQg3TnYH_1gCLcBGAsYHQ/s135/962-Catwoman-Batman-Ninja-DC-Comics-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-sODpQVQotV0/X4ro369iF0I/AAAAAAABn_4/m5W_1qlyJWQXiXRbyCV7Ur0rXFDqV7BywCLcBGAsYHQ/s135/962-Catwoman-Batman-Ninja-DC-Comics-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XOpLF2KgH7g/X4ro4H3hhnI/AAAAAAABn_8/AMHnrD7frIw0IvKpBkxwis9Y0rZSHAU-gCLcBGAsYHQ/s135/962-Catwoman-Batman-Ninja-DC-Comics-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n962/",
+      "fetched_at": "2026-05-16T19:10:34.897Z",
+      "raw_id": "/nendoroid/details/n962/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.549Z",
+      "raw_id": "Nendoroid/0900-0999/962.json"
+    }
+  ]
+}

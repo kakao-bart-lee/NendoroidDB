@@ -1,0 +1,68 @@
+{
+  "num": "0740",
+  "name": {
+    "en": "Nendoroid Kasumi Toyama",
+    "ja": "ねんどろいど 戸山香澄 (ねんどろいど とやまかすみ)",
+    "ko": "토야마 카스미"
+  },
+  "series": {
+    "en": "BanG Dream!",
+    "ja": "BanG Dream!",
+    "ko": "BanG Dream!",
+    "code": "bang-dream"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uuXVyqYzcGk/X4Nc8IY92PI/AAAAAAABl94/MHF8mkyGRksVxpYnlRCn32ur6J3uxqpeQCLcBGAsYHQ/s270/740-Kasumi%2BToyama-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uuXVyqYzcGk/X4Nc8IY92PI/AAAAAAABl94/MHF8mkyGRksVxpYnlRCn32ur6J3uxqpeQCLcBGAsYHQ/s270/740-Kasumi%2BToyama-BanG%2BDream%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hTZVJAKZc3g/X4i4jH7Ji6I/AAAAAAAAtU4/9cBUPxleQrsNBDpkx6czstomJCl0FUzPgCLcBGAsYHQ/s135/740-Kasumi-Toyama-BanG-Dream-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J3cei0IgGPA/X4i4jKWX9wI/AAAAAAAAtU8/w6qqxrGGsdEMpYSubAvibl9XmJPtBJsGACLcBGAsYHQ/s135/740-Kasumi-Toyama-BanG-Dream-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-olmEtE2_35I/X4i4jicFXVI/AAAAAAAAtVA/ABTxlYNwaD8QTGNSUsLpqRUN4ppvwYewgCLcBGAsYHQ/s135/740-Kasumi-Toyama-BanG-Dream-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lJXjy7FYai8/X4i4jyA2lZI/AAAAAAAAtVE/5DebjcSSizsqcPP2zFtUDRkeHjo4ejbKgCLcBGAsYHQ/s135/740-Kasumi-Toyama-BanG-Dream-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YhQx57wpsI0/X4i4kJztILI/AAAAAAAAtVI/BDKAcL2ojCo5D7mHJnwl3NCHXi8roZ-8wCLcBGAsYHQ/s135/740-Kasumi-Toyama-BanG-Dream-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n740/",
+      "fetched_at": "2026-05-16T19:10:34.771Z",
+      "raw_id": "/nendoroid/details/n740/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.496Z",
+      "raw_id": "Nendoroid/0700-0799/740.json"
+    }
+  ]
+}

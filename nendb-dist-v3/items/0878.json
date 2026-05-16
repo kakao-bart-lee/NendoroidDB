@@ -1,0 +1,70 @@
+{
+  "num": "0878",
+  "name": {
+    "en": "Nendoroid Criminal",
+    "ja": "ねんどろいど 犯人 (ねんどろいど はんにん)",
+    "ko": "범인"
+  },
+  "series": {
+    "en": "Detective Conan",
+    "ja": "名探偵コナン",
+    "ko": "명탐정 코난",
+    "code": "detective-conan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4054,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7007,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9O6i1X45Xdo/X4Nd_TyDPRI/AAAAAAABmHk/MJbp3FA_w-YNbm4vUjlT222IZhXSkyPvACLcBGAsYHQ/s270/878-Criminal-Movable-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9O6i1X45Xdo/X4Nd_TyDPRI/AAAAAAABmHk/MJbp3FA_w-YNbm4vUjlT222IZhXSkyPvACLcBGAsYHQ/s270/878-Criminal-Movable-Detective-Conan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-a3zzI1QjCL0/X4rj4DJtcSI/AAAAAAABnck/KsJr6yd4peMS7puqWoQiCloJmGSd341rACLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-HBhdM2iksYA/X4rj4XD2j5I/AAAAAAABnco/6Ep_nCeW4b0f_5noGOu6R3cJrgczA88GgCLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Mlu7-H1QaEY/X4rj4lgwWwI/AAAAAAABncs/9aPq9ETmuWAR6ypzQrg_W6XC6iHvDCvEgCLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-y0-QJMCAjFo/X4rj5Ltzn-I/AAAAAAABncw/1LtM7doa7foucPbLALifVfp9HCVSSKUTgCLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-q9CYFm9R0G8/X4rj5R1NCOI/AAAAAAABnc0/olHctY8iOJc_RZ2EGrQ5gA_DdO8q5Gp4wCLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-c2zpPEZh71k/X4rj5lE1w-I/AAAAAAABnc4/xOty-MyNXgoi9k36spqkCuMUN0t4Rq-7ACLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-hvjOcsMDIDo/X4rj5ik-bkI/AAAAAAABnc8/x85ufBgDfTM8ELHsj6TMwl5Uwvs8turEACLcBGAsYHQ/s135/878-Criminal-Detective-Conan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n878/",
+      "fetched_at": "2026-05-16T19:10:34.850Z",
+      "raw_id": "/nendoroid/details/n878/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.528Z",
+      "raw_id": "Nendoroid/0800-0899/878.json"
+    }
+  ]
+}

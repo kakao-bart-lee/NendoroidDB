@@ -1,0 +1,70 @@
+{
+  "num": "1775",
+  "name": {
+    "en": "Nendoroid He-Man",
+    "ja": "ねんどろいど ヒーマン (ねんどろいど ひーまん)",
+    "ko": "히-맨"
+  },
+  "series": {
+    "en": "Masters of the Universe: Revelation",
+    "ja": "マスターズ・オブ・ユニバース: 黙示録",
+    "ko": "우주의 영웅들:새로운 진실",
+    "code": "masters-of-the-universe-revelation"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12063,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8yRph5pMsnU/YdGwN_6z9CI/AAAAAAAA2dw/ZFLdnZsU6AEml12799sCmCjMU2x50io1ACNcBGAsYHQ/s270/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8yRph5pMsnU/YdGwN_6z9CI/AAAAAAAA2dw/ZFLdnZsU6AEml12799sCmCjMU2x50io1ACNcBGAsYHQ/s270/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CKzHmOntWos/YdGzPBMiGTI/AAAAAAAA2fo/ThCo9Vq8Ajwh31-4qSG58841pW7FuiWewCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/--L59HVXbjFY/YdGzPVkfubI/AAAAAAAA2fs/tVTjiaM44v87sBNTRtePCFPU1yIjcC0bgCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-VtZO-90L7fQ/YdGzPnFAxLI/AAAAAAAA2fw/nFY0xtJe9LgwSSQk-qvIiqDHr7lmyrhdwCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_3NQRInMuIc/YdGzP1dSdPI/AAAAAAAA2f0/FqlM3shbFJ0cAyrhJhdQz_1v06qKPahewCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XAMICxSjYcc/YdGzQGC_o1I/AAAAAAAA2f4/ViubmMUIsGQAp2CEpM3j1Yx6NFtz5sM_QCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-UfhnIJ1Ne2U/YdGzQdbUjOI/AAAAAAAA2f8/eQyGefwq88AfIcLrrkxW8ivYsbs8QtUlQCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ZlO-QC5hoJg/YdGzQrAwXbI/AAAAAAAA2gA/jFy20351qskEfuPDTU7JJLS44DGTz1-0QCNcBGAsYHQ/s135/1775-He-Man-Masters-of-the-Universe-Revelation-Western-Animation-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1775/",
+      "fetched_at": "2026-05-16T19:10:33.639Z",
+      "raw_id": "/nendoroid/details/n1775/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.748Z",
+      "raw_id": "Nendoroid/1700-1799/1775.json"
+    }
+  ]
+}

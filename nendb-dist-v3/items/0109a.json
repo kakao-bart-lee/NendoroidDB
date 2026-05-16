@@ -1,0 +1,64 @@
+{
+  "num": "0109a",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": "ねんどろいど レーシングミク (ねんどろいど れーしんぐみく)",
+    "ko": "레이싱 미쿠"
+  },
+  "series": {
+    "en": "Racing Miku",
+    "ja": "初音ミクGTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "racing-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2010",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3409,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-bibtW7b5J0A/X4NJsLWYEYI/AAAAAAABlOQ/S-LSLTEV__8zK9xYXq_a4EdJPiadn0_VQCLcBGAsYHQ/s270/109A-Hatsune-Miku-GT-Project-2010-Version-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-bibtW7b5J0A/X4NJsLWYEYI/AAAAAAABlOQ/S-LSLTEV__8zK9xYXq_a4EdJPiadn0_VQCLcBGAsYHQ/s270/109A-Hatsune-Miku-GT-Project-2010-Version-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CJM3QXzxwGY/X4dSD72LrZI/AAAAAAAApvs/cm-_s3lU-CEnIeRdedsdJ_chCWUni_iygCLcBGAsYHQ/s135/109A-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n109a/",
+      "fetched_at": "2026-05-16T19:10:33.220Z",
+      "raw_id": "/nendoroid/details/n109a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.290Z",
+      "raw_id": "Nendoroid/0100-0199/109a.json"
+    }
+  ]
+}

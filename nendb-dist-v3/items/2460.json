@@ -1,0 +1,64 @@
+{
+  "num": "2460",
+  "name": {
+    "en": "Tokage And Nisetsumuri",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Sumikko Gurashi",
+    "ja": null,
+    "ko": null,
+    "code": "sumikko-gurashi"
+  },
+  "category": "regular",
+  "nh_type": "Mascot",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gQcYwCQDr70/Zj_irIfnj_I/AAAAAAABEZE/qD_Kqm5PSiAvO4pleFuDJ8UXCjaj452cQCNcBGAsYHQ/s270/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gQcYwCQDr70/Zj_irIfnj_I/AAAAAAABEZE/qD_Kqm5PSiAvO4pleFuDJ8UXCjaj452cQCNcBGAsYHQ/s270/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QhoMSJHdH8U/Zow4cqGtmII/AAAAAAABFv0/98wPk-OfkHsaaznk-AjrI_-bZwjJYqXLQCNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1HIhIVgSWFU/Zow4dUKvWMI/AAAAAAABFv4/IM3Si5HfN6A36hmhgaF244wiq3jNbxmiACNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Cs5oqUvf7ec/Zow4d3JQ0eI/AAAAAAABFv8/NVSQk-HzUYIpSddjwPuPkOV1TPRvYrywACNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dgMFMVq8nDs/Zow4eb3jn-I/AAAAAAABFwA/NNvm9FSH5eEASG2yR34e-FaDTXw6gauZwCNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UUfLro6LJXI/Zow4ev11awI/AAAAAAABFwE/8cw5-Q0SSG8h6B43A7jkj0j8TmFBftIRQCNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-BGLB311eCMc/Zow4fGh9VnI/AAAAAAABFwI/tCIeupd7IIoUaSm56ikaZXxIsAsaVCGMACNcBGAsYHQ/s135/2460-Tokage-and-Nisetsumuri-Sumikko-Gurashi-Mascot-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2460/",
+      "fetched_at": "2026-05-16T19:10:34.073Z",
+      "raw_id": "/nendoroid/details/n2460/"
+    }
+  ]
+}

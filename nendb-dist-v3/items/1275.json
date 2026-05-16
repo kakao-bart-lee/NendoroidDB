@@ -1,0 +1,69 @@
+{
+  "num": "1275",
+  "name": {
+    "en": "Nendoroid Hifumi Izanami",
+    "ja": "ねんどろいど 伊弉冉一二三 (ねんどろいど いざなみひふみ)",
+    "ko": "이자나미 히후미"
+  },
+  "series": {
+    "en": "Hypnosis Mic -Division Rap Battle-",
+    "ja": "ヒプノシスマイク -Division Rap Battle-",
+    "ko": "히프노시스 마이크",
+    "code": "hypnosis-mic-division-rap-battle"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6050,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9207,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-MqnO4KYYSxM/X4Nic34FzFI/AAAAAAABmrY/4mwvoxkSpi4k7l3f1f-ireSwsBwEMtScgCLcBGAsYHQ/s270/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-MqnO4KYYSxM/X4Nic34FzFI/AAAAAAABmrY/4mwvoxkSpi4k7l3f1f-ireSwsBwEMtScgCLcBGAsYHQ/s270/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Urkv4jgomKc/X4r0oN1AxXI/AAAAAAABqAY/Lwc71cA88lAHYVUUT7nuLFh41cG25CoxwCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZqV0-yFX4sE/X4r0oqm6WLI/AAAAAAABqAc/X4Mo4mJNOVgq55nO7LQWYDcBnZaNXNRFQCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-KRA9XjYKbhc/X4r0pB81ncI/AAAAAAABqAg/4JScRicVGN4Fa1NAYotL12mgOoE1ZyjMQCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-XSIT-3vjysw/X4r0pjFeCwI/AAAAAAABqAk/rZpkxHLzh78kF8PlouphW9MZUQxPG5IUwCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-IU5ILWYR6mA/X4r0qFFHwHI/AAAAAAABqAo/SXvqSqFSbiAa8LvPBJKjp5QJ_1G3j_MHwCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9xaDLTgETJM/X4r0qlFMS0I/AAAAAAABqAs/y6fIHASZBe4T2NKlPJUSa23Zi6OtjvCxQCLcBGAsYHQ/s135/1275-Hifumi-Izanami-Hypnosis-Mic-Division-Rap-Battle-Others-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1275/",
+      "fetched_at": "2026-05-16T19:10:33.328Z",
+      "raw_id": "/nendoroid/details/n1275/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.626Z",
+      "raw_id": "Nendoroid/1200-1299/1275.json"
+    }
+  ]
+}

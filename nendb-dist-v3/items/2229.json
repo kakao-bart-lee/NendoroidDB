@@ -1,0 +1,68 @@
+{
+  "num": "2229",
+  "name": {
+    "en": "Nendoroid Kazuya Miyuki",
+    "ja": "ねんどろいど 御幸一也 (ねんどろいど みゆきかずや)",
+    "ko": "미유키 카즈야"
+  },
+  "series": {
+    "en": "Ace of Diamond Act II",
+    "ja": "ダイヤのA actⅡ",
+    "ko": "다이아몬드 에이스 actⅡ",
+    "code": "ace-of-diamond-act-ii"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14820,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--GP4_bT0nD8/ZQoU3H9gzKI/AAAAAAABBjI/H-DyGChZRnAj6y5vFwq90Pj3mewYTgPQACNcBGAsYHQ/s270/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--GP4_bT0nD8/ZQoU3H9gzKI/AAAAAAABBjI/H-DyGChZRnAj6y5vFwq90Pj3mewYTgPQACNcBGAsYHQ/s270/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gQQ7-t-WIIg/ZQsgqImWVoI/AAAAAAABBp0/XvmlkniZuxYQqHN1lRnM3NeKMC6NnIcZACNcBGAsYHQ/s135/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OgQKnL0eZEA/ZQsgqnMceZI/AAAAAAABBp4/TLrEMC2xZm4TUW6AABSRrjbviKCsquNOwCNcBGAsYHQ/s135/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-4AUGepRBFww/ZQsgrc89SOI/AAAAAAABBp8/rJIuG3Smi5c9yxie7dCL1a9MsMxTW3N-gCNcBGAsYHQ/s135/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-4Dga7idobTs/ZQsgr7aMgII/AAAAAAABBqA/g04DhfTN0n4puvc0qhKoXv4MxX0xIjl_wCNcBGAsYHQ/s135/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uExL0S4vI8A/ZQsgsJ0dlJI/AAAAAAABBqE/JKmDPUPNcR8RlCGsH6zrAPMnHUPWJgn2QCNcBGAsYHQ/s135/2229-Kazuya-Miyuki-Ace-of-Diamond-Act-II-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2229/",
+      "fetched_at": "2026-05-16T19:10:33.931Z",
+      "raw_id": "/nendoroid/details/n2229/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.860Z",
+      "raw_id": "Nendoroid/2200-2299/2229.json"
+    }
+  ]
+}

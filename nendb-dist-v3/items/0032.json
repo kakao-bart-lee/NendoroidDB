@@ -1,0 +1,64 @@
+{
+  "num": "0032",
+  "name": {
+    "en": "Nendoroid Tsuruya-san (つるやさん ねんどろいど)",
+    "ja": "ねんどろいど 鶴屋さん (つるやさん ねんどろいど)",
+    "ko": "츠루야 상"
+  },
+  "series": {
+    "en": "The Melancholy of Haruhi Suzumiya",
+    "ja": "涼宮ハルヒの憂鬱",
+    "ko": "스즈미야 하루히의 우울",
+    "code": "the-melancholy-of-haruhi-suzumiya"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2008",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3143,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 395,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-z6N_u4WL2cU/X4MR3x-TFOI/AAAAAAAApYg/ZUkV3VvITec-S-XyobxGfFl5NlwreKVDwCLcBGAsYHQ/s270/032-Tsuruya-san-The%2BMelancholy%2Bof%2BHaruhi%2BSuzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-z6N_u4WL2cU/X4MR3x-TFOI/AAAAAAAApYg/ZUkV3VvITec-S-XyobxGfFl5NlwreKVDwCLcBGAsYHQ/s270/032-Tsuruya-san-The%2BMelancholy%2Bof%2BHaruhi%2BSuzumiya-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NVPd89eeLhg/X4GwYKUv4AI/AAAAAAAApBc/Kk4SxtrIisQqdjae41QJbkDRVYf2CPE2QCLcBGAsYHQ/s135/032-Tsuruya-san-The-Melancholy-of-Haruhi-Suzumiya-Anime-and-Manga-Nendoroid-3.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n032/",
+      "fetched_at": "2026-05-16T19:10:33.085Z",
+      "raw_id": "/nendoroid/details/n032/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.269Z",
+      "raw_id": "Nendoroid/0000-0099/032.json"
+    }
+  ]
+}

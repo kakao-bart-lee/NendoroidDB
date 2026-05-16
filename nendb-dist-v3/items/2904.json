@@ -1,0 +1,92 @@
+{
+  "num": "2904",
+  "name": {
+    "en": "Hatsune Miku",
+    "ja": "ねんどろいど 初音ミク 開かれた窓のセカイVer.",
+    "ko": null
+  },
+  "series": {
+    "en": "Colorful Stage!",
+    "ja": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+    "ko": null,
+    "code": "colorful-stage"
+  },
+  "category": "other",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": "4580828666474",
+  "gsc_product_id": "1138254",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1138254",
+    "ja": "https://www.goodsmile.com/ja/product/1138254"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138254/pfU5yv6RkDuxHnF2NcSV0J3t9KAXTj8w.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSVIyddx0xFjjoGj7_AvfASh8WSjUqZWKnwNXrmxBhyphenhyphenVVKRmxTyTo6zasf2yvsk5oDe6B4quPbHjRDhkxYU3IutBvvGOIvcO6-savzbDgs187xwGlab6QnPB7MaMVRIoffvZFGm4Q_Oj6E3-C3hiHUOFhqhQspOv4NwFbu9zoRKTg9ZFIxcgAn90_Xqd1D/s270/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUW7BFd1jvlDnfhcuVVhL_kRs80OOye3zliX2utRI3YuFQ76B-lSNV45oNdtCGYpwUr9_4C-UBb9Bj1T3cvdsA6H7fURyr-yJpZ8UjtBgDEd3xVsJiFo2JaEVFkDRt_SYLR3tILRyp7VetwwiyQpHYyj4IMLpE96mEfVG5WRHOrNhl1ByGKqcWZlPXMVCn/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhA5SeoWrEEHtxsHffBxlqyF3OdeZnIjbjbfBHZdey333Ig8z4TD_FbJtDh5abUUpD6UBD5eKjeqQ-MKCUAHLD2f1b6ELfF5fqxpl0LiENPL8hFMPfni8vQwGlBJaKmPJ4aOjPbTMe-mOsxXBL8bl_TgQOKyozdRjXy0RlXKiRnVYpwqa9Ab4QaTF2qI8U/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9wmC9hUeOZoc9Pd3h5DXpMPAx_0wOnG7MuzIGBoXLpxUpRnmOVpmL7UC34uKZpJiUxrOKecj-UdhVa0db395dBnqnHkYHVxjY-LLQOhzAOrSUSKtcTWAqz6VsuIdgZvAicw-2Ye2YiaeMXrcyj8PELDsLIKC6w9RSrDQ4YPdNcwvi4-F_ay_nCnJRX83i/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6_I694riMvdE3xmYpS7btcx_bXoRzC5h-QeiCP9pzxLHdmNMMcc-xY-kpXbLbHcPa_65H0JQH44dWQQai2Bv7uXusj-3Ba66YpEBwH9hyphenhyphenOJBNNRL_FiLJ6yLVaaf7omIElqq15wolVS9lBRFejDwKH1Yl76wftnvZ5mrioW2dzRbLyOmsaZ0mR4zVS8Sg/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfENM8n4hY2MHRkJjXIPYVhnEoFAGKCsVyxh8khiva_H5OTQSaIpC7Ghsa3ND4QGX9-rOVeDzjtVqJ5CoiCxBfQGpKRoRCwhTQXwFiw7FjQW0VqqOwDF2MRN4oA-VWwOjPUUIwONONB7tserFVB705QwjzCZ_t0hyLwpTsPIzHuQdM-zVHZOByco1xlKqr/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0QCt-2KmSRRGUgkzu-xLBbCu6cpdHGbGhne3-BsIyutOQyBdp3apcO3r9sL4V5DxZBW3wtK0tZzBh0nvSvuggyrzfbbhUYR2mtXBUMCqNCHjMSqczCWmSGkszacR0hPxbbXuWPa-A0HRly3nQ9hSMoWE5wddzuV2jKATQNzg8ZE5YRf5aOadkRIotwrYE/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikpuDVdpS5kWBsqLGLCzc81-LtkoP_Bt5_y2M1DjWc6FrBRqRY4M2CWE-9N7pBViLa1QldkOkucru5ZnVQR-3jrv-VBHOAkQ6EE_LUQv-9-XXRubeVeFJ5_cPxGSkB8z5hewDWhXj3e27GO92i-ToeWKWaHOchgHacBqv8cJac7qzJOuaEEsVIZEQz4FS9/s135/2904-Hatsune-Miku-Colorful-Stage-The-Movie-A-Miku-Who-Cant-Sing-Vocaloid-Nendoroid-9.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138254/H7CLhGP1nKpmzexEgUZrq52vaF4b9DyW.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138254/pfU5yv6RkDuxHnF2NcSV0J3t9KAXTj8w.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138254",
+      "price_local": 7200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:16:02.059Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1138254",
+      "fetched_at": "2026-05-16T12:16:02.059Z",
+      "raw_id": "1138254"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1138254",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1138254"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2904/",
+      "fetched_at": "2026-05-16T19:10:34.382Z",
+      "raw_id": "/nendoroid/details/n2904/"
+    }
+  ]
+}

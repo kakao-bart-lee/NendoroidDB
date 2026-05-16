@@ -1,0 +1,70 @@
+{
+  "num": "1781",
+  "name": {
+    "en": "Nendoroid Chandra Nalaar",
+    "ja": "ねんどろいど チャンドラ・ナラー (ねんどろいど ちゃんどら・ならー)",
+    "ko": "찬드라 날라르"
+  },
+  "series": {
+    "en": "Magic: The Gathering",
+    "ja": "マジック:ザ・ギャザリング",
+    "ko": "매직 더 개더링",
+    "code": "magic-the-gathering"
+  },
+  "category": "regular",
+  "nh_type": "Others",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12090,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-hU1GSRmiqhg/YdGwQjkJLyI/AAAAAAAA2eE/Xo8GExd2D9Mt3P3bYLtLFC7Y9YuKkQfpQCNcBGAsYHQ/s270/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-hU1GSRmiqhg/YdGwQjkJLyI/AAAAAAAA2eE/Xo8GExd2D9Mt3P3bYLtLFC7Y9YuKkQfpQCNcBGAsYHQ/s270/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-t-OB4K2Pd4A/YdGzWkH-yVI/AAAAAAAA2ho/6AchjYbaJEkJPaRqq5E98eDcCzGKixrSgCNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-G2TrYYU7S_I/YdGzW-7HZDI/AAAAAAAA2hs/7zjqzA2_bPsOlcivz3VtGSkaDKbAar5owCNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-YvCIUsn3STU/YdGzW4qjShI/AAAAAAAA2hw/M0ixn5GwGkYXZ5OWOC4SO06eIatOCPaYACNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FzyNA9WKRoA/YdGzXEC-JwI/AAAAAAAA2h0/t_yscFvdk0YM-RDhcIny4FN2gAEadozdACNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rTWS_8VbdHs/YdGzXQU8bWI/AAAAAAAA2h4/flF2WHxlhlsCr6Gb5P1k1KEqNC1-ZeIUgCNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NYNY_y5jLXs/YdGzXsOz7aI/AAAAAAAA2h8/GEabO8zBRtgc_002vtAkZlqWTyxUPz3bwCNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-ZEF8OMRwtkM/YdGzX8jQwRI/AAAAAAAA2iA/-Cu6OAMD0O8pII469V1sDojhdRhxg-exACNcBGAsYHQ/s135/1781-Chandra-Nalaar-Magic-The-Gathering-Others-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1781/",
+      "fetched_at": "2026-05-16T19:10:33.643Z",
+      "raw_id": "/nendoroid/details/n1781/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.749Z",
+      "raw_id": "Nendoroid/1700-1799/1781.json"
+    }
+  ]
+}

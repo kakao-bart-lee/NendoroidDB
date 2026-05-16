@@ -1,0 +1,68 @@
+{
+  "num": "2225",
+  "name": {
+    "en": "Nendoroid Kiriko",
+    "ja": "ねんどろいど キリコ (ねんどろいど きりこ)",
+    "ko": "키리코"
+  },
+  "series": {
+    "en": "Overwatch 2",
+    "ja": "オーバーウォッチ 2",
+    "ko": "오버워치 2",
+    "code": "overwatch-2"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 9200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14746,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-81Ib065jYVs/ZM6y0zW8JZI/AAAAAAABA98/WmktBF7Dbrcs3arF5JjJs-06iUNBaeheACNcBGAsYHQ/s270/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-81Ib065jYVs/ZM6y0zW8JZI/AAAAAAABA98/WmktBF7Dbrcs3arF5JjJs-06iUNBaeheACNcBGAsYHQ/s270/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eWcURGDPtNA/ZNAWnHEL-fI/AAAAAAABBJ0/ULItEqIW7kINbfpezg9YCKj9TVuShH1lACNcBGAsYHQ/s135/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t3kKOkyLmPU/ZNAWn0PTZqI/AAAAAAABBJ4/3eBSWyb3uDgakubJ0AcmHeTkyKInO61tQCNcBGAsYHQ/s135/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qQP93JdYNfY/ZNAWoZrteHI/AAAAAAABBJ8/eSo1qd-P5OsASSke9muMvsi0CM97N6CdwCNcBGAsYHQ/s135/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dPYZwv4mLuk/ZNAWorNS-iI/AAAAAAABBKA/0A_rqpbQKS8BpP2GPxi2TBXmuH2H7sdUQCNcBGAsYHQ/s135/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-b66rBnFJiBo/ZNAWo631rjI/AAAAAAABBKE/4MqYHJl5Tek13xl69qCkLvUMr-YYBkBqACNcBGAsYHQ/s135/2225-Kiriko-Overwatch-2-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2225/",
+      "fetched_at": "2026-05-16T19:10:33.928Z",
+      "raw_id": "/nendoroid/details/n2225/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.859Z",
+      "raw_id": "Nendoroid/2200-2299/2225.json"
+    }
+  ]
+}

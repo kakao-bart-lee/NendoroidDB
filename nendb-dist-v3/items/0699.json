@@ -1,0 +1,94 @@
+{
+  "num": "0699",
+  "name": {
+    "en": "Nendoroid Hajime Iwaizumi",
+    "ja": "ねんどろいど 岩泉一 (ねんどろいど いわいずみはじめ)",
+    "ko": "이와이즈미 하지메"
+  },
+  "series": {
+    "en": "Haikyu!!",
+    "ja": "ハイキュー!!",
+    "ko": "하이큐!!",
+    "code": "haikyu"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4481,
+  "gtin": "4580416902687",
+  "gsc_product_id": "3838",
+  "gsc_product_num": 6100,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/3838",
+    "ja": "https://www.goodsmile.com/ja/product/3838"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161129/6100/42541/large/c355dc7a11957c1a46c8f45f83534c68.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-brC_dfhtkJI/X4NQBqLiUOI/AAAAAAABl6o/6IfpYzrTtuc7lY8NXbBnuXz6MF_IlP4awCLcBGAsYHQ/s270/699-Hajime%2BIwaizumi-Haikyu%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PQOdgYU8hr0/X4i2L-yjfKI/AAAAAAAAtDY/4NqGrq1hCVg0Kvih6fe_Ln-3yyF5Le-WwCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k3Mq6p6-jg0/X4i2MRiMCHI/AAAAAAAAtDc/rFWcORpx2mMRDgPJ6-ZeB3fg6oBF4cFVgCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dHwy4WGny_k/X4i2M_iBNTI/AAAAAAAAtDg/O43eUd-AQX0s6OA1UHrS44ly_Qzj8pIbwCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-26WDt9SBXdc/X4i2NajJxyI/AAAAAAAAtDk/qhrosCN-OMY9eJ7vDB8XsWEGJktiiBIWwCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-uimtvEIX9Z0/X4i2N2eg5rI/AAAAAAAAtDo/WxAQsrkJw50k5ETLMzmzlzvXHKgcDtwewCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-SmqrZuDdO_U/X4i2OTFfF0I/AAAAAAAAtDs/6DVl3YckR5oumspFD7EwOS70jyDXbjjvwCLcBGAsYHQ/s135/699-Hajime-Iwaizumi-Haikyu-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161129/6100/42540/large/101c09d655b89d3f125d84c83cec7dc2.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20161129/6100/42541/large/c355dc7a11957c1a46c8f45f83534c68.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3838",
+      "price_local": 4481,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:30.955Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/3838",
+      "fetched_at": "2026-05-16T11:49:30.955Z",
+      "raw_id": "3838"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/3838",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "3838"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n699/",
+      "fetched_at": "2026-05-16T19:10:34.749Z",
+      "raw_id": "/nendoroid/details/n699/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.486Z",
+      "raw_id": "Nendoroid/0600-0699/699.json"
+    }
+  ]
+}

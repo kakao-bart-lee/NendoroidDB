@@ -1,0 +1,68 @@
+{
+  "num": "1746",
+  "name": {
+    "en": "Nendoroid Crusch Karsten",
+    "ja": "ねんどろいど クルシュ・カルステン (ねんどろいど くるしゅ・かるすてん)",
+    "ko": "크루쉬 칼스텐"
+  },
+  "series": {
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re:ゼロから始める異世界生活",
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "code": "re-zero-starting-life-in-another-world"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11954,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-tn32OHJuyRg/Ya-zErBtvaI/AAAAAAAA2DI/wQ8o6FgMh9YlhUNSFKbO2vlDw3MdlzxgACNcBGAsYHQ/s270/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-tn32OHJuyRg/Ya-zErBtvaI/AAAAAAAA2DI/wQ8o6FgMh9YlhUNSFKbO2vlDw3MdlzxgACNcBGAsYHQ/s270/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7XxbKeYtm0E/Ya-2BJ7sZOI/AAAAAAAA2G8/y3P4q_eHq2YJEPX_PuYYOb33cVqrXzrzACNcBGAsYHQ/s135/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-CtwAQZvuBEs/Ya-2BCaoPhI/AAAAAAAA2HA/ipmQBmhBpV0jl1uII6UnmqaXiv0tts-2QCNcBGAsYHQ/s135/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gRghjepfZAk/Ya-2BaSryiI/AAAAAAAA2HE/x9xtzdU85BwgRs3Io3Hg6jyivnMMulPCQCNcBGAsYHQ/s135/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MjA_CqNCtlE/Ya-2Bnsb_SI/AAAAAAAA2HI/8PE3tybc0UEYyobp61OISOIuFEKdQDjGACNcBGAsYHQ/s135/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wYcEcMR7kFE/Ya-2Bi1NnXI/AAAAAAAA2HM/cNJB7ZiFJ-YXOpgPjUW6VDCsqGf5_XaVACNcBGAsYHQ/s135/1746-Crusch-Karsten-ReZERO-Starting-Life-in-Another-World-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1746/",
+      "fetched_at": "2026-05-16T19:10:33.622Z",
+      "raw_id": "/nendoroid/details/n1746/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.740Z",
+      "raw_id": "Nendoroid/1700-1799/1746.json"
+    }
+  ]
+}

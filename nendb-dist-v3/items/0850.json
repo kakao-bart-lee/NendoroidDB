@@ -1,0 +1,69 @@
+{
+  "num": "0850",
+  "name": {
+    "en": "Nendoroid Snow Miku: Crane Priestess Ver.",
+    "ja": "ねんどろいど 雪ミク タンチョウ巫女Ver. (ねんどろいど ゆきみく たんちょうみこVer.)",
+    "ko": "유키 미쿠 두루미 무녀 Ver."
+  },
+  "series": {
+    "en": "Character Vocal Series 01: Hatsune Miku",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko": "하츠네미쿠",
+    "code": "character-vocal-series-01-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6923,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JE4d2LhhxMY/X4Nd2qybnII/AAAAAAABmF0/i-Z6aSdA9gY2ZlrC1U3duP9Huq3ETnE3ACLcBGAsYHQ/s270/850-Hatsune-Miku-Snow-Miku-Crane-Priestess-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JE4d2LhhxMY/X4Nd2qybnII/AAAAAAABmF0/i-Z6aSdA9gY2ZlrC1U3duP9Huq3ETnE3ACLcBGAsYHQ/s270/850-Hatsune-Miku-Snow-Miku-Crane-Priestess-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-PUzfI3olKNo/X4rjK88iqOI/AAAAAAABnSA/3thRrHyW1Ika6FhgRFEQ0tpycwXVKhTPACLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-UWNROmJB0jU/X4rjK3daTqI/AAAAAAABnSE/OvAtm9jLKyQQvAZS6571kE9Ew9WLSLs4QCLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-h6aQ-tbRdxw/X4rjLO-CxPI/AAAAAAABnSI/67Mtz_Xrj08l7dtAt4AWsVdS4kEnsfRTgCLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-eT0oYbaSrAE/X4rjLZAWxgI/AAAAAAABnSM/mXcBzaQ2_7YfE1Vgp0LTGbN6wZA74HOLACLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-pyEwNBCQQE0/X4rjLkuJL6I/AAAAAAABnSQ/9XE2eMvkNyUzWLvVpBYemzQ_zPU7c42YQCLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-i3rhYN_5yMY/X4rjMDyd_II/AAAAAAABnSU/TaDuOzsao1s0Mt_Kxj2-Ohbi_INp8Jo8ACLcBGAsYHQ/s135/850-Hatsune-Miku-Snow-Miku-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n850/",
+      "fetched_at": "2026-05-16T19:10:34.835Z",
+      "raw_id": "/nendoroid/details/n850/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.522Z",
+      "raw_id": "Nendoroid/0800-0899/850.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0617",
+  "name": {
+    "en": "Nendoroid Heshikiri Hasebe",
+    "ja": "ねんどろいど へし切長谷部 (ねんどろいど へしきりはせべ)",
+    "ko": "헤시키리 하세베"
+  },
+  "series": {
+    "en": "Touken Ranbu -ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "ko": "도검난무-ONLINE-",
+    "code": "touken-ranbu-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5645,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-EoZDqxOFsiU/X4NPp6HclYI/AAAAAAABl1g/rKrFEU292ys8P28BzRk-MDNIB-UnPh9YACLcBGAsYHQ/s270/617-Heshikiri-Hasebe-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-EoZDqxOFsiU/X4NPp6HclYI/AAAAAAABl1g/rKrFEU292ys8P28BzRk-MDNIB-UnPh9YACLcBGAsYHQ/s270/617-Heshikiri-Hasebe-Touken-Ranbu-Online-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-AtAScxloSaU/X4iz5yCQK4I/AAAAAAAAslo/8SWU_GUdXVElMNIKGpEpiOZbEpOqWl37wCLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2rMgoJZCEPQ/X4iz55bfDZI/AAAAAAAAsls/8omzclgeDMoCqT_nL7NIjvZ6OkGvlEe0wCLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wM3eKVO2QTk/X4iz6NvABKI/AAAAAAAAsl0/esjR9ddaeqY7KxI8WFHtAQQ6VhIDc1SyACLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LtAEUKOmKRU/X4iz6d8P2RI/AAAAAAAAsl4/jJodTqgvivMXxAJawCwxHS7oNzpk8WLRwCLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6kwRl8T-6-c/X4iz6UifA6I/AAAAAAAAsl8/bXu6FjnfJgcYZwaUNN8_jPbfuHFurdUugCLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-M2mf9xSb8yc/X4iz6m4UpyI/AAAAAAAAsmA/tH6AbkZkM40GLzMdmQqvAJDYPhXNM5PUACLcBGAsYHQ/s135/617-Heshikiri-Hasebe-Touken-Ranbu-ONLINE-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n617/",
+      "fetched_at": "2026-05-16T19:10:34.699Z",
+      "raw_id": "/nendoroid/details/n617/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.464Z",
+      "raw_id": "Nendoroid/0600-0699/617.json"
+    }
+  ]
+}

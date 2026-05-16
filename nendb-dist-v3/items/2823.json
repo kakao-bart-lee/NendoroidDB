@@ -1,0 +1,91 @@
+{
+  "num": "2823",
+  "name": {
+    "en": "Blitzo",
+    "ja": "ねんどろいど ブリッツ",
+    "ko": null
+  },
+  "series": {
+    "en": "Helluva Boss",
+    "ja": "Helluva Boss",
+    "ko": null,
+    "code": "helluva-boss"
+  },
+  "category": "other",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Nendoron",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 130mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約130mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": "4571697189966",
+  "gsc_product_id": "1136497",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1136497",
+    "ja": "https://www.goodsmile.com/ja/product/1136497"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136497/9tyQgWzGVfnM2vCTXkb8ruD1FZAcd5qx.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9wQDaNTR1dvNPYrC1FDo9V4ZuV29xSgTmSGT1P43cT_lgxJJqUBzSjq8nbDlzKjd3_1FgehSv2cESpUBNCzfXFaCuD3_crPY_jQJCTXfsrTrAgVaQ7Beg3jkPlB2I2aVZX6stNBm-rJZOaI9y63TqdwVAUjFiPkfwGpOL5L0uXuCCseal_a1HNdQC4SW/s270/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwjMebUy2YzgVk7PL4q9iZimHWEAi9MDxiAQeqtspfQ1OosdVQdIJ21tlylpA8RhhS9V9x1C46sVZpAGdww-MQ3o_7OVsvn_kFItZiL1kqR6nn3w2qs6WiyNRYaTuu54CiwImf0nI9JNtE0Da01QjuCIWKC9vbQMdB7CV12DmtHLJ4DLiODcCNkTlcnB4h/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigI4iYdQpLEDsz14K0rqEnL0EDyxoMWBMuzq7dGTmDEMIkp1iV_ojOnWRtjQ2ZO8Fk89i-CZ9bz5wm28CviX3e3HxxuWzOTUVUrqThS4cWT3nJREcNdrd1BcDMDFeCsVF0ZWEvuAYw1rXKCeQZM7nrascPVXIsD3pXy_AYlqAUwUXRGGhWKHM4owiv0uTo/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjT3E778n5LV5irDxfNGz6f9tLBkzFk3K33yIzNlZxMAKwESD98rCf-t5AfSbs3lTIr8eHsp25QNvmhRmR0AC0zWw-_3_lz9IdkCJaAxcY_qF8Ccya3B0wj8pvX5fm77qLXH3RSxVcTt-gHOkV2NVHL7HPdZ2eM-veU8amsdMRPdblSSG-gj3rmLu_eRd/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhcGTlyFONHV3SPSHhqitpBcd5cefvR8b_5OKz9x4X3SICITIoVkeAXkTBZ42QAwGVoArRivDEkFtR7EcKRhIOCfIu1XfIRZRpLbz6XlG4DF0A3Z34021hR3YZfN4kEacQorlw5tQisIGu2jceTSNm3mYnOr92zb7tgctrErbbMQNS0li_kxpXPdwXU3P/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfraChWCWSGvO1SKIn9b681nr7BK9IYy2cdzRNGah7AGOewJ8adL8kcmfwx4tAC_Qr4Ov_rWpZpxZD3kk24jhBE3xCq_PVNtGerpfBRiFMWF5U2FntXEyrFP79Tj5qVAY316kF-v5nZFDGA6AM6ayAxIxvbDHa0T_JhBaT_Kr2fRUE2-q50Zn1cmmvE8P4/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAdnfcD9JymigB6Re0QC8R7m2KRkt5a4P7T6cKRMGOxQ8cWLp-XWMZlRG3ZJfMFjW2L8nuB_ndOTCT-tYvg_BkRAhqL4GY0BtoRd1DRWWrVvxe4uDOxRdMltrStMH0KUaGeeqvp43n7S4DZJnu9EtI11O0dkLQ7hUvCWDCREmw4NsBH-LHqv2hlbUCH3h/s135/2823-Blitzo-Helluva-Boss-Western-Animation-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136497/rqsVT7ap8P6kjKURXnCLYvJGgm9cFSEN.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136497/9tyQgWzGVfnM2vCTXkb8ruD1FZAcd5qx.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136497",
+      "price_local": 7700,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:00:36.115Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136497",
+      "fetched_at": "2026-05-16T12:00:36.115Z",
+      "raw_id": "1136497"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1136497",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1136497"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2823/",
+      "fetched_at": "2026-05-16T19:10:34.332Z",
+      "raw_id": "/nendoroid/details/n2823/"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0360",
+  "name": {
+    "en": "Nendoroid Colossus Titan & Attack Playset (ねんどろいど ちょうおおがたきょじん & しんげきのぷれいせっと)",
+    "ja": "ねんどろいど 超大型巨人 & 進撃のプレイセット (ねんどろいど ちょうおおがたきょじん & しんげきのぷれいせっと)",
+    "ko": "초대형 거인&진격의 플레이 세트"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "playset",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5029,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4010,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lb4jhXONuPc/X4NM5UzZCSI/AAAAAAABljQ/6Ioiy2HR9SkoYU8lD42G4fpW8nlNCLQpQCLcBGAsYHQ/s270/360-Colossal-Titan-Playset-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lb4jhXONuPc/X4NM5UzZCSI/AAAAAAABljQ/6Ioiy2HR9SkoYU8lD42G4fpW8nlNCLQpQCLcBGAsYHQ/s270/360-Colossal-Titan-Playset-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QhBet5RdVlk/X4dbB7OCpmI/AAAAAAAArGw/mNRjQoYtnX8rh_mzjRSxHJolnSAf3q_-gCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gVrbOwa4QLo/X4dbCP6fx7I/AAAAAAAArG0/Cjhl5g4XqcEn3WoUVHlQ7wW-OqdTk1v4ACLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qHxdyHssh70/X4dbCYpJexI/AAAAAAAArG4/LT7LC_2Ae0o9GUoI2SUbu7wZ0PDFhXNLwCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-WwmPK9hHiAM/X4dbCTCqidI/AAAAAAAArG8/rFYyVOUjfvEseFJ60K0pl6FfsR4ODXkjgCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jIppLiFChmA/X4dbCqOkjiI/AAAAAAAArHA/af8F3LDVEqIQ-GtIEi3mor93qWMjMKPKwCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-G0AZNwb_jrc/X4dbC8OEA5I/AAAAAAAArHE/GrCU-a7MuaQgh2RqLr9KAeHNu89HlK_EgCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7yXk8StTSJ8/X4dbDGTclaI/AAAAAAAArHI/8aJ2fnr9u7U7DWVtyaYsb5mCMSl_1PwzgCLcBGAsYHQ/s135/360-Collosal-Titan-Attack-on-Titan-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n360/",
+      "fetched_at": "2026-05-16T19:10:34.482Z",
+      "raw_id": "/nendoroid/details/n360/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.361Z",
+      "raw_id": "Nendoroid/0300-0399/360.json"
+    }
+  ]
+}

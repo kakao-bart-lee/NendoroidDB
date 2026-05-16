@@ -1,0 +1,68 @@
+{
+  "num": "0184",
+  "name": {
+    "en": "Nendoroid Elsie (ねんどろいど えるしぃ)",
+    "ja": "ねんどろいど エルシィ (ねんどろいど えるしぃ)",
+    "ko": "엘시"
+  },
+  "series": {
+    "en": "The World God Only Knows",
+    "ja": "神のみぞ知るセカイ",
+    "ko": "신만이 아는 세계",
+    "code": "the-world-god-only-knows"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3229,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-9aM3jxSSS2Y/X4NKKLGP2MI/AAAAAAABlTg/1_5YarLnopIpaXtM23JmdqCfNH2ql3M1wCLcBGAsYHQ/s270/184-Elsie-The-World-God-Only-Knows-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9aM3jxSSS2Y/X4NKKLGP2MI/AAAAAAABlTg/1_5YarLnopIpaXtM23JmdqCfNH2ql3M1wCLcBGAsYHQ/s270/184-Elsie-The-World-God-Only-Knows-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-H_UTV0t1NRk/X4dUII13ZaI/AAAAAAAAqK0/64cX5LqRs94Xs3qrEVRGmYmfc9tkR7IawCLcBGAsYHQ/s135/184-Elsie-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-8JYrNfjV8gk/X4dUIouuX-I/AAAAAAAAqK4/f41Qcm6pDuMwjZaAseszZLnn1RTZZtwAgCLcBGAsYHQ/s135/184-Elsie-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-IvVZTOtmiMk/X4dUJV9bYnI/AAAAAAAAqK8/LMIjZfrWNWgjkMpu6GP8o9TK84OmNjxEgCLcBGAsYHQ/s135/184-Elsie-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2laTHg1CL2M/X4dUJuZhfII/AAAAAAAAqLA/Gzgwmsvzd2UN2y7ybpMK1VPwwf6LWeLrgCLcBGAsYHQ/s135/184-Elsie-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-L504korSoUo/X4dUKEoQW3I/AAAAAAAAqLE/MVO4_DJupoQHhXwo_TwjP1hKwmkezBc2ACLcBGAsYHQ/s135/184-Elsie-The-World-God-Only-Knows-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n184/",
+      "fetched_at": "2026-05-16T19:10:33.685Z",
+      "raw_id": "/nendoroid/details/n184/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.312Z",
+      "raw_id": "Nendoroid/0100-0199/184.json"
+    }
+  ]
+}

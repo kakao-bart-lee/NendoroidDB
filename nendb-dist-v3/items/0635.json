@@ -1,0 +1,67 @@
+{
+  "num": "0635",
+  "name": {
+    "en": "Nendoroid Ezreal",
+    "ja": "ねんどろいど エズリアル (ねんどろいど えずりある)",
+    "ko": "이즈리얼"
+  },
+  "series": {
+    "en": "League of Legends",
+    "ja": "リーグ・オブ・レジェンド",
+    "ko": "리그 오브 레전드",
+    "code": "league-of-legends"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 0,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7671,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-R8aiVBzqDQA/X4NPuK5U5XI/AAAAAAABl2o/-XA4ekQveUUZgSUI3kEjiFFBdeQmD5ftQCLcBGAsYHQ/s270/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-R8aiVBzqDQA/X4NPuK5U5XI/AAAAAAABl2o/-XA4ekQveUUZgSUI3kEjiFFBdeQmD5ftQCLcBGAsYHQ/s270/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-iokaikFntWg/X4i0ckHOwYI/AAAAAAAAssg/XNQMI31aJbc0tOZe_BDKAQne33nor8DggCLcBGAsYHQ/s135/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N-KgvOjf8sM/X4i0c7UqtYI/AAAAAAAAssk/vUyAuulh30AeODuUyKuklv7xcFH-9qcrgCLcBGAsYHQ/s135/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y01sFDKqLrE/X4i0dHq0vcI/AAAAAAAAsso/uKL6-qMTpi8tgxTpQuU0kOs9MMUcJJ8mACLcBGAsYHQ/s135/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-iSMc7e0RHe8/X4i0dSMKa7I/AAAAAAAAsss/9eDkdAwV4TstX5bqAkTvK9TYve_ncfIXgCLcBGAsYHQ/s135/635-Ezreal-League-of-Legends-Video-Games-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n635/",
+      "fetched_at": "2026-05-16T19:10:34.712Z",
+      "raw_id": "/nendoroid/details/n635/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.470Z",
+      "raw_id": "Nendoroid/0600-0699/635.json"
+    }
+  ]
+}

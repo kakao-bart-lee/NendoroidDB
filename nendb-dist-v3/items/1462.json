@@ -1,0 +1,68 @@
+{
+  "num": "1462",
+  "name": {
+    "en": "Nendoroid Newt Scamander",
+    "ja": "ねんどろいど ニュート・スキャマンダー (ねんどろいど にゅーと・すきゃまんだー)",
+    "ko": "뉴트 스캐맨더"
+  },
+  "series": {
+    "en": "Fantastic Beasts",
+    "ja": "ファンタスティック・ビースト",
+    "ko": "신비한 동물사전",
+    "code": "fantastic-beasts"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10060,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-y5DFFNsKuxg/X5FKG8dRsII/AAAAAAABrLU/gnytZOahuEUQNtzsUJ6lPA-k9a2-00t8ACLcBGAsYHQ/s270/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-y5DFFNsKuxg/X5FKG8dRsII/AAAAAAABrLU/gnytZOahuEUQNtzsUJ6lPA-k9a2-00t8ACLcBGAsYHQ/s270/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-zDX3gUyXveg/X5HXVt6JeCI/AAAAAAAAt4I/mYMnwaV3ep4M7tpmQcMPQgXx5L-IPCNdwCLcBGAsYHQ/s135/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-VtOkrfalIy8/X5HXVhDpGOI/AAAAAAAAt4M/7obmVidU8FMQ7w3_U0Gk9oyt1Y81BbqlwCLcBGAsYHQ/s135/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-nfnzGRyRKKc/X5HXVlKG4_I/AAAAAAAAt4Q/iTOA-cTrEOAsVxPryr7_hD91xroImpg9ACLcBGAsYHQ/s135/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-nhN3GMObMao/X5HXWNk4l-I/AAAAAAAAt4U/y01508mkqhINHPS9RHNbwwAn4ip1uGjdgCLcBGAsYHQ/s135/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LnEONINmYg8/X5HXWX_e9_I/AAAAAAAAt4Y/lDcXRyzkEegRURVfAEJffPeEncOWNgG6ACLcBGAsYHQ/s135/1462-Newt-Scamander-Harry-Potter-Fantastic-Beasts-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1462/",
+      "fetched_at": "2026-05-16T19:10:33.446Z",
+      "raw_id": "/nendoroid/details/n1462/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.672Z",
+      "raw_id": "Nendoroid/1400-1499/1462.json"
+    }
+  ]
+}

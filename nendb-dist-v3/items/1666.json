@@ -1,0 +1,68 @@
+{
+  "num": "1666",
+  "name": {
+    "en": "Nendoroid Mikey (Manjiro Sano)",
+    "ja": "ねんどろいど マイキー（佐野万次郎） (ねんどろいど まいきー（さのまんじろう）)",
+    "ko": "사노 만지로"
+  },
+  "series": {
+    "en": "Tokyo Revengers",
+    "ja": "東京リベンジャーズ",
+    "ko": "도쿄 리벤저스",
+    "code": "tokyo-revengers"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11378,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BmU2IeyoQU8/YONqRtpg6hI/AAAAAAAAzEc/w1tUTRbdlbMDiyCIcp_z9CtBHdOjTd8IgCLcBGAsYHQ/s270/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BmU2IeyoQU8/YONqRtpg6hI/AAAAAAAAzEc/w1tUTRbdlbMDiyCIcp_z9CtBHdOjTd8IgCLcBGAsYHQ/s270/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-QQRMPhGKI0c/YONsQheTAmI/AAAAAAAAzJ4/-xmTsfpc_MgPJDBMGb0BXAa4PdMQ7wMpwCLcBGAsYHQ/s135/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TjBQP6R3Y38/YONsQnUZPDI/AAAAAAAAzKA/g8dJV6N-MjQ8ShkqaZ5TSWg2f-JF4jmmQCLcBGAsYHQ/s135/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-U_LBAJIHpOo/YONsRH7NnpI/AAAAAAAAzKE/zjAJ9p3ybuIjmS68G7TkEoK7ReDAU_KkQCLcBGAsYHQ/s135/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GGh-IPdhYdQ/YONsRQgMnoI/AAAAAAAAzKQ/ffUdViJLEAIlCnb9vhXRureC26pfEdpzQCLcBGAsYHQ/s135/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6-DfVfRiINE/YONsRfwqKHI/AAAAAAAAzKI/CD14GgHmZ_wbWbk-PdM3PtING6XyJ8oZwCLcBGAsYHQ/s135/1666-Mikey-Manjiro-Sano-Tokyo-Revengers-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1666/",
+      "fetched_at": "2026-05-16T19:10:33.569Z",
+      "raw_id": "/nendoroid/details/n1666/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.721Z",
+      "raw_id": "Nendoroid/1600-1699/1666.json"
+    }
+  ]
+}

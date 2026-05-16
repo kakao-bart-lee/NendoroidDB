@@ -1,0 +1,67 @@
+{
+  "num": "0584",
+  "name": {
+    "en": "Nendoroid Nozomi Tojo: Training Outfit Ver.",
+    "ja": "ねんどろいど 東條希 練習着Ver. (ねんどろいど とうじょうのぞみ れんしゅうぎVer.)",
+    "ko": "토죠 노조미 연습복"
+  },
+  "series": {
+    "en": "LoveLive!",
+    "ja": "ラブライブ！",
+    "ko": "러브라이브!",
+    "code": "lovelive"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5330,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-q0MwuayNbaI/X4NOqaZosVI/AAAAAAABly0/vHFS2p2mLxEplrno2g6LJ8KlMMFK4iruwCLcBGAsYHQ/s270/584-Toujou-Nozomi-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-q0MwuayNbaI/X4NOqaZosVI/AAAAAAABly0/vHFS2p2mLxEplrno2g6LJ8KlMMFK4iruwCLcBGAsYHQ/s270/584-Toujou-Nozomi-Training-Outfit-Ver-Love-Live-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-UulhlvvC0-4/X4itbkMooNI/AAAAAAAAsX8/BeL9sv8PC-sNSJ031tmzc2mrM-DJg0PtQCLcBGAsYHQ/s135/584-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lNwIW3qfvR0/X4itb2mv47I/AAAAAAAAsYA/80mVLSeuNlEiGh9MF9iAnThGCUDSenXEQCLcBGAsYHQ/s135/584-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-g4fW3PJ6cJ8/X4itcHXPBtI/AAAAAAAAsYE/hrjjS2hW_3ENbrUL_4--Pk2Ncr-UdzaGACLcBGAsYHQ/s135/584-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1RkD6XS3HSA/X4itcFwHIaI/AAAAAAAAsYI/cPpOigXJ86MusyLxYaiG0aF-wv-LN0JQwCLcBGAsYHQ/s135/584-Nozomi-Tojo-Love-Live-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n584/",
+      "fetched_at": "2026-05-16T19:10:34.666Z",
+      "raw_id": "/nendoroid/details/n584/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.455Z",
+      "raw_id": "Nendoroid/0500-0599/584.json"
+    }
+  ]
+}

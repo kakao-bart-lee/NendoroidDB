@@ -1,0 +1,67 @@
+{
+  "num": "0731",
+  "name": {
+    "en": "Nendoroid Yoshiko Tsushima",
+    "ja": "ねんどろいど 津島善子 (ねんどろいど つしまよしこ)",
+    "ko": "츠시마 요시코"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6215,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ovmRbB87mDQ/X4Nc5a621BI/AAAAAAABl9Q/EP8MkhvYAhoF7Ap4qovkhumLJy5xjecKgCLcBGAsYHQ/s270/731-Yoshiko-Tsushima-Love-Live-Sunshine%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ovmRbB87mDQ/X4Nc5a621BI/AAAAAAABl9Q/EP8MkhvYAhoF7Ap4qovkhumLJy5xjecKgCLcBGAsYHQ/s270/731-Yoshiko-Tsushima-Love-Live-Sunshine%2521%2521-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Xzu-g0jgvtg/X4i4M_bm2rI/AAAAAAAAtRQ/-M3MLKg0JN0VR0E4LHx0O6xahKYzZemTwCLcBGAsYHQ/s135/731-Yoshiko-Tsushima-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DcfBiEw1vjM/X4i4NArZ83I/AAAAAAAAtRU/BysHOon7yNEwZA6l-cG0o0amthTt4fK8ACLcBGAsYHQ/s135/731-Yoshiko-Tsushima-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FTStyjGzWsY/X4i4NuWPj_I/AAAAAAAAtRY/omax-uqYKBkKSw5VYONF5qzzjezrRnCqQCLcBGAsYHQ/s135/731-Yoshiko-Tsushima-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-R6KGpSaShes/X4i4NzZOpII/AAAAAAAAtRc/0w5QLTbhjpokAkiAkk6QZ_u8b1ujEdGFwCLcBGAsYHQ/s135/731-Yoshiko-Tsushima-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n731/",
+      "fetched_at": "2026-05-16T19:10:34.766Z",
+      "raw_id": "/nendoroid/details/n731/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.494Z",
+      "raw_id": "Nendoroid/0700-0799/731.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0521",
+  "name": {
+    "en": "Nendoroid Patchouli Knowledge (ねんどろいど ぱちゅりー・のーれっじ)",
+    "ja": "ねんどろいど パチュリー・ノーレッジ (ねんどろいど ぱちゅりー・のーれっじ)",
+    "ko": "파츄리 널릿지"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5007,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-rayfsxWrvj4/X4NOZ9QmKdI/AAAAAAABlus/5zDV456msRIY5ywbcsV2Oo6R8CybFpSQgCLcBGAsYHQ/s270/521-Patchouli-Knowledge-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-rayfsxWrvj4/X4NOZ9QmKdI/AAAAAAABlus/5zDV456msRIY5ywbcsV2Oo6R8CybFpSQgCLcBGAsYHQ/s270/521-Patchouli-Knowledge-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-GX-PbrGwOhI/X4isDzhkJmI/AAAAAAAAsBg/S4TM1BN8msMUDTtohEUBnyj22UQO9PjwwCLcBGAsYHQ/s135/521-Patchouli-Knowledge-Touhou-Project-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J7AGqoiS7KE/X4isEMLDyYI/AAAAAAAAsBk/pNFoB0nbnGYkn3v1e6tuwSr-VaePuzHMQCLcBGAsYHQ/s135/521-Patchouli-Knowledge-Touhou-Project-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-AQHT14fEICQ/X4isEQ2F1cI/AAAAAAAAsBo/kStQsyQe8wQS311Fh8jekLi1AcFHIpKiQCLcBGAsYHQ/s135/521-Patchouli-Knowledge-Touhou-Project-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6LSSr5P8NTQ/X4isEdDKUrI/AAAAAAAAsBs/9hBBKIinkb4UYZeqZMPDykO_QfoEmw5ygCLcBGAsYHQ/s135/521-Patchouli-Knowledge-Touhou-Project-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-fkgfZYzzrPQ/X4isEn5MtqI/AAAAAAAAsBw/VsUEpbYaQwwifzTgtz8MmpS_lv41A6-BQCLcBGAsYHQ/s135/521-Patchouli-Knowledge-Touhou-Project-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n521/",
+      "fetched_at": "2026-05-16T19:10:34.575Z",
+      "raw_id": "/nendoroid/details/n521/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.423Z",
+      "raw_id": "Nendoroid/0500-0599/521.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "1510",
+  "name": {
+    "en": "Nendoroid Tanjiro Kamado: Final Selection Ver.",
+    "ja": "ねんどろいど 竈門炭治郎 最終選別Ver. (ねんどろいど かまどたんじろう さいしゅうせんべつVer.)",
+    "ko": "카마도 탄지로 최종선별 Ver."
+  },
+  "series": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "ja": "鬼滅の刃",
+    "ko": "귀멸의 칼날",
+    "code": "demon-slayer-kimetsu-no-yaiba"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/--KJZQ8FhEAw/X8507tH9O4I/AAAAAAAAu38/684kijf2iWwSq0pX4b_0NCqZeIDnfbUsACLcBGAsYHQ/s270/1510-Tanjiro-Kamado-Final-Selection-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/--KJZQ8FhEAw/X8507tH9O4I/AAAAAAAAu38/684kijf2iWwSq0pX4b_0NCqZeIDnfbUsACLcBGAsYHQ/s270/1510-Tanjiro-Kamado-Final-Selection-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-asCn4YBU9ac/X86KhQ9LYvI/AAAAAAAAu5Q/384GWmxlk-IF7f_a_mG2fk0KX4IWtoVcQCLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5WUxkqdLUxI/X86Kh1J8XSI/AAAAAAAAu5U/DR_IKFo0Ck8NQkq8Zmmp1NwArnwg4QZyQCLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gQxeXylhy7Q/X86KiL8UR0I/AAAAAAAAu5Y/oe8tALJcpyo0rBwAd8G8KeV1z__NSqIpQCLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_u4HfC3NM3M/X86KiCiI7OI/AAAAAAAAu5c/bJbtdzqr0PYnKqr4HiiK-XayKWZKSUcJwCLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-e46pP7iGM3w/X86Kiule2FI/AAAAAAAAu5g/eFN8ptYh4u0Cw6sUp0opYIs-fMdJ-pkjQCLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-IyUP6zmnNeI/X86Ki4U4SmI/AAAAAAAAu5k/gadGRJRscGwdfJCyzgYFym7Dp3XzsbKmACLcBGAsYHQ/s135/1510-Tanjiro-Kamado-Demon-Slayer-Kimetsu-no-Yaiba-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1510/",
+      "fetched_at": "2026-05-16T19:10:33.474Z",
+      "raw_id": "/nendoroid/details/n1510/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.683Z",
+      "raw_id": "Nendoroid/1500-1599/1510.json"
+    }
+  ]
+}

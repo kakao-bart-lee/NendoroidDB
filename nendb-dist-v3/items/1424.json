@@ -1,0 +1,68 @@
+{
+  "num": "1424",
+  "name": {
+    "en": "Nendoroid Luo Tianyi",
+    "ja": "ねんどろいど 洛天依 (ねんどろいど るお・てんい)",
+    "ko": "뤄톈이"
+  },
+  "series": {
+    "en": "Vsinger",
+    "ja": "Vsinger",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "vsinger"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9844,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-uSxBCtdF0YU/X4Nke_iV0fI/AAAAAAABm54/Q2rQQrRfeFsFVBAl5nCR7j73eIb_7bPkgCLcBGAsYHQ/s270/1424-Luo-Tianyi-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-uSxBCtdF0YU/X4Nke_iV0fI/AAAAAAABm54/Q2rQQrRfeFsFVBAl5nCR7j73eIb_7bPkgCLcBGAsYHQ/s270/1424-Luo-Tianyi-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Vb8PqXR-XCA/X4tAWmMO6AI/AAAAAAABq04/JX-kmoT24r0bFFU-h1-pO6XAb_dRVZBAwCLcBGAsYHQ/s135/1424-Luo-Tianyi-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5S1rZ9N-kZE/X4tAW5z5tAI/AAAAAAABq08/DnQs_ZtVfL02QgEAmjhrJW9N1mzPH7YTQCLcBGAsYHQ/s135/1424-Luo-Tianyi-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-QQiDovbBedU/X4tAXORxfII/AAAAAAABq1A/wdPBfuFjy3IwEzp66iNBgiftQ27KkV5QQCLcBGAsYHQ/s135/1424-Luo-Tianyi-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-AR6hxeSN8dQ/X4tAXRYukGI/AAAAAAABq1E/gva2N6kh0EsUsfplVogjWPQI4eQ6S8QNgCLcBGAsYHQ/s135/1424-Luo-Tianyi-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ZOr7Tir2cWI/X4tAXkDp6MI/AAAAAAABq1I/egoKoB-PW6AhvXyor783s2NK-ObJ5bSpACLcBGAsYHQ/s135/1424-Luo-Tianyi-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1424/",
+      "fetched_at": "2026-05-16T19:10:33.422Z",
+      "raw_id": "/nendoroid/details/n1424/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.662Z",
+      "raw_id": "Nendoroid/1400-1499/1424.json"
+    }
+  ]
+}

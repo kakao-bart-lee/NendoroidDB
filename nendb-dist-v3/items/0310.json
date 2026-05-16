@@ -1,0 +1,68 @@
+{
+  "num": "0310",
+  "name": {
+    "en": "Nendoroid Miho Nishizumi",
+    "ja": "ねんどろいど 西住みほ (ねんどろいど にしずみみほ)",
+    "ko": "니시즈미 미호"
+  },
+  "series": {
+    "en": "GIRLS und PANZER",
+    "ja": "ガールズ＆パンツァー",
+    "ko": "걸즈 앤 판처",
+    "code": "girls-und-panzer"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4685,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3828,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-XFeAFr79Wzk/X4NMkhKovnI/AAAAAAABlgA/HZ_i3k6sa-It6lXFjCxOY4ZaTS3Il2rEQCLcBGAsYHQ/s270/310-Miho-Nishizomi-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-XFeAFr79Wzk/X4NMkhKovnI/AAAAAAABlgA/HZ_i3k6sa-It6lXFjCxOY4ZaTS3Il2rEQCLcBGAsYHQ/s270/310-Miho-Nishizomi-Girls-und-Panzer-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xcuDfwd8OHM/X4daCb_FzyI/AAAAAAAAq2k/RaSEucwVoJI_K-ewp8bpF_JGsaseY3WpQCLcBGAsYHQ/s135/310-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tnjRj3qC72A/X4daCm8gQzI/AAAAAAAAq2o/PizK31eN0HYmPN2-TrbZKtFLgoQ--f7ugCLcBGAsYHQ/s135/310-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-GucrFL_mdgs/X4daDFSUMtI/AAAAAAAAq2s/6HUDcPTi0sQQrLyCaBUfBEfZ4d30MuIkQCLcBGAsYHQ/s135/310-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Lq1to1lwHiQ/X4daDcrfv7I/AAAAAAAAq2w/xZjMpE6ejxcY2kKmdMw7LoJ9UJzl1yR-gCLcBGAsYHQ/s135/310-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-znNcUX03pYg/X4daDUwR20I/AAAAAAAAq20/pH39EHu-TxEx_1CFOMi241kN20rVfqsewCLcBGAsYHQ/s135/310-Miho-Nishizumi-GIRLS-und-PANZER-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n310/",
+      "fetched_at": "2026-05-16T19:10:34.454Z",
+      "raw_id": "/nendoroid/details/n310/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.348Z",
+      "raw_id": "Nendoroid/0300-0399/310.json"
+    }
+  ]
+}

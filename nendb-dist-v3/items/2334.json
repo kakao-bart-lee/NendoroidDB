@@ -1,0 +1,63 @@
+{
+  "num": "2334",
+  "name": {
+    "en": "Umika Konohoshi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Stardust Telepath",
+    "ja": null,
+    "ko": null,
+    "code": "stardust-telepath"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-r7r-KDgLLUE/ZWZfvYMbVbI/AAAAAAABCdc/Fiu_aq528y0Cg3LREdGBhVuoFnK0CMq_QCNcBGAsYHQ/s270/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-r7r-KDgLLUE/ZWZfvYMbVbI/AAAAAAABCdc/Fiu_aq528y0Cg3LREdGBhVuoFnK0CMq_QCNcBGAsYHQ/s270/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bTuzWVtvrvg/ZWZpmdp6dmI/AAAAAAABCr8/FCW5RLo7kqk_YfooDHzvSSW5fpC3YA58gCNcBGAsYHQ/s135/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-44qWBmFc7zM/ZWZpmgLPIDI/AAAAAAABCsA/_rflYUjrR2EVdZhJCzawaEVTDYheuuJFgCNcBGAsYHQ/s135/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-pKgexO4odJw/ZWZpnPZ5oVI/AAAAAAABCsE/2fHUnL-GM8c_5_e9-YHyZhk8kWY24jf3QCNcBGAsYHQ/s135/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3YpigTvoE9w/ZWZpn6GMJHI/AAAAAAABCsI/K2WzGi9ZBeM0ZI6kv5etQYxXJX6pLsEqwCNcBGAsYHQ/s135/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ryMVBFwlgds/ZWZpoVdjxZI/AAAAAAABCsM/uX67GuayfHIKeGFtSteONvpsunGTeRDyACNcBGAsYHQ/s135/2334-Umika-Konohoshi-Stardust-Telepath-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2334/",
+      "fetched_at": "2026-05-16T19:10:33.994Z",
+      "raw_id": "/nendoroid/details/n2334/"
+    }
+  ]
+}

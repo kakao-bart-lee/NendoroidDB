@@ -1,0 +1,68 @@
+{
+  "num": "0442",
+  "name": {
+    "en": "Nendoroid Yukari Yakumo",
+    "ja": "ねんどろいど 八雲紫 (ねんどろいど やくもゆかり)",
+    "ko": "아큐모 유카리"
+  },
+  "series": {
+    "en": "Touhou Project",
+    "ja": "東方Project",
+    "ko": "동방 프로젝트",
+    "code": "touhou-project"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4605,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KNSFwaBKm6s/X4NNxmJ43fI/AAAAAAABlpE/XzwzQDszIiQQ81Ga4wGlODl_xa6g2kjCwCLcBGAsYHQ/s270/442-Yukari%2BYakumo-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KNSFwaBKm6s/X4NNxmJ43fI/AAAAAAABlpE/XzwzQDszIiQQ81Ga4wGlODl_xa6g2kjCwCLcBGAsYHQ/s270/442-Yukari%2BYakumo-Touhou-Project-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-spQkNYOMyQQ/X4deIsuPYNI/AAAAAAAArjw/6N0aTGw7Q9YOPXf6k0KGOGCaSGjpy9tOACLcBGAsYHQ/s135/442-Yukari-Yakumo-Touhou-Project-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-N2tuJrOYaHI/X4deI2GZ6KI/AAAAAAAArj0/YqCEnDwX7303XQ8EqklnKM248UF27tDkwCLcBGAsYHQ/s135/442-Yukari-Yakumo-Touhou-Project-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Li2-WZfcaZw/X4deI8vGleI/AAAAAAAArj4/GR6P_tNUIjgvS1-Bpfqd0jt2zjwqBS_-QCLcBGAsYHQ/s135/442-Yukari-Yakumo-Touhou-Project-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-JdfWr01gJEc/X4deJaF45rI/AAAAAAAArj8/Tty6KjVBlgsED724ExpSi4u8GI4rQbwdgCLcBGAsYHQ/s135/442-Yukari-Yakumo-Touhou-Project-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1HpIWuKQIUo/X4deJ39xbCI/AAAAAAAArkA/NDXni7fJR9A-AguQgedJYNd_A_VJrgS-ACLcBGAsYHQ/s135/442-Yukari-Yakumo-Touhou-Project-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n442/",
+      "fetched_at": "2026-05-16T19:10:34.532Z",
+      "raw_id": "/nendoroid/details/n442/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.380Z",
+      "raw_id": "Nendoroid/0400-0499/442.json"
+    }
+  ]
+}

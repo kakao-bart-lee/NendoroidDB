@@ -1,0 +1,68 @@
+{
+  "num": "1341",
+  "name": {
+    "en": "Nendoroid Hanako kun",
+    "ja": "ねんどろいど 花子くん (ねんどろいど はなこくん)",
+    "ko": "하나코"
+  },
+  "series": {
+    "en": "Toilet-bound Hanako kun",
+    "ja": "地縛少年花子くん",
+    "ko": "지박소년 하나코군",
+    "code": "toilet-bound-hanako-kun"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9511,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PKmo86ZEAoo/X4NjudiuexI/AAAAAAABm1Y/-ICV_v_6ZjgZXJqiUC2HKtddb9O3KwP0ACLcBGAsYHQ/s270/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PKmo86ZEAoo/X4NjudiuexI/AAAAAAABm1Y/-ICV_v_6ZjgZXJqiUC2HKtddb9O3KwP0ACLcBGAsYHQ/s270/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_mIKtndQbhM/X4s9TKiR6MI/AAAAAAABqdw/7fQJPdQUsyAJd0LXO-o4AV9GVUWXSpYAgCLcBGAsYHQ/s135/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-idPoZdPWkDY/X4s9TcYBszI/AAAAAAABqd0/8J_QavK0HAkPj7fSkX51B9nQPwbjLNlTwCLcBGAsYHQ/s135/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-DG0lTAx-tak/X4s9Tp4cYlI/AAAAAAABqd4/Ijgbd3zt508Wwj1BeF5xVz5Xe2cI3R3DQCLcBGAsYHQ/s135/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EhPvyCyPhQg/X4s9TzmTpqI/AAAAAAABqd8/zHYhO2MQScA2l3CVNyg5s-_WCkLw9xHyQCLcBGAsYHQ/s135/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4eFTzqZAzEc/X4s9UJva8DI/AAAAAAABqeA/A6PAxUdTTFcNSAo0p_vcY26N1Btv834PACLcBGAsYHQ/s135/1341-Hanako-kun-Toilet-bound-Hanako-kun-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1341/",
+      "fetched_at": "2026-05-16T19:10:33.370Z",
+      "raw_id": "/nendoroid/details/n1341/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.643Z",
+      "raw_id": "Nendoroid/1300-1399/1341.json"
+    }
+  ]
+}

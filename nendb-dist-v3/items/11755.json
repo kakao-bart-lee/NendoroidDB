@@ -1,0 +1,55 @@
+{
+  "num": "11755",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Victor: If Time Flows Back Ver.)",
+    "ja": "ねんどろいどどーる おようふくセット ゼン 似水年華Ver. (ねんどろいどどーる おようふくせっと ぜん しすいねんかVer.)",
+    "ko": "이택언 사수연화 Ver."
+  },
+  "series": {
+    "en": "Mr. Love: Queen's Choice",
+    "ja": "恋とプロデューサー～EVOL×LOVE～",
+    "ko": "러브앤프로듀서",
+    "code": "mr-love-queen-s-choice"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-07",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11755,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210907/11755/89660/large/e011205a259a310d3bb1863d36fb7a68.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.954Z",
+      "raw_id": "NendoroidDoll/Doll/11755.json"
+    }
+  ]
+}

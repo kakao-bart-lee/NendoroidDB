@@ -1,0 +1,69 @@
+{
+  "num": "1821",
+  "name": {
+    "en": "Nendoroid Shirakami Fubuki",
+    "ja": "ねんどろいど 白上フブキ (ねんどろいど しらかみふぶき)",
+    "ko": "시라카미 후부키"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7299,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12309,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Ylm8XHcWD34/YhAE7MN--pI/AAAAAAAA3l8/6UzGnQKO5Kkub-7mmzfomcaeVCsF4IEVQCNcBGAsYHQ/s270/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Ylm8XHcWD34/YhAE7MN--pI/AAAAAAAA3l8/6UzGnQKO5Kkub-7mmzfomcaeVCsF4IEVQCNcBGAsYHQ/s270/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZwkVnfXOGbk/YhAMeTN60JI/AAAAAAAA3yU/vag2Dj0bdAU6TBfMa1nSqP0Im9ZsVTfUgCNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-BPo_Wg3a4Cw/YhAMelXkVzI/AAAAAAAA3yY/SIr9L5HyNE0c792AIof5Uh6hgKdIG5LZQCNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eAmn9XDUdqo/YhAMe-bughI/AAAAAAAA3yc/LD7-YE3i85wpE5QCiiTVDSYn6fZ8VfMHQCNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-NCfB_IYCOsE/YhAMfKDi1nI/AAAAAAAA3yg/98fo90DUqjMJM1K5IUhX1ZL24gVI62q9ACNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-a9XLL6RkLIQ/YhAMfkHyHSI/AAAAAAAA3yk/S7XVIlFziAE3AkqlpuRPZAciFdOCE-TkACNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-d_DoxueeAf4/YhAMfw5QdeI/AAAAAAAA3ys/PZRCFJeWmiIU_fBMFY0sVc20jMClGU9EwCNcBGAsYHQ/s135/1821-Shirakami-Fubuki-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1821/",
+      "fetched_at": "2026-05-16T19:10:33.668Z",
+      "raw_id": "/nendoroid/details/n1821/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.759Z",
+      "raw_id": "Nendoroid/1800-1899/1821.json"
+    }
+  ]
+}

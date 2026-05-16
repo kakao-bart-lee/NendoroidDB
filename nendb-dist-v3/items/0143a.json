@@ -1,0 +1,67 @@
+{
+  "num": "0143a",
+  "name": {
+    "en": "Nendoroid Risty (ねんどろいど りすてぃ)",
+    "ja": "ねんどろいど リスティ (ねんどろいど りすてぃ)",
+    "ko": "리스티"
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3013,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-86l5MGiItj0/X4NJ8PPIALI/AAAAAAABlQo/II4nrjxnkKYpXrt1aVtYK443SOKo4s6JQCLcBGAsYHQ/s270/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-86l5MGiItj0/X4NJ8PPIALI/AAAAAAABlQo/II4nrjxnkKYpXrt1aVtYK443SOKo4s6JQCLcBGAsYHQ/s270/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U2OYA0HHeg0/X4dS4oK_aLI/AAAAAAAAp7U/M40WPhV2EysJfjwb-ojFnxgsZZQlKZaDgCLcBGAsYHQ/s135/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Lr87R3lY-xs/X4dS5DDicsI/AAAAAAAAp7Y/Kn4UklSTZw8etuIJVf-89GNkmuKlbAT7gCLcBGAsYHQ/s135/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZZqBCfSE8OQ/X4dS5mQAUKI/AAAAAAAAp7c/xOVkCTtz9kIJG3stAGyaCJTPIjO_0Wt1gCLcBGAsYHQ/s135/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-rAUUiFPtq0k/X4dS56Ve57I/AAAAAAAAp7g/jdhNInakswI8zVjSaXIDL5WkOKFFr5V1ACLcBGAsYHQ/s135/143A-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n143a/",
+      "fetched_at": "2026-05-16T19:10:33.431Z",
+      "raw_id": "/nendoroid/details/n143a/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.300Z",
+      "raw_id": "Nendoroid/0100-0199/143a.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1067",
+  "name": {
+    "en": "Nendoroid Rimuru",
+    "ja": "ねんどろいど リムル (ねんどろいど りむる)",
+    "ko": "리무루"
+  },
+  "series": {
+    "en": "That Time I Got Reincarnated as a Slime",
+    "ja": "転生したらスライムだった件",
+    "ko": "전생했더니 슬라임이었던 건에 대하여",
+    "code": "that-time-i-got-reincarnated-as-a-slime"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7984,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gQVWeqhaKk4/X4Nf0_3c29I/AAAAAAABmVk/ntNss-HKTm0-GvVwmgItwxGYBGkHK-N3gCLcBGAsYHQ/s270/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gQVWeqhaKk4/X4Nf0_3c29I/AAAAAAABmVk/ntNss-HKTm0-GvVwmgItwxGYBGkHK-N3gCLcBGAsYHQ/s270/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-s0sOp0TGApo/X4rsvzcN0iI/AAAAAAABorM/jtYZfwinmbQFlsfRVXxdNTq42VEq9ET6QCLcBGAsYHQ/s135/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-x2vg-ufIhJI/X4rsvx6jBTI/AAAAAAABorQ/OrT64-jRc2YFKfmg_hZTO-Nw1FenZ-uTwCLcBGAsYHQ/s135/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Pgq2VQZS5sY/X4rswNtX-hI/AAAAAAABorU/iReTAqisR-wZoBi5DH4puLCE3xU1cm8XQCLcBGAsYHQ/s135/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Rq1UvshXEG0/X4rswWQSDJI/AAAAAAABorY/C6H1RI0FKdAdkOWAnXfgzaz3n99EdSg8gCLcBGAsYHQ/s135/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Kbaz-39cMj0/X4rsw9NfjTI/AAAAAAABorc/BQzpRjJJAZUmeXqgdTZqYDr3e6PMexOLACLcBGAsYHQ/s135/1067-Rimuru-That-Time-I-Got-Reincarnated-as-a-Slime-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1067/",
+      "fetched_at": "2026-05-16T19:10:33.195Z",
+      "raw_id": "/nendoroid/details/n1067/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.577Z",
+      "raw_id": "Nendoroid/1000-1099/1067.json"
+    }
+  ]
+}

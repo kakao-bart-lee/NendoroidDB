@@ -1,0 +1,68 @@
+{
+  "num": "0235",
+  "name": {
+    "en": "Nendoroid Sakura Shinguji & Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ja": "ねんどろいど 真宮寺さくら&光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ko": "신구지 사쿠라&광무 세트"
+  },
+  "series": {
+    "en": "Sakura Wars",
+    "ja": "サクラ大戦",
+    "ko": "사쿠라 대전",
+    "code": "sakura-wars"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3487,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-neQxb4JkMjU/X4NLNSyGmoI/AAAAAAABlXY/BSldfJSfqJ0s4AoUYBd3jDSGfXtF5FyngCLcBGAsYHQ/s270/235-Sakura%2BShinguji-Koubu-Sakura%2BWars-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-neQxb4JkMjU/X4NLNSyGmoI/AAAAAAABlXY/BSldfJSfqJ0s4AoUYBd3jDSGfXtF5FyngCLcBGAsYHQ/s270/235-Sakura%2BShinguji-Koubu-Sakura%2BWars-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Fl17JZdp4HE/X4dXa6mZDoI/AAAAAAAAqcw/rhVnYbw_cYYaeIXTqWPQ4cCdzUWLtubyQCLcBGAsYHQ/s135/235-Sakura-Shinguji-and-Koubu-Sakura-Wars-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WbKobnimssI/X4dXbOOkk5I/AAAAAAAAqc0/6calF6hLCVQ_qYT-x3b9qPrPYkVHymcPgCLcBGAsYHQ/s135/235-Sakura-Shinguji-and-Koubu-Sakura-Wars-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-b2Z_vEUjTg8/X4dXbTyQ15I/AAAAAAAAqc4/G0OdEPDgB8oY08CTqaQbtEwDbySTRjn2QCLcBGAsYHQ/s135/235-Sakura-Shinguji-and-Koubu-Sakura-Wars-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6EjcBArfRvI/X4dXba1Y7KI/AAAAAAAAqc8/ngQEKUBOHOcsGVVoCNhAeO89Mp89YHZ2QCLcBGAsYHQ/s135/235-Sakura-Shinguji-and-Koubu-Sakura-Wars-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5V6oWlqCI3s/X4dXb9noH4I/AAAAAAAAqdA/EVcsEQQHhtgySm4Y4Xjs5JwpcDxoW6HXgCLcBGAsYHQ/s135/235-Sakura-Shinguji-and-Koubu-Sakura-Wars-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n235/",
+      "fetched_at": "2026-05-16T19:10:34.009Z",
+      "raw_id": "/nendoroid/details/n235/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.329Z",
+      "raw_id": "Nendoroid/0200-0299/235.json"
+    }
+  ]
+}

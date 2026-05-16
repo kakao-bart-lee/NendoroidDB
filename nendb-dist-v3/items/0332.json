@@ -1,0 +1,67 @@
+{
+  "num": "0332",
+  "name": {
+    "en": "Nendoroid Madoka Kaname: Maiko Ver. (ねんどろいど かなめまどか まいこVer.)",
+    "ja": "ねんどろいど 鹿目まどか 舞妓Ver. (ねんどろいど かなめまどか まいこVer.)",
+    "ko": "카나메 마도카 마이코 Ver."
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3981,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3932,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dWspeiAuGdY/X4NMtK-LXLI/AAAAAAABlhY/NVYx3B13qVQE-_ZgefXJjgTN36bAi4b8ACLcBGAsYHQ/s270/332-Kaname-Madoka-Maiko-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dWspeiAuGdY/X4NMtK-LXLI/AAAAAAABlhY/NVYx3B13qVQE-_ZgefXJjgTN36bAi4b8ACLcBGAsYHQ/s270/332-Kaname-Madoka-Maiko-Puella-Magi-Madoka-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NJsI1wTYwD4/X4daevUPAGI/AAAAAAAAq9w/rdOXO4kndaMs3cq3AtdCZDC4CZVpdAkngCLcBGAsYHQ/s135/332-Madoka-Kaname-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-r3uI99F8t7w/X4dae7fuodI/AAAAAAAAq90/nDf9k-n2rUclRVTFaSwzoyO8LoPh-8eZgCLcBGAsYHQ/s135/332-Madoka-Kaname-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-FddlMMKEoDg/X4dae2SSmEI/AAAAAAAAq94/ncNoY44r1YEntpT2vrFhMZC7_vdRPJ4dgCLcBGAsYHQ/s135/332-Madoka-Kaname-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-H4jCHNSIU1E/X4dafBWLtpI/AAAAAAAAq98/RWf0RjOVvNMrDCwSJ_rFQkXgxdv9kNyywCLcBGAsYHQ/s135/332-Madoka-Kaname-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n332/",
+      "fetched_at": "2026-05-16T19:10:34.466Z",
+      "raw_id": "/nendoroid/details/n332/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.353Z",
+      "raw_id": "Nendoroid/0300-0399/332.json"
+    }
+  ]
+}

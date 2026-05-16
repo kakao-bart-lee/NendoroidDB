@@ -1,0 +1,68 @@
+{
+  "num": "0928",
+  "name": {
+    "en": "Nendoroid Kagura",
+    "ja": "ねんどろいど 神楽 (ねんどろいど かぐら)",
+    "ko": "카구라"
+  },
+  "series": {
+    "en": "Onmyoji",
+    "ja": "陰陽師",
+    "ko": "음양사",
+    "code": "onmyoji"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7448,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-UYOPFI8dqZ8/X4NekaqqHTI/AAAAAAABmLg/1pnaIHoWBWQN-HRHyyrrYu1sq4yFRV6RwCLcBGAsYHQ/s270/928-Kagura-Onmyoji-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UYOPFI8dqZ8/X4NekaqqHTI/AAAAAAABmLg/1pnaIHoWBWQN-HRHyyrrYu1sq4yFRV6RwCLcBGAsYHQ/s270/928-Kagura-Onmyoji-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-n7yOzgS3RxA/X4rn-1DKRTI/AAAAAAABnyo/M_Czpbgb8k0exgTy0ecz5DVvLFj0jl0fACLcBGAsYHQ/s135/928-Kagura-Onmyoji-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dlbJuc-Rsl0/X4rn_O1D-zI/AAAAAAABnys/BaRk5heGRdQ8QfnGCA_TSQ_qgxp-9p3EQCLcBGAsYHQ/s135/928-Kagura-Onmyoji-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Fk7IC4NPLNg/X4rn_S3L6xI/AAAAAAABnyw/jUzjfq-Jw7gF7XprjduQ0uPIPH-tyOHBACLcBGAsYHQ/s135/928-Kagura-Onmyoji-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LB9Sjt-AkgI/X4rn_unNi5I/AAAAAAABny0/GdOyU-oiK7AyojUX-wNGTtjMwyZ7_uytACLcBGAsYHQ/s135/928-Kagura-Onmyoji-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-62lhk63TPLo/X4rn_4cWw7I/AAAAAAABny4/4eQVgB9pDCgUq3R4waUY4SB_gEpJUUd6gCLcBGAsYHQ/s135/928-Kagura-Onmyoji-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n928/",
+      "fetched_at": "2026-05-16T19:10:34.878Z",
+      "raw_id": "/nendoroid/details/n928/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.541Z",
+      "raw_id": "Nendoroid/0900-0999/928.json"
+    }
+  ]
+}

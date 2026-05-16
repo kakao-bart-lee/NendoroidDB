@@ -1,0 +1,70 @@
+{
+  "num": "1938",
+  "name": {
+    "en": "Nendoroid Anna Kyoyama",
+    "ja": "ねんどろいど 恐山 アンナ (ねんどろいど きょうやま あんな)",
+    "ko": "쿄우야마 안나"
+  },
+  "series": {
+    "en": "SHAMAN KING",
+    "ja": "SHAMAN KING",
+    "ko": "샤먼킹",
+    "code": "shaman-king"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13198,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iyEGaQXZPq8/Y02v9ay2Z3I/AAAAAAAA6-8/ye5SP0CsGC4bkCnQwoROEMeYoi88mbghQCNcBGAsYHQ/s270/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iyEGaQXZPq8/Y02v9ay2Z3I/AAAAAAAA6-8/ye5SP0CsGC4bkCnQwoROEMeYoi88mbghQCNcBGAsYHQ/s270/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-raVn8Yvcqbs/Y027PQbCrVI/AAAAAAAA7Ps/AyRMSEgLyw0Vn5jTi2z_V936g71_L1mNwCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-nGJApsR8Bco/Y027P2rx8aI/AAAAAAAA7Pw/ezuMxPyxlwgfsZp-4VZPJtsIcWwm-SlnQCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LNY-pbFHXRQ/Y027QUDu47I/AAAAAAAA7P0/EC0X_RrpDXgy33JVUnB2swKC4fhSwZaswCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-15md7yWsMdM/Y027Q8rNQGI/AAAAAAAA7P4/ANxEKlRye2Y29o-HWktg7TansvwFfxitQCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ebNNafnwgOc/Y027RZ24mxI/AAAAAAAA7P8/YqRuC4xZbV8gOFuq2ghwHFtNXytU89wKwCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-_o69QrJAJfw/Y027RyeRAtI/AAAAAAAA7QA/8mLMGiOihJgjWhvvaWrzAGxJOQW1Wbs5QCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-k-9a_3sjVSs/Y027SZlFS2I/AAAAAAAA7QE/_JWQknZLkgY1HtKSd1ElinAiU4NyzObMgCNcBGAsYHQ/s135/1938-Anna-Kyoyama-Shaman-King-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1938/",
+      "fetched_at": "2026-05-16T19:10:33.741Z",
+      "raw_id": "/nendoroid/details/n1938/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.786Z",
+      "raw_id": "Nendoroid/1900-1999/1938.json"
+    }
+  ]
+}

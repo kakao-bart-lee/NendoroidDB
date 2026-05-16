@@ -1,0 +1,67 @@
+{
+  "num": "0692",
+  "name": {
+    "en": "Nendoroid You Watanabe",
+    "ja": "ねんどろいど 渡辺 曜 (ねんどろいど わたなべ よう)",
+    "ko": "와타나베 요우"
+  },
+  "series": {
+    "en": "LoveLive!Sunshine!!",
+    "ja": "ラブライブ！サンシャイン!!",
+    "ko": "러브라이브! 선샤인!!",
+    "code": "lovelive-sunshine"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3565,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6060,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DXIW-TuYKtc/X4NQAN4zuyI/AAAAAAABl6M/vsNf2eiIdR49g9MQuj99XmhgqhJXFzD2gCLcBGAsYHQ/s270/692-You-Watanabe-LoveLive-Sunshine-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DXIW-TuYKtc/X4NQAN4zuyI/AAAAAAABl6M/vsNf2eiIdR49g9MQuj99XmhgqhJXFzD2gCLcBGAsYHQ/s270/692-You-Watanabe-LoveLive-Sunshine-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-xCqYgE9RFW8/X4i2AV-k4tI/AAAAAAAAtBA/DrHNpcnt0gEaIe3PPPa9J3XFjV31tai_wCLcBGAsYHQ/s135/692-You-Watanabe-LoveLiveSunshine-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-0ogbsyS1vQ0/X4i2A8GCWvI/AAAAAAAAtBE/LJ2xonCYsnw6Sw5lLMVJIagEi8SxKkSRACLcBGAsYHQ/s135/692-You-Watanabe-LoveLiveSunshine-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-b6dNFZjLhrw/X4i2BbloVHI/AAAAAAAAtBI/CxUCmysaUmwjNmsXYzHnpezk6bXKwi35ACLcBGAsYHQ/s135/692-You-Watanabe-LoveLiveSunshine-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-xJFpskxL7eU/X4i2B1TZYpI/AAAAAAAAtBM/g2_rAF2eYjAULKB43U68kjesAEP2AG7wgCLcBGAsYHQ/s135/692-You-Watanabe-LoveLiveSunshine-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n692/",
+      "fetched_at": "2026-05-16T19:10:34.745Z",
+      "raw_id": "/nendoroid/details/n692/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.484Z",
+      "raw_id": "Nendoroid/0600-0699/692.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0815",
+  "name": {
+    "en": "Nendoroid Lancer/Jeanne d'Arc Alter Santa Lily",
+    "ja": "ねんどろいど ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ (ねんどろいど らんさー/じゃんぬ・だるく・おるた・さんた・りりぃ)",
+    "ko": "랜서/잔 다르크 얼터 산타 릴리"
+  },
+  "series": {
+    "en": "Fate/Grand Order",
+    "ja": "Fate/Grand Order",
+    "ko": "페이트 시리즈",
+    "code": "fate-grand-order"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6642,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jbF4JUCKJBA/X4Ndt_YOrNI/AAAAAAABmDk/jsgx9djvfn8HpcMNvig6bjWu1sld2nbgQCLcBGAsYHQ/s270/815-Lancer-Jeanne-D-Arc-Santa-Lily-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jbF4JUCKJBA/X4Ndt_YOrNI/AAAAAAABmDk/jsgx9djvfn8HpcMNvig6bjWu1sld2nbgQCLcBGAsYHQ/s270/815-Lancer-Jeanne-D-Arc-Santa-Lily-Fate-Grand-Order-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-CcfrxCoLGLM/X4riQEc5tfI/AAAAAAABnEs/w0HFQBtRcKkYhC7b8q0lzQT-ch6McaXwQCLcBGAsYHQ/s135/815-Lancer-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-dX0X8K9aLlU/X4riQQd3jSI/AAAAAAABnEw/YBRAmakzCpItSi9QKAo0ipBfcHjOR7QNQCLcBGAsYHQ/s135/815-Lancer-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PMSOnJAqVCo/X4riQntEiQI/AAAAAAABnE0/n94W8rDN1ncQWLRGJ4Uc5mT1Gcm2vhrNwCLcBGAsYHQ/s135/815-Lancer-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ajZH31HV7Fg/X4riQz_m2kI/AAAAAAABnE4/4kTPmxgpXkQipzqh1gU18wVwSn79dWZ3QCLcBGAsYHQ/s135/815-Lancer-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k1--Z7livB4/X4riRD_YO6I/AAAAAAABnE8/a9Y_DB8aTXgjicBkDpoIPuLAP5-3yeZ4gCLcBGAsYHQ/s135/815-Lancer-Jeanne-dArc-Fate-Grand-Order-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n815/",
+      "fetched_at": "2026-05-16T19:10:34.816Z",
+      "raw_id": "/nendoroid/details/n815/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.514Z",
+      "raw_id": "Nendoroid/0800-0899/815.json"
+    }
+  ]
+}

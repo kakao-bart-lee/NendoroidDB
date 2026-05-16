@@ -1,0 +1,69 @@
+{
+  "num": "0242",
+  "name": {
+    "en": "Nendoroid Nano Shinonome (ねんどろいど しののめなの)",
+    "ja": "ねんどろいど 東雲なの (ねんどろいど しののめなの)",
+    "ko": "시노노메 나노"
+  },
+  "series": {
+    "en": "Nichijou",
+    "ja": "日常",
+    "ko": "일상",
+    "code": "nichijou"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3520,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-K8YGGjM_66I/X4NLPSDrfSI/AAAAAAABlX0/oyky8PuoOYQOqPuHmzYIHtO4Z8pgOf_dACLcBGAsYHQ/s270/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-K8YGGjM_66I/X4NLPSDrfSI/AAAAAAABlX0/oyky8PuoOYQOqPuHmzYIHtO4Z8pgOf_dACLcBGAsYHQ/s270/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-vvg0CWURWd0/X4dXhGGxlNI/AAAAAAAAqew/PNmpu5jql9Uwen8zESqdD8ntafyPICruACLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-2FzNA0uTnt8/X4dXhqj55BI/AAAAAAAAqe0/afSMXFdV_3wM0CDr8-V5IR3Foo2BaKN6gCLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d7HUSXnIsk8/X4dXhjgro5I/AAAAAAAAqe4/mKn7A1OcJc4lZ_msgDzHxKxIGgCQzP0ZQCLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-L_copaQumt0/X4dXhzhyYDI/AAAAAAAAqe8/q8lfHGcNVy8rCfSm5IqS4SDKnjkPJ5m7wCLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-m8QffLysiP8/X4dXiVOMNnI/AAAAAAAAqfA/SQT4OtwWnosaQZf-dZFYFOWkvVTfvtlMwCLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-1-RIn4zanDE/X4dXihRs7GI/AAAAAAAAqfE/u7D7CroNN98vDVeSML9o2yKQclyK7FuEQCLcBGAsYHQ/s135/242-Shinonome-Nano-Nichijyou-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n242/",
+      "fetched_at": "2026-05-16T19:10:34.052Z",
+      "raw_id": "/nendoroid/details/n242/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.331Z",
+      "raw_id": "Nendoroid/0200-0299/242.json"
+    }
+  ]
+}

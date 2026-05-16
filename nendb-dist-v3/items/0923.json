@@ -1,0 +1,67 @@
+{
+  "num": "0923",
+  "name": {
+    "en": "Nendoroid Captain America: Infinity Edition",
+    "ja": "ねんどろいど キャプテン・アメリカ インフィニティ・エディション (ねんどろいど きゃぷてん・あめりか いんふぃにてぃ・えでぃしょん)",
+    "ko": "캡틴 아메리카 어벤져스 인피니티 워 에디션"
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7230,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lTAxg3Tb7yA/X4NejKdMtGI/AAAAAAABmLM/IwvwSJT2e2I-TCUclDUyOlcQk3OgUwoCQCLcBGAsYHQ/s270/923-Captain-America-Infinity-Edition-Infinity-War-Marvel-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lTAxg3Tb7yA/X4NejKdMtGI/AAAAAAABmLM/IwvwSJT2e2I-TCUclDUyOlcQk3OgUwoCQCLcBGAsYHQ/s270/923-Captain-America-Infinity-Edition-Infinity-War-Marvel-1.jpg",
+      "https://1.bp.blogspot.com/--WsdWf2LqiE/X4rn2Fe0RaI/AAAAAAABnwk/oRqYKfMLwQwMonSNHz9vO82vqljTDPGwwCLcBGAsYHQ/s135/923-Captain-America-Avengers-Infinity-War-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-RakGM18jWiI/X4rn2WBTByI/AAAAAAABnwo/l0v2SKp5-2Uh0rd_SPYL-1zH5T12og9mwCLcBGAsYHQ/s135/923-Captain-America-Avengers-Infinity-War-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PGakkxuMtSg/X4rn2oHVleI/AAAAAAABnws/E-MJvfOx9XksS5Mc-Q_BWQhEoGeEqhrBACLcBGAsYHQ/s135/923-Captain-America-Avengers-Infinity-War-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MUfJnhRuPn0/X4rn24lEYrI/AAAAAAABnww/AqBr3OdTfcI6IaSzsrdB2cCY-SPp2xAJgCLcBGAsYHQ/s135/923-Captain-America-Avengers-Infinity-War-Marvel-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n923/",
+      "fetched_at": "2026-05-16T19:10:34.875Z",
+      "raw_id": "/nendoroid/details/n923/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.540Z",
+      "raw_id": "Nendoroid/0900-0999/923.json"
+    }
+  ]
+}

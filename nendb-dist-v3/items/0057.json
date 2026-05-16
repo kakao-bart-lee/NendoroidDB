@@ -1,0 +1,68 @@
+{
+  "num": "0057",
+  "name": {
+    "en": "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)",
+    "ja": "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
+    "ko": "미야후지 요시카"
+  },
+  "series": {
+    "en": "Strike Witches",
+    "ja": "ストライクウィッチーズ",
+    "ko": "스트라이크 위치스",
+    "code": "strike-witches"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4190,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2160,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-E-92PJFkxzQ/X4MR_xVIRkI/AAAAAAAApaM/hSu3vMWNZJMOfns7l4BMd-hms8mNme2AgCLcBGAsYHQ/s270/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-E-92PJFkxzQ/X4MR_xVIRkI/AAAAAAAApaM/hSu3vMWNZJMOfns7l4BMd-hms8mNme2AgCLcBGAsYHQ/s270/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BkF6cZ8zNOM/X4GwoDxD-uI/AAAAAAAApGY/jSaa1Wq8tAMchosIuGCOcl8znFgPIjAZQCLcBGAsYHQ/s135/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NGTEVF4AIbY/X4GwoY33OkI/AAAAAAAApGc/OoP4L2c1K2Aevv1QvYuqQ_rVE1FEmhI4ACLcBGAsYHQ/s135/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-124sbm7GEc4/X4GwocWXSFI/AAAAAAAApGg/MBeH0Zy6kjovqZ1GbAlH6g78TZAWwm3gACLcBGAsYHQ/s135/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FnSsmhSS0ac/X4Gwosf4DnI/AAAAAAAApGk/p-kmkCnrUD04s2qbG8P6K-q9FO7HAui1QCLcBGAsYHQ/s135/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8oSoyZyt0cY/X4Gwo4KKILI/AAAAAAAApGo/sQiUP6J04dgAKMFuJmOzUax3cLij8sWkQCLcBGAsYHQ/s135/057-Miyafuji-Yoshika-Strike-Witches-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n057/",
+      "fetched_at": "2026-05-16T19:10:33.101Z",
+      "raw_id": "/nendoroid/details/n057/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.277Z",
+      "raw_id": "Nendoroid/0000-0099/057.json"
+    }
+  ]
+}

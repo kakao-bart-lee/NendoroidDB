@@ -1,0 +1,92 @@
+{
+  "num": "2761",
+  "name": {
+    "en": "Ada Wong",
+    "ja": "ねんどろいど エイダ・ウォン",
+    "ko": null
+  },
+  "series": {
+    "en": "Resident Evil",
+    "ja": "バイオハザード RE:4",
+    "ko": null,
+    "code": "resident-evil"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "LU",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": "4571697182288",
+  "gsc_product_id": "1136298",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/1136298",
+    "ja": "https://www.goodsmile.com/ja/product/1136298"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136298/nc4zy5V0rdKitE2eTNs8b1GQ93xZBWPq.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNmkUuvRUgP_Jp0n3zBV0ugW4NJC9kHHIa0rL2hW5qWWkCq1BF2iPji6YDszAJnJv7FZ0bCs5x5vMUJ1VYD-s1JOP7673hJwzZQWz1m84zHMX6xin3x3PRm4dQrw7yFtLiWE4-XfQesOo5AXB8cXdDqb19eqd6GQdj0OKXridTDlIKd1vt6g1u-5ySJcSQ/s270/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf0Pxota5jEGchyphenhyphenZwkbPId7Mb0GvjZ2DcPqWyyCbZeM5VvxEFg5y-SLLr6cpYHVGFdohvvbo6n_BjILRzEMVrcSPF6WZ2GpT15yP9rTn0e-UXtMf6fbfFCzdh8KJcDsiHKLcaJNnA6MPNUzZm5XkvzoydjfF9Zlaee0HJ8flbZdVJhdSl0qZutgJz7HuPh/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDwWklSOomjp4J59bJtlyJDIzNe7D3ObTN5NqKkpqkviVEvsau1D7mEenFpbQBMpc1gZLB-WLPf3aSfNXW0VyW7VG84mApqn_cgxpDqzB-EtYmJM5aqya7ts3KVvjXqS4tdLtZmz9obxwyvE9Io5uzr6jRWjvgalZun4B5htEOgSWmWvimPf7pimSZuafd/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVU3BlRDwOztOrS5Ce-ERqO5NO8PbVnpc30RvR0udz01-bOjtENm5NwrsPXAHdu6x-H59ECfzfTWAv_4AY6eujl6ohs_Zp3kvJgq7QdOWmT8hc6pgJynpALGCdUaTXj-DkYMmoVA3RNJ8p9Wf8Wkp9JfyKM8JbUOtKlaq5P7ghzDDVWVThhOOt-5kAEM_P/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoMReRp2pS84cUriqMbyREEvl43gI8bOvobxquz_k20ezElMs7b1Y73hW733OO9l6eXo451hQSmdW3rq40YMcgcILTlAILEzRnhmSBKOBASiShDwnTwzfBzQ1-iCtDx7L-mfwnYlTQ3qckFrMs2h-v6Yv7fXt0jpnS3wArWx4meIZ3G2ntftF0MFyCps9/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9gmMXJfusRg-7oxr9AvEspfGN12LpfXr7uY27q0edwatcQ0ITZiQCtyMoSSyxgm2Nv2l7hOGYeMlnfGyihQ3geZMqHs4CXUyQxHPAAtcoIwUhLU8U2yGiDHsCLaeh9CctoyUikIrJjYf_eOmTySfy1QFy1tZm6jc7yb7KX29u-Q9KlnFAkIfDQBdvbVF/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqemD7ydWgUE-_9i9JTdBbfQy181KdcP1mpa-Tnh66K561bcHQkku8i17HARZHxAUb0awLBTdHnpBMnV834DAS04vcvbbOx0jot4ipVlIrkSJFdruZ5m5aK6wIWCff4VT5lkgfPXJsWIgK_DJPyhqMhC8sXEwGw_VYjklna4q_Kp7uS2kaRPfCo-TrnEa/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVr6MeISsf_eYUh0vNfqdwjBnH_nxjEacOSHlS3wVL_5J0F4eFY2M9oLjKQNEXg5n_wJh2CUY_chQ0bDg4ioNv6DxYYWzjKSUnxbYIh4mFDMGQOBKsHt0GVzMp0QT3Rr7YoBmPPvvs8z-Ac0jCR5111Y3RGVfnj8dyan4zdDcUyUFLtb5KT1NHJER34Y9Q/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz7lAT7felwCfzGO4D0U9uWlRu5OOEykF224DBkTE8g5054QGaH5xgS4lX1d2YYjju4BasxUMGavTblc7tChrte7HeSPDezvBvU20cfiA8DxHGQV2nXHEpWhU1_jL8SQ2MVEzVlDGKMX8PowhPzcOEuK0WE6TlNQYKWnbROWT5SlfDVV9JiooSHvIqISF1/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-7OffJY3MFVAIIvGOsvCRCpLtY6AXm09XoMDF5bOPp36WM2Av5eHwjU2NnzArpmdiWJpctOru08qXMUgrI2lcWkOT7fSdLcnvP85MCIxEgXeo_HFiUN4xjxCMudT_C4Yd2RcvANjM3DXdwTlnxD9E3bTnSfkZ5AkE4l2UoU6x1xm98gCgJV3EVS3Hqf0l/s135/2761-Ada-Wong-Resident-Evil-4-Video-Games-Nendoroid-11.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136298/13722d38572bab10ae14ca4fb8b3e5c4.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136298/nc4zy5V0rdKitE2eTNs8b1GQ93xZBWPq.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136298",
+      "price_local": 6800,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:55:48.611Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/1136298",
+      "fetched_at": "2026-05-16T11:55:48.611Z",
+      "raw_id": "1136298"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/1136298",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "1136298"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2761/",
+      "fetched_at": "2026-05-16T19:10:34.278Z",
+      "raw_id": "/nendoroid/details/n2761/"
+    }
+  ]
+}

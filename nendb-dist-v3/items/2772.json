@@ -1,0 +1,64 @@
+{
+  "num": "2772",
+  "name": {
+    "en": "Zuko",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Avatar",
+    "ja": null,
+    "ko": null,
+    "code": "avatar"
+  },
+  "category": "regular",
+  "nh_type": "Western Animation",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsr2FvY1nnxN_gysvI537wtXLFPi4t_33u1vm1KQtOpLeA84i9TXZnT-9yB_bR3motv15DtwHqBlY4L8fpMO2LElOwfJSBHcFeibDUrrcB4HNi05by2DXRun7c2fqI4gq4aO3GPCqKbDokGHNyxYNK2kiLfCiBk80-GkesDIicMytTx6E-GxaGOGIt3Ihh/s270/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-1.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsr2FvY1nnxN_gysvI537wtXLFPi4t_33u1vm1KQtOpLeA84i9TXZnT-9yB_bR3motv15DtwHqBlY4L8fpMO2LElOwfJSBHcFeibDUrrcB4HNi05by2DXRun7c2fqI4gq4aO3GPCqKbDokGHNyxYNK2kiLfCiBk80-GkesDIicMytTx6E-GxaGOGIt3Ihh/s270/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigI8fxP2fik7PSZk5QRDQ1KILzuA87CSA14lQ4Ga_k94GEruiD7CT9PGRo8anxEg_sTFR73Kyq18921L5bG7ECZ-S7CIJdNuylrutD3b9F-WHLOMULDrGulnqBMz9q8iVxyz5o4KYlvWKyb3K9UdvmX9DTF3Vw0SHEF4oUElqRCx4bdQFTRHGLXCeaBNTz/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgzOkX_68g5SiNSzAeDFx5DSmX5xxlzi54I6yM7soCHTJ0BRdJm7qVT_i91Jnu7OW1pBEQ5hJsEmTCVmBN-yuBMRObeDMYknl_OFzfNNFzl9A93IhMUgTj2kw6m3R4C48UHs3Hm3RNlsiYYsS9haBDTAsTG7Vkich8kEVCTS8M4FJzuUOYadhuPBYvimg/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYEqCQ5eNtIaExUXOXZjNM51BE_rnih-gaouDN0PrDvI63G6zYzlfmi0fX8jTquZ37e4wZUxjHo2wBVovTrzb4rNSZTErERNbyXT6UXfAcYL-bHilE-RvOkSLcmCAttWknEq431tEtMiPMry7BZg278w8Qhqpa_SalY42BEFc8IpkWFYN2fS6tbZom4Gy/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DyJ_yTPwmbeikuZl4X4P07gYQTxVvZGaoKUjxkUy_4oZwmCSdi_ELfEHyykYmkPbUhCWb2UBK-3jKjIjLIESFfb8UnqVUzdATRbE6Vdi0sg8pFWiWR1z6gq9XBMqfukd5SQI_ojHayHLkEksv-byfCVxySjnp65U2KpDX6PE3_ka6kl54g44bltbzziI/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWzVybN4heIKog-T2wYhovFHKHa-JGKnkGV7KOcBsIvpWJRSwnIqptcPVR0OlAL9OUWN2eoJHNZkcdpqexlpNxyGzM3xim8W4S2-b-W840pCcxT-B6hNOaFKNcsJ-xCi3pml3j3Hq4bK280Pcp3eXgjVTuY-5XxeApZX4m4AxLc1qiqpiyBI8S0XsKkYKK/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJWclUmhv7FYL_I3gnF3lp-AaGNFVWyuo8lS8-6uhFfRXYrKL1iuU1I3Cn67nBtmndBPUCDmt_A2faMjUqgYaQTDnuMWKe3czurLkVCOY4hcVMeO8S9N8QZfrSqlqormeltEeVuKecZwtB9pWIg2jdb8wYNtTwmiXzxMsSWt9crfxPp_D0_ku4UuqjoVXZ/s135/2772-Zuko-Avatar-The-Last-Airbender-Western-Animation-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2772/",
+      "fetched_at": "2026-05-16T19:10:34.285Z",
+      "raw_id": "/nendoroid/details/n2772/"
+    }
+  ]
+}

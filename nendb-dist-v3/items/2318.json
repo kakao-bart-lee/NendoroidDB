@@ -1,0 +1,63 @@
+{
+  "num": "2318",
+  "name": {
+    "en": "Akihiko Kaji",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Given",
+    "ja": null,
+    "ko": null,
+    "code": "given"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-snw7nSenFeM/ZZcfAxMa-RI/AAAAAAABDIc/Ee3ge8KPJz4CaM-GTN0s23E1a4l4AUqaQCNcBGAsYHQ/s270/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-snw7nSenFeM/ZZcfAxMa-RI/AAAAAAABDIc/Ee3ge8KPJz4CaM-GTN0s23E1a4l4AUqaQCNcBGAsYHQ/s270/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NhAAqpAbB64/ZZSL_v2ZRNI/AAAAAAABC5o/_65p0_yxopYZO3UHYEb9Lwpad36mKiABgCNcBGAsYHQ/s135/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bqfPhsJ06mg/ZZSL_85LHFI/AAAAAAABC5s/hzFuj-1nU0cUKLI1BAz6DQ1c8RSx0mP6wCNcBGAsYHQ/s135/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RrwQDfWNfmI/ZZSMARq50WI/AAAAAAABC5w/k8T2TAjDQ8c40Ybyj0SdX0yUN_WxwbSnACNcBGAsYHQ/s135/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ZuNSYk7dNMs/ZZSMAQIChZI/AAAAAAABC50/lNCZVHCZ0uI4vDrgkvfflsB_GkfeJqCcQCNcBGAsYHQ/s135/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-33-Ejhu9-qg/ZZSMBEzeU8I/AAAAAAABC54/XbJJfigEGWQ63HAOl8W_-4Tx3YX3WReSACNcBGAsYHQ/s135/2318-Akihiko-Kaji-Given-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2318/",
+      "fetched_at": "2026-05-16T19:10:33.983Z",
+      "raw_id": "/nendoroid/details/n2318/"
+    }
+  ]
+}

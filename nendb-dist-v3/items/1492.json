@@ -1,0 +1,67 @@
+{
+  "num": "1492",
+  "name": {
+    "en": "Nendoroid Vanellope",
+    "ja": "ねんどろいど ヴァネロペ (ねんどろいど ゔぁねろぺ)",
+    "ko": "바넬로피 본 슈위츠"
+  },
+  "series": {
+    "en": "Wreck-It Ralph",
+    "ja": "シュガー・ラッシュ",
+    "ko": "주먹왕 랄프",
+    "code": "wreck-it-ralph"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10252,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-c8ORATXPuoQ/X5LZoz-RV5I/AAAAAAAAt8A/pI2ED9aj-SwDSdPrsZJNJt8uceZJc_yEQCLcBGAsYHQ/s270/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-c8ORATXPuoQ/X5LZoz-RV5I/AAAAAAAAt8A/pI2ED9aj-SwDSdPrsZJNJt8uceZJc_yEQCLcBGAsYHQ/s270/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-NuKy7d_6YGc/X5LZWve8ZfI/AAAAAAAAt68/7yg4R2nitYoqIgBEOghTt7cfyUffyM5-gCLcBGAsYHQ/s135/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Xu5--CPQXMs/X5LZWrQX2jI/AAAAAAAAt7A/g9tM4k8tdXkmp8Y67Tq1rWLNRqz7MWAHwCLcBGAsYHQ/s135/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qu-O9P76UV4/X5LZW7RnsnI/AAAAAAAAt7E/xE5VVYChhoYSJEKG6kNd-9pqeeE6vrh3wCLcBGAsYHQ/s135/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q5aYconcEGI/X5LZXCH5N3I/AAAAAAAAt7I/pYS6Vt193Ws0KcXvdB6amHhQhjW1VgrFACLcBGAsYHQ/s135/1492-Vanellope-Wreck-it-Ralph-Disney-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1492/",
+      "fetched_at": "2026-05-16T19:10:33.463Z",
+      "raw_id": "/nendoroid/details/n1492/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.679Z",
+      "raw_id": "Nendoroid/1400-1499/1492.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "1524",
+  "name": {
+    "en": "Nendoroid Minato Namikaze",
+    "ja": "ねんどろいど 波風ミナト (ねんどろいど なみかぜみなと)",
+    "ko": "나미카제 미나토"
+  },
+  "series": {
+    "en": "Naruto Shippuden",
+    "ja": "NARUTO -ナルト- 疾風伝",
+    "ko": "나루토",
+    "code": "naruto-shippuden"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10411,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PjCxNBZgo9k/X850-4nsWfI/AAAAAAAAu4c/NB7TOMMthuAPTzkSueWDoQzppuaGjA30ACLcBGAsYHQ/s270/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PjCxNBZgo9k/X850-4nsWfI/AAAAAAAAu4c/NB7TOMMthuAPTzkSueWDoQzppuaGjA30ACLcBGAsYHQ/s270/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-3JyNBdNFTZ8/X86Kv_IJLHI/AAAAAAAAu8M/A1iFWxp8aYwbb01c5OlAxU0kT6zohU4gwCLcBGAsYHQ/s135/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-YwZTPILP5NU/X86KwP4NiyI/AAAAAAAAu8Q/e8-1W2dp8FA2y93uSYm01A3ccbNKCsk2gCLcBGAsYHQ/s135/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-c7xQCCGkFgQ/X86KwZqXo3I/AAAAAAAAu8U/6q28rCP8ulklXpmIDMAR9DqVP0KLovVHwCLcBGAsYHQ/s135/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-yzCYk1N4r_M/X86KwSbassI/AAAAAAAAu8Y/y5MYAvLJyPMlcOend5-edZHSDHLbxjrLQCLcBGAsYHQ/s135/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-5Gk8YdH_DqI/X86Kwoe2pKI/AAAAAAAAu8c/MFgIGaArHeMy9VIRa76N1mT_S_vm3L7_QCLcBGAsYHQ/s135/1524-Minato-Namikaze-Naruto-Shippuden-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1524/",
+      "fetched_at": "2026-05-16T19:10:33.482Z",
+      "raw_id": "/nendoroid/details/n1524/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.687Z",
+      "raw_id": "Nendoroid/1500-1599/1524.json"
+    }
+  ]
+}

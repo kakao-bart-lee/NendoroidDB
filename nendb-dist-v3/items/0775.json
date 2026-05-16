@@ -1,0 +1,69 @@
+{
+  "num": "0775",
+  "name": {
+    "en": "Nendoroid Erwin Smith",
+    "ja": "ねんどろいど エルヴィン・スミス (ねんどろいど えるゔぃん・すみす)",
+    "ko": "엘빈 스미스"
+  },
+  "series": {
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人",
+    "ko": "진격의 거인",
+    "code": "attack-on-titan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6468,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-AyaJikxfryQ/X4NdGWqOymI/AAAAAAABmAM/1tO3lA1WoBEi5WFLWNK3rVQddhfOTPpdwCLcBGAsYHQ/s270/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-AyaJikxfryQ/X4NdGWqOymI/AAAAAAABmAM/1tO3lA1WoBEi5WFLWNK3rVQddhfOTPpdwCLcBGAsYHQ/s270/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-ZASAiOFVrbo/X4i5f1MWH0I/AAAAAAAAtho/HZXLVDVIvl0P7si35EOMxbQ5kVRMDDHkgCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Z7oVN4V0vpU/X4i5gIPzYVI/AAAAAAAAths/aWnlKpArUgEkUjSFv6dflCh_G6-nzcAxgCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M1Du_E393Z8/X4i5gdtkFFI/AAAAAAAAthw/4CzKPec0VOouXBe4OvwzmIW8eYbpJqZ-QCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Q2kiI6IkUl4/X4i5gnUDhaI/AAAAAAAAth0/UDXnz0Kx6iwT7JnV0UhLRD4sIkqSfb88gCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-MitqZqVKEl8/X4i5g5G0FwI/AAAAAAAAth4/c3f2cV6ys7Ux01e4rWTZruiJA5bQgjDsgCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-WLZExgY2oE0/X4i5hGSazkI/AAAAAAAAth8/lPmTKUfWils11XmNsO6-4EAr1DwVrxKzQCLcBGAsYHQ/s135/775-Erwin-Smith-Attack-on-Titan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n775/",
+      "fetched_at": "2026-05-16T19:10:34.791Z",
+      "raw_id": "/nendoroid/details/n775/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.505Z",
+      "raw_id": "Nendoroid/0700-0799/775.json"
+    }
+  ]
+}

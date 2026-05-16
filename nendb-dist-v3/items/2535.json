@@ -1,0 +1,62 @@
+{
+  "num": "2535",
+  "name": {
+    "en": "Bunzo",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Ramen Akaneko",
+    "ja": null,
+    "ko": null,
+    "code": "ramen-akaneko"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ZM7oSgPsDVk/Zor7k71q2RI/AAAAAAABFD4/Dnq8vm2lqpQhF9C-cRze8c8-d03QAra8QCNcBGAsYHQ/s270/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ZM7oSgPsDVk/Zor7k71q2RI/AAAAAAABFD4/Dnq8vm2lqpQhF9C-cRze8c8-d03QAra8QCNcBGAsYHQ/s270/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bKxSbCC1gDg/Zow-IqxBMDI/AAAAAAABGPk/sOuV6WK-EewR7d0JP0m-4Uq6HPYyOKc8gCNcBGAsYHQ/s135/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Q6HDhit7IJs/Zow9hIDgJCI/AAAAAAABGNI/KIroaaR6L7ErrYTPeIrmp8SgEkq-nhyWACNcBGAsYHQ/s135/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-MOQCk4MnOao/Zow9htDC9_I/AAAAAAABGNM/bdV-MpCy8tAzdtM8LvgM7RF6hnO_-ESKgCNcBGAsYHQ/s135/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-7_5qZZv3luQ/Zow9iFy8eYI/AAAAAAABGNQ/CyAZCKXyw2I7wrcZxiBW4DOtR-s4v-ibgCNcBGAsYHQ/s135/2535-Bunzo-Ramen-Akaneko-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2535/",
+      "fetched_at": "2026-05-16T19:10:34.119Z",
+      "raw_id": "/nendoroid/details/n2535/"
+    }
+  ]
+}

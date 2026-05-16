@@ -1,0 +1,69 @@
+{
+  "num": "0706",
+  "name": {
+    "en": "Nendoroid Boba Fett",
+    "ja": "ねんどろいど ボバ・フェット (ねんどろいど ぼば・ふぇっと)",
+    "ko": "보바 펫"
+  },
+  "series": {
+    "en": "Star Wars Episode 5: The Empire Strikes Back",
+    "ja": "スター・ウォーズ エピソード5／帝国の逆襲",
+    "ko": "스타워즈",
+    "code": "star-wars-episode-5-the-empire-strikes-back"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6080,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-I4SeDG1GGM4/X4NczfwmR5I/AAAAAAABl7s/lED8CSzpWDQbV0YxDOsnMhlgNimlLiGQgCLcBGAsYHQ/s270/706-Bobba-Fett-Star-Wars-Episode-5-Empire-Strikes-Back-Movies-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-I4SeDG1GGM4/X4NczfwmR5I/AAAAAAABl7s/lED8CSzpWDQbV0YxDOsnMhlgNimlLiGQgCLcBGAsYHQ/s270/706-Bobba-Fett-Star-Wars-Episode-5-Empire-Strikes-Back-Movies-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yMPMlvAaOVM/X4i3ZnjpbMI/AAAAAAAAtIc/E1QDe3Aa7korbYexeFcDhBeDBgWUCibYQCLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-OwXlNa_CLAw/X4i3ZxLGpOI/AAAAAAAAtIg/MRtjbH44PHc4BNXWrujiz3RS01Gtfp-_ACLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0NSc2Vd3PnY/X4i3aJ6n7gI/AAAAAAAAtIk/Hh3dxK6l0HU0L1dBjW4KfxsBsFHM0nHRQCLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d-CnlT8k73w/X4i3aVG9ScI/AAAAAAAAtIo/5mUOBZcBxUQJu1BkBLTfX6axoAYwzcZMACLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Ip7TQsf7iq4/X4i3aknixQI/AAAAAAAAtIs/5c6GyzxuMGwIPVevSVXaMoY8DZ-x9-UPgCLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-fWv37Y3jq_w/X4i3a2VmvhI/AAAAAAAAtIw/3f6X4JKT6eg5aZM_LVjTFRKVi-7u5GJ9wCLcBGAsYHQ/s135/706-Bobba-Fett-Star-Wars-The-Empire-Strikes-Back-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n706/",
+      "fetched_at": "2026-05-16T19:10:34.753Z",
+      "raw_id": "/nendoroid/details/n706/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.488Z",
+      "raw_id": "Nendoroid/0700-0799/706.json"
+    }
+  ]
+}

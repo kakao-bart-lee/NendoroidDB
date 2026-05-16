@@ -1,0 +1,67 @@
+{
+  "num": "0182",
+  "name": {
+    "en": "Nendoroid Homura Akemi (ねんどろいど あけみほむら)",
+    "ja": "ねんどろいど 暁美ほむら (ねんどろいど あけみほむら)",
+    "ko": "아케미 호무라"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3206,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5Y2gfcccK4Q/X4NKJkPrdPI/AAAAAAABlTY/2LBzbFSEQOY_UMejxJ_Jm2jLtMjHUE58wCLcBGAsYHQ/s270/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5Y2gfcccK4Q/X4NKJkPrdPI/AAAAAAABlTY/2LBzbFSEQOY_UMejxJ_Jm2jLtMjHUE58wCLcBGAsYHQ/s270/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-yGQvmCPZ1eA/X4dUDmJq9MI/AAAAAAAAqKM/03bj5LQwMLQ45mKbUwTFzbOJayx66qEMgCLcBGAsYHQ/s135/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-J9Ld7syxdXc/X4dUEM9fd1I/AAAAAAAAqKQ/h8vkjH82z8EdY7NDL3_eo5XZhudALqPdQCLcBGAsYHQ/s135/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LjfKmjGXw6E/X4dUEuB8BnI/AAAAAAAAqKU/j0MUw5-IDzchPJiA_oMyIoQUK7vkuElyACLcBGAsYHQ/s135/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ScuEUkaN5a4/X4dUFH7lN3I/AAAAAAAAqKY/apItGO9bCgYFa-rE8qYdwiydLFW7k7-bACLcBGAsYHQ/s135/182-Akemi-Homura-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n182/",
+      "fetched_at": "2026-05-16T19:10:33.673Z",
+      "raw_id": "/nendoroid/details/n182/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.311Z",
+      "raw_id": "Nendoroid/0100-0199/182.json"
+    }
+  ]
+}

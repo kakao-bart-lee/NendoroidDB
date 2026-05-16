@@ -1,0 +1,63 @@
+{
+  "num": "2515",
+  "name": {
+    "en": "Hiroshi Kamiya",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Aoni Production",
+    "ja": null,
+    "ko": null,
+    "code": "aoni-production"
+  },
+  "category": "regular",
+  "nh_type": "Celebrity",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Y7XUSA-IrXc/Znsoi35-5TI/AAAAAAABE4o/3oKp1UUImtk8ds5HbMudCSyZMW-ZMdhNwCNcBGAsYHQ/s270/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Y7XUSA-IrXc/Znsoi35-5TI/AAAAAAABE4o/3oKp1UUImtk8ds5HbMudCSyZMW-ZMdhNwCNcBGAsYHQ/s270/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-qIGoj1oiu38/Zow82FBFahI/AAAAAAABGH4/hjRAV-JfViUvK7RcyXjSafqTd3GTSXcpACNcBGAsYHQ/s135/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-zbWh7H1DNwE/Zow82kFmKEI/AAAAAAABGH8/b554xPssLqQcDVKftYUHeDL4cUmPFejmwCNcBGAsYHQ/s135/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-CflAulhkU98/Zow83AiOUoI/AAAAAAABGIA/gc536X96FxEsSLDhQ26qa3kaDKCovRrTgCNcBGAsYHQ/s135/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FJpsSGRcfpY/Zow83oUeubI/AAAAAAABGIE/Swy63En1iWUBFCskDgITA4PZLKBL01hZwCNcBGAsYHQ/s135/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Jre1K0ZQZzI/Zow84TWiNkI/AAAAAAABGII/WvMbqUvIsdUXdnej3JpOE2yhPKk-kzAUACNcBGAsYHQ/s135/2515-Hiroshi-Kamiya-Aoni-Production-Celebrity-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2515/",
+      "fetched_at": "2026-05-16T19:10:34.107Z",
+      "raw_id": "/nendoroid/details/n2515/"
+    }
+  ]
+}

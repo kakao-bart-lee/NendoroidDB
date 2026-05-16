@@ -1,0 +1,70 @@
+{
+  "num": "1792",
+  "name": {
+    "en": "Nendoroid Uruha Rushia",
+    "ja": "ねんどろいど 潤羽るしあ (ねんどろいど うるはるしあ)",
+    "ko": "우루하 루시아"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12223,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-LojWosEFarQ/YhAEyDoW3QI/AAAAAAAA3kc/rE6v36JYxwk8ANqESWAf4JOLiDa1_IQQgCNcBGAsYHQ/s270/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-LojWosEFarQ/YhAEyDoW3QI/AAAAAAAA3kc/rE6v36JYxwk8ANqESWAf4JOLiDa1_IQQgCNcBGAsYHQ/s270/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7uklU_Tcj68/YhALwiOV7MI/AAAAAAAA3n4/C7kTzEIDs649U2lyCmvQ7A8PLx2G-WaGgCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Htd7gcJ8zN4/YhALwyT_SPI/AAAAAAAA3n8/jnf2Pn-GOJwczQevlns45T2sI_X96MNjACNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-7LVYfVJ4l2A/YhALxKV5xPI/AAAAAAAA3oA/WUdWpyPwQK8R_Gy8mKM7yXdxKugym9aqgCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vfpAybdkgx8/YhALxVqbTjI/AAAAAAAA3oE/KoeAnZn7FdIqDEs3b_YLiNmtHBdBqJfUgCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-RcQ8r9E6R80/YhALxlpcqXI/AAAAAAAA3oI/4ozXHZ3iS_MIATliY5EC8PjSlimOCKrHQCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-B5hEDM6ZY2w/YhALxw39uJI/AAAAAAAA3oM/aWOetVMQjGgqBHkhWLFssVjy207ui4i6gCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-QQYKBQsPrEM/YhALyICrnjI/AAAAAAAA3oQ/XoKP7WAFt2IX2ZP2BQOVN7ZB4tGiruxtQCNcBGAsYHQ/s135/1792-Uruha-Rushia-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1792/",
+      "fetched_at": "2026-05-16T19:10:33.651Z",
+      "raw_id": "/nendoroid/details/n1792/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.752Z",
+      "raw_id": "Nendoroid/1700-1799/1792.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "2176",
+  "name": {
+    "en": "Nendoroid Chucky",
+    "ja": "ねんどろいど チャッキー (ねんどろいど ちゃっきー)",
+    "ko": "처키"
+  },
+  "series": {
+    "en": "Child's Play 2",
+    "ja": "チャイルド・プレイ2",
+    "ko": "사탄의 인형 2",
+    "code": "child-s-play-2"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8250,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14462,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0t-gw10s0SU/ZIzT8MvT8YI/AAAAAAAA-QU/4RMNalbYXykNJ1SUOTCzDqoigRqptErnACNcBGAsYHQ/s270/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0t-gw10s0SU/ZIzT8MvT8YI/AAAAAAAA-QU/4RMNalbYXykNJ1SUOTCzDqoigRqptErnACNcBGAsYHQ/s270/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-OGVzZzUuwfk/ZIzWN5P69pI/AAAAAAAA-ZI/89HphY-R5X0SKa7z__T3jNG8M0s3ldlIwCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZPMk4m34Ny4/ZIzWN41mXsI/AAAAAAAA-ZM/zKF06ZW0YgA13fRC8BhAB_IkyjvBzj6MgCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-TQpIzsGtvWQ/ZIzWOgqDc6I/AAAAAAAA-ZQ/35jQ6gZ77hcDjfDELH8T5imttnnjq1jMwCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-fZzMgCkHKJY/ZIzWPLM3vmI/AAAAAAAA-ZU/xedAlji77r80J2zwYPf1VR9MWsW9vLlPgCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-YL8lyTcnSkY/ZIzWPYPQKsI/AAAAAAAA-ZY/3-_KGGy7rjwiuSInhP135W_t3_lGVksVQCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-xtlP4xpzVIA/ZIzWPrCQrsI/AAAAAAAA-Zc/gkYQ-8XDKqo3NCWyzBqTsPNh4xQiNS0OQCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-Q1EE-7iYC3U/ZIzWPlSrbcI/AAAAAAAA-Zg/LdrR5MF6vv4oXbPi3xq7f445qdh77p1FwCNcBGAsYHQ/s135/2176-Chucky-Childs-Play-2-Movies-and-TV-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2176/",
+      "fetched_at": "2026-05-16T19:10:33.883Z",
+      "raw_id": "/nendoroid/details/n2176/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.847Z",
+      "raw_id": "Nendoroid/2100-2199/2176.json"
+    }
+  ]
+}

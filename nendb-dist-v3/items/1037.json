@@ -1,0 +1,69 @@
+{
+  "num": "1037",
+  "name": {
+    "en": "Nendoroid Iron Spider: Infinity Edition",
+    "ja": "ねんどろいど アイアン・スパイダー インフィニティ・エディション (ねんどろいど あいあん・すぱいだー いんふぃにてぃ・えでぃしょん)",
+    "ko": "스파이더맨 어벤져스 인피니티워 에디션"
+  },
+  "series": {
+    "en": "Avengers: Infinity War",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "ko": "어벤져스",
+    "code": "avengers-infinity-war"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7836,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oG8h_zxMMIg/X4NfpVo3bOI/AAAAAAABmTc/Rg6cx9m2fLEERqNMpAv6wE4rJH29R0RKwCLcBGAsYHQ/s270/1037-Spider-Man-Infinity-War-Edition-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oG8h_zxMMIg/X4NfpVo3bOI/AAAAAAABmTc/Rg6cx9m2fLEERqNMpAv6wE4rJH29R0RKwCLcBGAsYHQ/s270/1037-Spider-Man-Infinity-War-Edition-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-W37NK_g2csY/X4rr5GHLfTI/AAAAAAABofQ/XGNKqguYPmQtSTLR-kq6Ipm6kTd8aAkLQCLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-47NDuNE-_Mw/X4rr5ad5OHI/AAAAAAABofU/0hgAMCz9KA0i8LsKi8jZNFVi24cHqhr1ACLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ddJp8nihUGM/X4rr5eK3X5I/AAAAAAABofY/eukxncIb2pUIHgSNTx79SMWEZGAJhe3BQCLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Hfdkp3b9CMs/X4rr5sd-sWI/AAAAAAABofc/PpaXJlkglXgJ-ANm44zUq3mteYRsoYOmwCLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7a7moSETSuI/X4rr6BD2YJI/AAAAAAABofg/CK7gRIhEv5QCJOLEhFUO7e92sVGCgF5wgCLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/--kE-QT7JkZA/X4rr6V4xEFI/AAAAAAABofk/MtAZiXqXd9M4dOUP_ICmX6vNh2oUumFSgCLcBGAsYHQ/s135/1037-Spider-Man-Infinity-War-Marvel-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1037/",
+      "fetched_at": "2026-05-16T19:10:33.162Z",
+      "raw_id": "/nendoroid/details/n1037/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.570Z",
+      "raw_id": "Nendoroid/1000-1099/1037.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "num": "0925",
+  "name": {
+    "en": "Nendoroid Kratos",
+    "ja": "ねんどろいど クレイトス (ねんどろいど くれいとす)",
+    "ko": "크레토스"
+  },
+  "series": {
+    "en": "God of War",
+    "ja": "ゴッド・オブ・ウォー",
+    "ko": "갓 오브 워",
+    "code": "god-of-war"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7233,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-8Oz0IVMon64/X4Nejv29YcI/AAAAAAABmLU/-Dqk27kQAkslwNPoaOZSxO2zokuYiS5JQCLcBGAsYHQ/s270/925-Kratos-God-of-War-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-8Oz0IVMon64/X4Nejv29YcI/AAAAAAABmLU/-Dqk27kQAkslwNPoaOZSxO2zokuYiS5JQCLcBGAsYHQ/s270/925-Kratos-God-of-War-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-C-az2Fi1q74/X4rn64inanI/AAAAAAABnxw/Mk56w6NMgKA5v-exxNpyIffaIRr-MQx4QCLcBGAsYHQ/s135/925-Kratos-God-of-War-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-qvX2Ud81Tsw/X4rn7EG6h2I/AAAAAAABnx0/dzRhEKGiwXwfgqH3NvEcNgpZ5Eu23pqtACLcBGAsYHQ/s135/925-Kratos-God-of-War-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-x-CpULYB5Iw/X4rn7lbX4AI/AAAAAAABnx4/5HALTl1DrfYcP71iEOlm5c2uITLMuZRXQCLcBGAsYHQ/s135/925-Kratos-God-of-War-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-GBzEWFN0M-8/X4rn7vyTZ8I/AAAAAAABnx8/mFoA9lShcK0XmI2CnXofZB8Fm65N4tBnwCLcBGAsYHQ/s135/925-Kratos-God-of-War-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zY4onXXKCiY/X4rn8KXHb7I/AAAAAAABnyA/2wPSyviNDUA1PWzBE1K_HRDy9zWtfboTQCLcBGAsYHQ/s135/925-Kratos-God-of-War-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n925/",
+      "fetched_at": "2026-05-16T19:10:34.876Z",
+      "raw_id": "/nendoroid/details/n925/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.540Z",
+      "raw_id": "Nendoroid/0900-0999/925.json"
+    }
+  ]
+}

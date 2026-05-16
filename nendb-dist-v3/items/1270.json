@@ -1,0 +1,67 @@
+{
+  "num": "1270",
+  "name": {
+    "en": "Nendoroid Alex DeLarge",
+    "ja": "ねんどろいど アレックス (ねんどろいど あれっくす)",
+    "ko": "알렉스 드라지"
+  },
+  "series": {
+    "en": "A Clockwork Orange",
+    "ja": "時計じかけのオレンジ",
+    "ko": "시계태엽 오렌지",
+    "code": "a-clockwork-orange"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9180,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-oxO44kx2nNA/X4Nib8SxLhI/AAAAAAABmrE/LhqddIitR6gNbcjFCakOZZpR0Q0SgxDKACLcBGAsYHQ/s270/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-oxO44kx2nNA/X4Nib8SxLhI/AAAAAAABmrE/LhqddIitR6gNbcjFCakOZZpR0Q0SgxDKACLcBGAsYHQ/s270/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WXLGfh3Bsrw/X4r0fgv1_SI/AAAAAAABp-w/bDXAMHQyQqkOYBK93QKeV_-GpSn3D6LNQCLcBGAsYHQ/s135/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-9r7IcIPXa-c/X4r0foy8VbI/AAAAAAABp-0/ifnWcC6uRQYX-o-uxmJvAErz178AkdUTgCLcBGAsYHQ/s135/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-aHlP4tFx8-Q/X4r0f-OIEcI/AAAAAAABp-4/ZsO7PNXtM5Qv7jCXr0Wn2RThY1x3icClQCLcBGAsYHQ/s135/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-RhdOE_7r0vo/X4r0gWKIoiI/AAAAAAABp-8/vhzDKIEDgUoa9_wf47O7I1zrl5HuyXw8wCLcBGAsYHQ/s135/1270-Alex-DeLarge-A-Clockwork-Orange-Movies-and-TV-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1270/",
+      "fetched_at": "2026-05-16T19:10:33.325Z",
+      "raw_id": "/nendoroid/details/n1270/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.625Z",
+      "raw_id": "Nendoroid/1200-1299/1270.json"
+    }
+  ]
+}

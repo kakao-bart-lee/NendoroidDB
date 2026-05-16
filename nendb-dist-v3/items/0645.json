@@ -1,0 +1,69 @@
+{
+  "num": "0645",
+  "name": {
+    "en": "Nendoroid Genos: Super Movable Edition",
+    "ja": "ねんどろいど ジェノス スーパームーバブル・エディション (ねんどろいど じぇのす すーぱーむーばぶる・えでぃしょん)",
+    "ko": "제노스 슈퍼 무버블 에디션"
+  },
+  "series": {
+    "en": "ONE-PUNCH MAN",
+    "ja": "ワンパンマン",
+    "ko": "원펀맨",
+    "code": "one-punch-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5762,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jX8k6qwpGhg/X4NPxo-6U6I/AAAAAAABl3Q/ULmRfa2fH9YeE0zPYp-uBmVcCFPEa04JQCLcBGAsYHQ/s270/645-Genos-Super-Movable-Edition-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jX8k6qwpGhg/X4NPxo-6U6I/AAAAAAABl3Q/ULmRfa2fH9YeE0zPYp-uBmVcCFPEa04JQCLcBGAsYHQ/s270/645-Genos-Super-Movable-Edition-One-Punch-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MuA6cxHq3fs/X4i0riWSpLI/AAAAAAAAswA/9JcTxYuD9osjppo9atq6WeKdJap3Wdr8ACLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-tI8rK_fKg2k/X4i0r3lKKfI/AAAAAAAAswE/qeG4-Bhmy0wNRrw78ESk-6rLd8pSWP6qQCLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-tPKgBURWgIQ/X4i0sNf-rTI/AAAAAAAAswI/tha2gB6P7vADCtvBKSL_2zIc0lpU07uZQCLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-KIji6miqKLU/X4i0sYO5W3I/AAAAAAAAswM/8X70Sq-OSpIxMH310urDJhMM02uSqTUoQCLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-zVIo989OOkg/X4i0suJdkUI/AAAAAAAAswQ/FVXTf8C7n7wuFGpMfp6MY-CgRPy5VCqKACLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lR4x8A3ugDg/X4i0swLSyyI/AAAAAAAAswU/gA_omnaVjmodxRvRywX_IKkiqYKFo4BegCLcBGAsYHQ/s135/645-Genos-One-Punch-Man-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n645/",
+      "fetched_at": "2026-05-16T19:10:34.718Z",
+      "raw_id": "/nendoroid/details/n645/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.472Z",
+      "raw_id": "Nendoroid/0600-0699/645.json"
+    }
+  ]
+}

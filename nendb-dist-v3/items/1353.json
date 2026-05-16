@@ -1,0 +1,68 @@
+{
+  "num": "1353",
+  "name": {
+    "en": "Nendoroid Ristarte",
+    "ja": "ねんどろいど リスタルテ (ねんどろいど りすたるて)",
+    "ko": "리스타르테"
+  },
+  "series": {
+    "en": "Cautious Hero: The Hero Is Overpowered But Overly Cautious",
+    "ja": "慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～",
+    "ko": "이 용사가 ZZANG센 주제에 너무 신중하다",
+    "code": "cautious-hero-the-hero-is-overpowered-but-overly-cautious"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9566,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-kqS3FIdDWgc/X4NjxDGzqbI/AAAAAAABm2E/LT9yLBFAaPsbKAjEOfyBNyxXJ4iRsx4MACLcBGAsYHQ/s270/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-kqS3FIdDWgc/X4NjxDGzqbI/AAAAAAABm2E/LT9yLBFAaPsbKAjEOfyBNyxXJ4iRsx4MACLcBGAsYHQ/s270/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-WZD4kVRvghY/X4s9kHcP7VI/AAAAAAABqhg/nbz5NMNRVp0HNk3UawGPnUgQS0i6yl8hgCLcBGAsYHQ/s135/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-kqNf2uzB98k/X4s9kPp8MdI/AAAAAAABqhc/r-Adm04k3z8xDnbFO1l6SX94Sm30C5y8gCLcBGAsYHQ/s135/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZLIAl6-m64k/X4s9kaG5nJI/AAAAAAABqhk/pGEQ7OnevK447oWU4rDti_yL-UpPjvvCQCLcBGAsYHQ/s135/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-UNHn_Bxq234/X4s9kyIHd4I/AAAAAAABqho/wK2A3B2g1RgQn4LJT3kA3-hiO-3HPbLWwCLcBGAsYHQ/s135/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-1iH9xqDvPcQ/X4s9k-pkzvI/AAAAAAABqhs/_MW6ByBb7t01kWhOasYEsSkPqneH2cSXwCLcBGAsYHQ/s135/1353-Ristarte-Cautious-Hero-The-Hero-Is-Overpowered-But-Overly-Cautious-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1353/",
+      "fetched_at": "2026-05-16T19:10:33.377Z",
+      "raw_id": "/nendoroid/details/n1353/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.646Z",
+      "raw_id": "Nendoroid/1300-1399/1353.json"
+    }
+  ]
+}

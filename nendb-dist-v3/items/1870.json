@@ -1,0 +1,94 @@
+{
+  "num": "1870",
+  "name": {
+    "en": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2): Short Hair Ver.",
+    "ja": "ねんどろいど NieR:Automata A2（ヨルハA型二号） ショートヘアVer. (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう） しょーとへあVer.)",
+    "ko": "A2: 숏헤어 Ver."
+  },
+  "series": {
+    "en": "NieR:Automata",
+    "ja": "NieR:Automata",
+    "ko": "니어 오토마타",
+    "code": "nier-automata"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "SQUARE ENIX",
+  "sculptor": "toytec D.T.C",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": "4988601365512",
+  "gsc_product_id": "10417",
+  "gsc_product_num": 12732,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/10417",
+    "ja": "https://www.goodsmile.com/ja/product/10417"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220523/12732/99044/large/f6dbf58447d98bfc71580a301d25a45f.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-9cl0W7TXlYw/Yp4F43u9GfI/AAAAAAAB6ww/dDL28WWr2ZIplu3PXrdtcpWsZok68gCfgCNcBGAsYHQ/s270/1870-Automata-A2-NieR-Short-Hair-NieRAutomata-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SE7kGbdtW38/Yp4NP1xgIuI/AAAAAAAB61M/W2z0Q-uXDyQILE0s59yIBniIpJNYIfjPwCNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TFpRcHkhNbQ/Yp4NQSKczoI/AAAAAAAB61Q/N8u86-fHyCYrjZSb8A7d00iJ9jhRKLOvACNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-f7E8o822Zl8/Yp4NQUO6fyI/AAAAAAAB61U/hxXjnYAg2DYoQJOaMEPMeeorvNN2VjGUgCNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-_e_40-L0Lbs/Yp4NQpeKIEI/AAAAAAAB61Y/iBLtckookOUeFKZHzacVBzdXT44Vs_FpgCNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xzmwHW7wRVk/Yp4NQ89FXJI/AAAAAAAB61c/xv0tsicBn_Mpsp_MQRH1B5XqPCkB9RUTACNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mkOYYB6yfsY/Yp4NRB-nTDI/AAAAAAAB61k/InKtus99ZAE5zlEDxJUWBXEz9EQS5EdHACNcBGAsYHQ/s135/1870-Automata-A2-NieR-NieRAutomata-Video-Games-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220523/12732/99051/large/bf48e776858081f04078dc34c79d8add.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220523/12732/99044/large/f6dbf58447d98bfc71580a301d25a45f.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10417",
+      "price_local": 6600,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:51:06.790Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/10417",
+      "fetched_at": "2026-05-16T11:51:06.790Z",
+      "raw_id": "10417"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/10417",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "10417"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1870/",
+      "fetched_at": "2026-05-16T19:10:33.700Z",
+      "raw_id": "/nendoroid/details/n1870/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.771Z",
+      "raw_id": "Nendoroid/1800-1899/1870.json"
+    }
+  ]
+}

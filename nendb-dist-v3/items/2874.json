@@ -1,0 +1,91 @@
+{
+  "num": "2874",
+  "name": {
+    "en": "Kaeya",
+    "ja": "ねんどろいど ガイア",
+    "ko": null
+  },
+  "series": {
+    "en": "Genshin Impact",
+    "ja": "原神",
+    "ko": null,
+    "code": "genshin-impact"
+  },
+  "category": "other",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2026",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7200,
+  "gtin": "4580828664883",
+  "gsc_product_id": "21684",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/21684",
+    "ja": "https://www.goodsmile.com/ja/product/21684"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21684/0q3SptdZv1zmRbx2hasXGCUjeYBufW5F.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjene9KLjb7_syU1_M3Wz-GH3M7OMMvZYCvaE4zWQArnrs60sqZrsXqQ2yY48vJdtIEW1Xfqf10GNmTeoKemiMryEfFlnUjKEUvmKyY2rpd10Fs3po1LLd76RXXRYEYG8qZjjqYSVM9WwfuxiVuI1si3fBS4CfE5ZruS6U8EjREutWjEl-aFa-jmdFAoKR2/s270/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGSkZHwN-fzg_lWracOfzNyteqEehGX2EVi2W4-a-39TsJb0zObJ65a0yHqpatZPPhXrwnZ4bNgH9-WKDtPTW0ZRgpmX9evO2NKKRrzRyXYillDlytq8j4IvBX0DFvEkRXDH4CAGDQCovB9GoQg6Ja5cc8-oAJDYiXwCZfFML6DN11W1p3_8-DsAihV2a/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxtgMjDEpccjLkgQ0m-OMeitp6eXo-ohSlH4eM9hORbKM2yjLYcCQqEZQ22VCLUYCzxT8We6UUqexMq_BN7FjXcur37DoTJc1HleUNpnjJ892Q_Y2rsfvgeHwa_x_eBdSOXv8cZ6XMePxW6VvTEWWAc2RtHC18FNi8q2ykEgYk-6_L7_QddJ7vYzH8rS56/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp1x6MPRh0EDQJPfxD9Pk_IGF3JI63lVWo7rfD_Hq1aF50Al8lEUEBsdzl5TWKG9tL6nRsxc5DgtrINpVn-qBo8q0XHVuWhlQ8RybCnmhGvVaYATY8Mn_TIFzLWyxzUVEDNFU5BvcHwjqo_Ots3IVopfN_Pj2CSgIATG49iobllP10x9fD8zvOS35aNkXx/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzcOxDKmxzzWuKXVfsmMmSdGUPOPheFCMLkHjVvgaOZVKNiDE_UNIsYHO0lc9vSjRTVznmOhANxYvRGcPrzzcnXWRRqxYmre8b1lYdbebLIE5YdB3TBvjn1nhj4Z7fxjj_7MkyaaZyyFB-ZHgyYc097d4CXyVYBNsUfhzQyeXy1foaf0k1yGZd79PTyUi/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKQQS3_iQ83vv2hoTDtrFXbi4XhpTjsyiALHKqEp6_90A8rCNEKLLuAmkxzA87jgfqXUaBJE1Jbh9c_Tr1qAVICwakwdyi9VzdZ5F4njLE7E_EKHFPS2FTZWa8GmoM6NMMMC0Ie3MvqnkJ2NsenueWz254Fx322BLrZl8gxy51Nt2AQ5xfcaMYkxddiyiV/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rZC7YhxQf5a-pV3Dr7bOSXUCxZ2WrFTW0d6A_cvNYmCZ4hvklUv7qGM5ekaCJgfXaJcCdkjsoo0K97AIPJkklvAQN1ibhGl4glpfjtxNG2HlNgyU_L1_sgit068JVvSOtUDU0rQos0mf18wJzHjnfe7FqRlNIX2akZ0As9HU2r6p6_1ax-1UUUkwzgbW/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZwp8kXA4XZQKQhTtsCM7F4gXpMSfAEHKsRDhGrGgardcaxuWhRXVVwYIqoRcx2oWhgP0fkLa9PZmeXsniyxOOfZy61jM0LQmjfdEBg4rr1EkN5tsJLU68pXNmqSNnGWkZs1Uscv_qOMDB_GtKJMzNWxV3ba7qhARsdu6kjgAKX89BegkmhARJMeXKwEMi/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb-x6eg8z0R90Wer91d0oAbl2nzzaY_6ubaz9reFJVzvQ1aYCFl-3N0U0mb4oPqf8ITn81xSXhNkOEA8gIEgnlKwycLZeAjTEyHCcA_LVmTvsluodBscPNqoKibOCrxqp0VJVC2ov-lEVHTdTriPkhCXdFkWnMKq9mrox4XOHok9PieVuHgOXYA-RcrFdC/s135/2874-Kaeya-Genshin-Impact-Video-Games-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21684/DyYLSwE8g4iT6e2FHhRKmz03vNVAbj19.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21684/0q3SptdZv1zmRbx2hasXGCUjeYBufW5F.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/21684",
+      "price_local": 7200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:11:17.222Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/21684",
+      "fetched_at": "2026-05-16T12:11:17.222Z",
+      "raw_id": "21684"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/21684",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "21684"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2874/",
+      "fetched_at": "2026-05-16T19:10:34.365Z",
+      "raw_id": "/nendoroid/details/n2874/"
+    }
+  ]
+}

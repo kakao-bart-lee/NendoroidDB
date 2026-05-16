@@ -1,0 +1,93 @@
+{
+  "num": "0515",
+  "name": {
+    "en": "Nendoroid Mako Mankanshoku: Fight Club-Spec Two-Star Goku Uniform Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ja": "ねんどろいど 満艦飾マコ 喧嘩部特化型二つ星極制服 Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ko": "만칸쇼쿠 마코 싸움부 특화형! 2성 극교복 Ver."
+  },
+  "series": {
+    "en": "KILL la KILL",
+    "ja": "キルラキル",
+    "ko": "킬라킬",
+    "code": "kill-la-kill"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee, JUN (E.V.)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "ABS&非フタル酸系PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": "4580416900034",
+  "gsc_product_id": "2839",
+  "gsc_product_num": 5063,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/2839",
+    "ja": "https://www.goodsmile.com/ja/product/2839"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150610/5063/33991/large/344848f08ef86f43b5722544c7a1955e.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ev2sGdZZOBY/X4NOXAE-dWI/AAAAAAABluY/L31CAzFxPZAXrwNzf0lMuFVJhbRlOsbtgCLcBGAsYHQ/s270/515-Mako-Mankashoku-2-Star-Goku-Uniform-Kill-la-Kill-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-chZXruSgy4s/X4ir8Cr9KMI/AAAAAAAAr_U/x8gaNL6hFfwemg-CfTY_oklzimd8uPedACLcBGAsYHQ/s135/515-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-3g7mflC1zDA/X4ir8vKrJcI/AAAAAAAAr_Y/FDlb71mN1u06P-0ae7dCYCEU1kyPBHqOACLcBGAsYHQ/s135/515-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/--Lc1960bmLI/X4ir82juPlI/AAAAAAAAr_c/06rcEZOutEE3-P5n7OVA7Mm1kIlkN_mmwCLcBGAsYHQ/s135/515-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6vvgiRMxRDI/X4ir9KQ_5pI/AAAAAAAAr_g/4CV4TshraHI7TfZ5wXsW0ZA_EjhNOBjhwCLcBGAsYHQ/s135/515-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-xeByJlKNFtQ/X4ir9EEZh1I/AAAAAAAAr_k/HZ4m15k4RjEdByPfBaPAZAx43Kxk-Y-_gCLcBGAsYHQ/s135/515-Mako-Mankashoku-Kill-la-Kill-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150610/5063/33997/large/91e3effa02731b4a107e56f7bf460720.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20150610/5063/33991/large/344848f08ef86f43b5722544c7a1955e.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2839",
+      "price_local": 4584,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:49:21.830Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/2839",
+      "fetched_at": "2026-05-16T11:49:21.830Z",
+      "raw_id": "2839"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/2839",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "2839"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n515/",
+      "fetched_at": "2026-05-16T19:10:34.572Z",
+      "raw_id": "/nendoroid/details/n515/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.420Z",
+      "raw_id": "Nendoroid/0500-0599/515.json"
+    }
+  ]
+}

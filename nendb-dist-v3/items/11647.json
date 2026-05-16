@@ -1,0 +1,55 @@
+{
+  "num": "11647",
+  "name": {
+    "en": "Nendoroid Doll Chika Fujiwara",
+    "ja": "ねんどろいどどーる 藤原千花 (ねんどろいどどーる ふじわらちか)",
+    "ko": "후지와라 치카"
+  },
+  "series": {
+    "en": "Kaguya-sama: Love is War?",
+    "ja": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+    "ko": "카구야 님은 고백받고 싶어",
+    "code": "kaguya-sama-love-is-war"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11647,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210811/11647/88680/large/f403f0ed337c97342b5f5246fd69a1c1.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.954Z",
+      "raw_id": "NendoroidDoll/Doll/11647.json"
+    }
+  ]
+}

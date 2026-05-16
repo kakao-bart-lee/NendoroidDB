@@ -1,0 +1,69 @@
+{
+  "num": "1500",
+  "name": {
+    "en": "Nendoroid Chibi Maruko Chan",
+    "ja": "ねんどろいど ちびまる子ちゃん (ねんどろいど ちびまるこちゃん)",
+    "ko": "마루코"
+  },
+  "series": {
+    "en": "Chibi Maruko Chan",
+    "ja": "ちびまる子ちゃん",
+    "ko": "마루코는 아홉살",
+    "code": "chibi-maruko-chan"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10239,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-G07e5in_6G4/YA2BLIWXk9I/AAAAAAAAvc0/W6wgzbGaa1QueEhGRho_IDlYX0jE10FHgCLcBGAsYHQ/s270/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-G07e5in_6G4/YA2BLIWXk9I/AAAAAAAAvc0/W6wgzbGaa1QueEhGRho_IDlYX0jE10FHgCLcBGAsYHQ/s270/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-cn15nrKDYms/YA2Eap5LcrI/AAAAAAAAvgI/CeHpQkvIb3cjDLZMh3juWuz4gCedgFLbACLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-M4Rx0ptKVHE/YA2EawpryNI/AAAAAAAAvgM/1OPouybnDEcOfAK7DNu86sgry_WV8fFdQCLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZmKJQcvrXhw/YA2EbLHxgFI/AAAAAAAAvgQ/UsVTu81i2f0ShoH_aHmb6NWbc8zl_icdgCLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-gzaCufvhFNs/YA2EbdnhVkI/AAAAAAAAvgU/cmcuxzGGceYslSMrBqfSyAuyI_ykUML0ACLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-nthbIUowABk/YA2EbsMAX0I/AAAAAAAAvgY/GX6wWrBsjr4UZaHjOBX6YdtaftdHa95HACLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-5tb4nBbJz0Q/YA2Eb7Nz4GI/AAAAAAAAvgc/-eCwJIYCw9wn9BR5Q0whypVvUX_3vPmVACLcBGAsYHQ/s135/1500-Chibi-Maruko-chan-Chibi-Maruko-chan-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1500/",
+      "fetched_at": "2026-05-16T19:10:33.468Z",
+      "raw_id": "/nendoroid/details/n1500/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.681Z",
+      "raw_id": "Nendoroid/1500-1599/1500.json"
+    }
+  ]
+}

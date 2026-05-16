@@ -1,0 +1,69 @@
+{
+  "num": "1311",
+  "name": {
+    "en": "Nendoroid Nick Wilde",
+    "ja": "ねんどろいど ニック・ワイルド (ねんどろいど にっく・わいるど)",
+    "ko": "닉 와일드"
+  },
+  "series": {
+    "en": "Zootopia",
+    "ja": "ズートピア",
+    "ko": "주토피아",
+    "code": "zootopia"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9369,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-yRPVvgmDu9I/X4Njjv6t_aI/AAAAAAABmzg/KpfGsIoXBIU2jl6ufaKBr5oQcov4GKfKwCLcBGAsYHQ/s270/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-yRPVvgmDu9I/X4Njjv6t_aI/AAAAAAABmzg/KpfGsIoXBIU2jl6ufaKBr5oQcov4GKfKwCLcBGAsYHQ/s270/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SHD_eMzh2Lg/X4s8nxjIH_I/AAAAAAABqTY/xiRXWlGuoEEdX2D8JTvj4NWaK2OGQVmPgCLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ZsXTfaS3DbA/X4s8oPQXLlI/AAAAAAABqTc/1nB1J6UmkfABoMdGJFoYrzitgW67qI1bACLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-piw3iRrdj-k/X4s8oVWsD-I/AAAAAAABqTg/wZsLDik-LmY5oSrC-o1Wg7quxdiVcNo8ACLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--YHjODBu124/X4s8osI9s4I/AAAAAAABqTk/I7YXBGysDF08ynenTSXJAnvipOVyCIKbACLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rK2xOfKkMLY/X4s8o03reNI/AAAAAAABqTo/f-TPV1wyZ0UGRBrIiWl65Ri1LjPaA3PuwCLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-2Z4ajQx8Flk/X4s8pHY2ZII/AAAAAAABqTs/ruYh15F_OaU9RRTpIgzOEpWwMqTZweragCLcBGAsYHQ/s135/1311-Nick-Wilde-Zootopia-Disney-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1311/",
+      "fetched_at": "2026-05-16T19:10:33.350Z",
+      "raw_id": "/nendoroid/details/n1311/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.635Z",
+      "raw_id": "Nendoroid/1300-1399/1311.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "12915",
+  "name": {
+    "en": "Nendoroid Doll Outfit Set Alice: Japanese Dress Ver.",
+    "ja": "ねんどろいどどーる おようふくセット アリス 和風ドレスVer. (ねんどろいどどーる おようふくせっと ありす わふうどれすVer.)",
+    "ko": "엘리스: 일본식 드레스 Ver. 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12915,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20220630/12915/100966/large/0a62f12e68e054fc86ef814c1911715e.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.930Z",
+      "raw_id": "NendoroidDoll/Clothes/12915.json"
+    }
+  ]
+}

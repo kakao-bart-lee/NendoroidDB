@@ -1,0 +1,68 @@
+{
+  "num": "1435",
+  "name": {
+    "en": "Nendoroid Raven",
+    "ja": "ねんどろいど レイブン (ねんどろいど れいぶん)",
+    "ko": "레이븐"
+  },
+  "series": {
+    "en": "Fortnite",
+    "ja": "フォートナイト",
+    "ko": "포트나이트",
+    "code": "fortnite"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9929,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-gKIk0EmJAhk/X4Nkh_rvRoI/AAAAAAABm6o/q5pHIiYi_zYA3OBkeQ1gM_lGsY8yp0aNQCLcBGAsYHQ/s270/1435-Raven-Fortnite-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-gKIk0EmJAhk/X4Nkh_rvRoI/AAAAAAABm6o/q5pHIiYi_zYA3OBkeQ1gM_lGsY8yp0aNQCLcBGAsYHQ/s270/1435-Raven-Fortnite-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4IgWPxz13pw/YJKxS-xq9dI/AAAAAAAAxsI/eduslkMcAPcUfRfrB9QDIZWw2WFztGSnQCLcBGAsYHQ/s135/1435-Raven-Fortnite-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5iOlBJmuAIs/YJKxS5bRP9I/AAAAAAAAxsA/-rCASCoWZbErkm-IyvxFiTPTw6_u3eCKQCLcBGAsYHQ/s135/1435-Raven-Fortnite-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-iqQ8pUoJA-A/YJKxS_VsYAI/AAAAAAAAxsE/WmIsggMo8wAEaQBs7sS2JltqaCJKWR5lQCLcBGAsYHQ/s135/1435-Raven-Fortnite-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-k-nPURgPQBM/YJKxTpoQ4nI/AAAAAAAAxsM/sTJQIAd2EA0nYEL8e5PcZfa9UTHxgoAmACLcBGAsYHQ/s135/1435-Raven-Fortnite-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Z_nICWJljcE/YJKxT7_mSrI/AAAAAAAAxsQ/bLIKaz2Eedsikr_32N22YFltLwhkwTRTQCLcBGAsYHQ/s135/1435-Raven-Fortnite-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1435/",
+      "fetched_at": "2026-05-16T19:10:33.429Z",
+      "raw_id": "/nendoroid/details/n1435/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.665Z",
+      "raw_id": "Nendoroid/1400-1499/1435.json"
+    }
+  ]
+}

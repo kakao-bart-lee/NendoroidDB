@@ -1,0 +1,69 @@
+{
+  "num": "1152",
+  "name": {
+    "en": "Nendoroid Galo Thymos",
+    "ja": "ねんどろいど ガロ・ティモス (ねんどろいど がろ・てぃもす)",
+    "ko": "갈로 티모스"
+  },
+  "series": {
+    "en": "PROMARE",
+    "ja": "プロメア",
+    "ko": "프로메어",
+    "code": "promare"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8453,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-7JujgKM7KyI/X4NgfuigGaI/AAAAAAABmb4/sUhxHC9pDT0jzx70OSqBBqLxTlt6vwXnwCLcBGAsYHQ/s270/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-7JujgKM7KyI/X4NgfuigGaI/AAAAAAABmb4/sUhxHC9pDT0jzx70OSqBBqLxTlt6vwXnwCLcBGAsYHQ/s270/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TlZLqgOboYc/X4rwpM70-RI/AAAAAAABpOo/vcb6Lzndxd4cBYrWZmZU7TL3mxMVlgjPQCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-WFspskDpyEI/X4rwpSCDJ8I/AAAAAAABpOs/9J1Aqox7c34dqxxuiDKk1rrJGTskvnzVwCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WgCH6apGRm4/X4rwpgwWihI/AAAAAAABpOw/qiygka_176A-pfndPuzIY0LfY_bhM2NCgCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-PQ_R3Q064L0/X4rwp0iqLVI/AAAAAAABpO0/xI4AttRSRQIgGq9k7xxrqjwNKe01wZ7WQCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-g-nc7TTEcDQ/X4rwqNvRhxI/AAAAAAABpO4/PkXjygBYQy0jnrJR7v9EIOIECCHyAd9bwCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-evABi3GT3GI/X4rwqXi1MqI/AAAAAAABpO8/nYw3xTLlE0oRNBuXrpwcyRsSdZms1KwJwCLcBGAsYHQ/s135/1152-Galo-Thymos-PROMARE-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1152/",
+      "fetched_at": "2026-05-16T19:10:33.254Z",
+      "raw_id": "/nendoroid/details/n1152/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.597Z",
+      "raw_id": "Nendoroid/1100-1199/1152.json"
+    }
+  ]
+}

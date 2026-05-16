@@ -1,0 +1,69 @@
+{
+  "num": "0720",
+  "name": {
+    "en": "Nendoroid Hatsuzuki",
+    "ja": "ねんどろいど 初月 (ねんどろいど はつづき)",
+    "ko": "하츠즈키"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5093,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6166,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-fcmsMRkAfTc/X4Nc2t3dsdI/AAAAAAABl8k/NtfzscdMNh02p-QAcQidCSBBZyQpJ8y7wCLcBGAsYHQ/s270/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-fcmsMRkAfTc/X4Nc2t3dsdI/AAAAAAABl8k/NtfzscdMNh02p-QAcQidCSBBZyQpJ8y7wCLcBGAsYHQ/s270/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TsKBRoNNSCk/X4i3y1mA09I/AAAAAAAAtNY/BAzqdkPRo4saVvQmrCaYM5IraZ-LKBQlACLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Nyi5mxyfQaM/X4i3zRe8f0I/AAAAAAAAtNc/1RY-Xt8eMX4w5wBw9bUHXVeSDHk3J7djQCLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LEVbDb97dHg/X4i3zxuqUmI/AAAAAAAAtNg/V1Y3T7kTbWoFvUUBnobO3vSIFi1Vko3mACLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8LKwXwg8Wfc/X4i30f4UPpI/AAAAAAAAtNk/BrGw5fIfMk42LckR57Y4adIIyUPjwJgdgCLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7eFqcYxIfKM/X4i30yve-ZI/AAAAAAAAtNo/pOdt6VeUnqg8PnFF5z631fWaChSgBEdIQCLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-GcLa2Uc3VJ4/X4i31Y9_isI/AAAAAAAAtNs/og4LV_aZil0h96v6QIQKjbo5PtlzYjZ1ACLcBGAsYHQ/s135/720-Hatsuzuki-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n720/",
+      "fetched_at": "2026-05-16T19:10:34.760Z",
+      "raw_id": "/nendoroid/details/n720/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.491Z",
+      "raw_id": "Nendoroid/0700-0799/720.json"
+    }
+  ]
+}

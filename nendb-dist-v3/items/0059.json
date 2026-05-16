@@ -1,0 +1,67 @@
+{
+  "num": "0059",
+  "name": {
+    "en": "Nendoroid Nozomu Itoshiki (いとしきのぞむ ねんどろいど)",
+    "ja": "ねんどろいど　糸色 望 (いとしきのぞむ ねんどろいど)",
+    "ko": "이토시키 노조무"
+  },
+  "series": {
+    "en": "(Zoku) Sayonara, Zetsubou Sensei",
+    "ja": "【俗・】さよなら絶望先生",
+    "ko": "안녕 절망선생",
+    "code": "zoku-sayonara-zetsubou-sensei"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2229,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-slE6-QDsh38/X4MSApwtOUI/AAAAAAAApaU/W41EmxEu3MoOAxmIdx73ihjaW7-uCcbTgCLcBGAsYHQ/s270/059-Itoshiki-Nozomu-Sayonara-Zetsubo-Sensei-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-slE6-QDsh38/X4MSApwtOUI/AAAAAAAApaU/W41EmxEu3MoOAxmIdx73ihjaW7-uCcbTgCLcBGAsYHQ/s270/059-Itoshiki-Nozomu-Sayonara-Zetsubo-Sensei-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BzeVgeslJCg/X4GwqGwTtdI/AAAAAAAApG8/bW4CjUNhDBQK9cfh9bWF6HlWNxI7d64ogCLcBGAsYHQ/s135/059-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-u5omngXSHv4/X4GwqS92KMI/AAAAAAAApHA/gPhL_vYCcDsXWbwE57rwj7RsLQ8vD5ZTACLcBGAsYHQ/s135/059-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-kqULbC0fz7U/X4GwqaKsGbI/AAAAAAAApHE/al7_L3R8_6AXBlXpJuKcW2DTrVnD56vaQCLcBGAsYHQ/s135/059-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8xQLnPl6BH4/X4GwqqYstII/AAAAAAAApHI/SxO1KmR0CrkpfhfixbZngDLUjAlVrc-IgCLcBGAsYHQ/s135/059-Nozomu-Itoshiki-Sayonara-Zetsubou-Sensei-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n059/",
+      "fetched_at": "2026-05-16T19:10:33.103Z",
+      "raw_id": "/nendoroid/details/n059/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.277Z",
+      "raw_id": "Nendoroid/0000-0099/059.json"
+    }
+  ]
+}

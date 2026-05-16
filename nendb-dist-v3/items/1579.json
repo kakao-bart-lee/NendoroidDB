@@ -1,0 +1,68 @@
+{
+  "num": "1579",
+  "name": {
+    "en": "Nendoroid White Blood Cell（Neutrophil）（1196）",
+    "ja": "ねんどろいど 白血球（1196） (ねんどろいど はっけっきゅう（1196）)",
+    "ko": "백혈구(1196)"
+  },
+  "series": {
+    "en": "Cells at Work! Code Black",
+    "ja": "はたらく細胞BLACK",
+    "ko": "일하는 세포 BLACK",
+    "code": "cells-at-work-code-black"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10847,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5kGpf6aewfM/YFXyD5qzMKI/AAAAAAAAwMM/aFs6iIApHJkX6uPgCXh__leelKS-9P5bQCLcBGAsYHQ/s270/1579-White-Blood-Cell-Neutrophil-1196-Cells-at-Work-Code-Black-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5kGpf6aewfM/YFXyD5qzMKI/AAAAAAAAwMM/aFs6iIApHJkX6uPgCXh__leelKS-9P5bQCLcBGAsYHQ/s270/1579-White-Blood-Cell-Neutrophil-1196-Cells-at-Work-Code-Black-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-XLtfFAwFi5Y/YD1f87ps39I/AAAAAAAAv_I/xRBrQ_1qSUcyAalVRJPEYDcsvkLD4VYaACLcBGAsYHQ/s135/1579-White-Blood-Cell-Neutrophil-3.jpg",
+      "https://1.bp.blogspot.com/-pgPmvqL-GOs/YD1f9ALHbsI/AAAAAAAAv_M/UgwFtiqgZ8EwtZKrgC9ohNjfU1b_bkjsQCLcBGAsYHQ/s135/1579-White-Blood-Cell-Neutrophil-4.jpg",
+      "https://1.bp.blogspot.com/-co_Ec_3jNQM/YD1f9Xiu35I/AAAAAAAAv_Q/zv4OjXmoSe4q6z3X1rmg0nRrALlSFZNegCLcBGAsYHQ/s135/1579-White-Blood-Cell-Neutrophil-5.jpg",
+      "https://1.bp.blogspot.com/-wEmhiVV-w_s/YD1f9b0dsII/AAAAAAAAv_U/YVHfJ1ouYRYv4cX9e5DhtrSrADg2_71QACLcBGAsYHQ/s135/1579-White-Blood-Cell-Neutrophil-6.jpg",
+      "https://1.bp.blogspot.com/-z7wsu2n_10w/YD1f92Tlc0I/AAAAAAAAv_Y/xf7Y8pCUrmAKxAwaotXbOKq5n2mNJalQgCLcBGAsYHQ/s135/1579-White-Blood-Cell-Neutrophil-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1579/",
+      "fetched_at": "2026-05-16T19:10:33.515Z",
+      "raw_id": "/nendoroid/details/n1579/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.700Z",
+      "raw_id": "Nendoroid/1500-1599/1579.json"
+    }
+  ]
+}

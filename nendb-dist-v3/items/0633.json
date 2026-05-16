@@ -1,0 +1,68 @@
+{
+  "num": "0633",
+  "name": {
+    "en": "Nendoroid Kogane Asabuki + Migite-chan Set",
+    "ja": "ねんどろいど 朝吹黄金+右手ちゃんセット (ねんどろいど あさぶきこがね+みぎてちゃんせっと)",
+    "ko": "아사부키 코가네+오른손짱 세트"
+  },
+  "series": {
+    "en": "BBK/BRNK",
+    "ja": "ブブキ・ブランキ",
+    "ko": "부부키 부란키",
+    "code": "bbk-brnk"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5693,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3KU1jjjD_4A/X4NPtvD6CDI/AAAAAAABl2g/-XuCcvvuzeAb11Smd_LNwpLu4_uw5YqDwCLcBGAsYHQ/s270/633-Kogana-Asabuki-Migite-Chan-Bubuki-Buranki-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3KU1jjjD_4A/X4NPtvD6CDI/AAAAAAABl2g/-XuCcvvuzeAb11Smd_LNwpLu4_uw5YqDwCLcBGAsYHQ/s270/633-Kogana-Asabuki-Migite-Chan-Bubuki-Buranki-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MU9yrM-px2g/X4i0XrGv2KI/AAAAAAAAsrk/2XXPAj_QqFg8PEm7uDSGDmSCKSVOFrdBgCLcBGAsYHQ/s135/633-Kogane-Asabuki-and-Migite-chan-BBKBRNK-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-wwas_JlQyws/X4i0X2tprFI/AAAAAAAAsro/FsYEnTMvdbYMlV3vdux3fVk7iwU32TREwCLcBGAsYHQ/s135/633-Kogane-Asabuki-and-Migite-chan-BBKBRNK-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-0kkpk3ksDu0/X4i0YYkRU9I/AAAAAAAAsrs/f4XUkTraj-sO22UlT-Uma4ovuy93cuT7ACLcBGAsYHQ/s135/633-Kogane-Asabuki-and-Migite-chan-BBKBRNK-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-YTeHhnChaaI/X4i0YxVxMHI/AAAAAAAAsrw/BcqnwvjLtVsVVzk0lLhPSCKnAfwt5AV6QCLcBGAsYHQ/s135/633-Kogane-Asabuki-and-Migite-chan-BBKBRNK-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rcfMOWZGRtI/X4i0ZbVsKMI/AAAAAAAAsr0/-JCL7cYc9OAZAXrLX8Ykup10N2jYQFhbACLcBGAsYHQ/s135/633-Kogane-Asabuki-and-Migite-chan-BBKBRNK-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n633/",
+      "fetched_at": "2026-05-16T19:10:34.711Z",
+      "raw_id": "/nendoroid/details/n633/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.469Z",
+      "raw_id": "Nendoroid/0600-0699/633.json"
+    }
+  ]
+}

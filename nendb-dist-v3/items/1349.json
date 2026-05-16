@@ -1,0 +1,68 @@
+{
+  "num": "1349",
+  "name": {
+    "en": "Nendoroid LBCS: Achilles Karina Mikazuki",
+    "ja": "ねんどろいど LBCS:アキレス ミカヅキ カリナ (ねんどろいど えるびーしーえす:あきれす みかづき かりな)",
+    "ko": "LBCS-001 아킬레스 미카즈키 카리나"
+  },
+  "series": {
+    "en": "Soukou Musume: Mizeremu Crisis",
+    "ja": "装甲娘 ミゼレムクライシス",
+    "ko": "장갑무스메",
+    "code": "soukou-musume-mizeremu-crisis"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9534,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-3xnlkEzWr_I/X4NjwAkxNOI/AAAAAAABm10/ndFdld05ChIcSM0tPdjjw4d3PfqQOKndwCLcBGAsYHQ/s270/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-3xnlkEzWr_I/X4NjwAkxNOI/AAAAAAABm10/ndFdld05ChIcSM0tPdjjw4d3PfqQOKndwCLcBGAsYHQ/s270/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-KLNH93cLQsg/X4s9dshK9LI/AAAAAAABqgI/e46kUSIE3BY2wWC84r_CcrjIVdqqNu2KwCLcBGAsYHQ/s135/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TJ9plMexsTo/X4s9eMGYvbI/AAAAAAABqgM/tLkDRXvnPT0vcV3PzMtX7ucQUHbih8HeACLcBGAsYHQ/s135/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Y0eDaYdwl2A/X4s9eW9x9YI/AAAAAAABqgQ/5d9dRJczg1w1WVGV-nr--GBrznsJsKSngCLcBGAsYHQ/s135/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LowO0B7POrY/X4s9edJ78ZI/AAAAAAABqgU/OoHQDhr-hm0KBxitERUeqiA6KEgPw9uSgCLcBGAsYHQ/s135/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-JkGDbU5OjwE/X4s9eh-bIzI/AAAAAAABqgY/uvFnTB5SScYvJtvgU2bjb7ngriDmY4APQCLcBGAsYHQ/s135/1349-Karina-Mikazuki-Soukou-Musume-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1349/",
+      "fetched_at": "2026-05-16T19:10:33.374Z",
+      "raw_id": "/nendoroid/details/n1349/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.645Z",
+      "raw_id": "Nendoroid/1300-1399/1349.json"
+    }
+  ]
+}

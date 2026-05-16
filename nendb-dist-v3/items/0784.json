@@ -1,0 +1,69 @@
+{
+  "num": "0784",
+  "name": {
+    "en": "Nendoroid Tanya Degurechaff",
+    "ja": "ねんどろいど ターニャ・デグレチャフ (ねんどろいど たーにゃ・でぐれちゃふ)",
+    "ko": "타냐 데그레챠프"
+  },
+  "series": {
+    "en": "Saga of Tanya the Evil",
+    "ja": "幼女戦記",
+    "ko": "유녀전기",
+    "code": "saga-of-tanya-the-evil"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6520,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1qk5zjkYojU/X4NdIkqco3I/AAAAAAABmAw/5VVsBTSsg_Eurv65geFf5lO8AyfPVKfEwCLcBGAsYHQ/s270/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1qk5zjkYojU/X4NdIkqco3I/AAAAAAABmAw/5VVsBTSsg_Eurv65geFf5lO8AyfPVKfEwCLcBGAsYHQ/s270/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9Fin-8zB8f8/X4i5tIvmW8I/AAAAAAAAtkw/AGhCb3O2yXgyUlZJLPysfvwtD9rivHwJACLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1DBtGLXxUrI/X4i5tbuIcPI/AAAAAAAAtk0/M-dL1RbOIvwmuGpHpG1MQKYncm763W9tgCLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Beh6Qv3Xah4/X4i5tuo8_SI/AAAAAAAAtk4/PrVj8zv4rK0TXl6QQ_6iqPEXlIyEErXmQCLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-6dWB6HTbDYU/X4i5t9PCPLI/AAAAAAAAtk8/AcU77T8ZMZY304Zh6dYUaBs33O6H6cqzQCLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-T2bmkHLkykY/X4i5ufNOBlI/AAAAAAAAtlA/YX8A6jHZn_YOYZMYI9GCdiAU6IeF9YU6gCLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-zGudsYJJBwQ/X4i5upBaE1I/AAAAAAAAtlE/YvHIs5gdlqYd-56rd0oRU4uSS6Q9P9dGQCLcBGAsYHQ/s135/784-Tanya-Degurechaff-Saga-of-Tanya-the-Evil-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n784/",
+      "fetched_at": "2026-05-16T19:10:34.797Z",
+      "raw_id": "/nendoroid/details/n784/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.507Z",
+      "raw_id": "Nendoroid/0700-0799/784.json"
+    }
+  ]
+}

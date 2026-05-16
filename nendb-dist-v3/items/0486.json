@@ -1,0 +1,68 @@
+{
+  "num": "0486",
+  "name": {
+    "en": "Nendoroid Archer: Super Movable Edition (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ja": "ねんどろいど アーチャー スーパームーバブル・エディション (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ko": "아처"
+  },
+  "series": {
+    "en": "Fate/stay night [Unlimited Blade Works]",
+    "ja": "Fate/stay night [Unlimited Blade Works]",
+    "ko": "페이트 시리즈",
+    "code": "fate-stay-night-unlimited-blade-works"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2017",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3769,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4768,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-RopnlMZvahU/X4NN97p_3aI/AAAAAAABlr8/AXIp54FUaZ0XBORELa6WOp1Nit6qmtX-gCLcBGAsYHQ/s270/486-Archer-Super-Movable-Fate-Stay-Night-Anime-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-RopnlMZvahU/X4NN97p_3aI/AAAAAAABlr8/AXIp54FUaZ0XBORELa6WOp1Nit6qmtX-gCLcBGAsYHQ/s270/486-Archer-Super-Movable-Fate-Stay-Night-Anime-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gwD8_sF4hio/X4dfQ4yD6CI/AAAAAAAAry4/iN8RSqRkC8MvUQZ2L3QXOGeJ5PGhxHiDwCLcBGAsYHQ/s135/486-Archer-Fate-Stay-Night-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-5RuFtM-VNSo/X4dfRPVbULI/AAAAAAAAry8/EsD_UpZz3ZUip6BvpE9pL4IrpdQB0mEAwCLcBGAsYHQ/s135/486-Archer-Fate-Stay-Night-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5gySQamabZ8/X4dfRRnmSFI/AAAAAAAArzA/zwKLJb8UEmIy4FLwwgCTT_5jMAYG_P2VwCLcBGAsYHQ/s135/486-Archer-Fate-Stay-Night-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dYrkJ5ziH8o/X4dfRjt5FgI/AAAAAAAArzE/6JFZxLQh2d0G5_GffSm_F5KQUGnLvJc2wCLcBGAsYHQ/s135/486-Archer-Fate-Stay-Night-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-wFLOmY47fG0/X4dfR56bxHI/AAAAAAAArzI/txL7yNbYcksm1vnw1hEjQ2reRaJHwc64gCLcBGAsYHQ/s135/486-Archer-Fate-Stay-Night-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n486/",
+      "fetched_at": "2026-05-16T19:10:34.555Z",
+      "raw_id": "/nendoroid/details/n486/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.391Z",
+      "raw_id": "Nendoroid/0400-0499/486.json"
+    }
+  ]
+}

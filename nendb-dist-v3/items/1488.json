@@ -1,0 +1,68 @@
+{
+  "num": "1488",
+  "name": {
+    "en": "Nendoroid Riku: Kingdom Hearts II Ver.",
+    "ja": "ねんどろいど リク キングダム ハーツⅡVer. (ねんどろいど りく きんぐだむ はーつⅡVer.)",
+    "ko": "리쿠 Ⅱ Ver."
+  },
+  "series": {
+    "en": "Kingdom Hearts II",
+    "ja": "キングダム ハーツⅡ",
+    "ko": "킹덤 하츠",
+    "code": "kingdom-hearts-ii"
+  },
+  "category": "regular",
+  "nh_type": "Disney",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10191,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-n5ObNEIpbRE/X62Y6NwDQJI/AAAAAAAAugQ/NaOL00dn2w45TtoYWH0VkPYklW-4BxXyQCLcBGAsYHQ/s270/1488-Riku-Disney-Kingdom-Hearts-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-n5ObNEIpbRE/X62Y6NwDQJI/AAAAAAAAugQ/NaOL00dn2w45TtoYWH0VkPYklW-4BxXyQCLcBGAsYHQ/s270/1488-Riku-Disney-Kingdom-Hearts-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Zy0Ty0fGTF4/X62aMNJKrHI/AAAAAAAAuiA/YpJeQH-FOuUgdvRj5JsHTJG-0EU7jEd8QCLcBGAsYHQ/s135/1488-Riku-Kingdom-Hearts-II-Disney-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-U-KzWDLjOrc/X62aMfwTagI/AAAAAAAAuiE/8oCucUz8Wo4uXOdEcCNvu2g2gQFdXJdowCLcBGAsYHQ/s135/1488-Riku-Kingdom-Hearts-II-Disney-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-yBL0qkz_0ck/X62aMpAwgkI/AAAAAAAAuiI/TNOxjkd0YJEKngwWImdWYaZu3zZ0KgjpQCLcBGAsYHQ/s135/1488-Riku-Kingdom-Hearts-II-Disney-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-E64wni6jKjg/X62aM1K8lBI/AAAAAAAAuiM/wqES3WOLumcHonNkVPkDP8B-tMgrY7EOACLcBGAsYHQ/s135/1488-Riku-Kingdom-Hearts-II-Disney-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-NPxGIlrPU5I/X62aNLG7p9I/AAAAAAAAuiQ/apnHTbxHk_0NKh3FM4RMDY5zRYvtxXVyQCLcBGAsYHQ/s135/1488-Riku-Kingdom-Hearts-II-Disney-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1488/",
+      "fetched_at": "2026-05-16T19:10:33.461Z",
+      "raw_id": "/nendoroid/details/n1488/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.677Z",
+      "raw_id": "Nendoroid/1400-1499/1488.json"
+    }
+  ]
+}

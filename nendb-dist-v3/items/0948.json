@@ -1,0 +1,68 @@
+{
+  "num": "0948",
+  "name": {
+    "en": "Nendoroid Kaoruko Moeta",
+    "ja": "ねんどろいど 萌田薫子 (ねんどろいど もえたかおるこ)",
+    "ko": "모에타 카오루코"
+  },
+  "series": {
+    "en": "Comic Girls",
+    "ja": "こみっくがーるず",
+    "ko": "코믹 걸즈",
+    "code": "comic-girls"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7381,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-0vF6Y1nigw4/X4Nepi9LftI/AAAAAAABmMw/OCVHD4WojsI-58pMCVQcuLW1oD0VWnx7gCLcBGAsYHQ/s270/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-0vF6Y1nigw4/X4Nepi9LftI/AAAAAAABmMw/OCVHD4WojsI-58pMCVQcuLW1oD0VWnx7gCLcBGAsYHQ/s270/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-g8VxtyWMCf0/X4rocIFlB9I/AAAAAAABn50/bc117rLLZUYkxJSzR0FQmGZeEJM3ZFxSACLcBGAsYHQ/s135/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-lQTIMqPYWh0/X4rocYHSZHI/AAAAAAABn54/TevsGtmo6kYltQa1qUqGuIDeL7x8gmydgCLcBGAsYHQ/s135/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-cyX0t8qvmR0/X4roclaodVI/AAAAAAABn58/gV__NDLAt_IcucX6P16qG3sJb08iNG5bwCLcBGAsYHQ/s135/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-02be2P_9sAA/X4roc9uOT5I/AAAAAAABn6A/qTEWEUeylYc25D5_nR0y4c7l_ICPZ-IqgCLcBGAsYHQ/s135/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XqY08S92_0M/X4rodGzbHLI/AAAAAAABn6E/03v7RigEjys3Ap17CaUWqmD0L0UzpRzCQCLcBGAsYHQ/s135/948-Kaoruko-Moeta-Comic-Girls-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n948/",
+      "fetched_at": "2026-05-16T19:10:34.889Z",
+      "raw_id": "/nendoroid/details/n948/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.546Z",
+      "raw_id": "Nendoroid/0900-0999/948.json"
+    }
+  ]
+}

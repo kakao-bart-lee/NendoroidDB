@@ -1,0 +1,69 @@
+{
+  "num": "0864",
+  "name": {
+    "en": "Nendoroid Hiroto Amamiya",
+    "ja": "ねんどろいど 雨宮広斗 (ねんどろいど あまみやひろと)",
+    "ko": "아마미야 히로토"
+  },
+  "series": {
+    "en": "HIGH&LOW g-sword",
+    "ja": "HiGH＆LOW g-sword",
+    "ko": "HIGH&LOW g-sword",
+    "code": "high-low-g-sword"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3769,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6938,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-QoFyRcb8ua0/X4Nd71VCghI/AAAAAAABmGs/KkGlvFz1tEUhWtdILdFsSYW_Dd0BEMWjwCLcBGAsYHQ/s270/864-Hiroto-Amamiya-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-QoFyRcb8ua0/X4Nd71VCghI/AAAAAAABmGs/KkGlvFz1tEUhWtdILdFsSYW_Dd0BEMWjwCLcBGAsYHQ/s270/864-Hiroto-Amamiya-High-Low-Sword-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-bASTd9vidas/X4rjhOQP0lI/AAAAAAABnXM/pIWzcGPKjf8jnxqa9eXED5PhtMFHvnRogCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1GCIXPYoTww/X4rjhbh6juI/AAAAAAABnXQ/0WBDo5OJyiUi8nl6wmosRdU0Q5N6LEzgwCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-dKWon36RIV0/X4rjh2ULmOI/AAAAAAABnXU/PNfeju1tlUcD0HoRnmPxgHJ98s51FQHGQCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lSCS9mVwqj0/X4rjiCP-2DI/AAAAAAABnXY/_CLQCgnDPG0HnfmNdcVCg2MzBPE74EkEwCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-7VzO4HQEh_8/X4rjiRxuvbI/AAAAAAABnXc/6juk3HR19nYfilq61yivMvcYowXwIAEzwCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ZJ5z1pp4ug0/X4rjix0DTQI/AAAAAAABnXg/vFPS8YGP6lQVFf-rCsQTiBWy_HveSkG3gCLcBGAsYHQ/s135/864-Hiroto-Amamiya-High-and-Low-G-Sword-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n864/",
+      "fetched_at": "2026-05-16T19:10:34.842Z",
+      "raw_id": "/nendoroid/details/n864/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.525Z",
+      "raw_id": "Nendoroid/0800-0899/864.json"
+    }
+  ]
+}

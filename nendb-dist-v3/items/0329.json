@@ -1,0 +1,68 @@
+{
+  "num": "0329",
+  "name": {
+    "en": "Nendoroid Inia Sestina (ねんどろいど いーにゃ・しぇすちな)",
+    "ja": "ねんどろいど イーニァ・シェスチナ (ねんどろいど いーにぁ・しぇすちな)",
+    "ko": "이냐 세스티나"
+  },
+  "series": {
+    "en": "MUV-LUV Alternative: Total Eclipse",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "code": "muv-luv-alternative-total-eclipse"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4714,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3912,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wr4sbzpaqMs/X4NMrkIW18I/AAAAAAABlhM/d7p0z-RzihMaWyDMB-XMEOlfeIsBFNUJgCLcBGAsYHQ/s270/329-Inia%2BSestina-Total%2BEclipse-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wr4sbzpaqMs/X4NMrkIW18I/AAAAAAABlhM/d7p0z-RzihMaWyDMB-XMEOlfeIsBFNUJgCLcBGAsYHQ/s270/329-Inia%2BSestina-Total%2BEclipse-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-eWbEQReZJrY/X4daazSYvPI/AAAAAAAAq8w/Y4EWGPpXWmM1IUHvuR_iX7a_6m3b-uooQCLcBGAsYHQ/s135/329-Inia-Sestina-Total-Eclipse-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-opqJ5tACa80/X4daa7iUWcI/AAAAAAAAq80/g24GVLCMsdcqIjjFUJH-Jc28_LDf_nTBQCLcBGAsYHQ/s135/329-Inia-Sestina-Total-Eclipse-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-fK_XcTq_8Js/X4dabDw7VLI/AAAAAAAAq84/K1FqAtOLSYwPLw8EaTx0odXhYKvPp7qFgCLcBGAsYHQ/s135/329-Inia-Sestina-Total-Eclipse-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-vCm2JajMGEc/X4dabnaaWRI/AAAAAAAAq88/qyqkpsulvMUnNg5NtLUq7Q86xiOgKCj-wCLcBGAsYHQ/s135/329-Inia-Sestina-Total-Eclipse-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LDAdu_g1RFU/X4dabx7jwPI/AAAAAAAAq9A/EUv0HF4UJxkFPGlBh8EGAjFlgH7_Ok2SgCLcBGAsYHQ/s135/329-Inia-Sestina-Total-Eclipse-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n329/",
+      "fetched_at": "2026-05-16T19:10:34.465Z",
+      "raw_id": "/nendoroid/details/n329/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.353Z",
+      "raw_id": "Nendoroid/0300-0399/329.json"
+    }
+  ]
+}

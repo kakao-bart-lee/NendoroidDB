@@ -1,0 +1,70 @@
+{
+  "num": "1365",
+  "name": {
+    "en": "Nendoroid Amaterasu",
+    "ja": "ねんどろいど アマテラス (ねんどろいど あまてらす)",
+    "ko": "아마테라스"
+  },
+  "series": {
+    "en": "Okami",
+    "ja": "大神",
+    "ko": "오오카미",
+    "code": "okami"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9429,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CRNtcD3cm2o/X4Njz0TnuLI/AAAAAAABm20/PI6sUifELk4vzRYWxmhhf0DEWeyhDoQJwCLcBGAsYHQ/s270/1365-Amaterasu-Okami-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CRNtcD3cm2o/X4Njz0TnuLI/AAAAAAABm20/PI6sUifELk4vzRYWxmhhf0DEWeyhDoQJwCLcBGAsYHQ/s270/1365-Amaterasu-Okami-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-BUzMDPqKuYQ/X4s92AYuguI/AAAAAAABql4/iQlzstU-brULR00lyHDG6HHuRi-1Rc9_ACLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-M4oUbEhxdew/X4s92tZH9ZI/AAAAAAABql8/FptiyfuF-XggAo9LkVNIBGt2pAfoClfXACLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-NWXGhyZfKjY/X4s92sDSANI/AAAAAAABqmA/bYHBheoODykz-R_nZTvNRtc9QppCarPMACLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wo9nfT-Qriw/X4s92_izH7I/AAAAAAABqmE/QoZU3i1qOnUO0Tx_sfbu74TfaoVnfwe_gCLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-_Ue55kmAtmA/X4s93chg-ZI/AAAAAAABqmI/vij7Y89PUmkKjmtNMRAyuom_SLD0ptm7wCLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-NK2rMXkvq9c/X4s93tcdfTI/AAAAAAABqmM/D9rPL5wbsuY1GsOlfBK6K6rLIj24_I6ywCLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-7DRq475DJE8/X4s93p8K8JI/AAAAAAABqmQ/5-Ts0ZqzZek77mzT8yqZDMro9rw-lt-gQCLcBGAsYHQ/s135/1365-Amaterasu-Okami-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1365/",
+      "fetched_at": "2026-05-16T19:10:33.384Z",
+      "raw_id": "/nendoroid/details/n1365/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.649Z",
+      "raw_id": "Nendoroid/1300-1399/1365.json"
+    }
+  ]
+}

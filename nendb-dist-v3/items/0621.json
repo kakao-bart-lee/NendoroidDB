@@ -1,0 +1,71 @@
+{
+  "num": "0621",
+  "name": {
+    "en": "Nendoroid Shokaku",
+    "ja": "ねんどろいど 翔鶴 (ねんどろいど しょうかく)",
+    "ko": "쇼카쿠"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2016",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5612,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-BkHZN3txClI/X4NPq5gA9TI/AAAAAAABl1w/HqAmBwi2BPc7TsNaqkwAvEHWXZBsjcmCgCLcBGAsYHQ/s270/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-BkHZN3txClI/X4NPq5gA9TI/AAAAAAABl1w/HqAmBwi2BPc7TsNaqkwAvEHWXZBsjcmCgCLcBGAsYHQ/s270/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-YoQ22924-Ak/X4iz_GzDksI/AAAAAAAAsnE/pQ5qT5CYl0I4MHSvA6GOnuTPWr82u8HrwCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-FDrgOR75VaY/X4iz_tA3srI/AAAAAAAAsnI/YsmWkMzanUgWQZlMFNxfYkhhhA0Cfy2cwCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-WJxiwg2sEBM/X4iz_6Q9HHI/AAAAAAAAsnM/AsGFyIJBIdMwpHb3NRlZlMeKJem-9mTdwCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-43eaLABf6nc/X4i0AIT9woI/AAAAAAAAsnQ/ZnjH_B-SCwYmif1dAI9O3r514z70PIojwCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-gmRwzqzRcks/X4i0AVkpj7I/AAAAAAAAsnU/-I4MjYR4JNYGklLgXTe0EjT9z4H0IsLgACLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-f9EedlhtLEQ/X4i0ApL2VPI/AAAAAAAAsnY/nONG9N960i4iMEa5D9q5nbWScZ2jNyJBQCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-V9GJcLPITD8/X4i0A5FVC_I/AAAAAAAAsnc/liHrE1Z7n9YwryrXdbd5m2nAYl5nNJjpwCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-oL2VzeSvlXw/X4iz-iblTOI/AAAAAAAAsnA/qp0rwyry6jwDAeLjshUgq7lHH_gh5-5jQCLcBGAsYHQ/s135/621-Shokaku-Kantai-Collection-Video-Games-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n621/",
+      "fetched_at": "2026-05-16T19:10:34.702Z",
+      "raw_id": "/nendoroid/details/n621/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.465Z",
+      "raw_id": "Nendoroid/0600-0699/621.json"
+    }
+  ]
+}

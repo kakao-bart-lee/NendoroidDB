@@ -1,0 +1,68 @@
+{
+  "num": "0523",
+  "name": {
+    "en": "Nendoroid KAITO: Senbonzakura Ver. (ねんどろいど かいと せんぼんざくらVer.)",
+    "ja": "ねんどろいど KAITO 千本桜Ver. (ねんどろいど かいと せんぼんざくらVer.)",
+    "ko": "KAITO 천본앵 Ver."
+  },
+  "series": {
+    "en": "Senbonzakura feat. Hatsune Miku",
+    "ja": "千本桜 feat. 初音ミク",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "senbonzakura-feat-hatsune-miku"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4278,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5040,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-CZWzWwXBKSI/X4NOaO6pMMI/AAAAAAABlu0/9K8NI2kdEyAxSQKzPxuQip0utuA7X4OZACLcBGAsYHQ/s270/523-Kaito-Senbonzakura-Ver-Feat-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-CZWzWwXBKSI/X4NOaO6pMMI/AAAAAAABlu0/9K8NI2kdEyAxSQKzPxuQip0utuA7X4OZACLcBGAsYHQ/s270/523-Kaito-Senbonzakura-Ver-Feat-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7P26euOzrQE/X4isGni3j1I/AAAAAAAAsCI/suCdFy0bDUAqt5XOjCGwhR8F0LfnWpfKgCLcBGAsYHQ/s135/523-Kaito-Senbonzakura-feat.-Hatsune-Miku-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Y9H3FOURlKk/X4isHCsqerI/AAAAAAAAsCM/Httfa3I1d9o7CQ8DTiFfNXX7SADO0dvdQCLcBGAsYHQ/s135/523-Kaito-Senbonzakura-feat.-Hatsune-Miku-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5Wh5844nHYI/X4isHUQCJCI/AAAAAAAAsCQ/YiR8QmhW6D0pQQAA5FBo1Pyw8Tmw4JpWQCLcBGAsYHQ/s135/523-Kaito-Senbonzakura-feat.-Hatsune-Miku-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-3aZp8POH7RM/X4isHmLrfAI/AAAAAAAAsCU/7lz8Gu4Uveo2dI6HIWvlkPLiuE39Ko6rwCLcBGAsYHQ/s135/523-Kaito-Senbonzakura-feat.-Hatsune-Miku-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-65YyrZsXmU4/X4isH4hI1HI/AAAAAAAAsCY/TKJQ4u1zLywOb8x1zTP4lm1yvg8ix-3zwCLcBGAsYHQ/s135/523-Kaito-Senbonzakura-feat.-Hatsune-Miku-Vocaloid-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n523/",
+      "fetched_at": "2026-05-16T19:10:34.576Z",
+      "raw_id": "/nendoroid/details/n523/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.425Z",
+      "raw_id": "Nendoroid/0500-0599/523.json"
+    }
+  ]
+}

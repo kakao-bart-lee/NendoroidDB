@@ -1,0 +1,55 @@
+{
+  "num": "10601",
+  "name": {
+    "en": "Nendoroid Doll Luo Binghe",
+    "ja": "ねんどろいどどーる 洛冰河 (ねんどろいどどーる らくひょうが)",
+    "ko": "낙빙하"
+  },
+  "series": {
+    "en": "ChuanShuZiJiuZhiNan",
+    "ja": "穿書自救指南",
+    "ko": "인사반파자구계통",
+    "code": "chuanshuzijiuzhinan"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-12",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10601,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201218/10601/79138/large/6c2c1142442474413e4ac30f2087802b.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.951Z",
+      "raw_id": "NendoroidDoll/Doll/10601.json"
+    }
+  ]
+}

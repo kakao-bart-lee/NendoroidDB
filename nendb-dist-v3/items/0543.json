@@ -1,0 +1,70 @@
+{
+  "num": "0543",
+  "name": {
+    "en": "Nendoroid Iron Man Mark 43: Hero’s Edition + Ultron Sentries Set (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)",
+    "ja": "ねんどろいど アイアンマン マーク43 ヒーローズ・エディション＋ウルトロン・セントリーセット (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)",
+    "ko": "아이언맨 마크43 히어로즈 에디션+울트론 센트리 세트"
+  },
+  "series": {
+    "en": "Avengers: Age of Ultron",
+    "ja": "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko": "어벤져스",
+    "code": "avengers-age-of-ultron"
+  },
+  "category": "regular",
+  "nh_type": "Marvel",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5602,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 5111,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-v1FVyjwwapc/X4NOfmxrgQI/AAAAAAABlwI/DPtKX7azCxUSp3AYe5HDhf6sUQE1jn_3QCLcBGAsYHQ/s270/543-Iron-Man-Avengers-Mark-43-Hero-Edition-Ultron-Marvel-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-v1FVyjwwapc/X4NOfmxrgQI/AAAAAAABlwI/DPtKX7azCxUSp3AYe5HDhf6sUQE1jn_3QCLcBGAsYHQ/s270/543-Iron-Man-Avengers-Mark-43-Hero-Edition-Ultron-Marvel-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-TAU1r76MPAY/X4isnRsW09I/AAAAAAAAsJY/1VQO_o8_MacTnXhV6re1h4Ws46pW4RbdQCLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Xg7pQGnUcnM/X4isnj0SgkI/AAAAAAAAsJc/BRrMd-ZhiK8iSi2k7YoW8R7CZhjK8YpTQCLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-t2t2Zqtjj1s/X4isn6zB3EI/AAAAAAAAsJg/hbhsqe_CYhIISHJ7ikby3EzBN2OOnJ-1ACLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-HAbedNFQDZQ/X4isoLrjyRI/AAAAAAAAsJk/fi83DJvb55UJccRZHYZafMcqUfqIOwO4ACLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-U--sKK5ot2c/X4isoLB75vI/AAAAAAAAsJo/eBD37QgMIwcPUyltLc6RghtCJfCP0KekwCLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9zIGWtvw14g/X4isoYY-q4I/AAAAAAAAsJs/nLzmRSkHr3wpVNOJ2iIYAEyQvlWWTPJ-ACLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-t0lQmwb6eoM/X4isohzVy7I/AAAAAAAAsJ0/x7iBCdQRmT8fmO1b0cvMZhrMToZAT93BQCLcBGAsYHQ/s135/543-Iron-Man-Avengers-Marvel-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n543/",
+      "fetched_at": "2026-05-16T19:10:34.589Z",
+      "raw_id": "/nendoroid/details/n543/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.438Z",
+      "raw_id": "Nendoroid/0500-0599/543.json"
+    }
+  ]
+}

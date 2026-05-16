@@ -1,0 +1,64 @@
+{
+  "num": "2377",
+  "name": {
+    "en": "Rin Okumura",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Blue Exorcist",
+    "ja": null,
+    "ko": null,
+    "code": "blue-exorcist"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-DVc5AY0z8vA/Zcqeta1z4rI/AAAAAAABDYk/L_9BldfWS3AzMZeA6c2RYv1c-KsomMpDwCNcBGAsYHQ/s270/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-DVc5AY0z8vA/Zcqeta1z4rI/AAAAAAABDYk/L_9BldfWS3AzMZeA6c2RYv1c-KsomMpDwCNcBGAsYHQ/s270/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-_iH32g8t9ZU/Zow0Dy46wAI/AAAAAAABFOg/MFaeH598xdsR1bKGS0K4EKmBjsyChJPzwCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-sDpYqzzAPQQ/Zow0DhtUNtI/AAAAAAABFOc/X00-YkwP9iY09IxdwegGRhpo-qpc1mQ5gCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-JAM97daH3V8/Zow0DwX-m3I/AAAAAAABFOk/GLjTwya7bk0zEOweTZQwy7FfWxNUydIYwCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--I2kwG0nyx4/Zow0EYTg4DI/AAAAAAABFOo/4lAqZY1P48A5g8P2duW6qdZOMYGRCyFbQCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-6Q-O0aVlJw0/Zow0E82q6BI/AAAAAAABFOs/hBVrhoGc3x8SycdfPG864uAn8_l1uLpcgCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rA8hUx2F9q8/Zow0FeMD_vI/AAAAAAABFOw/9sZSotg87r8NdQsaq3XPTwmO-F1lApHogCNcBGAsYHQ/s135/2377-Rin-Okumura-Blue-Exorcist-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2377/",
+      "fetched_at": "2026-05-16T19:10:34.020Z",
+      "raw_id": "/nendoroid/details/n2377/"
+    }
+  ]
+}

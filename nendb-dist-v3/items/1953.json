@@ -1,0 +1,68 @@
+{
+  "num": "1953",
+  "name": {
+    "en": "Nendoroid Ironmouse",
+    "ja": "ねんどろいど アイアンマウス (ねんどろいど あいあんまうす)",
+    "ko": "아이언마우스"
+  },
+  "series": {
+    "en": "VShojo",
+    "ja": "VShojo",
+    "ko": "브이쇼죠",
+    "code": "vshojo"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7700,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13223,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-je0iwuY7InA/Y02wAz9ROQI/AAAAAAAA6_Y/txavXHHF7poChsfz3X-7bgk7YStvb4djACNcBGAsYHQ/s270/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-je0iwuY7InA/Y02wAz9ROQI/AAAAAAAA6_Y/txavXHHF7poChsfz3X-7bgk7YStvb4djACNcBGAsYHQ/s270/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-EGqH0pDNP0A/Y027jl54LlI/AAAAAAAA7SM/Kv8_Kk0GPdogJ1AtQ3ljWfvnDSKRgiYmgCNcBGAsYHQ/s135/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t9Rw7z6jla4/Y027kBm0A8I/AAAAAAAA7SQ/pEKT3ghso3MB92Wuk7-2r8-V9sAXzP-xgCNcBGAsYHQ/s135/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XAuA5mFzORw/Y027knEBPxI/AAAAAAAA7SU/yp4FZss9ZOcWm6WnTLlM3mERCfdSIFxPwCNcBGAsYHQ/s135/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-BGtR9065ISk/Y027lGb3r-I/AAAAAAAA7SY/DT_LvWUYr5c7HUbITUFg9Xkd5THCh_XAwCNcBGAsYHQ/s135/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-QaLdwz7bWaA/Y027lrJ1JrI/AAAAAAAA7Sc/deZtO7sAEN8dl1XOmNV15Vf0QZj2MmlZACNcBGAsYHQ/s135/1953-Ironmouse-Vshojo-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1953/",
+      "fetched_at": "2026-05-16T19:10:33.749Z",
+      "raw_id": "/nendoroid/details/n1953/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.790Z",
+      "raw_id": "Nendoroid/1900-1999/1953.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0888",
+  "name": {
+    "en": "Fighter Seraphim",
+    "ja": "ねんどろいど セラフィム (ねんどろいど せらふぃむ)",
+    "ko": "세라핌"
+  },
+  "series": {
+    "en": "Dungeon Fighter Online",
+    "ja": "Dungeon&Fighter（日本サービス名：アラド戦記）",
+    "ko": "던전 앤 파이터",
+    "code": "dungeon-fighter-online"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6600,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7344,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-wHjS_pHBOpw/X4NeCi8SkfI/AAAAAAABmIM/u6ST6F6oMGcuFSRufosLxZhwc0o8_LC7wCLcBGAsYHQ/s270/888-Fighter-Seraphim-Dungeon-Fighter-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-wHjS_pHBOpw/X4NeCi8SkfI/AAAAAAABmIM/u6ST6F6oMGcuFSRufosLxZhwc0o8_LC7wCLcBGAsYHQ/s270/888-Fighter-Seraphim-Dungeon-Fighter-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-MKfgS50txno/X4rkJiEKc9I/AAAAAAABngE/kn9DE9k-kas1fOdBiHCHOMojdGz4j-l5QCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-NNkHGpQk_WU/X4rkJyqGqEI/AAAAAAABngI/lKCggpOFEkwwIk1z3pVMMulSWHF6bhpAgCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-o6GHv_pyFYU/X4rkKLjl8LI/AAAAAAABngM/sssSbQILIr8OILtaIrf33w857pQOKEbzgCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-MpKJCURjEuk/X4rkKQXKhaI/AAAAAAABngQ/xnh_9y76pHQ5YIaVPS0kX57w8Sem6v0KgCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-qrw3UBRtCuI/X4rkKu0WvPI/AAAAAAABngU/tbEm_PZi-LA9AY4Fc757JDNmamhbAqDzQCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-9sHtc8bUKBg/X4rkKzXTs7I/AAAAAAABngY/FNwULsfYGck5vv354yjM7TVsn0AvQ2YkQCLcBGAsYHQ/s135/888-Fighter-Seraphim-Dungeon-and-Fighter-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n888/",
+      "fetched_at": "2026-05-16T19:10:34.855Z",
+      "raw_id": "/nendoroid/details/n888/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.531Z",
+      "raw_id": "Nendoroid/0800-0899/888.json"
+    }
+  ]
+}

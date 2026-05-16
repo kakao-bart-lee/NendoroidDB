@@ -1,0 +1,68 @@
+{
+  "num": "2057",
+  "name": {
+    "en": "Nendoroid Basil",
+    "ja": "ねんどろいど バジル (ねんどろいど ばじる)",
+    "ko": "바질"
+  },
+  "series": {
+    "en": "OMORI",
+    "ja": "OMORI",
+    "ko": "오모리",
+    "code": "omori"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13875,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-5x8gzeZqYkE/Y9mKFN--K8I/AAAAAAAA8fo/Mc4NiweybHcl5q8emFHIJ9sJeR3qoS_AACNcBGAsYHQ/s270/2057-Basil-OMORI-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-5x8gzeZqYkE/Y9mKFN--K8I/AAAAAAAA8fo/Mc4NiweybHcl5q8emFHIJ9sJeR3qoS_AACNcBGAsYHQ/s270/2057-Basil-OMORI-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-9m6FK73Bhq4/Y9mPh_VivmI/AAAAAAAA8rA/FzAwKNfXszwtacaSJ9Ji4bhUQyKv235tgCNcBGAsYHQ/s135/2057-Basil-OMORI-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-7hXqNu1XWv8/Y9mPiQJXnGI/AAAAAAAA8rE/o9BGzHHTNWgHdVrNIp5ms5IdEaYO5mAXQCNcBGAsYHQ/s135/2057-Basil-OMORI-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-HrfPQJeeiMk/Y9mPi9liHuI/AAAAAAAA8rI/sidFWUOmxc8inx0lvA6CHOkO7fm_Xk-jwCNcBGAsYHQ/s135/2057-Basil-OMORI-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lBUB9fRiHaE/Y9mPjW1w_rI/AAAAAAAA8rM/jHrRW9DVYfUsdx4TJUViUGAnK5maJw-LQCNcBGAsYHQ/s135/2057-Basil-OMORI-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-I2ke0ifRRvI/Y9mPkPMbyJI/AAAAAAAA8rQ/IuwQO74MDOwAQwMyYYxdOXabs8vGBTB-ACNcBGAsYHQ/s135/2057-Basil-OMORI-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2057/",
+      "fetched_at": "2026-05-16T19:10:33.813Z",
+      "raw_id": "/nendoroid/details/n2057/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.817Z",
+      "raw_id": "Nendoroid/2000-2099/2057.json"
+    }
+  ]
+}

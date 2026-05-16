@@ -1,0 +1,68 @@
+{
+  "num": "0490",
+  "name": {
+    "en": "Nendoroid Tomoyo Daidouji",
+    "ja": "ねんどろいど 大道寺知世 (ねんどろいど だいどうじともよ)",
+    "ko": "다이도우지 토모요"
+  },
+  "series": {
+    "en": "Cardcaptor Sakura",
+    "ja": "カードキャプターさくら",
+    "ko": "카드캡터 사쿠라",
+    "code": "cardcaptor-sakura"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2015",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 4793,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-dFafeOittrs/X4NN_3LAXmI/AAAAAAABlsM/aDMpIvWcFKwCGvSFDZluqAwmuLJ-Y5QQQCLcBGAsYHQ/s270/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-dFafeOittrs/X4NN_3LAXmI/AAAAAAABlsM/aDMpIvWcFKwCGvSFDZluqAwmuLJ-Y5QQQCLcBGAsYHQ/s270/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0Hwwah706w8/X4dfU-Ah_DI/AAAAAAAAr0Q/aFGszVbGrvETF0EHp3wTLK0x8bSv6Z6vwCLcBGAsYHQ/s135/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-aWLEmEX2E4I/X4dfVG1E8FI/AAAAAAAAr0U/-oFGQ4S5MZ8z8kPNyO9fWcGiHi2_zvDKACLcBGAsYHQ/s135/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wH_UOs2adas/X4dfVcNe9nI/AAAAAAAAr0Y/rHXsEBoXmdgfCoWzgoH21KoQx1Idc55pwCLcBGAsYHQ/s135/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-2XMkkBJ9KNk/X4dfVfzRChI/AAAAAAAAr0c/AzWOT41Vf-sUmiW0HGfNw_TqGveYdQoZQCLcBGAsYHQ/s135/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-TTZhyTQ-H6U/X4dfVns92GI/AAAAAAAAr0g/2X-mga9vfc4X59lrTan-gUUwMJlGhUX-gCLcBGAsYHQ/s135/490-Tomoyo-Daidouji-Cardcaptor-Sakura-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n490/",
+      "fetched_at": "2026-05-16T19:10:34.557Z",
+      "raw_id": "/nendoroid/details/n490/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.392Z",
+      "raw_id": "Nendoroid/0400-0499/490.json"
+    }
+  ]
+}

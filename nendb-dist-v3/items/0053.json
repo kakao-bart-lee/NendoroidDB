@@ -1,0 +1,67 @@
+{
+  "num": "0053",
+  "name": {
+    "en": "Nendoroid Yoko (よーこ　ねんどろいど)",
+    "ja": "ねんどろいど ヨーコ (よーこ　ねんどろいど)",
+    "ko": "요코"
+  },
+  "series": {
+    "en": "Tengen Toppa Gurren Lagann",
+    "ja": "天元突破グレンラガン",
+    "ko": "천원돌파 그렌라간",
+    "code": "tengen-toppa-gurren-lagann"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2009",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 2040,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-twqAnsDnMjQ/X4MR-dav99I/AAAAAAAApZw/0oYdI7pCP58qJqV0ToJk8H0WhyybkjrEwCLcBGAsYHQ/s270/053-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-twqAnsDnMjQ/X4MR-dav99I/AAAAAAAApZw/0oYdI7pCP58qJqV0ToJk8H0WhyybkjrEwCLcBGAsYHQ/s270/053-Yoko-Gurren-Lagann-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tB_ULeJKLEI/X4GwkomZ7FI/AAAAAAAApFM/UpgKIbIVC38FJl6K6P7sqHbrwJtKNnbLwCLcBGAsYHQ/s135/053-Yoko-Gurenn-Lagann-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cvaWh_GvMNI/X4GwktenJ4I/AAAAAAAApFQ/Grm6Zt2hc8gyCbFn1oRmih-biII-YvxYQCLcBGAsYHQ/s135/053-Yoko-Gurenn-Lagann-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-Q9bEX3-_jcw/X4Gwk8_nEvI/AAAAAAAApFU/WghSH-NKbv41Px1M-egT8dpI6YroJJ38wCLcBGAsYHQ/s135/053-Yoko-Gurenn-Lagann-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5Ovemtl2Xe0/X4GwlMM7qVI/AAAAAAAApFY/nhA1kDfWeKsFEYmg-Uj3Mv06Mt2cv8C1wCLcBGAsYHQ/s135/053-Yoko-Gurenn-Lagann-Anime-and-Manga-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n053/",
+      "fetched_at": "2026-05-16T19:10:33.098Z",
+      "raw_id": "/nendoroid/details/n053/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.275Z",
+      "raw_id": "Nendoroid/0000-0099/053.json"
+    }
+  ]
+}

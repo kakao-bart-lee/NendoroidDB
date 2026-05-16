@@ -1,0 +1,55 @@
+{
+  "num": "7911",
+  "name": {
+    "en": "Nendoroid Doll: Outfit Set (Kindergarten)",
+    "ja": "ねんどろいどどーる おようふくセット（ようちえん） (ねんどろいどどーる おようふくせっと（ようちえん）)",
+    "ko": "유치원 의상"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2019-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3056,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7911,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20181214/7911/56777/large/06d03a122f8c4bd0b888147a6a6771be.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.936Z",
+      "raw_id": "NendoroidDoll/Clothes/7911.json"
+    }
+  ]
+}

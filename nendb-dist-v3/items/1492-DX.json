@@ -1,0 +1,55 @@
+{
+  "num": "1492-DX",
+  "name": {
+    "en": "Nendoroid Vanellope DX",
+    "ja": "ねんどろいど ヴァネロペ DX (ねんどろいど ゔぁねろぺ DX)",
+    "ko": "바넬로피 본 슈위츠 DX"
+  },
+  "series": {
+    "en": "Wreck-It Ralph",
+    "ja": "シュガー・ラッシュ",
+    "ko": "주먹왕 랄프",
+    "code": "wreck-it-ralph"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10251,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201020/10251/76031/large/98a8b2804a408ba1b5ae48e176dc092f.jpg",
+    "gallery": []
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.678Z",
+      "raw_id": "Nendoroid/1400-1499/1492-DX.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "0898",
+  "name": {
+    "en": "Nendoroid Racing Miku 2018 Ver.",
+    "ja": "ねんどろいど レーシングミク 2018Ver. (ねんどろいど れーしんぐみく 2018Ver.)",
+    "ko": "레이싱 미쿠 2018 Ver."
+  },
+  "series": {
+    "en": "Hatsune Miku GT Project",
+    "ja": "初音ミクGTプロジェクト",
+    "ko": "하츠네미쿠",
+    "code": "hatsune-miku-gt-project"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6112,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7156,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-R4RoyZTlcg8/X4NeGLHoHZI/AAAAAAABmI0/JPiRFEfJtzERJnHGRW5MsM9UR2_yh3mBQCLcBGAsYHQ/s270/898-Hatsune-Miku-Racing-2018-Ver-Miku-GT-Project-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-R4RoyZTlcg8/X4NeGLHoHZI/AAAAAAABmI0/JPiRFEfJtzERJnHGRW5MsM9UR2_yh3mBQCLcBGAsYHQ/s270/898-Hatsune-Miku-Racing-2018-Ver-Miku-GT-Project-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-8MvtXgIb3Yg/X4rkZAFBkoI/AAAAAAABnjk/KqXc7HIDC1IgGlxYQuWdn73K347xz6ayACLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-xwhuqCwzKuM/X4rkZHAV_sI/AAAAAAABnjo/iTjtas5I2t0hLsq8ZkMk5d5w2V5hFTdPwCLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3z1UhOK7ePc/X4rkZUQOPII/AAAAAAABnjs/tl6kLuhO5VUDLu2U6UmbKyaM1ec8QbZbwCLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-lWCnwP0caNo/X4rkZzX5QRI/AAAAAAABnjw/9EUCPkptZZEDvDmFUICu12F2SjvSugT2gCLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-ybpcRoj9X_c/X4rkaOR7ZoI/AAAAAAABnj0/Z1PKNpxAucg-abEzqP0ubWVsn5wPPYR9gCLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-wQ51G_316Ss/X4rkaHRNrBI/AAAAAAABnj4/m4sR6Jr0k38DBI6r0NyC3YNEJye7Du1BgCLcBGAsYHQ/s135/898-Hatsune-Miku-GT-Project-Vocaloid-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n898/",
+      "fetched_at": "2026-05-16T19:10:34.861Z",
+      "raw_id": "/nendoroid/details/n898/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.533Z",
+      "raw_id": "Nendoroid/0800-0899/898.json"
+    }
+  ]
+}

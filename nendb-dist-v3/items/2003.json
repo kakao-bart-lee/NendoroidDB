@@ -1,0 +1,96 @@
+{
+  "num": "2003",
+  "name": {
+    "en": "Nendoroid Aki Hayakawa",
+    "ja": "ねんどろいど 早川アキ (ねんどろいど はやかわあき)",
+    "ko": "하야카와 아키"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828664555",
+  "gsc_product_id": "11276",
+  "gsc_product_num": 13591,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11276",
+    "ja": "https://www.goodsmile.com/ja/product/11276"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11276/f7094f2c8988fb7656d2edf2ab6fff62.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Qj9rn8uGJc8/Y45wWNnPrVI/AAAAAAAA7sc/e0hcQoaRlLUNaz_1vxqxFvGR1JaKXpzHACNcBGAsYHQ/s270/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SPxhd97PXT0/Y4511NeGlRI/AAAAAAAA75s/BDMp8Mn_OdEy5oxG8ZN7Nyw48A97zQXygCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-EJWSfgWLZvw/Y4511Wz9fbI/AAAAAAAA75w/AE82MMbnbZgEpJS1o1t_HqVyXfe0AQI6gCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-gkS6nLBJRL0/Y4511q47jiI/AAAAAAAA750/fhQVnTxziFwCsD-MivysAqh9njOvXNJugCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-8Vj0jJOnOak/Y45114yDRDI/AAAAAAAA754/TIFISsUgy9kskAP3s3soWHh-I4Gg-sykQCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-jk6szFD_JU8/Y4512C1huKI/AAAAAAAA758/9wk7e5uc6eIsZ19cvx0D2XANhDGjtqNdgCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-L-7L92r07TQ/Y4512U2MUiI/AAAAAAAA76A/-OIYUdWC0bgXn6Cdq7QCtGPdnqm4mPEaQCNcBGAsYHQ/s135/2003-Aki-Hayakawa-Chainsaw-Man-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221124/13591/107704/large/3ddad1fb92e197d92fae77d79d25aca0.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11276/f7094f2c8988fb7656d2edf2ab6fff62.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11276",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:13:46.033Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11276",
+      "fetched_at": "2026-05-16T12:13:46.033Z",
+      "raw_id": "11276"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11276",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11276"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2003/",
+      "fetched_at": "2026-05-16T19:10:33.779Z",
+      "raw_id": "/nendoroid/details/n2003/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.803Z",
+      "raw_id": "Nendoroid/2000-2099/2003.json"
+    }
+  ]
+}

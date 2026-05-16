@@ -1,0 +1,97 @@
+{
+  "num": "1191",
+  "name": {
+    "en": "Nendoroid Ryunosuke Akutagawa",
+    "ja": "ねんどろいど 芥川龍之介 (ねんどろいど あくたがわりゅうのすけ)",
+    "ko": "아쿠타가와 류노스케"
+  },
+  "series": {
+    "en": "Bungo Stray Dogs",
+    "ja": "文豪ストレイドッグス",
+    "ko": "문호 스트레이 독스",
+    "code": "bungo-stray-dogs"
+  },
+  "category": "other",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "ORANGE ROUGE",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted ABS&PVC non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5900,
+  "gtin": "4580828675902",
+  "gsc_product_id": "6385",
+  "gsc_product_num": 8678,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/6385",
+    "ja": "https://www.goodsmile.com/ja/product/6385"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190809/8678/62788/large/3ce1d61f1bf43f060e94fe4bd5f63d5c.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-UPfIKUa6LRY/X4Ngu6G05iI/AAAAAAABmeg/slHdIZVCHjgZTZqGWbpPNVpojA8QtNOcACLcBGAsYHQ/s270/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-E--3EMtu0j8/X4rxweLXy-I/AAAAAAABpek/ofgngSjA34U9C00A8ZqNuJxyfKRh9LgjACLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-Xtyeto3jr-0/X4rxw2K67TI/AAAAAAABpeo/XZ4oLlbop0IR6fnE8G601TMjXqff-XEBwCLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-LZ-7EtC5Z80/X4rxxRicYVI/AAAAAAABpes/T2YBpxNlTMcRs0yGfPgSa7O7IITieYQCwCLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-EL3kjkjuzAA/X4rxxqKR8LI/AAAAAAABpew/oPnecau-ViE1uBDFSrAlUCMMABA8hqIkACLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XfMTmO6j5gs/X4rxx2MQPPI/AAAAAAABpe0/J0zV7Ux99U0m2g6B2X0JFqPny-wIQvkHwCLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-uAzFicfwOow/X4rxyGezSjI/AAAAAAABpe4/1ViBUGrywf4PPEw2Cu3T1fkgxZju-6qKACLcBGAsYHQ/s135/1191-Ryunosuke-Akutagawa-Bungo-Stray-Dogs-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/6385/b8de0f2079efc4c35069814524894702.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20190809/8678/62788/large/3ce1d61f1bf43f060e94fe4bd5f63d5c.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease",
+    "w/ Bonus"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6385",
+      "price_local": 5900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:24:36.322Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/6385",
+      "fetched_at": "2026-05-16T12:24:36.322Z",
+      "raw_id": "6385"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/6385",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "6385"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1191/",
+      "fetched_at": "2026-05-16T19:10:33.277Z",
+      "raw_id": "/nendoroid/details/n1191/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.607Z",
+      "raw_id": "Nendoroid/1100-1199/1191.json"
+    }
+  ]
+}

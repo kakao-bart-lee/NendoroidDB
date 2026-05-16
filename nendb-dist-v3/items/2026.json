@@ -1,0 +1,70 @@
+{
+  "num": "2026",
+  "name": {
+    "en": "Nendoroid Narciso · A",
+    "ja": "ねんどろいど ナルシソ・A (ねんどろいど なるしそ・あなすい)",
+    "ko": "나르시소 안나수이"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13726,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-zLoc1mbqhnY/Y69C2EOT6nI/AAAAAAAA8Q0/W2V9QyPt840X4bmt8h_l37DUDPyV2bZiwCNcBGAsYHQ/s270/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-zLoc1mbqhnY/Y69C2EOT6nI/AAAAAAAA8Q0/W2V9QyPt840X4bmt8h_l37DUDPyV2bZiwCNcBGAsYHQ/s270/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Oe5xAd7Ib_8/Y684tFT-YBI/AAAAAAAA8Kk/9eWLKIXTM54aNSkOGdbG6y0xs7-LZxcwwCNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-e-3mg7YhtNc/Y684tax5jzI/AAAAAAAA8Ko/QqsAC_MSDrsihOicHuH1WLHx_RonTRXgACNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-PerPiIpmpCg/Y684toLJBLI/AAAAAAAA8Ks/FQFJHHsipbMfipnKn1K8PqnoEMEG6YrWACNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-DkEdCx_6Elw/Y684tw34iuI/AAAAAAAA8Kw/T12aPrvZx40z3wNgfn2AI2kDF9vxcXlBgCNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-l-5s0MhuBM8/Y684uXjhcrI/AAAAAAAA8K0/ymOE747VisAtRkP7fA-vYs55wnJFe3uOQCNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-YL9fb1Nxas4/Y684u_K3vKI/AAAAAAAA8K4/pSrSMmVESNoNc4C8qpUYHdtClWahNKXDgCNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6JIbjPKphpE/Y684vH3bCSI/AAAAAAAA8K8/h8XbXMdiRFA_lhPC7Z_PUFPy6_9FUYtGQCNcBGAsYHQ/s135/2026-Narciso-Anasui-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2026/",
+      "fetched_at": "2026-05-16T19:10:33.792Z",
+      "raw_id": "/nendoroid/details/n2026/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.809Z",
+      "raw_id": "Nendoroid/2000-2099/2026.json"
+    }
+  ]
+}

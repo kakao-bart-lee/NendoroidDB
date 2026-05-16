@@ -1,0 +1,68 @@
+{
+  "num": "0947",
+  "name": {
+    "en": "Nendoroid Kaguya Luna",
+    "ja": "ねんどろいど 輝夜月 (ねんどろいど かぐやるな)",
+    "ko": "카구야 루나"
+  },
+  "series": {
+    "en": "Kaguya Luna",
+    "ja": "輝夜月",
+    "ko": "버츄얼 유튜버",
+    "code": "kaguya-luna"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4888,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7311,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Rju-UNfPf1E/X4NepEhKOPI/AAAAAAABmMs/Ldsex1WjkA0W1H-Plj5ZiTGssprS2YViACLcBGAsYHQ/s270/947-Kaguya-Luna-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Rju-UNfPf1E/X4NepEhKOPI/AAAAAAABmMs/Ldsex1WjkA0W1H-Plj5ZiTGssprS2YViACLcBGAsYHQ/s270/947-Kaguya-Luna-Virtual-Youtuber-Celebrity-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-SNObtQTUJZ0/X4roa1Z3_sI/AAAAAAABn5g/tfSGjkSNIvY8zMEPMj7RPuCyKXYIz0ApQCLcBGAsYHQ/s135/947-Kaguya-Luna-Kaguya-Luna-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-C7ksIimyNPI/X4robFEKJGI/AAAAAAABn5k/VVsU-wvtaK0JRXIL_MjV3c-dHj3bo0bYwCLcBGAsYHQ/s135/947-Kaguya-Luna-Kaguya-Luna-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-d0IyJ4qKbGE/X4robYryoTI/AAAAAAABn5o/fzPye8jt20kwiYoLJ4Duj7AiAyNMO1UzwCLcBGAsYHQ/s135/947-Kaguya-Luna-Kaguya-Luna-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-pwsF3-LefXk/X4robivpZuI/AAAAAAABn5s/PVHJzPBuf8M-BZ3ma7eKx1ODZ7fdUy2OACLcBGAsYHQ/s135/947-Kaguya-Luna-Kaguya-Luna-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k5zk4L-X6f8/X4rob99iRVI/AAAAAAABn5w/yaODkZPJZy0MbtLaxbZslTVaYg26AR0HACLcBGAsYHQ/s135/947-Kaguya-Luna-Kaguya-Luna-Virtual-Youtuber-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n947/",
+      "fetched_at": "2026-05-16T19:10:34.889Z",
+      "raw_id": "/nendoroid/details/n947/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.546Z",
+      "raw_id": "Nendoroid/0900-0999/947.json"
+    }
+  ]
+}

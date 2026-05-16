@@ -1,0 +1,69 @@
+{
+  "num": "1456",
+  "name": {
+    "en": "Nendoroid Daisuke Kambe",
+    "ja": "ねんどろいど 神戸大助 (ねんどろいど かんべだいすけ)",
+    "ko": "칸베 다이스케"
+  },
+  "series": {
+    "en": "The Millionaire Detective - Balance: Unlimited",
+    "ja": "富豪刑事 Balance:UNLIMITED",
+    "ko": "부호형사",
+    "code": "the-millionaire-detective-balance-unlimited"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5200,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10047,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-okHBZiTXcE0/X4NkmstNr_I/AAAAAAABm70/4aYaTzW_340F4guNw3DOVli6jjETJpNCwCLcBGAsYHQ/s270/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-okHBZiTXcE0/X4NkmstNr_I/AAAAAAABm70/4aYaTzW_340F4guNw3DOVli6jjETJpNCwCLcBGAsYHQ/s270/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-4v8JavbeWMo/X4tBE9lLPYI/AAAAAAABrAA/aHueTQ88b2oWVAWqI-mZoLTRNhdFgIqSACLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-hvDSPFV5S3o/X4tBFQagp5I/AAAAAAABrAE/wBQzlsiTBrEEh7RKysfsxn8w23jn4Y_RwCLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-3_r3aedb6Jw/X4tBFw9bsZI/AAAAAAABrAI/RSWo5fMrYKgJh3G-_J170SqGsjJlQCU2wCLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-5YhX65ccrns/X4tBGQseoAI/AAAAAAABrAM/q6MGnfxHzwAs3gy7lDRWk3BImpRf4_HwwCLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Jps14bNCb6I/X4tBG_9NZPI/AAAAAAABrAQ/En5fQADhWpgfU19Q8uwcvEKED9ffz23jgCLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-W7COASkDJmE/X4tBHfOjN5I/AAAAAAABrAU/FrqhNLpJUDIFRuYrYABaiyKk2EO_gFlKQCLcBGAsYHQ/s135/1456-Daisuke-Kambe-The-Millionaire-Detective-Balance-Unlimited-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1456/",
+      "fetched_at": "2026-05-16T19:10:33.442Z",
+      "raw_id": "/nendoroid/details/n1456/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.670Z",
+      "raw_id": "Nendoroid/1400-1499/1456.json"
+    }
+  ]
+}

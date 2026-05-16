@@ -1,0 +1,55 @@
+{
+  "num": "1697-DX",
+  "name": {
+    "en": "Nendoroid Shiranui DX Ver.",
+    "ja": "ねんどろいど 白野威 DX Ver. (ねんどろいど しらぬい DX Ver.)",
+    "ko": "시라누이 DX"
+  },
+  "series": {
+    "en": "Okami",
+    "ja": "大神",
+    "ko": "오오카미",
+    "code": "okami"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 11628,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20210806/11628/88803/large/903fd311929781f085bc35df7592c3f9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.729Z",
+      "raw_id": "Nendoroid/1600-1699/1697-DX.json"
+    }
+  ]
+}

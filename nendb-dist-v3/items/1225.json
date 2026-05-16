@@ -1,0 +1,69 @@
+{
+  "num": "1225",
+  "name": {
+    "en": "Nendoroid Pennywise",
+    "ja": "ねんどろいど ペニーワイズ (ねんどろいど ぺにーわいず)",
+    "ko": "페니와이즈"
+  },
+  "series": {
+    "en": "IT",
+    "ja": "IT/イット “それ”が見えたら、終わり。",
+    "ko": "그것",
+    "code": "it"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8941,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-veFLsZck5pw/X4NiML_ApsI/AAAAAAABmoQ/R-VCrSo_pSQV5fNhIbyeoirKWZGW54POwCLcBGAsYHQ/s270/1225-Pennywise-IT-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-veFLsZck5pw/X4NiML_ApsI/AAAAAAABmoQ/R-VCrSo_pSQV5fNhIbyeoirKWZGW54POwCLcBGAsYHQ/s270/1225-Pennywise-IT-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-hjRnip5qj1s/X4rzc6IJYQI/AAAAAAABpuk/iVEUx04qM9EMVsFDO8GB5vdk8Arnerq7ACLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-DILTfYGJ6SY/X4rzdNcv6UI/AAAAAAABpuo/Q0D1fY0p1dQ4w_yBbSNbWb4ktwYdV8N1gCLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-BIUwk4NfcVE/X4rzdWOJD4I/AAAAAAABpus/PAi8H3u2lyICjfNsPCkLZ1ZkCXF1Uw1lgCLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/--51xdH7Bzsk/X4rzdrJr7zI/AAAAAAABpuw/DZtePpYsba0rjXFHGtZYCLqrRhiReCefACLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-4WxO61K9mWo/X4rzdwVLHWI/AAAAAAABpu0/a4_NoHs3_mkFgG-j3FC1pWmlujFjg0hmQCLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-LGRt5nWzAhw/X4rzeNzO0eI/AAAAAAABpu4/svwb_gxslVcbRenAkTtioYCnfVtjBSILgCLcBGAsYHQ/s135/1225-Pennywise-IT-Movies-and-TV-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1225/",
+      "fetched_at": "2026-05-16T19:10:33.297Z",
+      "raw_id": "/nendoroid/details/n1225/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.614Z",
+      "raw_id": "Nendoroid/1200-1299/1225.json"
+    }
+  ]
+}

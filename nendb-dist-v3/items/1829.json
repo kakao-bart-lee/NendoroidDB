@@ -1,0 +1,68 @@
+{
+  "num": "1829",
+  "name": {
+    "en": "Nendoroid Ezio Auditore",
+    "ja": "ねんどろいど エツィオ・アウディトーレ (ねんどろいど えつぃお・あうでぃとーれ)",
+    "ko": "에지오 아디토레"
+  },
+  "series": {
+    "en": "Assassin's Creed®",
+    "ja": "Assassin's Creed®",
+    "ko": "어쌔신 크리드",
+    "code": "assassin-s-creed"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12385,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-KyXjP6XrHYI/YliMhD2VDRI/AAAAAAAA5LM/2jsZ98tcfUQOe5kSv8CMZ1OGWkatFUxSACNcBGAsYHQ/s270/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-KyXjP6XrHYI/YliMhD2VDRI/AAAAAAAA5LM/2jsZ98tcfUQOe5kSv8CMZ1OGWkatFUxSACNcBGAsYHQ/s270/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mxduAPE3r5s/YliVInGpGgI/AAAAAAAA5QY/ZkP5TI5I3wQRtyev-mClDePbfHUOvKR1gCNcBGAsYHQ/s135/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1e4rWr21hh0/YliVJIsAIGI/AAAAAAAA5Qc/moisKGJv2uIK9wjP-Dud4x81aMxjGp10gCNcBGAsYHQ/s135/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-XNm07UwVGBo/YliVJcyao-I/AAAAAAAA5Qg/azXJxqEkY0wPSW8hOyKrANzIlyz5sZ8wACNcBGAsYHQ/s135/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1oOaTFJKJMw/YliVJ4aEVQI/AAAAAAAA5Qk/XAf4ta6_KgcKdv-tDtQ76AL_WeZCtil8QCNcBGAsYHQ/s135/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-i64FDTCl4f8/YliVKLhy0II/AAAAAAAA5Qo/r6ruEQZVxwQhnB25uMNadJWyWUhr_oUhACNcBGAsYHQ/s135/1829-Ezio-Auditore-Assassin%25E2%2580%2599s-Creed-II-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1829/",
+      "fetched_at": "2026-05-16T19:10:33.673Z",
+      "raw_id": "/nendoroid/details/n1829/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.761Z",
+      "raw_id": "Nendoroid/1800-1899/1829.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "num": "2456",
+  "name": {
+    "en": "March 7th",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Honkai: Star Rail",
+    "ja": null,
+    "ko": null,
+    "code": "honkai-star-rail"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-eiyf5-tejSc/Ziq_CN9peCI/AAAAAAABECg/aoNHVZAzYLsFaDYPiQiMK-n4D15x09YXQCNcBGAsYHQ/s270/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-eiyf5-tejSc/Ziq_CN9peCI/AAAAAAABECg/aoNHVZAzYLsFaDYPiQiMK-n4D15x09YXQCNcBGAsYHQ/s270/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gA-d6layCxM/Zow4Umw5WPI/AAAAAAABFu0/N7rRlc6soVA7LdyNmBcLTp4nTQyJ2s7EwCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-MwEz382xMx4/Zow4Ug0b_pI/AAAAAAABFuw/YKlmyAyRU80J17CCX2XwwCHAFFs8dIjqwCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-8NRra5q00vY/Zow4Uwh6OiI/AAAAAAABFu4/20ACf5-72GUprf_1uS45Gtqt7qNf96kigCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-wRixl-w08Ig/Zow4VhusHcI/AAAAAAABFu8/nwrv9oySFC4sFc-GoBmNuxN6sXRFc5k8ACNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-mwOolXA2ZfM/Zow4V99IqTI/AAAAAAABFvA/Std9j58tD4sj_7LRmYKMH1oSEejvrFIzwCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-ptReydU4Qgo/Zow4WYHGO5I/AAAAAAABFvE/Gd5A_nQGK1kJaLwGZGjzrgzx1BEMF0bHQCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-6Ufv_D_oDHU/Zow4XIJJa8I/AAAAAAABFvI/hVaEI6uvyEkKxybP_vErfz0lCVpeppGdgCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-bQF05TloQXo/Zow4TjEGUGI/AAAAAAABFug/Qp8y-eKthn4HpkVstI7M16DBylSkJ-ghACNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-VbcEDjBaRFY/Zow4UOkKmwI/AAAAAAABFuk/GlngDoFSTHAyyuQKGumpQpB74du_nPiHQCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-11.jpg",
+      "https://1.bp.blogspot.com/-af-cx3SUulU/Zow4UEDUC9I/AAAAAAABFuo/XWIbcnJ1UKcn23I-ibUj-dt9w-tS-ziZQCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-12.jpg",
+      "https://1.bp.blogspot.com/-B-6LfHY3jDI/Zow4UT7Y5eI/AAAAAAABFus/PxnBMeIodzIaGUe9m6gncewTLitn1phBgCNcBGAsYHQ/s135/2456-March-7th-Honkai-Star-Rail-Video-Games-Nendoroid-13.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2456/",
+      "fetched_at": "2026-05-16T19:10:34.070Z",
+      "raw_id": "/nendoroid/details/n2456/"
+    }
+  ]
+}

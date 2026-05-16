@@ -1,0 +1,64 @@
+{
+  "num": "2487",
+  "name": {
+    "en": "Tama Kunimi",
+    "ja": null,
+    "ko": null
+  },
+  "series": {
+    "en": "Heaven Burns Red",
+    "ja": null,
+    "ko": null,
+    "code": "heaven-burns-red"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2024",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": null,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": null,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JZBOypHXIB0/ZljX8Iyty8I/AAAAAAABEgk/qUhAG_JGaEM6GfHoUokoIsFc0AD2ghvNgCNcBGAsYHQ/s270/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JZBOypHXIB0/ZljX8Iyty8I/AAAAAAABEgk/qUhAG_JGaEM6GfHoUokoIsFc0AD2ghvNgCNcBGAsYHQ/s270/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-01WKDe140s4/Zow6DL5Jo6I/AAAAAAABF74/L9rTfgvHGFICXY89UyxmW7P_yOjJQ8BJgCNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-t2GXFy1Yg-c/Zow6Du5ngcI/AAAAAAABF78/wWV4Rc4mDgEkLV4YjYouIA4S9GBmdGlLACNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-at78EQkjDDk/Zow6EN9E6UI/AAAAAAABF8A/mTFGdcpyEUUzYnh3TbTfapaVIQ748ZRrACNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-B8r7Isgx9hY/Zow6EgRx5II/AAAAAAABF8E/a0p1NfqDmFcakpnE9YnE33medA6xl-JDgCNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-rDY2XlnKJ20/Zow6FCL3FMI/AAAAAAABF8I/cCGYyw3pFcoi2pLQbPlt4r3VMQwUedCIQCNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-hViB0JDE37E/Zow6FljUj3I/AAAAAAABF8M/9nLHYtcf6u0QYkTHNMuJsc0EIjkSiBbbwCNcBGAsYHQ/s135/2487-Tama-Kunimi-Heaven-Burns-Red-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2487/",
+      "fetched_at": "2026-05-16T19:10:34.091Z",
+      "raw_id": "/nendoroid/details/n2487/"
+    }
+  ]
+}

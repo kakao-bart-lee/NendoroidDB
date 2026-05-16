@@ -1,0 +1,68 @@
+{
+  "num": "0277",
+  "name": {
+    "en": "Nendoroid Aoko Aozaki (ねんどろいど あおざきあおこ)",
+    "ja": "ねんどろいど 蒼崎青子 (ねんどろいど あおざきあおこ)",
+    "ko": "아오자키 아오코"
+  },
+  "series": {
+    "en": "Mahou Tsukai no Yoru",
+    "ja": "魔法使いの夜",
+    "ko": "마법사의 밤",
+    "code": "mahou-tsukai-no-yoru"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3673,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-6u24zcP1obk/X4NLYWxcWSI/AAAAAAABlaI/gI3b0M6RsrM3Vebcb0A6LJ7U_s5SAuMRQCLcBGAsYHQ/s270/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-6u24zcP1obk/X4NLYWxcWSI/AAAAAAABlaI/gI3b0M6RsrM3Vebcb0A6LJ7U_s5SAuMRQCLcBGAsYHQ/s270/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-0uxb5ak1KVU/X4dYOJ2RY8I/AAAAAAAAqpY/tm9mPdqLb9gi5-8H2dzB8TBNFcVplOdugCLcBGAsYHQ/s135/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-i8wZrC5-zLs/X4dYOVI3USI/AAAAAAAAqpc/vt7FtQhr-dsDekGrOcidp0492sHEfYa7ACLcBGAsYHQ/s135/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-w9EOcCL-yIU/X4dYOQkjDCI/AAAAAAAAqpg/-QS0iRsOLx0gIfsPUxtOeuknLcPWTFxnQCLcBGAsYHQ/s135/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-d7Bj24h-mKw/X4dYOiWw1FI/AAAAAAAAqpk/kJjh-K-wj4Uy1_rBDMT4RsePJExL557ZQCLcBGAsYHQ/s135/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-09T4Jhnu-P0/X4dYOwSqveI/AAAAAAAAqpo/qkv6PtP51PEXdM5kDDWo30kjDVbyUUsHACLcBGAsYHQ/s135/277-Aozaki-Aoko-Mahou-Tsukai-No-Yoru-Video-Game-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n277/",
+      "fetched_at": "2026-05-16T19:10:34.305Z",
+      "raw_id": "/nendoroid/details/n277/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.340Z",
+      "raw_id": "Nendoroid/0200-0299/277.json"
+    }
+  ]
+}

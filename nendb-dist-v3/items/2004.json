@@ -1,0 +1,96 @@
+{
+  "num": "2004",
+  "name": {
+    "en": "Nendoroid Makima",
+    "ja": "ねんどろいど マキマ (ねんどろいど まきま)",
+    "ko": "마키마"
+  },
+  "series": {
+    "en": "Chainsaw Man",
+    "ja": "チェンソーマン",
+    "ko": "체인소 맨",
+    "code": "chainsaw-man"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6200,
+  "gtin": "4580828664548",
+  "gsc_product_id": "11275",
+  "gsc_product_num": 13590,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/11275",
+    "ja": "https://www.goodsmile.com/ja/product/11275"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11275/c8d11398fe37347f9213a37f542ef25f.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-J3JIwbSXOzU/Y45wWReBV3I/AAAAAAAA7sg/6UNbeqYCG7ciZUSFHW7vB9xRJ18h7PFhACNcBGAsYHQ/s270/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-26HG1M8xrAQ/Y4512p_-tfI/AAAAAAAA76E/KSMWxQhWOBMsZbcsSvKTwgqUVyu0yCbSgCNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-pOq0Wz0exO0/Y4512lh1r6I/AAAAAAAA76I/8L3rsMyertcpPWG_Wi0Up4BvZ_Yb11y5gCNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-B8b5YKavtug/Y4513EZY30I/AAAAAAAA76M/o4MMCJQWvKQ7urKQsl8gfbpn_aGwCCCBQCNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-CSwFYauEIsY/Y4513tz__KI/AAAAAAAA76Q/M02uP4aWQTYhnHWg0g5ZcBpybFY0uLzYQCNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-WJJPyT-oSvE/Y4514JDyqEI/AAAAAAAA76U/umylUwHCrr4Q9kLb77CILR2q096pQPMIACNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-gmies7in94c/Y4514pz83cI/AAAAAAAA76Y/LmpFdvKJ9m8KL-ZPABHbIJsZwxsXXz-rQCNcBGAsYHQ/s135/2004-Makima-Chainsaw-Man-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20221124/13590/107696/large/e3eb1d64c721a98a7ce0ceba701fb209.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/11275/c8d11398fe37347f9213a37f542ef25f.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11275",
+      "price_local": 6200,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:13:36.405Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/11275",
+      "fetched_at": "2026-05-16T12:13:36.405Z",
+      "raw_id": "11275"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/11275",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "11275"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2004/",
+      "fetched_at": "2026-05-16T19:10:33.780Z",
+      "raw_id": "/nendoroid/details/n2004/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.803Z",
+      "raw_id": "Nendoroid/2000-2099/2004.json"
+    }
+  ]
+}

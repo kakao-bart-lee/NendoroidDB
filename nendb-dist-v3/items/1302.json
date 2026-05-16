@@ -1,0 +1,68 @@
+{
+  "num": "1302",
+  "name": {
+    "en": "Nendoroid Sayo Hikawa: Stage Outfit Ver.",
+    "ja": "ねんどろいど 氷川紗夜 ステージ衣装Ver. (ねんどろいど ひかわさよ すてーじいしょうVer.)",
+    "ko": "히카와 사요 스테이지 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9349,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-u8XifRbLNAQ/X4NjgWvhH2I/AAAAAAABmy8/pBhX0_KFe3kj3Joqa7Q4W_oallAYGr3BgCLcBGAsYHQ/s270/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-u8XifRbLNAQ/X4NjgWvhH2I/AAAAAAABmy8/pBhX0_KFe3kj3Joqa7Q4W_oallAYGr3BgCLcBGAsYHQ/s270/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-pGjcCoVBQ-0/X4s8aaVMk5I/AAAAAAABqQY/jzOqSrDD5XYBlVJvkYtUdGwWMm1WtIRzgCLcBGAsYHQ/s135/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6MukXoNj_xM/X4s8ayqOOBI/AAAAAAABqQc/DVi0h6EB_LAj9jXqvsmfS5HXKPKSVF5vQCLcBGAsYHQ/s135/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-wZWjxbao0QU/X4s8bPobdoI/AAAAAAABqQg/jXoFFtxgjU0XQva8CFq9t3al8w6GmFucQCLcBGAsYHQ/s135/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-e2L_Qzg98m4/X4s8bEe0W0I/AAAAAAABqQk/vA49snurJ0MiPYPYoimH6cbalXyoyMvHACLcBGAsYHQ/s135/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-S4YTkugFB1I/X4s8bnprznI/AAAAAAABqQo/gzpRyfPIODs_toC_eVyl5g2Y2jnl6Or2gCLcBGAsYHQ/s135/1302-Sayo-Hikawa-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1302/",
+      "fetched_at": "2026-05-16T19:10:33.345Z",
+      "raw_id": "/nendoroid/details/n1302/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.633Z",
+      "raw_id": "Nendoroid/1300-1399/1302.json"
+    }
+  ]
+}

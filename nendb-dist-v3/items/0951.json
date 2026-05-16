@@ -1,0 +1,68 @@
+{
+  "num": "0951",
+  "name": {
+    "en": "Nendoroid Yang Wen-li",
+    "ja": "ねんどろいど ヤン・ウェンリー (ねんどろいど やん・うぇんりー)",
+    "ko": "양 웬리"
+  },
+  "series": {
+    "en": "Legend of the Galactic Heroes: Die Neue These",
+    "ja": "銀河英雄伝説 Die Neue These",
+    "ko": "은하영웅전설 Die Neue These",
+    "code": "legend-of-the-galactic-heroes-die-neue-these"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 4584,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 7356,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-_kjq_C_VN4g/X4NerCR7MtI/AAAAAAABmM8/Ik05WmxFLcsEBOukhUleK-wdfRn-qjp4QCLcBGAsYHQ/s270/951-Yang-Wen-Li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-_kjq_C_VN4g/X4NerCR7MtI/AAAAAAABmM8/Ik05WmxFLcsEBOukhUleK-wdfRn-qjp4QCLcBGAsYHQ/s270/951-Yang-Wen-Li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-7OBoGboeD0I/X4rogWQdQlI/AAAAAAABn64/klB-ZewlHlM7G_3RADFSd0ZmZEqcEbiygCLcBGAsYHQ/s135/951-Yang-Wen-li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-6omyzNiQCHs/X4rogi1-MfI/AAAAAAABn68/O88aZ9K3XWsXuDVNUYBZNpP0nb27-IhgACLcBGAsYHQ/s135/951-Yang-Wen-li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-9NPu6Cf5nhs/X4rog6AjgjI/AAAAAAABn7A/nhCc72tMYwgE9islRch3Wkh0cw9xfxPlACLcBGAsYHQ/s135/951-Yang-Wen-li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-1ihJY9f4hhU/X4rohMUuk7I/AAAAAAABn7E/4nbdX_Bb7zcWVnX_ZmO17j3zsP6quNexgCLcBGAsYHQ/s135/951-Yang-Wen-li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-UMwxrWw4NcM/X4rohbjaVFI/AAAAAAABn7I/tnQ8a6LOijEImLQYHqcywgJe77MCATcowCLcBGAsYHQ/s135/951-Yang-Wen-li-Legend-of-the-Galactic-Heroes-Die-Neue-These-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n951/",
+      "fetched_at": "2026-05-16T19:10:34.891Z",
+      "raw_id": "/nendoroid/details/n951/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.547Z",
+      "raw_id": "Nendoroid/0900-0999/951.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "8546",
+  "name": {
+    "en": "Nendoroid Doll: Kigurumi Pajamas (American Shorthair)",
+    "ja": "ねんどろいどどーる きぐるみパジャマ(アメショ) (ねんどろいどどーる きぐるみぱじゃま(あめしょ))",
+    "ko": "키구루미 잠옷(아메리칸 쇼트헤어)"
+  },
+  "series": {
+    "en": "Nendoroid Doll",
+    "ja": "ねんどろいどどーる",
+    "ko": "굿스마일 오리지널",
+    "code": "nendoroid-doll"
+  },
+  "category": "doll",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020-01",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 2800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 8546,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20190710/8546/61860/large/4f87ccf6e336723d95a4bc92e1ad59f9.jpg",
+    "gallery": []
+  },
+  "character_gender": "Unknown",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.939Z",
+      "raw_id": "NendoroidDoll/Clothes/8546.json"
+    }
+  ]
+}

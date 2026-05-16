@@ -1,0 +1,69 @@
+{
+  "num": "2052",
+  "name": {
+    "en": "Nendoroid Zhao Ling-Er: Nuwa's Descendants Ver.",
+    "ja": "ねんどろいど 趙霊児 女媧後代Ver. (ねんどろいど ちょうれいじ じょかこうだいVer.)",
+    "ko": "조령아: 여와후인 Ver."
+  },
+  "series": {
+    "en": "Legend of Sword and Fairy",
+    "ja": "仙剣奇侠伝",
+    "ko": "선검기협전",
+    "code": "legend-of-sword-and-fairy"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13808,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-PY_wbb4B33Q/Y9mKCl1Q3lI/AAAAAAAA8fU/iuTJ_kZh-g8WZB84s_aSzYqigaSbvPS4wCNcBGAsYHQ/s270/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-PY_wbb4B33Q/Y9mKCl1Q3lI/AAAAAAAA8fU/iuTJ_kZh-g8WZB84s_aSzYqigaSbvPS4wCNcBGAsYHQ/s270/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Z2j8eSHa8bk/Y9mPYHoEDyI/AAAAAAAA8pM/HIEaMmsYFUcDLMfT4_hpT3dfpqm-aN1WACNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-bHp3-IS7eK4/Y9mPYiNQFbI/AAAAAAAA8pQ/DmcJD8gs4kcWtCQa2P8a7W4Ht4GjfGbkACNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-thd2uz_7BFs/Y9mPZLYEk_I/AAAAAAAA8pU/gLxdXvRU3CkBp1hQBuDNdsbnBu2-58EGQCNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-ABNLbR_zXnI/Y9mPZpmp6sI/AAAAAAAA8pY/yrBcsrxyG2A3XbjnaKqkm1bx_fFC6pidwCNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-BzZVMh2UaGI/Y9mPaOzYsoI/AAAAAAAA8pc/l0qmMl2hMN863A_uzfC1QQRSzC3b8upxgCNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qxDNBBqArtw/Y9mPaj0AEyI/AAAAAAAA8pg/3LYfgyrfD7UY_FTQ9F37Kr-GftZyui4DgCNcBGAsYHQ/s135/2052-Zhao-Ling-Er-Legend-of-Sword-and-Fairy-Video-Games-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2052/",
+      "fetched_at": "2026-05-16T19:10:33.810Z",
+      "raw_id": "/nendoroid/details/n2052/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.816Z",
+      "raw_id": "Nendoroid/2000-2099/2052.json"
+    }
+  ]
+}

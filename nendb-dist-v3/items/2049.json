@@ -1,0 +1,69 @@
+{
+  "num": "2049",
+  "name": {
+    "en": "Nendoroid Langa",
+    "ja": "ねんどろいど ランガ (ねんどろいど らんが)",
+    "ko": "하세가와 란가"
+  },
+  "series": {
+    "en": "SK8 the Infinity",
+    "ja": "SK∞ エスケーエイト",
+    "ko": "SK8 에스케이 에이트",
+    "code": "sk8-the-infinity"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13908,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-WBc8MY0xOdI/ZA3d_MNe4VI/AAAAAAAA9J4/nDGPw7u6V3InbGPXDsJNFnGOG3jWSHBJQCNcBGAsYHQ/s270/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-WBc8MY0xOdI/ZA3d_MNe4VI/AAAAAAAA9J4/nDGPw7u6V3InbGPXDsJNFnGOG3jWSHBJQCNcBGAsYHQ/s270/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-Czenlkkd-XI/ZA3cskMz3dI/AAAAAAAA8-U/yKmojF821YMbSXB5pI7Ei_pRlawXnxWFQCNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-cB1_8mQQMpo/ZA3ctNwbOKI/AAAAAAAA8-Y/WwvlW5fziPUh1-4jyxrUhX9nvFxeFwqcQCNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qXEYW8tc0io/ZA3ctBdrERI/AAAAAAAA8-c/qVvnPk0jJzMgbHPiVEXz5Y_tidfyJShgwCNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Kbe-wQUxHLQ/ZA3ctXGDLMI/AAAAAAAA8-g/KG0vlfuJgpUi8ykSTjbzkqP48JsQ20ZnACNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-obfZ6po0DxA/ZA3ctbxEGCI/AAAAAAAA8-k/0YztlvKkoHwuMqTXCT-QPQzAzaD41WGQACNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-lv5GDGSZsPw/ZA3ctqKp1vI/AAAAAAAA8-o/qw9anRhNOkAUDhiNJV_SMXxd9DbpzKUcgCNcBGAsYHQ/s135/2049-Langa-SK8-the-Infinity-Anime-and-Manga-Nendoroid-8.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2049/",
+      "fetched_at": "2026-05-16T19:10:33.808Z",
+      "raw_id": "/nendoroid/details/n2049/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.814Z",
+      "raw_id": "Nendoroid/2000-2099/2049.json"
+    }
+  ]
+}

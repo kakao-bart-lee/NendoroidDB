@@ -1,0 +1,70 @@
+{
+  "num": "2108",
+  "name": {
+    "en": "Nendoroid Fuyutsuki-san",
+    "ja": "ねんどろいど 冬月さん (ねんどろいど ふゆつきさん)",
+    "ko": "후유츠키 씨"
+  },
+  "series": {
+    "en": "The Ice Guy and His Cool Female Colleague",
+    "ja": "氷属性男子とクールな同僚女子",
+    "ko": "빙속성 남자와 쿨한 동료 여자",
+    "code": "the-ice-guy-and-his-cool-female-colleague"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7000,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14183,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-jVyPOEuOpho/ZCnVduHspcI/AAAAAAAA9Uk/ehsJtI_b2uYZsikloTEvASZgzr_qm4XuwCNcBGAsYHQ/s270/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-jVyPOEuOpho/ZCnVduHspcI/AAAAAAAA9Uk/ehsJtI_b2uYZsikloTEvASZgzr_qm4XuwCNcBGAsYHQ/s270/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-U0UoW6_Tj40/ZCnZ_BesPeI/AAAAAAAA9aA/XKBTign54QYUouClhpfbMNn5ontLRGgQwCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-TbYbNdj9HtQ/ZCnZ_s_j0sI/AAAAAAAA9aE/Yp704PTjGq8kmAXsfgNeyYG-vUo53gXEQCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-ZIQlhdS-sic/ZCnaACxwKSI/AAAAAAAA9aM/3UKHSy0-59w1234Nl3jhOzNqzXX81ch4QCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-FmdGvLQvukI/ZCnaAI2fQaI/AAAAAAAA9aI/2rWTLD1cWjsucmnn4bKgxw8rwVXGqB7nACNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Uck7Bj6aJeo/ZCnaAW0jR9I/AAAAAAAA9aQ/-nojbkZCP80icuev1BTWXd5bDkGn-oTcgCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-rc4-kCKdeEA/ZCnaAmxHBaI/AAAAAAAA9aU/nqQK3apM2f8fIo8G73ch87K3pq2iY7DOQCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-wyJ2juKRJyI/ZCnaAm4g33I/AAAAAAAA9aY/v1_5pvFInHwF9VJk3IQ6OuGQuaRaf4i8QCNcBGAsYHQ/s135/2108-Fuyutsuki-san-The-Ice-Guy-and-His-Cool-Female-Colleague-Anime-and-Manga-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2108/",
+      "fetched_at": "2026-05-16T19:10:33.844Z",
+      "raw_id": "/nendoroid/details/n2108/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.828Z",
+      "raw_id": "Nendoroid/2100-2199/2108.json"
+    }
+  ]
+}

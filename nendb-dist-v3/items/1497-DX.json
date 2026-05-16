@@ -1,0 +1,55 @@
+{
+  "num": "1497-DX",
+  "name": {
+    "en": "Nendoroid Iron Spider: Endgame Ver. DX",
+    "ja": "ねんどろいど アイアン・スパイダー エンドゲーム Ver. DX (ねんどろいど あいあん・すぱいだー えんどげーむ Ver. DX)",
+    "ko": "스파이더맨 엔드게임 DX Ver."
+  },
+  "series": {
+    "en": "Avengers:Endgame",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "ko": "어벤져스",
+    "code": "avengers-endgame"
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2021-06",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 8500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 10235,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20201015/10235/75876/large/88fb9d7ed7b1b8953235658327bcf7be.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.680Z",
+      "raw_id": "Nendoroid/1400-1499/1497-DX.json"
+    }
+  ]
+}

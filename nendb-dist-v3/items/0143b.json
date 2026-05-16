@@ -1,0 +1,68 @@
+{
+  "num": "0143b",
+  "name": {
+    "en": "Risty",
+    "ja": "ねんどろいど リスティ 2PカラーVer. (ねんどろいど りすてぃ 2Pからーver.)",
+    "ko": "리스티 2P컬러 Ver."
+  },
+  "series": {
+    "en": "Queen's Blade",
+    "ja": "クイーンズブレイド",
+    "ko": "퀸즈 블레이드",
+    "code": "queen-s-blade"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2011",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3390,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-TjikLIg1g6A/X4NJ8o5VHII/AAAAAAABlQs/MqTbQQUG4ZQLFNr1TRX0LvEgmfF1_Yk1QCLcBGAsYHQ/s270/143b-Risty-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-TjikLIg1g6A/X4NJ8o5VHII/AAAAAAABlQs/MqTbQQUG4ZQLFNr1TRX0LvEgmfF1_Yk1QCLcBGAsYHQ/s270/143b-Risty-2P-Ver-Queens-Blade-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-crE7mU-LXgU/X4dS5xvRMaI/AAAAAAAAp7k/P7BfPP3aOPMyquP8O_8EUCLxQBqJu5D3QCLcBGAsYHQ/s135/143B-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1JOgVI1FJrY/X4dS6QpqZRI/AAAAAAAAp7o/8Rziz345FsQHVbiiuu_h2ij_u4058uByQCLcBGAsYHQ/s135/143B-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-qol10tiofKY/X4dS6lv9pwI/AAAAAAAAp7s/PTOd5ICHh1wJzhPV8xi-GB8_QNpgAeDYACLcBGAsYHQ/s135/143B-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-F4MbPuDi0YA/X4dS6_3HBOI/AAAAAAAAp7w/lDCb-sLQh3kGz5kd77TXLdH6dstVspPPQCLcBGAsYHQ/s135/143B-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-Qxw2-oeiQP4/X4dS7IRDBHI/AAAAAAAAp70/nl1IgHYNAWsGEwnWPbH3jj1QXQNXGWZTwCLcBGAsYHQ/s135/143B-Risty-Queens-Blade-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n143b/",
+      "fetched_at": "2026-05-16T19:10:33.432Z",
+      "raw_id": "/nendoroid/details/n143b/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.300Z",
+      "raw_id": "Nendoroid/0100-0199/143b.json"
+    }
+  ]
+}

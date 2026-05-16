@@ -1,0 +1,68 @@
+{
+  "num": "1340",
+  "name": {
+    "en": "Nendoroid Kaoru Seta: Stage Outfit Ver.",
+    "ja": "ねんどろいど 瀬田薫 ステージ衣装Ver. (ねんどろいど せたかおる すてーじいしょうVer.)",
+    "ko": "세타 카오루 스테이지 Ver."
+  },
+  "series": {
+    "en": "BanG Dream! Girls Band Party!",
+    "ja": "バンドリ！ ガールズバンドパーティ！",
+    "ko": "BanG Dream!",
+    "code": "bang-dream-girls-band-party"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2020",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5300,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 9498,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-JUEWdgdEN2w/X4NjuP_FDlI/AAAAAAABm1U/tm_nX6dy1n4F8GkoJLmx4vrcAFokr12qACLcBGAsYHQ/s270/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-JUEWdgdEN2w/X4NjuP_FDlI/AAAAAAABm1U/tm_nX6dy1n4F8GkoJLmx4vrcAFokr12qACLcBGAsYHQ/s270/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-wiyoWT3g2Bk/X4s9RxSajCI/AAAAAAABqdc/6vn6BirB7ZQQ7aI409ve7VFMtJmyQcG0ACLcBGAsYHQ/s135/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-GVsLEqXljiE/X4s9SKbS3gI/AAAAAAABqdg/ZsJXXwi6EuEw815W2_t5eTh9j5eA0nATgCLcBGAsYHQ/s135/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-1AoD-eWHCvs/X4s9ScCDt3I/AAAAAAABqdk/STVHHY2TFD8EN3GFxUg00uiGQC_vhX0sgCLcBGAsYHQ/s135/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-r5616ESVN0I/X4s9Sr_0UgI/AAAAAAABqdo/ahD0YXrAEr4nYcTALBj8HsRQzDOFcL7LQCLcBGAsYHQ/s135/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-XW9rA2c_0l4/X4s9S5iXSWI/AAAAAAABqds/t7UKqcBpkgM4pOP3NuR1VWQ3Aq1n7cBYwCLcBGAsYHQ/s135/1340-Kaoru-Seta-BanG-Dream-Girls-Band-Party-Video-Games-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1340/",
+      "fetched_at": "2026-05-16T19:10:33.370Z",
+      "raw_id": "/nendoroid/details/n1340/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.642Z",
+      "raw_id": "Nendoroid/1300-1399/1340.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "num": "1966",
+  "name": {
+    "en": "Nendoroid Foo · F",
+    "ja": "ねんどろいど フー・F (ねんどろいど ふー・ふぁいたーず)",
+    "ko": "푸 파이터즈"
+  },
+  "series": {
+    "en": "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko": "죠죠의 기묘한 모험: 스톤 오션",
+    "code": "jojo-s-bizarre-adventure-stone-ocean"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5478,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13271,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1RyhbLPGNZs/Y02wF64h3wI/AAAAAAAA7AA/HHf4NrRKfmEdhrFmL0u0H0FP2yErzm9xwCNcBGAsYHQ/s270/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1RyhbLPGNZs/Y02wF64h3wI/AAAAAAAA7AA/HHf4NrRKfmEdhrFmL0u0H0FP2yErzm9xwCNcBGAsYHQ/s270/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tPNT5V-oQ-g/Y028Cx4T1BI/AAAAAAAA7WQ/ubSD6QW6eqgx-LPmpuLgByLqW6a1e7fNgCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-H-Ik6GjjaQk/Y028DY4oTtI/AAAAAAAA7WU/KQZ5W03OzycrnmjJzy51bbhtf-QqQV-2wCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-St9RF0Ehyc8/Y028DTy1U_I/AAAAAAAA7WY/oRgU2Gr3SiAqbkERljXkxGwXHIBIGeN6ACNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-0lr4Y_x_uEw/Y028DqcIWyI/AAAAAAAA7Wc/_E7wBjrZawQKyj4DEDWCvTWbu7F6cwbLgCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-KpXJ2SdJB-E/Y028EHEib2I/AAAAAAAA7Wg/9BnKg59yf5kqOlD4xcJ1zzIetoh8AYXKwCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-mZdt-AsXJgU/Y028EUOR3YI/AAAAAAAA7Wk/IAjZixornTQ98HDEhtVTR74jCc319kIjQCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-VKIGw-fTWbE/Y028EqniGuI/AAAAAAAA7Wo/glhwd6kW118JSvr0PW1Y_WQRGBhCIOkAQCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-w28BNrKV_eI/Y028CTw5gZI/AAAAAAAA7WM/iFocYNj5TS0KxIW5CWNomKK-gGEsB_2rwCNcBGAsYHQ/s135/1966-Foo-F.-JoJos-Bizarre-Adventure-Stone-Ocean-Anime-and-Manga-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1966/",
+      "fetched_at": "2026-05-16T19:10:33.757Z",
+      "raw_id": "/nendoroid/details/n1966/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.793Z",
+      "raw_id": "Nendoroid/1900-1999/1966.json"
+    }
+  ]
+}

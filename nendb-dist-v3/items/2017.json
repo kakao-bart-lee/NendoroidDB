@@ -1,0 +1,55 @@
+{
+  "num": "2017",
+  "name": {
+    "en": null,
+    "ja": "ねんどろいど Charlie (ねんどろいど ちゃーりー)",
+    "ko": "찰리수"
+  },
+  "series": {
+    "en": null,
+    "ja": "光と夜の恋",
+    "ko": "광여야지연",
+    "code": null
+  },
+  "category": "regular",
+  "nh_type": null,
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023-05",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7900,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13891,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://images.goodsmile.info/cgm/images/product/20230126/13891/110864/large/989567825465ec7581e361f5f418739c.jpg",
+    "gallery": []
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.807Z",
+      "raw_id": "Nendoroid/2000-2099/2017.json"
+    }
+  ]
+}

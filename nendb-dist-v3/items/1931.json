@@ -1,0 +1,68 @@
+{
+  "num": "1931",
+  "name": {
+    "en": "Nendoroid Vivy",
+    "ja": "ねんどろいど ヴィヴィ (ねんどろいど ゔぃゔぃ)",
+    "ko": "비비"
+  },
+  "series": {
+    "en": "Vivy -Fluorite Eye's Song-",
+    "ja": "Vivy -Fluorite Eye's Song-",
+    "ko": "Vivy -Fluorite Eye’s Song-",
+    "code": "vivy-fluorite-eye-s-song"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7400,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 13076,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-Crj3CeOXVyY/Yw_WazhlxpI/AAAAAAAA6bY/AiyWB0igwRYddYM8FLybcb3LvKlJh1SwACNcBGAsYHQ/s270/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Crj3CeOXVyY/Yw_WazhlxpI/AAAAAAAA6bY/AiyWB0igwRYddYM8FLybcb3LvKlJh1SwACNcBGAsYHQ/s270/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-tsPV3qG5zvc/YxEYNboJT1I/AAAAAAAA6vU/qEwOV63hwHEA6ULL5yRbhNsUJogK7XQCACNcBGAsYHQ/s135/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-baR_4tK3aOg/YxEYNxgAWMI/AAAAAAAA6vY/7UVj4911YSohpAHdNpX7mma2m3lBMPpMwCNcBGAsYHQ/s135/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-M-GtY1ZLWog/YxEYOXIt-YI/AAAAAAAA6vc/ycc0DlMHtVkJsedLgW0ownhNfmq8GrAigCNcBGAsYHQ/s135/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-idLslUFMe_A/YxEYO5jZGEI/AAAAAAAA6vg/4QLUYWe1-7k4IOUf5PpTXuo2bpxrTgGpwCNcBGAsYHQ/s135/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-LmlSYtpYeuA/YxEYPfPaePI/AAAAAAAA6vk/zH_cr_NXLhIwFwYGVovprxM3WjLS8pJQgCNcBGAsYHQ/s135/1931-Vivy-Vivy-Fluorite-Eyes-Song-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1931/",
+      "fetched_at": "2026-05-16T19:10:33.737Z",
+      "raw_id": "/nendoroid/details/n1931/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.785Z",
+      "raw_id": "Nendoroid/1900-1999/1931.json"
+    }
+  ]
+}

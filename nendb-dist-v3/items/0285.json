@@ -1,0 +1,68 @@
+{
+  "num": "0285",
+  "name": {
+    "en": "Nendoroid Ultimate Madoka (ねんどろいど あるてぃめっとまどか)",
+    "ja": "ねんどろいど アルティメットまどか (ねんどろいど あるてぃめっとまどか)",
+    "ko": "얼티밋 마도카"
+  },
+  "series": {
+    "en": "Puella Magi Madoka Magica",
+    "ja": "魔法少女まどか☆マギカ",
+    "ko": "마법소녀 마도카 마기카",
+    "code": "puella-magi-madoka-magica"
+  },
+  "category": "regular",
+  "nh_type": "Anime & Manga",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2013",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3712,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-ruwKptH0ytc/X4NLaOT7_iI/AAAAAAABlao/7l9LBvtoYWURKvOXbIdKxZRhNAqunfAiQCLcBGAsYHQ/s270/285-Ultimate-Madoka-Madoka-Magica-Anime-and-Manga-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-ruwKptH0ytc/X4NLaOT7_iI/AAAAAAABlao/7l9LBvtoYWURKvOXbIdKxZRhNAqunfAiQCLcBGAsYHQ/s270/285-Ultimate-Madoka-Madoka-Magica-Anime-and-Manga-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-oB99FTLd_5M/X4dYXK8jLhI/AAAAAAAAqr0/IfRpv1pzJXAGaJIe8WPihkv5AQPVNBfUgCLcBGAsYHQ/s135/285-Ultimate-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-1-wVPQ6RQtk/X4dYXSVi1KI/AAAAAAAAqr4/z2Bv9mUhj0kHjrXFT8C34ARkh_6LxKfJwCLcBGAsYHQ/s135/285-Ultimate-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5pavp1jxf0k/X4dYXhPQDzI/AAAAAAAAqr8/VZLwhh-M7MYG4JCFimmiUUxG0nuuF9l1wCLcBGAsYHQ/s135/285-Ultimate-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-kBvKhDq6cDE/X4dYXrbfUMI/AAAAAAAAqsA/3ccvGuLBSAs_mDsM8JHq_C6YD_IFhQzXQCLcBGAsYHQ/s135/285-Ultimate-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-vu7KAbQew50/X4dYX_d0lDI/AAAAAAAAqsE/HaWNLTjIbpA4Fb42ymn30owAQe0uHyPogCLcBGAsYHQ/s135/285-Ultimate-Madoka-Puella-Magi-Madoka-Magica-Anime-and-Manga-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n285/",
+      "fetched_at": "2026-05-16T19:10:34.357Z",
+      "raw_id": "/nendoroid/details/n285/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.342Z",
+      "raw_id": "Nendoroid/0200-0299/285.json"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "num": "0830",
+  "name": {
+    "en": "Nendoroid Murakumo",
+    "ja": "ねんどろいど 叢雲 (ねんどろいど むらくも)",
+    "ko": "무라쿠모"
+  },
+  "series": {
+    "en": "Kantai Collection -KanColle-",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "ko": "함대 컬렉션",
+    "code": "kantai-collection-kancolle"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2018",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 5907,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 6749,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-lpVwQ439HmQ/X4Ndxdgd1iI/AAAAAAABmEg/GnvQFWLMu5gWhBLZvTZz13s2QoSJznV3QCLcBGAsYHQ/s270/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-lpVwQ439HmQ/X4Ndxdgd1iI/AAAAAAABmEg/GnvQFWLMu5gWhBLZvTZz13s2QoSJznV3QCLcBGAsYHQ/s270/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-gBmfwkGOx3g/X4rimhc7zLI/AAAAAAABnJ4/M7FC0cxSi9A6-ChAo9-7AtC_uTKcP1nuACLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-IaKNzHlTRJI/X4rim8AX72I/AAAAAAABnJ8/rEkhKdUzzwEF-7ht3uzsCUPNhUs41ggdQCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-w6DOc1-aiRU/X4rinHQ8LaI/AAAAAAABnKA/yJSI_ziqyEAyqSIOa1WihZbOcyr7SDhngCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-SsY6s62u2VY/X4rinTV2XrI/AAAAAAABnKE/fKCJkj79AMwdLsbF2APGtAxWCdK65IFKgCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-lAAbcFVUMCI/X4rintxAlFI/AAAAAAABnKI/PpsCxywJKPYEPtTXO2JObN8-yzEQkTMzwCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-qgA80B2sHDk/X4rinyvJj3I/AAAAAAABnKM/gP2hr-G34ccPIWKUEifn0DqffAE1kVnggCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-VdmoXYsEX-0/X4rioOhMqeI/AAAAAAABnKQ/eW2OQT-LdLE764-WEySOqaR4QjSYjw52QCLcBGAsYHQ/s135/830-Murakumo-Kantai-Collection-KanColle-Video-Games-Nendoroid-9.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n830/",
+      "fetched_at": "2026-05-16T19:10:34.824Z",
+      "raw_id": "/nendoroid/details/n830/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.517Z",
+      "raw_id": "Nendoroid/0800-0899/830.json"
+    }
+  ]
+}

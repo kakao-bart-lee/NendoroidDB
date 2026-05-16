@@ -1,0 +1,91 @@
+{
+  "num": "2543",
+  "name": {
+    "en": "AZKi",
+    "ja": "ねんどろいど AZKi",
+    "ko": null
+  },
+  "series": {
+    "en": "Hololive Production",
+    "ja": "ホロライブプロダクション",
+    "ko": null,
+    "code": "hololive-production"
+  },
+  "category": "other",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2025",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 7500,
+  "gtin": "4580590194564",
+  "gsc_product_id": "47332",
+  "gsc_product_num": null,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/47332",
+    "ja": "https://www.goodsmile.com/ja/product/47332"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47332/K2jCPnwsNHF3cp7YBzfvd9bVREGALumr.jpg",
+    "gallery": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhScY_yFLNpxTbNXyl7htQDMk57tCGYFHqOzYyLJ-y0cjpPSPPYlrG7v6yV9aEne1hK4SW13zexC7ByqaW4DSyVl-AhhhUOP_bdKpoUPbRwE4TApOibp7v_EyOa-eKEEiZtQ_r_QdB8ndLSxpOOt6Oe8byERWLkkl_mYbNq6fEVecYfyo93VVZwK_t8L_7l/s270/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpn4t6q727gYZxmB3An7FHjsFRllJ1hAdRhUSx3lCGTE9AdA_Qq57ozCBL_1M7-ujJTYdFHjc5psLMQnmQmwlNjEzMZlFRf6USTWYo6UhvcsgjL23WJHcfbcGVWGWfoguw-yWjQkKrTfpiSS1T-5qhdBEetlYs_W-ZUqsl2hTPzZ4Z4BI3yWM4Slzc_wiB/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKdbklZlaln5M3zA6n-w01sW97kVypI-GfDyDetsqiNqQkZUElX2daUj916jwqRLbqox8XEELj8WEI0zz4rrHwUKpzg1wJ0VBBnu9tbyu9fx_4aFLWMMHQlS_PeKNuXSNDwpwWtFd519K8fyjhNx6Y1RNVqSKf4O5IbDHX5qqQCza89eBkrOQeSDgutBGG/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Y5wfqA1paU-2FQd7j3kOnGdNdhXKOo0OCoA7S9TqhOI5LpGZttFJa480NTuot9kqgVE1pnqNJTchgQ-aebUzStA3fDHcmbKXYrWYiFCGtKKbB1HeRldEoFiKJd0JF652teLtaydm-8b3wzuCdOROSsK1O-1-FTXJjT1neH0BIwjs3zXDo6CB5FMK36kc/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2IsxkZl_AsB0ThpdDsjqImFLXrhi2O9uRMpCeeFATqz1bDQm9sn6KwFeFSNplN3evQr7lPU_LBCmb89SF_wTwNMjfevDlbanftAy4gsUxAI-wHbl5WG5ItG-t7GjgyhqLHDrbogVtNAw_GKT07i0rKrQKRGwIZiOyg0TDf38UczO8PHpxuRS4EO61qf1J/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3tgHK8no-OKihlIVvg8-iv6BQm3TTePDIO1pb1wG6nm5UFK_Q7_bFMYUOuLG1TQxNjwehjdYTm1m1RvT7weLv6YA0mPomLmEQ7kOzLHJtlWVduQO2epO7BJ-Mu28GWBQvdsK7amT5Q5PtJ5hCknI1t5DP1B1Ywwhj5f1Sx_rxCxIq9Fu2MoT0RZOExNCQ/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzka_dk_1fbU_tJvpMWF9TNzv3QblJ-dGRop9vH3o25mLkAYSu23TVPmR8YOU8HnRr6svMgwewFJv_cQEOUXumTnz8uJ6mx4Mhs5C9Lozudqk3SmijDRqBiW8w3RJDOBOClJyxiY5QkGU8r1YWZI4wvSoIoWpU2pdMrCR2qViDb87KL7q-HPyaDUnXTdq/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoUnrzP7ra_XKhOeFq9Gh1iw4b6xJMWnZKXuiIfxbKNpzcbN-Qqx3onnG4RwhF0y1IpRQFVnZWU4RSawL_pmWDbBE6Xmj_2qqTWqhFhO2X6z0ecSYY0gtvQxI9VX2cNgn1ULc4i5O3gy_voand70OqlWiQfJo4vfb_NXARqAlFMkwwdOKZhHuzu4CkTCM/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblHaQA1vYy4G8Z-9X5sqAN6sJxuljmqlsj-9CKULpqE5xOCnsQwK0t4TUujqALiWdytdokiJr7sh84NMkoD9wFFojoi8URMnHW5lxFlGd-yBiOOpAtxgZoXjIcQAexTBB6TycJxsmdwabhgC1MYVmGAnAAqqrcB2XIRcAtjxh9bo7kBwJOGWEe-ot3MA6/s135/2543-AZKi-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47332/FEKG7zBiXS6TcYU5VvxQZnbe9fLhdCuw.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47332/K2jCPnwsNHF3cp7YBzfvd9bVREGALumr.jpg"
+    ]
+  },
+  "character_gender": null,
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/47332",
+      "price_local": 7500,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T11:52:29.373Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/47332",
+      "fetched_at": "2026-05-16T11:52:29.373Z",
+      "raw_id": "47332"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/47332",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "47332"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2543/",
+      "fetched_at": "2026-05-16T19:10:34.124Z",
+      "raw_id": "/nendoroid/details/n2543/"
+    }
+  ]
+}

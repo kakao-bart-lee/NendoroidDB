@@ -1,0 +1,99 @@
+{
+  "num": "1817",
+  "name": {
+    "en": "Nendoroid Monika",
+    "ja": "ねんどろいど モニカ (ねんどろいど もにか)",
+    "ko": "모니카"
+  },
+  "series": {
+    "en": "Doki Doki Literature Club!",
+    "ja": "ドキドキ文芸部!",
+    "ko": "두근두근 문예부!",
+    "code": "doki-doki-literature-club"
+  },
+  "category": "regular",
+  "nh_type": "Video Games",
+  "manufacturer": "Good Smile Company",
+  "sculptor": "Shichibee (Matsuda Model)",
+  "cooperation": "Nendoron",
+  "specs_text": {
+    "en": "Painted plastic non-scale articulated figure with stand included. Approximately 100mm in height.",
+    "ja": "プラスチック製 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm",
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6900,
+  "gtin": "4580828662971",
+  "gsc_product_id": "9995",
+  "gsc_product_num": 12307,
+  "gsc_product_url": {
+    "en": "https://www.goodsmile.com/en/product/9995",
+    "ja": "https://www.goodsmile.com/ja/product/9995"
+  },
+  "image": {
+    "primary": "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220202/12307/95038/large/b39b8008aad5f532fbe3c070a99443fb.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-Sv0oIPM2_zk/YhAE4w8DAGI/AAAAAAAA3lw/ZJwVNv_JKm0kj6IRa_tP73rV6GqY7D56wCNcBGAsYHQ/s270/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-mIAEbpcdQpY/YhAMWDclIOI/AAAAAAAA3w0/TmzznxdfbjgQkY4tzaplG1bmeYDs_F_9gCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-k6Qbj_Pfup4/YhAMWr2voXI/AAAAAAAA3w4/ZPhyMbFucNofr-NaT5zcPo0fl-kkCQVAQCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-eFxiuRDaNYk/YhAMW9tCsAI/AAAAAAAA3w8/9EId5EvSr1sWUmn04pGmycvELa-JJi-aACNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-IbCABZIjUBg/YhAMXINlQ-I/AAAAAAAA3xA/7JbleItUStMBshikZTD5W65sIifOwgZJACNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-tXjt9fxd5Bk/YhAMXvn3P8I/AAAAAAAA3xE/1jRA_lsbfhcUheFane0fDNLnclqMITrbACNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-Vd3KcAu_7Fc/YhAMYClzJJI/AAAAAAAA3xI/KRfWw3sH-agtLbkDl0YTjRhz8vR_ZakWQCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-JgymPCx-FZc/YhAMYpGGQII/AAAAAAAA3xM/jNyg0RVw42wUMtxSy2WkaOQPdl66oBj-gCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-ry5jHnV3cdw/YhAMVq_gFrI/AAAAAAAA3ws/xGyOZIp44BMKh5apMIDAXWdvV94WMRKQwCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-10.jpg",
+      "https://1.bp.blogspot.com/-cvCh3HZfbJ0/YhAMV4S7KFI/AAAAAAAA3ww/JOneR7Edlvs1nw7xwVjwT5-DMPUOW-NNgCNcBGAsYHQ/s135/1817-Monika-Doki-Doki-Literature-Club-Video-Games-Nendoroid-11.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220202/12307/95049/large/8b0a6a56777252b1ce6a5814d7110502.jpg",
+      "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20220202/12307/95038/large/b39b8008aad5f532fbe3c070a99443fb.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [
+    "Rerelease"
+  ],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [
+    {
+      "retailer": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9995",
+      "price_local": 6900,
+      "currency": "JPY",
+      "last_checked_at": "2026-05-16T12:06:59.511Z"
+    }
+  ],
+  "sources": [
+    {
+      "src": "gsc-global",
+      "url": "https://www.goodsmile.com/en/product/9995",
+      "fetched_at": "2026-05-16T12:06:59.511Z",
+      "raw_id": "9995"
+    },
+    {
+      "src": "gsc-search-list",
+      "url": "https://www.goodsmile.com/en/product/9995",
+      "fetched_at": "2026-05-16T11:26:59.945Z",
+      "raw_id": "9995"
+    },
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1817/",
+      "fetched_at": "2026-05-16T19:10:33.666Z",
+      "raw_id": "/nendoroid/details/n1817/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.758Z",
+      "raw_id": "Nendoroid/1800-1899/1817.json"
+    }
+  ]
+}

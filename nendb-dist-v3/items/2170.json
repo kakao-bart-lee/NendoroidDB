@@ -1,0 +1,68 @@
+{
+  "num": "2170",
+  "name": {
+    "en": "Nendoroid Homelander",
+    "ja": "ねんどろいど ホームランダー (ねんどろいど ほーむらんだー)",
+    "ko": "홈랜더"
+  },
+  "series": {
+    "en": "THE BOYS™",
+    "ja": "THE BOYS™",
+    "ko": "더 보이즈",
+    "code": "the-boystm"
+  },
+  "category": "regular",
+  "nh_type": "Movies & TV",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2023",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6800,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 14671,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-S-cKLBOP86E/ZM6ytRCECVI/AAAAAAABA8o/K7Gla0VkMQ4OJFvrb9SMndVtwaLQHn79ACNcBGAsYHQ/s270/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-S-cKLBOP86E/ZM6ytRCECVI/AAAAAAABA8o/K7Gla0VkMQ4OJFvrb9SMndVtwaLQHn79ACNcBGAsYHQ/s270/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-axYX4J1ADmM/ZNAV89XSrvI/AAAAAAABBBk/qPBgX3HK3lQz7uRv0Om6ia7jPI5Vbg8JACNcBGAsYHQ/s135/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-ohWkZD4j7r8/ZNAV9V4UhXI/AAAAAAABBBo/BSWO6JQjR3EBLJbNPPHyamKrzGbPErtAwCNcBGAsYHQ/s135/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-5p8Ery2MD2Q/ZNAV9pyVwfI/AAAAAAABBBs/pnvw_zZlvm0oaSIPN-PVnoPZ4z9uQWj9gCNcBGAsYHQ/s135/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-LEsRhni0f_k/ZNAV98XXtCI/AAAAAAABBBw/za0ITPJXWBEgJe4IWxEFGfoH0pDeVv-lgCNcBGAsYHQ/s135/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-8-LAbeF4g8c/ZNAV-HpSB7I/AAAAAAABBB0/YGTeF73URbYriqDhK3mdizNhrw4cnwuCwCNcBGAsYHQ/s135/2170-Homelander-The-Boys-Movies-and-TV-Nendoroid-7.jpg"
+    ]
+  },
+  "character_gender": "M",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n2170/",
+      "fetched_at": "2026-05-16T19:10:33.880Z",
+      "raw_id": "/nendoroid/details/n2170/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.844Z",
+      "raw_id": "Nendoroid/2100-2199/2170.json"
+    }
+  ]
+}

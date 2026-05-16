@@ -1,0 +1,67 @@
+{
+  "num": "0247",
+  "name": {
+    "en": "Nendoroid Gackpo Kamui (ねんどろいど かむいがくぽ)",
+    "ja": "ねんどろいど 神威がくぽ (ねんどろいど かむいがくぽ)",
+    "ko": "카무이 가쿠포"
+  },
+  "series": {
+    "en": "Virtual Vocalist Gackpoid",
+    "ja": "バーチャルボーカリスト がくっぽいど",
+    "ko": "보컬로이드(VOCALOID)",
+    "code": "virtual-vocalist-gackpoid"
+  },
+  "category": "regular",
+  "nh_type": "Vocaloid",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2012",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 3667,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 3546,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-iqQs45aNhl0/X4NLQ9J8NfI/AAAAAAABlYM/gyNTREm3DlMNXZ6Y9oeFKOholTQumHd9QCLcBGAsYHQ/s270/247-Kamui-Gakupo-Virtual-Vocalist-Gackpoid-Vocaloid-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-iqQs45aNhl0/X4NLQ9J8NfI/AAAAAAABlYM/gyNTREm3DlMNXZ6Y9oeFKOholTQumHd9QCLcBGAsYHQ/s270/247-Kamui-Gakupo-Virtual-Vocalist-Gackpoid-Vocaloid-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-H5_VJ7pNxSQ/X4dXrR4E85I/AAAAAAAAqgo/dhXks1Ty6ls5UMFp3ayl7hKjvhzOCln4QCLcBGAsYHQ/s135/247-Gackpo-Kamui-Vocaloid-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-M2KVoqv-fFU/X4dXr24MB0I/AAAAAAAAqgs/SgOcUsvhwW0CeAb-7_V64c9yXUB9bKjlwCLcBGAsYHQ/s135/247-Gackpo-Kamui-Vocaloid-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-RJd7q3Xy4aM/X4dXsRk0WsI/AAAAAAAAqgw/teN-i1b0AvwbqF0-xbIyld6H2cwsEVqsACLcBGAsYHQ/s135/247-Gackpo-Kamui-Vocaloid-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-dq7EC6-S1G8/X4dXsrcY1II/AAAAAAAAqg0/S3IQXGMbhPYGfHqre5GXDOsdnx0sIdvsQCLcBGAsYHQ/s135/247-Gackpo-Kamui-Vocaloid-Nendoroid-6.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n247/",
+      "fetched_at": "2026-05-16T19:10:34.085Z",
+      "raw_id": "/nendoroid/details/n247/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.332Z",
+      "raw_id": "Nendoroid/0200-0299/247.json"
+    }
+  ]
+}

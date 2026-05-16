@@ -1,0 +1,71 @@
+{
+  "num": "1798",
+  "name": {
+    "en": "Nendoroid Oozora Subaru",
+    "ja": "ねんどろいど 大空スバル (ねんどろいど おおぞらすばる)",
+    "ko": "오오조라 스바루"
+  },
+  "series": {
+    "en": "hololive production",
+    "ja": "ホロライブプロダクション",
+    "ko": "홀로라이브",
+    "code": "hololive-production"
+  },
+  "category": "regular",
+  "nh_type": "Virtual Youtuber",
+  "manufacturer": "Good Smile Company",
+  "sculptor": null,
+  "cooperation": null,
+  "specs_text": {
+    "en": null,
+    "ja": null,
+    "ko": null
+  },
+  "release_date": [
+    {
+      "date": "2022",
+      "status": "released"
+    }
+  ],
+  "preorder": null,
+  "availability": null,
+  "price_jpy": 6500,
+  "gtin": null,
+  "gsc_product_id": null,
+  "gsc_product_num": 12258,
+  "gsc_product_url": null,
+  "image": {
+    "primary": "https://1.bp.blogspot.com/-1eT1S2s6mZY/YhAEzevm7hI/AAAAAAAA3ks/jYCZR8EaBaIkK6y-9qmDcNYb_Gr76SKcwCNcBGAsYHQ/s270/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+    "gallery": [
+      "https://1.bp.blogspot.com/-1eT1S2s6mZY/YhAEzevm7hI/AAAAAAAA3ks/jYCZR8EaBaIkK6y-9qmDcNYb_Gr76SKcwCNcBGAsYHQ/s270/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-1.jpg",
+      "https://1.bp.blogspot.com/-IYIs-Jen61A/YhAL2_g3KiI/AAAAAAAA3pY/WdHQHBk4BbgOtgdPsrr2PJ1WqEadkk8MACNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-3.jpg",
+      "https://1.bp.blogspot.com/-gJDnwHICHAc/YhAL3G8_XqI/AAAAAAAA3pc/-XD3DLXDKHQiWxjRqnolBRGIBDTMIcptgCNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-4.jpg",
+      "https://1.bp.blogspot.com/-6t-3TUUT3ng/YhAL3AJ9jVI/AAAAAAAA3pg/pkCSX0nbkX8SYR3hLZzlTELiHAFAUfDLACNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-5.jpg",
+      "https://1.bp.blogspot.com/-Ga_uJbfdagU/YhAL3bcxwvI/AAAAAAAA3pk/UdbVvYbY4SkAiM2DC_GXFFOCLUb9w_0OQCNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-6.jpg",
+      "https://1.bp.blogspot.com/-k0panjjGyKQ/YhAL3oYrK7I/AAAAAAAA3po/VLXt7absLIUoIjL7cNPDQeLKLY0_67sIQCNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-7.jpg",
+      "https://1.bp.blogspot.com/-6GaxP4NkS-4/YhAL31Xza5I/AAAAAAAA3ps/L62UMshJCq8UAuRFYQYTOb2w6U6hhCavACNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-8.jpg",
+      "https://1.bp.blogspot.com/-UylyiWFJZcM/YhAL4Xnv14I/AAAAAAAA3pw/CtI25PaFDpAtT-9KeW7zyKy8WZNRTdwvQCNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-9.jpg",
+      "https://1.bp.blogspot.com/-6N92nr-FmcQ/YhAL2YNRxVI/AAAAAAAA3pU/fuLbUoc5g2kS_-nJktecQDotwzMbSNXPQCNcBGAsYHQ/s135/1798-Oozora-Subaru-Hololive-Production-Virtual-Youtuber-Nendoroid-10.jpg"
+    ]
+  },
+  "character_gender": "F",
+  "tags": [],
+  "flag_labels": [],
+  "variant_group_id": null,
+  "variant_label": null,
+  "accessories": [],
+  "retailers": [],
+  "sources": [
+    {
+      "src": "nendoroid-heaven",
+      "url": "https://nendoroid-heaven.com/nendoroid/details/n1798/",
+      "fetched_at": "2026-05-16T19:10:33.654Z",
+      "raw_id": "/nendoroid/details/n1798/"
+    },
+    {
+      "src": "NendoroidDB",
+      "fetched_at": "2026-05-16T19:10:32.753Z",
+      "raw_id": "Nendoroid/1700-1799/1798.json"
+    }
+  ]
+}
